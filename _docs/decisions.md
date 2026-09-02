@@ -59,3 +59,30 @@ another test, or to the worktree's real `DATABASE_URL`.
 Tests that never request `db_session` open no database connection at all,
 so collecting the suite - and CI's `TEST_COUNTS` gate - never needs
 Postgres up.
+
+## 3. Fase 1 corpus size: 21 videos, not 30 - authorized reduction, not a bug fix
+
+QA FAILed Issue #1 correctly: `corpus/zenn0009/manifesto.csv` did not exist
+(0 rows vs. the 30 the issue's gate requires), because `collect()` only
+writes the manifest after every selected video succeeds, and video 22/30
+hit a real YouTube per-IP rate limit (`IpBlocked`) that did not clear during
+the run - exactly the risk `_docs/blueprint.md` names ("~100-200 req/hora
+por IP"). 21 real raw+clean transcript pairs are committed and correct.
+
+The project owner authorized proceeding with the 21 videos actually
+collected instead of blocking on all 30. This is a scope call, not
+something QA or the Engineer may decide alone.
+
+What changes: `collect()` writes `manifesto.csv` for however many videos it
+successfully fetched, not only when all 30 succeed. The Fase 1 gate for
+*this* corpus is "manifesto has a row per successfully collected video, none
+below 60% of expected word count" - the fixed "30" in
+`_docs/plano_implementacao.md` and in Issue #1's acceptance criteria is
+superseded by this entry for `@Zenn0009`.
+
+Consequence flagged, not solved here: Fase 4/5 of `_docs/plano_implementacao.md`
+assume a 30-video corpus (5 gold + 25 batch-annotated). Whoever grooms the
+Fase 4 issue re-derives that split from the actual corpus size at the time
+(`corpus/zenn0009/manifesto.csv` row count), not from the plan's literal
+numbers. If the IP block clears later and someone reruns collection to grow
+the corpus toward 30, that is additive and fine; nothing here forbids it.
