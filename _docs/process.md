@@ -197,6 +197,17 @@ espera aprovacao humana. Entao depois de um rebase o engineer para de fazer
 push e diz isso; o orchestrator mergeia e empurra a main, e a main carrega o
 trabalho. Ninguem force-pusha para consertar o branch.
 
+Rebase e acao exclusiva do orchestrator - nunca vai numa instrucao de tarefa
+pro engineer, nem "so pra pegar uma decisao nova da main". Se um engineer
+precisa enxergar algo que acabou de entrar na main (ex.: uma entrada nova em
+`_docs/decisions.md`), cole o conteudo direto no contexto da tarefa dele. Um
+engineer instruido a rebasear a propria branch cai exatamente no caso da
+regra acima - historico diverge, push vira force-push - e `_docs/team/
+software-engineer.md` proibe force-push sem excecao, entao ele fica preso
+entre a instrucao e a propria regra. Aconteceu uma vez (Issue #1, retry):
+o orchestrator mandou `git rebase origin/main`, o SWE seguiu, forcou o push
+pra resolver. Nao repita.
+
 Conflitos se concentram em poucos arquivos compartilhados -
 `schema/ontologia.v1.json`, `schema/codebook.md`, `src/db.py`,
 `migrations/` (a cadeia de revisoes do Alembic, se duas issues da mesma
