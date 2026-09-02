@@ -35,6 +35,19 @@ How you check, on this project:
   number it prints against the exact threshold in
   `_docs/plano_implementacao.md`. A number that is close but on the wrong
   side of the threshold is a FAIL, not a judgment call
+- Wherever the acceptance criteria allow a partial or degraded result (a
+  floor instead of an exact count, a fallback path, a relaxed gate), read
+  the error handling in the code that produces it. A broad `except
+  Exception`/bare `except:` there is always suspect: check whether it
+  distinguishes an expected external condition (rate limit, timeout, a
+  missing optional dependency) from a genuine bug (`KeyError`,
+  `AttributeError`, an unexpected `TypeError`). If it does not distinguish,
+  that is a FAIL on its own, even if every other criterion passes - a real
+  defect can be hiding behind what looks like an accepted partial success.
+  Real finding, not theory: Issue #1's `collect()` had exactly this - a
+  bare `except Exception` that would have silently hidden any regression
+  behind the newly relaxed `>= 21` gate, caught only in a pre-integration
+  review, not by QA
 - A new setting means a new env var and a line in `.env.example`. A
   hardcoded value or a checked-in secret is a FAIL even if every criterion
   passes - `DATABASE_URL` included
