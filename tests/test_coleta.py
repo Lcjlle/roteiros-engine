@@ -7,6 +7,7 @@ os mais recentes), o fallback legenda->yt-dlp->whisperX, e a limpeza
 minima.
 """
 
+import subprocess
 from datetime import UTC, datetime, timedelta
 
 import pytest
@@ -424,3 +425,97 @@ class TestCollect:
 
         assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
         assert len(coleta.read_manifesto(manifest_path)) == 3
+
+    def test_propagates_unexpected_exception_instead_of_writing_partial_manifest(
+        self, monkeypatch, tmp_path
+    ):
+        # Um RuntimeError generico aqui nao e "sem legenda" nem "IP
+        # bloqueado" - e um bug real (ex: KeyError/AttributeError de uma
+        # regressao futura). collect() nao pode engolir isso: tem que
+        # subir e o manifesto parcial nao pode ser escrito como se fosse
+        # um stop esperado, porque isso faria check_gate() passar com
+        # >= 21 linhas e esconder o defeito.
+        videos = [_video(f"v{i}", duration=500) for i in range(5)]
+        monkeypatch.setattr(coleta, "list_channel_videos", lambda channel_url: videos)
+        monkeypatch.setattr(coleta, "select_videos", lambda vids, target, now=None: vids[:target])
+
+        def fake_collect_transcript(video_id):
+            if video_id == "v3":
+                raise RuntimeError("bug de verdade, nao um stop esperado")
+            return [{"start": 0, "duration": 1, "text": "oi tudo bem"}], "youtube_transcript_api"
+
+        monkeypatch.setattr(coleta, "collect_transcript", fake_collect_transcript)
+
+        manifest_path = tmp_path / "manifesto.csv"
+        raw_dir = tmp_path / "raw"
+
+        with pytest.raises(RuntimeError, match="bug de verdade"):
+            coleta.collect(target=5, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0)
+
+        assert not manifest_path.exists()
+
+    def test_still_stops_gracefully_on_whisperx_unavailable(self, monkeypatch, tmp_path):
+        # WhisperXUnavailable e a falha externa conhecida (dependencia
+        # ausente/audio nao baixado, ver fetch_via_whisperx) - continua
+        # sendo tratada como stop esperado, so o RuntimeError generico e
+        # que passou a subir.
+        videos = [_video(f"v{i}", duration=500) for i in range(5)]
+        monkeypatch.setattr(coleta, "list_channel_videos", lambda channel_url: videos)
+        monkeypatch.setattr(coleta, "select_videos", lambda vids, target, now=None: vids[:target])
+
+        def fake_collect_transcript(video_id):
+            if video_id == "v3":
+                raise coleta.WhisperXUnavailable("whisperX nao instalado")
+            return [{"start": 0, "duration": 1, "text": "oi tudo bem"}], "youtube_transcript_api"
+
+        monkeypatch.setattr(coleta, "collect_transcript", fake_collect_transcript)
+
+        manifest_path = tmp_path / "manifesto.csv"
+        raw_dir = tmp_path / "raw"
+
+        rows = coleta.collect(
+            target=5, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0
+        )
+
+        assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
+        assert manifest_path.exists()
+
+    def test_still_stops_gracefully_on_subprocess_called_process_error(self, monkeypatch, tmp_path):
+        videos = [_video(f"v{i}", duration=500) for i in range(5)]
+        monkeypatch.setattr(coleta, "list_channel_videos", lambda channel_url: videos)
+        monkeypatch.setattr(coleta, "select_videos", lambda vids, target, now=None: vids[:target])
+
+        def fake_collect_transcript(video_id):
+            if video_id == "v3":
+                raise subprocess.CalledProcessError(1, ["yt-dlp"])
+            return [{"start": 0, "duration": 1, "text": "oi tudo bem"}], "youtube_transcript_api"
+
+        monkeypatch.setattr(coleta, "collect_transcript", fake_collect_transcript)
+
+        manifest_path = tmp_path / "manifesto.csv"
+        raw_dir = tmp_path / "raw"
+
+        rows = coleta.collect(
+            target=5, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0
+        )
+
+        assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
+        assert manifest_path.exists()
+
+    def test_propagates_unrelated_bug_exception_type_too(self, monkeypatch, tmp_path):
+        # Mesma garantia, tipo diferente: TypeError tambem nao esta na
+        # lista de "parar aqui e esperado" e tem que subir.
+        videos = [_video(f"v{i}", duration=500) for i in range(2)]
+        monkeypatch.setattr(coleta, "list_channel_videos", lambda channel_url: videos)
+        monkeypatch.setattr(coleta, "select_videos", lambda vids, target, now=None: vids[:target])
+
+        def fake_collect_transcript(video_id):
+            raise TypeError("regressao de verdade")
+
+        monkeypatch.setattr(coleta, "collect_transcript", fake_collect_transcript)
+
+        manifest_path = tmp_path / "manifesto.csv"
+        raw_dir = tmp_path / "raw"
+
+        with pytest.raises(TypeError, match="regressao de verdade"):
+            coleta.collect(target=2, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0)
