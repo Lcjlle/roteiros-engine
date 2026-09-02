@@ -96,7 +96,7 @@ esconde silenciosamente o `.env` de toda worktree e coloca todas de volta no
 mesmo banco.
 
 A guarda contra isso: rode comandos com o banco nomeado explicitamente -
-`DATABASE_URL=postgresql+psycopg://postgres:postgres@localhost:5432/roteiros_wt<issue> uv run pytest`
+`DATABASE_URL=postgresql+psycopg://postgres:postgres@localhost:5433/roteiros_wt<issue> uv run pytest`
 - e confirme antes de um agente comecar, nao depois de reportar uma falha
 misteriosa: `uv run python -c "import os; print(os.environ['DATABASE_URL'])"`
 precisa imprimir o banco da propria worktree.

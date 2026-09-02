@@ -14,9 +14,11 @@ services:
       POSTGRES_PASSWORD: postgres
       POSTGRES_DB: roteiros
     ports:
-      # Exposed so `uv run pytest` and `uv run alembic upgrade head` also
-      # work from the host, outside any container.
-      - "5432:5432"
+      # 5433, nao 5432 - a maquina ja roda outro Postgres nessa porta
+      # (outro projeto). Exposto pra `uv run pytest` e
+      # `uv run alembic upgrade head` tambem funcionarem do host, fora de
+      # qualquer container.
+      - "5433:5432"
     volumes:
       - pgdata:/var/lib/postgresql
     healthcheck:
