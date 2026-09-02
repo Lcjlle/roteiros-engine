@@ -75,10 +75,13 @@ something QA or the Engineer may decide alone.
 
 What changes: `collect()` writes `manifesto.csv` for however many videos it
 successfully fetched, not only when all 30 succeed. The Fase 1 gate for
-*this* corpus is "manifesto has a row per successfully collected video, none
-below 60% of expected word count" - the fixed "30" in
+*this* corpus is **>= 21 rows** (the count already verified real and
+committed - not a floor of 1, and not "whatever collect() happens to
+produce"), none below 60% of expected word count. A run that produces fewer
+than 21 rows is a FAIL, even under this relaxed gate - the waiver covers
+"not all 30", not "any number". The fixed "30" in
 `_docs/plano_implementacao.md` and in Issue #1's acceptance criteria is
-superseded by this entry for `@Zenn0009`.
+superseded by this entry for `@Zenn0009`, specifically by ">= 21".
 
 Consequence flagged, not solved here: Fase 4/5 of `_docs/plano_implementacao.md`
 assume a 30-video corpus (5 gold + 25 batch-annotated). Whoever grooms the
