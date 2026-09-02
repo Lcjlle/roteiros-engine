@@ -36,6 +36,11 @@ Rules
   `perfis/`. `_docs/blueprint.md` ainda descreve o raciocinio original
   "arquivo em vez de banco"; a decisao que o superpoe esta em
   `_docs/decisions.md`.
+- Um teste que precisa do banco pede a fixture `db_session`
+  (`tests/conftest.py`). Roda numa `<banco>_test` propria, dentro de uma
+  transacao com rollback no fim - nunca escreve no banco de desenvolvimento
+  da worktree, nunca deixa estado pro proximo teste. Ver
+  `_docs/decisions.md#2`.
 - Dependencias sao fixadas exatamente em `pyproject.toml` (`==`, nao `>=`).
   Nao adicionar uma sem perguntar - ver a licenca em `_docs/blueprint.md`
   antes de trazer qualquer biblioteca nova para dentro do projeto.

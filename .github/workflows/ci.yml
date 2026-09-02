@@ -52,10 +52,9 @@ jobs:
       # the gates below: one line per test file, `basename count`, the
       # number of tests that file contributes to a collection. Regenerate
       # with the command in AGENTS.md's CI section, and commit it in the
-      # same change that touched the suite. Empty until the first test file
-      # exists.
+      # same change that touched the suite.
       TEST_COUNTS: |
-
+        test_db_isolation.py 2
     steps:
       - uses: actions/checkout@v7
 

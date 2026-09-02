@@ -101,10 +101,10 @@ A guarda contra isso: rode comandos com o banco nomeado explicitamente -
 misteriosa: `uv run python -c "import os; print(os.environ['DATABASE_URL'])"`
 precisa imprimir o banco da propria worktree.
 
-Estrategia de isolamento de teste (banco de desenvolvimento e banco de teste
-separados, ou transacao por teste com rollback) ainda nao foi decidida - vai
-entrar em `_docs/decisions.md` quando a primeira issue que adiciona modelo
-de banco for groomada, nao antes.
+Isolamento de teste: `tests/conftest.py` cria `<banco>_test` a partir de
+`DATABASE_URL` e roda cada teste numa transacao com rollback - ver
+`_docs/decisions.md#2`. Um teste que usa `db_session` nunca deixa estado
+visivel pro proximo teste nem pro banco de desenvolvimento da worktree.
 
 Uma suite por vez dentro de uma worktree. O banco e por worktree, nao por
 processo, entao dois runs de `pytest` comecados juntos na mesma worktree
