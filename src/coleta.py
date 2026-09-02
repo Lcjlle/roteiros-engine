@@ -25,7 +25,11 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api._errors import NoTranscriptFound, TranscriptsDisabled
+from youtube_transcript_api._errors import (
+    CouldNotRetrieveTranscript,
+    NoTranscriptFound,
+    TranscriptsDisabled,
+)
 
 CHANNEL_URL = "https://www.youtube.com/@Zenn0009/videos"
 CORPUS_DIR = Path("corpus/zenn0009")
@@ -196,6 +200,16 @@ def fetch_via_ytdlp_subs(video_id: str, lang: str = "en.*") -> list[dict] | None
     return _parse_json3(data)
 
 
+class WhisperXUnavailable(RuntimeError):
+    """whisperX ausente ou audio nao baixado - falha externa esperada
+    (dependencia opcional nao instalada, download de audio falhou), nao um
+    bug de codigo. Subclasse de `RuntimeError` de proposito estreito: so
+    esses dois casos especificos usam essa classe, entao `collect()` pode
+    capturar exatamente isso sem tambem engolir um `RuntimeError` generico
+    vindo de um bug real em outro lugar do pipeline.
+    """
+
+
 def fetch_via_whisperx(
     video_id: str, device: str = "cpu", compute_type: str = "int8"
 ) -> list[dict]:
@@ -206,7 +220,7 @@ def fetch_via_whisperx(
     try:
         import whisperx
     except ImportError as exc:
-        raise RuntimeError(
+        raise WhisperXUnavailable(
             "whisperX nao esta instalado. So deve ser adicionado quando um "
             "video realmente nao tem legenda (`uv add whisperx==<versao>`, "
             "ver _docs/blueprint.md para a licenca) - nao roda por padrao."
@@ -226,7 +240,7 @@ def fetch_via_whisperx(
         subprocess.run(cmd, capture_output=True, text=True, check=True)
         matches = list(Path(tmp).glob(f"{video_id}*.wav"))
         if not matches:
-            raise RuntimeError(f"whisperX: audio nao baixado para {video_id}")
+            raise WhisperXUnavailable(f"whisperX: audio nao baixado para {video_id}")
 
         model = whisperx.load_model("large-v2", device, compute_type=compute_type)
         audio = whisperx.load_audio(str(matches[0]))
@@ -400,6 +414,21 @@ def collect(
     sleep_seconds: float = SLEEP_SECONDS,
     now: datetime | None = None,
 ) -> list[dict]:
+    """Roda o pipeline completo e escreve o manifesto parcial se um video
+    estourar um erro esperado no meio do caminho.
+
+    So `CouldNotRetrieveTranscript` (a base de `youtube_transcript_api`,
+    cobre `IpBlocked`, `VideoUnavailable`, etc. - `TranscriptsDisabled`/
+    `NoTranscriptFound` ja viram fallback dentro de
+    `fetch_via_transcript_api` e nunca chegam aqui), `WhisperXUnavailable`
+    (as duas falhas conhecidas do whisperX - dependencia ausente, audio
+    nao baixado) e `subprocess.CalledProcessError` (o download de audio do
+    whisperX roda com `check=True`) contam como "parar aqui e esperado" e
+    interrompem o loop preservando o que ja foi coletado. Um `RuntimeError`
+    generico (nao a subclasse `WhisperXUnavailable`) e qualquer outra
+    excecao sao bugs reais e tem que subir - nao viram "coleta parcial"
+    silenciosa.
+    """
     raw_dir.mkdir(parents=True, exist_ok=True)
 
     videos = list_channel_videos(channel_url)
@@ -412,7 +441,11 @@ def collect(
 
         try:
             fragments, source = collect_transcript(video["id"])
-        except Exception as exc:
+        except (
+            CouldNotRetrieveTranscript,
+            WhisperXUnavailable,
+            subprocess.CalledProcessError,
+        ) as exc:
             print(
                 f"coleta interrompida em {video['id']} "
                 f"({i + 1}/{len(selected)} tentados, {len(rows)} coletados): {exc}"
