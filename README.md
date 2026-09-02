@@ -176,7 +176,7 @@ roteiro-engine/
 
 ## Decisões de projeto
 
-**Por que arquivo em vez de banco.** O corpus é pequeno (dezenas de vídeos) e o valor de poder abrir qualquer etapa num editor de texto supera a conveniência de query. Versionado em git, o histórico do `schema/` explica por que cada categoria existe.
+**Por que arquivo em vez de banco (parcialmente superado — ver `_docs/decisions.md#1`).** O corpus é pequeno (dezenas de vídeos) e o valor de poder abrir qualquer etapa num editor de texto supera a conveniência de query. Versionado em git, o histórico do `schema/` explica por que cada categoria existe. `schema/`, `codebook.md` e `perfis/<canal>.perfil.json` continuam arquivo por esse motivo. O estado operacional do pipeline (manifesto de corpus, anotações por bloco, runs de concordância e de geração) passou a viver em Postgres (`src/db.py`, `migrations/`) — a razão está registrada em `_docs/decisions.md`, não aqui.
 
 **Por que o esquema é a fonte da verdade.** Prompt, codebook e código leem `ontologia.v1.json`. Nada de listas duplicadas em prosa dentro de um prompt — é exatamente assim que os sistemas divergem de si mesmos com o tempo.
 

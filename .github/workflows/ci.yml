@@ -25,7 +25,25 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
+    services:
+      postgres:
+        image: postgres:18
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: roteiros_ci
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres -d roteiros_ci"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 12
+
     env:
+      # A real environment variable, no dotenv file in this job -
+      # src/db.py's load_dotenv() never overrides one already set.
+      DATABASE_URL: postgresql+psycopg://postgres:postgres@localhost:5432/roteiros_ci
       # Every `uv run` below works from the committed lock file instead of
       # re-resolving against the index.
       UV_FROZEN: "1"
@@ -48,6 +66,12 @@ jobs:
 
       - name: uv sync
         run: uv sync --locked
+
+      - name: alembic upgrade head
+        run: uv run alembic upgrade head
+
+      - name: alembic check
+        run: uv run alembic check
 
       - name: ruff check
         run: uv run ruff check .

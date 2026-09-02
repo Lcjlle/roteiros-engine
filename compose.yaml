@@ -1,0 +1,29 @@
+name: roteiros-engine
+
+services:
+  db:
+    image: postgres:18
+    # One container serves every git worktree the squad opens (one database
+    # per worktree, see _docs/process.md), so raising this is cheaper than
+    # chasing "FATAL: sorry, too many clients already" showing up as an
+    # unrelated-looking test failure once a few agents run suites in
+    # parallel.
+    command: ["postgres", "-c", "max_connections=300"]
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: roteiros
+    ports:
+      # Exposed so `uv run pytest` and `uv run alembic upgrade head` also
+      # work from the host, outside any container.
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d roteiros"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+volumes:
+  pgdata:

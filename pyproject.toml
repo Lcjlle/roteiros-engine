@@ -3,7 +3,12 @@ name = "roteiros-engine"
 version = "0.1.0"
 description = "Sistema de producao de roteiros de YouTube por perfil estruturado de canal"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "alembic==1.19.1",
+    "psycopg[binary]==3.3.5",
+    "python-dotenv==1.2.3",
+    "sqlalchemy==2.0.52",
+]
 
 [dependency-groups]
 dev = [

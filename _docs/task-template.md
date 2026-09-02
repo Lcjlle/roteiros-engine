@@ -19,6 +19,8 @@ One or two sentences on what should be true when this is done.
 
 - Files this should stay inside
 - Libraries it may not add, patterns it must follow
-- Shared files this touches (`schema/`, `AGENTS.md`, `.env.example`,
-  `_docs/decisions.md`) - name them so the orchestrator can keep the wave
-  from colliding on them
+- Shared files this touches (`schema/`, `src/db.py`, `AGENTS.md`,
+  `.env.example`, `_docs/decisions.md`) - name them so the orchestrator can
+  keep the wave from colliding on them
+- Tables this adds or changes, if any - so the orchestrator can keep two
+  issues in the same wave from migrating the same table

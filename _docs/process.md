@@ -55,11 +55,12 @@ Uma issue so entra numa onda quando todas estas condicoes valem:
 - O portao da fase anterior em `_docs/plano_implementacao.md` passou (nao so
   "a issue anterior fechou" - o numero do portao foi medido e ficou dentro
   do limite)
+- Nenhuma outra issue da mesma onda adiciona migration na mesma tabela
 - Nenhuma outra issue da mesma onda escreve no mesmo arquivo ou diretorio
   sob `corpus/<canal>/`, `gold/<canal>/`, `perfis/`, ou `schema/` para o
   mesmo canal
-- O orchestrator leu a secao Constraints da issue e sabe quais arquivos
-  compartilhados ela toca
+- O orchestrator leu a secao Constraints da issue e sabe quais arquivos e
+  tabelas compartilhados ela toca
 
 Tudo o mais espera a proxima onda. Uma onda e frequentemente menor que 5
 porque o backlog fica sem trabalho independente, nao porque o limite foi
@@ -76,21 +77,40 @@ Cada worktree e um checkout completo e precisa da propria preparacao antes de
 um agente tocar nela:
 
 - `uv sync` - a worktree tem seu proprio `.venv`
-- `.env` copiado do checkout principal, se existir (chaves de API - o
-  sistema nao tem banco de dados, entao nao ha nome de banco por worktree
-  para ajustar, diferente de um projeto Django)
+- `.env` copiado do checkout principal, com `DATABASE_URL` apontado para um
+  banco proprio, `roteiros_wt<issue>`
+- `CREATE DATABASE roteiros_wt<issue>` dentro do container Postgres. Se o
+  nome ja estiver em uso, escolha um novo em vez de derrubar o existente
+- `uv run alembic upgrade head` contra esse banco, antes de qualquer teste
 
-Nao ha banco por worktree porque nao ha banco. O que existe em seu lugar sao
-arquivos versionados sob `corpus/`, `gold/`, `perfis/`, `schema/` - a regra
-de colisao de onda acima (nenhuma outra issue da mesma onda escreve no mesmo
-caminho) faz o papel que "nenhuma outra issue adiciona migration no mesmo
-app" faz num projeto com banco.
+A parte do banco nao e opcional. `.env` esta no `.gitignore` e `src/db.py`
+le `DATABASE_URL` de la (via `load_dotenv()`), entao cada worktree fica com
+seu proprio banco. Duas worktrees compartilhando um `DATABASE_URL` derrubam
+dados uma da outra no meio de um run, e as falhas parecem bugs impossiveis
+no codigo em vez do que realmente sao.
 
-Uma suite por vez dentro de uma worktree. Nada aqui e compartilhado entre
-processos, mas um `pytest` que ainda esta escrevendo em `saidas/` ou
-`corpus/segmentado/` quando um segundo comeca na mesma worktree produz um
-resultado que parece uma regressao e nao e. Um run que falha de forma
-estranha e repetido sozinho antes de ser acreditado.
+Ha uma pegadinha que vale saber. Uma variavel de ambiente real vence o
+`load_dotenv()`, por design - e isso que permite a CI nao carregar `.env`
+nenhum. Entao se o terminal que abriu a sessao exporta `DATABASE_URL`, isso
+esconde silenciosamente o `.env` de toda worktree e coloca todas de volta no
+mesmo banco.
+
+A guarda contra isso: rode comandos com o banco nomeado explicitamente -
+`DATABASE_URL=postgresql+psycopg://postgres:postgres@localhost:5432/roteiros_wt<issue> uv run pytest`
+- e confirme antes de um agente comecar, nao depois de reportar uma falha
+misteriosa: `uv run python -c "import os; print(os.environ['DATABASE_URL'])"`
+precisa imprimir o banco da propria worktree.
+
+Estrategia de isolamento de teste (banco de desenvolvimento e banco de teste
+separados, ou transacao por teste com rollback) ainda nao foi decidida - vai
+entrar em `_docs/decisions.md` quando a primeira issue que adiciona modelo
+de banco for groomada, nao antes.
+
+Uma suite por vez dentro de uma worktree. O banco e por worktree, nao por
+processo, entao dois runs de `pytest` comecados juntos na mesma worktree
+disputam o mesmo banco por baixo um do outro. Isso produz uma dispersao de
+falhas que parece uma regressao real e nao e - repita sozinho antes de
+acreditar num run que falhou de forma estranha.
 
 O mesmo vale para qualquer coisa lenta - um script de anotacao em lote
 rodando 1.350 chamadas de LLM (Fase 5), uma transcricao com `whisperX`, um
@@ -98,10 +118,27 @@ run de CI. Faca polling com um teto, e se nunca chegar, diga isso.
 "Nao terminou em dois minutos" e um achado, e muitas vezes um FAIL. Silencio
 nao e.
 
-Um agente por worktree por vez. Um engineer ainda terminando numa worktree e
-um QA comecando na mesma worktree pisam nos mesmos arquivos gerados
-(`saidas/`, `corpus/anotado/`). Um implementador commita, faz push, e so
-depois o orchestrator aponta um QA para essa worktree.
+Nunca `pkill -f pytest` para limpar. Cada worktree roda sua propria suite
+contra seu proprio banco, entao esse padrao alcanca o run de outro agente e
+mata no meio de um teste - a vitima entao reporta uma suite abortada que
+parece um branch quebrado e nao e. Mate um job de fundo pelo id que a
+ferramenta deu, ou deixe terminar.
+
+Um agente por worktree por vez. O banco e isolado por worktree, nao por
+agente, entao um engineer ainda terminando numa worktree e um QA comecando
+na mesma worktree compartilham um banco e derrubam dados um do outro. Um
+implementador commita, faz push, e so depois o orchestrator aponta um QA
+para essa worktree.
+
+Isso vale para o orchestrator tambem. Uma suite morta por rodar muito tempo
+nao necessariamente para - o processo `pytest` filho pode sobreviver ao
+comando que o lancou, ainda segurando o banco. Comecar um segundo run entao
+e a mesma auto-colisao. Antes de comecar um run numa worktree, confirme que
+nao ha `pytest` vivo nela (`pgrep -af pytest`); uma falha em massa estranha
+e repetida uma vez, sozinha e limpa, antes de ser acreditada.
+
+Postgres em si fica um container unico. Bancos dentro dele sao baratos; um
+segundo container nao e.
 
 Uma worktree mergeada fica onde esta. Reuse-a para a proxima issue que cair
 na mesma area, ou deixe-a parada.
@@ -161,7 +198,9 @@ push e diz isso; o orchestrator mergeia e empurra a main, e a main carrega o
 trabalho. Ninguem force-pusha para consertar o branch.
 
 Conflitos se concentram em poucos arquivos compartilhados -
-`schema/ontologia.v1.json`, `schema/codebook.md`, `AGENTS.md`,
+`schema/ontologia.v1.json`, `schema/codebook.md`, `src/db.py`,
+`migrations/` (a cadeia de revisoes do Alembic, se duas issues da mesma
+onda gerarem migration - ver a condicao de entrada em onda acima), `AGENTS.md`,
 `.env.example`, `_docs/decisions.md`. O orchestrator resolve na integracao.
 
 

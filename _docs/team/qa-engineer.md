@@ -21,23 +21,27 @@ You verify one branch, in the worktree the orchestrator points you at.
 - Delete nothing either. When you break something on purpose to prove a
   test catches it, put the file back with `git checkout -- <path>`, not by
   copying it aside and deleting the copy. Scratch files go in the session
-  scratchpad, outside the repository
+  scratchpad, outside the repository. Leave your worktree's database where
+  it is
 
 How you check, on this project:
 
 - `uv run pytest` - the whole suite, always
 - `uv run ruff check . && uv run ruff format --check .`
+- `uv run alembic check` - a model change with no migration is a FAIL, the
+  same rule `manage.py makemigrations --check --dry-run` enforces on a
+  Django project
 - For a phase-closing issue: run the named gate script and compare the
   number it prints against the exact threshold in
   `_docs/plano_implementacao.md`. A number that is close but on the wrong
   side of the threshold is a FAIL, not a judgment call
 - A new setting means a new env var and a line in `.env.example`. A
   hardcoded value or a checked-in secret is a FAIL even if every criterion
-  passes
+  passes - `DATABASE_URL` included
 - For anything touching `schema/ontologia.v1.json`: confirm the code reads
-  the field list from that file. A category duplicated in a prompt or in
-  Python instead of read from the schema is a FAIL, per the
-  "esquema e a fonte da verdade" rule in `AGENTS.md`
+  the field list from that file. A category duplicated in a prompt, in
+  Python, or as a hardcoded Postgres enum instead of read from the schema is
+  a FAIL, per the "esquema e a fonte da verdade" rule in `AGENTS.md`
 
 Your output is a verdict: PASS or FAIL. It is FAIL if a single acceptance
 criterion fails. Post it as a comment on the issue:

@@ -13,7 +13,15 @@ Documents
 
 Commands
 
+- `docker compose up -d db` - Postgres, precisa estar de pe antes de
+  qualquer coisa tocar no banco
 - `uv sync` - instala as dependencias
+- `uv run alembic upgrade head` - aplica migrations
+- `uv run alembic revision --autogenerate -m "..."` - gera uma migration a
+  partir da diferenca entre `src/db.py`/os modelos e o banco
+- `uv run alembic check` - falha se existe mudanca de modelo sem migration
+  gerada. Rodar antes de commitar, o equivalente a
+  `manage.py makemigrations --check --dry-run`
 - `uv run pytest` - a suite inteira
 - `uv run pytest tests/test_x.py` - um arquivo de teste
 - `uv run ruff check . && uv run ruff format --check .` - lint e format,
@@ -21,14 +29,21 @@ Commands
 
 Rules
 
-- Python e a unica linguagem. Sem frontend, sem servidor web, sem banco de
-  dados - o sistema le e escreve arquivo (`_docs/blueprint.md`, secao
-  "Decisoes de projeto", explica por que).
+- Python e a unica linguagem. Sem frontend, sem servidor web.
+- Postgres e a infraestrutura de estado do pipeline (`src/db.py`,
+  `migrations/`) - ver `_docs/decisions.md` para o que vive em tabela versus
+  o que continua sendo arquivo versionado em `schema/`, `corpus/`, `gold/`,
+  `perfis/`. `_docs/blueprint.md` ainda descreve o raciocinio original
+  "arquivo em vez de banco"; a decisao que o superpoe esta em
+  `_docs/decisions.md`.
 - Dependencias sao fixadas exatamente em `pyproject.toml` (`==`, nao `>=`).
   Nao adicionar uma sem perguntar - ver a licenca em `_docs/blueprint.md`
   antes de trazer qualquer biblioteca nova para dentro do projeto.
-- Configuracao vem do ambiente. Uma chave de API nova e uma variavel de
-  ambiente e uma linha em `.env.example`, nunca hardcoded.
+- Configuracao vem do ambiente. `DATABASE_URL`, uma chave de API nova - cada
+  uma e uma variavel de ambiente e uma linha em `.env.example`, nunca
+  hardcoded. `DATABASE_URL` usa o esquema `postgresql+psycopg://`, nao
+  `postgres://` - SQLAlchemy nao traduz o segundo como o `dj-database-url`
+  do Django faz.
 - Commitar regularmente.
 
 Principios que nao se negociam (de `_docs/plano_implementacao.md`)
@@ -52,11 +67,12 @@ Estrutura do projeto
 ```
 roteiros-engine/
 ├── schema/          ontologia, codebook, formato do perfil
-├── corpus/          raw · segmentado · anotado, por canal
+├── corpus/          raw · segmentado · anotado, por canal (o que fica arquivo)
 ├── gold/             anotacao humana de referencia, por canal
-├── perfis/          <canal>.perfil.json
-├── src/              os modulos (coleta, segmenta, anota, valida, agrega,
-                       gera, verifica)
+├── perfis/          <canal>.perfil.json (versionado, congelado por fase)
+├── migrations/      Alembic - uma migration por mudanca de tabela
+├── src/              db.py (engine/Base) + os modulos do pipeline (coleta,
+                       segmenta, anota, valida, agrega, gera, verifica)
 ├── saidas/          <video_id>/plano.json, roteiro.md, verificacao.md
 └── tests/            a suite
 ```
@@ -72,8 +88,9 @@ nao fez QA - ver `_docs/plano_implementacao.md` para o portao de cada fase e
 CI
 
 `.github/workflows/ci.yml` roda em todo push, em pull requests contra `main`,
-e sob demanda. Um job: `uv sync --locked`, ambos os checks do ruff, depois a
-suite inteira.
+e sob demanda. Um job, com um service container Postgres: `uv sync --locked`,
+`uv run alembic upgrade head`, `uv run alembic check`, ambos os checks do
+ruff, depois a suite inteira.
 
 - Um teste pulado (skip) quebra o build. A suite escreve um relatorio JUnit e
   um passo depois dele falha o job se algum teste foi pulado, imprimindo o
@@ -93,6 +110,6 @@ suite inteira.
           [print(f'{n} {c[n]}') for n in sorted(c)]
   raise SystemExit(pytest.main(['--collect-only','-p','no:cacheprovider'],plugins=[P()]))" 2>/dev/null
   ```
-- Reproduza um run de CI localmente com um comando:
-  `uv sync --locked && uv run ruff check . && uv run ruff format --check . && uv run pytest -rs`
+- Reproduza um run de CI localmente com um comando (com `db` de pe):
+  `uv sync --locked && uv run alembic upgrade head && uv run alembic check && uv run ruff check . && uv run ruff format --check . && uv run pytest -rs`
   O `-rs` e o ponto: lista todo skip, que o CI transforma em falha.
