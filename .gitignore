@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+
+# Midia bruta e gerada - grande, nao versionada. O que descreve a midia
+# (JSON, JSONL, MD) fica; o binario fica de fora.
+*.mp3
+*.mp4
+*.wav
+*.m4a

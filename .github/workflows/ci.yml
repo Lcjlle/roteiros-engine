@@ -1,0 +1,151 @@
+# The checks a human runs before merging, on every push.
+#
+# Green here has to mean what green means on a laptop. A skipped test can
+# turn a broken build into a passing summary line, and this workflow closes
+# that: any skipped test fails the job. A run that would read
+# "9 passed, 1 skipped" is red.
+name: CI
+
+on:
+  push:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: lint and suite
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      # Every `uv run` below works from the committed lock file instead of
+      # re-resolving against the index.
+      UV_FROZEN: "1"
+      JUNIT_REPORT: ${{ github.workspace }}/../junit.xml
+      # The committed shape of the suite, and the single source of truth for
+      # the gates below: one line per test file, `basename count`, the
+      # number of tests that file contributes to a collection. Regenerate
+      # with the command in AGENTS.md's CI section, and commit it in the
+      # same change that touched the suite. Empty until the first test file
+      # exists.
+      TEST_COUNTS: |
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: "0.12.9"
+
+      - name: uv sync
+        run: uv sync --locked
+
+      - name: ruff check
+        run: uv run ruff check .
+
+      - name: ruff format --check
+        run: uv run ruff format --check .
+
+      - name: pytest, JUnit report, fail on any skip
+        run: |
+          set +e
+          uv run pytest -rs --junitxml="$JUNIT_REPORT"
+          status=$?
+          set -e
+          uv run python - <<'PY'
+          import os
+          import sys
+          import xml.etree.ElementTree as ET
+
+          path = os.environ["JUNIT_REPORT"]
+          root = ET.parse(path).getroot()
+          skipped = []
+          for case in root.iter("testcase"):
+              for skip in case.findall("skipped"):
+                  name = f"{case.get('classname')}::{case.get('name')}"
+                  reason = skip.get("message", "no reason given")
+                  skipped.append((name, reason))
+
+          if skipped:
+              print("::error::the suite skipped tests, which fails the build.")
+              for name, reason in skipped:
+                  print(f"  {name}: {reason}")
+              sys.exit(1)
+          PY
+          exit $status
+
+      - name: Fail if any test file's collected count is not its committed count
+        run: |
+          uv run python - <<'PY'
+          import collections
+          import os
+          import sys
+
+          import pytest
+
+          committed = {}
+          for line in os.environ.get("TEST_COUNTS", "").splitlines():
+              line = line.strip()
+              if not line:
+                  continue
+              name, count = line.rsplit(" ", 1)
+              committed[name] = int(count)
+
+          class Collector:
+              def pytest_collection_finish(self, session):
+                  self.counts = collections.Counter(
+                      item.nodeid.split("::", 1)[0].rsplit("/", 1)[-1]
+                      for item in session.items
+                  )
+
+          collector = Collector()
+          rc = pytest.main(
+              ["--collect-only", "-q", "-p", "no:cacheprovider"], plugins=[collector]
+          )
+          actual = dict(getattr(collector, "counts", {}))
+          items = sum(actual.values())
+
+          errors = []
+          mismatches = []
+          for name in sorted(set(committed) | set(actual)):
+              want = committed.get(name)
+              got = actual.get(name, 0)
+              if want is None:
+                  mismatches.append((name, got, None))
+              elif got != want:
+                  mismatches.append((name, got, want))
+
+          if mismatches:
+              errors.append("::error::the per-file test counts are not the committed TEST_COUNTS.")
+              for name, got, want in mismatches:
+                  if want is None:
+                      errors.append(f"  {name}: collected {got}, not listed in TEST_COUNTS.")
+                  else:
+                      errors.append(f"  {name}: collected {got}, TEST_COUNTS says {want}.")
+              errors.append(
+                  "  Regenerate the TEST_COUNTS block with the command in AGENTS.md's CI "
+                  "section and commit it in the same change."
+              )
+
+          committed_total = sum(committed.values())
+          if items != committed_total:
+              errors.append(
+                  f"::error::TEST_COUNTS sums to {committed_total}, but {items} tests "
+                  "were collected. The map and the suite disagree on the total."
+              )
+
+          if errors:
+              print("\n".join(errors))
+              sys.exit(1)
+
+          print(f"{items} test(s) collected across {len(committed)} files, each exactly its committed count.")
+          PY
