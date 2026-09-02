@@ -11,16 +11,33 @@ Status: **decidido**.
 Canal: https://www.youtube.com/@Zenn0009
 
 Criterios (>=30 videos longos publicados, formato consistente, legendas
-disponiveis, um formato que valha a pena reproduzir): **nao verificados
-aqui** - `yt-dlp` nao esta disponivel neste ambiente e a pagina do canal nao
-foi inspecionada. A Fase 1 (Coleta) audita isso de qualquer forma: seu
-portao exige um manifesto com 30 linhas e nenhuma transcricao abaixo de 60%
-da contagem esperada de palavras. Se o canal nao passar, a Fase 1 falha e
-este item volta a "em aberto".
+disponiveis, um formato que valha a pena reproduzir): **verificados na
+Fase 1 (issue #1), achado registrado aqui**. `yt-dlp --flat-playlist
+--dump-json` contra o canal real mostra 34 videos na aba `/videos`, todos
+com duracao >= 180s (nenhum short), formato consistente (video explicativo
+curto, tipicamente 7-13 min, um "efeito"/pergunta por titulo), e legenda
+automatica em ingles disponivel (`youtube-transcript-api` confirmado
+funcionando em 21 dos 30 videos selecionados antes da coleta real bater
+num bloqueio de IP do YouTube - ver o comentario de fechamento da issue #1
+para os detalhes). O canal tem exatamente 34 videos longos, o minimo para
+o portao de 30 caber com folga de 4.
 
-Idioma do canal: **nao registrado ainda**. Confirmar na Fase 1 e anotar
-aqui - importa na Fase 6 se o canal for em ingles e a producao em
-portugues (recalibracao de legibilidade/palavras-por-minuto).
+Achado que nao estava previsto: o canal e jovem - o video mais antigo
+listado data de ~5 meses antes da coleta (2026-09-02), ou seja **nenhum
+video tem mais de 6 meses**. A regra de selecao da Fase 1
+("melhor desempenho relativo... entre videos com mais de 6 meses")
+portanto nao tem nenhum video elegivel sob a leitura estrita; `src/coleta.py`
+implementa o recuo explicito que o proprio plano permite ("ou simplesmente
+os 30 mais vistos"): quando menos de 30 videos passam no filtro de 6 meses,
+a selecao usa o conjunto inteiro de videos longos, sempre ranqueado por
+views - continua nao sendo "os 30 mais recentes", so muda o tamanho do
+grupo elegivel. Ver `tests/test_coleta.py::TestSelectVideos` para os testes
+desse comportamento.
+
+Idioma do canal: **ingles** (titulos e legenda confirmados na coleta real
+da issue #1). Importa na Fase 6: legibilidade e palavras-por-minuto
+calibradas para ingles nao transferem para portugues sem recalibracao (ver
+`_docs/plano_implementacao.md`, Fase 6, passo 4).
 
 ## 2. Duracao-alvo do roteiro gerado
 
