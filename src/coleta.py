@@ -5,7 +5,9 @@ seleciona 30 pelo desempenho relativo (nao os mais recentes), baixa legenda
 (`youtube-transcript-api`, com `yt-dlp` como fallback de enumeracao e
 `whisperX` como ultimo recurso quando nao ha legenda nenhuma), aplica limpeza
 minima e escreve `corpus/<canal>/raw/*.json` + `corpus/<canal>/manifesto.csv`.
-Ver `_docs/plano_implementacao.md`, Fase 1, para o desenho e o portao.
+Ver `_docs/plano_implementacao.md`, Fase 1, para o desenho e o portao; para
+`@Zenn0009` especificamente o piso do portao e >= 21 linhas, nao 30 -
+`_docs/decisions.md#3` supera o plano nesse ponto.
 
 O cru (o que a fonte devolveu) nunca e sobrescrito: a limpeza sempre gera um
 arquivo `.limpo.json` novo ao lado do `.json` cru.
@@ -40,6 +42,12 @@ SLEEP_SECONDS = 3
 # Fase 1): legenda automatica em ingles fala tipicamente ~140 palavras/min.
 WORDS_PER_MINUTE = 140
 MIN_WORD_RATIO = 0.6
+# _docs/decisions.md#3: bloqueio de IP real da YouTube interrompeu a coleta
+# de @Zenn0009 em 21/30. O dono do projeto autorizou prosseguir com os 21
+# ja coletados - piso duro do portao, nao "quantas o collect() produzir".
+# Um run com menos de 21 linhas continua FALHANDO mesmo com esse portao
+# relaxado.
+MIN_ROWS = 21
 
 MANIFEST_FIELDS = ["id", "titulo", "duracao_s", "contagem_palavras", "fonte"]
 
@@ -355,14 +363,15 @@ def read_manifesto(path: Path = MANIFEST_PATH) -> list[dict]:
 # --------------------------------------------------------------------------
 
 
-def check_gate(rows: list[dict], target: int = TARGET_COUNT) -> tuple[bool, list[str]]:
-    """Portao da Fase 1 (`_docs/plano_implementacao.md`): o manifesto tem
-    exatamente `target` linhas, e nenhuma transcricao tem menos de
-    `MIN_WORD_RATIO` da contagem esperada de palavras para a duracao.
+def check_gate(rows: list[dict], min_rows: int = MIN_ROWS) -> tuple[bool, list[str]]:
+    """Portao da Fase 1 (`_docs/decisions.md#3`): o manifesto tem pelo menos
+    `min_rows` linhas - um piso duro, nao "quantas o collect() produziu" -,
+    e nenhuma transcricao tem menos de `MIN_WORD_RATIO` da contagem
+    esperada de palavras para a duracao.
     """
     problems = []
-    if len(rows) != target:
-        problems.append(f"manifesto tem {len(rows)} linhas, esperado {target}")
+    if len(rows) < min_rows:
+        problems.append(f"manifesto tem {len(rows)} linhas, esperado pelo menos {min_rows}")
 
     for row in rows:
         duration_s = float(row["duracao_s"])
@@ -401,7 +410,15 @@ def collect(
         if i > 0:
             time.sleep(sleep_seconds)
 
-        fragments, source = collect_transcript(video["id"])
+        try:
+            fragments, source = collect_transcript(video["id"])
+        except Exception as exc:
+            print(
+                f"coleta interrompida em {video['id']} "
+                f"({i + 1}/{len(selected)} tentados, {len(rows)} coletados): {exc}"
+            )
+            break
+
         write_raw(raw_dir, video, fragments, source)
 
         trechos = clean_transcript(fragments)

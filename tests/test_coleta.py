@@ -303,21 +303,42 @@ class TestGate:
         assert ok
         assert problems == []
 
-    def test_fails_when_not_exactly_30_rows(self):
+    def test_passes_with_exactly_min_rows_and_enough_words(self):
         rows = [
             {
-                "id": "v0",
+                "id": f"v{i}",
                 "titulo": "t",
                 "duracao_s": 500,
-                "contagem_palavras": 1200,
+                "contagem_palavras": int(coleta.expected_word_count(500)),
                 "fonte": "legenda",
             }
+            for i in range(coleta.MIN_ROWS)
+        ]
+
+        ok, problems = coleta.check_gate(rows)
+
+        assert ok
+        assert problems == []
+
+    def test_fails_one_row_below_min_rows_even_with_enough_words(self):
+        rows = [
+            {
+                "id": f"v{i}",
+                "titulo": "t",
+                "duracao_s": 500,
+                "contagem_palavras": int(coleta.expected_word_count(500)),
+                "fonte": "legenda",
+            }
+            for i in range(coleta.MIN_ROWS - 1)
         ]
 
         ok, problems = coleta.check_gate(rows)
 
         assert not ok
-        assert any("1 linhas, esperado 30" in p for p in problems)
+        assert any(
+            f"{coleta.MIN_ROWS - 1} linhas, esperado pelo menos {coleta.MIN_ROWS}" in p
+            for p in problems
+        )
 
     def test_fails_when_a_transcript_is_below_60_percent_of_expected_words(self):
         rows = [
@@ -345,3 +366,61 @@ class TestGate:
 
         assert not ok
         assert any("truncated" in p for p in problems)
+
+
+# --------------------------------------------------------------------------
+# Pipeline: coleta interrompida
+# --------------------------------------------------------------------------
+
+
+class TestCollect:
+    def test_writes_manifest_on_partial_success_when_a_video_fails(self, monkeypatch, tmp_path):
+        # 5 videos selecionados; o 4o (indice 3) estoura um erro real de
+        # rede/bloqueio de IP no meio da coleta - collect() precisa escrever
+        # o manifesto com o que conseguiu (3 linhas), nao deixar o loop
+        # inteiro quebrar sem persistir nada, e nao continuar tentando os
+        # videos restantes.
+        videos = [_video(f"v{i}", duration=500) for i in range(5)]
+        monkeypatch.setattr(coleta, "list_channel_videos", lambda channel_url: videos)
+        monkeypatch.setattr(coleta, "select_videos", lambda vids, target, now=None: vids[:target])
+
+        def fake_collect_transcript(video_id):
+            if video_id == "v3":
+                raise IpBlocked(video_id)
+            return [{"start": 0, "duration": 1, "text": "oi tudo bem"}], "youtube_transcript_api"
+
+        monkeypatch.setattr(coleta, "collect_transcript", fake_collect_transcript)
+
+        manifest_path = tmp_path / "manifesto.csv"
+        raw_dir = tmp_path / "raw"
+
+        rows = coleta.collect(
+            target=5, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0
+        )
+
+        assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
+        assert manifest_path.exists()
+        assert len(coleta.read_manifesto(manifest_path)) == 3
+
+    def test_writes_manifest_when_every_selected_video_succeeds(self, monkeypatch, tmp_path):
+        videos = [_video(f"v{i}", duration=500) for i in range(3)]
+        monkeypatch.setattr(coleta, "list_channel_videos", lambda channel_url: videos)
+        monkeypatch.setattr(coleta, "select_videos", lambda vids, target, now=None: vids[:target])
+        monkeypatch.setattr(
+            coleta,
+            "collect_transcript",
+            lambda video_id: (
+                [{"start": 0, "duration": 1, "text": "oi tudo bem"}],
+                "youtube_transcript_api",
+            ),
+        )
+
+        manifest_path = tmp_path / "manifesto.csv"
+        raw_dir = tmp_path / "raw"
+
+        rows = coleta.collect(
+            target=3, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0
+        )
+
+        assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
+        assert len(coleta.read_manifesto(manifest_path)) == 3
