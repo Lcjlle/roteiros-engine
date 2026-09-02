@@ -8,6 +8,7 @@ minima.
 """
 
 import subprocess
+import sys
 from datetime import UTC, datetime, timedelta
 
 import pytest
@@ -148,7 +149,11 @@ class TestCollectTranscriptFallback:
         assert calls == ["abc"]
         assert fragments == [{"start": 0, "duration": 1, "text": "audio"}]
 
-    def test_whisperx_without_dependency_raises_clear_error(self):
+    def test_whisperx_without_dependency_raises_clear_error(self, monkeypatch):
+        # whisperx e uma dependencia real do projeto (`uv add whisperx`),
+        # entao a ausencia so acontece num ambiente quebrado - simula via
+        # sys.modules em vez de depender do pacote genuinamente faltando.
+        monkeypatch.setitem(sys.modules, "whisperx", None)
         with pytest.raises(RuntimeError, match="whisperX"):
             coleta.fetch_via_whisperx("abc")
 

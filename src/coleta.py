@@ -5,9 +5,10 @@ seleciona 30 pelo desempenho relativo (nao os mais recentes), baixa legenda
 (`youtube-transcript-api`, com `yt-dlp` como fallback de enumeracao e
 `whisperX` como ultimo recurso quando nao ha legenda nenhuma), aplica limpeza
 minima e escreve `corpus/<canal>/raw/*.json` + `corpus/<canal>/manifesto.csv`.
-Ver `_docs/plano_implementacao.md`, Fase 1, para o desenho e o portao; para
-`@Zenn0009` especificamente o piso do portao e >= 21 linhas, nao 30 -
-`_docs/decisions.md#3` supera o plano nesse ponto.
+Ver `_docs/plano_implementacao.md`, Fase 1, para o desenho e o portao;
+`_docs/decisions.md#3` documenta um piso temporario de >= 21 durante um
+bloqueio de IP, superado pelo item #4 quando o corpus de `@Zenn0009` foi
+completado ate 30 via fallback whisperX.
 
 O cru (o que a fonte devolveu) nunca e sobrescrito: a limpeza sempre gera um
 arquivo `.limpo.json` novo ao lado do `.json` cru.
@@ -46,12 +47,17 @@ SLEEP_SECONDS = 3
 # Fase 1): legenda automatica em ingles fala tipicamente ~140 palavras/min.
 WORDS_PER_MINUTE = 140
 MIN_WORD_RATIO = 0.6
-# _docs/decisions.md#3: bloqueio de IP real da YouTube interrompeu a coleta
-# de @Zenn0009 em 21/30. O dono do projeto autorizou prosseguir com os 21
-# ja coletados - piso duro do portao, nao "quantas o collect() produzir".
-# Um run com menos de 21 linhas continua FALHANDO mesmo com esse portao
-# relaxado.
-MIN_ROWS = 21
+# batch_size=16 (o default historico do whisperX) estoura VRAM em GPUs de
+# 6GB (RTX 4050 laptop, testado em video real) mesmo com `large-v2` +
+# `int8_float16` - o modelo cabe com folga, o lote grande nao. 4 mede
+# ~4GB de pico contra 6GB disponiveis, testado nos extremos de duracao do
+# corpus (238s e 777s).
+WHISPERX_BATCH_SIZE = 4
+# _docs/decisions.md#3 relaxou este piso para >=21 durante um bloqueio de
+# IP real da YouTube; _docs/decisions.md#4 completou o corpus de
+# @Zenn0009 ate 30 via whisperX e supera o item #3 - o piso volta a ser o
+# alvo cheio.
+MIN_ROWS = TARGET_COUNT
 
 MANIFEST_FIELDS = ["id", "titulo", "duracao_s", "contagem_palavras", "fonte"]
 
@@ -211,7 +217,10 @@ class WhisperXUnavailable(RuntimeError):
 
 
 def fetch_via_whisperx(
-    video_id: str, device: str = "cpu", compute_type: str = "int8"
+    video_id: str,
+    device: str = "cpu",
+    compute_type: str = "int8",
+    batch_size: int = WHISPERX_BATCH_SIZE,
 ) -> list[dict]:
     """Ultimo recurso: transcreve o audio com whisperX. So roda quando nem
     `youtube-transcript-api` nem `yt-dlp` acharam legenda nenhuma - a etapa
@@ -244,7 +253,7 @@ def fetch_via_whisperx(
 
         model = whisperx.load_model("large-v2", device, compute_type=compute_type)
         audio = whisperx.load_audio(str(matches[0]))
-        result = model.transcribe(audio, batch_size=16)
+        result = model.transcribe(audio, batch_size=batch_size)
         align_model, metadata = whisperx.load_align_model(
             language_code=result["language"], device=device
         )

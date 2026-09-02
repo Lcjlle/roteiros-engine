@@ -89,3 +89,57 @@ Fase 4 issue re-derives that split from the actual corpus size at the time
 (`corpus/zenn0009/manifesto.csv` row count), not from the plan's literal
 numbers. If the IP block clears later and someone reruns collection to grow
 the corpus toward 30, that is additive and fine; nothing here forbids it.
+
+## 4. Corpus completed to 30 via whisperX (GPU) instead of waiting out the IP block
+
+Resolves the consequence flagged in item 3. The YouTube IP block on the
+legenda endpoints (`youtube_transcript_api` and `yt-dlp`'s subtitle
+download - both confirmed still `IpBlocked`/`429` when retested) never
+cleared. Audio download is a separate YouTube endpoint and was never
+blocked, so the project owner authorized using the existing `whisperX`
+fallback (already designed into `collect_transcript()`, previously unused
+because it wasn't needed) to transcribe the 9 remaining videos locally on
+GPU instead of waiting.
+
+What changed to make this real, not hypothetical:
+
+- `whisperx==3.8.6` added to `pyproject.toml` (BSD-2-Clause, confirmed
+  against PyPI metadata and `_docs/blueprint.md`). This is a real
+  dependency now, not the "not installed by default" fallback the original
+  docstring in `fetch_via_whisperx` described - `tests/test_coleta.py`'s
+  "no dependency" test now mocks the absence via `sys.modules` instead of
+  relying on a genuinely missing package. Cost: `uv sync` pulls `torch`
+  and the `nvidia-cu12-*` wheels even for CPU-only use of this repo, and
+  CI's `uv sync --locked` will too - this is the real, ongoing weight of
+  keeping whisperX available, not a one-time cost paid only on this
+  machine.
+- Real bug found and fixed: `fetch_via_whisperx` hardcoded
+  `model.transcribe(audio, batch_size=16)`. On a 6GB VRAM GPU (RTX 4050
+  laptop, `large-v2`, `int8_float16`) that OOMs every time - confirmed
+  before the fix, on a real video. `batch_size` is now a parameter
+  (`WHISPERX_BATCH_SIZE = 4` default), measured at ~4GB peak VRAM
+  (`nvidia-smi`, in-process polling thread, not `torch.cuda.max_memory_allocated()`
+  which only sees PyTorch's own allocator and undercounts CTranslate2's
+  native CUDA memory by ~15x) across both the shortest (238s) and longest
+  (777s) videos in the corpus - VRAM use is dominated by the model, not
+  the audio length.
+- Real bug found and fixed in the *collection script*, not in `src/`:
+  calling `fetch_via_whisperx` for a second video in the same process
+  OOM'd even at `batch_size=4` - GPU memory from the first video's model
+  was never released. Fix was process isolation, one subprocess per video
+  (fresh CUDA context each time), not a smaller batch size. Anyone
+  scripting whisperX over a batch of videos again needs the same
+  isolation; a future issue that wires this into `src/coleta.py` proper
+  should decide where that isolation boundary lives (per-video subprocess
+  inside `collect()`, most likely).
+- Quality check before trusting the output: compared whisperX's
+  transcript against the existing legenda transcript, word-for-word, on
+  both the shortest and longest video already in the corpus (the two
+  extremes). 99.2% and 99.64% lexical agreement (`difflib.SequenceMatcher`
+  on normalized tokens) - the differences were homophones and number
+  spelling, not factual drift.
+
+`corpus/zenn0009/manifesto.csv` now has all 30 rows the plan's Fase 1
+asks for: 21 `legenda`, 9 `whisperX`. Item 3's `>= 21` floor is
+superseded by this - the corpus is complete, so Fase 4/5 can use the
+plan's literal 5 gold + 25 batch split without re-deriving it.
