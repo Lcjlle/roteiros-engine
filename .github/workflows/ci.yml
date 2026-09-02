@@ -54,7 +54,7 @@ jobs:
       # with the command in AGENTS.md's CI section, and commit it in the
       # same change that touched the suite.
       TEST_COUNTS: |
-        test_coleta.py 22
+        test_coleta.py 25
         test_db_isolation.py 2
     steps:
       - uses: actions/checkout@v7
