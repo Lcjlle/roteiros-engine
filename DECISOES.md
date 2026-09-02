@@ -6,30 +6,38 @@ Fase 0, para os criterios de cada uma.
 
 ## 1. Canal de referencia
 
-Status: **em aberto**.
+Status: **decidido**.
 
-Criterios: >=30 videos longos publicados, formato consistente (o canal nao
-pode ter mudado de formula no meio do periodo coberto), legendas disponiveis,
-um formato que valha a pena reproduzir. Se o canal for em ingles e a producao
-for em portugues, anotar aqui - importa na Fase 6 (recalibracao de metricas).
+Canal: https://www.youtube.com/@Zenn0009
+
+Criterios (>=30 videos longos publicados, formato consistente, legendas
+disponiveis, um formato que valha a pena reproduzir): **nao verificados
+aqui** - `yt-dlp` nao esta disponivel neste ambiente e a pagina do canal nao
+foi inspecionada. A Fase 1 (Coleta) audita isso de qualquer forma: seu
+portao exige um manifesto com 30 linhas e nenhuma transcricao abaixo de 60%
+da contagem esperada de palavras. Se o canal nao passar, a Fase 1 falha e
+este item volta a "em aberto".
+
+Idioma do canal: **nao registrado ainda**. Confirmar na Fase 1 e anotar
+aqui - importa na Fase 6 se o canal for em ingles e a producao em
+portugues (recalibracao de legibilidade/palavras-por-minuto).
 
 ## 2. Duracao-alvo do roteiro gerado
 
-Status: **em aberto**.
+Status: **decidido**.
 
-Define o alvo de contagem de palavras e a estrutura esperada por bloco.
+10 a 12 minutos.
 
 ## 3. Uso comercial
 
-Status: **em aberto**.
+Status: **decidido**.
 
-Se comercial: `TextMachina` (CC-BY-NC-ND) esta descartado, e qualquer
-repositorio sem arquivo `LICENSE` (`gpt_annotate`, `core-stories`) so entra
-como referencia de metodo, nunca como dependencia. Ver `_docs/blueprint.md`,
-secao "Licencas das dependencias".
+Nao comercial. `TextMachina` (CC-BY-NC-ND) e repositorios sem arquivo
+`LICENSE` (`gpt_annotate`, `core-stories`) continuam de fora como
+dependencia mesmo assim - ver `_docs/decisions.md` se algum dia isso mudar.
 
 ---
 
-Portao: nenhuma issue de Fase 1 e groomada enquanto as tres estiverem
-"em aberto". Preencher, mudar o status para o valor decidido, e abrir a
-primeira issue.
+Portao: as tres decisoes estao preenchidas. Em uma frase: um sistema que
+gera roteiros de 10-12 min no perfil do canal @Zenn0009, para uso nao
+comercial. Issue #1 (Fase 1 - Coleta) pode ser aberta e groomada.
