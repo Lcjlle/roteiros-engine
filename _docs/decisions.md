@@ -165,3 +165,47 @@ stays a real requirement for every future channel, not something whisperX
 defaulting would have eliminated. `README.md` M1, `_docs/blueprint.md` Peça
 6, and `_docs/plano_implementacao.md` Fase 1 item 2 are updated to point
 here instead of carrying the proposal as still open.
+
+## 6. Holdout draw: fixed seed 42, target 5, floor 4
+
+Grooming Issue #2 (Fase 1 against `@MackExplains7`) hit a gap: the plan
+mandates drawing holdout videos at random from the eligible pool, forbids
+taking the tail by lowest `view_count`, and allows a range of "4-5" - but
+names neither a count nor a seed. Without both, QA cannot reproduce the
+same sample the engineer drew, and an underdetermined "4 or 5" makes the
+result depend on an arbitrary runtime choice instead of a rule.
+
+Decision: `HOLDOUT_SEED = 42`, target holdout size 5 (top of the plan's
+range), falling back to 4 only if the eligible pool (after removing the 30
+`profile` picks) has fewer than 5 videos left. If the eligible pool has
+fewer than 34 total (30 profile + 4 minimum holdout), the run fails the
+practical channel criterion (`DECISOES.md#4`) instead of silently
+shrinking further - same posture as the `>= 21`/`>= 30` floor precedent in
+item 3.
+
+## 7. Manifest gains an English `role` column (`profile`/`holdout`)
+
+Same grooming pass. The manifest's existing columns (`id`, `titulo`,
+`duracao_s`, `contagem_palavras`, `fonte`) are PT-BR, covered by
+`_docs/plano_implementacao.md`'s "Dívida aceita" clause - but that clause
+covers only what was already committed before the v3.0 language policy,
+not a new column being added now. The plan's normative language policy
+requires English for code identifiers, including columns. Decision: the
+new column is named `role`, with literal values `profile`/`holdout`.
+
+## 8. `WORDS_PER_MINUTE` in `src/coleta.py` corrected from 140 to 150
+
+Same grooming pass found a real, previously undocumented discrepancy:
+`src/coleta.py` has used `WORDS_PER_MINUTE = 140` since Issue #1, while
+`_docs/plano_implementacao.md`'s Fase 1 gate has always stated "~150
+palavras/minuto em inglês" verbatim, with no entry here reconciling the
+two. Per the plan's own precedence rule ("onde discordar de
+`_docs/decisions.md`... ele perde"), absent an override here the plan's
+number governs, and Issue #2 has to copy the gate verbatim - so the
+constant moves to 150 to match.
+
+This does not reopen or invalidate `@Zenn0009`'s already-passed Fase 1
+gate: recomputed at 150 wpm, the worst-case transcript there (119.1% of
+expected word count at 140 wpm per Issue #1's closing comment) is still
+comfortably above the 60% floor. `corpus/zenn0009/*` is not touched by
+this change.
