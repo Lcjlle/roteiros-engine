@@ -1,6 +1,6 @@
 {
   "video_id": "qsBitnO8djE",
-  "generated_at": "2026-09-03T13:18:13.140865+00:00",
+  "generated_at": "2026-09-03T22:19:53.113813+00:00",
   "windows": [
     {
       "window_id": "qsBitnO8djE:j0000",
@@ -37,14 +37,13 @@
       "video_id": "qsBitnO8djE",
       "idx": 2,
       "sent_ids": [
-        "qsBitnO8djE:s0004",
-        "qsBitnO8djE:s0005"
+        "qsBitnO8djE:s0004"
       ],
       "start_s": 25.11,
       "end_s": 43.049,
       "text": "Because the popular image this number conjures A 30-year-old hunter-gatherer collapsing from old age, creaky joints, gray hair, the whole package, while everyone around them treats this as an entirely unremarkable and expected event, is almost completely wrong.",
       "n_words": 38,
-      "n_sentences": 2,
+      "n_sentences": 1,
       "pos_pct": 0.018965256797583083
     },
     {
@@ -52,8 +51,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 3,
       "sent_ids": [
-        "qsBitnO8djE:s0006",
-        "qsBitnO8djE:s0007"
+        "qsBitnO8djE:s0005",
+        "qsBitnO8djE:s0006"
       ],
       "start_s": 43.912,
       "end_s": 56.095,
@@ -67,7 +66,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 4,
       "sent_ids": [
-        "qsBitnO8djE:s0008"
+        "qsBitnO8djE:s0007"
       ],
       "start_s": 56.795,
       "end_s": 69.458,
@@ -81,8 +80,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 5,
       "sent_ids": [
-        "qsBitnO8djE:s0009",
-        "qsBitnO8djE:s0010"
+        "qsBitnO8djE:s0008",
+        "qsBitnO8djE:s0009"
       ],
       "start_s": 70.297,
       "end_s": 82.043,
@@ -96,7 +95,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 6,
       "sent_ids": [
-        "qsBitnO8djE:s0011"
+        "qsBitnO8djE:s0010"
       ],
       "start_s": 82.844,
       "end_s": 98.392,
@@ -110,8 +109,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 7,
       "sent_ids": [
-        "qsBitnO8djE:s0012",
-        "qsBitnO8djE:s0013"
+        "qsBitnO8djE:s0011",
+        "qsBitnO8djE:s0012"
       ],
       "start_s": 99.092,
       "end_s": 105.334,
@@ -125,8 +124,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 8,
       "sent_ids": [
-        "qsBitnO8djE:s0014",
-        "qsBitnO8djE:s0015"
+        "qsBitnO8djE:s0013",
+        "qsBitnO8djE:s0014"
       ],
       "start_s": 105.934,
       "end_s": 119.558,
@@ -140,8 +139,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 9,
       "sent_ids": [
-        "qsBitnO8djE:s0016",
-        "qsBitnO8djE:s0017"
+        "qsBitnO8djE:s0015",
+        "qsBitnO8djE:s0016"
       ],
       "start_s": 120.658,
       "end_s": 132.006,
@@ -155,10 +154,10 @@
       "video_id": "qsBitnO8djE",
       "idx": 10,
       "sent_ids": [
+        "qsBitnO8djE:s0017",
         "qsBitnO8djE:s0018",
         "qsBitnO8djE:s0019",
-        "qsBitnO8djE:s0020",
-        "qsBitnO8djE:s0021"
+        "qsBitnO8djE:s0020"
       ],
       "start_s": 133.403,
       "end_s": 144.872,
@@ -172,8 +171,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 11,
       "sent_ids": [
-        "qsBitnO8djE:s0022",
-        "qsBitnO8djE:s0023"
+        "qsBitnO8djE:s0021",
+        "qsBitnO8djE:s0022"
       ],
       "start_s": 145.593,
       "end_s": 156.582,
@@ -187,8 +186,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 12,
       "sent_ids": [
-        "qsBitnO8djE:s0024",
-        "qsBitnO8djE:s0025"
+        "qsBitnO8djE:s0023",
+        "qsBitnO8djE:s0024"
       ],
       "start_s": 157.202,
       "end_s": 175.728,
@@ -202,7 +201,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 13,
       "sent_ids": [
-        "qsBitnO8djE:s0026"
+        "qsBitnO8djE:s0025"
       ],
       "start_s": 176.508,
       "end_s": 190.775,
@@ -216,8 +215,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 14,
       "sent_ids": [
-        "qsBitnO8djE:s0027",
-        "qsBitnO8djE:s0028"
+        "qsBitnO8djE:s0026",
+        "qsBitnO8djE:s0027"
       ],
       "start_s": 191.805,
       "end_s": 214.735,
@@ -231,8 +230,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 15,
       "sent_ids": [
-        "qsBitnO8djE:s0029",
-        "qsBitnO8djE:s0030"
+        "qsBitnO8djE:s0028",
+        "qsBitnO8djE:s0029"
       ],
       "start_s": 215.976,
       "end_s": 230.044,
@@ -246,8 +245,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 16,
       "sent_ids": [
-        "qsBitnO8djE:s0031",
-        "qsBitnO8djE:s0032"
+        "qsBitnO8djE:s0030",
+        "qsBitnO8djE:s0031"
       ],
       "start_s": 230.745,
       "end_s": 238.651,
@@ -261,7 +260,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 17,
       "sent_ids": [
-        "qsBitnO8djE:s0033"
+        "qsBitnO8djE:s0032"
       ],
       "start_s": 239.332,
       "end_s": 253.284,
@@ -275,7 +274,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 18,
       "sent_ids": [
-        "qsBitnO8djE:s0034"
+        "qsBitnO8djE:s0033"
       ],
       "start_s": 253.985,
       "end_s": 264.551,
@@ -289,8 +288,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 19,
       "sent_ids": [
-        "qsBitnO8djE:s0035",
-        "qsBitnO8djE:s0036"
+        "qsBitnO8djE:s0034",
+        "qsBitnO8djE:s0035"
       ],
       "start_s": 265.531,
       "end_s": 288.355,
@@ -304,7 +303,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 20,
       "sent_ids": [
-        "qsBitnO8djE:s0037"
+        "qsBitnO8djE:s0036"
       ],
       "start_s": 288.915,
       "end_s": 302.92,
@@ -318,7 +317,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 21,
       "sent_ids": [
-        "qsBitnO8djE:s0038"
+        "qsBitnO8djE:s0037"
       ],
       "start_s": 303.64,
       "end_s": 320.52,
@@ -332,7 +331,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 22,
       "sent_ids": [
-        "qsBitnO8djE:s0039"
+        "qsBitnO8djE:s0038"
       ],
       "start_s": 321.201,
       "end_s": 344.373,
@@ -346,10 +345,10 @@
       "video_id": "qsBitnO8djE",
       "idx": 23,
       "sent_ids": [
+        "qsBitnO8djE:s0039",
         "qsBitnO8djE:s0040",
         "qsBitnO8djE:s0041",
-        "qsBitnO8djE:s0042",
-        "qsBitnO8djE:s0043"
+        "qsBitnO8djE:s0042"
       ],
       "start_s": 344.893,
       "end_s": 361.368,
@@ -363,7 +362,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 24,
       "sent_ids": [
-        "qsBitnO8djE:s0044"
+        "qsBitnO8djE:s0043"
       ],
       "start_s": 361.969,
       "end_s": 379.721,
@@ -377,7 +376,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 25,
       "sent_ids": [
-        "qsBitnO8djE:s0045"
+        "qsBitnO8djE:s0044"
       ],
       "start_s": 380.841,
       "end_s": 403.257,
@@ -391,9 +390,9 @@
       "video_id": "qsBitnO8djE",
       "idx": 26,
       "sent_ids": [
+        "qsBitnO8djE:s0045",
         "qsBitnO8djE:s0046",
-        "qsBitnO8djE:s0047",
-        "qsBitnO8djE:s0048"
+        "qsBitnO8djE:s0047"
       ],
       "start_s": 404.198,
       "end_s": 415.603,
@@ -407,8 +406,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 27,
       "sent_ids": [
-        "qsBitnO8djE:s0049",
-        "qsBitnO8djE:s0050"
+        "qsBitnO8djE:s0048",
+        "qsBitnO8djE:s0049"
       ],
       "start_s": 416.224,
       "end_s": 436.531,
@@ -422,7 +421,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 28,
       "sent_ids": [
-        "qsBitnO8djE:s0051"
+        "qsBitnO8djE:s0050"
       ],
       "start_s": 437.251,
       "end_s": 446.774,
@@ -436,7 +435,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 29,
       "sent_ids": [
-        "qsBitnO8djE:s0052"
+        "qsBitnO8djE:s0051"
       ],
       "start_s": 447.858,
       "end_s": 463.02,
@@ -450,7 +449,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 30,
       "sent_ids": [
-        "qsBitnO8djE:s0053"
+        "qsBitnO8djE:s0052"
       ],
       "start_s": 463.776,
       "end_s": 489.769,
@@ -464,7 +463,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 31,
       "sent_ids": [
-        "qsBitnO8djE:s0054"
+        "qsBitnO8djE:s0053"
       ],
       "start_s": 490.83,
       "end_s": 503.561,
@@ -478,9 +477,9 @@
       "video_id": "qsBitnO8djE",
       "idx": 32,
       "sent_ids": [
+        "qsBitnO8djE:s0054",
         "qsBitnO8djE:s0055",
-        "qsBitnO8djE:s0056",
-        "qsBitnO8djE:s0057"
+        "qsBitnO8djE:s0056"
       ],
       "start_s": 504.242,
       "end_s": 517.53,
@@ -494,7 +493,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 33,
       "sent_ids": [
-        "qsBitnO8djE:s0058"
+        "qsBitnO8djE:s0057"
       ],
       "start_s": 518.23,
       "end_s": 526.873,
@@ -508,7 +507,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 34,
       "sent_ids": [
-        "qsBitnO8djE:s0059"
+        "qsBitnO8djE:s0058"
       ],
       "start_s": 527.653,
       "end_s": 548.348,
@@ -522,8 +521,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 35,
       "sent_ids": [
-        "qsBitnO8djE:s0060",
-        "qsBitnO8djE:s0061"
+        "qsBitnO8djE:s0059",
+        "qsBitnO8djE:s0060"
       ],
       "start_s": 549.669,
       "end_s": 568.196,
@@ -537,7 +536,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 36,
       "sent_ids": [
-        "qsBitnO8djE:s0062"
+        "qsBitnO8djE:s0061"
       ],
       "start_s": 569.177,
       "end_s": 579.267,
@@ -551,7 +550,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 37,
       "sent_ids": [
-        "qsBitnO8djE:s0063"
+        "qsBitnO8djE:s0062"
       ],
       "start_s": 580.257,
       "end_s": 595.859,
@@ -565,7 +564,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 38,
       "sent_ids": [
-        "qsBitnO8djE:s0064"
+        "qsBitnO8djE:s0063"
       ],
       "start_s": 596.44,
       "end_s": 613.508,
@@ -579,8 +578,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 39,
       "sent_ids": [
-        "qsBitnO8djE:s0065",
-        "qsBitnO8djE:s0066"
+        "qsBitnO8djE:s0064",
+        "qsBitnO8djE:s0065"
       ],
       "start_s": 614.388,
       "end_s": 635.186,
@@ -594,9 +593,9 @@
       "video_id": "qsBitnO8djE",
       "idx": 40,
       "sent_ids": [
+        "qsBitnO8djE:s0066",
         "qsBitnO8djE:s0067",
-        "qsBitnO8djE:s0068",
-        "qsBitnO8djE:s0069"
+        "qsBitnO8djE:s0068"
       ],
       "start_s": 635.806,
       "end_s": 641.272,
@@ -610,8 +609,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 41,
       "sent_ids": [
-        "qsBitnO8djE:s0070",
-        "qsBitnO8djE:s0071"
+        "qsBitnO8djE:s0069",
+        "qsBitnO8djE:s0070"
       ],
       "start_s": 642.441,
       "end_s": 662.095,
@@ -625,8 +624,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 42,
       "sent_ids": [
-        "qsBitnO8djE:s0072",
-        "qsBitnO8djE:s0073"
+        "qsBitnO8djE:s0071",
+        "qsBitnO8djE:s0072"
       ],
       "start_s": 662.956,
       "end_s": 674.129,
@@ -640,8 +639,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 43,
       "sent_ids": [
-        "qsBitnO8djE:s0074",
-        "qsBitnO8djE:s0075"
+        "qsBitnO8djE:s0073",
+        "qsBitnO8djE:s0074"
       ],
       "start_s": 674.85,
       "end_s": 686.395,
@@ -655,8 +654,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 44,
       "sent_ids": [
-        "qsBitnO8djE:s0076",
-        "qsBitnO8djE:s0077"
+        "qsBitnO8djE:s0075",
+        "qsBitnO8djE:s0076"
       ],
       "start_s": 687.035,
       "end_s": 708.065,
@@ -670,8 +669,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 45,
       "sent_ids": [
-        "qsBitnO8djE:s0078",
-        "qsBitnO8djE:s0079"
+        "qsBitnO8djE:s0077",
+        "qsBitnO8djE:s0078"
       ],
       "start_s": 709.046,
       "end_s": 728.635,
@@ -685,7 +684,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 46,
       "sent_ids": [
-        "qsBitnO8djE:s0080"
+        "qsBitnO8djE:s0079"
       ],
       "start_s": 729.235,
       "end_s": 746.783,
@@ -699,7 +698,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 47,
       "sent_ids": [
-        "qsBitnO8djE:s0081"
+        "qsBitnO8djE:s0080"
       ],
       "start_s": 747.643,
       "end_s": 761.049,
@@ -713,8 +712,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 48,
       "sent_ids": [
-        "qsBitnO8djE:s0082",
-        "qsBitnO8djE:s0083"
+        "qsBitnO8djE:s0081",
+        "qsBitnO8djE:s0082"
       ],
       "start_s": 762.029,
       "end_s": 780.938,
@@ -728,7 +727,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 49,
       "sent_ids": [
-        "qsBitnO8djE:s0084"
+        "qsBitnO8djE:s0083"
       ],
       "start_s": 781.498,
       "end_s": 790.103,
@@ -742,7 +741,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 50,
       "sent_ids": [
-        "qsBitnO8djE:s0085"
+        "qsBitnO8djE:s0084"
       ],
       "start_s": 790.975,
       "end_s": 805.239,
@@ -756,8 +755,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 51,
       "sent_ids": [
-        "qsBitnO8djE:s0086",
-        "qsBitnO8djE:s0087"
+        "qsBitnO8djE:s0085",
+        "qsBitnO8djE:s0086"
       ],
       "start_s": 806.039,
       "end_s": 827.689,
@@ -771,8 +770,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 52,
       "sent_ids": [
-        "qsBitnO8djE:s0088",
-        "qsBitnO8djE:s0089"
+        "qsBitnO8djE:s0087",
+        "qsBitnO8djE:s0088"
       ],
       "start_s": 828.49,
       "end_s": 849.346,
@@ -786,8 +785,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 53,
       "sent_ids": [
-        "qsBitnO8djE:s0090",
-        "qsBitnO8djE:s0091"
+        "qsBitnO8djE:s0089",
+        "qsBitnO8djE:s0090"
       ],
       "start_s": 850.047,
       "end_s": 870.804,
@@ -801,7 +800,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 54,
       "sent_ids": [
-        "qsBitnO8djE:s0092"
+        "qsBitnO8djE:s0091"
       ],
       "start_s": 871.665,
       "end_s": 897.143,
@@ -815,7 +814,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 55,
       "sent_ids": [
-        "qsBitnO8djE:s0093"
+        "qsBitnO8djE:s0092"
       ],
       "start_s": 897.703,
       "end_s": 911.847,
@@ -829,7 +828,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 56,
       "sent_ids": [
-        "qsBitnO8djE:s0094"
+        "qsBitnO8djE:s0093"
       ],
       "start_s": 912.647,
       "end_s": 931.884,
@@ -843,8 +842,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 57,
       "sent_ids": [
-        "qsBitnO8djE:s0095",
-        "qsBitnO8djE:s0096"
+        "qsBitnO8djE:s0094",
+        "qsBitnO8djE:s0095"
       ],
       "start_s": 932.805,
       "end_s": 945.764,
@@ -858,7 +857,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 58,
       "sent_ids": [
-        "qsBitnO8djE:s0097"
+        "qsBitnO8djE:s0096"
       ],
       "start_s": 947.437,
       "end_s": 960.062,
@@ -872,7 +871,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 59,
       "sent_ids": [
-        "qsBitnO8djE:s0098"
+        "qsBitnO8djE:s0097"
       ],
       "start_s": 961.102,
       "end_s": 973.367,
@@ -886,8 +885,8 @@
       "video_id": "qsBitnO8djE",
       "idx": 60,
       "sent_ids": [
-        "qsBitnO8djE:s0099",
-        "qsBitnO8djE:s0100"
+        "qsBitnO8djE:s0098",
+        "qsBitnO8djE:s0099"
       ],
       "start_s": 974.406,
       "end_s": 991.382,
@@ -901,7 +900,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 61,
       "sent_ids": [
-        "qsBitnO8djE:s0101"
+        "qsBitnO8djE:s0100"
       ],
       "start_s": 991.882,
       "end_s": 1012.837,
@@ -915,12 +914,12 @@
       "video_id": "qsBitnO8djE",
       "idx": 62,
       "sent_ids": [
-        "qsBitnO8djE:s0102"
+        "qsBitnO8djE:s0101"
       ],
       "start_s": 1014.171,
-      "end_s": 1030.023,
-      "text": "Let us turn now to comparative studies of contemporary hunter-gatherer populations conducted by researchers including Michael Girvin and Hillard Kaplan, whose work compiling demographic data across the Hadza, the Ash of Paraguay, the Hiwi of Venezuela and Colombia,",
-      "n_words": 38,
+      "end_s": 1033.604,
+      "text": "Let us turn now to comparative studies of contemporary hunter-gatherer populations conducted by researchers including Michael Girvin and Hillard Kaplan, whose work compiling demographic data across the Hadza, the Ash of Paraguay, the Hiwi of Venezuela and Colombia, And several other groups found a remarkably consistent pattern.",
+      "n_words": 47,
       "n_sentences": 1,
       "pos_pct": 0.7659901812688822
     },
@@ -929,21 +928,7 @@
       "video_id": "qsBitnO8djE",
       "idx": 63,
       "sent_ids": [
-        "qsBitnO8djE:s0103"
-      ],
-      "start_s": 1030.423,
-      "end_s": 1033.604,
-      "text": "And several other groups found a remarkably consistent pattern.",
-      "n_words": 9,
-      "n_sentences": 1,
-      "pos_pct": 0.7782651057401813
-    },
-    {
-      "window_id": "qsBitnO8djE:j0064",
-      "video_id": "qsBitnO8djE",
-      "idx": 64,
-      "sent_ids": [
-        "qsBitnO8djE:s0104"
+        "qsBitnO8djE:s0102"
       ],
       "start_s": 1034.104,
       "end_s": 1056.169,
@@ -953,12 +938,12 @@
       "pos_pct": 0.7810453172205438
     },
     {
-      "window_id": "qsBitnO8djE:j0065",
+      "window_id": "qsBitnO8djE:j0064",
       "video_id": "qsBitnO8djE",
-      "idx": 65,
+      "idx": 64,
       "sent_ids": [
-        "qsBitnO8djE:s0105",
-        "qsBitnO8djE:s0106"
+        "qsBitnO8djE:s0103",
+        "qsBitnO8djE:s0104"
       ],
       "start_s": 1057.009,
       "end_s": 1076.499,
@@ -968,11 +953,11 @@
       "pos_pct": 0.798345166163142
     },
     {
-      "window_id": "qsBitnO8djE:j0066",
+      "window_id": "qsBitnO8djE:j0065",
       "video_id": "qsBitnO8djE",
-      "idx": 66,
+      "idx": 65,
       "sent_ids": [
-        "qsBitnO8djE:s0107"
+        "qsBitnO8djE:s0105"
       ],
       "start_s": 1078.44,
       "end_s": 1091.809,
@@ -982,11 +967,11 @@
       "pos_pct": 0.8145317220543807
     },
     {
-      "window_id": "qsBitnO8djE:j0067",
+      "window_id": "qsBitnO8djE:j0066",
       "video_id": "qsBitnO8djE",
-      "idx": 67,
+      "idx": 66,
       "sent_ids": [
-        "qsBitnO8djE:s0108"
+        "qsBitnO8djE:s0106"
       ],
       "start_s": 1092.65,
       "end_s": 1106.84,
@@ -996,11 +981,11 @@
       "pos_pct": 0.8252643504531723
     },
     {
-      "window_id": "qsBitnO8djE:j0068",
+      "window_id": "qsBitnO8djE:j0067",
       "video_id": "qsBitnO8djE",
-      "idx": 68,
+      "idx": 67,
       "sent_ids": [
-        "qsBitnO8djE:s0109"
+        "qsBitnO8djE:s0107"
       ],
       "start_s": 1107.795,
       "end_s": 1127.112,
@@ -1010,12 +995,12 @@
       "pos_pct": 0.8367031722054381
     },
     {
-      "window_id": "qsBitnO8djE:j0069",
+      "window_id": "qsBitnO8djE:j0068",
       "video_id": "qsBitnO8djE",
-      "idx": 69,
+      "idx": 68,
       "sent_ids": [
-        "qsBitnO8djE:s0110",
-        "qsBitnO8djE:s0111"
+        "qsBitnO8djE:s0108",
+        "qsBitnO8djE:s0109"
       ],
       "start_s": 1127.853,
       "end_s": 1151.352,
@@ -1025,11 +1010,11 @@
       "pos_pct": 0.8518527190332327
     },
     {
-      "window_id": "qsBitnO8djE:j0070",
+      "window_id": "qsBitnO8djE:j0069",
       "video_id": "qsBitnO8djE",
-      "idx": 70,
+      "idx": 69,
       "sent_ids": [
-        "qsBitnO8djE:s0112"
+        "qsBitnO8djE:s0110"
       ],
       "start_s": 1152.072,
       "end_s": 1175.427,
@@ -1039,11 +1024,11 @@
       "pos_pct": 0.87014501510574
     },
     {
-      "window_id": "qsBitnO8djE:j0071",
+      "window_id": "qsBitnO8djE:j0070",
       "video_id": "qsBitnO8djE",
-      "idx": 71,
+      "idx": 70,
       "sent_ids": [
-        "qsBitnO8djE:s0113"
+        "qsBitnO8djE:s0111"
       ],
       "start_s": 1176.007,
       "end_s": 1193.092,
@@ -1053,12 +1038,12 @@
       "pos_pct": 0.8882228096676738
     },
     {
-      "window_id": "qsBitnO8djE:j0072",
+      "window_id": "qsBitnO8djE:j0071",
       "video_id": "qsBitnO8djE",
-      "idx": 72,
+      "idx": 71,
       "sent_ids": [
-        "qsBitnO8djE:s0114",
-        "qsBitnO8djE:s0115"
+        "qsBitnO8djE:s0112",
+        "qsBitnO8djE:s0113"
       ],
       "start_s": 1193.792,
       "end_s": 1205.896,
@@ -1068,12 +1053,12 @@
       "pos_pct": 0.901655589123867
     },
     {
-      "window_id": "qsBitnO8djE:j0073",
+      "window_id": "qsBitnO8djE:j0072",
       "video_id": "qsBitnO8djE",
-      "idx": 73,
+      "idx": 72,
       "sent_ids": [
-        "qsBitnO8djE:s0116",
-        "qsBitnO8djE:s0117"
+        "qsBitnO8djE:s0114",
+        "qsBitnO8djE:s0115"
       ],
       "start_s": 1206.576,
       "end_s": 1229.468,
@@ -1083,12 +1068,12 @@
       "pos_pct": 0.9113111782477341
     },
     {
-      "window_id": "qsBitnO8djE:j0074",
+      "window_id": "qsBitnO8djE:j0073",
       "video_id": "qsBitnO8djE",
-      "idx": 74,
+      "idx": 73,
       "sent_ids": [
-        "qsBitnO8djE:s0118",
-        "qsBitnO8djE:s0119"
+        "qsBitnO8djE:s0116",
+        "qsBitnO8djE:s0117"
       ],
       "start_s": 1230.663,
       "end_s": 1249.633,
@@ -1098,12 +1083,12 @@
       "pos_pct": 0.9295037764350453
     },
     {
-      "window_id": "qsBitnO8djE:j0075",
+      "window_id": "qsBitnO8djE:j0074",
       "video_id": "qsBitnO8djE",
-      "idx": 75,
+      "idx": 74,
       "sent_ids": [
-        "qsBitnO8djE:s0120",
-        "qsBitnO8djE:s0121"
+        "qsBitnO8djE:s0118",
+        "qsBitnO8djE:s0119"
       ],
       "start_s": 1250.433,
       "end_s": 1271.363,
@@ -1113,12 +1098,12 @@
       "pos_pct": 0.9444358006042296
     },
     {
-      "window_id": "qsBitnO8djE:j0076",
+      "window_id": "qsBitnO8djE:j0075",
       "video_id": "qsBitnO8djE",
-      "idx": 76,
+      "idx": 75,
       "sent_ids": [
-        "qsBitnO8djE:s0122",
-        "qsBitnO8djE:s0123"
+        "qsBitnO8djE:s0120",
+        "qsBitnO8djE:s0121"
       ],
       "start_s": 1272.612,
       "end_s": 1280.953,
@@ -1128,11 +1113,11 @@
       "pos_pct": 0.9611873111782478
     },
     {
-      "window_id": "qsBitnO8djE:j0077",
+      "window_id": "qsBitnO8djE:j0076",
       "video_id": "qsBitnO8djE",
-      "idx": 77,
+      "idx": 76,
       "sent_ids": [
-        "qsBitnO8djE:s0124"
+        "qsBitnO8djE:s0122"
       ],
       "start_s": 1281.494,
       "end_s": 1286.774,
@@ -1142,11 +1127,11 @@
       "pos_pct": 0.9678957703927492
     },
     {
-      "window_id": "qsBitnO8djE:j0078",
+      "window_id": "qsBitnO8djE:j0077",
       "video_id": "qsBitnO8djE",
-      "idx": 78,
+      "idx": 77,
       "sent_ids": [
-        "qsBitnO8djE:s0125"
+        "qsBitnO8djE:s0123"
       ],
       "start_s": 1287.595,
       "end_s": 1301.097,
@@ -1156,12 +1141,12 @@
       "pos_pct": 0.9725037764350454
     },
     {
-      "window_id": "qsBitnO8djE:j0079",
+      "window_id": "qsBitnO8djE:j0078",
       "video_id": "qsBitnO8djE",
-      "idx": 79,
+      "idx": 78,
       "sent_ids": [
-        "qsBitnO8djE:s0126",
-        "qsBitnO8djE:s0127"
+        "qsBitnO8djE:s0124",
+        "qsBitnO8djE:s0125"
       ],
       "start_s": 1302.028,
       "end_s": 1323.319,

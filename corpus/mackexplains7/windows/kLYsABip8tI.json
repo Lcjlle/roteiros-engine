@@ -1,6 +1,6 @@
 {
   "video_id": "kLYsABip8tI",
-  "generated_at": "2026-09-03T13:18:13.134528+00:00",
+  "generated_at": "2026-09-03T22:19:53.109837+00:00",
   "windows": [
     {
       "window_id": "kLYsABip8tI:j0000",
@@ -1410,9 +1410,9 @@
         "kLYsABip8tI:s0243"
       ],
       "start_s": 1092.398,
-      "end_s": 1106.124,
-      "text": "If every failure is labeled proof that you are useless, the phrase can become a shortcut from small mistake to global judgment. If an experience is described more precisely, tired, unprepared, distracted, unfamiliar,",
-      "n_words": 33,
+      "end_s": 1112.246,
+      "text": "If every failure is labeled proof that you are useless, the phrase can become a shortcut from small mistake to global judgment. If an experience is described more precisely, tired, unprepared, distracted, unfamiliar, The mind gains several possible roads, instead of one dramatic highway directly into personal doom.",
+      "n_words": 48,
       "n_sentences": 2,
       "pos_pct": 0.7596648122392211
     },
@@ -1424,12 +1424,12 @@
         "kLYsABip8tI:s0244",
         "kLYsABip8tI:s0245"
       ],
-      "start_s": 1106.824,
-      "end_s": 1118.668,
-      "text": "The mind gains several possible roads, instead of one dramatic highway directly into personal doom. Recent research has proposed the term anendophagia for little or no experienced inner speech.",
-      "n_words": 29,
+      "start_s": 1113.166,
+      "end_s": 1129.631,
+      "text": "Recent research has proposed the term anendophagia for little or no experienced inner speech. In one series of studies, adults who reported very low inner speech performed worse on certain verbal working memory and rhyme judgment tasks than people reporting high inner speech.",
+      "n_words": 43,
       "n_sentences": 2,
-      "pos_pct": 0.7696968011126565
+      "pos_pct": 0.7741070931849791
     },
     {
       "window_id": "kLYsABip8tI:j0091",
@@ -1439,12 +1439,12 @@
         "kLYsABip8tI:s0246",
         "kLYsABip8tI:s0247"
       ],
-      "start_s": 1119.508,
-      "end_s": 1139.153,
-      "text": "In one series of studies, adults who reported very low inner speech performed worse on certain verbal working memory and rhyme judgment tasks than people reporting high inner speech. They did not perform worse on every cognitive task, suggesting that alternative strategies can support thinking where internal verbal rehearsal is less available.",
-      "n_words": 52,
+      "start_s": 1130.431,
+      "end_s": 1141.574,
+      "text": "They did not perform worse on every cognitive task, suggesting that alternative strategies can support thinking where internal verbal rehearsal is less available. The interpretation remains contested.",
+      "n_words": 27,
       "n_sentences": 2,
-      "pos_pct": 0.7785173852573019
+      "pos_pct": 0.7861133518776078
     },
     {
       "window_id": "kLYsABip8tI:j0092",
@@ -1454,12 +1454,12 @@
         "kLYsABip8tI:s0248",
         "kLYsABip8tI:s0249"
       ],
-      "start_s": 1139.773,
-      "end_s": 1151.696,
-      "text": "The interpretation remains contested. Self-reports about inner experience are difficult to verify, and a later scientific commentary argued that low-reported inner speech does not prove a complete absence of it.",
-      "n_words": 30,
+      "start_s": 1142.134,
+      "end_s": 1159.478,
+      "text": "Self-reports about inner experience are difficult to verify, and a later scientific commentary argued that low-reported inner speech does not prove a complete absence of it. Someone may rarely notice inner speech, use it only under specific demands, or describe the experience differently from another person.",
+      "n_words": 46,
       "n_sentences": 2,
-      "pos_pct": 0.7926098748261474
+      "pos_pct": 0.7942517385257302
     },
     {
       "window_id": "kLYsABip8tI:j0093",
@@ -1467,30 +1467,30 @@
       "idx": 93,
       "sent_ids": [
         "kLYsABip8tI:s0250",
-        "kLYsABip8tI:s0251"
+        "kLYsABip8tI:s0251",
+        "kLYsABip8tI:s0252"
       ],
-      "start_s": 1152.276,
-      "end_s": 1165.921,
-      "text": "Someone may rarely notice inner speech, use it only under specific demands, or describe the experience differently from another person. so claims that a precise percentage of humanity lives in total internal silence should be treated carefully.",
-      "n_words": 37,
-      "n_sentences": 2,
-      "pos_pct": 0.8013045897079277
+      "start_s": 1160.358,
+      "end_s": 1172.284,
+      "text": "so claims that a precise percentage of humanity lives in total internal silence should be treated carefully. The important finding is variability. Human minds do not all present thought through the same interface.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.8069248956884562
     },
     {
       "window_id": "kLYsABip8tI:j0094",
       "video_id": "kLYsABip8tI",
       "idx": 94,
       "sent_ids": [
-        "kLYsABip8tI:s0252",
         "kLYsABip8tI:s0253",
         "kLYsABip8tI:s0254"
       ],
-      "start_s": 1166.481,
-      "end_s": 1177.186,
-      "text": "The important finding is variability. Human minds do not all present thought through the same interface. For someone with constant internal narration, a mind without it can sound empty.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.811182892906815
+      "start_s": 1172.924,
+      "end_s": 1186.151,
+      "text": "For someone with constant internal narration, a mind without it can sound empty. For someone with sparse inner speech, a continuous verbal monologue can sound like sharing an office with a co-worker who has never discovered the mute button.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.815663421418637
     },
     {
       "window_id": "kLYsABip8tI:j0095",
@@ -1498,37 +1498,23 @@
       "idx": 95,
       "sent_ids": [
         "kLYsABip8tI:s0255",
-        "kLYsABip8tI:s0256"
+        "kLYsABip8tI:s0256",
+        "kLYsABip8tI:s0257"
       ],
-      "start_s": 1177.747,
-      "end_s": 1193.798,
-      "text": "For someone with sparse inner speech, a continuous verbal monologue can sound like sharing an office with a co-worker who has never discovered the mute button. Neither experience establishes greater depth, intelligence, creativity, or self-awareness by itself.",
-      "n_words": 37,
-      "n_sentences": 2,
-      "pos_pct": 0.8190173852573018
+      "start_s": 1187.231,
+      "end_s": 1198.903,
+      "text": "Neither experience establishes greater depth, intelligence, creativity, or self-awareness by itself. They are different cognitive habits and capacities. That brings us back to identity.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.8256126564673157
     },
     {
       "window_id": "kLYsABip8tI:j0096",
       "video_id": "kLYsABip8tI",
       "idx": 96,
       "sent_ids": [
-        "kLYsABip8tI:s0257",
-        "kLYsABip8tI:s0258"
-      ],
-      "start_s": 1194.558,
-      "end_s": 1198.903,
-      "text": "They are different cognitive habits and capacities. That brings us back to identity.",
-      "n_words": 13,
-      "n_sentences": 2,
-      "pos_pct": 0.8307079276773296
-    },
-    {
-      "window_id": "kLYsABip8tI:j0097",
-      "video_id": "kLYsABip8tI",
-      "idx": 97,
-      "sent_ids": [
-        "kLYsABip8tI:s0259",
-        "kLYsABip8tI:s0260"
+        "kLYsABip8tI:s0258",
+        "kLYsABip8tI:s0259"
       ],
       "start_s": 1200.005,
       "end_s": 1210.951,
@@ -1538,12 +1524,12 @@
       "pos_pct": 0.8344958275382477
     },
     {
-      "window_id": "kLYsABip8tI:j0098",
+      "window_id": "kLYsABip8tI:j0097",
       "video_id": "kLYsABip8tI",
-      "idx": 98,
+      "idx": 97,
       "sent_ids": [
-        "kLYsABip8tI:s0261",
-        "kLYsABip8tI:s0262"
+        "kLYsABip8tI:s0260",
+        "kLYsABip8tI:s0261"
       ],
       "start_s": 1211.351,
       "end_s": 1222.877,
@@ -1553,12 +1539,12 @@
       "pos_pct": 0.8423859527121003
     },
     {
-      "window_id": "kLYsABip8tI:j0099",
+      "window_id": "kLYsABip8tI:j0098",
       "video_id": "kLYsABip8tI",
-      "idx": 99,
+      "idx": 98,
       "sent_ids": [
-        "kLYsABip8tI:s0263",
-        "kLYsABip8tI:s0264"
+        "kLYsABip8tI:s0262",
+        "kLYsABip8tI:s0263"
       ],
       "start_s": 1223.257,
       "end_s": 1233.719,
@@ -1568,14 +1554,14 @@
       "pos_pct": 0.8506655076495132
     },
     {
-      "window_id": "kLYsABip8tI:j0100",
+      "window_id": "kLYsABip8tI:j0099",
       "video_id": "kLYsABip8tI",
-      "idx": 100,
+      "idx": 99,
       "sent_ids": [
+        "kLYsABip8tI:s0264",
         "kLYsABip8tI:s0265",
         "kLYsABip8tI:s0266",
-        "kLYsABip8tI:s0267",
-        "kLYsABip8tI:s0268"
+        "kLYsABip8tI:s0267"
       ],
       "start_s": 1234.14,
       "end_s": 1245.122,
@@ -1585,14 +1571,14 @@
       "pos_pct": 0.8582336578581363
     },
     {
-      "window_id": "kLYsABip8tI:j0101",
+      "window_id": "kLYsABip8tI:j0100",
       "video_id": "kLYsABip8tI",
-      "idx": 101,
+      "idx": 100,
       "sent_ids": [
+        "kLYsABip8tI:s0268",
         "kLYsABip8tI:s0269",
         "kLYsABip8tI:s0270",
-        "kLYsABip8tI:s0271",
-        "kLYsABip8tI:s0272"
+        "kLYsABip8tI:s0271"
       ],
       "start_s": 1245.482,
       "end_s": 1248.643,
@@ -1602,14 +1588,14 @@
       "pos_pct": 0.8661210013908206
     },
     {
-      "window_id": "kLYsABip8tI:j0102",
+      "window_id": "kLYsABip8tI:j0101",
       "video_id": "kLYsABip8tI",
-      "idx": 102,
+      "idx": 101,
       "sent_ids": [
+        "kLYsABip8tI:s0272",
         "kLYsABip8tI:s0273",
         "kLYsABip8tI:s0274",
-        "kLYsABip8tI:s0275",
-        "kLYsABip8tI:s0276"
+        "kLYsABip8tI:s0275"
       ],
       "start_s": 1248.923,
       "end_s": 1257.066,
@@ -1619,14 +1605,14 @@
       "pos_pct": 0.8685139082058414
     },
     {
-      "window_id": "kLYsABip8tI:j0103",
+      "window_id": "kLYsABip8tI:j0102",
       "video_id": "kLYsABip8tI",
-      "idx": 103,
+      "idx": 102,
       "sent_ids": [
+        "kLYsABip8tI:s0276",
         "kLYsABip8tI:s0277",
         "kLYsABip8tI:s0278",
-        "kLYsABip8tI:s0279",
-        "kLYsABip8tI:s0280"
+        "kLYsABip8tI:s0279"
       ],
       "start_s": 1257.527,
       "end_s": 1272.217,
@@ -1636,12 +1622,12 @@
       "pos_pct": 0.8744972183588318
     },
     {
-      "window_id": "kLYsABip8tI:j0104",
+      "window_id": "kLYsABip8tI:j0103",
       "video_id": "kLYsABip8tI",
-      "idx": 104,
+      "idx": 103,
       "sent_ids": [
-        "kLYsABip8tI:s0281",
-        "kLYsABip8tI:s0282"
+        "kLYsABip8tI:s0280",
+        "kLYsABip8tI:s0281"
       ],
       "start_s": 1272.678,
       "end_s": 1281.688,
@@ -1651,13 +1637,13 @@
       "pos_pct": 0.8850333796940195
     },
     {
-      "window_id": "kLYsABip8tI:j0105",
+      "window_id": "kLYsABip8tI:j0104",
       "video_id": "kLYsABip8tI",
-      "idx": 105,
+      "idx": 104,
       "sent_ids": [
+        "kLYsABip8tI:s0282",
         "kLYsABip8tI:s0283",
-        "kLYsABip8tI:s0284",
-        "kLYsABip8tI:s0285"
+        "kLYsABip8tI:s0284"
       ],
       "start_s": 1282.449,
       "end_s": 1294.18,
@@ -1667,12 +1653,12 @@
       "pos_pct": 0.8918282336578582
     },
     {
-      "window_id": "kLYsABip8tI:j0106",
+      "window_id": "kLYsABip8tI:j0105",
       "video_id": "kLYsABip8tI",
-      "idx": 106,
+      "idx": 105,
       "sent_ids": [
-        "kLYsABip8tI:s0286",
-        "kLYsABip8tI:s0287"
+        "kLYsABip8tI:s0285",
+        "kLYsABip8tI:s0286"
       ],
       "start_s": 1294.64,
       "end_s": 1304.467,
@@ -1682,13 +1668,13 @@
       "pos_pct": 0.9003059805285119
     },
     {
-      "window_id": "kLYsABip8tI:j0107",
+      "window_id": "kLYsABip8tI:j0106",
       "video_id": "kLYsABip8tI",
-      "idx": 107,
+      "idx": 106,
       "sent_ids": [
+        "kLYsABip8tI:s0287",
         "kLYsABip8tI:s0288",
-        "kLYsABip8tI:s0289",
-        "kLYsABip8tI:s0290"
+        "kLYsABip8tI:s0289"
       ],
       "start_s": 1304.808,
       "end_s": 1315.776,
@@ -1698,14 +1684,14 @@
       "pos_pct": 0.9073769123783032
     },
     {
-      "window_id": "kLYsABip8tI:j0108",
+      "window_id": "kLYsABip8tI:j0107",
       "video_id": "kLYsABip8tI",
-      "idx": 108,
+      "idx": 107,
       "sent_ids": [
+        "kLYsABip8tI:s0290",
         "kLYsABip8tI:s0291",
         "kLYsABip8tI:s0292",
-        "kLYsABip8tI:s0293",
-        "kLYsABip8tI:s0294"
+        "kLYsABip8tI:s0293"
       ],
       "start_s": 1316.556,
       "end_s": 1329.205,
@@ -1715,12 +1701,12 @@
       "pos_pct": 0.9155465924895688
     },
     {
-      "window_id": "kLYsABip8tI:j0109",
+      "window_id": "kLYsABip8tI:j0108",
       "video_id": "kLYsABip8tI",
-      "idx": 109,
+      "idx": 108,
       "sent_ids": [
-        "kLYsABip8tI:s0295",
-        "kLYsABip8tI:s0296"
+        "kLYsABip8tI:s0294",
+        "kLYsABip8tI:s0295"
       ],
       "start_s": 1330.226,
       "end_s": 1337.01,
@@ -1730,13 +1716,13 @@
       "pos_pct": 0.9250528511821976
     },
     {
-      "window_id": "kLYsABip8tI:j0110",
+      "window_id": "kLYsABip8tI:j0109",
       "video_id": "kLYsABip8tI",
-      "idx": 110,
+      "idx": 109,
       "sent_ids": [
+        "kLYsABip8tI:s0296",
         "kLYsABip8tI:s0297",
-        "kLYsABip8tI:s0298",
-        "kLYsABip8tI:s0299"
+        "kLYsABip8tI:s0298"
       ],
       "start_s": 1337.71,
       "end_s": 1348.372,
@@ -1746,13 +1732,13 @@
       "pos_pct": 0.9302573018080668
     },
     {
-      "window_id": "kLYsABip8tI:j0111",
+      "window_id": "kLYsABip8tI:j0110",
       "video_id": "kLYsABip8tI",
-      "idx": 111,
+      "idx": 110,
       "sent_ids": [
+        "kLYsABip8tI:s0299",
         "kLYsABip8tI:s0300",
-        "kLYsABip8tI:s0301",
-        "kLYsABip8tI:s0302"
+        "kLYsABip8tI:s0301"
       ],
       "start_s": 1349.112,
       "end_s": 1359.435,
@@ -1762,13 +1748,13 @@
       "pos_pct": 0.9381863699582754
     },
     {
-      "window_id": "kLYsABip8tI:j0112",
+      "window_id": "kLYsABip8tI:j0111",
       "video_id": "kLYsABip8tI",
-      "idx": 112,
+      "idx": 111,
       "sent_ids": [
+        "kLYsABip8tI:s0302",
         "kLYsABip8tI:s0303",
-        "kLYsABip8tI:s0304",
-        "kLYsABip8tI:s0305"
+        "kLYsABip8tI:s0304"
       ],
       "start_s": 1360.175,
       "end_s": 1371.078,
@@ -1778,12 +1764,12 @@
       "pos_pct": 0.9458796940194715
     },
     {
-      "window_id": "kLYsABip8tI:j0113",
+      "window_id": "kLYsABip8tI:j0112",
       "video_id": "kLYsABip8tI",
-      "idx": 113,
+      "idx": 112,
       "sent_ids": [
-        "kLYsABip8tI:s0306",
-        "kLYsABip8tI:s0307"
+        "kLYsABip8tI:s0305",
+        "kLYsABip8tI:s0306"
       ],
       "start_s": 1371.778,
       "end_s": 1380.281,
@@ -1793,12 +1779,12 @@
       "pos_pct": 0.9539485396383867
     },
     {
-      "window_id": "kLYsABip8tI:j0114",
+      "window_id": "kLYsABip8tI:j0113",
       "video_id": "kLYsABip8tI",
-      "idx": 114,
+      "idx": 113,
       "sent_ids": [
-        "kLYsABip8tI:s0308",
-        "kLYsABip8tI:s0309"
+        "kLYsABip8tI:s0307",
+        "kLYsABip8tI:s0308"
       ],
       "start_s": 1380.901,
       "end_s": 1386.443,
@@ -1808,12 +1794,12 @@
       "pos_pct": 0.9602927677329625
     },
     {
-      "window_id": "kLYsABip8tI:j0115",
+      "window_id": "kLYsABip8tI:j0114",
       "video_id": "kLYsABip8tI",
-      "idx": 115,
+      "idx": 114,
       "sent_ids": [
-        "kLYsABip8tI:s0310",
-        "kLYsABip8tI:s0311"
+        "kLYsABip8tI:s0309",
+        "kLYsABip8tI:s0310"
       ],
       "start_s": 1386.884,
       "end_s": 1394.107,
@@ -1823,12 +1809,12 @@
       "pos_pct": 0.9644534075104312
     },
     {
-      "window_id": "kLYsABip8tI:j0116",
+      "window_id": "kLYsABip8tI:j0115",
       "video_id": "kLYsABip8tI",
-      "idx": 116,
+      "idx": 115,
       "sent_ids": [
-        "kLYsABip8tI:s0312",
-        "kLYsABip8tI:s0313"
+        "kLYsABip8tI:s0311",
+        "kLYsABip8tI:s0312"
       ],
       "start_s": 1394.847,
       "end_s": 1404.992,
@@ -1838,12 +1824,12 @@
       "pos_pct": 0.9699909596662031
     },
     {
-      "window_id": "kLYsABip8tI:j0117",
+      "window_id": "kLYsABip8tI:j0116",
       "video_id": "kLYsABip8tI",
-      "idx": 117,
+      "idx": 116,
       "sent_ids": [
-        "kLYsABip8tI:s0314",
-        "kLYsABip8tI:s0315"
+        "kLYsABip8tI:s0313",
+        "kLYsABip8tI:s0314"
       ],
       "start_s": 1405.552,
       "end_s": 1421.183,
@@ -1853,13 +1839,13 @@
       "pos_pct": 0.9774353268428372
     },
     {
-      "window_id": "kLYsABip8tI:j0118",
+      "window_id": "kLYsABip8tI:j0117",
       "video_id": "kLYsABip8tI",
-      "idx": 118,
+      "idx": 117,
       "sent_ids": [
+        "kLYsABip8tI:s0315",
         "kLYsABip8tI:s0316",
-        "kLYsABip8tI:s0317",
-        "kLYsABip8tI:s0318"
+        "kLYsABip8tI:s0317"
       ],
       "start_s": 1421.744,
       "end_s": 1434.978,
@@ -1869,11 +1855,11 @@
       "pos_pct": 0.9886954102920723
     },
     {
-      "window_id": "kLYsABip8tI:j0119",
+      "window_id": "kLYsABip8tI:j0118",
       "video_id": "kLYsABip8tI",
-      "idx": 119,
+      "idx": 118,
       "sent_ids": [
-        "kLYsABip8tI:s0319"
+        "kLYsABip8tI:s0318"
       ],
       "start_s": 1435.319,
       "end_s": 1437.084,

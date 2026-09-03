@@ -1,7 +1,7 @@
 {
   "video_id": "5agqeNtjstU",
   "duration_s": 1362.0,
-  "generated_at": "2026-09-03T11:59:30.844222+00:00",
+  "generated_at": "2026-09-03T22:18:13.048267+00:00",
   "sentences": [
     {
       "sent_id": "5agqeNtjstU:s0000",
@@ -1430,104 +1430,95 @@
       "video_id": "5agqeNtjstU",
       "idx": 158,
       "start_s": 1289.547,
-      "end_s": 1296.249,
-      "text": "The mating system of our species is, in the somewhat inelegant but accurate language of the evolutionary biologists who study it,",
-      "n_words": 21
+      "end_s": 1299.139,
+      "text": "The mating system of our species is, in the somewhat inelegant but accurate language of the evolutionary biologists who study it, Facultative monogamy with variation.",
+      "n_words": 25
     },
     {
       "sent_id": "5agqeNtjstU:s0159",
       "video_id": "5agqeNtjstU",
       "idx": 159,
-      "start_s": 1296.999,
-      "end_s": 1299.139,
-      "text": "Facultative monogamy with variation.",
-      "n_words": 4
-    },
-    {
-      "sent_id": "5agqeNtjstU:s0160",
-      "video_id": "5agqeNtjstU",
-      "idx": 160,
       "start_s": 1299.659,
       "end_s": 1303.34,
       "text": "The default is a recognized pair bond with one primary partner.",
       "n_words": 11
     },
     {
-      "sent_id": "5agqeNtjstU:s0161",
+      "sent_id": "5agqeNtjstU:s0160",
       "video_id": "5agqeNtjstU",
-      "idx": 161,
+      "idx": 160,
       "start_s": 1303.74,
       "end_s": 1306.941,
       "text": "The system is flexible enough to accommodate variation in both directions.",
       "n_words": 11
     },
     {
-      "sent_id": "5agqeNtjstU:s0162",
+      "sent_id": "5agqeNtjstU:s0161",
       "video_id": "5agqeNtjstU",
-      "idx": 162,
+      "idx": 161,
       "start_s": 1307.481,
       "end_s": 1313.922,
       "text": "This is not a comfortable answer for anyone who wants the biological facts to straightforwardly vindicate their preferred social arrangement.",
       "n_words": 20
     },
     {
-      "sent_id": "5agqeNtjstU:s0163",
+      "sent_id": "5agqeNtjstU:s0162",
       "video_id": "5agqeNtjstU",
-      "idx": 163,
+      "idx": 162,
       "start_s": 1314.642,
       "end_s": 1318.483,
       "text": "It does not vindicate strict monogamy as the only natural human configuration.",
       "n_words": 12
     },
     {
-      "sent_id": "5agqeNtjstU:s0164",
+      "sent_id": "5agqeNtjstU:s0163",
       "video_id": "5agqeNtjstU",
-      "idx": 164,
+      "idx": 163,
       "start_s": 1318.943,
       "end_s": 1324.724,
       "text": "It does not endorse non-monogamy as the authentic evolutionary baseline that modern culture has corrupted.",
       "n_words": 15
     },
     {
-      "sent_id": "5agqeNtjstU:s0165",
+      "sent_id": "5agqeNtjstU:s0164",
       "video_id": "5agqeNtjstU",
-      "idx": 165,
+      "idx": 164,
       "start_s": 1325.633,
       "end_s": 1335.976,
       "text": "What it tells everyone, equally, is that the evidence is complicated, the history is complicated, and human sexual behavior has always been more variable than any simple story can capture.",
       "n_words": 30
     },
     {
-      "sent_id": "5agqeNtjstU:s0166",
+      "sent_id": "5agqeNtjstU:s0165",
       "video_id": "5agqeNtjstU",
-      "idx": 166,
+      "idx": 165,
       "start_s": 1336.776,
       "end_s": 1338.577,
       "text": "The pair bond is real.",
       "n_words": 5
     },
     {
-      "sent_id": "5agqeNtjstU:s0167",
+      "sent_id": "5agqeNtjstU:s0166",
       "video_id": "5agqeNtjstU",
-      "idx": 167,
+      "idx": 166,
       "start_s": 1339.177,
       "end_s": 1341.018,
       "text": "Exclusivity is variable.",
       "n_words": 3
     },
     {
-      "sent_id": "5agqeNtjstU:s0168",
+      "sent_id": "5agqeNtjstU:s0167",
       "video_id": "5agqeNtjstU",
-      "idx": 168,
+      "idx": 167,
       "start_s": 1341.798,
       "end_s": 1356.812,
       "text": "The specific shape of any given human partnership is negotiated between biology and culture, and circumstance in ways that resist easy generalization, and that have resisted it for as long as humans have been forming partnerships and arguing about what those partnerships should look like.",
       "n_words": 45
     },
     {
-      "sent_id": "5agqeNtjstU:s0169",
+      "sent_id": "5agqeNtjstU:s0168",
       "video_id": "5agqeNtjstU",
-      "idx": 169,
+      "idx": 168,
       "start_s": 1357.373,
       "end_s": 1361.117,
       "text": "Which, if you have ever been in a relationship, is probably not news to you.",

@@ -1,7 +1,7 @@
 {
   "video_id": "yKqe_ey3QOs",
   "duration_s": 1206.0,
-  "generated_at": "2026-09-03T11:57:18.362675+00:00",
+  "generated_at": "2026-09-03T22:15:48.887768+00:00",
   "sentences": [
     {
       "sent_id": "yKqe_ey3QOs:s0000",
@@ -2258,86 +2258,77 @@
       "video_id": "yKqe_ey3QOs",
       "idx": 250,
       "start_s": 1175.666,
-      "end_s": 1179.868,
-      "text": "150,000 years of human history and what connects you to them",
-      "n_words": 11
+      "end_s": 1184.935,
+      "text": "150,000 years of human history and what connects you to them Directly, without interruption, is the simple fact that you got dressed this morning.",
+      "n_words": 24
     },
     {
       "sent_id": "yKqe_ey3QOs:s0251",
       "video_id": "yKqe_ey3QOs",
       "idx": 251,
-      "start_s": 1180.588,
-      "end_s": 1184.935,
-      "text": "Directly, without interruption, is the simple fact that you got dressed this morning.",
-      "n_words": 13
-    },
-    {
-      "sent_id": "yKqe_ey3QOs:s0252",
-      "video_id": "yKqe_ey3QOs",
-      "idx": 252,
       "start_s": 1185.075,
       "end_s": 1186.096,
       "text": "That's not a small thing.",
       "n_words": 5
     },
     {
-      "sent_id": "yKqe_ey3QOs:s0253",
+      "sent_id": "yKqe_ey3QOs:s0252",
       "video_id": "yKqe_ey3QOs",
-      "idx": 253,
+      "idx": 252,
       "start_s": 1186.677,
       "end_s": 1187.659,
       "text": "That's the whole thing.",
       "n_words": 4
     },
     {
-      "sent_id": "yKqe_ey3QOs:s0254",
+      "sent_id": "yKqe_ey3QOs:s0253",
       "video_id": "yKqe_ey3QOs",
-      "idx": 254,
+      "idx": 253,
       "start_s": 1188.079,
       "end_s": 1194.909,
       "text": "We get cold, we get creative, we get dressed, and then we spend the rest of our lives complaining that we have nothing to wear.",
       "n_words": 25
     },
     {
-      "sent_id": "yKqe_ey3QOs:s0255",
+      "sent_id": "yKqe_ey3QOs:s0254",
       "video_id": "yKqe_ey3QOs",
-      "idx": 255,
+      "idx": 254,
       "start_s": 1195.33,
       "end_s": 1197.954,
       "text": "Some things, genuinely, never change.",
       "n_words": 5
     },
     {
-      "sent_id": "yKqe_ey3QOs:s0256",
+      "sent_id": "yKqe_ey3QOs:s0255",
       "video_id": "yKqe_ey3QOs",
-      "idx": 256,
+      "idx": 255,
       "start_s": 1198.234,
       "end_s": 1198.855,
       "text": "And what about you?",
       "n_words": 4
     },
     {
-      "sent_id": "yKqe_ey3QOs:s0257",
+      "sent_id": "yKqe_ey3QOs:s0256",
       "video_id": "yKqe_ey3QOs",
-      "idx": 257,
+      "idx": 256,
       "start_s": 1199.216,
       "end_s": 1201.339,
       "text": "Would you go back in time and live completely naked?",
       "n_words": 10
     },
     {
-      "sent_id": "yKqe_ey3QOs:s0258",
+      "sent_id": "yKqe_ey3QOs:s0257",
       "video_id": "yKqe_ey3QOs",
-      "idx": 258,
+      "idx": 257,
       "start_s": 1201.86,
       "end_s": 1202.741,
       "text": "Let me know in the comments.",
       "n_words": 6
     },
     {
-      "sent_id": "yKqe_ey3QOs:s0259",
+      "sent_id": "yKqe_ey3QOs:s0258",
       "video_id": "yKqe_ey3QOs",
-      "idx": 259,
+      "idx": 258,
       "start_s": 1203.262,
       "end_s": 1204.864,
       "text": "Until then, see you soon.",

@@ -1,6 +1,6 @@
 {
   "video_id": "5agqeNtjstU",
-  "generated_at": "2026-09-03T13:18:13.108461+00:00",
+  "generated_at": "2026-09-03T22:19:53.090036+00:00",
   "windows": [
     {
       "window_id": "5agqeNtjstU:j0000",
@@ -1248,9 +1248,9 @@
         "5agqeNtjstU:s0159"
       ],
       "start_s": 1289.547,
-      "end_s": 1299.139,
-      "text": "The mating system of our species is, in the somewhat inelegant but accurate language of the evolutionary biologists who study it, Facultative monogamy with variation.",
-      "n_words": 25,
+      "end_s": 1303.34,
+      "text": "The mating system of our species is, in the somewhat inelegant but accurate language of the evolutionary biologists who study it, Facultative monogamy with variation. The default is a recognized pair bond with one primary partner.",
+      "n_words": 36,
       "n_sentences": 2,
       "pos_pct": 0.9468039647577092
     },
@@ -1262,12 +1262,12 @@
         "5agqeNtjstU:s0160",
         "5agqeNtjstU:s0161"
       ],
-      "start_s": 1299.659,
-      "end_s": 1306.941,
-      "text": "The default is a recognized pair bond with one primary partner. The system is flexible enough to accommodate variation in both directions.",
-      "n_words": 22,
+      "start_s": 1303.74,
+      "end_s": 1313.922,
+      "text": "The system is flexible enough to accommodate variation in both directions. This is not a comfortable answer for anyone who wants the biological facts to straightforwardly vindicate their preferred social arrangement.",
+      "n_words": 31,
       "n_sentences": 2,
-      "pos_pct": 0.9542283406754773
+      "pos_pct": 0.9572246696035243
     },
     {
       "window_id": "5agqeNtjstU:j0085",
@@ -1277,12 +1277,12 @@
         "5agqeNtjstU:s0162",
         "5agqeNtjstU:s0163"
       ],
-      "start_s": 1307.481,
-      "end_s": 1318.483,
-      "text": "This is not a comfortable answer for anyone who wants the biological facts to straightforwardly vindicate their preferred social arrangement. It does not vindicate strict monogamy as the only natural human configuration.",
-      "n_words": 32,
+      "start_s": 1314.642,
+      "end_s": 1324.724,
+      "text": "It does not vindicate strict monogamy as the only natural human configuration. It does not endorse non-monogamy as the authentic evolutionary baseline that modern culture has corrupted.",
+      "n_words": 27,
       "n_sentences": 2,
-      "pos_pct": 0.9599713656387665
+      "pos_pct": 0.9652290748898679
     },
     {
       "window_id": "5agqeNtjstU:j0086",
@@ -1292,12 +1292,12 @@
         "5agqeNtjstU:s0164",
         "5agqeNtjstU:s0165"
       ],
-      "start_s": 1318.943,
-      "end_s": 1335.976,
-      "text": "It does not endorse non-monogamy as the authentic evolutionary baseline that modern culture has corrupted. What it tells everyone, equally, is that the evidence is complicated, the history is complicated, and human sexual behavior has always been more variable than any simple story can capture.",
-      "n_words": 45,
+      "start_s": 1325.633,
+      "end_s": 1338.577,
+      "text": "What it tells everyone, equally, is that the evidence is complicated, the history is complicated, and human sexual behavior has always been more variable than any simple story can capture. The pair bond is real.",
+      "n_words": 35,
       "n_sentences": 2,
-      "pos_pct": 0.9683869309838473
+      "pos_pct": 0.9732988252569751
     },
     {
       "window_id": "5agqeNtjstU:j0087",
@@ -1307,12 +1307,12 @@
         "5agqeNtjstU:s0166",
         "5agqeNtjstU:s0167"
       ],
-      "start_s": 1336.776,
-      "end_s": 1341.018,
-      "text": "The pair bond is real. Exclusivity is variable.",
-      "n_words": 8,
+      "start_s": 1339.177,
+      "end_s": 1356.812,
+      "text": "Exclusivity is variable. The specific shape of any given human partnership is negotiated between biology and culture, and circumstance in ways that resist easy generalization, and that have resisted it for as long as humans have been forming partnerships and arguing about what those partnerships should look like.",
+      "n_words": 48,
       "n_sentences": 2,
-      "pos_pct": 0.9814801762114538
+      "pos_pct": 0.9832430249632892
     },
     {
       "window_id": "5agqeNtjstU:j0088",
@@ -1320,20 +1320,6 @@
       "idx": 88,
       "sent_ids": [
         "5agqeNtjstU:s0168"
-      ],
-      "start_s": 1341.798,
-      "end_s": 1356.812,
-      "text": "The specific shape of any given human partnership is negotiated between biology and culture, and circumstance in ways that resist easy generalization, and that have resisted it for as long as humans have been forming partnerships and arguing about what those partnerships should look like.",
-      "n_words": 45,
-      "n_sentences": 1,
-      "pos_pct": 0.9851674008810573
-    },
-    {
-      "window_id": "5agqeNtjstU:j0089",
-      "video_id": "5agqeNtjstU",
-      "idx": 89,
-      "sent_ids": [
-        "5agqeNtjstU:s0169"
       ],
       "start_s": 1357.373,
       "end_s": 1361.117,

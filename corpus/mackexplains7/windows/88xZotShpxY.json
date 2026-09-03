@@ -1,6 +1,6 @@
 {
   "video_id": "88xZotShpxY",
-  "generated_at": "2026-09-03T13:18:13.114553+00:00",
+  "generated_at": "2026-09-03T22:19:53.094085+00:00",
   "windows": [
     {
       "window_id": "88xZotShpxY:j0000",
@@ -883,9 +883,9 @@
         "88xZotShpxY:s0132"
       ],
       "start_s": 693.71,
-      "end_s": 705.966,
-      "text": "The person who hears the faint sound others miss, who smells the smoke or the animal or the change in the air before anyone else, whose senses are turned up high enough to catch the early, subtle warning,",
-      "n_words": 38,
+      "end_s": 715.895,
+      "text": "The person who hears the faint sound others miss, who smells the smoke or the animal or the change in the air before anyone else, whose senses are turned up high enough to catch the early, subtle warning, In a world where noticing the predator a few seconds sooner was the difference between life and death, a finely tuned sensory system was a sentinel's gift.",
+      "n_words": 65,
       "n_sentences": 1,
       "pos_pct": 0.5776103247293922
     },
@@ -897,12 +897,12 @@
         "88xZotShpxY:s0133",
         "88xZotShpxY:s0134"
       ],
-      "start_s": 706.747,
-      "end_s": 724.302,
-      "text": "In a world where noticing the predator a few seconds sooner was the difference between life and death, a finely tuned sensory system was a sentinel's gift. The same sensitivity that makes a modern shopping mall unbearable might have made someone the early warning system for the whole group out on the open land.",
-      "n_words": 54,
+      "start_s": 716.656,
+      "end_s": 732.929,
+      "text": "The same sensitivity that makes a modern shopping mall unbearable might have made someone the early warning system for the whole group out on the open land. And finally, the love of routine and consistency, the need for things to be done the same way, in the same order, reliably.",
+      "n_words": 50,
       "n_sentences": 2,
-      "pos_pct": 0.5884654454621149
+      "pos_pct": 0.5967160699417152
     },
     {
       "window_id": "88xZotShpxY:j0059",
@@ -912,12 +912,12 @@
         "88xZotShpxY:s0135",
         "88xZotShpxY:s0136"
       ],
-      "start_s": 724.903,
-      "end_s": 739.098,
-      "text": "And finally, the love of routine and consistency, the need for things to be done the same way, in the same order, reliably. Modern life, which prizes flexibility and constant change, treats this as rigidity.",
-      "n_words": 35,
+      "start_s": 733.71,
+      "end_s": 748.912,
+      "text": "Modern life, which prizes flexibility and constant change, treats this as rigidity. But consider, a huge amount of ancient survival knowledge was procedural and ritual, the precise sequence for preparing a food so it isn't toxic.",
+      "n_words": 36,
       "n_sentences": 2,
-      "pos_pct": 0.6035828476269776
+      "pos_pct": 0.6109159034138218
     },
     {
       "window_id": "88xZotShpxY:j0060",
@@ -927,12 +927,12 @@
         "88xZotShpxY:s0137",
         "88xZotShpxY:s0138"
       ],
-      "start_s": 739.639,
-      "end_s": 755.8,
-      "text": "But consider, a huge amount of ancient survival knowledge was procedural and ritual, the precise sequence for preparing a food so it isn't toxic. the exact method for making the tool, building the shelter, performing the ritual that holds the group together.",
-      "n_words": 42,
+      "start_s": 749.533,
+      "end_s": 765.992,
+      "text": "the exact method for making the tool, building the shelter, performing the ritual that holds the group together. These things had to be preserved and transmitted accurately, generation after generation, with no writing, no books, nothing but human memory and practice.",
+      "n_words": 41,
       "n_sentences": 2,
-      "pos_pct": 0.6158526228143214
+      "pos_pct": 0.6240907577019151
     },
     {
       "window_id": "88xZotShpxY:j0061",
@@ -942,12 +942,12 @@
         "88xZotShpxY:s0139",
         "88xZotShpxY:s0140"
       ],
-      "start_s": 756.301,
-      "end_s": 770.859,
-      "text": "These things had to be preserved and transmitted accurately, generation after generation, with no writing, no books, nothing but human memory and practice. Who's going to preserve the precise method without it slowly drifting and degrading?",
-      "n_words": 36,
+      "start_s": 766.613,
+      "end_s": 781.172,
+      "text": "Who's going to preserve the precise method without it slowly drifting and degrading? The mind that values doing it exactly right every time, that resists casual change, that treats the correct procedure as something to be honored and kept intact.",
+      "n_words": 40,
       "n_sentences": 2,
-      "pos_pct": 0.6297260616153206
+      "pos_pct": 0.6383122398001666
     },
     {
       "window_id": "88xZotShpxY:j0062",
@@ -957,12 +957,12 @@
         "88xZotShpxY:s0141",
         "88xZotShpxY:s0142"
       ],
-      "start_s": 771.259,
-      "end_s": 788.456,
-      "text": "The mind that values doing it exactly right every time, that resists casual change, that treats the correct procedure as something to be honored and kept intact. The person who needs the routine to stay the same is the person who keeps the life-saving method from getting corrupted over time.",
-      "n_words": 50,
+      "start_s": 781.993,
+      "end_s": 793.898,
+      "text": "The person who needs the routine to stay the same is the person who keeps the life-saving method from getting corrupted over time. Reliability isn't a small thing when the recipe, done wrong, is poison.",
+      "n_words": 35,
       "n_sentences": 2,
-      "pos_pct": 0.642180682764363
+      "pos_pct": 0.6511182348043297
     },
     {
       "window_id": "88xZotShpxY:j0063",
@@ -971,64 +971,64 @@
       "sent_ids": [
         "88xZotShpxY:s0143",
         "88xZotShpxY:s0144",
-        "88xZotShpxY:s0145"
+        "88xZotShpxY:s0145",
+        "88xZotShpxY:s0146"
       ],
-      "start_s": 789.156,
-      "end_s": 800.421,
-      "text": "Reliability isn't a small thing when the recipe, done wrong, is poison. So step back and look at the whole inventory. The deep specialist who masters one vital domain.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.657082431307244
+      "start_s": 794.438,
+      "end_s": 807.445,
+      "text": "So step back and look at the whole inventory. The deep specialist who masters one vital domain. The detail catcher who spots danger and opportunity first. The systemizer who builds and refines the technology.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.6614804329725229
     },
     {
       "window_id": "88xZotShpxY:j0064",
       "video_id": "88xZotShpxY",
       "idx": 64,
       "sent_ids": [
-        "88xZotShpxY:s0146",
         "88xZotShpxY:s0147",
         "88xZotShpxY:s0148",
-        "88xZotShpxY:s0149"
+        "88xZotShpxY:s0149",
+        "88xZotShpxY:s0150"
       ],
-      "start_s": 801.001,
-      "end_s": 814.049,
-      "text": "The detail catcher who spots danger and opportunity first. The systemizer who builds and refines the technology. The honest one everyone can trust. The independent thinker who resists the deadly pull of groupthink.",
-      "n_words": 33,
+      "start_s": 807.926,
+      "end_s": 819.233,
+      "text": "The honest one everyone can trust. The independent thinker who resists the deadly pull of groupthink. The sensory sentinel. The faithful keeper of the methods that must not be lost.",
+      "n_words": 30,
       "n_sentences": 4,
-      "pos_pct": 0.6669450457951707
+      "pos_pct": 0.6727110741049126
     },
     {
       "window_id": "88xZotShpxY:j0065",
       "video_id": "88xZotShpxY",
       "idx": 65,
       "sent_ids": [
-        "88xZotShpxY:s0150",
         "88xZotShpxY:s0151",
         "88xZotShpxY:s0152",
-        "88xZotShpxY:s0153"
+        "88xZotShpxY:s0153",
+        "88xZotShpxY:s0154"
       ],
-      "start_s": 814.63,
-      "end_s": 823.454,
-      "text": "The sensory sentinel. The faithful keeper of the methods that must not be lost. That is not a list of deficits. That is a list of roles.",
-      "n_words": 27,
+      "start_s": 819.773,
+      "end_s": 833.876,
+      "text": "That is not a list of deficits. That is a list of roles. Essential, complementary, irreplaceable roles in a functioning human group. The autistic mind, this light isn't a broken version of the social generalist.",
+      "n_words": 35,
       "n_sentences": 4,
-      "pos_pct": 0.678293089092423
+      "pos_pct": 0.6825753538717736
     },
     {
       "window_id": "88xZotShpxY:j0066",
       "video_id": "88xZotShpxY",
       "idx": 66,
       "sent_ids": [
-        "88xZotShpxY:s0154",
         "88xZotShpxY:s0155",
         "88xZotShpxY:s0156"
       ],
-      "start_s": 823.874,
-      "end_s": 839.378,
-      "text": "Essential, complementary, irreplaceable roles in a functioning human group. The autistic mind, this light isn't a broken version of the social generalist. It's a different specialist entirely, doing jobs the generalist simply cannot do.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.6859900083263947
+      "start_s": 834.477,
+      "end_s": 844.902,
+      "text": "It's a different specialist entirely, doing jobs the generalist simply cannot do. And this is the heart of the complementary cognition idea, and it's genuinely beautiful once it clicks.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.6948184845961698
     },
     {
       "window_id": "88xZotShpxY:j0067",
@@ -1037,48 +1037,48 @@
       "sent_ids": [
         "88xZotShpxY:s0157",
         "88xZotShpxY:s0158",
-        "88xZotShpxY:s0159"
+        "88xZotShpxY:s0159",
+        "88xZotShpxY:s0160"
       ],
-      "start_s": 840.118,
-      "end_s": 849.906,
-      "text": "And this is the heart of the complementary cognition idea, and it's genuinely beautiful once it clicks. A successful tribe wasn't a collection of identical people. It was an ecosystem.",
-      "n_words": 30,
-      "n_sentences": 3,
-      "pos_pct": 0.6995154038301415
+      "start_s": 845.543,
+      "end_s": 857.752,
+      "text": "A successful tribe wasn't a collection of identical people. It was an ecosystem. It needed the socially gifted networkers who held relationships together and smoothed conflict. Absolutely, those people were vital.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.7040324729392173
     },
     {
       "window_id": "88xZotShpxY:j0068",
       "video_id": "88xZotShpxY",
       "idx": 68,
       "sent_ids": [
-        "88xZotShpxY:s0160",
         "88xZotShpxY:s0161",
         "88xZotShpxY:s0162",
-        "88xZotShpxY:s0163"
+        "88xZotShpxY:s0163",
+        "88xZotShpxY:s0164"
       ],
-      "start_s": 850.246,
-      "end_s": 861.516,
-      "text": "It needed the socially gifted networkers who held relationships together and smoothed conflict. Absolutely, those people were vital. But it also needed the specialists. The detail people.",
-      "n_words": 27,
+      "start_s": 858.133,
+      "end_s": 864.798,
+      "text": "But it also needed the specialists. The detail people. The deep focus experts. The truth tellers.",
+      "n_words": 16,
       "n_sentences": 4,
-      "pos_pct": 0.7079483763530391
+      "pos_pct": 0.7145154038301416
     },
     {
       "window_id": "88xZotShpxY:j0069",
       "video_id": "88xZotShpxY",
       "idx": 69,
       "sent_ids": [
-        "88xZotShpxY:s0164",
         "88xZotShpxY:s0165",
         "88xZotShpxY:s0166",
         "88xZotShpxY:s0167"
       ],
-      "start_s": 861.956,
-      "end_s": 869.382,
-      "text": "The deep focus experts. The truth tellers. The ones who saw the world differently. The social generalist.",
-      "n_words": 17,
-      "n_sentences": 4,
-      "pos_pct": 0.7176985845129059
+      "start_s": 865.379,
+      "end_s": 876.522,
+      "text": "The ones who saw the world differently. The social generalist. and the focused specialist weren't rivals where one was normal and the other was broken.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.720548709408826
     },
     {
       "window_id": "88xZotShpxY:j0070",
@@ -1089,12 +1089,12 @@
         "88xZotShpxY:s0169",
         "88xZotShpxY:s0170"
       ],
-      "start_s": 870.097,
-      "end_s": 884.008,
-      "text": "and the focused specialist weren't rivals where one was normal and the other was broken. They were two halves of a whole, each covering for the other's blind spots. The generalist kept the group bonded.",
+      "start_s": 877.583,
+      "end_s": 888.912,
+      "text": "They were two halves of a whole, each covering for the other's blind spots. The generalist kept the group bonded. The specialist kept the group alive with expertise no one else would bother to acquire.",
       "n_words": 35,
       "n_sentences": 3,
-      "pos_pct": 0.7244771024146545
+      "pos_pct": 0.7307102414654454
     },
     {
       "window_id": "88xZotShpxY:j0071",
@@ -1104,12 +1104,12 @@
         "88xZotShpxY:s0171",
         "88xZotShpxY:s0172"
       ],
-      "start_s": 884.668,
-      "end_s": 892.427,
-      "text": "The specialist kept the group alive with expertise no one else would bother to acquire. Take either one out and the tribe is weaker.",
-      "n_words": 24,
+      "start_s": 889.825,
+      "end_s": 897.43,
+      "text": "Take either one out and the tribe is weaker. You don't get a thriving, innovating, surviving human group out of social butterflies alone.",
+      "n_words": 23,
       "n_sentences": 2,
-      "pos_pct": 0.7366094920899251
+      "pos_pct": 0.7409034138218152
     },
     {
       "window_id": "88xZotShpxY:j0072",
@@ -1119,12 +1119,12 @@
         "88xZotShpxY:s0173",
         "88xZotShpxY:s0174"
       ],
-      "start_s": 893.107,
-      "end_s": 902.133,
-      "text": "You don't get a thriving, innovating, surviving human group out of social butterflies alone. You need the people who go deep, who notice, who question, who master.",
-      "n_words": 27,
+      "start_s": 897.93,
+      "end_s": 907.476,
+      "text": "You need the people who go deep, who notice, who question, who master. You need it, in other words, exactly the kind of mind we now spend so much energy trying to fix.",
+      "n_words": 33,
       "n_sentences": 2,
-      "pos_pct": 0.7436361365528725
+      "pos_pct": 0.7476519567027476
     },
     {
       "window_id": "88xZotShpxY:j0073",
@@ -1134,12 +1134,12 @@
         "88xZotShpxY:s0175",
         "88xZotShpxY:s0176"
       ],
-      "start_s": 902.513,
-      "end_s": 915.684,
-      "text": "You need it, in other words, exactly the kind of mind we now spend so much energy trying to fix. Now, and this is essential, so I'm going to slow all the way down here, because the wrong takeaway from this is genuinely harmful.",
-      "n_words": 44,
+      "start_s": 908.637,
+      "end_s": 920.549,
+      "text": "Now, and this is essential, so I'm going to slow all the way down here, because the wrong takeaway from this is genuinely harmful. None of this means autism is just a superpower, and the challenges aren't real.",
+      "n_words": 38,
       "n_sentences": 2,
-      "pos_pct": 0.7514679433805163
+      "pos_pct": 0.7565670274771024
     },
     {
       "window_id": "88xZotShpxY:j0074",
@@ -1149,12 +1149,12 @@
         "88xZotShpxY:s0177",
         "88xZotShpxY:s0178"
       ],
-      "start_s": 916.305,
-      "end_s": 926.715,
-      "text": "None of this means autism is just a superpower, and the challenges aren't real. They are extremely real, and pretending otherwise does a disservice to a lot of people and their families.",
-      "n_words": 32,
+      "start_s": 921.15,
+      "end_s": 929.738,
+      "text": "They are extremely real, and pretending otherwise does a disservice to a lot of people and their families. Autism is a spectrum, and it's a wide one.",
+      "n_words": 27,
       "n_sentences": 2,
-      "pos_pct": 0.7629517069109075
+      "pos_pct": 0.7669858451290591
     },
     {
       "window_id": "88xZotShpxY:j0075",
@@ -1164,34 +1164,33 @@
         "88xZotShpxY:s0179",
         "88xZotShpxY:s0180"
       ],
-      "start_s": 927.496,
-      "end_s": 938.644,
-      "text": "Autism is a spectrum, and it's a wide one. For some people, autistic traits look like the focused specialist we've been describing, navigating the world with a different but powerful kind of mind.",
-      "n_words": 33,
+      "start_s": 930.558,
+      "end_s": 942.067,
+      "text": "For some people, autistic traits look like the focused specialist we've been describing, navigating the world with a different but powerful kind of mind. For others, autism comes with profound challenges.",
+      "n_words": 31,
       "n_sentences": 2,
-      "pos_pct": 0.7722697751873439
+      "pos_pct": 0.774819317235637
     },
     {
       "window_id": "88xZotShpxY:j0076",
       "video_id": "88xZotShpxY",
       "idx": 76,
       "sent_ids": [
-        "88xZotShpxY:s0181",
-        "88xZotShpxY:s0182"
+        "88xZotShpxY:s0181"
       ],
-      "start_s": 939.205,
+      "start_s": 942.648,
       "end_s": 955.237,
-      "text": "For others, autism comes with profound challenges. Being nonverbal, needing significant daily support, struggling with things the world makes no accommodation for, facing real and painful difficulty that no amount of romantic prehistoric storytelling makes okay.",
-      "n_words": 36,
-      "n_sentences": 2,
-      "pos_pct": 0.7820191507077435
+      "text": "Being nonverbal, needing significant daily support, struggling with things the world makes no accommodation for, facing real and painful difficulty that no amount of romantic prehistoric storytelling makes okay.",
+      "n_words": 29,
+      "n_sentences": 1,
+      "pos_pct": 0.7848859283930059
     },
     {
       "window_id": "88xZotShpxY:j0077",
       "video_id": "88xZotShpxY",
       "idx": 77,
       "sent_ids": [
-        "88xZotShpxY:s0183"
+        "88xZotShpxY:s0182"
       ],
       "start_s": 956.158,
       "end_s": 966.224,
@@ -1205,8 +1204,8 @@
       "video_id": "88xZotShpxY",
       "idx": 78,
       "sent_ids": [
-        "88xZotShpxY:s0184",
-        "88xZotShpxY:s0185"
+        "88xZotShpxY:s0183",
+        "88xZotShpxY:s0184"
       ],
       "start_s": 966.924,
       "end_s": 974.289,
@@ -1220,8 +1219,8 @@
       "video_id": "88xZotShpxY",
       "idx": 79,
       "sent_ids": [
-        "88xZotShpxY:s0186",
-        "88xZotShpxY:s0187"
+        "88xZotShpxY:s0185",
+        "88xZotShpxY:s0186"
       ],
       "start_s": 975.009,
       "end_s": 983.854,
@@ -1235,9 +1234,9 @@
       "video_id": "88xZotShpxY",
       "idx": 80,
       "sent_ids": [
+        "88xZotShpxY:s0187",
         "88xZotShpxY:s0188",
-        "88xZotShpxY:s0189",
-        "88xZotShpxY:s0190"
+        "88xZotShpxY:s0189"
       ],
       "start_s": 984.592,
       "end_s": 998.501,
@@ -1251,10 +1250,10 @@
       "video_id": "88xZotShpxY",
       "idx": 81,
       "sent_ids": [
+        "88xZotShpxY:s0190",
         "88xZotShpxY:s0191",
         "88xZotShpxY:s0192",
-        "88xZotShpxY:s0193",
-        "88xZotShpxY:s0194"
+        "88xZotShpxY:s0193"
       ],
       "start_s": 999.182,
       "end_s": 1010.909,
@@ -1268,8 +1267,8 @@
       "video_id": "88xZotShpxY",
       "idx": 82,
       "sent_ids": [
-        "88xZotShpxY:s0195",
-        "88xZotShpxY:s0196"
+        "88xZotShpxY:s0194",
+        "88xZotShpxY:s0195"
       ],
       "start_s": 1011.39,
       "end_s": 1015.011,
@@ -1283,8 +1282,8 @@
       "video_id": "88xZotShpxY",
       "idx": 83,
       "sent_ids": [
-        "88xZotShpxY:s0197",
-        "88xZotShpxY:s0198"
+        "88xZotShpxY:s0196",
+        "88xZotShpxY:s0197"
       ],
       "start_s": 1016.052,
       "end_s": 1030.628,
@@ -1298,7 +1297,7 @@
       "video_id": "88xZotShpxY",
       "idx": 84,
       "sent_ids": [
-        "88xZotShpxY:s0199"
+        "88xZotShpxY:s0198"
       ],
       "start_s": 1031.269,
       "end_s": 1045.542,
@@ -1312,7 +1311,7 @@
       "video_id": "88xZotShpxY",
       "idx": 85,
       "sent_ids": [
-        "88xZotShpxY:s0200"
+        "88xZotShpxY:s0199"
       ],
       "start_s": 1046.243,
       "end_s": 1049.885,
@@ -1326,7 +1325,7 @@
       "video_id": "88xZotShpxY",
       "idx": 86,
       "sent_ids": [
-        "88xZotShpxY:s0201"
+        "88xZotShpxY:s0200"
       ],
       "start_s": 1050.245,
       "end_s": 1069.357,
@@ -1340,8 +1339,8 @@
       "video_id": "88xZotShpxY",
       "idx": 87,
       "sent_ids": [
-        "88xZotShpxY:s0202",
-        "88xZotShpxY:s0203"
+        "88xZotShpxY:s0201",
+        "88xZotShpxY:s0202"
       ],
       "start_s": 1070.077,
       "end_s": 1079.324,
@@ -1355,8 +1354,8 @@
       "video_id": "88xZotShpxY",
       "idx": 88,
       "sent_ids": [
-        "88xZotShpxY:s0204",
-        "88xZotShpxY:s0205"
+        "88xZotShpxY:s0203",
+        "88xZotShpxY:s0204"
       ],
       "start_s": 1079.745,
       "end_s": 1088.291,
@@ -1370,7 +1369,7 @@
       "video_id": "88xZotShpxY",
       "idx": 89,
       "sent_ids": [
-        "88xZotShpxY:s0206"
+        "88xZotShpxY:s0205"
       ],
       "start_s": 1088.832,
       "end_s": 1096.098,
@@ -1384,7 +1383,7 @@
       "video_id": "88xZotShpxY",
       "idx": 90,
       "sent_ids": [
-        "88xZotShpxY:s0207"
+        "88xZotShpxY:s0206"
       ],
       "start_s": 1097.293,
       "end_s": 1112.579,
@@ -1398,12 +1397,12 @@
       "video_id": "88xZotShpxY",
       "idx": 91,
       "sent_ids": [
-        "88xZotShpxY:s0208"
+        "88xZotShpxY:s0207"
       ],
       "start_s": 1113.219,
-      "end_s": 1125.404,
-      "text": "So if you're someone who's always felt a half-step out of sync with the social world, who goes deep instead of wide, who notices what others miss, who can't lie to save your life, who needs your routines, who loves your one subject with a fire,",
-      "n_words": 46,
+      "end_s": 1127.84,
+      "text": "So if you're someone who's always felt a half-step out of sync with the social world, who goes deep instead of wide, who notices what others miss, who can't lie to save your life, who needs your routines, who loves your one subject with a fire, Other people don't understand.",
+      "n_words": 50,
       "n_sentences": 1,
       "pos_pct": 0.9269100749375521
     },
@@ -1412,47 +1411,48 @@
       "video_id": "88xZotShpxY",
       "idx": 92,
       "sent_ids": [
+        "88xZotShpxY:s0208",
         "88xZotShpxY:s0209",
-        "88xZotShpxY:s0210",
-        "88xZotShpxY:s0211"
+        "88xZotShpxY:s0210"
       ],
-      "start_s": 1126.72,
-      "end_s": 1133.342,
-      "text": "Other people don't understand. Here's the thing worth holding on to. You are not the failed version of a normal person.",
-      "n_words": 21,
+      "start_s": 1129.041,
+      "end_s": 1137.763,
+      "text": "Here's the thing worth holding on to. You are not the failed version of a normal person. You may be a specialist born into a world that forgot it was ever built out of specialists.",
+      "n_words": 35,
       "n_sentences": 3,
-      "pos_pct": 0.9381515403830142
+      "pos_pct": 0.9400840965861781
     },
     {
       "window_id": "88xZotShpxY:j0093",
       "video_id": "88xZotShpxY",
       "idx": 93,
       "sent_ids": [
+        "88xZotShpxY:s0211",
         "88xZotShpxY:s0212",
-        "88xZotShpxY:s0213",
-        "88xZotShpxY:s0214"
+        "88xZotShpxY:s0213"
       ],
-      "start_s": 1133.822,
-      "end_s": 1142.384,
-      "text": "You may be a specialist born into a world that forgot it was ever built out of specialists. The tribe needed the person who saw differently. It needed the one who went deep.",
-      "n_words": 33,
+      "start_s": 1138.303,
+      "end_s": 1146.185,
+      "text": "The tribe needed the person who saw differently. It needed the one who went deep. It needed the noticer and the truth teller and the keeper of the methods.",
+      "n_words": 29,
       "n_sentences": 3,
-      "pos_pct": 0.9440649458784346
+      "pos_pct": 0.9477960033305579
     },
     {
       "window_id": "88xZotShpxY:j0094",
       "video_id": "88xZotShpxY",
       "idx": 94,
       "sent_ids": [
+        "88xZotShpxY:s0214",
         "88xZotShpxY:s0215",
         "88xZotShpxY:s0216"
       ],
-      "start_s": 1142.604,
-      "end_s": 1150.746,
-      "text": "It needed the noticer and the truth teller and the keeper of the methods. For hundreds of thousands of years, minds like that weren't the problem to be solved.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.9513771856786012
+      "start_s": 1146.505,
+      "end_s": 1156.868,
+      "text": "For hundreds of thousands of years, minds like that weren't the problem to be solved. They were part of the reason any of us made it at all. Did autistic traits help ancient tribes?",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.9546253122398003
     },
     {
       "window_id": "88xZotShpxY:j0095",
@@ -1462,12 +1462,12 @@
         "88xZotShpxY:s0217",
         "88xZotShpxY:s0218"
       ],
-      "start_s": 1151.026,
-      "end_s": 1156.868,
-      "text": "They were part of the reason any of us made it at all. Did autistic traits help ancient tribes?",
-      "n_words": 19,
+      "start_s": 1157.448,
+      "end_s": 1166.733,
+      "text": "The honest answer, looking at the traits one by one and at how human groups actually survived, is that they very likely didn't just help. They may have been essential.",
+      "n_words": 30,
       "n_sentences": 2,
-      "pos_pct": 0.9583896752706079
+      "pos_pct": 0.9637368859283931
     },
     {
       "window_id": "88xZotShpxY:j0096",
@@ -1477,21 +1477,6 @@
         "88xZotShpxY:s0219",
         "88xZotShpxY:s0220"
       ],
-      "start_s": 1157.448,
-      "end_s": 1166.733,
-      "text": "The honest answer, looking at the traits one by one and at how human groups actually survived, is that they very likely didn't just help. They may have been essential.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.9637368859283931
-    },
-    {
-      "window_id": "88xZotShpxY:j0097",
-      "video_id": "88xZotShpxY",
-      "idx": 97,
-      "sent_ids": [
-        "88xZotShpxY:s0221",
-        "88xZotShpxY:s0222"
-      ],
       "start_s": 1167.513,
       "end_s": 1178.965,
       "text": "We didn't conquer this planet by being a single kind of mind, flawlessly social and identically smooth. We did it by being a wild, varied collection of different brains, each catching what the others dropped.",
@@ -1500,13 +1485,13 @@
       "pos_pct": 0.9721174021648625
     },
     {
-      "window_id": "88xZotShpxY:j0098",
+      "window_id": "88xZotShpxY:j0097",
       "video_id": "88xZotShpxY",
-      "idx": 98,
+      "idx": 97,
       "sent_ids": [
-        "88xZotShpxY:s0223",
-        "88xZotShpxY:s0224",
-        "88xZotShpxY:s0225"
+        "88xZotShpxY:s0221",
+        "88xZotShpxY:s0222",
+        "88xZotShpxY:s0223"
       ],
       "start_s": 1179.626,
       "end_s": 1191.725,
@@ -1516,12 +1501,12 @@
       "pos_pct": 0.982203164029975
     },
     {
-      "window_id": "88xZotShpxY:j0099",
+      "window_id": "88xZotShpxY:j0098",
       "video_id": "88xZotShpxY",
-      "idx": 99,
+      "idx": 98,
       "sent_ids": [
-        "88xZotShpxY:s0226",
-        "88xZotShpxY:s0227"
+        "88xZotShpxY:s0224",
+        "88xZotShpxY:s0225"
       ],
       "start_s": 1192.426,
       "end_s": 1199.737,

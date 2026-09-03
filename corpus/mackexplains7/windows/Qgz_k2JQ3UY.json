@@ -1,6 +1,6 @@
 {
   "video_id": "Qgz_k2JQ3UY",
-  "generated_at": "2026-09-03T13:18:13.125546+00:00",
+  "generated_at": "2026-09-03T22:19:53.101760+00:00",
   "windows": [
     {
       "window_id": "Qgz_k2JQ3UY:j0000",
@@ -638,14 +638,13 @@
       "sent_ids": [
         "Qgz_k2JQ3UY:s0096",
         "Qgz_k2JQ3UY:s0097",
-        "Qgz_k2JQ3UY:s0098",
-        "Qgz_k2JQ3UY:s0099"
+        "Qgz_k2JQ3UY:s0098"
       ],
       "start_s": 472.144,
       "end_s": 486.133,
       "text": "Something we were essentially forced into by artificial lighting and the factory schedule. Historian Roger E. Kirch spent over two decades researching sleep patterns in historical documents. Diaries, medical texts, court records, literature.",
       "n_words": 33,
-      "n_sentences": 4,
+      "n_sentences": 3,
       "pos_pct": 0.343877640203933
     },
     {
@@ -653,8 +652,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 42,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0100",
-        "Qgz_k2JQ3UY:s0101"
+        "Qgz_k2JQ3UY:s0099",
+        "Qgz_k2JQ3UY:s0100"
       ],
       "start_s": 486.873,
       "end_s": 499.02,
@@ -668,8 +667,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 43,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0102",
-        "Qgz_k2JQ3UY:s0103"
+        "Qgz_k2JQ3UY:s0101",
+        "Qgz_k2JQ3UY:s0102"
       ],
       "start_s": 499.781,
       "end_s": 509.887,
@@ -683,10 +682,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 44,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0103",
         "Qgz_k2JQ3UY:s0104",
         "Qgz_k2JQ3UY:s0105",
-        "Qgz_k2JQ3UY:s0106",
-        "Qgz_k2JQ3UY:s0107"
+        "Qgz_k2JQ3UY:s0106"
       ],
       "start_s": 510.487,
       "end_s": 521.975,
@@ -700,10 +699,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 45,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0107",
         "Qgz_k2JQ3UY:s0108",
         "Qgz_k2JQ3UY:s0109",
-        "Qgz_k2JQ3UY:s0110",
-        "Qgz_k2JQ3UY:s0111"
+        "Qgz_k2JQ3UY:s0110"
       ],
       "start_s": 522.456,
       "end_s": 528.14,
@@ -717,8 +716,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 46,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0112",
-        "Qgz_k2JQ3UY:s0113"
+        "Qgz_k2JQ3UY:s0111",
+        "Qgz_k2JQ3UY:s0112"
       ],
       "start_s": 529.115,
       "end_s": 541.565,
@@ -732,8 +731,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 47,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0114",
-        "Qgz_k2JQ3UY:s0115"
+        "Qgz_k2JQ3UY:s0113",
+        "Qgz_k2JQ3UY:s0114"
       ],
       "start_s": 542.285,
       "end_s": 555.215,
@@ -747,7 +746,7 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 48,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0116"
+        "Qgz_k2JQ3UY:s0115"
       ],
       "start_s": 555.595,
       "end_s": 571.734,
@@ -761,8 +760,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 49,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0117",
-        "Qgz_k2JQ3UY:s0118"
+        "Qgz_k2JQ3UY:s0116",
+        "Qgz_k2JQ3UY:s0117"
       ],
       "start_s": 572.695,
       "end_s": 575.738,
@@ -776,8 +775,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 50,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0119",
-        "Qgz_k2JQ3UY:s0120"
+        "Qgz_k2JQ3UY:s0118",
+        "Qgz_k2JQ3UY:s0119"
       ],
       "start_s": 576.499,
       "end_s": 589.57,
@@ -791,8 +790,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 51,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0121",
-        "Qgz_k2JQ3UY:s0122"
+        "Qgz_k2JQ3UY:s0120",
+        "Qgz_k2JQ3UY:s0121"
       ],
       "start_s": 590.01,
       "end_s": 604.562,
@@ -806,8 +805,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 52,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0123",
-        "Qgz_k2JQ3UY:s0124"
+        "Qgz_k2JQ3UY:s0122",
+        "Qgz_k2JQ3UY:s0123"
       ],
       "start_s": 605.262,
       "end_s": 614.769,
@@ -821,8 +820,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 53,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0125",
-        "Qgz_k2JQ3UY:s0126"
+        "Qgz_k2JQ3UY:s0124",
+        "Qgz_k2JQ3UY:s0125"
       ],
       "start_s": 615.189,
       "end_s": 620.973,
@@ -836,9 +835,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 54,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0126",
         "Qgz_k2JQ3UY:s0127",
-        "Qgz_k2JQ3UY:s0128",
-        "Qgz_k2JQ3UY:s0129"
+        "Qgz_k2JQ3UY:s0128"
       ],
       "start_s": 621.353,
       "end_s": 632.656,
@@ -852,9 +851,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 55,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0129",
         "Qgz_k2JQ3UY:s0130",
-        "Qgz_k2JQ3UY:s0131",
-        "Qgz_k2JQ3UY:s0132"
+        "Qgz_k2JQ3UY:s0131"
       ],
       "start_s": 633.156,
       "end_s": 646.06,
@@ -868,8 +867,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 56,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0133",
-        "Qgz_k2JQ3UY:s0134"
+        "Qgz_k2JQ3UY:s0132",
+        "Qgz_k2JQ3UY:s0133"
       ],
       "start_s": 647.14,
       "end_s": 658.93,
@@ -883,8 +882,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 57,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0135",
-        "Qgz_k2JQ3UY:s0136"
+        "Qgz_k2JQ3UY:s0134",
+        "Qgz_k2JQ3UY:s0135"
       ],
       "start_s": 659.651,
       "end_s": 672.781,
@@ -898,8 +897,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 58,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0137",
-        "Qgz_k2JQ3UY:s0138"
+        "Qgz_k2JQ3UY:s0136",
+        "Qgz_k2JQ3UY:s0137"
       ],
       "start_s": 673.582,
       "end_s": 684.947,
@@ -913,9 +912,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 59,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0138",
         "Qgz_k2JQ3UY:s0139",
-        "Qgz_k2JQ3UY:s0140",
-        "Qgz_k2JQ3UY:s0141"
+        "Qgz_k2JQ3UY:s0140"
       ],
       "start_s": 685.628,
       "end_s": 694.072,
@@ -929,9 +928,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 60,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0141",
         "Qgz_k2JQ3UY:s0142",
-        "Qgz_k2JQ3UY:s0143",
-        "Qgz_k2JQ3UY:s0144"
+        "Qgz_k2JQ3UY:s0143"
       ],
       "start_s": 694.892,
       "end_s": 705.94,
@@ -945,8 +944,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 61,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0145",
-        "Qgz_k2JQ3UY:s0146"
+        "Qgz_k2JQ3UY:s0144",
+        "Qgz_k2JQ3UY:s0145"
       ],
       "start_s": 706.501,
       "end_s": 717.969,
@@ -960,8 +959,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 62,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0147",
-        "Qgz_k2JQ3UY:s0148"
+        "Qgz_k2JQ3UY:s0146",
+        "Qgz_k2JQ3UY:s0147"
       ],
       "start_s": 718.75,
       "end_s": 734.811,
@@ -975,8 +974,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 63,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0149",
-        "Qgz_k2JQ3UY:s0150"
+        "Qgz_k2JQ3UY:s0148",
+        "Qgz_k2JQ3UY:s0149"
       ],
       "start_s": 735.091,
       "end_s": 747.935,
@@ -990,8 +989,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 64,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0151",
-        "Qgz_k2JQ3UY:s0152"
+        "Qgz_k2JQ3UY:s0150",
+        "Qgz_k2JQ3UY:s0151"
       ],
       "start_s": 748.535,
       "end_s": 751.176,
@@ -1005,7 +1004,7 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 65,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0153"
+        "Qgz_k2JQ3UY:s0152"
       ],
       "start_s": 751.516,
       "end_s": 769.643,
@@ -1019,10 +1018,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 66,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0153",
         "Qgz_k2JQ3UY:s0154",
         "Qgz_k2JQ3UY:s0155",
-        "Qgz_k2JQ3UY:s0156",
-        "Qgz_k2JQ3UY:s0157"
+        "Qgz_k2JQ3UY:s0156"
       ],
       "start_s": 770.444,
       "end_s": 777.948,
@@ -1036,8 +1035,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 67,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0158",
-        "Qgz_k2JQ3UY:s0159"
+        "Qgz_k2JQ3UY:s0157",
+        "Qgz_k2JQ3UY:s0158"
       ],
       "start_s": 778.548,
       "end_s": 784.752,
@@ -1051,8 +1050,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 68,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0160",
-        "Qgz_k2JQ3UY:s0161"
+        "Qgz_k2JQ3UY:s0159",
+        "Qgz_k2JQ3UY:s0160"
       ],
       "start_s": 785.372,
       "end_s": 799.029,
@@ -1066,8 +1065,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 69,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0162",
-        "Qgz_k2JQ3UY:s0163"
+        "Qgz_k2JQ3UY:s0161",
+        "Qgz_k2JQ3UY:s0162"
       ],
       "start_s": 799.409,
       "end_s": 829.257,
@@ -1081,14 +1080,13 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 70,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0164",
-        "Qgz_k2JQ3UY:s0165"
+        "Qgz_k2JQ3UY:s0163"
       ],
       "start_s": 829.737,
-      "end_s": 844.027,
-      "text": "This is universal across all human cultures that have ever been observed, and universality in human behavior almost always signals deep evolutionary roots. Wrestling competitions, foot races, tests of throwing accuracy,",
-      "n_words": 31,
-      "n_sentences": 2,
+      "end_s": 838.984,
+      "text": "This is universal across all human cultures that have ever been observed, and universality in human behavior almost always signals deep evolutionary roots.",
+      "n_words": 23,
+      "n_sentences": 1,
       "pos_pct": 0.6043241077931537
     },
     {
@@ -1096,22 +1094,22 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 71,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0166"
+        "Qgz_k2JQ3UY:s0164"
       ],
-      "start_s": 845.048,
+      "start_s": 839.904,
       "end_s": 856.717,
-      "text": "These appear independently in ancient cultures worldwide, in groups with no contact with each other, which is very strong evidence that competitive play is simply something humans do naturally when they have the time and energy to do it.",
-      "n_words": 39,
+      "text": "Wrestling competitions, foot races, tests of throwing accuracy, These appear independently in ancient cultures worldwide, in groups with no contact with each other, which is very strong evidence that competitive play is simply something humans do naturally when they have the time and energy to do it.",
+      "n_words": 47,
       "n_sentences": 1,
-      "pos_pct": 0.6154756008739986
+      "pos_pct": 0.6117290604515659
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0072",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 72,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0167",
-        "Qgz_k2JQ3UY:s0168"
+        "Qgz_k2JQ3UY:s0165",
+        "Qgz_k2JQ3UY:s0166"
       ],
       "start_s": 857.437,
       "end_s": 869.866,
@@ -1125,9 +1123,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 73,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0169",
-        "Qgz_k2JQ3UY:s0170",
-        "Qgz_k2JQ3UY:s0171"
+        "Qgz_k2JQ3UY:s0167",
+        "Qgz_k2JQ3UY:s0168",
+        "Qgz_k2JQ3UY:s0169"
       ],
       "start_s": 870.847,
       "end_s": 883.723,
@@ -1141,10 +1139,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 74,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0170",
+        "Qgz_k2JQ3UY:s0171",
         "Qgz_k2JQ3UY:s0172",
-        "Qgz_k2JQ3UY:s0173",
-        "Qgz_k2JQ3UY:s0174",
-        "Qgz_k2JQ3UY:s0175"
+        "Qgz_k2JQ3UY:s0173"
       ],
       "start_s": 884.304,
       "end_s": 894.253,
@@ -1158,8 +1156,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 75,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0176",
-        "Qgz_k2JQ3UY:s0177"
+        "Qgz_k2JQ3UY:s0174",
+        "Qgz_k2JQ3UY:s0175"
       ],
       "start_s": 894.634,
       "end_s": 903.159,
@@ -1173,9 +1171,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 76,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0178",
-        "Qgz_k2JQ3UY:s0179",
-        "Qgz_k2JQ3UY:s0180"
+        "Qgz_k2JQ3UY:s0176",
+        "Qgz_k2JQ3UY:s0177",
+        "Qgz_k2JQ3UY:s0178"
       ],
       "start_s": 904.04,
       "end_s": 916.543,
@@ -1189,9 +1187,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 77,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0181",
-        "Qgz_k2JQ3UY:s0182",
-        "Qgz_k2JQ3UY:s0183"
+        "Qgz_k2JQ3UY:s0179",
+        "Qgz_k2JQ3UY:s0180",
+        "Qgz_k2JQ3UY:s0181"
       ],
       "start_s": 917.123,
       "end_s": 920.824,
@@ -1205,7 +1203,7 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 78,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0184"
+        "Qgz_k2JQ3UY:s0182"
       ],
       "start_s": 921.345,
       "end_s": 936.076,
@@ -1219,9 +1217,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 79,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0185",
-        "Qgz_k2JQ3UY:s0186",
-        "Qgz_k2JQ3UY:s0187"
+        "Qgz_k2JQ3UY:s0183",
+        "Qgz_k2JQ3UY:s0184",
+        "Qgz_k2JQ3UY:s0185"
       ],
       "start_s": 936.877,
       "end_s": 944.882,
@@ -1235,8 +1233,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 80,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0188",
-        "Qgz_k2JQ3UY:s0189"
+        "Qgz_k2JQ3UY:s0186",
+        "Qgz_k2JQ3UY:s0187"
       ],
       "start_s": 945.222,
       "end_s": 958.629,
@@ -1250,8 +1248,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 81,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0190",
-        "Qgz_k2JQ3UY:s0191"
+        "Qgz_k2JQ3UY:s0188",
+        "Qgz_k2JQ3UY:s0189"
       ],
       "start_s": 959.009,
       "end_s": 979.518,
@@ -1265,8 +1263,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 82,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0192",
-        "Qgz_k2JQ3UY:s0193"
+        "Qgz_k2JQ3UY:s0190",
+        "Qgz_k2JQ3UY:s0191"
       ],
       "start_s": 980.618,
       "end_s": 986.663,
@@ -1280,8 +1278,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 83,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0194",
-        "Qgz_k2JQ3UY:s0195"
+        "Qgz_k2JQ3UY:s0192",
+        "Qgz_k2JQ3UY:s0193"
       ],
       "start_s": 987.323,
       "end_s": 1001.614,
@@ -1295,10 +1293,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 84,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0194",
+        "Qgz_k2JQ3UY:s0195",
         "Qgz_k2JQ3UY:s0196",
-        "Qgz_k2JQ3UY:s0197",
-        "Qgz_k2JQ3UY:s0198",
-        "Qgz_k2JQ3UY:s0199"
+        "Qgz_k2JQ3UY:s0197"
       ],
       "start_s": 1002.175,
       "end_s": 1011.219,
@@ -1312,8 +1310,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 85,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0200",
-        "Qgz_k2JQ3UY:s0201"
+        "Qgz_k2JQ3UY:s0198",
+        "Qgz_k2JQ3UY:s0199"
       ],
       "start_s": 1011.779,
       "end_s": 1018.202,
@@ -1327,7 +1325,7 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 86,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0202"
+        "Qgz_k2JQ3UY:s0200"
       ],
       "start_s": 1019.2,
       "end_s": 1028.863,
@@ -1341,8 +1339,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 87,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0203",
-        "Qgz_k2JQ3UY:s0204"
+        "Qgz_k2JQ3UY:s0201",
+        "Qgz_k2JQ3UY:s0202"
       ],
       "start_s": 1029.483,
       "end_s": 1032.764,
@@ -1356,7 +1354,7 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 88,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0205"
+        "Qgz_k2JQ3UY:s0203"
       ],
       "start_s": 1033.164,
       "end_s": 1041.346,
@@ -1370,7 +1368,7 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 89,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0206"
+        "Qgz_k2JQ3UY:s0204"
       ],
       "start_s": 1041.946,
       "end_s": 1057.596,
@@ -1384,8 +1382,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 90,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0207",
-        "Qgz_k2JQ3UY:s0208"
+        "Qgz_k2JQ3UY:s0205",
+        "Qgz_k2JQ3UY:s0206"
       ],
       "start_s": 1058.237,
       "end_s": 1074.808,
@@ -1399,9 +1397,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 91,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0209",
-        "Qgz_k2JQ3UY:s0210",
-        "Qgz_k2JQ3UY:s0211"
+        "Qgz_k2JQ3UY:s0207",
+        "Qgz_k2JQ3UY:s0208",
+        "Qgz_k2JQ3UY:s0209"
       ],
       "start_s": 1075.169,
       "end_s": 1083.194,
@@ -1415,8 +1413,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 92,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0212",
-        "Qgz_k2JQ3UY:s0213"
+        "Qgz_k2JQ3UY:s0210",
+        "Qgz_k2JQ3UY:s0211"
       ],
       "start_s": 1084.255,
       "end_s": 1100.962,
@@ -1430,8 +1428,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 93,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0214",
-        "Qgz_k2JQ3UY:s0215"
+        "Qgz_k2JQ3UY:s0212",
+        "Qgz_k2JQ3UY:s0213"
       ],
       "start_s": 1101.802,
       "end_s": 1115.655,
@@ -1445,8 +1443,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 94,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0216",
-        "Qgz_k2JQ3UY:s0217"
+        "Qgz_k2JQ3UY:s0214",
+        "Qgz_k2JQ3UY:s0215"
       ],
       "start_s": 1116.256,
       "end_s": 1135.17,
@@ -1460,10 +1458,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 95,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0216",
+        "Qgz_k2JQ3UY:s0217",
         "Qgz_k2JQ3UY:s0218",
-        "Qgz_k2JQ3UY:s0219",
-        "Qgz_k2JQ3UY:s0220",
-        "Qgz_k2JQ3UY:s0221"
+        "Qgz_k2JQ3UY:s0219"
       ],
       "start_s": 1135.79,
       "end_s": 1147.816,
@@ -1477,10 +1475,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 96,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0220",
+        "Qgz_k2JQ3UY:s0221",
         "Qgz_k2JQ3UY:s0222",
-        "Qgz_k2JQ3UY:s0223",
-        "Qgz_k2JQ3UY:s0224",
-        "Qgz_k2JQ3UY:s0225"
+        "Qgz_k2JQ3UY:s0223"
       ],
       "start_s": 1148.197,
       "end_s": 1157.102,
@@ -1494,9 +1492,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 97,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0226",
-        "Qgz_k2JQ3UY:s0227",
-        "Qgz_k2JQ3UY:s0228"
+        "Qgz_k2JQ3UY:s0224",
+        "Qgz_k2JQ3UY:s0225",
+        "Qgz_k2JQ3UY:s0226"
       ],
       "start_s": 1157.823,
       "end_s": 1167.353,
@@ -1510,8 +1508,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 98,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0229",
-        "Qgz_k2JQ3UY:s0230"
+        "Qgz_k2JQ3UY:s0227",
+        "Qgz_k2JQ3UY:s0228"
       ],
       "start_s": 1168.154,
       "end_s": 1185.145,
@@ -1525,8 +1523,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 99,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0231",
-        "Qgz_k2JQ3UY:s0232"
+        "Qgz_k2JQ3UY:s0229",
+        "Qgz_k2JQ3UY:s0230"
       ],
       "start_s": 1175.28,
       "end_s": 1197.932,
@@ -1540,10 +1538,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 100,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0231",
+        "Qgz_k2JQ3UY:s0232",
         "Qgz_k2JQ3UY:s0233",
-        "Qgz_k2JQ3UY:s0234",
-        "Qgz_k2JQ3UY:s0235",
-        "Qgz_k2JQ3UY:s0236"
+        "Qgz_k2JQ3UY:s0234"
       ],
       "start_s": 1198.872,
       "end_s": 1207.003,
@@ -1557,10 +1555,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 101,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0235",
+        "Qgz_k2JQ3UY:s0236",
         "Qgz_k2JQ3UY:s0237",
-        "Qgz_k2JQ3UY:s0238",
-        "Qgz_k2JQ3UY:s0239",
-        "Qgz_k2JQ3UY:s0240"
+        "Qgz_k2JQ3UY:s0238"
       ],
       "start_s": 1207.563,
       "end_s": 1218.266,
@@ -1574,9 +1572,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 102,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0241",
-        "Qgz_k2JQ3UY:s0242",
-        "Qgz_k2JQ3UY:s0243"
+        "Qgz_k2JQ3UY:s0239",
+        "Qgz_k2JQ3UY:s0240",
+        "Qgz_k2JQ3UY:s0241"
       ],
       "start_s": 1218.866,
       "end_s": 1224.308,
@@ -1590,7 +1588,7 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 103,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0244"
+        "Qgz_k2JQ3UY:s0242"
       ],
       "start_s": 1225.228,
       "end_s": 1236.715,
@@ -1604,8 +1602,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 104,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0245",
-        "Qgz_k2JQ3UY:s0246"
+        "Qgz_k2JQ3UY:s0243",
+        "Qgz_k2JQ3UY:s0244"
       ],
       "start_s": 1237.335,
       "end_s": 1254.864,
@@ -1619,10 +1617,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 105,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0245",
+        "Qgz_k2JQ3UY:s0246",
         "Qgz_k2JQ3UY:s0247",
-        "Qgz_k2JQ3UY:s0248",
-        "Qgz_k2JQ3UY:s0249",
-        "Qgz_k2JQ3UY:s0250"
+        "Qgz_k2JQ3UY:s0248"
       ],
       "start_s": 1255.344,
       "end_s": 1268.647,
@@ -1636,10 +1634,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 106,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0249",
+        "Qgz_k2JQ3UY:s0250",
         "Qgz_k2JQ3UY:s0251",
-        "Qgz_k2JQ3UY:s0252",
-        "Qgz_k2JQ3UY:s0253",
-        "Qgz_k2JQ3UY:s0254"
+        "Qgz_k2JQ3UY:s0252"
       ],
       "start_s": 1269.007,
       "end_s": 1273.008,
@@ -1653,9 +1651,9 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 107,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0255",
-        "Qgz_k2JQ3UY:s0256",
-        "Qgz_k2JQ3UY:s0257"
+        "Qgz_k2JQ3UY:s0253",
+        "Qgz_k2JQ3UY:s0254",
+        "Qgz_k2JQ3UY:s0255"
       ],
       "start_s": 1273.589,
       "end_s": 1286.553,
@@ -1669,8 +1667,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 108,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0258",
-        "Qgz_k2JQ3UY:s0259"
+        "Qgz_k2JQ3UY:s0256",
+        "Qgz_k2JQ3UY:s0257"
       ],
       "start_s": 1287.053,
       "end_s": 1299.881,
@@ -1684,8 +1682,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 109,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0260",
-        "Qgz_k2JQ3UY:s0261"
+        "Qgz_k2JQ3UY:s0258",
+        "Qgz_k2JQ3UY:s0259"
       ],
       "start_s": 1300.761,
       "end_s": 1324.381,
@@ -1699,8 +1697,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 110,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0262",
-        "Qgz_k2JQ3UY:s0263"
+        "Qgz_k2JQ3UY:s0260",
+        "Qgz_k2JQ3UY:s0261"
       ],
       "start_s": 1325.001,
       "end_s": 1334.386,
@@ -1714,8 +1712,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 111,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0264",
-        "Qgz_k2JQ3UY:s0265"
+        "Qgz_k2JQ3UY:s0262",
+        "Qgz_k2JQ3UY:s0263"
       ],
       "start_s": 1335.066,
       "end_s": 1353.9,
@@ -1729,10 +1727,10 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 112,
       "sent_ids": [
+        "Qgz_k2JQ3UY:s0264",
+        "Qgz_k2JQ3UY:s0265",
         "Qgz_k2JQ3UY:s0266",
-        "Qgz_k2JQ3UY:s0267",
-        "Qgz_k2JQ3UY:s0268",
-        "Qgz_k2JQ3UY:s0269"
+        "Qgz_k2JQ3UY:s0267"
       ],
       "start_s": 1354.46,
       "end_s": 1366.65,
@@ -1746,8 +1744,8 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 113,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0270",
-        "Qgz_k2JQ3UY:s0271"
+        "Qgz_k2JQ3UY:s0268",
+        "Qgz_k2JQ3UY:s0269"
       ],
       "start_s": 1367.531,
       "end_s": 1372.368,

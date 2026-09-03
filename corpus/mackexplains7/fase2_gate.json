@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T14:16:37.443306+00:00",
+  "generated_at": "2026-09-03T22:19:53.121945+00:00",
   "n_videos": 30,
-  "n_windows": 3106,
+  "n_windows": 3103,
   "passed": true,
   "3a": {
-    "n_sentencas_grandes": 18,
-    "n_janelas_grandes": 18,
+    "n_sentencas_grandes": 19,
+    "n_janelas_grandes": 19,
     "passed": true,
     "problems": []
   },
@@ -14,7 +14,7 @@
     "passed": true
   },
   "3c": {
-    "nonlast_single_ratio": 0.1159047005795235,
+    "nonlast_single_ratio": 0.11891717692555591,
     "threshold": 0.15,
     "passed": true
   },

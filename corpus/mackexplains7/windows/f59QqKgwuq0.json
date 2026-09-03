@@ -1,6 +1,6 @@
 {
   "video_id": "f59QqKgwuq0",
-  "generated_at": "2026-09-03T13:18:13.133115+00:00",
+  "generated_at": "2026-09-03T22:19:53.108771+00:00",
   "windows": [
     {
       "window_id": "f59QqKgwuq0:j0000",
@@ -113,14 +113,13 @@
       "idx": 7,
       "sent_ids": [
         "f59QqKgwuq0:s0014",
-        "f59QqKgwuq0:s0015",
-        "f59QqKgwuq0:s0016"
+        "f59QqKgwuq0:s0015"
       ],
       "start_s": 95.649,
-      "end_s": 128.472,
-      "text": "That's the current scientific consensus, supported by genetics, paleoanthropology, and archaeology. For most of the past 100,000 years, African societies existed across an almost incomprehensible range of forms. Hunter-gatherer communities like the Sand",
-      "n_words": 33,
-      "n_sentences": 3,
+      "end_s": 110.441,
+      "text": "That's the current scientific consensus, supported by genetics, paleoanthropology, and archaeology. For most of the past 100,000 years, African societies existed across an almost incomprehensible range of forms.",
+      "n_words": 28,
+      "n_sentences": 2,
       "pos_pct": 0.06788431511710433
     },
     {
@@ -128,12 +127,12 @@
       "video_id": "f59QqKgwuq0",
       "idx": 8,
       "sent_ids": [
-        "f59QqKgwuq0:s0017"
+        "f59QqKgwuq0:s0016"
       ],
       "start_s": 111.162,
       "end_s": 128.472,
-      "text": "People of Southern Africa maintained one of the oldest continuously documented ways of life on Earth, extraordinarily well-adapted to specific environments, with rich knowledge systems, spiritual traditions, and social structures developed across tens of thousands of years.",
-      "n_words": 37,
+      "text": "Hunter-gatherer communities like the Sand People of Southern Africa maintained one of the oldest continuously documented ways of life on Earth, extraordinarily well-adapted to specific environments, with rich knowledge systems, spiritual traditions, and social structures developed across tens of thousands of years.",
+      "n_words": 42,
       "n_sentences": 1,
       "pos_pct": 0.07889425124201561
     },
@@ -142,8 +141,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 9,
       "sent_ids": [
-        "f59QqKgwuq0:s0018",
-        "f59QqKgwuq0:s0019"
+        "f59QqKgwuq0:s0017",
+        "f59QqKgwuq0:s0018"
       ],
       "start_s": 129.453,
       "end_s": 148.286,
@@ -157,8 +156,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 10,
       "sent_ids": [
-        "f59QqKgwuq0:s0020",
-        "f59QqKgwuq0:s0021"
+        "f59QqKgwuq0:s0019",
+        "f59QqKgwuq0:s0020"
       ],
       "start_s": 148.886,
       "end_s": 167.871,
@@ -172,8 +171,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 11,
       "sent_ids": [
-        "f59QqKgwuq0:s0022",
-        "f59QqKgwuq0:s0023"
+        "f59QqKgwuq0:s0021",
+        "f59QqKgwuq0:s0022"
       ],
       "start_s": 168.631,
       "end_s": 188.612,
@@ -187,7 +186,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 12,
       "sent_ids": [
-        "f59QqKgwuq0:s0024"
+        "f59QqKgwuq0:s0023"
       ],
       "start_s": 189.092,
       "end_s": 202.524,
@@ -201,7 +200,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 13,
       "sent_ids": [
-        "f59QqKgwuq0:s0025"
+        "f59QqKgwuq0:s0024"
       ],
       "start_s": 203.505,
       "end_s": 219.778,
@@ -215,8 +214,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 14,
       "sent_ids": [
-        "f59QqKgwuq0:s0026",
-        "f59QqKgwuq0:s0027"
+        "f59QqKgwuq0:s0025",
+        "f59QqKgwuq0:s0026"
       ],
       "start_s": 220.779,
       "end_s": 241.576,
@@ -230,7 +229,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 15,
       "sent_ids": [
-        "f59QqKgwuq0:s0028"
+        "f59QqKgwuq0:s0027"
       ],
       "start_s": 242.767,
       "end_s": 259.264,
@@ -244,7 +243,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 16,
       "sent_ids": [
-        "f59QqKgwuq0:s0029"
+        "f59QqKgwuq0:s0028"
       ],
       "start_s": 260.305,
       "end_s": 275.515,
@@ -258,8 +257,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 17,
       "sent_ids": [
-        "f59QqKgwuq0:s0030",
-        "f59QqKgwuq0:s0031"
+        "f59QqKgwuq0:s0029",
+        "f59QqKgwuq0:s0030"
       ],
       "start_s": 276.858,
       "end_s": 284.421,
@@ -273,8 +272,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 18,
       "sent_ids": [
-        "f59QqKgwuq0:s0032",
-        "f59QqKgwuq0:s0033"
+        "f59QqKgwuq0:s0031",
+        "f59QqKgwuq0:s0032"
       ],
       "start_s": 284.721,
       "end_s": 304.758,
@@ -288,8 +287,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 19,
       "sent_ids": [
-        "f59QqKgwuq0:s0034",
-        "f59QqKgwuq0:s0035"
+        "f59QqKgwuq0:s0033",
+        "f59QqKgwuq0:s0034"
       ],
       "start_s": 305.419,
       "end_s": 320.244,
@@ -303,8 +302,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 20,
       "sent_ids": [
-        "f59QqKgwuq0:s0036",
-        "f59QqKgwuq0:s0037"
+        "f59QqKgwuq0:s0035",
+        "f59QqKgwuq0:s0036"
       ],
       "start_s": 321.064,
       "end_s": 331.486,
@@ -318,8 +317,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 21,
       "sent_ids": [
-        "f59QqKgwuq0:s0038",
-        "f59QqKgwuq0:s0039"
+        "f59QqKgwuq0:s0037",
+        "f59QqKgwuq0:s0038"
       ],
       "start_s": 332.386,
       "end_s": 353.455,
@@ -333,8 +332,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 22,
       "sent_ids": [
-        "f59QqKgwuq0:s0040",
-        "f59QqKgwuq0:s0041"
+        "f59QqKgwuq0:s0039",
+        "f59QqKgwuq0:s0040"
       ],
       "start_s": 354.834,
       "end_s": 372.852,
@@ -348,8 +347,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 23,
       "sent_ids": [
-        "f59QqKgwuq0:s0042",
-        "f59QqKgwuq0:s0043"
+        "f59QqKgwuq0:s0041",
+        "f59QqKgwuq0:s0042"
       ],
       "start_s": 373.9,
       "end_s": 386.49,
@@ -363,7 +362,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 24,
       "sent_ids": [
-        "f59QqKgwuq0:s0044"
+        "f59QqKgwuq0:s0043"
       ],
       "start_s": 387.211,
       "end_s": 398.72,
@@ -377,7 +376,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 25,
       "sent_ids": [
-        "f59QqKgwuq0:s0045"
+        "f59QqKgwuq0:s0044"
       ],
       "start_s": 399.521,
       "end_s": 416.794,
@@ -391,7 +390,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 26,
       "sent_ids": [
-        "f59QqKgwuq0:s0046"
+        "f59QqKgwuq0:s0045"
       ],
       "start_s": 417.654,
       "end_s": 457.282,
@@ -405,8 +404,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 27,
       "sent_ids": [
-        "f59QqKgwuq0:s0047",
-        "f59QqKgwuq0:s0048"
+        "f59QqKgwuq0:s0046",
+        "f59QqKgwuq0:s0047"
       ],
       "start_s": 458.723,
       "end_s": 472.635,
@@ -420,8 +419,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 28,
       "sent_ids": [
-        "f59QqKgwuq0:s0049",
-        "f59QqKgwuq0:s0050"
+        "f59QqKgwuq0:s0048",
+        "f59QqKgwuq0:s0049"
       ],
       "start_s": 473.745,
       "end_s": 488.759,
@@ -435,8 +434,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 29,
       "sent_ids": [
-        "f59QqKgwuq0:s0051",
-        "f59QqKgwuq0:s0052"
+        "f59QqKgwuq0:s0050",
+        "f59QqKgwuq0:s0051"
       ],
       "start_s": 489.499,
       "end_s": 509.025,
@@ -450,7 +449,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 30,
       "sent_ids": [
-        "f59QqKgwuq0:s0053"
+        "f59QqKgwuq0:s0052"
       ],
       "start_s": 510.053,
       "end_s": 526.355,
@@ -464,7 +463,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 31,
       "sent_ids": [
-        "f59QqKgwuq0:s0054"
+        "f59QqKgwuq0:s0053"
       ],
       "start_s": 526.996,
       "end_s": 541.695,
@@ -478,7 +477,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 32,
       "sent_ids": [
-        "f59QqKgwuq0:s0055"
+        "f59QqKgwuq0:s0054"
       ],
       "start_s": 542.796,
       "end_s": 558.865,
@@ -492,7 +491,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 33,
       "sent_ids": [
-        "f59QqKgwuq0:s0056"
+        "f59QqKgwuq0:s0055"
       ],
       "start_s": 559.566,
       "end_s": 581.942,
@@ -506,8 +505,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 34,
       "sent_ids": [
-        "f59QqKgwuq0:s0057",
-        "f59QqKgwuq0:s0058"
+        "f59QqKgwuq0:s0056",
+        "f59QqKgwuq0:s0057"
       ],
       "start_s": 583.372,
       "end_s": 601.002,
@@ -521,8 +520,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 35,
       "sent_ids": [
-        "f59QqKgwuq0:s0059",
-        "f59QqKgwuq0:s0060"
+        "f59QqKgwuq0:s0058",
+        "f59QqKgwuq0:s0059"
       ],
       "start_s": 601.742,
       "end_s": 620.536,
@@ -536,7 +535,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 36,
       "sent_ids": [
-        "f59QqKgwuq0:s0061"
+        "f59QqKgwuq0:s0060"
       ],
       "start_s": 621.297,
       "end_s": 641.801,
@@ -550,7 +549,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 37,
       "sent_ids": [
-        "f59QqKgwuq0:s0062"
+        "f59QqKgwuq0:s0061"
       ],
       "start_s": 642.681,
       "end_s": 650.403,
@@ -564,7 +563,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 38,
       "sent_ids": [
-        "f59QqKgwuq0:s0063"
+        "f59QqKgwuq0:s0062"
       ],
       "start_s": 651.395,
       "end_s": 666.848,
@@ -578,8 +577,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 39,
       "sent_ids": [
-        "f59QqKgwuq0:s0064",
-        "f59QqKgwuq0:s0065"
+        "f59QqKgwuq0:s0063",
+        "f59QqKgwuq0:s0064"
       ],
       "start_s": 668.209,
       "end_s": 691.704,
@@ -593,8 +592,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 40,
       "sent_ids": [
-        "f59QqKgwuq0:s0066",
-        "f59QqKgwuq0:s0067"
+        "f59QqKgwuq0:s0065",
+        "f59QqKgwuq0:s0066"
       ],
       "start_s": 692.745,
       "end_s": 707.478,
@@ -608,8 +607,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 41,
       "sent_ids": [
-        "f59QqKgwuq0:s0068",
-        "f59QqKgwuq0:s0069"
+        "f59QqKgwuq0:s0067",
+        "f59QqKgwuq0:s0068"
       ],
       "start_s": 708.652,
       "end_s": 728.101,
@@ -623,8 +622,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 42,
       "sent_ids": [
-        "f59QqKgwuq0:s0070",
-        "f59QqKgwuq0:s0071"
+        "f59QqKgwuq0:s0069",
+        "f59QqKgwuq0:s0070"
       ],
       "start_s": 728.801,
       "end_s": 747.019,
@@ -638,7 +637,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 43,
       "sent_ids": [
-        "f59QqKgwuq0:s0072"
+        "f59QqKgwuq0:s0071"
       ],
       "start_s": 748.43,
       "end_s": 769.494,
@@ -652,8 +651,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 44,
       "sent_ids": [
-        "f59QqKgwuq0:s0073",
-        "f59QqKgwuq0:s0074"
+        "f59QqKgwuq0:s0072",
+        "f59QqKgwuq0:s0073"
       ],
       "start_s": 770.134,
       "end_s": 793.365,
@@ -667,7 +666,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 45,
       "sent_ids": [
-        "f59QqKgwuq0:s0075"
+        "f59QqKgwuq0:s0074"
       ],
       "start_s": 794.762,
       "end_s": 823.336,
@@ -681,8 +680,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 46,
       "sent_ids": [
-        "f59QqKgwuq0:s0076",
-        "f59QqKgwuq0:s0077"
+        "f59QqKgwuq0:s0075",
+        "f59QqKgwuq0:s0076"
       ],
       "start_s": 824.076,
       "end_s": 848.987,
@@ -696,8 +695,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 47,
       "sent_ids": [
-        "f59QqKgwuq0:s0078",
-        "f59QqKgwuq0:s0079"
+        "f59QqKgwuq0:s0077",
+        "f59QqKgwuq0:s0078"
       ],
       "start_s": 849.987,
       "end_s": 874.54,
@@ -711,8 +710,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 48,
       "sent_ids": [
-        "f59QqKgwuq0:s0080",
-        "f59QqKgwuq0:s0081"
+        "f59QqKgwuq0:s0079",
+        "f59QqKgwuq0:s0080"
       ],
       "start_s": 875.18,
       "end_s": 890.126,
@@ -726,7 +725,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 49,
       "sent_ids": [
-        "f59QqKgwuq0:s0082"
+        "f59QqKgwuq0:s0081"
       ],
       "start_s": 890.827,
       "end_s": 905.572,
@@ -740,7 +739,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 50,
       "sent_ids": [
-        "f59QqKgwuq0:s0083"
+        "f59QqKgwuq0:s0082"
       ],
       "start_s": 906.292,
       "end_s": 921.787,
@@ -754,7 +753,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 51,
       "sent_ids": [
-        "f59QqKgwuq0:s0084"
+        "f59QqKgwuq0:s0083"
       ],
       "start_s": 923.215,
       "end_s": 939.621,
@@ -768,7 +767,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 52,
       "sent_ids": [
-        "f59QqKgwuq0:s0085"
+        "f59QqKgwuq0:s0084"
       ],
       "start_s": 940.541,
       "end_s": 956.824,
@@ -782,8 +781,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 53,
       "sent_ids": [
-        "f59QqKgwuq0:s0086",
-        "f59QqKgwuq0:s0087"
+        "f59QqKgwuq0:s0085",
+        "f59QqKgwuq0:s0086"
       ],
       "start_s": 957.677,
       "end_s": 976.514,
@@ -797,8 +796,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 54,
       "sent_ids": [
-        "f59QqKgwuq0:s0088",
-        "f59QqKgwuq0:s0089"
+        "f59QqKgwuq0:s0087",
+        "f59QqKgwuq0:s0088"
       ],
       "start_s": 977.335,
       "end_s": 995.764,
@@ -812,8 +811,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 55,
       "sent_ids": [
-        "f59QqKgwuq0:s0090",
-        "f59QqKgwuq0:s0091"
+        "f59QqKgwuq0:s0089",
+        "f59QqKgwuq0:s0090"
       ],
       "start_s": 997.164,
       "end_s": 1016.38,
@@ -827,7 +826,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 56,
       "sent_ids": [
-        "f59QqKgwuq0:s0092"
+        "f59QqKgwuq0:s0091"
       ],
       "start_s": 1017.42,
       "end_s": 1034.417,
@@ -841,8 +840,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 57,
       "sent_ids": [
-        "f59QqKgwuq0:s0093",
-        "f59QqKgwuq0:s0094"
+        "f59QqKgwuq0:s0092",
+        "f59QqKgwuq0:s0093"
       ],
       "start_s": 1035.038,
       "end_s": 1054.03,
@@ -856,7 +855,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 58,
       "sent_ids": [
-        "f59QqKgwuq0:s0095"
+        "f59QqKgwuq0:s0094"
       ],
       "start_s": 1054.47,
       "end_s": 1072.483,
@@ -870,8 +869,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 59,
       "sent_ids": [
-        "f59QqKgwuq0:s0096",
-        "f59QqKgwuq0:s0097"
+        "f59QqKgwuq0:s0095",
+        "f59QqKgwuq0:s0096"
       ],
       "start_s": 1073.483,
       "end_s": 1097.649,
@@ -885,14 +884,13 @@
       "video_id": "f59QqKgwuq0",
       "idx": 60,
       "sent_ids": [
-        "f59QqKgwuq0:s0098",
-        "f59QqKgwuq0:s0099"
+        "f59QqKgwuq0:s0097"
       ],
       "start_s": 1098.883,
       "end_s": 1115.642,
       "text": "The women of the abolitionist movement, Harriet Tubman making some 19 missions back into slave territory to guide hundreds of people to freedom, Sojourner Truth navigating the intersections of race and gender with formidable rhetorical power, were not supporting, figures in a male-dominated story.",
       "n_words": 44,
-      "n_sentences": 2,
+      "n_sentences": 1,
       "pos_pct": 0.779902767920511
     },
     {
@@ -900,7 +898,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 61,
       "sent_ids": [
-        "f59QqKgwuq0:s0100"
+        "f59QqKgwuq0:s0098"
       ],
       "start_s": 1116.463,
       "end_s": 1128.669,
@@ -914,7 +912,7 @@
       "video_id": "f59QqKgwuq0",
       "idx": 62,
       "sent_ids": [
-        "f59QqKgwuq0:s0101"
+        "f59QqKgwuq0:s0099"
       ],
       "start_s": 1129.59,
       "end_s": 1144.497,
@@ -928,8 +926,8 @@
       "video_id": "f59QqKgwuq0",
       "idx": 63,
       "sent_ids": [
-        "f59QqKgwuq0:s0102",
-        "f59QqKgwuq0:s0103"
+        "f59QqKgwuq0:s0100",
+        "f59QqKgwuq0:s0101"
       ],
       "start_s": 1146.055,
       "end_s": 1159.549,
@@ -943,14 +941,13 @@
       "video_id": "f59QqKgwuq0",
       "idx": 64,
       "sent_ids": [
-        "f59QqKgwuq0:s0104",
-        "f59QqKgwuq0:s0105"
+        "f59QqKgwuq0:s0102"
       ],
       "start_s": 1160.089,
-      "end_s": 1180.338,
-      "text": "Not as decoration or coping mechanism, but as genuine political and intellectual work. The development of the blues in the Mississippi Delta in the early 20th century, the creation of jazz in New Orleans, and then in the clubs of Chicago and New York, the emergence of soul and funk and hip-hop from specific communities in specific American cities,",
-      "n_words": 59,
-      "n_sentences": 2,
+      "end_s": 1164.494,
+      "text": "Not as decoration or coping mechanism, but as genuine political and intellectual work.",
+      "n_words": 13,
+      "n_sentences": 1,
       "pos_pct": 0.8233420865862313
     },
     {
@@ -958,22 +955,35 @@
       "video_id": "f59QqKgwuq0",
       "idx": 65,
       "sent_ids": [
-        "f59QqKgwuq0:s0106",
-        "f59QqKgwuq0:s0107"
+        "f59QqKgwuq0:s0103"
       ],
-      "start_s": 1181.238,
-      "end_s": 1199.904,
-      "text": "These weren't simply aesthetic achievements in a neutral cultural space. They were being created by communities whose basic humanity was being legally and socially contested, by artists who were frequently denied copyright protections and economic compensation for their work, even as that work was being commercially exploited on a massive scale.",
-      "n_words": 51,
-      "n_sentences": 2,
-      "pos_pct": 0.8383520227111427
+      "start_s": 1165.708,
+      "end_s": 1184.999,
+      "text": "The development of the blues in the Mississippi Delta in the early 20th century, the creation of jazz in New Orleans, and then in the clubs of Chicago and New York, the emergence of soul and funk and hip-hop from specific communities in specific American cities, These weren't simply aesthetic achievements in a neutral cultural space.",
+      "n_words": 56,
+      "n_sentences": 1,
+      "pos_pct": 0.8273300212916963
     },
     {
       "window_id": "f59QqKgwuq0:j0066",
       "video_id": "f59QqKgwuq0",
       "idx": 66,
       "sent_ids": [
-        "f59QqKgwuq0:s0108"
+        "f59QqKgwuq0:s0104"
+      ],
+      "start_s": 1185.559,
+      "end_s": 1199.904,
+      "text": "They were being created by communities whose basic humanity was being legally and socially contested, by artists who were frequently denied copyright protections and economic compensation for their work, even as that work was being commercially exploited on a massive scale.",
+      "n_words": 41,
+      "n_sentences": 1,
+      "pos_pct": 0.8414187366926899
+    },
+    {
+      "window_id": "f59QqKgwuq0:j0067",
+      "video_id": "f59QqKgwuq0",
+      "idx": 67,
+      "sent_ids": [
+        "f59QqKgwuq0:s0105"
       ],
       "start_s": 1200.804,
       "end_s": 1215.842,
@@ -983,12 +993,12 @@
       "pos_pct": 0.8522384669978709
     },
     {
-      "window_id": "f59QqKgwuq0:j0067",
+      "window_id": "f59QqKgwuq0:j0068",
       "video_id": "f59QqKgwuq0",
-      "idx": 67,
+      "idx": 68,
       "sent_ids": [
-        "f59QqKgwuq0:s0109",
-        "f59QqKgwuq0:s0110"
+        "f59QqKgwuq0:s0106",
+        "f59QqKgwuq0:s0107"
       ],
       "start_s": 1216.763,
       "end_s": 1235.281,
@@ -998,12 +1008,12 @@
       "pos_pct": 0.8635649396735273
     },
     {
-      "window_id": "f59QqKgwuq0:j0068",
+      "window_id": "f59QqKgwuq0:j0069",
       "video_id": "f59QqKgwuq0",
-      "idx": 68,
+      "idx": 69,
       "sent_ids": [
-        "f59QqKgwuq0:s0111",
-        "f59QqKgwuq0:s0112"
+        "f59QqKgwuq0:s0108",
+        "f59QqKgwuq0:s0109"
       ],
       "start_s": 1236.122,
       "end_s": 1255.507,
@@ -1013,12 +1023,12 @@
       "pos_pct": 0.8773044712562101
     },
     {
-      "window_id": "f59QqKgwuq0:j0069",
+      "window_id": "f59QqKgwuq0:j0070",
       "video_id": "f59QqKgwuq0",
-      "idx": 69,
+      "idx": 70,
       "sent_ids": [
-        "f59QqKgwuq0:s0113",
-        "f59QqKgwuq0:s0114"
+        "f59QqKgwuq0:s0110",
+        "f59QqKgwuq0:s0111"
       ],
       "start_s": 1256.067,
       "end_s": 1277.511,
@@ -1028,12 +1038,12 @@
       "pos_pct": 0.8914599006387509
     },
     {
-      "window_id": "f59QqKgwuq0:j0070",
+      "window_id": "f59QqKgwuq0:j0071",
       "video_id": "f59QqKgwuq0",
-      "idx": 70,
+      "idx": 71,
       "sent_ids": [
-        "f59QqKgwuq0:s0115",
-        "f59QqKgwuq0:s0116"
+        "f59QqKgwuq0:s0112",
+        "f59QqKgwuq0:s0113"
       ],
       "start_s": 1278.412,
       "end_s": 1289.394,
@@ -1043,12 +1053,12 @@
       "pos_pct": 0.9073186657203691
     },
     {
-      "window_id": "f59QqKgwuq0:j0071",
+      "window_id": "f59QqKgwuq0:j0072",
       "video_id": "f59QqKgwuq0",
-      "idx": 71,
+      "idx": 72,
       "sent_ids": [
-        "f59QqKgwuq0:s0117",
-        "f59QqKgwuq0:s0118"
+        "f59QqKgwuq0:s0114",
+        "f59QqKgwuq0:s0115"
       ],
       "start_s": 1290.074,
       "end_s": 1309.244,
@@ -1058,12 +1068,12 @@
       "pos_pct": 0.9155954577714692
     },
     {
-      "window_id": "f59QqKgwuq0:j0072",
+      "window_id": "f59QqKgwuq0:j0073",
       "video_id": "f59QqKgwuq0",
-      "idx": 72,
+      "idx": 73,
       "sent_ids": [
-        "f59QqKgwuq0:s0119",
-        "f59QqKgwuq0:s0120"
+        "f59QqKgwuq0:s0116",
+        "f59QqKgwuq0:s0117"
       ],
       "start_s": 1310.263,
       "end_s": 1328.278,
@@ -1073,12 +1083,12 @@
       "pos_pct": 0.9299240596167494
     },
     {
-      "window_id": "f59QqKgwuq0:j0073",
+      "window_id": "f59QqKgwuq0:j0074",
       "video_id": "f59QqKgwuq0",
-      "idx": 73,
+      "idx": 74,
       "sent_ids": [
-        "f59QqKgwuq0:s0121",
-        "f59QqKgwuq0:s0122"
+        "f59QqKgwuq0:s0118",
+        "f59QqKgwuq0:s0119"
       ],
       "start_s": 1329.244,
       "end_s": 1352.116,
@@ -1088,13 +1098,13 @@
       "pos_pct": 0.9433953158268275
     },
     {
-      "window_id": "f59QqKgwuq0:j0074",
+      "window_id": "f59QqKgwuq0:j0075",
       "video_id": "f59QqKgwuq0",
-      "idx": 74,
+      "idx": 75,
       "sent_ids": [
-        "f59QqKgwuq0:s0123",
-        "f59QqKgwuq0:s0124",
-        "f59QqKgwuq0:s0125"
+        "f59QqKgwuq0:s0120",
+        "f59QqKgwuq0:s0121",
+        "f59QqKgwuq0:s0122"
       ],
       "start_s": 1352.517,
       "end_s": 1360.843,
@@ -1104,12 +1114,12 @@
       "pos_pct": 0.9599127040454223
     },
     {
-      "window_id": "f59QqKgwuq0:j0075",
+      "window_id": "f59QqKgwuq0:j0076",
       "video_id": "f59QqKgwuq0",
-      "idx": 75,
+      "idx": 76,
       "sent_ids": [
-        "f59QqKgwuq0:s0126",
-        "f59QqKgwuq0:s0127"
+        "f59QqKgwuq0:s0123",
+        "f59QqKgwuq0:s0124"
       ],
       "start_s": 1361.223,
       "end_s": 1376.055,
@@ -1119,12 +1129,12 @@
       "pos_pct": 0.9660915542938254
     },
     {
-      "window_id": "f59QqKgwuq0:j0076",
+      "window_id": "f59QqKgwuq0:j0077",
       "video_id": "f59QqKgwuq0",
-      "idx": 76,
+      "idx": 77,
       "sent_ids": [
-        "f59QqKgwuq0:s0128",
-        "f59QqKgwuq0:s0129"
+        "f59QqKgwuq0:s0125",
+        "f59QqKgwuq0:s0126"
       ],
       "start_s": 1376.736,
       "end_s": 1398.574,
@@ -1134,11 +1144,11 @@
       "pos_pct": 0.9771014904187367
     },
     {
-      "window_id": "f59QqKgwuq0:j0077",
+      "window_id": "f59QqKgwuq0:j0078",
       "video_id": "f59QqKgwuq0",
-      "idx": 77,
+      "idx": 78,
       "sent_ids": [
-        "f59QqKgwuq0:s0130"
+        "f59QqKgwuq0:s0127"
       ],
       "start_s": 1399.334,
       "end_s": 1407.762,

@@ -1,6 +1,6 @@
 {
   "video_id": "AvF3bPcqZeM",
-  "generated_at": "2026-09-03T13:18:13.116229+00:00",
+  "generated_at": "2026-09-03T22:19:53.095290+00:00",
   "windows": [
     {
       "window_id": "AvF3bPcqZeM:j0000",
@@ -169,14 +169,13 @@
       "sent_ids": [
         "AvF3bPcqZeM:s0030",
         "AvF3bPcqZeM:s0031",
-        "AvF3bPcqZeM:s0032",
-        "AvF3bPcqZeM:s0033"
+        "AvF3bPcqZeM:s0032"
       ],
       "start_s": 85.819,
       "end_s": 100.328,
       "text": "Go back two and a half million years. Early Homo species, small, fragile, brain still developing, no fire, no complex tools, no language, no coordinated hunting strategy. They were, biologically speaking, a prey animal.",
       "n_words": 34,
-      "n_sentences": 4,
+      "n_sentences": 3,
       "pos_pct": 0.0655607333842628
     },
     {
@@ -184,9 +183,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 11,
       "sent_ids": [
+        "AvF3bPcqZeM:s0033",
         "AvF3bPcqZeM:s0034",
-        "AvF3bPcqZeM:s0035",
-        "AvF3bPcqZeM:s0036"
+        "AvF3bPcqZeM:s0035"
       ],
       "start_s": 100.628,
       "end_s": 111.195,
@@ -200,10 +199,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 12,
       "sent_ids": [
+        "AvF3bPcqZeM:s0036",
         "AvF3bPcqZeM:s0037",
         "AvF3bPcqZeM:s0038",
-        "AvF3bPcqZeM:s0039",
-        "AvF3bPcqZeM:s0040"
+        "AvF3bPcqZeM:s0039"
       ],
       "start_s": 111.995,
       "end_s": 119.839,
@@ -217,10 +216,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 13,
       "sent_ids": [
+        "AvF3bPcqZeM:s0040",
         "AvF3bPcqZeM:s0041",
         "AvF3bPcqZeM:s0042",
-        "AvF3bPcqZeM:s0043",
-        "AvF3bPcqZeM:s0044"
+        "AvF3bPcqZeM:s0043"
       ],
       "start_s": 120.299,
       "end_s": 131.244,
@@ -234,8 +233,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 14,
       "sent_ids": [
-        "AvF3bPcqZeM:s0045",
-        "AvF3bPcqZeM:s0046"
+        "AvF3bPcqZeM:s0044",
+        "AvF3bPcqZeM:s0045"
       ],
       "start_s": 131.524,
       "end_s": 136.086,
@@ -249,8 +248,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 15,
       "sent_ids": [
-        "AvF3bPcqZeM:s0047",
-        "AvF3bPcqZeM:s0048"
+        "AvF3bPcqZeM:s0046",
+        "AvF3bPcqZeM:s0047"
       ],
       "start_s": 136.846,
       "end_s": 149.014,
@@ -264,9 +263,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 16,
       "sent_ids": [
+        "AvF3bPcqZeM:s0048",
         "AvF3bPcqZeM:s0049",
-        "AvF3bPcqZeM:s0050",
-        "AvF3bPcqZeM:s0051"
+        "AvF3bPcqZeM:s0050"
       ],
       "start_s": 149.354,
       "end_s": 161.342,
@@ -280,8 +279,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 17,
       "sent_ids": [
-        "AvF3bPcqZeM:s0052",
-        "AvF3bPcqZeM:s0053"
+        "AvF3bPcqZeM:s0051",
+        "AvF3bPcqZeM:s0052"
       ],
       "start_s": 161.583,
       "end_s": 173.632,
@@ -295,9 +294,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 18,
       "sent_ids": [
+        "AvF3bPcqZeM:s0053",
         "AvF3bPcqZeM:s0054",
-        "AvF3bPcqZeM:s0055",
-        "AvF3bPcqZeM:s0056"
+        "AvF3bPcqZeM:s0055"
       ],
       "start_s": 173.952,
       "end_s": 187.3,
@@ -311,8 +310,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 19,
       "sent_ids": [
-        "AvF3bPcqZeM:s0057",
-        "AvF3bPcqZeM:s0058"
+        "AvF3bPcqZeM:s0056",
+        "AvF3bPcqZeM:s0057"
       ],
       "start_s": 187.64,
       "end_s": 193.701,
@@ -326,10 +325,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 20,
       "sent_ids": [
+        "AvF3bPcqZeM:s0058",
         "AvF3bPcqZeM:s0059",
         "AvF3bPcqZeM:s0060",
-        "AvF3bPcqZeM:s0061",
-        "AvF3bPcqZeM:s0062"
+        "AvF3bPcqZeM:s0061"
       ],
       "start_s": 194.021,
       "end_s": 200.643,
@@ -343,9 +342,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 21,
       "sent_ids": [
+        "AvF3bPcqZeM:s0062",
         "AvF3bPcqZeM:s0063",
-        "AvF3bPcqZeM:s0064",
-        "AvF3bPcqZeM:s0065"
+        "AvF3bPcqZeM:s0064"
       ],
       "start_s": 201.203,
       "end_s": 210.525,
@@ -359,9 +358,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 22,
       "sent_ids": [
+        "AvF3bPcqZeM:s0065",
         "AvF3bPcqZeM:s0066",
-        "AvF3bPcqZeM:s0067",
-        "AvF3bPcqZeM:s0068"
+        "AvF3bPcqZeM:s0067"
       ],
       "start_s": 211.146,
       "end_s": 221.55,
@@ -375,9 +374,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 23,
       "sent_ids": [
+        "AvF3bPcqZeM:s0068",
         "AvF3bPcqZeM:s0069",
-        "AvF3bPcqZeM:s0070",
-        "AvF3bPcqZeM:s0071"
+        "AvF3bPcqZeM:s0070"
       ],
       "start_s": 222.071,
       "end_s": 227.993,
@@ -391,8 +390,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 24,
       "sent_ids": [
-        "AvF3bPcqZeM:s0072",
-        "AvF3bPcqZeM:s0073"
+        "AvF3bPcqZeM:s0071",
+        "AvF3bPcqZeM:s0072"
       ],
       "start_s": 228.493,
       "end_s": 238.396,
@@ -406,9 +405,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 25,
       "sent_ids": [
+        "AvF3bPcqZeM:s0073",
         "AvF3bPcqZeM:s0074",
-        "AvF3bPcqZeM:s0075",
-        "AvF3bPcqZeM:s0076"
+        "AvF3bPcqZeM:s0075"
       ],
       "start_s": 238.757,
       "end_s": 250.4,
@@ -422,9 +421,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 26,
       "sent_ids": [
+        "AvF3bPcqZeM:s0076",
         "AvF3bPcqZeM:s0077",
-        "AvF3bPcqZeM:s0078",
-        "AvF3bPcqZeM:s0079"
+        "AvF3bPcqZeM:s0078"
       ],
       "start_s": 250.68,
       "end_s": 258.062,
@@ -438,8 +437,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 27,
       "sent_ids": [
-        "AvF3bPcqZeM:s0080",
-        "AvF3bPcqZeM:s0081"
+        "AvF3bPcqZeM:s0079",
+        "AvF3bPcqZeM:s0080"
       ],
       "start_s": 258.843,
       "end_s": 267.485,
@@ -453,8 +452,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 28,
       "sent_ids": [
-        "AvF3bPcqZeM:s0082",
-        "AvF3bPcqZeM:s0083"
+        "AvF3bPcqZeM:s0081",
+        "AvF3bPcqZeM:s0082"
       ],
       "start_s": 268.205,
       "end_s": 293.666,
@@ -468,8 +467,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 29,
       "sent_ids": [
-        "AvF3bPcqZeM:s0084",
-        "AvF3bPcqZeM:s0085"
+        "AvF3bPcqZeM:s0083",
+        "AvF3bPcqZeM:s0084"
       ],
       "start_s": 294.387,
       "end_s": 301.412,
@@ -483,8 +482,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 30,
       "sent_ids": [
-        "AvF3bPcqZeM:s0086",
-        "AvF3bPcqZeM:s0087"
+        "AvF3bPcqZeM:s0085",
+        "AvF3bPcqZeM:s0086"
       ],
       "start_s": 301.852,
       "end_s": 320.324,
@@ -498,8 +497,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 31,
       "sent_ids": [
-        "AvF3bPcqZeM:s0088",
-        "AvF3bPcqZeM:s0089"
+        "AvF3bPcqZeM:s0087",
+        "AvF3bPcqZeM:s0088"
       ],
       "start_s": 321.204,
       "end_s": 327.669,
@@ -513,8 +512,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 32,
       "sent_ids": [
-        "AvF3bPcqZeM:s0090",
-        "AvF3bPcqZeM:s0091"
+        "AvF3bPcqZeM:s0089",
+        "AvF3bPcqZeM:s0090"
       ],
       "start_s": 328.089,
       "end_s": 347.399,
@@ -528,8 +527,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 33,
       "sent_ids": [
-        "AvF3bPcqZeM:s0092",
-        "AvF3bPcqZeM:s0093"
+        "AvF3bPcqZeM:s0091",
+        "AvF3bPcqZeM:s0092"
       ],
       "start_s": 348.159,
       "end_s": 354.101,
@@ -543,10 +542,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 34,
       "sent_ids": [
+        "AvF3bPcqZeM:s0093",
         "AvF3bPcqZeM:s0094",
         "AvF3bPcqZeM:s0095",
-        "AvF3bPcqZeM:s0096",
-        "AvF3bPcqZeM:s0097"
+        "AvF3bPcqZeM:s0096"
       ],
       "start_s": 354.341,
       "end_s": 366.545,
@@ -560,8 +559,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 35,
       "sent_ids": [
-        "AvF3bPcqZeM:s0098",
-        "AvF3bPcqZeM:s0099"
+        "AvF3bPcqZeM:s0097",
+        "AvF3bPcqZeM:s0098"
       ],
       "start_s": 367.225,
       "end_s": 375.767,
@@ -575,10 +574,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 36,
       "sent_ids": [
+        "AvF3bPcqZeM:s0099",
         "AvF3bPcqZeM:s0100",
         "AvF3bPcqZeM:s0101",
-        "AvF3bPcqZeM:s0102",
-        "AvF3bPcqZeM:s0103"
+        "AvF3bPcqZeM:s0102"
       ],
       "start_s": 376.228,
       "end_s": 389.373,
@@ -592,8 +591,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 37,
       "sent_ids": [
-        "AvF3bPcqZeM:s0104",
-        "AvF3bPcqZeM:s0105"
+        "AvF3bPcqZeM:s0103",
+        "AvF3bPcqZeM:s0104"
       ],
       "start_s": 389.734,
       "end_s": 402.433,
@@ -607,8 +606,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 38,
       "sent_ids": [
-        "AvF3bPcqZeM:s0106",
-        "AvF3bPcqZeM:s0107"
+        "AvF3bPcqZeM:s0105",
+        "AvF3bPcqZeM:s0106"
       ],
       "start_s": 402.953,
       "end_s": 416.957,
@@ -622,8 +621,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 39,
       "sent_ids": [
-        "AvF3bPcqZeM:s0108",
-        "AvF3bPcqZeM:s0109"
+        "AvF3bPcqZeM:s0107",
+        "AvF3bPcqZeM:s0108"
       ],
       "start_s": 417.177,
       "end_s": 432.625,
@@ -637,9 +636,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 40,
       "sent_ids": [
+        "AvF3bPcqZeM:s0109",
         "AvF3bPcqZeM:s0110",
-        "AvF3bPcqZeM:s0111",
-        "AvF3bPcqZeM:s0112"
+        "AvF3bPcqZeM:s0111"
       ],
       "start_s": 432.965,
       "end_s": 442.073,
@@ -653,8 +652,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 41,
       "sent_ids": [
-        "AvF3bPcqZeM:s0113",
-        "AvF3bPcqZeM:s0114"
+        "AvF3bPcqZeM:s0112",
+        "AvF3bPcqZeM:s0113"
       ],
       "start_s": 442.833,
       "end_s": 453.622,
@@ -668,10 +667,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 42,
       "sent_ids": [
+        "AvF3bPcqZeM:s0114",
         "AvF3bPcqZeM:s0115",
         "AvF3bPcqZeM:s0116",
-        "AvF3bPcqZeM:s0117",
-        "AvF3bPcqZeM:s0118"
+        "AvF3bPcqZeM:s0117"
       ],
       "start_s": 453.963,
       "end_s": 460.747,
@@ -685,8 +684,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 43,
       "sent_ids": [
-        "AvF3bPcqZeM:s0119",
-        "AvF3bPcqZeM:s0120"
+        "AvF3bPcqZeM:s0118",
+        "AvF3bPcqZeM:s0119"
       ],
       "start_s": 461.387,
       "end_s": 472.032,
@@ -700,10 +699,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 44,
       "sent_ids": [
+        "AvF3bPcqZeM:s0120",
         "AvF3bPcqZeM:s0121",
         "AvF3bPcqZeM:s0122",
-        "AvF3bPcqZeM:s0123",
-        "AvF3bPcqZeM:s0124"
+        "AvF3bPcqZeM:s0123"
       ],
       "start_s": 472.452,
       "end_s": 482.423,
@@ -717,8 +716,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 45,
       "sent_ids": [
-        "AvF3bPcqZeM:s0125",
-        "AvF3bPcqZeM:s0126"
+        "AvF3bPcqZeM:s0124",
+        "AvF3bPcqZeM:s0125"
       ],
       "start_s": 482.623,
       "end_s": 493.738,
@@ -732,8 +731,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 46,
       "sent_ids": [
-        "AvF3bPcqZeM:s0127",
-        "AvF3bPcqZeM:s0128"
+        "AvF3bPcqZeM:s0126",
+        "AvF3bPcqZeM:s0127"
       ],
       "start_s": 493.938,
       "end_s": 504.646,
@@ -747,8 +746,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 47,
       "sent_ids": [
-        "AvF3bPcqZeM:s0129",
-        "AvF3bPcqZeM:s0130"
+        "AvF3bPcqZeM:s0128",
+        "AvF3bPcqZeM:s0129"
       ],
       "start_s": 504.766,
       "end_s": 517.756,
@@ -762,9 +761,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 48,
       "sent_ids": [
+        "AvF3bPcqZeM:s0130",
         "AvF3bPcqZeM:s0131",
-        "AvF3bPcqZeM:s0132",
-        "AvF3bPcqZeM:s0133"
+        "AvF3bPcqZeM:s0132"
       ],
       "start_s": 517.956,
       "end_s": 529.728,
@@ -778,8 +777,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 49,
       "sent_ids": [
-        "AvF3bPcqZeM:s0134",
-        "AvF3bPcqZeM:s0135"
+        "AvF3bPcqZeM:s0133",
+        "AvF3bPcqZeM:s0134"
       ],
       "start_s": 529.969,
       "end_s": 540.601,
@@ -793,8 +792,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 50,
       "sent_ids": [
-        "AvF3bPcqZeM:s0136",
-        "AvF3bPcqZeM:s0137"
+        "AvF3bPcqZeM:s0135",
+        "AvF3bPcqZeM:s0136"
       ],
       "start_s": 540.941,
       "end_s": 549.026,
@@ -808,10 +807,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 51,
       "sent_ids": [
+        "AvF3bPcqZeM:s0137",
         "AvF3bPcqZeM:s0138",
         "AvF3bPcqZeM:s0139",
-        "AvF3bPcqZeM:s0140",
-        "AvF3bPcqZeM:s0141"
+        "AvF3bPcqZeM:s0140"
       ],
       "start_s": 549.306,
       "end_s": 561.694,
@@ -825,8 +824,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 52,
       "sent_ids": [
-        "AvF3bPcqZeM:s0142",
-        "AvF3bPcqZeM:s0143"
+        "AvF3bPcqZeM:s0141",
+        "AvF3bPcqZeM:s0142"
       ],
       "start_s": 562.055,
       "end_s": 570.14,
@@ -840,8 +839,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 53,
       "sent_ids": [
-        "AvF3bPcqZeM:s0144",
-        "AvF3bPcqZeM:s0145"
+        "AvF3bPcqZeM:s0143",
+        "AvF3bPcqZeM:s0144"
       ],
       "start_s": 570.52,
       "end_s": 587.345,
@@ -855,8 +854,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 54,
       "sent_ids": [
-        "AvF3bPcqZeM:s0146",
-        "AvF3bPcqZeM:s0147"
+        "AvF3bPcqZeM:s0145",
+        "AvF3bPcqZeM:s0146"
       ],
       "start_s": 587.565,
       "end_s": 596.288,
@@ -870,8 +869,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 55,
       "sent_ids": [
-        "AvF3bPcqZeM:s0148",
-        "AvF3bPcqZeM:s0149"
+        "AvF3bPcqZeM:s0147",
+        "AvF3bPcqZeM:s0148"
       ],
       "start_s": 596.888,
       "end_s": 606.534,
@@ -885,8 +884,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 56,
       "sent_ids": [
-        "AvF3bPcqZeM:s0150",
-        "AvF3bPcqZeM:s0151"
+        "AvF3bPcqZeM:s0149",
+        "AvF3bPcqZeM:s0150"
       ],
       "start_s": 606.834,
       "end_s": 617.641,
@@ -900,9 +899,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 57,
       "sent_ids": [
+        "AvF3bPcqZeM:s0151",
         "AvF3bPcqZeM:s0152",
-        "AvF3bPcqZeM:s0153",
-        "AvF3bPcqZeM:s0154"
+        "AvF3bPcqZeM:s0153"
       ],
       "start_s": 617.901,
       "end_s": 628.608,
@@ -916,9 +915,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 58,
       "sent_ids": [
+        "AvF3bPcqZeM:s0154",
         "AvF3bPcqZeM:s0155",
-        "AvF3bPcqZeM:s0156",
-        "AvF3bPcqZeM:s0157"
+        "AvF3bPcqZeM:s0156"
       ],
       "start_s": 629.129,
       "end_s": 637.194,
@@ -932,8 +931,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 59,
       "sent_ids": [
-        "AvF3bPcqZeM:s0158",
-        "AvF3bPcqZeM:s0159"
+        "AvF3bPcqZeM:s0157",
+        "AvF3bPcqZeM:s0158"
       ],
       "start_s": 637.555,
       "end_s": 649.823,
@@ -947,8 +946,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 60,
       "sent_ids": [
-        "AvF3bPcqZeM:s0160",
-        "AvF3bPcqZeM:s0161"
+        "AvF3bPcqZeM:s0159",
+        "AvF3bPcqZeM:s0160"
       ],
       "start_s": 650.324,
       "end_s": 662.112,
@@ -962,10 +961,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 61,
       "sent_ids": [
+        "AvF3bPcqZeM:s0161",
         "AvF3bPcqZeM:s0162",
         "AvF3bPcqZeM:s0163",
-        "AvF3bPcqZeM:s0164",
-        "AvF3bPcqZeM:s0165"
+        "AvF3bPcqZeM:s0164"
       ],
       "start_s": 662.492,
       "end_s": 669.237,
@@ -979,10 +978,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 62,
       "sent_ids": [
+        "AvF3bPcqZeM:s0165",
         "AvF3bPcqZeM:s0166",
         "AvF3bPcqZeM:s0167",
-        "AvF3bPcqZeM:s0168",
-        "AvF3bPcqZeM:s0169"
+        "AvF3bPcqZeM:s0168"
       ],
       "start_s": 669.637,
       "end_s": 683.988,
@@ -996,8 +995,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 63,
       "sent_ids": [
-        "AvF3bPcqZeM:s0170",
-        "AvF3bPcqZeM:s0171"
+        "AvF3bPcqZeM:s0169",
+        "AvF3bPcqZeM:s0170"
       ],
       "start_s": 684.648,
       "end_s": 690.911,
@@ -1011,8 +1010,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 64,
       "sent_ids": [
-        "AvF3bPcqZeM:s0172",
-        "AvF3bPcqZeM:s0173"
+        "AvF3bPcqZeM:s0171",
+        "AvF3bPcqZeM:s0172"
       ],
       "start_s": 691.432,
       "end_s": 704.438,
@@ -1026,8 +1025,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 65,
       "sent_ids": [
-        "AvF3bPcqZeM:s0174",
-        "AvF3bPcqZeM:s0175"
+        "AvF3bPcqZeM:s0173",
+        "AvF3bPcqZeM:s0174"
       ],
       "start_s": 704.818,
       "end_s": 713.683,
@@ -1041,8 +1040,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 66,
       "sent_ids": [
-        "AvF3bPcqZeM:s0176",
-        "AvF3bPcqZeM:s0177"
+        "AvF3bPcqZeM:s0175",
+        "AvF3bPcqZeM:s0176"
       ],
       "start_s": 713.984,
       "end_s": 726.291,
@@ -1056,10 +1055,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 67,
       "sent_ids": [
+        "AvF3bPcqZeM:s0177",
         "AvF3bPcqZeM:s0178",
         "AvF3bPcqZeM:s0179",
-        "AvF3bPcqZeM:s0180",
-        "AvF3bPcqZeM:s0181"
+        "AvF3bPcqZeM:s0180"
       ],
       "start_s": 726.691,
       "end_s": 734.193,
@@ -1073,8 +1072,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 68,
       "sent_ids": [
-        "AvF3bPcqZeM:s0182",
-        "AvF3bPcqZeM:s0183"
+        "AvF3bPcqZeM:s0181",
+        "AvF3bPcqZeM:s0182"
       ],
       "start_s": 734.633,
       "end_s": 743.175,
@@ -1088,10 +1087,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 69,
       "sent_ids": [
+        "AvF3bPcqZeM:s0183",
         "AvF3bPcqZeM:s0184",
         "AvF3bPcqZeM:s0185",
-        "AvF3bPcqZeM:s0186",
-        "AvF3bPcqZeM:s0187"
+        "AvF3bPcqZeM:s0186"
       ],
       "start_s": 743.655,
       "end_s": 757.382,
@@ -1105,9 +1104,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 70,
       "sent_ids": [
+        "AvF3bPcqZeM:s0187",
         "AvF3bPcqZeM:s0188",
-        "AvF3bPcqZeM:s0189",
-        "AvF3bPcqZeM:s0190"
+        "AvF3bPcqZeM:s0189"
       ],
       "start_s": 757.622,
       "end_s": 771.33,
@@ -1121,10 +1120,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 71,
       "sent_ids": [
+        "AvF3bPcqZeM:s0190",
         "AvF3bPcqZeM:s0191",
         "AvF3bPcqZeM:s0192",
-        "AvF3bPcqZeM:s0193",
-        "AvF3bPcqZeM:s0194"
+        "AvF3bPcqZeM:s0193"
       ],
       "start_s": 772.01,
       "end_s": 782.624,
@@ -1138,9 +1137,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 72,
       "sent_ids": [
+        "AvF3bPcqZeM:s0194",
         "AvF3bPcqZeM:s0195",
-        "AvF3bPcqZeM:s0196",
-        "AvF3bPcqZeM:s0197"
+        "AvF3bPcqZeM:s0196"
       ],
       "start_s": 783.264,
       "end_s": 795.728,
@@ -1154,8 +1153,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 73,
       "sent_ids": [
-        "AvF3bPcqZeM:s0198",
-        "AvF3bPcqZeM:s0199"
+        "AvF3bPcqZeM:s0197",
+        "AvF3bPcqZeM:s0198"
       ],
       "start_s": 796.028,
       "end_s": 801.03,
@@ -1169,8 +1168,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 74,
       "sent_ids": [
-        "AvF3bPcqZeM:s0200",
-        "AvF3bPcqZeM:s0201"
+        "AvF3bPcqZeM:s0199",
+        "AvF3bPcqZeM:s0200"
       ],
       "start_s": 801.77,
       "end_s": 816.213,
@@ -1184,8 +1183,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 75,
       "sent_ids": [
-        "AvF3bPcqZeM:s0202",
-        "AvF3bPcqZeM:s0203"
+        "AvF3bPcqZeM:s0201",
+        "AvF3bPcqZeM:s0202"
       ],
       "start_s": 817.412,
       "end_s": 831.719,
@@ -1199,8 +1198,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 76,
       "sent_ids": [
-        "AvF3bPcqZeM:s0204",
-        "AvF3bPcqZeM:s0205"
+        "AvF3bPcqZeM:s0203",
+        "AvF3bPcqZeM:s0204"
       ],
       "start_s": 831.999,
       "end_s": 846.267,
@@ -1214,9 +1213,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 77,
       "sent_ids": [
+        "AvF3bPcqZeM:s0205",
         "AvF3bPcqZeM:s0206",
-        "AvF3bPcqZeM:s0207",
-        "AvF3bPcqZeM:s0208"
+        "AvF3bPcqZeM:s0207"
       ],
       "start_s": 846.747,
       "end_s": 858.902,
@@ -1230,8 +1229,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 78,
       "sent_ids": [
-        "AvF3bPcqZeM:s0209",
-        "AvF3bPcqZeM:s0210"
+        "AvF3bPcqZeM:s0208",
+        "AvF3bPcqZeM:s0209"
       ],
       "start_s": 859.803,
       "end_s": 870.835,
@@ -1245,8 +1244,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 79,
       "sent_ids": [
-        "AvF3bPcqZeM:s0211",
-        "AvF3bPcqZeM:s0212"
+        "AvF3bPcqZeM:s0210",
+        "AvF3bPcqZeM:s0211"
       ],
       "start_s": 871.355,
       "end_s": 878.323,
@@ -1260,9 +1259,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 80,
       "sent_ids": [
+        "AvF3bPcqZeM:s0212",
         "AvF3bPcqZeM:s0213",
-        "AvF3bPcqZeM:s0214",
-        "AvF3bPcqZeM:s0215"
+        "AvF3bPcqZeM:s0214"
       ],
       "start_s": 878.723,
       "end_s": 887.272,
@@ -1276,8 +1275,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 81,
       "sent_ids": [
-        "AvF3bPcqZeM:s0216",
-        "AvF3bPcqZeM:s0217"
+        "AvF3bPcqZeM:s0215",
+        "AvF3bPcqZeM:s0216"
       ],
       "start_s": 887.873,
       "end_s": 901.024,
@@ -1291,9 +1290,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 82,
       "sent_ids": [
+        "AvF3bPcqZeM:s0217",
         "AvF3bPcqZeM:s0218",
-        "AvF3bPcqZeM:s0219",
-        "AvF3bPcqZeM:s0220"
+        "AvF3bPcqZeM:s0219"
       ],
       "start_s": 901.605,
       "end_s": 911.474,
@@ -1307,8 +1306,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 83,
       "sent_ids": [
-        "AvF3bPcqZeM:s0221",
-        "AvF3bPcqZeM:s0222"
+        "AvF3bPcqZeM:s0220",
+        "AvF3bPcqZeM:s0221"
       ],
       "start_s": 912.155,
       "end_s": 928.007,
@@ -1322,8 +1321,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 84,
       "sent_ids": [
-        "AvF3bPcqZeM:s0223",
-        "AvF3bPcqZeM:s0224"
+        "AvF3bPcqZeM:s0222",
+        "AvF3bPcqZeM:s0223"
       ],
       "start_s": 928.867,
       "end_s": 940.19,
@@ -1337,8 +1336,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 85,
       "sent_ids": [
-        "AvF3bPcqZeM:s0225",
-        "AvF3bPcqZeM:s0226"
+        "AvF3bPcqZeM:s0224",
+        "AvF3bPcqZeM:s0225"
       ],
       "start_s": 940.85,
       "end_s": 958.04,
@@ -1352,9 +1351,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 86,
       "sent_ids": [
+        "AvF3bPcqZeM:s0226",
         "AvF3bPcqZeM:s0227",
-        "AvF3bPcqZeM:s0228",
-        "AvF3bPcqZeM:s0229"
+        "AvF3bPcqZeM:s0228"
       ],
       "start_s": 958.72,
       "end_s": 968.608,
@@ -1368,8 +1367,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 87,
       "sent_ids": [
-        "AvF3bPcqZeM:s0230",
-        "AvF3bPcqZeM:s0231"
+        "AvF3bPcqZeM:s0229",
+        "AvF3bPcqZeM:s0230"
       ],
       "start_s": 969.613,
       "end_s": 976.396,
@@ -1383,8 +1382,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 88,
       "sent_ids": [
-        "AvF3bPcqZeM:s0232",
-        "AvF3bPcqZeM:s0233"
+        "AvF3bPcqZeM:s0231",
+        "AvF3bPcqZeM:s0232"
       ],
       "start_s": 976.676,
       "end_s": 986.239,
@@ -1398,9 +1397,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 89,
       "sent_ids": [
+        "AvF3bPcqZeM:s0233",
         "AvF3bPcqZeM:s0234",
-        "AvF3bPcqZeM:s0235",
-        "AvF3bPcqZeM:s0236"
+        "AvF3bPcqZeM:s0235"
       ],
       "start_s": 986.6,
       "end_s": 992.302,
@@ -1414,7 +1413,7 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 90,
       "sent_ids": [
-        "AvF3bPcqZeM:s0237"
+        "AvF3bPcqZeM:s0236"
       ],
       "start_s": 993.022,
       "end_s": 1007.171,
@@ -1428,9 +1427,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 91,
       "sent_ids": [
+        "AvF3bPcqZeM:s0237",
         "AvF3bPcqZeM:s0238",
-        "AvF3bPcqZeM:s0239",
-        "AvF3bPcqZeM:s0240"
+        "AvF3bPcqZeM:s0239"
       ],
       "start_s": 1007.452,
       "end_s": 1023.105,
@@ -1444,8 +1443,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 92,
       "sent_ids": [
-        "AvF3bPcqZeM:s0241",
-        "AvF3bPcqZeM:s0242"
+        "AvF3bPcqZeM:s0240",
+        "AvF3bPcqZeM:s0241"
       ],
       "start_s": 1023.823,
       "end_s": 1042.575,
@@ -1459,10 +1458,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 93,
       "sent_ids": [
+        "AvF3bPcqZeM:s0242",
         "AvF3bPcqZeM:s0243",
         "AvF3bPcqZeM:s0244",
-        "AvF3bPcqZeM:s0245",
-        "AvF3bPcqZeM:s0246"
+        "AvF3bPcqZeM:s0245"
       ],
       "start_s": 1043.175,
       "end_s": 1050.917,
@@ -1476,8 +1475,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 94,
       "sent_ids": [
-        "AvF3bPcqZeM:s0247",
-        "AvF3bPcqZeM:s0248"
+        "AvF3bPcqZeM:s0246",
+        "AvF3bPcqZeM:s0247"
       ],
       "start_s": 1051.217,
       "end_s": 1065.902,
@@ -1491,8 +1490,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 95,
       "sent_ids": [
-        "AvF3bPcqZeM:s0249",
-        "AvF3bPcqZeM:s0250"
+        "AvF3bPcqZeM:s0248",
+        "AvF3bPcqZeM:s0249"
       ],
       "start_s": 1066.182,
       "end_s": 1068.883,
@@ -1506,8 +1505,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 96,
       "sent_ids": [
-        "AvF3bPcqZeM:s0251",
-        "AvF3bPcqZeM:s0252"
+        "AvF3bPcqZeM:s0250",
+        "AvF3bPcqZeM:s0251"
       ],
       "start_s": 1069.163,
       "end_s": 1081.627,
@@ -1521,9 +1520,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 97,
       "sent_ids": [
+        "AvF3bPcqZeM:s0252",
         "AvF3bPcqZeM:s0253",
-        "AvF3bPcqZeM:s0254",
-        "AvF3bPcqZeM:s0255"
+        "AvF3bPcqZeM:s0254"
       ],
       "start_s": 1081.887,
       "end_s": 1094.255,
@@ -1537,7 +1536,7 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 98,
       "sent_ids": [
-        "AvF3bPcqZeM:s0256"
+        "AvF3bPcqZeM:s0255"
       ],
       "start_s": 1094.655,
       "end_s": 1109.568,
@@ -1551,9 +1550,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 99,
       "sent_ids": [
+        "AvF3bPcqZeM:s0256",
         "AvF3bPcqZeM:s0257",
-        "AvF3bPcqZeM:s0258",
-        "AvF3bPcqZeM:s0259"
+        "AvF3bPcqZeM:s0258"
       ],
       "start_s": 1109.808,
       "end_s": 1120.957,
@@ -1567,8 +1566,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 100,
       "sent_ids": [
-        "AvF3bPcqZeM:s0260",
-        "AvF3bPcqZeM:s0261"
+        "AvF3bPcqZeM:s0259",
+        "AvF3bPcqZeM:s0260"
       ],
       "start_s": 1121.338,
       "end_s": 1128.884,
@@ -1582,8 +1581,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 101,
       "sent_ids": [
-        "AvF3bPcqZeM:s0262",
-        "AvF3bPcqZeM:s0263"
+        "AvF3bPcqZeM:s0261",
+        "AvF3bPcqZeM:s0262"
       ],
       "start_s": 1129.264,
       "end_s": 1144.056,
@@ -1597,8 +1596,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 102,
       "sent_ids": [
-        "AvF3bPcqZeM:s0264",
-        "AvF3bPcqZeM:s0265"
+        "AvF3bPcqZeM:s0263",
+        "AvF3bPcqZeM:s0264"
       ],
       "start_s": 1144.917,
       "end_s": 1161.087,
@@ -1612,8 +1611,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 103,
       "sent_ids": [
-        "AvF3bPcqZeM:s0266",
-        "AvF3bPcqZeM:s0267"
+        "AvF3bPcqZeM:s0265",
+        "AvF3bPcqZeM:s0266"
       ],
       "start_s": 1161.528,
       "end_s": 1175.654,
@@ -1627,8 +1626,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 104,
       "sent_ids": [
-        "AvF3bPcqZeM:s0268",
-        "AvF3bPcqZeM:s0269"
+        "AvF3bPcqZeM:s0267",
+        "AvF3bPcqZeM:s0268"
       ],
       "start_s": 1176.461,
       "end_s": 1199.155,
@@ -1642,9 +1641,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 105,
       "sent_ids": [
+        "AvF3bPcqZeM:s0269",
         "AvF3bPcqZeM:s0270",
-        "AvF3bPcqZeM:s0271",
-        "AvF3bPcqZeM:s0272"
+        "AvF3bPcqZeM:s0271"
       ],
       "start_s": 1199.336,
       "end_s": 1212.538,
@@ -1658,10 +1657,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 106,
       "sent_ids": [
+        "AvF3bPcqZeM:s0272",
         "AvF3bPcqZeM:s0273",
         "AvF3bPcqZeM:s0274",
-        "AvF3bPcqZeM:s0275",
-        "AvF3bPcqZeM:s0276"
+        "AvF3bPcqZeM:s0275"
       ],
       "start_s": 1212.818,
       "end_s": 1224.902,
@@ -1675,10 +1674,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 107,
       "sent_ids": [
+        "AvF3bPcqZeM:s0276",
         "AvF3bPcqZeM:s0277",
         "AvF3bPcqZeM:s0278",
-        "AvF3bPcqZeM:s0279",
-        "AvF3bPcqZeM:s0280"
+        "AvF3bPcqZeM:s0279"
       ],
       "start_s": 1225.603,
       "end_s": 1238.731,
@@ -1692,10 +1691,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 108,
       "sent_ids": [
+        "AvF3bPcqZeM:s0280",
         "AvF3bPcqZeM:s0281",
         "AvF3bPcqZeM:s0282",
-        "AvF3bPcqZeM:s0283",
-        "AvF3bPcqZeM:s0284"
+        "AvF3bPcqZeM:s0283"
       ],
       "start_s": 1238.891,
       "end_s": 1241.731,
@@ -1709,10 +1708,10 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 109,
       "sent_ids": [
+        "AvF3bPcqZeM:s0284",
         "AvF3bPcqZeM:s0285",
         "AvF3bPcqZeM:s0286",
-        "AvF3bPcqZeM:s0287",
-        "AvF3bPcqZeM:s0288"
+        "AvF3bPcqZeM:s0287"
       ],
       "start_s": 1241.871,
       "end_s": 1246.393,
@@ -1726,9 +1725,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 110,
       "sent_ids": [
+        "AvF3bPcqZeM:s0288",
         "AvF3bPcqZeM:s0289",
-        "AvF3bPcqZeM:s0290",
-        "AvF3bPcqZeM:s0291"
+        "AvF3bPcqZeM:s0290"
       ],
       "start_s": 1246.653,
       "end_s": 1255.776,
@@ -1742,8 +1741,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 111,
       "sent_ids": [
-        "AvF3bPcqZeM:s0292",
-        "AvF3bPcqZeM:s0293"
+        "AvF3bPcqZeM:s0291",
+        "AvF3bPcqZeM:s0292"
       ],
       "start_s": 1256.416,
       "end_s": 1262.298,
@@ -1757,8 +1756,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 112,
       "sent_ids": [
-        "AvF3bPcqZeM:s0294",
-        "AvF3bPcqZeM:s0295"
+        "AvF3bPcqZeM:s0293",
+        "AvF3bPcqZeM:s0294"
       ],
       "start_s": 1262.878,
       "end_s": 1278.971,
@@ -1772,8 +1771,8 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 113,
       "sent_ids": [
-        "AvF3bPcqZeM:s0296",
-        "AvF3bPcqZeM:s0297"
+        "AvF3bPcqZeM:s0295",
+        "AvF3bPcqZeM:s0296"
       ],
       "start_s": 1279.772,
       "end_s": 1296.115,
@@ -1787,9 +1786,9 @@
       "video_id": "AvF3bPcqZeM",
       "idx": 114,
       "sent_ids": [
+        "AvF3bPcqZeM:s0297",
         "AvF3bPcqZeM:s0298",
-        "AvF3bPcqZeM:s0299",
-        "AvF3bPcqZeM:s0300"
+        "AvF3bPcqZeM:s0299"
       ],
       "start_s": 1296.435,
       "end_s": 1307.557,

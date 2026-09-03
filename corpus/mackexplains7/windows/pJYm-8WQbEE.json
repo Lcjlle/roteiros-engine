@@ -1,6 +1,6 @@
 {
   "video_id": "pJYm-8WQbEE",
-  "generated_at": "2026-09-03T13:18:13.137539+00:00",
+  "generated_at": "2026-09-03T22:19:53.111902+00:00",
   "windows": [
     {
       "window_id": "pJYm-8WQbEE:j0000",
@@ -1598,14 +1598,13 @@
       "sent_ids": [
         "pJYm-8WQbEE:s0289",
         "pJYm-8WQbEE:s0290",
-        "pJYm-8WQbEE:s0291",
-        "pJYm-8WQbEE:s0292"
+        "pJYm-8WQbEE:s0291"
       ],
       "start_s": 925.696,
       "end_s": 933.441,
       "text": "When he's sick, something that feels like misery. When he loses someone he loves, Because yes, dogs grieve too. Something that feels like loss.",
       "n_words": 24,
-      "n_sentences": 4,
+      "n_sentences": 3,
       "pos_pct": 0.890948989412897
     },
     {
@@ -1613,9 +1612,9 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 101,
       "sent_ids": [
+        "pJYm-8WQbEE:s0292",
         "pJYm-8WQbEE:s0293",
-        "pJYm-8WQbEE:s0294",
-        "pJYm-8WQbEE:s0295"
+        "pJYm-8WQbEE:s0294"
       ],
       "start_s": 933.862,
       "end_s": 943.851,
@@ -1629,9 +1628,9 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 102,
       "sent_ids": [
+        "pJYm-8WQbEE:s0295",
         "pJYm-8WQbEE:s0296",
-        "pJYm-8WQbEE:s0297",
-        "pJYm-8WQbEE:s0298"
+        "pJYm-8WQbEE:s0297"
       ],
       "start_s": 944.211,
       "end_s": 953.54,
@@ -1645,9 +1644,9 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 103,
       "sent_ids": [
+        "pJYm-8WQbEE:s0298",
         "pJYm-8WQbEE:s0299",
-        "pJYm-8WQbEE:s0300",
-        "pJYm-8WQbEE:s0301"
+        "pJYm-8WQbEE:s0300"
       ],
       "start_s": 953.9,
       "end_s": 961.569,
@@ -1661,8 +1660,8 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 104,
       "sent_ids": [
-        "pJYm-8WQbEE:s0302",
-        "pJYm-8WQbEE:s0303"
+        "pJYm-8WQbEE:s0301",
+        "pJYm-8WQbEE:s0302"
       ],
       "start_s": 961.769,
       "end_s": 965.754,
@@ -1676,8 +1675,8 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 105,
       "sent_ids": [
-        "pJYm-8WQbEE:s0304",
-        "pJYm-8WQbEE:s0305"
+        "pJYm-8WQbEE:s0303",
+        "pJYm-8WQbEE:s0304"
       ],
       "start_s": 966.275,
       "end_s": 982.21,
@@ -1691,8 +1690,8 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 106,
       "sent_ids": [
-        "pJYm-8WQbEE:s0306",
-        "pJYm-8WQbEE:s0307"
+        "pJYm-8WQbEE:s0305",
+        "pJYm-8WQbEE:s0306"
       ],
       "start_s": 982.29,
       "end_s": 997.963,
@@ -1706,9 +1705,9 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 107,
       "sent_ids": [
+        "pJYm-8WQbEE:s0307",
         "pJYm-8WQbEE:s0308",
-        "pJYm-8WQbEE:s0309",
-        "pJYm-8WQbEE:s0310"
+        "pJYm-8WQbEE:s0309"
       ],
       "start_s": 998.203,
       "end_s": 1005.889,
@@ -1722,9 +1721,9 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 108,
       "sent_ids": [
+        "pJYm-8WQbEE:s0310",
         "pJYm-8WQbEE:s0311",
-        "pJYm-8WQbEE:s0312",
-        "pJYm-8WQbEE:s0313"
+        "pJYm-8WQbEE:s0312"
       ],
       "start_s": 1006.169,
       "end_s": 1014.916,
@@ -1738,10 +1737,10 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 109,
       "sent_ids": [
+        "pJYm-8WQbEE:s0313",
         "pJYm-8WQbEE:s0314",
         "pJYm-8WQbEE:s0315",
-        "pJYm-8WQbEE:s0316",
-        "pJYm-8WQbEE:s0317"
+        "pJYm-8WQbEE:s0316"
       ],
       "start_s": 1015.276,
       "end_s": 1027.546,
@@ -1755,10 +1754,10 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 110,
       "sent_ids": [
+        "pJYm-8WQbEE:s0317",
         "pJYm-8WQbEE:s0318",
         "pJYm-8WQbEE:s0319",
-        "pJYm-8WQbEE:s0320",
-        "pJYm-8WQbEE:s0321"
+        "pJYm-8WQbEE:s0320"
       ],
       "start_s": 1027.886,
       "end_s": 1037.788,

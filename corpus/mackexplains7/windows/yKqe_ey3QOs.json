@@ -1,6 +1,6 @@
 {
   "video_id": "yKqe_ey3QOs",
-  "generated_at": "2026-09-03T13:18:13.153692+00:00",
+  "generated_at": "2026-09-03T22:19:53.119208+00:00",
   "windows": [
     {
       "window_id": "yKqe_ey3QOs:j0000",
@@ -1547,9 +1547,9 @@
         "yKqe_ey3QOs:s0250"
       ],
       "start_s": 1164.96,
-      "end_s": 1179.868,
-      "text": "You are doing exactly what that person on the African savannah was doing, wrapped in ochre-stained hide, figuring out how to signal something about themselves to the people standing around the same fire. 150,000 years of human history and what connects you to them",
-      "n_words": 44,
+      "end_s": 1184.935,
+      "text": "You are doing exactly what that person on the African savannah was doing, wrapped in ochre-stained hide, figuring out how to signal something about themselves to the people standing around the same fire. 150,000 years of human history and what connects you to them Directly, without interruption, is the simple fact that you got dressed this morning.",
+      "n_words": 57,
       "n_sentences": 2,
       "pos_pct": 0.9659701492537314
     },
@@ -1562,12 +1562,12 @@
         "yKqe_ey3QOs:s0252",
         "yKqe_ey3QOs:s0253"
       ],
-      "start_s": 1180.588,
-      "end_s": 1187.659,
-      "text": "Directly, without interruption, is the simple fact that you got dressed this morning. That's not a small thing. That's the whole thing.",
-      "n_words": 22,
+      "start_s": 1185.075,
+      "end_s": 1194.909,
+      "text": "That's not a small thing. That's the whole thing. We get cold, we get creative, we get dressed, and then we spend the rest of our lives complaining that we have nothing to wear.",
+      "n_words": 34,
       "n_sentences": 3,
-      "pos_pct": 0.9789286898839137
+      "pos_pct": 0.9826492537313434
     },
     {
       "window_id": "yKqe_ey3QOs:j0101",
@@ -1576,30 +1576,29 @@
       "sent_ids": [
         "yKqe_ey3QOs:s0254",
         "yKqe_ey3QOs:s0255",
-        "yKqe_ey3QOs:s0256"
+        "yKqe_ey3QOs:s0256",
+        "yKqe_ey3QOs:s0257"
       ],
-      "start_s": 1188.079,
-      "end_s": 1198.855,
-      "text": "We get cold, we get creative, we get dressed, and then we spend the rest of our lives complaining that we have nothing to wear. Some things, genuinely, never change. And what about you?",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.9851401326699833
+      "start_s": 1195.33,
+      "end_s": 1202.741,
+      "text": "Some things, genuinely, never change. And what about you? Would you go back in time and live completely naked? Let me know in the comments.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.9911525704809286
     },
     {
       "window_id": "yKqe_ey3QOs:j0102",
       "video_id": "yKqe_ey3QOs",
       "idx": 102,
       "sent_ids": [
-        "yKqe_ey3QOs:s0257",
-        "yKqe_ey3QOs:s0258",
-        "yKqe_ey3QOs:s0259"
+        "yKqe_ey3QOs:s0258"
       ],
-      "start_s": 1199.216,
+      "start_s": 1203.262,
       "end_s": 1204.864,
-      "text": "Would you go back in time and live completely naked? Let me know in the comments. Until then, see you soon.",
-      "n_words": 21,
-      "n_sentences": 3,
-      "pos_pct": 0.9943747927031509
+      "text": "Until then, see you soon.",
+      "n_words": 5,
+      "n_sentences": 1,
+      "pos_pct": 0.9977296849087893
     }
   ]
 }

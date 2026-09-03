@@ -1,7 +1,7 @@
 {
   "video_id": "z1StpnRL4k4",
   "duration_s": 1281.0,
-  "generated_at": "2026-09-03T11:57:33.419345+00:00",
+  "generated_at": "2026-09-03T22:17:02.729425+00:00",
   "sentences": [
     {
       "sent_id": "z1StpnRL4k4:s0000",
@@ -1052,86 +1052,77 @@
       "video_id": "z1StpnRL4k4",
       "idx": 116,
       "start_s": 1165.289,
-      "end_s": 1174.211,
-      "text": "Looking back across this entire arc, from a Taoist alchemy lab in 9th century China to flintlock muskets dominating European battlefields nearly 8 centuries later,",
-      "n_words": 25
+      "end_s": 1183.798,
+      "text": "Looking back across this entire arc, from a Taoist alchemy lab in 9th century China to flintlock muskets dominating European battlefields nearly 8 centuries later, The story of how humans invented guns is really a story about accident, accumulation, and migration happening together over an enormous span of time.",
+      "n_words": 49
     },
     {
       "sent_id": "z1StpnRL4k4:s0117",
       "video_id": "z1StpnRL4k4",
       "idx": 117,
-      "start_s": 1174.851,
-      "end_s": 1183.798,
-      "text": "The story of how humans invented guns is really a story about accident, accumulation, and migration happening together over an enormous span of time.",
-      "n_words": 24
-    },
-    {
-      "sent_id": "z1StpnRL4k4:s0118",
-      "video_id": "z1StpnRL4k4",
-      "idx": 118,
       "start_s": 1183.938,
       "end_s": 1187.621,
       "text": "Nobody set out, on day one, to invent the firearm.",
       "n_words": 10
     },
     {
-      "sent_id": "z1StpnRL4k4:s0119",
+      "sent_id": "z1StpnRL4k4:s0118",
       "video_id": "z1StpnRL4k4",
-      "idx": 119,
+      "idx": 118,
       "start_s": 1187.721,
       "end_s": 1195.047,
       "text": "A group of monks looking for immortality stumbled onto an explosive chemical reaction and very nearly burned their own beards off in the process.",
       "n_words": 24
     },
     {
-      "sent_id": "z1StpnRL4k4:s0120",
+      "sent_id": "z1StpnRL4k4:s0119",
       "video_id": "z1StpnRL4k4",
-      "idx": 120,
+      "idx": 119,
       "start_s": 1195.347,
       "end_s": 1200.231,
       "text": "Military engineers watching that explosive reaction gradually realized its violence could be channeled.",
       "n_words": 13
     },
     {
-      "sent_id": "z1StpnRL4k4:s0121",
+      "sent_id": "z1StpnRL4k4:s0120",
       "video_id": "z1StpnRL4k4",
-      "idx": 121,
+      "idx": 120,
       "start_s": 1200.531,
       "end_s": 1215.614,
       "text": "First through a tube strapped to a spear, then through a cast bronze cylinder, then through increasingly sophisticated mechanical systems designed to ignite that same basic chemical reaction more reliably, more quickly, and with less risk to the person holding the weapon.",
       "n_words": 42
     },
     {
-      "sent_id": "z1StpnRL4k4:s0122",
+      "sent_id": "z1StpnRL4k4:s0121",
       "video_id": "z1StpnRL4k4",
-      "idx": 122,
+      "idx": 121,
       "start_s": 1216.315,
       "end_s": 1230.345,
       "text": "Each individual improvement—the shift from bamboo to bronze, from open flame to spring-loaded mechanism, from matchlock to flintlock—addressed a specific, practical problem that soldiers and engineers had actually encountered using the version that came before it.",
       "n_words": 36
     },
     {
-      "sent_id": "z1StpnRL4k4:s0123",
+      "sent_id": "z1StpnRL4k4:s0122",
       "video_id": "z1StpnRL4k4",
-      "idx": 123,
+      "idx": 122,
       "start_s": 1231.005,
       "end_s": 1234.528,
       "text": "None of it required some singular genius moment of total invention.",
       "n_words": 11
     },
     {
-      "sent_id": "z1StpnRL4k4:s0124",
+      "sent_id": "z1StpnRL4k4:s0123",
       "video_id": "z1StpnRL4k4",
-      "idx": 124,
+      "idx": 123,
       "start_s": 1234.928,
       "end_s": 1261.5,
       "text": "It required centuries of incremental refinement, carried across continents by trade routes, military campaigns, and the kind of slow cultural exchange that quietly reshapes the world while nobody's watching closely enough to notice it happening in real time, passing hands between Chinese engineers, Mongol conquerors, Ottoman janissaries, Japanese gunsmiths, and European craftsmen, each group adding their own refinements along the way.",
       "n_words": 61
     },
     {
-      "sent_id": "z1StpnRL4k4:s0125",
+      "sent_id": "z1StpnRL4k4:s0124",
       "video_id": "z1StpnRL4k4",
-      "idx": 125,
+      "idx": 124,
       "start_s": 1262.04,
       "end_s": 1280.444,
       "text": "The gun that would eventually end the dominance of mounted knights, reshape castle architecture, and ultimately determine the outcome of colonial conquests and continental wars across multiple centuries began its existence as a mistake, made by people who were never trying to build a weapon at all, looking instead for something considerably more peaceful, a way to live forever.",

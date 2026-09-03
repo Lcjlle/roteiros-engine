@@ -1,6 +1,6 @@
 {
   "video_id": "NcITexwM0Fg",
-  "generated_at": "2026-09-03T13:18:13.124208+00:00",
+  "generated_at": "2026-09-03T22:19:53.100821+00:00",
   "windows": [
     {
       "window_id": "NcITexwM0Fg:j0000",
@@ -616,14 +616,13 @@
       "idx": 39,
       "sent_ids": [
         "NcITexwM0Fg:s0101",
-        "NcITexwM0Fg:s0102",
-        "NcITexwM0Fg:s0103"
+        "NcITexwM0Fg:s0102"
       ],
       "start_s": 477.934,
       "end_s": 489.602,
       "text": "What's telling about Rome is the class dimension. Wealthy Roman women had access to fine linen, soft wool, and presumably household slaves who handled washing and preparation of these materials.",
       "n_words": 30,
-      "n_sentences": 3,
+      "n_sentences": 2,
       "pos_pct": 0.3820415667466027
     },
     {
@@ -631,8 +630,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 40,
       "sent_ids": [
-        "NcITexwM0Fg:s0104",
-        "NcITexwM0Fg:s0105"
+        "NcITexwM0Fg:s0103",
+        "NcITexwM0Fg:s0104"
       ],
       "start_s": 490.242,
       "end_s": 498.965,
@@ -646,8 +645,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 41,
       "sent_ids": [
-        "NcITexwM0Fg:s0106",
-        "NcITexwM0Fg:s0107"
+        "NcITexwM0Fg:s0105",
+        "NcITexwM0Fg:s0106"
       ],
       "start_s": 499.505,
       "end_s": 507.908,
@@ -661,9 +660,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 42,
       "sent_ids": [
+        "NcITexwM0Fg:s0107",
         "NcITexwM0Fg:s0108",
-        "NcITexwM0Fg:s0109",
-        "NcITexwM0Fg:s0110"
+        "NcITexwM0Fg:s0109"
       ],
       "start_s": 508.308,
       "end_s": 521.573,
@@ -677,9 +676,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 43,
       "sent_ids": [
+        "NcITexwM0Fg:s0110",
         "NcITexwM0Fg:s0111",
-        "NcITexwM0Fg:s0112",
-        "NcITexwM0Fg:s0113"
+        "NcITexwM0Fg:s0112"
       ],
       "start_s": 521.793,
       "end_s": 536.641,
@@ -693,8 +692,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 44,
       "sent_ids": [
-        "NcITexwM0Fg:s0114",
-        "NcITexwM0Fg:s0115"
+        "NcITexwM0Fg:s0113",
+        "NcITexwM0Fg:s0114"
       ],
       "start_s": 536.981,
       "end_s": 550.146,
@@ -708,8 +707,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 45,
       "sent_ids": [
-        "NcITexwM0Fg:s0116",
-        "NcITexwM0Fg:s0117"
+        "NcITexwM0Fg:s0115",
+        "NcITexwM0Fg:s0116"
       ],
       "start_s": 550.486,
       "end_s": 557.447,
@@ -723,8 +722,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 46,
       "sent_ids": [
-        "NcITexwM0Fg:s0118",
-        "NcITexwM0Fg:s0119"
+        "NcITexwM0Fg:s0117",
+        "NcITexwM0Fg:s0118"
       ],
       "start_s": 558.108,
       "end_s": 568.03,
@@ -738,8 +737,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 47,
       "sent_ids": [
-        "NcITexwM0Fg:s0120",
-        "NcITexwM0Fg:s0121"
+        "NcITexwM0Fg:s0119",
+        "NcITexwM0Fg:s0120"
       ],
       "start_s": 568.83,
       "end_s": 578.432,
@@ -753,8 +752,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 48,
       "sent_ids": [
-        "NcITexwM0Fg:s0122",
-        "NcITexwM0Fg:s0123"
+        "NcITexwM0Fg:s0121",
+        "NcITexwM0Fg:s0122"
       ],
       "start_s": 578.912,
       "end_s": 598.858,
@@ -768,10 +767,10 @@
       "video_id": "NcITexwM0Fg",
       "idx": 49,
       "sent_ids": [
+        "NcITexwM0Fg:s0123",
         "NcITexwM0Fg:s0124",
         "NcITexwM0Fg:s0125",
-        "NcITexwM0Fg:s0126",
-        "NcITexwM0Fg:s0127"
+        "NcITexwM0Fg:s0126"
       ],
       "start_s": 599.338,
       "end_s": 608.841,
@@ -785,9 +784,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 50,
       "sent_ids": [
+        "NcITexwM0Fg:s0127",
         "NcITexwM0Fg:s0128",
-        "NcITexwM0Fg:s0129",
-        "NcITexwM0Fg:s0130"
+        "NcITexwM0Fg:s0129"
       ],
       "start_s": 609.581,
       "end_s": 618.824,
@@ -801,8 +800,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 51,
       "sent_ids": [
-        "NcITexwM0Fg:s0131",
-        "NcITexwM0Fg:s0132"
+        "NcITexwM0Fg:s0130",
+        "NcITexwM0Fg:s0131"
       ],
       "start_s": 619.004,
       "end_s": 627.867,
@@ -816,8 +815,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 52,
       "sent_ids": [
-        "NcITexwM0Fg:s0133",
-        "NcITexwM0Fg:s0134"
+        "NcITexwM0Fg:s0132",
+        "NcITexwM0Fg:s0133"
       ],
       "start_s": 628.667,
       "end_s": 637.491,
@@ -831,8 +830,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 53,
       "sent_ids": [
-        "NcITexwM0Fg:s0135",
-        "NcITexwM0Fg:s0136"
+        "NcITexwM0Fg:s0134",
+        "NcITexwM0Fg:s0135"
       ],
       "start_s": 638.031,
       "end_s": 653.759,
@@ -846,9 +845,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 54,
       "sent_ids": [
+        "NcITexwM0Fg:s0136",
         "NcITexwM0Fg:s0137",
-        "NcITexwM0Fg:s0138",
-        "NcITexwM0Fg:s0139"
+        "NcITexwM0Fg:s0138"
       ],
       "start_s": 654.08,
       "end_s": 663.565,
@@ -862,8 +861,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 55,
       "sent_ids": [
-        "NcITexwM0Fg:s0140",
-        "NcITexwM0Fg:s0141"
+        "NcITexwM0Fg:s0139",
+        "NcITexwM0Fg:s0140"
       ],
       "start_s": 663.905,
       "end_s": 675.61,
@@ -877,9 +876,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 56,
       "sent_ids": [
+        "NcITexwM0Fg:s0141",
         "NcITexwM0Fg:s0142",
-        "NcITexwM0Fg:s0143",
-        "NcITexwM0Fg:s0144"
+        "NcITexwM0Fg:s0143"
       ],
       "start_s": 676.07,
       "end_s": 687.613,
@@ -893,8 +892,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 57,
       "sent_ids": [
-        "NcITexwM0Fg:s0145",
-        "NcITexwM0Fg:s0146"
+        "NcITexwM0Fg:s0144",
+        "NcITexwM0Fg:s0145"
       ],
       "start_s": 688.353,
       "end_s": 701.704,
@@ -908,9 +907,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 58,
       "sent_ids": [
+        "NcITexwM0Fg:s0146",
         "NcITexwM0Fg:s0147",
-        "NcITexwM0Fg:s0148",
-        "NcITexwM0Fg:s0149"
+        "NcITexwM0Fg:s0148"
       ],
       "start_s": 702.385,
       "end_s": 712.533,
@@ -924,8 +923,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 59,
       "sent_ids": [
-        "NcITexwM0Fg:s0150",
-        "NcITexwM0Fg:s0151"
+        "NcITexwM0Fg:s0149",
+        "NcITexwM0Fg:s0150"
       ],
       "start_s": 713.073,
       "end_s": 726.742,
@@ -939,9 +938,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 60,
       "sent_ids": [
+        "NcITexwM0Fg:s0151",
         "NcITexwM0Fg:s0152",
-        "NcITexwM0Fg:s0153",
-        "NcITexwM0Fg:s0154"
+        "NcITexwM0Fg:s0153"
       ],
       "start_s": 727.102,
       "end_s": 735.087,
@@ -955,8 +954,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 61,
       "sent_ids": [
-        "NcITexwM0Fg:s0155",
-        "NcITexwM0Fg:s0156"
+        "NcITexwM0Fg:s0154",
+        "NcITexwM0Fg:s0155"
       ],
       "start_s": 735.827,
       "end_s": 754.816,
@@ -970,8 +969,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 62,
       "sent_ids": [
-        "NcITexwM0Fg:s0157",
-        "NcITexwM0Fg:s0158"
+        "NcITexwM0Fg:s0156",
+        "NcITexwM0Fg:s0157"
       ],
       "start_s": 755.476,
       "end_s": 765.761,
@@ -985,8 +984,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 63,
       "sent_ids": [
-        "NcITexwM0Fg:s0159",
-        "NcITexwM0Fg:s0160"
+        "NcITexwM0Fg:s0158",
+        "NcITexwM0Fg:s0159"
       ],
       "start_s": 766.341,
       "end_s": 780.828,
@@ -1000,8 +999,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 64,
       "sent_ids": [
-        "NcITexwM0Fg:s0161",
-        "NcITexwM0Fg:s0162"
+        "NcITexwM0Fg:s0160",
+        "NcITexwM0Fg:s0161"
       ],
       "start_s": 781.508,
       "end_s": 800.928,
@@ -1015,8 +1014,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 65,
       "sent_ids": [
-        "NcITexwM0Fg:s0163",
-        "NcITexwM0Fg:s0164"
+        "NcITexwM0Fg:s0162",
+        "NcITexwM0Fg:s0163"
       ],
       "start_s": 801.368,
       "end_s": 815.665,
@@ -1030,8 +1029,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 66,
       "sent_ids": [
-        "NcITexwM0Fg:s0165",
-        "NcITexwM0Fg:s0166"
+        "NcITexwM0Fg:s0164",
+        "NcITexwM0Fg:s0165"
       ],
       "start_s": 815.885,
       "end_s": 821.99,
@@ -1045,8 +1044,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 67,
       "sent_ids": [
-        "NcITexwM0Fg:s0167",
-        "NcITexwM0Fg:s0168"
+        "NcITexwM0Fg:s0166",
+        "NcITexwM0Fg:s0167"
       ],
       "start_s": 822.51,
       "end_s": 840.025,
@@ -1060,8 +1059,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 68,
       "sent_ids": [
-        "NcITexwM0Fg:s0169",
-        "NcITexwM0Fg:s0170"
+        "NcITexwM0Fg:s0168",
+        "NcITexwM0Fg:s0169"
       ],
       "start_s": 840.705,
       "end_s": 847.289,
@@ -1075,8 +1074,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 69,
       "sent_ids": [
-        "NcITexwM0Fg:s0171",
-        "NcITexwM0Fg:s0172"
+        "NcITexwM0Fg:s0170",
+        "NcITexwM0Fg:s0171"
       ],
       "start_s": 847.69,
       "end_s": 858.817,
@@ -1090,8 +1089,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 70,
       "sent_ids": [
-        "NcITexwM0Fg:s0173",
-        "NcITexwM0Fg:s0174"
+        "NcITexwM0Fg:s0172",
+        "NcITexwM0Fg:s0173"
       ],
       "start_s": 859.157,
       "end_s": 866.582,
@@ -1105,8 +1104,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 71,
       "sent_ids": [
-        "NcITexwM0Fg:s0175",
-        "NcITexwM0Fg:s0176"
+        "NcITexwM0Fg:s0174",
+        "NcITexwM0Fg:s0175"
       ],
       "start_s": 867.022,
       "end_s": 882.294,
@@ -1120,9 +1119,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 72,
       "sent_ids": [
+        "NcITexwM0Fg:s0176",
         "NcITexwM0Fg:s0177",
-        "NcITexwM0Fg:s0178",
-        "NcITexwM0Fg:s0179"
+        "NcITexwM0Fg:s0178"
       ],
       "start_s": 882.694,
       "end_s": 894.504,
@@ -1136,8 +1135,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 73,
       "sent_ids": [
-        "NcITexwM0Fg:s0180",
-        "NcITexwM0Fg:s0181"
+        "NcITexwM0Fg:s0179",
+        "NcITexwM0Fg:s0180"
       ],
       "start_s": 894.864,
       "end_s": 902.05,
@@ -1151,9 +1150,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 74,
       "sent_ids": [
+        "NcITexwM0Fg:s0181",
         "NcITexwM0Fg:s0182",
-        "NcITexwM0Fg:s0183",
-        "NcITexwM0Fg:s0184"
+        "NcITexwM0Fg:s0183"
       ],
       "start_s": 902.45,
       "end_s": 914.221,
@@ -1167,8 +1166,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 75,
       "sent_ids": [
-        "NcITexwM0Fg:s0185",
-        "NcITexwM0Fg:s0186"
+        "NcITexwM0Fg:s0184",
+        "NcITexwM0Fg:s0185"
       ],
       "start_s": 914.861,
       "end_s": 929.472,
@@ -1182,8 +1181,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 76,
       "sent_ids": [
-        "NcITexwM0Fg:s0187",
-        "NcITexwM0Fg:s0188"
+        "NcITexwM0Fg:s0186",
+        "NcITexwM0Fg:s0187"
       ],
       "start_s": 929.653,
       "end_s": 938.218,
@@ -1197,8 +1196,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 77,
       "sent_ids": [
-        "NcITexwM0Fg:s0189",
-        "NcITexwM0Fg:s0190"
+        "NcITexwM0Fg:s0188",
+        "NcITexwM0Fg:s0189"
       ],
       "start_s": 938.498,
       "end_s": 949.486,
@@ -1212,8 +1211,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 78,
       "sent_ids": [
-        "NcITexwM0Fg:s0191",
-        "NcITexwM0Fg:s0192"
+        "NcITexwM0Fg:s0190",
+        "NcITexwM0Fg:s0191"
       ],
       "start_s": 949.926,
       "end_s": 962.337,
@@ -1227,9 +1226,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 79,
       "sent_ids": [
+        "NcITexwM0Fg:s0192",
         "NcITexwM0Fg:s0193",
-        "NcITexwM0Fg:s0194",
-        "NcITexwM0Fg:s0195"
+        "NcITexwM0Fg:s0194"
       ],
       "start_s": 963.978,
       "end_s": 974.183,
@@ -1243,8 +1242,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 80,
       "sent_ids": [
-        "NcITexwM0Fg:s0196",
-        "NcITexwM0Fg:s0197"
+        "NcITexwM0Fg:s0195",
+        "NcITexwM0Fg:s0196"
       ],
       "start_s": 974.543,
       "end_s": 987.129,
@@ -1258,8 +1257,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 81,
       "sent_ids": [
-        "NcITexwM0Fg:s0198",
-        "NcITexwM0Fg:s0199"
+        "NcITexwM0Fg:s0197",
+        "NcITexwM0Fg:s0198"
       ],
       "start_s": 987.389,
       "end_s": 1004.754,
@@ -1273,9 +1272,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 82,
       "sent_ids": [
+        "NcITexwM0Fg:s0199",
         "NcITexwM0Fg:s0200",
-        "NcITexwM0Fg:s0201",
-        "NcITexwM0Fg:s0202"
+        "NcITexwM0Fg:s0201"
       ],
       "start_s": 1005.035,
       "end_s": 1014.76,
@@ -1289,8 +1288,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 83,
       "sent_ids": [
-        "NcITexwM0Fg:s0203",
-        "NcITexwM0Fg:s0204"
+        "NcITexwM0Fg:s0202",
+        "NcITexwM0Fg:s0203"
       ],
       "start_s": 1015.161,
       "end_s": 1021.346,
@@ -1304,9 +1303,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 84,
       "sent_ids": [
+        "NcITexwM0Fg:s0204",
         "NcITexwM0Fg:s0205",
-        "NcITexwM0Fg:s0206",
-        "NcITexwM0Fg:s0207"
+        "NcITexwM0Fg:s0206"
       ],
       "start_s": 1021.666,
       "end_s": 1032.291,
@@ -1320,10 +1319,10 @@
       "video_id": "NcITexwM0Fg",
       "idx": 85,
       "sent_ids": [
+        "NcITexwM0Fg:s0207",
         "NcITexwM0Fg:s0208",
         "NcITexwM0Fg:s0209",
-        "NcITexwM0Fg:s0210",
-        "NcITexwM0Fg:s0211"
+        "NcITexwM0Fg:s0210"
       ],
       "start_s": 1032.491,
       "end_s": 1044.994,
@@ -1337,9 +1336,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 86,
       "sent_ids": [
+        "NcITexwM0Fg:s0211",
         "NcITexwM0Fg:s0212",
-        "NcITexwM0Fg:s0213",
-        "NcITexwM0Fg:s0214"
+        "NcITexwM0Fg:s0213"
       ],
       "start_s": 1045.414,
       "end_s": 1054.616,
@@ -1353,8 +1352,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 87,
       "sent_ids": [
-        "NcITexwM0Fg:s0215",
-        "NcITexwM0Fg:s0216"
+        "NcITexwM0Fg:s0214",
+        "NcITexwM0Fg:s0215"
       ],
       "start_s": 1055.116,
       "end_s": 1070.326,
@@ -1368,9 +1367,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 88,
       "sent_ids": [
+        "NcITexwM0Fg:s0216",
         "NcITexwM0Fg:s0217",
-        "NcITexwM0Fg:s0218",
-        "NcITexwM0Fg:s0219"
+        "NcITexwM0Fg:s0218"
       ],
       "start_s": 1070.486,
       "end_s": 1080.233,
@@ -1384,8 +1383,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 89,
       "sent_ids": [
-        "NcITexwM0Fg:s0220",
-        "NcITexwM0Fg:s0221"
+        "NcITexwM0Fg:s0219",
+        "NcITexwM0Fg:s0220"
       ],
       "start_s": 1080.613,
       "end_s": 1091.796,
@@ -1399,9 +1398,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 90,
       "sent_ids": [
+        "NcITexwM0Fg:s0221",
         "NcITexwM0Fg:s0222",
-        "NcITexwM0Fg:s0223",
-        "NcITexwM0Fg:s0224"
+        "NcITexwM0Fg:s0223"
       ],
       "start_s": 1091.996,
       "end_s": 1104.66,
@@ -1415,10 +1414,10 @@
       "video_id": "NcITexwM0Fg",
       "idx": 91,
       "sent_ids": [
+        "NcITexwM0Fg:s0224",
         "NcITexwM0Fg:s0225",
         "NcITexwM0Fg:s0226",
-        "NcITexwM0Fg:s0227",
-        "NcITexwM0Fg:s0228"
+        "NcITexwM0Fg:s0227"
       ],
       "start_s": 1104.98,
       "end_s": 1113.249,
@@ -1432,10 +1431,10 @@
       "video_id": "NcITexwM0Fg",
       "idx": 92,
       "sent_ids": [
+        "NcITexwM0Fg:s0228",
         "NcITexwM0Fg:s0229",
         "NcITexwM0Fg:s0230",
-        "NcITexwM0Fg:s0231",
-        "NcITexwM0Fg:s0232"
+        "NcITexwM0Fg:s0231"
       ],
       "start_s": 1113.489,
       "end_s": 1124.781,
@@ -1449,15 +1448,15 @@
       "video_id": "NcITexwM0Fg",
       "idx": 93,
       "sent_ids": [
+        "NcITexwM0Fg:s0232",
         "NcITexwM0Fg:s0233",
         "NcITexwM0Fg:s0234",
-        "NcITexwM0Fg:s0235",
-        "NcITexwM0Fg:s0236"
+        "NcITexwM0Fg:s0235"
       ],
       "start_s": 1125.241,
       "end_s": 1136.772,
-      "text": "The Greeks used warm wine compresses and herbal infusions. Roman physicians prescribed exercise. Chinese medicine had elaborate formulas. Medieval",
-      "n_words": 19,
+      "text": "The Greeks used warm wine compresses and herbal infusions. Roman physicians prescribed exercise. Chinese medicine had elaborate formulas. Medieval Europeans had their plant-based amenagogues.",
+      "n_words": 24,
       "n_sentences": 4,
       "pos_pct": 0.8994732214228617
     },
@@ -1466,105 +1465,104 @@
       "video_id": "NcITexwM0Fg",
       "idx": 94,
       "sent_ids": [
-        "NcITexwM0Fg:s0237",
-        "NcITexwM0Fg:s0238"
+        "NcITexwM0Fg:s0236",
+        "NcITexwM0Fg:s0237"
       ],
-      "start_s": 1134.069,
-      "end_s": 1142.337,
-      "text": "Europeans had their plant-based amenagogues. And, almost universally, the herbs that show up across these traditions have one thing in common.",
-      "n_words": 21,
+      "start_s": 1137.332,
+      "end_s": 1148.803,
+      "text": "And, almost universally, the herbs that show up across these traditions have one thing in common. Many of them work, or at least many of them contain compounds that have measurable physiological effects.",
+      "n_words": 33,
       "n_sentences": 2,
-      "pos_pct": 0.9065299760191846
+      "pos_pct": 0.9091382893685053
     },
     {
       "window_id": "NcITexwM0Fg:j0095",
       "video_id": "NcITexwM0Fg",
       "idx": 95,
       "sent_ids": [
+        "NcITexwM0Fg:s0238",
         "NcITexwM0Fg:s0239",
-        "NcITexwM0Fg:s0240",
-        "NcITexwM0Fg:s0241"
+        "NcITexwM0Fg:s0240"
       ],
-      "start_s": 1142.957,
-      "end_s": 1154.265,
-      "text": "Many of them work, or at least many of them contain compounds that have measurable physiological effects. chamomile, ginger, cinnamon, fennel. These are not random folklore choices.",
-      "n_words": 27,
+      "start_s": 1149.483,
+      "end_s": 1159.807,
+      "text": "chamomile, ginger, cinnamon, fennel. These are not random folklore choices. They are accumulated empirical knowledge from generations of women trying things and reporting back.",
+      "n_words": 24,
       "n_sentences": 3,
-      "pos_pct": 0.9136346922462031
+      "pos_pct": 0.9188513189448441
     },
     {
       "window_id": "NcITexwM0Fg:j0096",
       "video_id": "NcITexwM0Fg",
       "idx": 96,
       "sent_ids": [
-        "NcITexwM0Fg:s0242",
-        "NcITexwM0Fg:s0243"
+        "NcITexwM0Fg:s0241",
+        "NcITexwM0Fg:s0242"
       ],
-      "start_s": 1154.725,
-      "end_s": 1173.833,
-      "text": "They are accumulated empirical knowledge from generations of women trying things and reporting back. The irony is that for all the nonsense men wrote about menstruation, Aristotle's failed semen theory, Pliny's crop-killing superpower, the entire edifice of religious impurity law, the practical medical knowledge was often genuinely sophisticated.",
-      "n_words": 48,
+      "start_s": 1159.947,
+      "end_s": 1175.134,
+      "text": "The irony is that for all the nonsense men wrote about menstruation, Aristotle's failed semen theory, Pliny's crop-killing superpower, the entire edifice of religious impurity law, the practical medical knowledge was often genuinely sophisticated. Women figured it out.",
+      "n_words": 38,
       "n_sentences": 2,
-      "pos_pct": 0.9230415667466026
+      "pos_pct": 0.9272158273381295
     },
     {
       "window_id": "NcITexwM0Fg:j0097",
       "video_id": "NcITexwM0Fg",
       "idx": 97,
       "sent_ids": [
+        "NcITexwM0Fg:s0243",
         "NcITexwM0Fg:s0244",
         "NcITexwM0Fg:s0245",
-        "NcITexwM0Fg:s0246",
-        "NcITexwM0Fg:s0247"
+        "NcITexwM0Fg:s0246"
       ],
-      "start_s": 1174.133,
-      "end_s": 1184.015,
-      "text": "Women figured it out. because women had to. We have entire museums dedicated to ancient weapons. We reconstruct ancient battle formations in painstaking detail.",
-      "n_words": 24,
+      "start_s": 1175.774,
+      "end_s": 1188.756,
+      "text": "because women had to. We have entire museums dedicated to ancient weapons. We reconstruct ancient battle formations in painstaking detail. We make documentary after documentary about emperors, generals, and kings.",
+      "n_words": 30,
       "n_sentences": 4,
-      "pos_pct": 0.9385555555555556
+      "pos_pct": 0.9398673061550759
     },
     {
       "window_id": "NcITexwM0Fg:j0098",
       "video_id": "NcITexwM0Fg",
       "idx": 98,
       "sent_ids": [
+        "NcITexwM0Fg:s0247",
         "NcITexwM0Fg:s0248",
-        "NcITexwM0Fg:s0249",
-        "NcITexwM0Fg:s0250"
+        "NcITexwM0Fg:s0249"
       ],
-      "start_s": 1184.616,
-      "end_s": 1198.438,
-      "text": "We make documentary after documentary about emperors, generals, and kings. But the daily experience of half the population—the practical, intimate, universal reality of menstruation—barely shows up in mainstream history. It's not in the documentaries.",
-      "n_words": 34,
+      "start_s": 1188.996,
+      "end_s": 1200.078,
+      "text": "But the daily experience of half the population—the practical, intimate, universal reality of menstruation—barely shows up in mainstream history. It's not in the documentaries. It's not in the school curricula.",
+      "n_words": 30,
       "n_sentences": 3,
-      "pos_pct": 0.9469352517985611
+      "pos_pct": 0.9504364508393286
     },
     {
       "window_id": "NcITexwM0Fg:j0099",
       "video_id": "NcITexwM0Fg",
       "idx": 99,
       "sent_ids": [
-        "NcITexwM0Fg:s0251",
-        "NcITexwM0Fg:s0252",
-        "NcITexwM0Fg:s0253"
+        "NcITexwM0Fg:s0250",
+        "NcITexwM0Fg:s0251"
       ],
-      "start_s": 1198.658,
+      "start_s": 1200.338,
       "end_s": 1208.263,
-      "text": "It's not in the school curricula. It's barely in the academic literature until relatively recently. And yet this is one of the most universal human experiences that has ever existed.",
-      "n_words": 30,
-      "n_sentences": 3,
-      "pos_pct": 0.9581598721023181
+      "text": "It's barely in the academic literature until relatively recently. And yet this is one of the most universal human experiences that has ever existed.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.9595027977617906
     },
     {
       "window_id": "NcITexwM0Fg:j0100",
       "video_id": "NcITexwM0Fg",
       "idx": 100,
       "sent_ids": [
+        "NcITexwM0Fg:s0252",
+        "NcITexwM0Fg:s0253",
         "NcITexwM0Fg:s0254",
-        "NcITexwM0Fg:s0255",
-        "NcITexwM0Fg:s0256",
-        "NcITexwM0Fg:s0257"
+        "NcITexwM0Fg:s0255"
       ],
       "start_s": 1208.964,
       "end_s": 1218.072,
@@ -1578,8 +1576,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 101,
       "sent_ids": [
-        "NcITexwM0Fg:s0258",
-        "NcITexwM0Fg:s0259"
+        "NcITexwM0Fg:s0256",
+        "NcITexwM0Fg:s0257"
       ],
       "start_s": 1218.452,
       "end_s": 1221.875,
@@ -1593,7 +1591,7 @@
       "video_id": "NcITexwM0Fg",
       "idx": 102,
       "sent_ids": [
-        "NcITexwM0Fg:s0260"
+        "NcITexwM0Fg:s0258"
       ],
       "start_s": 1222.576,
       "end_s": 1232.632,
@@ -1607,9 +1605,9 @@
       "video_id": "NcITexwM0Fg",
       "idx": 103,
       "sent_ids": [
-        "NcITexwM0Fg:s0261",
-        "NcITexwM0Fg:s0262",
-        "NcITexwM0Fg:s0263"
+        "NcITexwM0Fg:s0259",
+        "NcITexwM0Fg:s0260",
+        "NcITexwM0Fg:s0261"
       ],
       "start_s": 1233.153,
       "end_s": 1244.231,
@@ -1623,8 +1621,8 @@
       "video_id": "NcITexwM0Fg",
       "idx": 104,
       "sent_ids": [
-        "NcITexwM0Fg:s0264",
-        "NcITexwM0Fg:s0265"
+        "NcITexwM0Fg:s0262",
+        "NcITexwM0Fg:s0263"
       ],
       "start_s": 1244.692,
       "end_s": 1249.96,
