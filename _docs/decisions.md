@@ -143,3 +143,25 @@ What changed to make this real, not hypothetical:
 asks for: 21 `legenda`, 9 `whisperX`. Item 3's `>= 21` floor is
 superseded by this - the corpus is complete, so Fase 4/5 can use the
 plan's literal 5 gold + 25 batch split without re-deriving it.
+
+## 5. whisperX stays fallback, not promoted to default collection path
+
+`_docs/plano_implementacao.md` (v3.0 migration) and `_docs/blueprint.md`
+flagged an open proposal: since multi-canal is now normal operation, the
+YouTube caption-endpoint IP block from item 3/4 will recur on every new
+channel, so invert `collect_transcript()` to try whisperX first and treat
+captions as an opportunistic shortcut.
+
+The project owner declined this for now: **captions remain the default
+path, whisperX remains the fallback**, unchanged from the current
+`collect_transcript()` behavior. If a future channel's collection run hits
+the same `IpBlocked`/`429` wall `zenn0009` did, the operator resolves it the
+same way item 4 already did - fall back to whisperX locally for the videos
+that failed, not a code change.
+
+Consequence: the Fase 6 source-contamination check (comparing `style`
+metrics between `legenda` and `whisperX` subsets when a corpus mixes both)
+stays a real requirement for every future channel, not something whisperX
+defaulting would have eliminated. `README.md` M1, `_docs/blueprint.md` Peça
+6, and `_docs/plano_implementacao.md` Fase 1 item 2 are updated to point
+here instead of carrying the proposal as still open.

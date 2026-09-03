@@ -13,8 +13,10 @@ Background
 - `_docs/decisions.md` - as chamadas tecnicas ja feitas, com o motivo. Ler
   antes de gromear ou implementar, e nao reabrir uma decisao sem muda-la la
   primeiro
-- `DECISOES.md` - as tres decisoes de produto da Fase 0 (canal, duracao-alvo,
-  uso comercial). Sao do dono do projeto, nao do PM - nenhuma issue de
+- `DECISOES.md` - as decisoes de produto da Fase 0: as tres originais
+  (canal-fixture, duracao-alvo, uso comercial) mais duas que a
+  substituicao oficial v3.0 introduziu (canal de referencia definitivo,
+  modelo de anotacao). Sao do dono do projeto, nao do PM - nenhuma issue de
   Fase 1 em diante e groomada enquanto uma estiver "em aberto"
 - `_docs/plano_implementacao.md` e `_docs/blueprint.md` - o plano de dez
   fases e o levantamento de ferramentas. Referencia, nao backlog - onde
@@ -113,7 +115,7 @@ falhas que parece uma regressao real e nao e - repita sozinho antes de
 acreditar num run que falhou de forma estranha.
 
 O mesmo vale para qualquer coisa lenta - um script de anotacao em lote
-rodando 1.350 chamadas de LLM (Fase 5), uma transcricao com `whisperX`, um
+rodando ~3.600 chamadas de LLM (Fase 5), uma transcricao com `whisperX`, um
 run de CI. Faca polling com um teto, e se nunca chegar, diga isso.
 "Nao terminou em dois minutos" e um achado, e muitas vezes um FAIL. Silencio
 nao e.

@@ -8,7 +8,7 @@ One or two sentences on what should be true when this is done.
 - [ ] One line per case, including the awkward ones
 - [ ] If this issue closes a phase from `_docs/plano_implementacao.md`, the
       phase's gate is one of these lines, with its exact numeric threshold
-      (e.g. "Pk <= 0.4 against the 3-video gold" or
+      (e.g. "<= 5 de 50 janelas com duas funções, semente 42" or
       "Krippendorff's alpha >= 0.667 model x human, per field")
 
 ## Out of scope

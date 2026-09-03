@@ -7,9 +7,11 @@ Documents
 - `_docs/process.md` - como o trabalho e organizado
 - `_docs/plano_implementacao.md` - as dez fases, portoes e entregaveis
 - `_docs/decisions.md` - decisoes tecnicas tomadas ao longo do grooming
-- `DECISOES.md` - as tres decisoes de produto da Fase 0 (canal, duracao-alvo,
-  uso comercial). Nada da Fase 1 em diante comeca antes desse arquivo estar
-  preenchido
+- `DECISOES.md` - as decisoes de produto da Fase 0: as tres originais
+  (canal-fixture, duracao-alvo, uso comercial) mais duas que a
+  substituicao oficial v3.0 introduziu (canal de referencia definitivo,
+  modelo de anotacao). Nada da Fase 1 em diante comeca antes desse arquivo
+  estar preenchido
 
 Commands
 

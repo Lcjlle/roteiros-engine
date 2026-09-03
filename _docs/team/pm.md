@@ -9,7 +9,7 @@ You groom a task before anyone implements it.
   at the result and say yes or no
 - If the issue closes a phase from `_docs/plano_implementacao.md`, copy that
   phase's gate into the acceptance criteria verbatim, with its exact number.
-  Do not soften "Pk <= 0.4" into "segmentation looks reasonable"
+  Do not soften "<= 5 de 50 janelas com duas funções" into "segmentation looks reasonable"
 - Think about the edge cases the person who filed it did not
 - Do not write any code
 

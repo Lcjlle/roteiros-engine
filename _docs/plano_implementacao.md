@@ -1,367 +1,705 @@
 # Plano de Implementação — Sistema de Roteiros por Perfil de Canal
 
-**Versão 1.0** — plano de trabalho, não especificação final. Espera-se que a Fase 3 mude o resto.
+**Versão 3.0** · Substitui a v2.0
 
 ---
 
-## Como usar este plano
+## Precedência
 
-Dez fases. Cada uma tem **objetivo, ferramentas, passos, entregável e portão de saída**. O portão é a condição objetiva para avançar — se não passar, você volta e corrige, não segue em frente. Essa disciplina é a diferença entre o seu sistema e os prompts que você já descartou.
+Este documento é **referência, não backlog**. Onde discordar de `_docs/decisions.md` ou de uma issue groomada, ele perde. Ver `_docs/process.md`.
 
-Fases 0 a 6 constroem o **perfil**. Fases 7 a 9 constroem a **execução**. A Fase 10 testa se a separação realmente funciona.
+Onde a v3.0 propõe algo que **conflita** com uma decisão registrada, o conflito está marcado com ⚠️ e precisa de entrada nova em `decisions.md` antes de virar issue.
 
-Não pule a Fase 3. Ela é a única parte que não pode ser terceirizada para ferramenta ou modelo, e é a que determina a qualidade de tudo depois.
+---
+
+## Changelog v2.0 → v3.0
+
+Três mudanças de premissa, todas confirmadas pelo dono do projeto.
+
+**1. Política de idioma explícita.** O corpus e a saída são em **inglês**; a comunicação com humanos é em **PT-BR**. Isso não é detalhe de estilo — determina em que língua cada artefato é escrito, e a mistura errada degrada a anotação. Ver a seção "Política de idioma", que é normativa.
+
+**Consequência que atravessa tudo:** os identificadores da ontologia passam a ser em inglês (`hook`, não `gancho`), porque rótulo, definição e texto anotado precisam estar na mesma língua.
+
+**2. Ontologia global, não por canal.** Uma única `schema/ontologia.vN.json` serve todos os canais. As diferenças entre canais vivem nas distribuições do perfil, não no vocabulário. Isso preserva a comparabilidade entre canais, que é o ativo de rodar vários.
+
+**3. Multi-canal é operação normal, não teste de escala.** A antiga Fase 10 ("segundo canal") deixa de ser prova de conceito e vira o modo de uso do sistema. O primeiro canal deixa de ser "o canal do projeto" e passa a ser **o canal do qual a ontologia é derivada** — o que muda o critério de escolha.
+
+**Consequências de estado:**
+
+- `zenn0009` passa a ser **fixture de validação do M1**, não corpus de perfil. Foi usado para testar a coleta e cumpriu esse papel.
+- O ⚠️ do holdout da v2.0 **está resolvido e removido**: com um canal maior, reservam-se 4–5 vídeos fora da seleção dos 30. Sem carvar do corpus do perfil.
+- A recalibração PT-BR da Fase 6 passo 4 **deixa de existir**. Corpus em inglês, `textstat` calibrado para inglês, saída em inglês.
+
+**Correção de erro da v2.0:** a Fase 2 mandava passar `pt` ao `wtpsplit`. É `en`.
+
+---
+
+## Política de idioma
+
+**Esta seção é normativa.** A regra em uma frase:
+
+> **Se é lido pela máquina ou entra num prompt, é inglês. Se é lido só por humano, é PT-BR.**
+
+### Inglês, obrigatoriamente
+
+| Artefato | Por quê |
+|---|---|
+| `schema/codebook.md` — definições, exemplos, regras de desempate | é injetado no prompt de anotação, sobre texto em inglês |
+| `schema/ontologia.vN.json` — nomes de campo e valores | viram identificadores de dado e chaves do prompt |
+| prompts de anotação e de geração | mesma língua do texto anotado e do texto gerado |
+| `tone_examples` e `forbidden` no perfil | são trechos literais do corpus |
+| roteiros gerados, em `saidas/` | é o produto |
+| identificadores de código: variáveis, funções, colunas, docstrings, nomes de teste | convivem com os identificadores de dado |
+
+### PT-BR
+
+| Artefato | Por quê |
+|---|---|
+| `README.md`, `_docs/plano_implementacao.md`, `_docs/blueprint.md` | leitura humana |
+| `_docs/decisions.md`, `DECISOES.md` | leitura humana |
+| `_docs/process.md`, `_docs/team/*` | leitura humana e de agentes que operam em PT-BR |
+| corpo de issues, comentários de QA, mensagens de commit | leitura humana |
+| prosa dos relatórios de concordância e de fusão | leitura humana |
+| mensagens de CLI e log destinadas a você | leitura humana |
+
+Os **números e nomes de campo** dentro de um relatório em PT-BR continuam em inglês, porque são identificadores. Um relatório diz "a função `hook` ficou em 4,2% dos blocos", não "a função gancho".
+
+### Bilíngue, com precedência declarada
+
+**`schema/codebook.md`** é o único artefato bilíngue. Cada entrada tem:
+
+- **definição normativa em inglês** — é o que vai para o prompt
+- **glosa em PT-BR**, marcada explicitamente como não normativa — é o que você usa para pensar
+
+> Onde a glosa PT-BR divergir da definição EN, **a definição EN vence**. A glosa não é traduzida automaticamente nem mantida em sincronia por ferramenta; se você alterar a definição, altere a glosa no mesmo commit.
+
+Essa regra precisa estar escrita dentro do próprio `codebook.md`, não só aqui. Divergência silenciosa entre as duas metades é o modo de falha esperado.
+
+### Dívida aceita
+
+Os diretórios já commitados são em português: `corpus/`, `perfis/`, `saidas/`, `schema/ontologia.v1.json`. **Não vale renomear.** Nomes de caminho não entram em prompt nem viram identificador de dado, e o churn de renomear atingiria `process.md`, `decisions.md`, testes e o histórico. Fica registrado como inconsistência conhecida e aceita, para ninguém "consertar" isso depois num commit grande.
+
+---
+
+## Estado das fases
+
+| Fase | Estado | Observação |
+|---|---|---|
+| 0 · Decisões | **completa** | cinco decididas, ver `DECISOES.md` |
+| 1 · Coleta | **código pronto e validado** | fixture `zenn0009`, 30 vídeos (`decisions.md#3`, `#4`) |
+| 2 · Sentenciação | **pode rodar agora** | não depende do canal definitivo |
+| 3 · Ontologia | bloqueada | espera Fase 1+2 sobre o canal definitivo (`@MackExplains7`) |
+| 4–10 | pendentes | |
+
+### Fase 0 resolvida
+
+Os dois itens que a substituição v3.0 abriu além das três decisões
+originais estão preenchidos em `DECISOES.md`:
+
+1. **Canal de referência definitivo:** `@MackExplains7` (`DECISOES.md#4`).
+   Destrava a Fase 3 — mas só depois que a Fase 1 e a Fase 2 rodarem sobre
+   ele; a decisão de qual canal não substitui o corpus real.
+2. **Modelo de anotação:** Claude Sonnet 5 (`DECISOES.md#5`). Destrava a
+   Fase 5.
+
+**Aplicado nesta substituição:** `DECISOES.md#1` trazia uma afirmação
+falsa sobre recalibração de legibilidade e palavras-por-minuto para
+português. Corrigida — corpus e saída são em inglês, as métricas se
+aplicam diretamente. Ver "Correções aplicadas na substituição oficial
+v3.0" mais abaixo.
+
+---
+
+**Decidido:** `@MackExplains7` (`DECISOES.md#4`). Os critérios abaixo são
+a referência usada para a escolha e continuam valendo para julgar canais
+futuros — a verificação prática deles contra `@MackExplains7` (`yt-dlp
+--flat-playlist --dump-json`, contagem real de vídeos, formato) acontece
+quando a issue de Fase 1 desse canal rodar, do jeito que aconteceu para
+`@Zenn0009` na Issue #1.
+
+## Como escolher o canal de referência
+
+Mudou na v3.0, e foi a decisão mais consequente do grupo — resolvida acima.
+
+Com ontologia global e multi-canal como norma, o primeiro canal não é "o canal do projeto" — é **aquele de que a ontologia será derivada**. Ela vai ser aplicada a todos os outros.
+
+**Critério: o mais representativo do formato que você pretende rodar, não o de melhor desempenho.** Um canal atípico produz uma ontologia que não transfere, e você só descobre no terceiro canal, quando reanotar tudo custa caro.
+
+Requisitos práticos:
+
+- 40 ou mais vídeos longos, para sobrarem 4–5 de holdout depois de selecionar 30 (`zenn0009` tinha 34, o que era apertado)
+- formato consistente ao longo do tempo
+- inglês
+- **de preferência, escolha dois canais do mesmo formato e olhe amostras dos dois antes de congelar a ontologia.** Uma ontologia derivada de um canal só tende a codificar idiossincrasias dele como se fossem estrutura do formato. Não precisa anotar os dois; basta ler ~20 janelas do segundo e conferir se as categorias cobrem.
 
 ---
 
 ## Princípios que não se negociam
 
-Se algum passo do plano contradisser um destes, o princípio ganha.
+**1. O esquema é a fonte da verdade.** Categorias, campos e valores vivem em `schema/ontologia.vN.json`. Prompt, documentação e código *leem* esse arquivo.
 
-**1. O esquema é a fonte da verdade.** Categorias, campos e valores permitidos vivem em um arquivo JSON versionado. Prompt, documentação e código *leem* esse arquivo. Nada de listas duplicadas em prosa dentro de um prompt — é assim que os sistemas divergem.
+**2. Anotar não é analisar.** O modelo escolhe de uma lista fechada. Se precisou de prosa livre, falta um campo no esquema.
 
-**2. Anotar não é analisar.** O modelo escolhe de uma lista fechada. Nunca "descubra os padrões deste roteiro". Se você precisou de prosa livre, é sinal de que falta um campo no esquema.
+**3. Perfil e execução são processos separados.** O perfil se constrói uma vez, é verificado, vira arquivo. A execução lê o arquivo e nunca o rederiva.
 
-**3. Perfil e execução são processos separados.** O perfil se constrói uma vez, é verificado por você, e vira arquivo. A execução lê o arquivo e nunca o rederiva. Se você se pegar reanalisando o canal no meio da geração, a arquitetura quebrou.
+**4. O que dá para medir, mede-se em código.** Julgamento de LLM fica só para o que não tem métrica.
 
-**4. O que dá para medir, mede-se em código.** Contagem, posição percentual, distribuição, presença de fonte, lista de termos proibidos — tudo isso é Python, não julgamento de LLM. Julgamento de modelo fica só para o que não tem métrica.
+**5. Toda etapa persiste seu resultado e é reexecutável isoladamente.** Onde persiste segue `decisions.md#1`: lido por humano e congelado por fase é arquivo; estado operacional consultável pode ser tabela.
+
+**6. Uma ontologia, muitos perfis.** *(Novo na v3.0.)* A diferença entre canais é numérica, não categórica. Se um canal exigir vocabulário novo, isso é uma versão nova da ontologia aplicada a todos — não um dialeto local.
 
 ---
 
-## Estrutura do projeto
+## Custo de uma versão nova da ontologia
+
+Consequência direta do princípio 6, e vale ter na frente antes da Fase 3.
+
+Anotar um canal são ~3.600 chamadas de LLM. Com N canais já perfilados, subir de `v1` para `v2` significa reanotar **todos** os corpus, senão os perfis deixam de ser comparáveis — que era o motivo de ter ontologia global.
+
+Com 5 canais, isso são ~18.000 chamadas e um dia de run. Não é proibitivo, mas é um evento planejado, não um ajuste de tarde.
+
+Três defesas:
+
+- **Cada perfil grava `versao_ontologia`.** Já está no contrato de dados. Perfil de versão diferente não é comparável e o código deve recusar comparar.
+- **Corpus anotado é guardado, não descartado.** Reanotar exige as janelas, não a coleta de novo.
+- **A Fase 3 merece o cuidado desproporcional** que este plano já pede. É mais barato passar duas semanas na ontologia do que reanotar cinco canais.
+
+---
+
+## Convenções
+
+- **Encoding:** UTF-8 sem BOM.
+- **IDs:** `video_id` é o ID do YouTube. `sent_id` é `<video_id>:s0000`, `janela_id` é `<video_id>:j0000`, `bloco_id` é `<video_id>:b0000`.
+- **Tempo:** segundos em float, relativos ao início do vídeo.
+- **Nulos:** ausente = não se aplica. `null` = aplica-se mas indeterminado. Nunca omitir silenciosamente.
+- **Versionamento:** todo artefato derivado carrega `versao_ontologia` e `gerado_em` (ISO 8601).
+- **Idioma:** ver a seção normativa acima.
+
+---
+
+## Contratos de dados
+
+Forma lógica, independente de storage. Se a entidade virar tabela, os campos são colunas; se ficar em arquivo, são chaves. **Os nomes são os mesmos nos dois casos e são em inglês.**
+
+### Vídeo bruto — `corpus/<canal>/raw/<video_id>.json`
+
+```json
+{
+  "video_id": "abc12345678",
+  "channel_id": "...",
+  "title": "...",
+  "published_at": "2024-03-12",
+  "duration_s": 612.4,
+  "language": "en",
+  "source": "caption|whisperx",
+  "chunks": [{"start_s": 0.0, "dur_s": 3.2, "text": "..."}],
+  "collected_at": "2026-08-28T14:00:00Z"
+}
+```
+
+### Sentença
 
 ```
-roteiro-engine/
-├── schema/
-│   ├── ontologia.v1.json          # a lista fechada (Fase 3)
-│   ├── codebook.md                 # definições em prosa p/ humanos e p/ prompt
-│   └── perfil.schema.json          # formato do arquivo de perfil
-├── corpus/
-│   └── <canal_id>/
-│       ├── raw/                    # transcrições cruas + metadados
-│       ├── segmentado/             # JSONL, 1 segmento por linha
-│       └── anotado/                # JSONL com rótulos
-├── perfis/
-│   └── <canal_id>.perfil.json      # saída da Fase 6
-├── gold/
-│   └── <canal_id>/                 # anotação humana de referência
-├── src/
-│   ├── coleta.py
-│   ├── segmenta.py
-│   ├── anota.py
-│   ├── valida.py                   # concordância
-│   ├── agrega.py
-│   ├── gera.py
-│   └── verifica.py                 # portão automático do output
-└── saidas/
-    └── <video_id>/
+sent_id · video_id · idx · start_s · end_s · text · n_words
 ```
 
-Use `git` desde o primeiro dia, mesmo sozinho. O histórico do `schema/` é o que te deixa entender por que uma categoria existe.
+### Janela — a unidade de anotação
+
+```
+window_id · video_id · idx · sent_ids[] · start_s · end_s
+text · n_words · n_sentences · pos_pct
+```
+
+`pos_pct` = `start_s / duration_s`. **Persistido, nunca enviado ao prompt.** Ver Fase 5A.
+
+### Anotação de janela
+
+```
+window_id · function · loop · scale · evidence_type · density
+votes{} · consensus · annotator · ontology_version · annotated_at
+```
+
+### Bloco — derivado por fusão
+
+```
+block_id · video_id · idx · window_ids[] · function
+start_s · end_s · n_windows · n_words
+pos_start_pct · pos_end_pct · smoothed
+```
 
 ---
 
-## Fase 0 — Decisões antes de escrever código
+## Fase 0 — Decisões
 
-**Objetivo:** eliminar as três ambiguidades que travariam o trabalho depois.
+**Decididas:** duração-alvo (10–12 min), uso não comercial, canal-fixture usado para validar a coleta (`@Zenn0009`), canal de referência definitivo (`@MackExplains7`, `DECISOES.md#4`) e modelo de anotação (Claude Sonnet 5, `DECISOES.md#5`).
 
-**Decida e anote em `DECISOES.md`:**
-
-1. **Qual canal de referência.** Um só, para começar. Critérios: ≥30 vídeos longos publicados, formato consistente (não pode ser um canal que mudou de fórmula no meio), legendas disponíveis, e um formato que você realmente queira fazer. Se o canal for em inglês e você produz em português, anote isso — vai importar na Fase 6.
-
-2. **Qual é a unidade de saída do seu sistema.** Roteiro de 8 min? 12? Isso define o alvo de contagem de palavras e a estrutura esperada. Não deixe em aberto.
-
-3. **Uso comercial ou não.** Define quais licenças você pode tocar. Se comercial, você já está impedido de usar `TextMachina` (CC-BY-NC-ND) e deve evitar qualquer repo sem arquivo LICENSE.
-
-**Entregável:** `DECISOES.md` com três respostas.
-
-**Portão:** você consegue dizer em uma frase o que o sistema produz e para quem.
+**Correção já aplicada em `DECISOES.md`:** o item 1 afirmava que métricas precisam de recalibração para PT-BR. Corrigido nesta substituição — corpus e saída são em inglês, `textstat` e as métricas de ritmo se aplicam diretamente. A comunicação do projeto com humanos continua em PT-BR — ver a política de idioma acima.
 
 ---
 
-## Fase 1 — Corpus
+## Fase 1 — Coleta
 
-**Objetivo:** 30 transcrições limpas do canal de referência, com metadados.
+**Estado:** código implementado e validado contra o canal-fixture `zenn0009` (30 vídeos: 21 legenda, 9 whisperX). Ver `decisions.md#3` e `#4`.
 
-**Ferramentas:** `youtube-transcript-api` (MIT), `yt-dlp` (Unlicense) como fallback, `whisperX` (BSD-2) só se não houver legenda.
+**O que muda na v3.0:** a Fase 1 deixa de ser "rodou uma vez" e passa a ser **rodada uma vez por canal**. Quatro ajustes decorrem disso.
 
-**Passos:**
+### 1. Reservar holdout na seleção
 
-1. Liste os vídeos do canal com `yt-dlp --flat-playlist --dump-json`. Guarde ID, título, duração, data, views.
-2. Selecione 30. **Não pegue os mais recentes** — pegue os de melhor desempenho relativo (views ÷ inscritos na época, ou simplesmente os 30 mais vistos entre vídeos com mais de 6 meses). Você quer aprender o que funciona, não o que foi publicado.
-3. Baixe legendas com `youtube-transcript-api`. Salve o JSON cru com timestamps em `corpus/<canal>/raw/`.
-4. Só use `whisperX` para vídeos sem legenda. É a etapa cara; evite se puder.
-5. Limpeza mínima: remova marcações `[Música]`, `[Aplausos]`, junte fragmentos de legenda em texto corrido preservando o timestamp de início de cada trecho.
+Selecione 30 para o perfil e **reserve 4–5 vídeos elegíveis fora dessa seleção**, marcados `holdout` no manifesto. Não toque neles até a Fase 8.
 
-**Armadilhas:**
-- Rodar as 30 requisições em sequência rápida derruba seu IP. Ponha `sleep` de alguns segundos entre chamadas.
-- Legenda automática do YouTube não tem pontuação confiável. Não tente consertar agora — a Fase 2 resolve.
-- Guarde o cru intocado. Toda limpeza gera arquivo novo.
+Motivo: o portão da Fase 8 exige que vídeos reais do canal passem no verificador. Se o verificador for calibrado contra os mesmos vídeos que geraram o perfil, o teste passa sempre e não vale nada.
 
-**Entregável:** 30 arquivos em `raw/` + um `manifesto.csv` com uma linha por vídeo (id, título, duração, palavras, fonte da transcrição).
+**Sorteie o holdout entre os elegíveis, não pegue a cauda.** Pegar os 4 de menor view count torna o holdout um teste de material atípico, o que enviesa a calibração.
 
-**Portão:** o manifesto tem 30 linhas e nenhuma transcrição tem menos de 60% da contagem esperada de palavras para a duração (sinal de legenda truncada).
+Isso exige que o canal tenha ~40 vídeos longos, e é por isso que esse número entrou no critério de escolha.
+
+### 2. Resolvido: whisperX segue fallback, não vira padrão
+
+O bloqueio de IP das legendas não foi acidente; é o comportamento normal do endpoint sob coleta em lote, e não cedeu com espera (`decisions.md#3`, `#4`). Com N canais, você vai bater nele toda vez.
+
+`decisions.md#4` já mediu a alternativa: 99,2% e 99,64% de concordância lexical entre whisperX e legenda, nos dois extremos de duração, com as diferenças em homófonos e grafia de números. O endpoint de áudio nunca foi bloqueado.
+
+A proposta era inverter a lógica de `collect_transcript()` — whisperX como caminho padrão, legenda como atalho oportunista. **O dono do projeto recusou**: legenda continua padrão, whisperX continua fallback. Quando um canal novo bater no mesmo bloqueio de IP, a resposta é a mesma da Fase 1 do `zenn0009`: transcrever os vídeos que falharam localmente com whisperX, não mudar o código. Ver `decisions.md#5`.
+
+**Consequência:** as duas lições de `decisions.md#4` continuam requisito de código só quando whisperX é de fato usado, não como padrão de todo run: `batch_size` parametrizado (4 em GPU de 6GB) e **um subprocesso por vídeo**, porque a memória do modelo anterior não é liberada no mesmo processo.
+
+### 3. Homogeneidade de fonte
+
+Se o corpus misturar legenda e whisperX — o caso normal, dado o item 2 acima —, a checagem de contaminação da Fase 6 é obrigatória para todo canal futuro, não só para `zenn0009`.
+
+### 4. Seleção em canal jovem
+
+`decisions.md#1` documenta o recuo da regra dos 6 meses. Vale registrar o efeito residual: num canal onde todos os vídeos têm menos de 6 meses, ranquear por views absolutas favorece os mais antigos do conjunto, que tiveram mais tempo de acumular. Se o canal definitivo for maduro, o problema não aparece. Se for jovem de novo, considere views por dia desde a publicação.
+
+**Portão da Fase 1:** 30 linhas `profile` no manifesto + 4–5 linhas `holdout`; nenhuma transcrição abaixo de 60% da contagem de palavras esperada para a duração (~150 palavras/minuto em inglês).
 
 ---
 
-## Fase 2 — Segmentação
+## Fase 2 — Sentenciação
 
-**Objetivo:** transformar texto corrido em unidades anotáveis.
+> **Pode rodar agora**, usando `zenn0009` como fixture. Não depende da ontologia nem do canal definitivo.
 
-**Ferramentas:** `wtpsplit` (MIT, suporta PT-BR) para sentenças; `nltk.tokenize.texttiling` (Apache-2.0) ou `textsplit` para blocos topicais; `segeval` (BSD-3) para avaliar.
+**Objetivo:** transformar texto corrido em sentenças, e agrupá-las em janelas de anotação.
 
-**Passos:**
+**Ferramenta:** `wtpsplit` (MIT). Só ela. `TextTiling`, `textsplit` e `segeval` saíram do projeto na v2.0.
 
-1. **Sentenças primeiro.** `wtpsplit` recupera fronteiras de frase mesmo sem pontuação. Saída: lista de sentenças com timestamp de início.
-2. **Blocos depois.** Agrupe sentenças em blocos topicais. Comece com TextTiling; se os cortes ficarem ruins, teste `textsplit` (baseado em embeddings).
-3. **Estabeleça a regra de corte por escrito** antes de olhar os resultados. Sugestão inicial: um bloco termina quando muda a pergunta ativa, quando muda a escala do assunto, ou quando entra uma restrição/objeção nova. Escreva no `codebook.md`.
-4. **Segmente 3 vídeos à mão** — literalmente marcando onde você acha que os blocos terminam. Isso é seu gold de segmentação.
-5. Compare automático vs. manual com `segeval` (métricas Pk e WindowDiff).
+### Passos
 
-**Armadilhas:**
-- Blocos muito pequenos (uma frase) tornam a anotação inútil; muito grandes (3 minutos) escondem a estrutura. Mire em 6 a 20 blocos por vídeo de 10 min e ajuste os parâmetros até cair nessa faixa.
-- Se o automático nunca chegar perto do seu gold, aceite: segmente semiautomático (a máquina propõe, você corrige no doccano). É mais lento, mas é honesto.
+**1. Sentenças.** Modelo SaT do `wtpsplit` sobre o texto corrido, com código de idioma **`en`**. Legenda automática do YouTube não tem pontuação confiável; saída de whisperX vem pontuada. Rode o mesmo caminho nos dois para não criar duas classes de sentença no corpus.
 
-**Entregável:** `segmentado/*.jsonl`, uma linha por bloco com `video_id`, `bloco_id`, `inicio_s`, `fim_s`, `texto`, `n_palavras`.
+**2. Reatribua timestamps.** Cada sentença herda o `start_s` do chunk onde seu primeiro caractere caiu e o `end_s` do chunk onde terminou. **Use offsets acumulados, nunca busca por texto** — busca falha em silêncio quando uma frase se repete no vídeo.
 
-**Portão:** Pk ≤ 0,4 contra o seu gold de 3 vídeos, **ou** decisão explícita de segmentar semiautomático.
+**3. Janelas.** Agrupe sentenças consecutivas, sem sobreposição:
+
+> Acumule sentenças até **35 palavras** ou **4 sentenças**, o que vier primeiro. Mínimo de 2 sentenças, exceto a última do vídeo.
+
+Ajuste o limiar **uma vez, para o corpus inteiro**, e registre em `decisions.md`. Nunca por vídeo.
+
+**4. Calcule `pos_pct`** e persista.
+
+### Por que não segmentar por tópico aqui
+
+TextTiling mede coesão lexical, proxy de mudança de assunto. A ontologia precisa de mudança de função. São sinais diferentes e frequentemente ortogonais, e há dependência circular: a fronteira funcional só é conhecida depois da rotulagem.
+
+Se a janela de 2–4 sentenças um dia se mostrar má unidade, a contingência **não** é TextTiling — é EDU/RST (`isanlp_rst`), porque EDUs são unidades funcionais de discurso.
+
+### Portão da Fase 2
+
+| # | Critério | Limite | Como medir |
+|---|---|---|---|
+| 1 | janelas com duas funções narrativas distintas | ≤ 5 em 50 | amostra aleatória com semente fixa, de 2 vídeos, julgada por humano |
+| 2 | sentenças cortadas no meio de oração | 0 na mesma amostra | mesma amostra, humano |
+| 3 | janelas fora da faixa estrutural | 0 | automático, nos 30: nenhuma > 60 palavras; nenhuma < 2 sentenças exceto a última de cada vídeo; 25–60 janelas por vídeo |
+
+A semente da amostra vai na issue, para que QA meça a mesma amostra que o engineer.
+
+O critério 1 exige julgar "função narrativa" antes da ontologia existir. Isso é intencional e suficiente: você não precisa da lista fechada para perceber que uma janela mudou de assunto e de propósito no meio. Se ficar ambíguo demais, é sinal de que o limiar de palavras está alto.
+
+### Issues sugeridas
+
+- **F2-a** — `src/sentencia.py`: wtpsplit (`en`) sobre os raw, reatribuição por offset. Critério: portão 3 passa.
+- **F2-b** — `src/janelas.py`: agrupamento determinístico e `pos_pct`. Depende de F2-a; onda separada.
+- **F2-c** — script de amostragem com semente e o relatório que o QA preenche.
+
+**Tempo estimado:** 1 dia.
 
 ---
 
 ## Fase 3 — A ontologia autoral
 
-**Esta é a fase que decide o projeto.** Reserve tempo real, não um fim de tarde.
+> **Bloqueada** até a Fase 1 e a Fase 2 rodarem sobre o canal de referência definitivo, `@MackExplains7` (`DECISOES.md#4`). Os exemplos do codebook saem do corpus dele — a decisão de qual canal não substitui o corpus real.
 
-**Objetivo:** uma lista fechada de campos e valores que descreve *decisões de roteiro*, não conteúdo.
+**Esta é a fase que decide o projeto**, e na v3.0 ela decide mais do que antes: a ontologia é global e vai ser aplicada a todos os canais futuros.
 
-### Como projetar
+`schema/ontologia.v1.json` e `schema/codebook.md` estão na lista de conflito de `process.md`. **Uma issue só, sem paralelismo.**
 
-Cada campo deve satisfazer quatro testes. Se falhar em um, não entra:
+### Os cinco testes de cada campo
 
-- **Observável** — dá para decidir olhando só o bloco e o que veio antes. "Este bloco é engraçado" falha; "este bloco introduz uma objeção" passa.
-- **Fechado** — o conjunto de valores é finito e enumerado. Sem campo de texto livre.
-- **Mutuamente exclusivo** — dois valores não podem ser ambos verdadeiros para o mesmo bloco. Se puderem, são dois campos, não um.
-- **Agregável** — faz sentido contar, somar ou tirar média entre 30 vídeos. Se a resposta só faz sentido dentro de um vídeo, não serve para o perfil.
+1. **Observável** — decidível olhando o texto, sem saber o assunto.
+2. **Fechado** — conjunto finito e enumerado.
+3. **Mutuamente exclusivo** — se dois valores podem ser ambos verdadeiros, são dois campos.
+4. **Agregável** — faz sentido contar ou tirar média entre 30 vídeos.
+5. **Decidível em janela** — decidível em 2–4 sentenças mais contexto anterior. Categorias que exigem ver o vídeo inteiro não sobrevivem; reformule em termos locais ou corte.
 
-### Ponto de partida sugerido (adapte ao seu nicho)
+**Sexto teste, novo na v3.0: transferível entre canais.** A categoria descreve o *formato* ou aquele canal específico? Se você não consegue imaginá-la aplicada a outro canal do mesmo gênero, ela é idiossincrasia e vai atrapalhar quando o segundo perfil chegar.
 
-**Campo `funcao`** (obrigatório, valor único):
-- `gancho` — abre uma lacuna; ainda não entrega nada
-- `promessa` — declara o que o vídeo vai entregar
-- `contexto` — informação necessária antes do argumento
-- `escalada` — aumenta a aposta ou a estranheza do problema
-- `mecanismo` — explica *como* algo funciona
-- `evidencia` — apresenta dado, estudo ou caso concreto
-- `objecao` — levanta contra-argumento ou complicação
-- `resolucao` — fecha uma lacuna aberta antes
-- `implicacao` — estende o resultado para consequências maiores
-- `transicao` — só move de um tópico a outro
-- `cta` — pede ação ao espectador
+### Proposta de partida
 
-**Campo `loop`** (valor único): `abre` / `fecha` / `mantem` / `nenhum`
+Identificadores em inglês. A coluna PT é glosa, não é o valor armazenado.
 
-**Campo `evidencia_tipo`** (só se `funcao=evidencia`): `estudo` / `dado_numerico` / `caso_concreto` / `analogia` / `autoridade`
+**`function`** (obrigatório, valor único):
 
-**Campo `escala`** (valor único): `individual` / `humano` / `planetario` / `cosmico` / `abstrato`
+| valor (EN) | glosa PT-BR (não normativa) |
+|---|---|
+| `hook` | abre lacuna de informação; não entrega nada ainda |
+| `promise` | declara o que o vídeo vai entregar |
+| `context` | informação necessária antes do argumento |
+| `escalation` | aumenta a aposta, a estranheza ou a urgência |
+| `mechanism` | explica como algo funciona |
+| `evidence` | apresenta dado, estudo ou caso concreto |
+| `objection` | levanta contra-argumento ou limitação |
+| `resolution` | fecha uma lacuna aberta antes |
+| `implication` | estende para consequências maiores |
+| `transition` | apenas move de um tópico a outro |
+| `cta` | pede ação ao espectador |
 
-**Campo `densidade_conceitual`** (0–2): quantos conceitos novos o bloco introduz.
+**`loop`**: `opens` · `closes` · `holds` · `none`
 
-Cinco a sete campos é o suficiente. Mais que isso derruba a concordância na Fase 5.
+**`evidence_type`** (só quando `function=evidence`): `study` · `statistic` · `case` · `analogy` · `authority`
+
+**`scale`**: `individual` · `human` · `planetary` · `cosmic` · `abstract`
+
+**`density`** (inteiro 0–2): conceitos novos introduzidos na janela.
+
+Cinco a sete campos bastam.
+
+### O codebook bilíngue
+
+Para cada valor:
+
+- **Definition** (EN, normativa, uma frase operacional)
+- **Two positive examples** (EN, do corpus real)
+- **One negative example** (EN) — o caso que parece mas não é, com uma frase dizendo por quê
+- **Tie-breaker** (EN) contra o valor vizinho mais confundível
+- **Glosa PT-BR** — marcada `<!-- não normativo -->`, para você pensar
+
+O cabeçalho do `codebook.md` declara a precedência: onde a glosa divergir da definição, a definição EN vence.
+
+O exemplo negativo e o tie-breaker são o que mais elevam a concordância na Fase 5. São a parte trabalhosa e a que paga.
+
+### Formato de `schema/ontologia.v1.json`
+
+```json
+{
+  "version": "v1",
+  "created_at": "2026-09-XX",
+  "annotation_unit": "window",
+  "corpus_language": "en",
+  "fields": [
+    {
+      "name": "function",
+      "type": "categorical",
+      "required": true,
+      "values": ["hook","promise","context","escalation","mechanism",
+                 "evidence","objection","resolution","implication",
+                 "transition","cta"]
+    },
+    {
+      "name": "evidence_type",
+      "type": "categorical",
+      "required": false,
+      "condition": "function == 'evidence'",
+      "values": ["study","statistic","case","analogy","authority"]
+    },
+    {"name": "density", "type": "integer", "required": true, "min": 0, "max": 2}
+  ]
+}
+```
+
+Prompt e classes Pydantic são **gerados a partir deste arquivo**. Um teste que compara os `Enum` gerados com o JSON pega divergência antes de virar dado ruim.
 
 ### Passos
 
-1. Escreva a v0 com base na lista acima, cortando o que não faz sentido no seu nicho e acrescentando o que falta.
-2. **Teste de cobertura:** pegue um vídeo já segmentado e classifique cada bloco à mão. Conte quantos blocos você precisou marcar como "outro" ou ficou em dúvida entre dois valores.
+1. Escreva a v0 a partir da proposta.
+2. **Teste de cobertura:** classifique à mão as janelas de 1 vídeo. Conte quantas caíram em "outro" ou em dúvida.
 3. Revise. Repita com um segundo vídeo.
-4. Escreva o `codebook.md`: para cada valor, uma definição de uma frase, dois exemplos positivos e **um exemplo negativo** (o caso que parece mas não é). O exemplo negativo é o que mais melhora a concordância depois.
-5. Congele como `schema/ontologia.v1.json`.
+4. **Teste de transferência:** leia ~20 janelas de um segundo canal do mesmo formato e confira se as categorias cobrem. Não precisa anotar; precisa não encontrar buracos óbvios.
+5. Escreva o `codebook.md` completo, bilíngue.
+6. Congele.
 
-**Entregável:** `ontologia.v1.json` + `codebook.md`.
+**Portão da Fase 3:** em 2 vídeos classificados à mão, **< 10% das janelas** em "outro" ou dúvida genuína. Se não passar, simplifique.
 
-**Portão:** em dois vídeos classificados à mão, menos de 10% dos blocos caem em "outro" ou em dúvida genuína entre dois valores. Se não passar, o problema é a ontologia — simplifique, não force.
+### Issues sugeridas
+
+- **F3-a** — escrever `ontologia.v1.json` + `codebook.md` (humana, dono do projeto, não paralelizável).
+- **F3-b** — `src/schema_loader.py`: carregar ontologia, gerar `Enum` Pydantic, teste de consistência JSON↔Enum.
+- **F3-c** — script que mede o portão.
+
+**Tempo estimado:** 1–2 semanas.
 
 ---
 
 ## Fase 4 — Gold standard
 
-**Objetivo:** anotação humana de referência contra a qual você mede tudo.
+**Ferramenta:** `doccano` (MIT).
 
-**Ferramenta:** `doccano` (MIT) — roda com `pip install doccano` ou Docker, interface web.
+O ⚠️ do holdout da v2.0 **saiu**: o split continua 5 gold + 25 batch, e o holdout vem de fora dos 30 (Fase 1).
 
-**Passos:**
+### Passos
 
-1. Configure um projeto de classificação de sequências no doccano, importando os blocos como JSONL.
-2. Crie os rótulos a partir de `ontologia.v1.json`.
-3. Anote **5 vídeos completos** você mesmo, com o codebook aberto ao lado.
-4. Deixe passar 48h e **reanote 1 desses vídeos sem olhar a primeira anotação**. Compare. Essa é sua concordância consigo mesmo — o teto de qualidade possível do sistema.
-5. Exporte para `gold/<canal>/`.
+1. Projeto de **classificação de texto** no doccano (a unidade já vem segmentada).
+2. Importe as janelas dos 5 vídeos `gold`, com `window_id` como metadado. **Os rótulos na interface são os identificadores em inglês** — resista a traduzir a UI, ou você anota contra um vocabulário e o modelo contra outro.
+3. Rótulos gerados de `ontologia.v1.json`. Se a ferramenta não suportar múltiplos campos por item, um projeto por campo.
+4. Anote os 5 com o codebook aberto.
+5. Espere 48h e **reanote 1 vídeo sem consultar a primeira anotação**.
+6. Persista em `gold/<canal>/`.
 
-**Armadilhas:**
-- Não anote os 5 de uma sentada. O cansaço vira ruído sistemático.
-- Se você discordar de si mesmo em mais de 20% dos blocos, o codebook está vago — conserte antes de seguir.
+### Armadilhas
 
-**Entregável:** 5 vídeos anotados + o número da sua autoconcordância.
+- Não anote os 5 de uma sentada. Cansaço vira ruído sistemático, pior que ruído aleatório porque não se cancela na média.
+- Anote na ordem do vídeo. A função de uma janela depende do que veio antes.
 
-**Portão:** autoconcordância (Krippendorff's α) ≥ 0,8. Se você não bate 0,8 consigo mesmo, um modelo não vai bater com você.
+**Portão da Fase 4:** autoconcordância (Krippendorff's α) **≥ 0,8**, por campo. Se você não bate 0,8 consigo mesmo, nenhum modelo vai bater, e o codebook está vago.
+
+**Tempo estimado:** 3–4 dias.
 
 ---
 
-## Fase 5 — Anotação em lote + validação
+## Fase 5 — Anotação, fusão e validação
 
-**Objetivo:** anotar os 25 vídeos restantes por LLM, com prova de que é confiável.
+**Ferramentas:** `instructor` (MIT) sobre Pydantic; `simpledorff` ou `krippendorff`.
 
-**Ferramentas:** `instructor` (MIT, 13k estrelas, muito ativo) sobre Pydantic; `simpledorff` ou `krippendorff` para concordância.
+### 5A — Anotação
 
-**Passos:**
+**1. Classes Pydantic geradas da ontologia** (F3-b).
 
-1. Modele a ontologia como classe Pydantic com `Enum` para cada campo. O `instructor` valida e refaz automaticamente quando a saída viola o schema.
-2. O prompt de anotação é montado **a partir do codebook**, não escrito à mão. Ele recebe: o bloco, os dois blocos anteriores (contexto), e as definições. Pede um objeto só.
-3. `temperature=0`. Rode **3 vezes** cada bloco e tome o voto majoritário. Blocos sem maioria vão para revisão manual — eles são informativos, geralmente indicam categoria mal definida.
-4. **Antes de anotar os 25**, rode o modelo nos 5 do gold. Meça α entre modelo e humano com `simpledorff`.
-5. Só então processe o resto.
+**2. Prompt montado do codebook**, todo em inglês:
+- **System:** papel do anotador + definitions, positive/negative examples, tie-breakers.
+- **User:** as **3 janelas anteriores** (só texto, sem rótulos) como contexto, depois a janela a classificar.
+- **Output:** um objeto. Teste um campo por chamada vs. todos juntos; separado costuma dar α melhor e custar mais.
 
-**Custo estimado:** 30 vídeos × ~15 blocos × 3 execuções ≈ 1.350 chamadas curtas. Com um modelo pequeno, é barato. Não use o modelo mais caro aqui — teste o menor que passe no portão.
+**3. Não passe `pos_pct` no prompt.** Se o modelo sabe que a janela está a 3% do vídeo, responde `hook` pela posição e não pelo texto, e o perfil confirmaria a estrutura que você injetou. Circularidade.
 
-**Entregável:** `anotado/*.jsonl` para os 30 vídeos + relatório de concordância.
+**4. Não passe os rótulos das janelas anteriores.** Cascata de erro, e o voto majoritário perde sentido porque as execuções deixam de ser independentes.
 
-**Portão — este é o mais importante do plano:** α ≥ 0,667 entre modelo e gold humano, por campo. Se um campo específico não passar, **remova esse campo** ou reescreva sua definição no codebook e reanote. Não avance com um campo não confiável; ele contamina o perfil silenciosamente.
+**5.** `temperature = 0`, **3 execuções** por janela, voto majoritário. Sem maioria → `consensus: false` → revisão manual. Essas janelas costumam apontar categoria mal definida.
+
+**Custo:** 25 vídeos × ~40 janelas × 3 ≈ 3.000 chamadas, mais ~600 nos gold para validação. **~3.600 por canal.** Aplica-se a regra de polling com teto de `process.md`. **O runner precisa ser retomável por `window_id`** — uma interrupção no meio não pode custar o run inteiro. É o argumento mais forte para as anotações irem para tabela.
+
+### 5B — Validação
+
+**Antes de processar os 25.** Rode nos 5 gold e meça.
+
+1. **α por campo, no nível de janela.** Medir depois da fusão infla o número, porque a fusão apaga discordâncias.
+2. **Matriz de confusão por categoria.** O α agregado esconde qual categoria está quebrada.
+3. **Registre o run** (modelo, versão da ontologia, data, α por campo).
+
+**Portão da Fase 5 — o mais importante do plano:** **α ≥ 0,667 por campo, no nível de janela.**
+
+Se um campo não passar: (1) reescreva definição e tie-breaker, reanote — duas tentativas; (2) funda os dois valores que se confundem; (3) remova o campo.
+
+Um campo não confiável contamina o perfil em silêncio, e você descobre meses depois sem saber por quê.
+
+### 5C — Fusão
+
+**Regra:** janelas consecutivas com o mesmo `function` formam um bloco.
+
+**Suavização** (escrever em `schema/regras_fusao.md` antes de rodar):
+
+> Uma sequência de comprimento 1 cercada dos dois lados por sequências de comprimento ≥ 2 com a **mesma** função é absorvida pelos vizinhos. Passada única, esquerda para direita. Sequências de comprimento ≥ 2 nunca são suavizadas. Janelas com `consensus: false` não disparam suavização.
+
+Exemplo: `mechanism, mechanism, evidence, mechanism, mechanism` → a `evidence` isolada é absorvida.
+Contraexemplo: `mechanism, evidence, evidence, mechanism` → nada muda; três blocos.
+
+Determinística e com **teste unitário obrigatório**, incluindo os casos de borda (início e fim de vídeo, sem vizinho dos dois lados).
+
+**Portão 5C:** taxa de suavização **≤ 15%**. Acima disso é ontologia confusa, não ruído.
+
+### Issues sugeridas
+
+- **F5-a** — `src/anota.py`: runner retomável, 3 execuções, voto majoritário.
+- **F5-b** — `src/valida.py`: α por campo, matriz de confusão, persistência do run.
+- **F5-c** — validação nos gold e medição do portão. **Bloqueia F5-d.**
+- **F5-d** — anotação em lote dos 25.
+- **F5-e** — `src/funde.py` + `regras_fusao.md` + testes.
+
+**Tempo estimado:** 1 a 1,5 semana **por canal**.
 
 ---
 
 ## Fase 6 — Agregação do perfil
 
-**Objetivo:** transformar 30 anotações em um arquivo de configuração.
+**Ferramentas:** `pandas`; `textstat` (MIT); `faststylometry` opcional.
 
-**Ferramentas:** `pandas`; `textstat` (MIT) para legibilidade; `faststylometry` opcional.
+**A recalibração PT-BR da v2.0 saiu.** Corpus e saída em inglês; `textstat` se aplica diretamente.
 
-**O que o perfil contém:**
+### Estrutura de `perfis/<canal>.perfil.json`
 
+```json
+{
+  "channel_id": "...",
+  "ontology_version": "v1",
+  "generated_at": "2026-10-XXT12:00:00Z",
+  "corpus": {"n_videos": 30, "n_windows": 1187, "n_blocks": 412,
+             "sources": {"caption": 21, "whisperx": 9}},
+  "annotator": {"model": "...", "alpha_by_field": {"function": 0.71}},
+
+  "structure": {
+    "typical_sequence": ["hook","promise","context","escalation","mechanism",
+                         "evidence","objection","resolution","implication","cta"],
+    "frequent_variants": [["hook","context","promise"]],
+    "function_distribution": {"mechanism": [0.22, 0.31], "evidence": [0.10, 0.18]},
+    "position_pct": {"hook": [0.00, 0.06], "first_resolution": [0.28, 0.36]},
+    "blocks_per_video": [11, 18],
+    "windows_per_block": {"mechanism": [2, 5], "transition": [1, 2]}
+  },
+
+  "pacing": {
+    "words_per_block": {"mechanism": [60, 140]},
+    "words_per_minute": [145, 168],
+    "density_by_third": [[0.8,1.4],[1.1,1.8],[0.6,1.2]]
+  },
+
+  "loops": {"opened_per_video": [3, 6], "mean_distance_pct": 0.22,
+            "closure_required": true},
+
+  "evidence": {"type_distribution": {"statistic": [0.3,0.5], "case": [0.2,0.4]},
+               "blocks_per_video": [3, 7]},
+
+  "style": {
+    "readability": {"metric": "flesch_reading_ease", "range": [52, 66]},
+    "words_per_sentence": [12, 19],
+    "scale_trajectory": ["individual","human","planetary"]
+  },
+
+  "tone_examples": {"hook": ["<short literal excerpt>"], "mechanism": ["..."]},
+  "forbidden": ["<signature metaphor>", "<catchphrase>"],
+
+  "diagnostics": {"smoothing_rate": 0.07,
+                  "confused_pairs": {"escalation|context": 0.04}}
+}
 ```
-estrutura:
-  - sequência típica de funções (a ordem mais comum e as variantes)
-  - distribuição: % de blocos por função
-  - posição percentual média de cada função (onde no vídeo ela aparece)
-  - nº de loops abertos por vídeo; distância média entre abrir e fechar
-  - nº de blocos por vídeo (média e faixa)
-ritmo:
-  - palavras por bloco (média, desvio, faixa)
-  - palavras por minuto falado
-  - densidade conceitual por terço do vídeo
-evidencia:
-  - distribuição de tipos de evidência
-  - blocos de evidência por vídeo
-estilo:
-  - legibilidade (textstat)
-  - comprimento médio de frase
-  - trajetória de escala (individual→cósmico ou o padrão que aparecer)
-proibicoes:
-  - termos/construções recorrentes do canal que NÃO devem ser reproduzidos
-```
 
-**Passos:**
+### Passos
 
-1. Calcule tudo com `pandas` a partir do JSONL anotado.
-2. **Guarde faixas, não médias isoladas.** "Primeiro payoff entre 28% e 36%" é utilizável; "em média 32%" não diz se 15% é aceitável.
-3. Grave como `perfis/<canal>.perfil.json`, com um campo `versao_ontologia` apontando para `ontologia.v1.json`.
-4. **Recalibre para português se o canal for em inglês.** Palavras por minuto e legibilidade não transferem. Meça em algumas transcrições de canais brasileiros do mesmo formato e ajuste.
-5. Preencha `proibicoes` à mão: as metáforas e bordões específicos daquele canal que você não vai reproduzir.
+1. Agregue a partir de blocos e anotações validados.
 
-**Entregável:** `perfil.json` validado contra `perfil.schema.json`.
+2. **Faixas por percentil 20–80**, não mínimo–máximo. Com 30 vídeos, mín. e máx. são quase sempre outliers, e faixas construídas com eles ficam largas demais para reprovar qualquer coisa na Fase 8.
 
-**Portão:** você consegue ler o perfil e reconhecer o canal nele. Se as distribuições parecem genéricas ("30% contexto, 25% mecanismo"), ou a ontologia é rasa ou os 30 vídeos não são coerentes entre si.
+3. **Cheque contaminação por fonte**, se o corpus misturar legenda e whisperX — o caso normal, já que whisperX segue fallback e não padrão (`decisions.md#5`). `decisions.md#4` mediu 99%+ de concordância lexical, mas as diferenças eram grafia de números e homófonos — e grafia afeta `readability` e `words_per_sentence`. Compare as métricas de `style` dos dois subconjuntos antes de fechar. Este passo é obrigatório para todo canal, não opcional.
+
+4. **Preencha `tone_examples` e `forbidden` à mão.** São as duas metades que não se agregam. `tone_examples`: 2–3 trechos curtos por função, escolhidos por você. Voz se transmite por exemplo; virar regra vira caricatura.
+
+5. Valide contra `schema/perfil.schema.json`.
+
+**Portão da Fase 6:** schema valida **e** você lê o perfil e reconhece o canal nele. O segundo critério é subjetivo de propósito e é do dono, não do QA.
+
+**Tempo estimado:** 3–4 dias.
 
 ---
 
 ## Fase 7 — Motor de geração
 
-**Objetivo:** dado um tema e um perfil, produzir um roteiro estruturado.
+**1. Plano antes da prosa.** A primeira chamada produz blocos vazios:
 
-**Ferramentas:** `instructor` de novo (mesmo schema, direção inversa).
+```json
+{"idx":0,"function":"hook","scale":"human","density":1,
+ "loop":"opens","target_words":70,
+ "objective":"what this block should change in the viewer's understanding"}
+```
 
-**Passos:**
+`objective` é a única saída em prosa livre do sistema, e é em inglês como o resto do prompt.
 
-1. **Gere o plano antes da prosa.** A primeira chamada produz uma lista de blocos vazios: função, escala, densidade alvo, palavras alvo, o que este bloco deve mudar no entendimento do espectador. Nada de texto final ainda.
-2. Valide o plano contra o perfil **em código** (Fase 8) antes de escrever uma palavra de prosa.
-3. **Escreva bloco a bloco**, passando o plano completo e os blocos já escritos. Uma chamada por bloco, com o alvo de palavras daquele bloco.
-4. Voz e tom vêm de **exemplos**, não de regras: inclua no prompt 2–3 blocos reais do canal *da mesma função*, marcados claramente como referência de tom e não de conteúdo, junto com a lista `proibicoes`.
+**2. Valide o plano contra o perfil em código** antes de escrever prosa. Corrigir um plano custa uma chamada; corrigir um roteiro custa vinte.
 
-**Armadilha central:** a tentação de gerar o roteiro inteiro em uma chamada. Ela sempre produz um texto que ignora o perfil e obedece o instinto do modelo. A separação plano→prosa é o que faz a diferença.
+**3. Escreva bloco a bloco.** Uma chamada por bloco, recebendo o plano, os blocos já escritos, o alvo de palavras e a lista `forbidden`.
 
-**Entregável:** `saidas/<id>/roteiro.json` (blocos estruturados) + `roteiro.md` (texto corrido).
+**4. Voz vem de exemplo.** 2–3 entradas de `tone_examples` **da mesma função**, marcadas como referência de tom e não de conteúdo.
 
-**Portão:** o roteiro passa na Fase 8.
+**A armadilha central:** gerar o roteiro inteiro em uma chamada. Sempre produz texto que ignora o perfil, porque o perfil é restrição fraca comparado ao prior de "como se escreve um roteiro".
+
+**Tempo estimado:** 1 semana.
 
 ---
 
 ## Fase 8 — Verificador automático
 
-**Objetivo:** portão de qualidade que não depende de o modelo se autoavaliar.
+**Python puro, sem LLM.**
 
-**Tudo em Python puro, sem LLM:**
+| # | Critério | Fonte no perfil |
+|---|---|---|
+| 1 | distribuição de funções | `structure.function_distribution` |
+| 2 | número de blocos | `structure.blocks_per_video` |
+| 3 | posição das funções-chave | `structure.position_pct` |
+| 4 | todo loop fecha | `loops.closure_required` |
+| 5 | distância de fechamento | `loops.mean_distance_pct` |
+| 6 | palavras por bloco | `pacing.words_per_block` |
+| 7 | contagem total ±10% | `DECISOES.md` |
+| 8 | termos proibidos (busca literal e por lema) | `forbidden` |
+| 9 | legibilidade | `style.readability` |
+| 10 | densidade por terço | `pacing.density_by_third` |
 
-- distribuição de funções dentro das faixas do perfil
-- todo loop aberto é fechado antes do fim
-- posição percentual das funções-chave dentro da faixa
-- palavras por bloco dentro da faixa
-- contagem total dentro do alvo (±10%)
-- nenhum termo da lista `proibicoes` presente
-- legibilidade dentro da faixa
-- densidade conceitual por terço dentro da faixa
+O critério 8 volta a ser busca literal, porque corpus e saída são a mesma língua.
 
-Saída: um relatório com aprovado/reprovado por critério e o valor medido.
+Saída: relatório com aprovado/reprovado **e o valor medido**. O valor medido é o que permite depurar.
 
-**Loop de correção:** critério reprovado → reescreve **só os blocos afetados**, não o roteiro inteiro. Máximo 3 tentativas; depois disso, o problema é o plano, e vale regenerar da Fase 7 passo 1.
+**Loop de correção:** reescreve **só os blocos afetados**, máximo 3 tentativas. Depois disso, regenera da Fase 7 passo 1.
 
-**Portão:** ≥90% dos critérios aprovados.
+**Calibração anticircular:** rode nos 4–5 vídeos de holdout reservados na Fase 1, depois no corpus. Eles deveriam passar. **Se os vídeos reais do canal reprovam no próprio verificador, as faixas do perfil estão erradas** — provavelmente mín–máx em vez de percentis.
 
-**Nota:** esse verificador é também sua métrica de progresso. Rode-o nos 30 vídeos originais do canal — eles deveriam passar. Se os vídeos reais reprovam no seu próprio verificador, suas faixas estão erradas.
+`src/verifica.py` é o script de portão que `process.md` nomeia no passo 3 da fila de merge.
+
+**Portão:** ≥ 90% dos critérios.
+
+**Tempo estimado:** 3–5 dias.
 
 ---
 
 ## Fase 9 — Produção do vídeo
 
-**Só entre aqui quando a Fase 8 estiver estável por vários roteiros seguidos.**
+**Só quando a Fase 8 estiver estável por vários roteiros.**
 
-**Ordem obrigatória:** locução primeiro. O áudio define a duração real; imagens cronometradas antes disso desperdiçam dinheiro. Esse é o único ponto do `master_prompt.txt` original que vale importar inteiro.
+**Ordem obrigatória: locução primeiro.** O áudio define a duração real; imagens cronometradas antes disso desperdiçam dinheiro.
 
-1. **TTS** → arquivo de áudio + duração real por bloco.
-2. **Alinhamento** com `whisperX` se precisar de timing por palavra.
-3. **Imagens** — prompts derivados dos blocos, um a cada N segundos. Comece gerando o pacote de prompts e rodando manualmente no seu gerador preferido; automatize só depois.
-4. **Montagem** com `MoviePy` (MIT) ou `ffmpeg-python`. Fork as partes de montagem do MoneyPrinterTurbo se quiser acelerar — a montagem deles é decente, o roteiro é que não.
+1. **TTS** → áudio + duração real por bloco.
+2. **Alinhamento** com `whisperX` se precisar de timing por palavra. As lições de `batch_size` e subprocesso de `decisions.md#4` valem aqui.
+3. **Imagens** — prompts derivados dos blocos. Comece gerando o pacote e rodando manualmente.
+4. **Montagem** com `MoviePy` (MIT) ou `ffmpeg-python`.
 
-**Entregável:** MP4 + mapa de caminhos dos assets.
-
----
-
-## Fase 10 — Segundo canal
-
-**Objetivo:** provar que a arquitetura escala.
-
-Repita as Fases 1, 2, 4, 5 e 6 com outro canal — **sem tocar em `src/`**. Se você precisar mudar código para o segundo canal, o que deveria ser parâmetro virou premissa em algum lugar; conserte antes de ir para o terceiro.
-
-A ontologia pode precisar de ajuste se o nicho for muito diferente. Nesse caso, versione: `ontologia.v2.json`, e o perfil aponta para a versão que usou.
-
-**Portão:** dois perfis, um motor, zero código duplicado.
+**Tempo estimado:** 1–2 semanas.
 
 ---
 
-## Cronograma realista
+## Fase 10 — Operação multi-canal
 
-| Fase | Trabalho | Tempo estimado |
+> **Reenquadrada na v3.0.** Não é mais teste de escala; é o modo normal.
+
+Para cada canal novo: Fases 1, 2, 4, 5 e 6, **sem tocar em `src/`**. Se precisar mudar código, algo que deveria ser parâmetro virou premissa.
+
+**A ontologia não muda por canal.** As Fases 3, 7, 8 e 9 são feitas uma vez e servem todos.
+
+**Sinais de que a ontologia não transferiu:** taxa de suavização > 15%; α < 0,667 em algum campo; muitas janelas em dúvida.
+
+Nesse caso, avalie se é (a) ontologia insuficiente — então `v2` **aplicada a todos, com reanotação de todos os corpus**; ou (b) canal fora do formato — então o canal sai, não a ontologia entra. A opção (b) é mais frequente do que parece, e muito mais barata.
+
+**Regra de comparabilidade:** perfis com `ontology_version` diferentes não são comparáveis, e o código deve recusar compará-los em vez de produzir número errado.
+
+---
+
+## Portões, em uma tabela
+
+| Fase | Portão | Limite |
 |---|---|---|
-| 0 | decisões | 1 dia |
-| 1 | corpus | 2–3 dias |
-| 2 | segmentação | 3–5 dias |
-| **3** | **ontologia** | **1–2 semanas** |
-| 4 | gold standard | 3–4 dias |
-| 5 | anotação + validação | 1 semana |
-| 6 | agregação | 3–4 dias |
-| 7 | motor | 1 semana |
-| 8 | verificador | 3–5 dias |
-| 9 | produção | 1–2 semanas |
-| 10 | segundo canal | 3–5 dias |
-
-**Total: 2 a 3 meses** em ritmo de projeto paralelo. A Fase 3 parecer desproporcional é intencional — ela é.
+| 1 | linhas `profile` + `holdout` no manifesto | 30 + 4–5 |
+| 2 | janelas com duas funções, em amostra de 50 | ≤ 5 |
+| 2 | sentenças cortadas, mesma amostra | 0 |
+| 2 | janelas fora da faixa estrutural, nos 30 | 0 |
+| 3 | janelas em "outro"/dúvida, em 2 vídeos | < 10% |
+| 4 | α autoconcordância humano × humano | ≥ 0,8 |
+| **5** | **α modelo × humano, por campo, em janela** | **≥ 0,667** |
+| 5C | taxa de suavização | ≤ 15% |
+| 6 | validação de `perfil.schema.json` | passa |
+| 8 | critérios do verificador | ≥ 90% |
 
 ---
 
@@ -369,26 +707,54 @@ A ontologia pode precisar de ajuste se o nicho for muito diferente. Nesse caso, 
 
 | Risco | Sinal | O que fazer |
 |---|---|---|
-| Ontologia subjetiva demais | α trava abaixo de 0,5 na Fase 5 | Menos campos, definições mais operacionais. Corte o campo problemático. |
-| Canal de referência inconsistente | perfil com faixas larguíssimas | Reduza o corpus aos vídeos do mesmo subformato. |
-| Segmentação ruim contamina tudo | anotações não fazem sentido ao revisar | Volte à Fase 2. Semiautomático é aceitável. |
-| Roteiro passa no verificador mas é chato | você mesmo não assistiria | O verificador cobre estrutura, não voz. Reforce os exemplos de tom na Fase 7. |
-| Métricas em inglês aplicadas ao português | legibilidade com valores estranhos | Recalibre na Fase 6 com corpus em PT. |
-| Bloqueio de IP no YouTube | erros 429 | `sleep` entre requisições; rode a coleta ao longo de dias. |
+| Ontologia colada no primeiro canal | α despenca no segundo canal | teste de transferência da Fase 3 passo 4 |
+| Versão nova da ontologia | precisa reanotar N canais | orçar como evento; guardar corpus anotado |
+| Ontologia subjetiva demais | α trava abaixo de 0,5 | menos campos, definições mais operacionais |
+| Categoria não decidível em janela | α baixo só nela | reformular em termos locais ou cortar |
+| Circularidade na anotação | perfil limpo demais | conferir se `pos_pct` vazou para o prompt |
+| Verificador circular | tudo passa na Fase 8 | holdout de fora dos 30 |
+| Codebook divergindo entre EN e PT | anotação não bate com o que você espera | EN é normativo; glosa no mesmo commit |
+| Bloqueio de IP recorrente | 429 em todo canal novo | esperado (`decisions.md#5`): transcrever localmente com whisperX os vídeos que falharem |
+| Corpus de duas fontes | métricas de estilo divergem | normalizar antes de agregar |
+| Run interrompido | 3.600 chamadas perdidas | runner retomável por `window_id` |
+| Roteiro passa e é chato | você não assistiria | verificador cobre estrutura, não voz |
 
 ---
 
 ## O que NÃO fazer
 
-- **Não construa a Fase 9 primeiro.** É a mais divertida e a menos importante. Sem roteiro bom, o vídeo bonito não serve.
-- **Não use o modelo mais caro para anotar.** Anotação contra lista fechada é tarefa fácil; teste o menor que passe no portão.
-- **Não deixe o modelo avaliar a própria saída** onde existe métrica computável. Autoavaliação de LLM infla.
-- **Não reproduza formulação verbal do canal de referência.** Estrutura é gramática, redação é obra. Mantenha a lista `proibicoes` e leve-a a sério.
-- **Não escale para 3 canais antes de a Fase 10 passar limpa** com 2.
-- **Não invista em `gpt_annotate`, `core-stories` ou `ScreenPy` como dependência** — nenhum tem licença clara e nenhum é mantido. Leia-os como referência e escreva o seu.
+- **Não misture idiomas dentro de um prompt.** Codebook, texto e rótulo na mesma língua.
+- **Não traduza os identificadores da ontologia.** Nem na UI do doccano.
+- **Não crie ontologia por canal.** Mata a comparabilidade, que é o ativo de rodar vários.
+- **Não reintroduza segmentação topical.** A contingência é EDU/RST.
+- **Não passe `pos_pct` nem rótulos anteriores no prompt de anotação.**
+- **Não meça α depois da fusão.**
+- **Não use o modelo mais caro para anotar.**
+- **Não construa a Fase 9 primeiro.**
+- **Não compare perfis de versões diferentes de ontologia.**
 
 ---
 
-## Próximo passo concreto
+## Correções aplicadas na substituição oficial v3.0 (2026-09-02)
 
-Fase 0. Três decisões, um arquivo de texto, hoje. A Fase 1 depende inteiramente delas.
+`README.md`, `_docs/blueprint.md` e este arquivo foram substituídos pelo
+conteúdo das versões v3.0. As correções que a v3.0 apontava como pendentes
+em outros documentos foram aplicadas no mesmo commit:
+
+| Arquivo | Trecho antigo | Trecho novo |
+|---|---|---|
+| `DECISOES.md` §1, último parágrafo | afirmava que legibilidade e wpm precisam de recalibração para PT | corpus e saída em inglês; métricas se aplicam diretamente; ver política de idioma |
+| `_docs/team/pm.md` (l.12) | `Do not soften "Pk <= 0.4" into...` | `Do not soften "<= 5 de 50 janelas com duas funções" into...` |
+| `_docs/task-template.md` (l.11) | `(e.g. "Pk <= 0.4 against the 3-video gold" or` | `(e.g. "<= 5 de 50 janelas com duas funções, semente 42" or` |
+| `_docs/process.md` (l.116) | `1.350 chamadas de LLM (Fase 5)` | `~3.600 chamadas de LLM (Fase 5)` |
+| `README.md` na main | `Estado: Planejamento. Nada implementado ainda.` | conteúdo do README v3.0 |
+
+---
+
+## Próximo passo
+
+Duas frentes independentes, nenhuma mais bloqueada por decisão pendente:
+
+**Sem bloqueio:** groomar a Fase 2 e rodar sobre o fixture `zenn0009`. Sentenciação e janelamento não dependem do canal definitivo, e o portão pode ser medido com o corpus que já existe.
+
+**Destrava a Fase 3:** abrir e groomar a issue de Fase 1 (Coleta) contra `@MackExplains7` — canal e modelo de anotação já estão registrados em `DECISOES.md#4` e `#5`; falta rodar a coleta real e verificar o portão contra esse canal, do jeito que a Issue #1 fez para `@Zenn0009`.

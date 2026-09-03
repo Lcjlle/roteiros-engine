@@ -62,7 +62,7 @@ criterion fails. Post it as a comment on the issue:
 ```
 ## QA: FAIL
 
-- [x] ontologia.v1.json has the funcao field with 11 closed values - PASS
+- [x] ontologia.v1.json has the `function` field with 11 closed values - PASS
 - [ ] Cobertura test: <10% of blocks land in "outro" on the 2 hand-labelled
       videos - FAIL
       Measured 17% on video B, ran `uv run python src/coverage_check.py`
