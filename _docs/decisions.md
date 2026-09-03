@@ -209,3 +209,23 @@ gate: recomputed at 150 wpm, the worst-case transcript there (119.1% of
 expected word count at 140 wpm per Issue #1's closing comment) is still
 comfortably above the 60% floor. `corpus/zenn0009/*` is not touched by
 this change.
+
+## 9. `@MackExplains7` Fase 1 corpus: 30 profile + 5 holdout, whisperX for all 30
+
+Resolves items 6/7/8 for real. `yt-dlp --flat-playlist --dump-json`
+against `@MackExplains7` found 65 eligible long-form videos (well above
+the 34-video floor item 6 requires), consistent question-style format,
+and English auto-captions listed as available - but the same YouTube
+caption-endpoint IP block from items 3/4/5 was still in effect
+(`youtube_transcript_api` and `yt-dlp`'s subtitle endpoint both returned
+`IpBlocked`/`HTTP 429` for every one of the 30 `profile` videos tried).
+Per item 5, this is not a code change: the operator ran the existing
+whisperX fallback (GPU, `batch_size=4`, one subprocess per video, same
+isolation as item 4) for all 30 `profile` videos. The 5 `holdout` videos
+were never transcribed, per the plan.
+
+`corpus/mackexplains7/manifesto.csv` has 30 `profile` rows (all `fonte`
+`whisperX`) + 5 `holdout` rows. Worst-case `profile` word ratio: 90.2% of
+expected at 150 wpm (`6SapuAcHmDk`), comfortably above the 60% floor.
+`DECISOES.md#4`'s "não verificado ainda" note is resolved with this run's
+measured numbers.
