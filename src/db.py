@@ -9,8 +9,9 @@ always wins over whatever `.env` says - by design, not by accident.
 versioned file under corpus/, gold/, perfis/ and schema/.
 
 Alembic (migrations/env.py) imports Base.metadata from this module for
-autogenerate. No table is defined here yet - Fase 0's three decisions in
-DECISOES.md are still open, and no phase past Fase 0 has been groomed.
+autogenerate. No table is defined here yet - which entities move from
+versioned file to Postgres table is an open call for whichever issue
+first needs one, per `_docs/decisions.md#1`.
 """
 
 import os
