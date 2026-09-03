@@ -725,3 +725,28 @@ This does not reopen `WINDOW_MAX_WORDS=35`/`WINDOW_MAX_SENTENCES=4`/
 `GATE_WINDOWS_PER_MINUTE=5.6` with `4.86`, and supersedes the flat
 zero-tolerance reading of `_docs/plano_implementacao.md` line 312 with the
 3a/3b/3c/3d split above, per this file's own precedence rule (line 8).
+
+### Addendum: persist gate result to file
+
+The 3a/3b/3c/3d result must be persisted as
+`corpus/<channel>/fase2_gate.json`, not left only in the stdout log of a
+run that already passed. Comparing a future channel against this channel
+requires reading the measured gate result again; a transient run log is not
+a durable comparison artifact. The file records `generated_at`, `n_videos`,
+`n_windows`, `passed`, and the construction/gate constants in force:
+`WINDOW_MAX_WORDS`, `WINDOW_MAX_SENTENCES`, `WINDOW_MIN_SENTENCES`,
+`GATE_MAX_WINDOW_WORDS`, `GATE_WINDOWS_PER_MINUTE`, and
+`GATE_WINDOWS_PER_MINUTE_BAND`. Persisting those constants is required so
+the result remains interpretable after any future recalibration.
+
+Its sub-results are `3a` (`n_sentencas_grandes`, `n_janelas_grandes`,
+`passed`, and `problems`), `3b` (`residuo` and `passed`), `3c`
+(`nonlast_single_ratio`, its `threshold`, and `passed`), and `3d`
+(`passed` and the per-video `problems` list, empty when every video is
+inside the band). This file is diagnostic persistence, not a change to the
+gate: 3c remains measured but non-blocking exactly as decided above.
+
+When the Fase 3+ `perfis/<canal>.perfil.json` schema is built, its
+`diagnostics` object must include this `nonlast_single_ratio` alongside
+`smoothing_rate`. That schema and field are not implemented by this
+addendum; this records the intended future placement only.
