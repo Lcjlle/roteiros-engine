@@ -1,0 +1,1114 @@
+{
+  "video_id": "6SapuAcHmDk",
+  "duration_s": 1476.0,
+  "generated_at": "2026-09-03T11:59:49.090079+00:00",
+  "sentences": [
+    {
+      "sent_id": "6SapuAcHmDk:s0000",
+      "video_id": "6SapuAcHmDk",
+      "idx": 0,
+      "start_s": 0.091,
+      "end_s": 12.477,
+      "text": "Forensic artists have reconstructed the faces of numerous ancient humans using nothing but skull structure, tissue depth data, and genuinely impressive technical skill, and the results tend to genuinely surprise people.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0001",
+      "video_id": "6SapuAcHmDk",
+      "idx": 1,
+      "start_s": 12.857,
+      "end_s": 22.761,
+      "text": "Not because these reconstructed faces look like some kind of grunting cave monster stereotype, but because they often look like someone you'd genuinely pass on the street without a second glance.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0002",
+      "video_id": "6SapuAcHmDk",
+      "idx": 2,
+      "start_s": 23.502,
+      "end_s": 28.364,
+      "text": "Which raises a question that's a lot more loaded and a lot more scientifically interesting than it first appears.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0003",
+      "video_id": "6SapuAcHmDk",
+      "idx": 3,
+      "start_s": 29.349,
+      "end_s": 33.631,
+      "text": "Were ancient humans actually attractive by any standard, ancient or modern?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0004",
+      "video_id": "6SapuAcHmDk",
+      "idx": 4,
+      "start_s": 34.932,
+      "end_s": 38.373,
+      "text": "Or have we just been picturing this completely wrong the entire time?",
+      "n_words": 12
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0005",
+      "video_id": "6SapuAcHmDk",
+      "idx": 5,
+      "start_s": 39.894,
+      "end_s": 41.315,
+      "text": "Let's untangle this properly.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0006",
+      "video_id": "6SapuAcHmDk",
+      "idx": 6,
+      "start_s": 42.09,
+      "end_s": 50.412,
+      "text": "because the honest answer requires separating two genuinely different questions that tend to get mashed together constantly in casual conversation.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0007",
+      "video_id": "6SapuAcHmDk",
+      "idx": 7,
+      "start_s": 51.433,
+      "end_s": 56.594,
+      "text": "There's, would ancient humans be considered attractive by today's specific beauty standards?",
+      "n_words": 12
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0008",
+      "video_id": "6SapuAcHmDk",
+      "idx": 8,
+      "start_s": 57.354,
+      "end_s": 64.317,
+      "text": "And there's the considerably more interesting underlying question, what does attractiveness even biologically represent?",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0009",
+      "video_id": "6SapuAcHmDk",
+      "idx": 9,
+      "start_s": 64.677,
+      "end_s": 68.998,
+      "text": "And were ancient humans subject to those same underlying biological pressures?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0010",
+      "video_id": "6SapuAcHmDk",
+      "idx": 10,
+      "start_s": 69.977,
+      "end_s": 77.843,
+      "text": "Spoiler, the answer to that second question is an emphatic yes, and it's the key to understanding basically everything else in this entire topic.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0011",
+      "video_id": "6SapuAcHmDk",
+      "idx": 11,
+      "start_s": 78.664,
+      "end_s": 94.055,
+      "text": "Let's start with the foundational science here, because attractiveness, despite feeling like some purely cultural, arbitrary preference that changes with every passing fashion trend, is actually built on a surprisingly deep, consistent evolutionary foundation.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0012",
+      "video_id": "6SapuAcHmDk",
+      "idx": 12,
+      "start_s": 95.076,
+      "end_s": 104.978,
+      "text": "Researchers studying cross-cultural attractiveness preferences have found certain features showing up as broadly, consistently preferred across an enormous range of completely unrelated cultures.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0013",
+      "video_id": "6SapuAcHmDk",
+      "idx": 13,
+      "start_s": 105.618,
+      "end_s": 112.2,
+      "text": "Facial symmetry, clear, even skin texture, and certain proportional relationships between facial features.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0014",
+      "video_id": "6SapuAcHmDk",
+      "idx": 14,
+      "start_s": 112.92,
+      "end_s": 117.581,
+      "text": "This consistency matters enormously because these specific traits aren't arbitrary.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0015",
+      "video_id": "6SapuAcHmDk",
+      "idx": 15,
+      "start_s": 117.941,
+      "end_s": 124.443,
+      "text": "They function as honest, hard-to-fake signals of underlying health, developmental stability, and genetic quality.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0016",
+      "video_id": "6SapuAcHmDk",
+      "idx": 16,
+      "start_s": 125.363,
+      "end_s": 139.936,
+      "text": "Facial symmetry, for example, tends to correlate with stable, undisrupted development during childhood, since significant illness, parasitic infection, or nutritional deficiency during key growth periods tends to produce measurable, lasting asymmetry.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0017",
+      "video_id": "6SapuAcHmDk",
+      "idx": 17,
+      "start_s": 140.977,
+      "end_s": 146.002,
+      "text": "Clear skin similarly signals an absence of current parasitic load or active infection.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0018",
+      "video_id": "6SapuAcHmDk",
+      "idx": 18,
+      "start_s": 147.514,
+      "end_s": 149.395,
+      "text": "None of this requires conscious calculation.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0019",
+      "video_id": "6SapuAcHmDk",
+      "idx": 19,
+      "start_s": 149.636,
+      "end_s": 162.745,
+      "text": "Our brains evolved to find these specific traits appealing precisely because, across countless ancient generations, finding them appealing and preferentially choosing partners who displayed them produced healthier offspring with better survival odds.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0020",
+      "video_id": "6SapuAcHmDk",
+      "idx": 20,
+      "start_s": 163.585,
+      "end_s": 184.221,
+      "text": "This means ancient humans were absolutely operating under these exact same underlying attractiveness pressures, the specific cultural packaging looked different, but the deep biological machinery evaluating potential mates for symmetry, skin clarity, and signs of robust health was running in essentially the same way it runs in modern human brains today.",
+      "n_words": 51
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0021",
+      "video_id": "6SapuAcHmDk",
+      "idx": 21,
+      "start_s": 185.222,
+      "end_s": 197.588,
+      "text": "An ancient human with notably symmetrical features and clear skin would have registered as attractive to other ancient humans for fundamentally the same biological reasons a symmetrical, clear-skinned modern person registers as attractive today.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0022",
+      "video_id": "6SapuAcHmDk",
+      "idx": 22,
+      "start_s": 198.268,
+      "end_s": 206.272,
+      "text": "The underlying evaluation system hasn't meaningfully changed, even though the specific cultural emphasis layered on top of it absolutely has.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0023",
+      "video_id": "6SapuAcHmDk",
+      "idx": 23,
+      "start_s": 207.072,
+      "end_s": 215.958,
+      "text": "Now let's bring up something genuinely fascinating regarding facial structure specifically, because this is where things get considerably more nuanced than a simple yes or no answer.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0024",
+      "video_id": "6SapuAcHmDk",
+      "idx": 24,
+      "start_s": 216.799,
+      "end_s": 231.23,
+      "text": "Ancient human skulls, particularly from earlier periods, frequently show somewhat more robust, pronounced brow ridges, broader facial structure, and generally heavier bone structure compared to the average modern human face.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0025",
+      "video_id": "6SapuAcHmDk",
+      "idx": 25,
+      "start_s": 232.21,
+      "end_s": 235.614,
+      "text": "This raises a genuinely interesting question worth sitting with directly.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0026",
+      "video_id": "6SapuAcHmDk",
+      "idx": 26,
+      "start_s": 236.274,
+      "end_s": 249.927,
+      "text": "Would these structural differences have registered as unattractive by modern beauty standards, which frequently favor a more delicate, gracile bone structure, particularly in faces culturally coded as conventionally attractive?",
+      "n_words": 29
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0027",
+      "video_id": "6SapuAcHmDk",
+      "idx": 27,
+      "start_s": 250.788,
+      "end_s": 258.955,
+      "text": "The honest answer is genuinely complicated, and it depends heavily on exactly which ancient population and which specific time period we're discussing.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0028",
+      "video_id": "6SapuAcHmDk",
+      "idx": 28,
+      "start_s": 259.876,
+      "end_s": 269.885,
+      "text": "Populations living closer to the emergence of anatomically modern Homo sapiens, roughly 200,000 years ago and onward, actually show facial structures considerably more.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0029",
+      "video_id": "6SapuAcHmDk",
+      "idx": 29,
+      "start_s": 270.353,
+      "end_s": 281.202,
+      "text": "Similar to modern humans than popular imagination typically assumes, gracile, relatively delicate bone structure was already well established within our own species long before recorded history began.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0030",
+      "video_id": "6SapuAcHmDk",
+      "idx": 30,
+      "start_s": 282.103,
+      "end_s": 290.771,
+      "text": "The genuinely robust, heavy-featured faces most people picture when imagining ancient humans are considerably more associated with earlier hominin species.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0031",
+      "video_id": "6SapuAcHmDk",
+      "idx": 31,
+      "start_s": 291.291,
+      "end_s": 301.636,
+      "text": "or with Neanderthals specifically, who possessed a measurably different, more robust facial architecture compared to Homo sapiens even during periods when both species coexisted directly.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0032",
+      "video_id": "6SapuAcHmDk",
+      "idx": 32,
+      "start_s": 302.456,
+      "end_s": 311.481,
+      "text": "This means the specific answer to, were ancient humans attractive by modern standards, depends enormously on which ancient humans we're actually talking about.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0033",
+      "video_id": "6SapuAcHmDk",
+      "idx": 33,
+      "start_s": 312.001,
+      "end_s": 321.914,
+      "text": "Lumping every pre-modern human population into one single, uniform category badly oversimplifies what was actually a considerably more varied picture.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0034",
+      "video_id": "6SapuAcHmDk",
+      "idx": 34,
+      "start_s": 322.334,
+      "end_s": 328.702,
+      "text": "Let's bring up Neanderthals specifically, because this connects to a genuinely fascinating, ongoing area of research.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0035",
+      "video_id": "6SapuAcHmDk",
+      "idx": 35,
+      "start_s": 329.463,
+      "end_s": 348.627,
+      "text": "Neanderthals possessed notably larger brow ridges, a more pronounced mid-face projection, and generally more robust overall bone structure compared to Homo sapiens, features that, evaluated purely against current mainstream beauty standards, would likely register as unconventional or unusual to most modern observers.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0036",
+      "video_id": "6SapuAcHmDk",
+      "idx": 36,
+      "start_s": 349.347,
+      "end_s": 352.548,
+      "text": "But here's the genuinely important wrinkle worth sitting with directly.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0037",
+      "video_id": "6SapuAcHmDk",
+      "idx": 37,
+      "start_s": 353.368,
+      "end_s": 362.946,
+      "text": "Homo sapiens and Neanderthals interbred, repeatedly, across an extended period of direct contact, something we covered in detail in a previous video.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0038",
+      "video_id": "6SapuAcHmDk",
+      "idx": 38,
+      "start_s": 364.456,
+      "end_s": 377.647,
+      "text": "This means at least some Homo sapiens populations clearly found Neanderthals attractive enough, or at minimum, found them viable enough as reproductive partners, to produce offspring together on a meaningful recurring scale.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0039",
+      "video_id": "6SapuAcHmDk",
+      "idx": 39,
+      "start_s": 378.648,
+      "end_s": 392.32,
+      "text": "Whatever specific calculus was happening regarding cross-species attraction during that period, it clearly wasn't an insurmountable barrier, which tells us something genuinely interesting about how flexible and context-dependent attraction standards can actually be.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0040",
+      "video_id": "6SapuAcHmDk",
+      "idx": 40,
+      "start_s": 393.22,
+      "end_s": 397.225,
+      "text": "even across what we now classify as genuinely separate human species.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0041",
+      "video_id": "6SapuAcHmDk",
+      "idx": 41,
+      "start_s": 398.186,
+      "end_s": 408.758,
+      "text": "Now let's bring up something genuinely important regarding self-adornment and grooming, because this provides some of the most direct, compelling evidence that ancient humans cared enormously about personal appearance.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0042",
+      "video_id": "6SapuAcHmDk",
+      "idx": 42,
+      "start_s": 409.298,
+      "end_s": 417.567,
+      "text": "not as some kind of trivial afterthought, but as a genuinely significant, consistent priority across an enormous span of human history.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0043",
+      "video_id": "6SapuAcHmDk",
+      "idx": 43,
+      "start_s": 418.368,
+      "end_s": 426.597,
+      "text": "We've discussed red ochre extensively in a previous video regarding burial practices, but ochre use extended well beyond funerary contexts.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0044",
+      "video_id": "6SapuAcHmDk",
+      "idx": 44,
+      "start_s": 427.458,
+      "end_s": 433.145,
+      "text": "Archaeological evidence shows red ochre and other pigments being used as body decoration during life too.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0045",
+      "video_id": "6SapuAcHmDk",
+      "idx": 45,
+      "start_s": 433.766,
+      "end_s": 444.398,
+      "text": "Suggesting ancient humans were actively modifying and enhancing their physical appearance through cosmetic means tens of thousands of years before anyone would write down a single word about what makes a person look good.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0046",
+      "video_id": "6SapuAcHmDk",
+      "idx": 46,
+      "start_s": 445.419,
+      "end_s": 448.942,
+      "text": "Jewelry represents another genuinely compelling category of evidence here.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0047",
+      "video_id": "6SapuAcHmDk",
+      "idx": 47,
+      "start_s": 449.443,
+      "end_s": 462.613,
+      "text": "Archaeological sites have produced beads made from shell, bone, ivory, and various other materials dating back tens of thousands of years, deliberately crafted, pierced, and strung specifically for personal adornment.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0048",
+      "video_id": "6SapuAcHmDk",
+      "idx": 48,
+      "start_s": 463.494,
+      "end_s": 490.487,
+      "text": "Creating these items required real-time, skill, and material investment, and the sheer consistency of this practice across an enormous range of independently developing ancient cultures strongly suggests that personal appearance, and specifically the deliberate enhancement of personal appearance beyond pure practical necessity, mattered enormously to ancient humans in a way that connects directly and obviously to questions of attraction, status, and social presentation.",
+      "n_words": 63
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0049",
+      "video_id": "6SapuAcHmDk",
+      "idx": 49,
+      "start_s": 491.96,
+      "end_s": 497.486,
+      "text": "Let's bring up combs too, because this is a genuinely underrated piece of evidence in this entire conversation.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0050",
+      "video_id": "6SapuAcHmDk",
+      "idx": 50,
+      "start_s": 498.166,
+      "end_s": 512.962,
+      "text": "Archaeologists have recovered ancient combs crafted from bone, antler, and ivory dating back many thousands of years, representing genuinely deliberate, dedicated grooming tools rather than some incidental, accidental byproduct of other activities.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0051",
+      "video_id": "6SapuAcHmDk",
+      "idx": 51,
+      "start_s": 514.289,
+      "end_s": 535.937,
+      "text": "Maintaining well-groomed hair requires consistent effort and represents exactly the kind of personal investment in appearance that connects directly to questions of attractiveness and social presentation, suggesting ancient humans were actively managing their personal grooming with real intention, not simply existing in some kind of unkempt, indifferent, natural state popular imagination sometimes assumes.",
+      "n_words": 53
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0052",
+      "video_id": "6SapuAcHmDk",
+      "idx": 52,
+      "start_s": 537.155,
+      "end_s": 539.296,
+      "text": "Now let's bring up body modification more.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0053",
+      "video_id": "6SapuAcHmDk",
+      "idx": 53,
+      "start_s": 539.737,
+      "end_s": 549.743,
+      "text": "Broadly, because several ancient and historical cultures practiced deliberate, often genuinely painful, body modifications specifically for aesthetic and cultural purposes.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0054",
+      "video_id": "6SapuAcHmDk",
+      "idx": 54,
+      "start_s": 550.483,
+      "end_s": 561.27,
+      "text": "Deliberate dental modification, filing or shaping teeth into specific patterns, various forms of scarification, and other intentional alterations to natural appearance.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0055",
+      "video_id": "6SapuAcHmDk",
+      "idx": 55,
+      "start_s": 562.683,
+      "end_s": 582.04,
+      "text": "These practices required real, sustained cultural commitment and frequently genuine physical discomfort, strongly reinforcing the idea that appearance, and specifically culturally defined standards of what looked attractive or socially significant, carried real weight and real consequence within these ancient societies.",
+      "n_words": 40
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0056",
+      "video_id": "6SapuAcHmDk",
+      "idx": 56,
+      "start_s": 582.5,
+      "end_s": 588.546,
+      "text": "Considerably more than some passive, indifferent, whatever-you-naturally-look-like-is-fine attitude would suggest.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0057",
+      "video_id": "6SapuAcHmDk",
+      "idx": 57,
+      "start_s": 590.122,
+      "end_s": 599.124,
+      "text": "Let's bring up Venus figurines, too, because these represent one of the most genuinely debated, most frequently misunderstood categories of evidence in this entire topic.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0058",
+      "video_id": "6SapuAcHmDk",
+      "idx": 58,
+      "start_s": 600.024,
+      "end_s": 614.727,
+      "text": "These small carved figures, predominantly depicting female forms with exaggerated, emphasized features, particularly around the hips, breasts, and abdomen, appear across numerous Paleolithic sites spanning a considerable geographic range.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0059",
+      "video_id": "6SapuAcHmDk",
+      "idx": 59,
+      "start_s": 615.924,
+      "end_s": 628.084,
+      "text": "For a long time, popular interpretation treated these figurines as straightforward representations of ancient beauty ideals, essentially ancient humanity's preferred body type rendered in stone or ivory.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0060",
+      "video_id": "6SapuAcHmDk",
+      "idx": 60,
+      "start_s": 629.093,
+      "end_s": 653.811,
+      "text": "More recent, careful scholarship has pushed back considerably on this simple interpretation, pointing out that these figures might represent fertility symbolism, self-representation from a first-person, downward-looking perspective, rather than an external, idealized view, or some entirely different symbolic or ritual purpose that doesn't necessarily map directly onto straightforward attractiveness preference at all.",
+      "n_words": 52
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0061",
+      "video_id": "6SapuAcHmDk",
+      "idx": 61,
+      "start_s": 654.671,
+      "end_s": 659.612,
+      "text": "This is honestly a great example of why this entire topic requires real interpretive caution.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0062",
+      "video_id": "6SapuAcHmDk",
+      "idx": 62,
+      "start_s": 660.153,
+      "end_s": 665.594,
+      "text": "A single piece of ancient art doesn't necessarily tell us definitively what ancient humans found attractive.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0063",
+      "video_id": "6SapuAcHmDk",
+      "idx": 63,
+      "start_s": 666.094,
+      "end_s": 675.057,
+      "text": "It might be telling us something considerably more complicated about ritual, fertility, symbolism, or artistic convention that we're still working to fully understand.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0064",
+      "video_id": "6SapuAcHmDk",
+      "idx": 64,
+      "start_s": 676.235,
+      "end_s": 679.196,
+      "text": "Now here's a genuinely interesting question worth addressing directly.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0065",
+      "video_id": "6SapuAcHmDk",
+      "idx": 65,
+      "start_s": 680.016,
+      "end_s": 690.939,
+      "text": "Do we actually have any reasonably direct evidence regarding what specific traits ancient humans themselves considered attractive, beyond just inferring from grooming artifacts and broader evolutionary theory?",
+      "n_words": 27
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0066",
+      "video_id": "6SapuAcHmDk",
+      "idx": 66,
+      "start_s": 691.799,
+      "end_s": 704.662,
+      "text": "This is where the evidence genuinely gets thinner and considerably more speculative, since written records explaining specific ancient beauty preferences obviously don't exist for the deep prehistoric period we've spent most of this video discussing.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0067",
+      "video_id": "6SapuAcHmDk",
+      "idx": 67,
+      "start_s": 706.248,
+      "end_s": 729.5,
+      "text": "Once we move into periods with actual written historical records, ancient Egyptian, Greek, and Mesopotamian texts and artwork, we start finding considerably more explicit evidence of specific beauty standards, certain skin tones, certain body proportions, specific styles of dress and adornment, frequently varying considerably depending on social class, gender, and specific regional culture.",
+      "n_words": 53
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0068",
+      "video_id": "6SapuAcHmDk",
+      "idx": 68,
+      "start_s": 730.58,
+      "end_s": 747.152,
+      "text": "This later historical evidence shows clearly that beauty standards have always been culturally variable and historically specific, even while the underlying biological preferences for symmetry and health-signaling traits we discussed earlier remained relatively stable underneath all that cultural variation.",
+      "n_words": 39
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0069",
+      "video_id": "6SapuAcHmDk",
+      "idx": 69,
+      "start_s": 747.792,
+      "end_s": 769.405,
+      "text": "Let's bring up something genuinely important regarding how dramatically beauty standards have shifted even within just the past few centuries of recorded history, because this provides genuinely useful context for understanding just how culturally constructed a huge portion of attractiveness actually is, layered right on top of that more stable underlying biological foundation.",
+      "n_words": 53
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0070",
+      "video_id": "6SapuAcHmDk",
+      "idx": 70,
+      "start_s": 770.225,
+      "end_s": 793.796,
+      "text": "Body size preferences, skin tone preferences, and specific facial feature preferences have all shifted measurably across different historical periods and cultures, frequently correlating with specific economic and social conditions, body fat representing wealth and food security in certain historical contexts, pale skin representing freedom from outdoor manual labor in other specific historical and cultural contexts.",
+      "n_words": 55
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0071",
+      "video_id": "6SapuAcHmDk",
+      "idx": 71,
+      "start_s": 794.833,
+      "end_s": 799.295,
+      "text": "This tells us something genuinely important worth applying directly back to our central question.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0072",
+      "video_id": "6SapuAcHmDk",
+      "idx": 72,
+      "start_s": 800.016,
+      "end_s": 805.238,
+      "text": "Attractiveness was never one single fixed universal standard throughout human history.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0073",
+      "video_id": "6SapuAcHmDk",
+      "idx": 73,
+      "start_s": 805.978,
+      "end_s": 823.347,
+      "text": "Even within recorded historical periods, we understand reasonably well, which means projecting any single specific modern beauty standard backward onto deep prehistoric populations and asking whether they'd measure up was probably always a slightly flawed framing of this entire question from the very beginning.",
+      "n_words": 44
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0074",
+      "video_id": "6SapuAcHmDk",
+      "idx": 74,
+      "start_s": 824.85,
+      "end_s": 841.54,
+      "text": "Let's also bring up something genuinely fascinating connecting this entire topic to modern facial reconstruction technology specifically, because this represents our most direct, evidence-based attempt to actually visualize what specific ancient individuals looked like, rather than just speculating in the abstract.",
+      "n_words": 41
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0075",
+      "video_id": "6SapuAcHmDk",
+      "idx": 75,
+      "start_s": 842.89,
+      "end_s": 857.006,
+      "text": "Forensic facial reconstruction relies on established tissue depth data, measuring average soft tissue thickness at specific points across the human face, applied directly onto a recovered skull to estimate the likely overall facial appearance.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0076",
+      "video_id": "6SapuAcHmDk",
+      "idx": 76,
+      "start_s": 858.087,
+      "end_s": 882.335,
+      "text": "This technique has produced genuinely striking reconstructions of various ancient individuals, including, notably, a reconstruction of a Neanderthal woman that received considerable public attention specifically because the resulting face looked considerably more familiar, more recognizably human and conventionally presentable, than popular cultural stereotypes of Neanderthals had led most people to expect.",
+      "n_words": 51
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0077",
+      "video_id": "6SapuAcHmDk",
+      "idx": 77,
+      "start_s": 883.395,
+      "end_s": 889.26,
+      "text": "This single example reinforces something genuinely important running throughout this entire video.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0078",
+      "video_id": "6SapuAcHmDk",
+      "idx": 78,
+      "start_s": 889.801,
+      "end_s": 902.252,
+      "text": "Our popular cultural imagination of ancient humans has frequently exaggerated and distorted their actual likely appearance considerably more than the genuine underlying scientific evidence actually supports.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0079",
+      "video_id": "6SapuAcHmDk",
+      "idx": 79,
+      "start_s": 903.812,
+      "end_s": 917.281,
+      "text": "Now let's address something genuinely important regarding average versus exceptional individuals within any given ancient population, because this distinction matters enormously and gets lost constantly in casual conversation about this topic.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0080",
+      "video_id": "6SapuAcHmDk",
+      "idx": 80,
+      "start_s": 918.301,
+      "end_s": 925.166,
+      "text": "Just like in any modern population, ancient human populations almost certainly contained a full range of individual variation.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0081",
+      "video_id": "6SapuAcHmDk",
+      "idx": 81,
+      "start_s": 925.866,
+      "end_s": 933.111,
+      "text": "Some individuals would have displayed the kind of facial symmetry, clear skin, and proportional features that triggered strong attraction responses.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0082",
+      "video_id": "6SapuAcHmDk",
+      "idx": 82,
+      "start_s": 933.791,
+      "end_s": 942.856,
+      "text": "while others, due to illness, injury, parasitic load, or simple natural variation, would have displayed considerably less of those specific traits.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0083",
+      "video_id": "6SapuAcHmDk",
+      "idx": 83,
+      "start_s": 943.956,
+      "end_s": 960.945,
+      "text": "Asking, were ancient humans attractive, as if every single member of an entire ancient population looked identical, is exactly as flawed as asking, are modern humans attractive, expecting one single, uniform answer covering all 8 billion people currently alive on the planet.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0084",
+      "video_id": "6SapuAcHmDk",
+      "idx": 84,
+      "start_s": 961.926,
+      "end_s": 976.952,
+      "text": "The honest, accurate answer is that ancient populations, exactly like modern populations, contained genuine individual variation in how strongly each specific person would have triggered those underlying evolutionarily-rooted attraction responses.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0085",
+      "video_id": "6SapuAcHmDk",
+      "idx": 85,
+      "start_s": 977.893,
+      "end_s": 988.797,
+      "text": "Let's bring up something genuinely important regarding nutrition and overall health, too, because this connects directly back to that foundational evolutionary biology we discussed early in this video.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0086",
+      "video_id": "6SapuAcHmDk",
+      "idx": 86,
+      "start_s": 989.684,
+      "end_s": 1006.742,
+      "text": "ancient humans facing chronic nutritional stress, parasitic infection, or significant physical hardship would have shown measurable, visible effects of that hardship directly on their physical appearance, reduced muscle tone, skin, and hair quality affected by nutritional deficiency.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0087",
+      "video_id": "6SapuAcHmDk",
+      "idx": 87,
+      "start_s": 1007.423,
+      "end_s": 1009.865,
+      "text": "visible signs of illness or injury.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0088",
+      "video_id": "6SapuAcHmDk",
+      "idx": 88,
+      "start_s": 1010.565,
+      "end_s": 1028.117,
+      "text": "This means a population's specific historical circumstances, periods of relative abundance versus periods of genuine hardship, would have directly influenced how many individuals within that specific population were likely displaying the kind of robust, visible health markers that trigger strong attraction responses.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0089",
+      "video_id": "6SapuAcHmDk",
+      "idx": 89,
+      "start_s": 1028.638,
+      "end_s": 1034.521,
+      "text": "An entirely separate, additional layer of variation beyond just pure individual genetic difference.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0090",
+      "video_id": "6SapuAcHmDk",
+      "idx": 90,
+      "start_s": 1035.442,
+      "end_s": 1052.261,
+      "text": "There's also a genuinely fascinating angle worth bringing into this discussion involving voice and movement, two dimensions of attractiveness that get almost completely ignored in conversations focused purely on static facial features, despite mattering enormously in actual real-world attraction.",
+      "n_words": 39
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0091",
+      "video_id": "6SapuAcHmDk",
+      "idx": 91,
+      "start_s": 1053.293,
+      "end_s": 1068.517,
+      "text": "Research on vocal attractiveness has found that certain voice qualities related to pitch, resonance, and vocal stability function as additional honest signals connected to hormonal health and overall physical condition, completely independent of facial appearance entirely.",
+      "n_words": 36
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0092",
+      "video_id": "6SapuAcHmDk",
+      "idx": 92,
+      "start_s": 1069.814,
+      "end_s": 1078.519,
+      "text": "Similarly, research on movement and gait has found that humans can detect health and even certain personality traits from observing someone's walking pattern alone.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0093",
+      "video_id": "6SapuAcHmDk",
+      "idx": 93,
+      "start_s": 1079.139,
+      "end_s": 1085.583,
+      "text": "Suggesting attraction was never purely a static visual evaluation, even in deep prehistory, ancient.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0094",
+      "video_id": "6SapuAcHmDk",
+      "idx": 94,
+      "start_s": 1086.303,
+      "end_s": 1098.15,
+      "text": "Humans would have been picking up on voice, movement, posture, and confidence cues constantly, layered directly on top of whatever purely facial and bodily features we've spent most of this video discussing.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0095",
+      "video_id": "6SapuAcHmDk",
+      "idx": 95,
+      "start_s": 1099.15,
+      "end_s": 1121.618,
+      "text": "Let's also bring up something genuinely important regarding social and behavioral traits, because evolutionary psychology research consistently finds that physical appearance, while genuinely significant, represents only one piece of a considerably larger attraction puzzle that also includes demonstrated competence, kindness, reliability, and social status within a given group.",
+      "n_words": 48
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0096",
+      "video_id": "6SapuAcHmDk",
+      "idx": 96,
+      "start_s": 1122.978,
+      "end_s": 1140.184,
+      "text": "an ancient human displaying genuine hunting skill, demonstrated reliability within their social group, or a particular skill at tool-making or other valued craftwork likely received attraction-relevant social credit for those specific qualities, completely independent of how symmetrical their face happened to be.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0097",
+      "video_id": "6SapuAcHmDk",
+      "idx": 97,
+      "start_s": 1140.904,
+      "end_s": 1156.748,
+      "text": "This means reducing this entire topic purely to facial bone structure and skin clarity, while scientifically useful for isolating specific evolutionary mechanisms, genuinely undersells just how multidimensional actual ancient attraction and mate selection almost certainly was.",
+      "n_words": 36
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0098",
+      "video_id": "6SapuAcHmDk",
+      "idx": 98,
+      "start_s": 1157.468,
+      "end_s": 1163.33,
+      "text": "In exactly the same complex, multifaceted way, modern human attraction continues to be today.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0099",
+      "video_id": "6SapuAcHmDk",
+      "idx": 99,
+      "start_s": 1164.31,
+      "end_s": 1180.769,
+      "text": "Now let's bring up something genuinely interesting, connecting this topic to age and life stage specifically, because attractiveness signaling likely operated somewhat differently across an individual's lifespan within ancient populations compared to how it operates in many modern contexts.",
+      "n_words": 39
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0100",
+      "video_id": "6SapuAcHmDk",
+      "idx": 100,
+      "start_s": 1181.645,
+      "end_s": 1208.161,
+      "text": "Given the considerably shorter average lifespan and the genuinely demanding physical labor we've discussed extensively in previous videos, signs of youth and physical vigor likely carried even more direct, practically significant weight in ancient mate selection than they sometimes do in modern contexts, where extended lifespan and reduced physical labor demands have somewhat changed the practical calculus connecting youth, health, and reproductive or economic value within a partnership.",
+      "n_words": 68
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0101",
+      "video_id": "6SapuAcHmDk",
+      "idx": 101,
+      "start_s": 1208.981,
+      "end_s": 1220.833,
+      "text": "This doesn't mean older individuals within ancient populations were considered universally unattractive, demonstrated skill, social status, and accumulated resources likely provided meaningful counterbalancing value.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0102",
+      "video_id": "6SapuAcHmDk",
+      "idx": 102,
+      "start_s": 1221.453,
+      "end_s": 1229.601,
+      "text": "But it does suggest the specific weighting of different attraction-relevant factors likely shifted, somewhat compared to certain modern contexts.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0103",
+      "video_id": "6SapuAcHmDk",
+      "idx": 103,
+      "start_s": 1230.302,
+      "end_s": 1236.703,
+      "text": "shaped directly by the genuinely different practical and demographic realities ancient populations were actually navigating.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0104",
+      "video_id": "6SapuAcHmDk",
+      "idx": 104,
+      "start_s": 1237.344,
+      "end_s": 1257.768,
+      "text": "It's also worth touching on something genuinely important regarding how this entire topic connects to modern dating app data and contemporary attraction research more broadly, because some of the most robust modern evidence for the deep evolutionary roots of attraction actually comes from research conducted in an extremely modern, technologically mediated context.",
+      "n_words": 52
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0105",
+      "video_id": "6SapuAcHmDk",
+      "idx": 105,
+      "start_s": 1258.783,
+      "end_s": 1266.189,
+      "text": "Studies analyzing attraction patterns across massive contemporary dating platform datasets have consistently found the same core preferences.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0106",
+      "video_id": "6SapuAcHmDk",
+      "idx": 106,
+      "start_s": 1266.849,
+      "end_s": 1278.158,
+      "text": "Symmetry, certain proportional facial ratios, signs of health, showing up reliably across an enormous range of different cultural backgrounds and demographic groups represented within these platforms.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0107",
+      "video_id": "6SapuAcHmDk",
+      "idx": 107,
+      "start_s": 1279.058,
+      "end_s": 1292.769,
+      "text": "This modern data provides genuinely strong, large-scale supporting evidence for exactly the kind of deep, evolutionarily rooted attraction mechanisms we've argued throughout this video were almost certainly operating in ancient human populations too.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0108",
+      "video_id": "6SapuAcHmDk",
+      "idx": 108,
+      "start_s": 1293.389,
+      "end_s": 1304.217,
+      "text": "The same underlying preferences keep showing up reliably, whether researchers are studying contemporary swiping behavior on a smartphone, or piecing together indirect evidence from tens of thousands of years ago.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0109",
+      "video_id": "6SapuAcHmDk",
+      "idx": 109,
+      "start_s": 1305.138,
+      "end_s": 1309.661,
+      "text": "Finally, it's worth touching on something genuinely worth sitting with as we wrap up this entire discussion.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0110",
+      "video_id": "6SapuAcHmDk",
+      "idx": 110,
+      "start_s": 1310.181,
+      "end_s": 1321.227,
+      "text": "The very fact that we're capable of asking this question at all, and capable of genuinely caring about the answer, tells us something interesting about how deeply this entire topic connects to fundamental human nature.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0111",
+      "video_id": "6SapuAcHmDk",
+      "idx": 111,
+      "start_s": 1322.338,
+      "end_s": 1333.544,
+      "text": "Attraction, attractiveness, and the desire to be found attractive by others clearly weren't some optional modern luxury that emerged alongside mirrors, magazines, or social media.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0112",
+      "video_id": "6SapuAcHmDk",
+      "idx": 112,
+      "start_s": 1334.204,
+      "end_s": 1339.427,
+      "text": "They represent a deeply ancient, deeply embedded part of what it has always meant to be human.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0113",
+      "video_id": "6SapuAcHmDk",
+      "idx": 113,
+      "start_s": 1339.867,
+      "end_s": 1351.524,
+      "text": "stretching back considerably further than written history, considerably further than agriculture, considerably further than most of the specific technologies and social structures we've covered throughout this entire series.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0114",
+      "video_id": "6SapuAcHmDk",
+      "idx": 114,
+      "start_s": 1352.144,
+      "end_s": 1353.947,
+      "text": "So, were ancient humans attractive?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0115",
+      "video_id": "6SapuAcHmDk",
+      "idx": 115,
+      "start_s": 1354.688,
+      "end_s": 1361.554,
+      "text": "Based on everything we've covered throughout this entire video, the honest, most scientifically accurate answer is genuinely yes.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0116",
+      "video_id": "6SapuAcHmDk",
+      "idx": 116,
+      "start_s": 1361.914,
+      "end_s": 1378.669,
+      "text": "In exactly the same complicated, individually variable way modern humans are attractive, built on the exact same underlying evolutionary foundation of symmetry, health signaling, and proportional feature evaluation that's been running consistently in the human brain for an enormous span of evolutionary time.",
+      "n_words": 43
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0117",
+      "video_id": "6SapuAcHmDk",
+      "idx": 117,
+      "start_s": 1379.59,
+      "end_s": 1391.278,
+      "text": "Some ancient individuals would have displayed strikingly symmetrical, healthy proportional features that triggered exactly the same kind of strong attraction response in their contemporaries that equivalent features trigger in modern observers today.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0118",
+      "video_id": "6SapuAcHmDk",
+      "idx": 118,
+      "start_s": 1392.359,
+      "end_s": 1418.959,
+      "text": "Others, due to illness, hardship, or simple natural variation, would have displayed considerably less of those specific traits, and the specific cultural packaging layered on top of that underlying biological foundation which exact features got emphasized, celebrated, or modified through grooming and adornment, varied considerably across different ancient populations and time periods, exactly the same way it continues varying across different modern cultures today.",
+      "n_words": 64
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0119",
+      "video_id": "6SapuAcHmDk",
+      "idx": 119,
+      "start_s": 1419.62,
+      "end_s": 1433.07,
+      "text": "And honestly, maybe the most genuinely interesting takeaway from this entire topic is recognizing just how much continuity actually runs underneath all the surface-level differences we tend to fixate on when picturing ancient humans.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0120",
+      "video_id": "6SapuAcHmDk",
+      "idx": 120,
+      "start_s": 1433.971,
+      "end_s": 1446.1,
+      "text": "the specific hairstyles, the specific jewelry, the specific cultural standards of what counted as fashionable or desirable, all of that has shifted dramatically and repeatedly across human history.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0121",
+      "video_id": "6SapuAcHmDk",
+      "idx": 121,
+      "start_s": 1447.001,
+      "end_s": 1462.152,
+      "text": "But the underlying biological machinery, evaluating symmetry, clear skin, and signs of robust health, the actual deep evolutionary engine driving attraction in the first place, has been running in essentially the same way for an extraordinarily long time.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "6SapuAcHmDk:s0122",
+      "video_id": "6SapuAcHmDk",
+      "idx": 122,
+      "start_s": 1462.552,
+      "end_s": 1474.916,
+      "text": "quietly connecting every single generation of humans who ever lived, all the way back to whichever ancient person first picked up a piece of ochre, looked at their own reflection in still water, and decided they wanted to look just a little bit better.",
+      "n_words": 44
+    }
+  ]
+}

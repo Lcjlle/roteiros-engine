@@ -1,0 +1,1793 @@
+{
+  "video_id": "NcITexwM0Fg",
+  "generated_at": "2026-09-03T11:59:53.013106+00:00",
+  "windows": [
+    {
+      "window_id": "NcITexwM0Fg:j0000",
+      "video_id": "NcITexwM0Fg",
+      "idx": 0,
+      "sent_ids": [
+        "NcITexwM0Fg:s0000",
+        "NcITexwM0Fg:s0001",
+        "NcITexwM0Fg:s0002",
+        "NcITexwM0Fg:s0003"
+      ],
+      "start_s": 0.111,
+      "end_s": 8.695,
+      "text": "Okay, stop. Before you click away, I need you to understand something. This is not a weird video. This is not a gross video.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 8.872901678657075e-05
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0001",
+      "video_id": "NcITexwM0Fg",
+      "idx": 1,
+      "sent_ids": [
+        "NcITexwM0Fg:s0004",
+        "NcITexwM0Fg:s0005",
+        "NcITexwM0Fg:s0006"
+      ],
+      "start_s": 9.215,
+      "end_s": 18.819,
+      "text": "This is actually one of the most fascinating rabbit holes in all of human history. And the fact that nobody talks about it is exactly why we need to. Because here's the thing.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.007366107114308553
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0002",
+      "video_id": "NcITexwM0Fg",
+      "idx": 2,
+      "sent_ids": [
+        "NcITexwM0Fg:s0007"
+      ],
+      "start_s": 19.159,
+      "end_s": 24.622,
+      "text": "Half of the human population has been dealing with menstruation for literally as long as humans have existed.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.015314948041566745
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0003",
+      "video_id": "NcITexwM0Fg",
+      "idx": 3,
+      "sent_ids": [
+        "NcITexwM0Fg:s0008"
+      ],
+      "start_s": 25.322,
+      "end_s": 43.02,
+      "text": "We're talking hundreds of thousands of years, and yet, when historians sit down to write about ancient civilizations, they'll spend 40 pages on how Romans built their roads, and approximately zero sentences on how a Roman woman dealt with her period while also, you know, living her life.",
+      "n_words": 48,
+      "n_sentences": 1,
+      "pos_pct": 0.0202414068745004
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0004",
+      "video_id": "NcITexwM0Fg",
+      "idx": 4,
+      "sent_ids": [
+        "NcITexwM0Fg:s0009",
+        "NcITexwM0Fg:s0010",
+        "NcITexwM0Fg:s0011",
+        "NcITexwM0Fg:s0012"
+      ],
+      "start_s": 43.46,
+      "end_s": 52.085,
+      "text": "But that's a problem. And today we're fixing it. We're going back. Ancient Egypt, Greece, Rome, the Middle Ages, China, the Aztecs.",
+      "n_words": 22,
+      "n_sentences": 4,
+      "pos_pct": 0.034740207833733015
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0005",
+      "video_id": "NcITexwM0Fg",
+      "idx": 5,
+      "sent_ids": [
+        "NcITexwM0Fg:s0013"
+      ],
+      "start_s": 52.586,
+      "end_s": 53.766,
+      "text": "We're going everywhere.",
+      "n_words": 3,
+      "n_sentences": 1,
+      "pos_pct": 0.04203517186250999
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0006",
+      "video_id": "NcITexwM0Fg",
+      "idx": 6,
+      "sent_ids": [
+        "NcITexwM0Fg:s0014"
+      ],
+      "start_s": 54.307,
+      "end_s": 67.235,
+      "text": "And we're going to find out exactly what women did, what they used, what they believed, and honestly, some of the absolutely unhinged things men said about menstruation throughout history that will make you want to throw your phone across the room.",
+      "n_words": 42,
+      "n_sentences": 1,
+      "pos_pct": 0.043410871302957635
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0007",
+      "video_id": "NcITexwM0Fg",
+      "idx": 7,
+      "sent_ids": [
+        "NcITexwM0Fg:s0015",
+        "NcITexwM0Fg:s0016",
+        "NcITexwM0Fg:s0017",
+        "NcITexwM0Fg:s0018"
+      ],
+      "start_s": 67.775,
+      "end_s": 72.198,
+      "text": "This is the video nobody made. Until now. Let's go. The question.",
+      "n_words": 12,
+      "n_sentences": 4,
+      "pos_pct": 0.054176658673061553
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0008",
+      "video_id": "NcITexwM0Fg",
+      "idx": 8,
+      "sent_ids": [
+        "NcITexwM0Fg:s0019",
+        "NcITexwM0Fg:s0020",
+        "NcITexwM0Fg:s0021",
+        "NcITexwM0Fg:s0022"
+      ],
+      "start_s": 72.478,
+      "end_s": 80.562,
+      "text": "Nobody asked for 10,000 years. First, let's get something straight. Menstruation is not a modern discovery. Shocker, I know.",
+      "n_words": 19,
+      "n_sentences": 4,
+      "pos_pct": 0.057936051159072736
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0009",
+      "video_id": "NcITexwM0Fg",
+      "idx": 9,
+      "sent_ids": [
+        "NcITexwM0Fg:s0023"
+      ],
+      "start_s": 81.303,
+      "end_s": 88.827,
+      "text": "But you'd be surprised how many ancient cultures treated it like some kind of supernatural event rather than, you know, basic biology.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.06499040767386091
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0010",
+      "video_id": "NcITexwM0Fg",
+      "idx": 10,
+      "sent_ids": [
+        "NcITexwM0Fg:s0024"
+      ],
+      "start_s": 89.167,
+      "end_s": 100.153,
+      "text": "And that misunderstanding, that confusion, that mixture of fear, reverence, and absolute nonsense, it shaped how women were treated across civilizations for millennia.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.07127657873701039
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0011",
+      "video_id": "NcITexwM0Fg",
+      "idx": 11,
+      "sent_ids": [
+        "NcITexwM0Fg:s0025",
+        "NcITexwM0Fg:s0026"
+      ],
+      "start_s": 100.453,
+      "end_s": 113.577,
+      "text": "So before we get into the practical solutions, the actual pads, the herbs, the rituals, we need to understand the cultural backdrop. Because the tools women used weren't just about hygiene, they were about survival.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.08029816147082335
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0012",
+      "video_id": "NcITexwM0Fg",
+      "idx": 12,
+      "sent_ids": [
+        "NcITexwM0Fg:s0027",
+        "NcITexwM0Fg:s0028",
+        "NcITexwM0Fg:s0029"
+      ],
+      "start_s": 114.297,
+      "end_s": 125.101,
+      "text": "Social survival. In many cases, literal survival. In most ancient societies, menstruation was seen as either deeply sacred or deeply dangerous, sometimes both at the same time.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.09136450839328537
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0013",
+      "video_id": "NcITexwM0Fg",
+      "idx": 13,
+      "sent_ids": [
+        "NcITexwM0Fg:s0030",
+        "NcITexwM0Fg:s0031"
+      ],
+      "start_s": 125.501,
+      "end_s": 134.584,
+      "text": "And the way a society answered that question—sacred or dangerous—determined everything about how menstruating women were allowed to live. No pressure, ladies.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.10032054356514788
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0014",
+      "video_id": "NcITexwM0Fg",
+      "idx": 14,
+      "sent_ids": [
+        "NcITexwM0Fg:s0032"
+      ],
+      "start_s": 134.864,
+      "end_s": 141.608,
+      "text": "Let's start in ancient Egypt, because Egypt, as usual, is doing the most while everyone else is figuring things out.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.10780495603517187
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0015",
+      "video_id": "NcITexwM0Fg",
+      "idx": 15,
+      "sent_ids": [
+        "NcITexwM0Fg:s0033"
+      ],
+      "start_s": 142.088,
+      "end_s": 148.691,
+      "text": "The Egyptians are one of the first civilizations we have actual written records from, and some of those records touch on menstruation.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.11357953637090328
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0016",
+      "video_id": "NcITexwM0Fg",
+      "idx": 16,
+      "sent_ids": [
+        "NcITexwM0Fg:s0034",
+        "NcITexwM0Fg:s0035",
+        "NcITexwM0Fg:s0036"
+      ],
+      "start_s": 148.891,
+      "end_s": 163.358,
+      "text": "The Ebers Papyrus, one of the oldest medical documents ever found, dating back to around 1550 BCE, contains references to gynecological conditions and treatments. The Egyptians weren't ignoring this. They were documenting it.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.11901758593125498
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0017",
+      "video_id": "NcITexwM0Fg",
+      "idx": 17,
+      "sent_ids": [
+        "NcITexwM0Fg:s0037",
+        "NcITexwM0Fg:s0038",
+        "NcITexwM0Fg:s0039",
+        "NcITexwM0Fg:s0040"
+      ],
+      "start_s": 163.718,
+      "end_s": 178.622,
+      "text": "Now, what did they actually use? The leading theory, supported by historians and archaeologists, is that Egyptian women used softened papyrus as a kind of primitive pad. And honestly, that tracks. Papyrus was everywhere.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.1308697042366107
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0018",
+      "video_id": "NcITexwM0Fg",
+      "idx": 18,
+      "sent_ids": [
+        "NcITexwM0Fg:s0041",
+        "NcITexwM0Fg:s0042",
+        "NcITexwM0Fg:s0043"
+      ],
+      "start_s": 178.983,
+      "end_s": 186.925,
+      "text": "It was cheap. It was relatively soft when processed. It was the ancient world's version of having literally everything in your kitchen cabinet.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.14307194244604318
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0019",
+      "video_id": "NcITexwM0Fg",
+      "idx": 19,
+      "sent_ids": [
+        "NcITexwM0Fg:s0044",
+        "NcITexwM0Fg:s0045",
+        "NcITexwM0Fg:s0046",
+        "NcITexwM0Fg:s0047"
+      ],
+      "start_s": 187.405,
+      "end_s": 200.889,
+      "text": "Some researchers also believe Egyptian women may have used rolls of soft linen, the same material they used for everything from clothing to mummies. Linen was absorbent, reusable, and washable. Practical. Efficient.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.14980415667466027
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0020",
+      "video_id": "NcITexwM0Fg",
+      "idx": 20,
+      "sent_ids": [
+        "NcITexwM0Fg:s0048",
+        "NcITexwM0Fg:s0049",
+        "NcITexwM0Fg:s0050"
+      ],
+      "start_s": 201.39,
+      "end_s": 212.649,
+      "text": "Very on-brand for a civilization that invented calendars, architecture, and dental fillings. But here's the cultural piece. In ancient Egypt, menstruation wasn't considered shameful.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.1609832134292566
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0021",
+      "video_id": "NcITexwM0Fg",
+      "idx": 21,
+      "sent_ids": [
+        "NcITexwM0Fg:s0051"
+      ],
+      "start_s": 213.009,
+      "end_s": 216.75,
+      "text": "It was connected to fertility, to Isis, to the cycles of the Nile.",
+      "n_words": 13,
+      "n_sentences": 1,
+      "pos_pct": 0.17027098321342923
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0022",
+      "video_id": "NcITexwM0Fg",
+      "idx": 22,
+      "sent_ids": [
+        "NcITexwM0Fg:s0052",
+        "NcITexwM0Fg:s0053",
+        "NcITexwM0Fg:s0054",
+        "NcITexwM0Fg:s0055"
+      ],
+      "start_s": 217.111,
+      "end_s": 231.095,
+      "text": "The flooding of the Nile, which was literally the source of Egyptian civilization, operated on a cycle not entirely unlike the female body. Coincidence? The Egyptians didn't think so. Women weren't locked away.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.17354996003197443
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0023",
+      "video_id": "NcITexwM0Fg",
+      "idx": 23,
+      "sent_ids": [
+        "NcITexwM0Fg:s0056",
+        "NcITexwM0Fg:s0057",
+        "NcITexwM0Fg:s0058"
+      ],
+      "start_s": 231.716,
+      "end_s": 244.11,
+      "text": "They weren't considered dangerous. They were allowed to continue living their lives with minimal disruption. Compare that to what comes next, and you'll understand why Egypt is genuinely the hero of this story.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.185224620303757
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0024",
+      "video_id": "NcITexwM0Fg",
+      "idx": 24,
+      "sent_ids": [
+        "NcITexwM0Fg:s0059",
+        "NcITexwM0Fg:s0060"
+      ],
+      "start_s": 244.49,
+      "end_s": 257.42,
+      "text": "Ancient Greece, birthplace of democracy, philosophy, mathematics, and also some of the most spectacularly wrong ideas about the human body ever committed to papyrus. Let's talk about Aristotle for a second.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.19543565147881695
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0025",
+      "video_id": "NcITexwM0Fg",
+      "idx": 25,
+      "sent_ids": [
+        "NcITexwM0Fg:s0061",
+        "NcITexwM0Fg:s0062"
+      ],
+      "start_s": 258.0,
+      "end_s": 269.975,
+      "text": "Because Aristotle, one of the most celebrated minds in Western history, wrote about menstruation at length, and his conclusions were something else. Aristotle believed that menstrual blood was essentially failed semen.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.20623501199040767
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0026",
+      "video_id": "NcITexwM0Fg",
+      "idx": 26,
+      "sent_ids": [
+        "NcITexwM0Fg:s0063"
+      ],
+      "start_s": 270.336,
+      "end_s": 285.348,
+      "text": "His theory, and this is a real theory that real people believed for centuries, was that women's bodies tried to produce semen just like men did, but because women were inherently colder and weaker, the process failed, and the result was menstrual blood instead.",
+      "n_words": 44,
+      "n_sentences": 1,
+      "pos_pct": 0.2160959232613909
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0027",
+      "video_id": "NcITexwM0Fg",
+      "idx": 27,
+      "sent_ids": [
+        "NcITexwM0Fg:s0064",
+        "NcITexwM0Fg:s0065"
+      ],
+      "start_s": 285.748,
+      "end_s": 294.014,
+      "text": "Let that sink in, this was not a fringe idea. This was the mainstream scientific consensus in the ancient Greek world and beyond.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.22841566746602718
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0028",
+      "video_id": "NcITexwM0Fg",
+      "idx": 28,
+      "sent_ids": [
+        "NcITexwM0Fg:s0066",
+        "NcITexwM0Fg:s0067",
+        "NcITexwM0Fg:s0068"
+      ],
+      "start_s": 294.254,
+      "end_s": 306.181,
+      "text": "And because of this framework, menstruation was seen as evidence of female biological inferiority. Helpful. But setting aside what men were writing in their philosophy scrolls, what were women actually doing?",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.23521502797761792
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0029",
+      "video_id": "NcITexwM0Fg",
+      "idx": 29,
+      "sent_ids": [
+        "NcITexwM0Fg:s0069",
+        "NcITexwM0Fg:s0070"
+      ],
+      "start_s": 306.621,
+      "end_s": 316.166,
+      "text": "Greek women most likely used wool. Soft, absorbent, and widely available in a civilization built partly around sheep farming, wool was the material of choice.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.2451007194244604
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0030",
+      "video_id": "NcITexwM0Fg",
+      "idx": 30,
+      "sent_ids": [
+        "NcITexwM0Fg:s0071"
+      ],
+      "start_s": 316.426,
+      "end_s": 323.07,
+      "text": "Historians believe women would fashion small wool pads or plugs, essentially the earliest tampons, to manage their flow.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.2529384492406075
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0031",
+      "video_id": "NcITexwM0Fg",
+      "idx": 31,
+      "sent_ids": [
+        "NcITexwM0Fg:s0072",
+        "NcITexwM0Fg:s0073"
+      ],
+      "start_s": 324.07,
+      "end_s": 336.632,
+      "text": "The word tampon itself has contested origins, but the concept of inserting soft material to absorb internal flow is ancient. Greek medical texts reference women using lint and wool in exactly this way.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.25904876099120705
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0032",
+      "video_id": "NcITexwM0Fg",
+      "idx": 32,
+      "sent_ids": [
+        "NcITexwM0Fg:s0074",
+        "NcITexwM0Fg:s0075",
+        "NcITexwM0Fg:s0076"
+      ],
+      "start_s": 337.233,
+      "end_s": 349.175,
+      "text": "There's also evidence of belts and loincloths, fabric worn tightly around the hips that could hold absorbent material in place. Not glamorous, but functional. What's fascinating is the contrast.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.26957074340527576
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0033",
+      "video_id": "NcITexwM0Fg",
+      "idx": 33,
+      "sent_ids": [
+        "NcITexwM0Fg:s0077",
+        "NcITexwM0Fg:s0078",
+        "NcITexwM0Fg:s0079"
+      ],
+      "start_s": 349.875,
+      "end_s": 363.326,
+      "text": "On one hand, you have Greek physicians writing detailed gynecological texts. Hippocrates himself wrote about menstruation as a normal bodily function connected to overall health. Missed periods were considered a medical problem, not a blessing.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.27967625899280574
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0034",
+      "video_id": "NcITexwM0Fg",
+      "idx": 34,
+      "sent_ids": [
+        "NcITexwM0Fg:s0080",
+        "NcITexwM0Fg:s0081",
+        "NcITexwM0Fg:s0082"
+      ],
+      "start_s": 364.007,
+      "end_s": 375.336,
+      "text": "On the other hand, you have Aristotle confidently explaining that women are basically broken men. It's a very Greek contradiction, brilliant and completely unhinged simultaneously. Rome.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.2909728217426059
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0035",
+      "video_id": "NcITexwM0Fg",
+      "idx": 35,
+      "sent_ids": [
+        "NcITexwM0Fg:s0083"
+      ],
+      "start_s": 375.836,
+      "end_s": 381.559,
+      "text": "the civilization that gave us aqueducts, concrete, legal systems, and also Pliny the Elder.",
+      "n_words": 14,
+      "n_sentences": 1,
+      "pos_pct": 0.30042845723421263
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0036",
+      "video_id": "NcITexwM0Fg",
+      "idx": 36,
+      "sent_ids": [
+        "NcITexwM0Fg:s0084"
+      ],
+      "start_s": 381.799,
+      "end_s": 389.664,
+      "text": "Pliny the Elder is kind of the ancient world's version of that one guy at a dinner party who has a very confident take on everything and is wrong about most of it.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.3051950439648281
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0037",
+      "video_id": "NcITexwM0Fg",
+      "idx": 37,
+      "sent_ids": [
+        "NcITexwM0Fg:s0085"
+      ],
+      "start_s": 389.964,
+      "end_s": 398.629,
+      "text": "He wrote a 37-volume encyclopedia called Natural History, and his section on menstruation is truly a masterpiece of confident ignorance.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.31172182254196645
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0038",
+      "video_id": "NcITexwM0Fg",
+      "idx": 38,
+      "sent_ids": [
+        "NcITexwM0Fg:s0086"
+      ],
+      "start_s": 398.869,
+      "end_s": 415.782,
+      "text": "According to Pliny, menstrual blood could kill crops if a woman walked through a field, Blunt swords if she touched them, turn wine to vinegar, kill bees, make dogs go mad, cause iron to rust and bronze to blacken, repel hailstorms, repel whirlwinds.",
+      "n_words": 43,
+      "n_sentences": 1,
+      "pos_pct": 0.3188401278976819
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0039",
+      "video_id": "NcITexwM0Fg",
+      "idx": 39,
+      "sent_ids": [
+        "NcITexwM0Fg:s0087",
+        "NcITexwM0Fg:s0088",
+        "NcITexwM0Fg:s0089"
+      ],
+      "start_s": 416.043,
+      "end_s": 425.471,
+      "text": "That last one is almost impressive. Ancient Rome essentially believed women on their periods were walking environmental hazards. You wouldn't want to bring one to a garden party.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.332568345323741
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0040",
+      "video_id": "NcITexwM0Fg",
+      "idx": 40,
+      "sent_ids": [
+        "NcITexwM0Fg:s0090",
+        "NcITexwM0Fg:s0091",
+        "NcITexwM0Fg:s0092",
+        "NcITexwM0Fg:s0093"
+      ],
+      "start_s": 425.671,
+      "end_s": 434.996,
+      "text": "Now, obviously regular Roman women did not believe they were personally responsible for agricultural disasters. Life went on. Markets were visited. Temples were attended.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.34026458832933654
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0041",
+      "video_id": "NcITexwM0Fg",
+      "idx": 41,
+      "sent_ids": [
+        "NcITexwM0Fg:s0094",
+        "NcITexwM0Fg:s0095",
+        "NcITexwM0Fg:s0096"
+      ],
+      "start_s": 435.196,
+      "end_s": 446.822,
+      "text": "Children were raised. Roman women almost certainly used soft cloth, wool, or sponges. The sea sponge, in particular, is frequently referenced in ancient texts as a medical and hygienic tool.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.34787849720223823
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0042",
+      "video_id": "NcITexwM0Fg",
+      "idx": 42,
+      "sent_ids": [
+        "NcITexwM0Fg:s0097",
+        "NcITexwM0Fg:s0098"
+      ],
+      "start_s": 447.762,
+      "end_s": 457.885,
+      "text": "The Mediterranean world had easy access to natural sea sponges, and these would have been an obvious choice. Absorbent, naturally soft, reusable after washing.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.3579232613908873
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0043",
+      "video_id": "NcITexwM0Fg",
+      "idx": 43,
+      "sent_ids": [
+        "NcITexwM0Fg:s0099"
+      ],
+      "start_s": 458.565,
+      "end_s": 469.85,
+      "text": "There's a fascinating historical debate about a passage from the Roman poet Ausonius, who mentions a slave woman using a sponge, in a context that some historians interpret as related to menstrual hygiene.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.36655875299760193
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0044",
+      "video_id": "NcITexwM0Fg",
+      "idx": 44,
+      "sent_ids": [
+        "NcITexwM0Fg:s0100",
+        "NcITexwM0Fg:s0101",
+        "NcITexwM0Fg:s0102"
+      ],
+      "start_s": 470.41,
+      "end_s": 489.602,
+      "text": "It's the kind of indirect clue that historians love to argue about endlessly, which means it's absolutely real. What's telling about Rome is the class dimension. Wealthy",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.3760271782573941
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0045",
+      "video_id": "NcITexwM0Fg",
+      "idx": 45,
+      "sent_ids": [
+        "NcITexwM0Fg:s0103"
+      ],
+      "start_s": 481.337,
+      "end_s": 489.602,
+      "text": "Roman women had access to fine linen, soft wool, and presumably household slaves who handled washing and preparation of these materials.",
+      "n_words": 21,
+      "n_sentences": 1,
+      "pos_pct": 0.38476179056754595
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0046",
+      "video_id": "NcITexwM0Fg",
+      "idx": 46,
+      "sent_ids": [
+        "NcITexwM0Fg:s0104",
+        "NcITexwM0Fg:s0105"
+      ],
+      "start_s": 490.242,
+      "end_s": 498.965,
+      "text": "For poor women, and most women were poor, it would have been rougher cloth, rags, whatever was available. This disparity, by the way, is not unique to Rome.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.3918800959232614
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0047",
+      "video_id": "NcITexwM0Fg",
+      "idx": 47,
+      "sent_ids": [
+        "NcITexwM0Fg:s0106",
+        "NcITexwM0Fg:s0107"
+      ],
+      "start_s": 499.505,
+      "end_s": 507.908,
+      "text": "It runs through every civilization we're going to look at. The gap between what wealthy women could access and what ordinary women could manage is ancient and consistent.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.3992845723421263
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0048",
+      "video_id": "NcITexwM0Fg",
+      "idx": 48,
+      "sent_ids": [
+        "NcITexwM0Fg:s0108",
+        "NcITexwM0Fg:s0109",
+        "NcITexwM0Fg:s0110"
+      ],
+      "start_s": 508.308,
+      "end_s": 521.573,
+      "text": "Before we move forward in history, we need to stop and talk about something that shaped menstrual practices more than any material invention. taboo. Across a staggering number of ancient cultures, menstruation triggered ritual restrictions.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.40632134292565947
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0049",
+      "video_id": "NcITexwM0Fg",
+      "idx": 49,
+      "sent_ids": [
+        "NcITexwM0Fg:s0111",
+        "NcITexwM0Fg:s0112",
+        "NcITexwM0Fg:s0113"
+      ],
+      "start_s": 521.793,
+      "end_s": 536.641,
+      "text": "And these restrictions weren't minor inconveniences. They fundamentally altered how women could participate in society during their cycles. In ancient Jewish law, specifically Leviticus, a menstruating woman was considered ritually impure, or nidda.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.4171007194244604
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0050",
+      "video_id": "NcITexwM0Fg",
+      "idx": 50,
+      "sent_ids": [
+        "NcITexwM0Fg:s0114"
+      ],
+      "start_s": 536.981,
+      "end_s": 547.025,
+      "text": "She could not be touched by others, could not touch certain objects, and had to undergo ritual purification through immersion in a mikveh bath before resuming normal life.",
+      "n_words": 28,
+      "n_sentences": 1,
+      "pos_pct": 0.4292414068745004
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0051",
+      "video_id": "NcITexwM0Fg",
+      "idx": 51,
+      "sent_ids": [
+        "NcITexwM0Fg:s0115",
+        "NcITexwM0Fg:s0116",
+        "NcITexwM0Fg:s0117"
+      ],
+      "start_s": 547.425,
+      "end_s": 557.447,
+      "text": "These rules weren't about hygiene in the modern sense. They were about ritual purity, a completely separate category. Similar restrictions appear in ancient Hindu texts.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.4375899280575539
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0052",
+      "video_id": "NcITexwM0Fg",
+      "idx": 52,
+      "sent_ids": [
+        "NcITexwM0Fg:s0118",
+        "NcITexwM0Fg:s0119"
+      ],
+      "start_s": 558.108,
+      "end_s": 568.03,
+      "text": "The laws of Manu specify that a man who has sex with a menstruating woman will lose his wisdom, energy, strength, sight, and long life. Solid deterrent.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.44612949640287763
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0053",
+      "video_id": "NcITexwM0Fg",
+      "idx": 53,
+      "sent_ids": [
+        "NcITexwM0Fg:s0120",
+        "NcITexwM0Fg:s0121"
+      ],
+      "start_s": 568.83,
+      "end_s": 578.432,
+      "text": "Menstruating women in certain Hindu traditions were restricted from cooking, entering temples, or touching men. ancient Zoroastrian texts take it even further.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.4547002398081535
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0054",
+      "video_id": "NcITexwM0Fg",
+      "idx": 54,
+      "sent_ids": [
+        "NcITexwM0Fg:s0122"
+      ],
+      "start_s": 578.912,
+      "end_s": 590.515,
+      "text": "Menstruating women were to be kept isolated in a special area, given limited food, and denied contact with fire, water, and the earth itself—the sacred elements of Zoroastrian belief.",
+      "n_words": 29,
+      "n_sentences": 1,
+      "pos_pct": 0.4627593924860112
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0055",
+      "video_id": "NcITexwM0Fg",
+      "idx": 55,
+      "sent_ids": [
+        "NcITexwM0Fg:s0123",
+        "NcITexwM0Fg:s0124",
+        "NcITexwM0Fg:s0125",
+        "NcITexwM0Fg:s0126"
+      ],
+      "start_s": 590.996,
+      "end_s": 604.82,
+      "text": "In many indigenous cultures across the Americas, Africa, and Asia, menstruating women would temporarily live in dedicated moon lodges. or separate huts. The framing varied. In some traditions, this was about danger and impurity.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.4724188649080735
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0056",
+      "video_id": "NcITexwM0Fg",
+      "idx": 56,
+      "sent_ids": [
+        "NcITexwM0Fg:s0127",
+        "NcITexwM0Fg:s0128",
+        "NcITexwM0Fg:s0129"
+      ],
+      "start_s": 605.34,
+      "end_s": 613.903,
+      "text": "In others, it was about the woman's heightened spiritual power during this time. She wasn't being punished. She was being set apart, for better or worse.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.48388489208633095
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0057",
+      "video_id": "NcITexwM0Fg",
+      "idx": 57,
+      "sent_ids": [
+        "NcITexwM0Fg:s0130",
+        "NcITexwM0Fg:s0131"
+      ],
+      "start_s": 614.403,
+      "end_s": 622.825,
+      "text": "The practical consequence of all of this is that women had to manage their periods under these restrictions. Being isolated in a moon lodge didn't mean you had access to better materials.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.49112949640287773
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0058",
+      "video_id": "NcITexwM0Fg",
+      "idx": 58,
+      "sent_ids": [
+        "NcITexwM0Fg:s0132",
+        "NcITexwM0Fg:s0133",
+        "NcITexwM0Fg:s0134"
+      ],
+      "start_s": 623.345,
+      "end_s": 637.491,
+      "text": "It meant you had whatever you brought with you, plus whatever the community's tradition provided. And tradition, more often than not, meant cloth, rags, soft leaves, whatever worked. Let's jump forward to medieval Europe.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.498277378097522
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0059",
+      "video_id": "NcITexwM0Fg",
+      "idx": 59,
+      "sent_ids": [
+        "NcITexwM0Fg:s0135"
+      ],
+      "start_s": 638.031,
+      "end_s": 645.675,
+      "text": "And look, the Middle Ages get a bad reputation for being unhygienic across the board, and that reputation is not entirely undeserved.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.5100167865707433
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0060",
+      "video_id": "NcITexwM0Fg",
+      "idx": 60,
+      "sent_ids": [
+        "NcITexwM0Fg:s0136",
+        "NcITexwM0Fg:s0137"
+      ],
+      "start_s": 646.015,
+      "end_s": 659.883,
+      "text": "For most medieval European women—peasants, townswomen, anyone who wasn't living in a wealthy household—free bleeding was the most likely reality. Thick wool skirts, layered undergarments, and dark-colored fabrics would have absorbed and concealed flow.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.5163988808952837
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0061",
+      "video_id": "NcITexwM0Fg",
+      "idx": 61,
+      "sent_ids": [
+        "NcITexwM0Fg:s0138",
+        "NcITexwM0Fg:s0139",
+        "NcITexwM0Fg:s0140"
+      ],
+      "start_s": 660.323,
+      "end_s": 668.548,
+      "text": "Women did physical labor constantly. They kept moving. The idea of stopping daily activities for menstruation would have been an unaffordable luxury.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.5278361310951238
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0062",
+      "video_id": "NcITexwM0Fg",
+      "idx": 62,
+      "sent_ids": [
+        "NcITexwM0Fg:s0141",
+        "NcITexwM0Fg:s0142"
+      ],
+      "start_s": 669.008,
+      "end_s": 677.83,
+      "text": "Wealthier women used rags, pieces of soft linen or wool, folded and held in place by a belt or girdle. These were washed and reused.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.5347785771382894
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0063",
+      "video_id": "NcITexwM0Fg",
+      "idx": 63,
+      "sent_ids": [
+        "NcITexwM0Fg:s0143",
+        "NcITexwM0Fg:s0144"
+      ],
+      "start_s": 678.35,
+      "end_s": 687.613,
+      "text": "The practical mechanics here aren't much different from what women in many parts of the world still use today. What's fascinating about the medieval period is the medical framework.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.54224620303757
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0064",
+      "video_id": "NcITexwM0Fg",
+      "idx": 64,
+      "sent_ids": [
+        "NcITexwM0Fg:s0145",
+        "NcITexwM0Fg:s0146"
+      ],
+      "start_s": 688.353,
+      "end_s": 701.704,
+      "text": "Galenic medicine, inherited from ancient Greece and Rome, distorted and reinforced through the church, still dominated European thinking. Menstruation was explained as the body purging excess blood, a kind of natural cleansing.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.550242206235012
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0065",
+      "video_id": "NcITexwM0Fg",
+      "idx": 65,
+      "sent_ids": [
+        "NcITexwM0Fg:s0147",
+        "NcITexwM0Fg:s0148",
+        "NcITexwM0Fg:s0149"
+      ],
+      "start_s": 702.385,
+      "end_s": 712.533,
+      "text": "Stopping this process was seen as medically dangerous. Too much blood would build up, causing illness. So, paradoxically, medieval physicians actually encouraged menstruation.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.5614588329336531
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0066",
+      "video_id": "NcITexwM0Fg",
+      "idx": 66,
+      "sent_ids": [
+        "NcITexwM0Fg:s0150",
+        "NcITexwM0Fg:s0151"
+      ],
+      "start_s": 713.073,
+      "end_s": 726.742,
+      "text": "If a woman's period was late or absent, doctors would prescribe herbs, fumigations, and exercises to bring it on. There was an entire category of herbal medicine called emmenagogues—substances that stimulate menstrual flow.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.5700023980815347
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0067",
+      "video_id": "NcITexwM0Fg",
+      "idx": 67,
+      "sent_ids": [
+        "NcITexwM0Fg:s0152",
+        "NcITexwM0Fg:s0153",
+        "NcITexwM0Fg:s0154"
+      ],
+      "start_s": 727.102,
+      "end_s": 735.087,
+      "text": "Parsley, pennyroyal, artemisia, tansy—medieval herbalists knew their stuff. Did these herbs work? Some of them, yes.",
+      "n_words": 16,
+      "n_sentences": 3,
+      "pos_pct": 0.581216626698641
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0068",
+      "video_id": "NcITexwM0Fg",
+      "idx": 68,
+      "sent_ids": [
+        "NcITexwM0Fg:s0155"
+      ],
+      "start_s": 735.827,
+      "end_s": 745.211,
+      "text": "Several plants used as emmenagogues contain compounds we now know can stimulate uterine contractions, which also meant they were used in controlled doses for other purposes.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.5881910471622702
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0069",
+      "video_id": "NcITexwM0Fg",
+      "idx": 69,
+      "sent_ids": [
+        "NcITexwM0Fg:s0156",
+        "NcITexwM0Fg:s0157"
+      ],
+      "start_s": 745.592,
+      "end_s": 759.018,
+      "text": "The intersection between herbal medicine, contraception, and menstrual management in the ancient and medieval world is a genuinely mind-blowing area of history. and conveniently, a perfect segue to our next civilization.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.5959968025579536
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0070",
+      "video_id": "NcITexwM0Fg",
+      "idx": 70,
+      "sent_ids": [
+        "NcITexwM0Fg:s0158"
+      ],
+      "start_s": 759.378,
+      "end_s": 765.761,
+      "text": "Traditional Chinese medicine had an extraordinary relationship with the female body, and menstruation specifically.",
+      "n_words": 14,
+      "n_sentences": 1,
+      "pos_pct": 0.6070167865707434
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0071",
+      "video_id": "NcITexwM0Fg",
+      "idx": 71,
+      "sent_ids": [
+        "NcITexwM0Fg:s0159"
+      ],
+      "start_s": 766.341,
+      "end_s": 777.966,
+      "text": "Unlike Greek or Roman medicine, which often viewed women as inferior, broken men, traditional Chinese medicine treated the female body as a complete system, different from the male body, but not lesser.",
+      "n_words": 32,
+      "n_sentences": 1,
+      "pos_pct": 0.6125827338129497
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0072",
+      "video_id": "NcITexwM0Fg",
+      "idx": 72,
+      "sent_ids": [
+        "NcITexwM0Fg:s0160",
+        "NcITexwM0Fg:s0161"
+      ],
+      "start_s": 778.287,
+      "end_s": 789.716,
+      "text": "Menstruation was a key indicator of overall health. The timing, color, consistency, and volume of menstrual blood were all diagnostic tools for ancient Chinese physicians.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.6221318944844125
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0073",
+      "video_id": "NcITexwM0Fg",
+      "idx": 73,
+      "sent_ids": [
+        "NcITexwM0Fg:s0162"
+      ],
+      "start_s": 790.136,
+      "end_s": 800.928,
+      "text": "Chinese medical texts going back to the Han Dynasty, that's roughly 200 BCE to 200 CE, contained detailed discussions of menstrual irregularity and its causes.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.631603517186251
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0074",
+      "video_id": "NcITexwM0Fg",
+      "idx": 74,
+      "sent_ids": [
+        "NcITexwM0Fg:s0163"
+      ],
+      "start_s": 801.368,
+      "end_s": 810.479,
+      "text": "Imbalances in Q, blood stagnation, cold in the uterus, these were all understood as potential causes of menstrual problems and there were corresponding treatments for each.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.640581934452438
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0075",
+      "video_id": "NcITexwM0Fg",
+      "idx": 75,
+      "sent_ids": [
+        "NcITexwM0Fg:s0164",
+        "NcITexwM0Fg:s0165",
+        "NcITexwM0Fg:s0166"
+      ],
+      "start_s": 810.979,
+      "end_s": 821.99,
+      "text": "Practically, Chinese women used soft cloth pads, often made from silk or cotton depending. On their social class, silk obviously was reserved for the wealthy. Cotton was more widely available.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.6482645883293365
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0076",
+      "video_id": "NcITexwM0Fg",
+      "idx": 76,
+      "sent_ids": [
+        "NcITexwM0Fg:s0167"
+      ],
+      "start_s": 822.51,
+      "end_s": 829.256,
+      "text": "The pads were held in place by woven belts tied around the waist, a design not entirely unlike a modern reusable pad holder.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.6574820143884892
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0077",
+      "video_id": "NcITexwM0Fg",
+      "idx": 77,
+      "sent_ids": [
+        "NcITexwM0Fg:s0168",
+        "NcITexwM0Fg:s0169"
+      ],
+      "start_s": 829.716,
+      "end_s": 844.407,
+      "text": "There's also evidence from the Tang Dynasty, around 600-900 CE, of more sophisticated undergarment designs that included integrated fabric pouches for holding absorbent material. These are, functionally, the ancestors of modern reusable pads.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.663242206235012
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0078",
+      "video_id": "NcITexwM0Fg",
+      "idx": 78,
+      "sent_ids": [
+        "NcITexwM0Fg:s0170",
+        "NcITexwM0Fg:s0171"
+      ],
+      "start_s": 844.928,
+      "end_s": 856.655,
+      "text": "China also had a strong tradition of herbal management. Certain formulas, some of which are still used in traditional Chinese medicine today, were designed specifically to regulate the menstrual cycle, reduce cramping, and manage flow.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.6754020783373301
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0079",
+      "video_id": "NcITexwM0Fg",
+      "idx": 79,
+      "sent_ids": [
+        "NcITexwM0Fg:s0172",
+        "NcITexwM0Fg:s0173",
+        "NcITexwM0Fg:s0174"
+      ],
+      "start_s": 857.116,
+      "end_s": 866.582,
+      "text": "These weren't folksy superstitions. They were documented, refined formulas passed down through medical lineages. Here's where the history gets frustratingly incomplete.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.6851446842525979
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0080",
+      "video_id": "NcITexwM0Fg",
+      "idx": 80,
+      "sent_ids": [
+        "NcITexwM0Fg:s0175",
+        "NcITexwM0Fg:s0176"
+      ],
+      "start_s": 867.022,
+      "end_s": 882.294,
+      "text": "Because the indigenous cultures of the Americas—Aztec, Maya, Inca, and hundreds of smaller nations across North America—had rich, complex medical and social traditions. And our knowledge of how they handled menstruation is fragmentary at best.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.6930631494804157
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0081",
+      "video_id": "NcITexwM0Fg",
+      "idx": 81,
+      "sent_ids": [
+        "NcITexwM0Fg:s0177",
+        "NcITexwM0Fg:s0178",
+        "NcITexwM0Fg:s0179"
+      ],
+      "start_s": 882.694,
+      "end_s": 894.504,
+      "text": "Largely because colonization destroyed so much of the written and oral record. What we know from the Aztec world suggests that menstrual blood held significant ritual power. The Aztecs practiced an intensely cyclical cosmology.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.7055907274180655
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0082",
+      "video_id": "NcITexwM0Fg",
+      "idx": 82,
+      "sent_ids": [
+        "NcITexwM0Fg:s0180",
+        "NcITexwM0Fg:s0181"
+      ],
+      "start_s": 894.864,
+      "end_s": 902.05,
+      "text": "Everything from agriculture to warfare was tied to calendars and cycles. The female cycle was not excluded from this worldview.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.7153189448441247
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0083",
+      "video_id": "NcITexwM0Fg",
+      "idx": 83,
+      "sent_ids": [
+        "NcITexwM0Fg:s0182",
+        "NcITexwM0Fg:s0183",
+        "NcITexwM0Fg:s0184"
+      ],
+      "start_s": 902.45,
+      "end_s": 914.221,
+      "text": "Aztec women appear to have used maguey fibers, the same plant that gives us agave, as absorbent material. Maguey was incredibly versatile in Mesoamerican culture. Food, fiber, medicine, alcohol.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.721382893685052
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0084",
+      "video_id": "NcITexwM0Fg",
+      "idx": 84,
+      "sent_ids": [
+        "NcITexwM0Fg:s0185"
+      ],
+      "start_s": 914.861,
+      "end_s": 917.944,
+      "text": "Using it for menstrual pads would have been entirely consistent.",
+      "n_words": 10,
+      "n_sentences": 1,
+      "pos_pct": 0.7313037569944044
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0085",
+      "video_id": "NcITexwM0Fg",
+      "idx": 85,
+      "sent_ids": [
+        "NcITexwM0Fg:s0186"
+      ],
+      "start_s": 918.345,
+      "end_s": 929.472,
+      "text": "In many North American indigenous traditions, The menstruating woman in her moon lodge had her own specific customs, particular foods she ate, specific herbs she used, rituals she performed.",
+      "n_words": 29,
+      "n_sentences": 1,
+      "pos_pct": 0.7340887290167866
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0086",
+      "video_id": "NcITexwM0Fg",
+      "idx": 86,
+      "sent_ids": [
+        "NcITexwM0Fg:s0187",
+        "NcITexwM0Fg:s0188"
+      ],
+      "start_s": 929.653,
+      "end_s": 938.218,
+      "text": "Far from being a passive victim of isolation, she was in many traditions considered to be at her most spiritually potent. The moon lodge was not a punishment.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.7431278976818545
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0087",
+      "video_id": "NcITexwM0Fg",
+      "idx": 87,
+      "sent_ids": [
+        "NcITexwM0Fg:s0189",
+        "NcITexwM0Fg:s0190"
+      ],
+      "start_s": 938.498,
+      "end_s": 949.486,
+      "text": "In many cultures, it was something closer to a monthly retreat, and women would return from it with renewed status having completed another cycle. Now, here's a fun fact that tends to genuinely surprise people.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7501982414068745
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0088",
+      "video_id": "NcITexwM0Fg",
+      "idx": 88,
+      "sent_ids": [
+        "NcITexwM0Fg:s0191"
+      ],
+      "start_s": 949.926,
+      "end_s": 958.654,
+      "text": "The modern disposable menstrual pad was not invented until the late 19th century, and even then it took decades before most women in the western world had access to it.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.7593333333333334
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0089",
+      "video_id": "NcITexwM0Fg",
+      "idx": 89,
+      "sent_ids": [
+        "NcITexwM0Fg:s0192",
+        "NcITexwM0Fg:s0193",
+        "NcITexwM0Fg:s0194"
+      ],
+      "start_s": 959.074,
+      "end_s": 968.9,
+      "text": "The first commercially produced disposable pads appeared around 1888. a product called Leicester's Towels, produced by Johnson & Johnson. They were not a hit.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.7666458832933652
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0090",
+      "video_id": "NcITexwM0Fg",
+      "idx": 90,
+      "sent_ids": [
+        "NcITexwM0Fg:s0195",
+        "NcITexwM0Fg:s0196"
+      ],
+      "start_s": 969.201,
+      "end_s": 976.264,
+      "text": "Victorian women were far too embarrassed to purchase them from a male pharmacist over the counter. So the product quietly failed.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.7747410071942447
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0091",
+      "video_id": "NcITexwM0Fg",
+      "idx": 91,
+      "sent_ids": [
+        "NcITexwM0Fg:s0197",
+        "NcITexwM0Fg:s0198"
+      ],
+      "start_s": 976.484,
+      "end_s": 988.589,
+      "text": "It wasn't until 1921, when Kotex launched a successful advertising campaign framing menstrual products as a hygiene necessity rather than an embarrassing personal item, that mass adoption began. Let that sink in for a second.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7805627498001599
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0092",
+      "video_id": "NcITexwM0Fg",
+      "idx": 92,
+      "sent_ids": [
+        "NcITexwM0Fg:s0199"
+      ],
+      "start_s": 988.809,
+      "end_s": 1004.754,
+      "text": "For the vast majority of human history, including the entire span of all the civilizations we've discussed, women were managing their periods with cloth, wool, sponges, leaves, plant fibers, and whatever else was available, and doing so effectively enough to live full, active lives.",
+      "n_words": 44,
+      "n_sentences": 1,
+      "pos_pct": 0.7904148681055155
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0093",
+      "video_id": "NcITexwM0Fg",
+      "idx": 93,
+      "sent_ids": [
+        "NcITexwM0Fg:s0200",
+        "NcITexwM0Fg:s0201",
+        "NcITexwM0Fg:s0202"
+      ],
+      "start_s": 1005.035,
+      "end_s": 1014.76,
+      "text": "The modern pad is barely a hundred years old. It's a blink in historical time. Okay, we've gone from Ancient Egypt to Medieval Europe to the Aztecs to Kotex.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.8033852917665867
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0094",
+      "video_id": "NcITexwM0Fg",
+      "idx": 94,
+      "sent_ids": [
+        "NcITexwM0Fg:s0203",
+        "NcITexwM0Fg:s0204"
+      ],
+      "start_s": 1015.161,
+      "end_s": 1021.346,
+      "text": "Let's take a breath and think about what all of this actually means. First, women were never passive victims of their biology.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.8114796163069544
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0095",
+      "video_id": "NcITexwM0Fg",
+      "idx": 95,
+      "sent_ids": [
+        "NcITexwM0Fg:s0205",
+        "NcITexwM0Fg:s0206",
+        "NcITexwM0Fg:s0207"
+      ],
+      "start_s": 1021.666,
+      "end_s": 1032.291,
+      "text": "Across every civilization, women developed practical often sophisticated solutions to a universal physical reality. They used what they had. They refined techniques across generations.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.8166794564348522
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0096",
+      "video_id": "NcITexwM0Fg",
+      "idx": 96,
+      "sent_ids": [
+        "NcITexwM0Fg:s0208",
+        "NcITexwM0Fg:s0209",
+        "NcITexwM0Fg:s0210",
+        "NcITexwM0Fg:s0211"
+      ],
+      "start_s": 1032.491,
+      "end_s": 1044.994,
+      "text": "They shared knowledge through oral tradition, medical texts, and simple community practice. Second, the biggest obstacle was never really material. Wool existed everywhere. Cloth existed everywhere.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.8253325339728217
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0097",
+      "video_id": "NcITexwM0Fg",
+      "idx": 97,
+      "sent_ids": [
+        "NcITexwM0Fg:s0212",
+        "NcITexwM0Fg:s0213",
+        "NcITexwM0Fg:s0214"
+      ],
+      "start_s": 1045.414,
+      "end_s": 1054.616,
+      "text": "Sponges existed around the Mediterranean. The problem was rarely access to materials. The problem was the cultural framework that surrounded menstruation.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.8356626698641088
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0098",
+      "video_id": "NcITexwM0Fg",
+      "idx": 98,
+      "sent_ids": [
+        "NcITexwM0Fg:s0215",
+        "NcITexwM0Fg:s0216"
+      ],
+      "start_s": 1055.116,
+      "end_s": 1070.326,
+      "text": "When a society decided menstruation was dangerous, shameful, or impure, it restricted women's movement, labor, and social participation. When a society decided it was sacred or simply biological, women continued their lives with minimal disruption.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.8434180655475619
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0099",
+      "video_id": "NcITexwM0Fg",
+      "idx": 99,
+      "sent_ids": [
+        "NcITexwM0Fg:s0217",
+        "NcITexwM0Fg:s0218",
+        "NcITexwM0Fg:s0219"
+      ],
+      "start_s": 1070.486,
+      "end_s": 1080.233,
+      "text": "The material solutions were often identical. The cultural consequences were radically different. Third, men wrote most of the historical record, and they wrote it from the outside.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.8557042366107115
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0100",
+      "video_id": "NcITexwM0Fg",
+      "idx": 100,
+      "sent_ids": [
+        "NcITexwM0Fg:s0220",
+        "NcITexwM0Fg:s0221"
+      ],
+      "start_s": 1080.613,
+      "end_s": 1091.796,
+      "text": "Pliny's absurd list of things menstrual blood could supposedly destroy tells us nothing about what Roman women actually experienced. It tells us what Roman men feared and misunderstood.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.8637993605115908
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0101",
+      "video_id": "NcITexwM0Fg",
+      "idx": 101,
+      "sent_ids": [
+        "NcITexwM0Fg:s0222",
+        "NcITexwM0Fg:s0223",
+        "NcITexwM0Fg:s0224"
+      ],
+      "start_s": 1091.996,
+      "end_s": 1104.66,
+      "text": "The actual knowledge, the practical, generational, embodied knowledge of what worked lived in communities of women and was almost never written down. That's a loss. It's a genuine historical loss that we're still piecing together.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.872898481215028
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0102",
+      "video_id": "NcITexwM0Fg",
+      "idx": 102,
+      "sent_ids": [
+        "NcITexwM0Fg:s0225",
+        "NcITexwM0Fg:s0226",
+        "NcITexwM0Fg:s0227",
+        "NcITexwM0Fg:s0228"
+      ],
+      "start_s": 1104.98,
+      "end_s": 1113.249,
+      "text": "One more thing before we close. We've talked about pads and cloth and sponges. We haven't talked about pain. Because dysmenorrhea, menstrual cramping, is real.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.883277378097522
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0103",
+      "video_id": "NcITexwM0Fg",
+      "idx": 103,
+      "sent_ids": [
+        "NcITexwM0Fg:s0229",
+        "NcITexwM0Fg:s0230",
+        "NcITexwM0Fg:s0231",
+        "NcITexwM0Fg:s0232"
+      ],
+      "start_s": 1113.489,
+      "end_s": 1124.781,
+      "text": "It's physiological. And it has always existed. This was not a modern invention. Ancient medical texts across every culture we've discussed contain references to painful menstruation and attempts to treat it.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.8900791366906475
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0104",
+      "video_id": "NcITexwM0Fg",
+      "idx": 104,
+      "sent_ids": [
+        "NcITexwM0Fg:s0233",
+        "NcITexwM0Fg:s0234",
+        "NcITexwM0Fg:s0235",
+        "NcITexwM0Fg:s0236"
+      ],
+      "start_s": 1125.241,
+      "end_s": 1136.772,
+      "text": "The Greeks used warm wine compresses and herbal infusions. Roman physicians prescribed exercise. Chinese medicine had elaborate formulas. Medieval",
+      "n_words": 19,
+      "n_sentences": 4,
+      "pos_pct": 0.8994732214228617
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0105",
+      "video_id": "NcITexwM0Fg",
+      "idx": 105,
+      "sent_ids": [
+        "NcITexwM0Fg:s0237",
+        "NcITexwM0Fg:s0238"
+      ],
+      "start_s": 1134.069,
+      "end_s": 1142.337,
+      "text": "Europeans had their plant-based amenagogues. And, almost universally, the herbs that show up across these traditions have one thing in common.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.9065299760191846
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0106",
+      "video_id": "NcITexwM0Fg",
+      "idx": 106,
+      "sent_ids": [
+        "NcITexwM0Fg:s0239",
+        "NcITexwM0Fg:s0240",
+        "NcITexwM0Fg:s0241"
+      ],
+      "start_s": 1142.957,
+      "end_s": 1154.265,
+      "text": "Many of them work, or at least many of them contain compounds that have measurable physiological effects. chamomile, ginger, cinnamon, fennel. These are not random folklore choices.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.9136346922462031
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0107",
+      "video_id": "NcITexwM0Fg",
+      "idx": 107,
+      "sent_ids": [
+        "NcITexwM0Fg:s0242"
+      ],
+      "start_s": 1154.725,
+      "end_s": 1159.807,
+      "text": "They are accumulated empirical knowledge from generations of women trying things and reporting back.",
+      "n_words": 14,
+      "n_sentences": 1,
+      "pos_pct": 0.9230415667466026
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0108",
+      "video_id": "NcITexwM0Fg",
+      "idx": 108,
+      "sent_ids": [
+        "NcITexwM0Fg:s0243"
+      ],
+      "start_s": 1159.947,
+      "end_s": 1173.833,
+      "text": "The irony is that for all the nonsense men wrote about menstruation, Aristotle's failed semen theory, Pliny's crop-killing superpower, the entire edifice of religious impurity law, the practical medical knowledge was often genuinely sophisticated.",
+      "n_words": 34,
+      "n_sentences": 1,
+      "pos_pct": 0.9272158273381295
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0109",
+      "video_id": "NcITexwM0Fg",
+      "idx": 109,
+      "sent_ids": [
+        "NcITexwM0Fg:s0244",
+        "NcITexwM0Fg:s0245",
+        "NcITexwM0Fg:s0246",
+        "NcITexwM0Fg:s0247"
+      ],
+      "start_s": 1174.133,
+      "end_s": 1184.015,
+      "text": "Women figured it out. because women had to. We have entire museums dedicated to ancient weapons. We reconstruct ancient battle formations in painstaking detail.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.9385555555555556
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0110",
+      "video_id": "NcITexwM0Fg",
+      "idx": 110,
+      "sent_ids": [
+        "NcITexwM0Fg:s0248",
+        "NcITexwM0Fg:s0249",
+        "NcITexwM0Fg:s0250"
+      ],
+      "start_s": 1184.616,
+      "end_s": 1198.438,
+      "text": "We make documentary after documentary about emperors, generals, and kings. But the daily experience of half the population—the practical, intimate, universal reality of menstruation—barely shows up in mainstream history. It's not in the documentaries.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.9469352517985611
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0111",
+      "video_id": "NcITexwM0Fg",
+      "idx": 111,
+      "sent_ids": [
+        "NcITexwM0Fg:s0251",
+        "NcITexwM0Fg:s0252",
+        "NcITexwM0Fg:s0253"
+      ],
+      "start_s": 1198.658,
+      "end_s": 1208.263,
+      "text": "It's not in the school curricula. It's barely in the academic literature until relatively recently. And yet this is one of the most universal human experiences that has ever existed.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.9581598721023181
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0112",
+      "video_id": "NcITexwM0Fg",
+      "idx": 112,
+      "sent_ids": [
+        "NcITexwM0Fg:s0254",
+        "NcITexwM0Fg:s0255",
+        "NcITexwM0Fg:s0256",
+        "NcITexwM0Fg:s0257"
+      ],
+      "start_s": 1208.964,
+      "end_s": 1218.072,
+      "text": "Every generation of women in every civilization on every continent dealt with this. They found solutions. They developed knowledge. They passed it down.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.9663980815347721
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0113",
+      "video_id": "NcITexwM0Fg",
+      "idx": 113,
+      "sent_ids": [
+        "NcITexwM0Fg:s0258",
+        "NcITexwM0Fg:s0259"
+      ],
+      "start_s": 1218.452,
+      "end_s": 1221.875,
+      "text": "That's history. That's actually fascinating history.",
+      "n_words": 6,
+      "n_sentences": 2,
+      "pos_pct": 0.973982414068745
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0114",
+      "video_id": "NcITexwM0Fg",
+      "idx": 114,
+      "sent_ids": [
+        "NcITexwM0Fg:s0260"
+      ],
+      "start_s": 1222.576,
+      "end_s": 1232.632,
+      "text": "The fact that we had to title this video with a slightly provocative question just to get you to click on it says a lot about how we've trained ourselves to look at the past, and what we've decided is worth paying attention to.",
+      "n_words": 44,
+      "n_sentences": 1,
+      "pos_pct": 0.9772789768185451
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0115",
+      "video_id": "NcITexwM0Fg",
+      "idx": 115,
+      "sent_ids": [
+        "NcITexwM0Fg:s0261",
+        "NcITexwM0Fg:s0262",
+        "NcITexwM0Fg:s0263"
+      ],
+      "start_s": 1233.153,
+      "end_s": 1244.231,
+      "text": "So next time someone acts like talking about menstruation is somehow taboo or inappropriate, you can remind them, Cleopatra dealt with this. Roman women dealt with this. Medieval peasants dealt with this.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.9857338129496404
+    },
+    {
+      "window_id": "NcITexwM0Fg:j0116",
+      "video_id": "NcITexwM0Fg",
+      "idx": 116,
+      "sent_ids": [
+        "NcITexwM0Fg:s0264",
+        "NcITexwM0Fg:s0265"
+      ],
+      "start_s": 1244.692,
+      "end_s": 1249.96,
+      "text": "Aztec priestesses dealt with this. It's literally ancient history, and it's about time we started treating it that way.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.9949576338928857
+    }
+  ]
+}

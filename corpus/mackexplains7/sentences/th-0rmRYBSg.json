@@ -1,0 +1,2401 @@
+{
+  "video_id": "th-0rmRYBSg",
+  "duration_s": 1340.0,
+  "generated_at": "2026-09-03T11:57:13.722372+00:00",
+  "sentences": [
+    {
+      "sent_id": "th-0rmRYBSg:s0000",
+      "video_id": "th-0rmRYBSg",
+      "idx": 0,
+      "start_s": 0.071,
+      "end_s": 1.012,
+      "text": "Look at your hand right now.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0001",
+      "video_id": "th-0rmRYBSg",
+      "idx": 1,
+      "start_s": 1.412,
+      "end_s": 10.518999999999998,
+      "text": "Whatever shade it is, yeah, whether you're pale enough to be mistaken for a piece of paper or dark enough to absorb sunlight like a solar panel, that color didn't come from nowhere.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0002",
+      "video_id": "th-0rmRYBSg",
+      "idx": 2,
+      "start_s": 10.939,
+      "end_s": 16.324,
+      "text": "It came from one of the longest, strangest, most dramatic makeovers in the history of life on Earth.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0003",
+      "video_id": "th-0rmRYBSg",
+      "idx": 3,
+      "start_s": 16.764,
+      "end_s": 17.665,
+      "text": "And the wildest part?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0004",
+      "video_id": "th-0rmRYBSg",
+      "idx": 4,
+      "start_s": 18.005,
+      "end_s": 18.906,
+      "text": "It wasn't random.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0005",
+      "video_id": "th-0rmRYBSg",
+      "idx": 5,
+      "start_s": 19.146,
+      "end_s": 20.147,
+      "text": "It wasn't an accident.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0006",
+      "video_id": "th-0rmRYBSg",
+      "idx": 6,
+      "start_s": 20.267,
+      "end_s": 22.128,
+      "text": "It wasn't some cosmic roll of the dice.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0007",
+      "video_id": "th-0rmRYBSg",
+      "idx": 7,
+      "start_s": 22.288,
+      "end_s": 23.609,
+      "text": "It was a survival story.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0008",
+      "video_id": "th-0rmRYBSg",
+      "idx": 8,
+      "start_s": 23.909,
+      "end_s": 27.893,
+      "text": "A slow-motion biological negotiation between your ancestors and the sun.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0009",
+      "video_id": "th-0rmRYBSg",
+      "idx": 9,
+      "start_s": 28.633,
+      "end_s": 31.776,
+      "text": "And the sun, for the record, was absolutely not playing fair.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0010",
+      "video_id": "th-0rmRYBSg",
+      "idx": 10,
+      "start_s": 32.417,
+      "end_s": 33.758,
+      "text": "But what happened?",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0011",
+      "video_id": "th-0rmRYBSg",
+      "idx": 11,
+      "start_s": 34.059,
+      "end_s": 51.236,
+      "text": "The answer involves vitamin D, cancer, folate, Africa, ice ages, ancient farmers who accidentally rewired their own evolution, and a surprisingly rude star sitting 93 million miles away from us that caused all of this and has absolutely no regrets.",
+      "n_words": 40
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0012",
+      "video_id": "th-0rmRYBSg",
+      "idx": 12,
+      "start_s": 52.077,
+      "end_s": 60.522,
+      "text": "If you trace the human family tree all the way back, every single one of your ancestors, regardless of where you're from today, had dark skin.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0013",
+      "video_id": "th-0rmRYBSg",
+      "idx": 13,
+      "start_s": 61.383,
+      "end_s": 62.204,
+      "text": "Every single one.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0014",
+      "video_id": "th-0rmRYBSg",
+      "idx": 14,
+      "start_s": 63.004,
+      "end_s": 63.965,
+      "text": "Not most of them.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0015",
+      "video_id": "th-0rmRYBSg",
+      "idx": 15,
+      "start_s": 64.725,
+      "end_s": 65.826,
+      "text": "Not the majority.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0016",
+      "video_id": "th-0rmRYBSg",
+      "idx": 16,
+      "start_s": 66.546,
+      "end_s": 67.047,
+      "text": "All of them.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0017",
+      "video_id": "th-0rmRYBSg",
+      "idx": 17,
+      "start_s": 67.447,
+      "end_s": 74.471,
+      "text": "Around 300,000 years ago, when Homo sapiens first appeared in Africa, the entire species was dark-skinned.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0018",
+      "video_id": "th-0rmRYBSg",
+      "idx": 18,
+      "start_s": 75.332,
+      "end_s": 76.573,
+      "text": "There were no pale people.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0019",
+      "video_id": "th-0rmRYBSg",
+      "idx": 19,
+      "start_s": 77.592,
+      "end_s": 80.615,
+      "text": "there were no fair-skinned populations anywhere on the planet.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0020",
+      "video_id": "th-0rmRYBSg",
+      "idx": 20,
+      "start_s": 81.255,
+      "end_s": 84.858,
+      "text": "The concept of light skin didn't even exist yet in humans.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0021",
+      "video_id": "th-0rmRYBSg",
+      "idx": 21,
+      "start_s": 85.278,
+      "end_s": 86.459,
+      "text": "Now think about that for a second.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0022",
+      "video_id": "th-0rmRYBSg",
+      "idx": 22,
+      "start_s": 87.28,
+      "end_s": 105.095,
+      "text": "Every person you've ever seen in a history book, every ancient civilization, every mythology, every cave painting, all of it traces back to a single founding population that looked nothing like a significant chunk of the modern human species, which means at some point in history, something happened.",
+      "n_words": 48
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0023",
+      "video_id": "th-0rmRYBSg",
+      "idx": 23,
+      "start_s": 105.595,
+      "end_s": 106.315,
+      "text": "something changed.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0024",
+      "video_id": "th-0rmRYBSg",
+      "idx": 24,
+      "start_s": 106.676,
+      "end_s": 116.8,
+      "text": "And that change was so powerful, so deeply embedded into our DNA, that it reshaped the physical appearance of entire populations across multiple continents over tens of thousands of years.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0025",
+      "video_id": "th-0rmRYBSg",
+      "idx": 25,
+      "start_s": 117.544,
+      "end_s": 118.305,
+      "text": "So, what was it?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0026",
+      "video_id": "th-0rmRYBSg",
+      "idx": 26,
+      "start_s": 118.585,
+      "end_s": 121.867,
+      "text": "Well, before we get to that, we need to understand something about skin itself.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0027",
+      "video_id": "th-0rmRYBSg",
+      "idx": 27,
+      "start_s": 122.447,
+      "end_s": 128.031,
+      "text": "Because most people have absolutely no idea what skin actually is or what it's actually doing for you right this second.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0028",
+      "video_id": "th-0rmRYBSg",
+      "idx": 28,
+      "start_s": 128.451,
+      "end_s": 131.012,
+      "text": "A lot of people treat skin like it's just packaging.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0029",
+      "video_id": "th-0rmRYBSg",
+      "idx": 29,
+      "start_s": 131.633,
+      "end_s": 137.957,
+      "text": "Like it's the bag your body came in, the wrapping that holds your organs together while you walk around arguing with strangers on the internet.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0030",
+      "video_id": "th-0rmRYBSg",
+      "idx": 30,
+      "start_s": 138.537,
+      "end_s": 148.48,
+      "text": "But skin is an organ, your largest organ in fact, and it's doing about 47 different jobs simultaneously, most of which you never think about and never thank it for.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0031",
+      "video_id": "th-0rmRYBSg",
+      "idx": 31,
+      "start_s": 149.26,
+      "end_s": 155.101,
+      "text": "One of those jobs, arguably one of the most important, is protection from UV radiation.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0032",
+      "video_id": "th-0rmRYBSg",
+      "idx": 32,
+      "start_s": 155.742,
+      "end_s": 160.823,
+      "text": "UV radiation is the invisible energy the sun fires at Earth constantly and relentlessly.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0033",
+      "video_id": "th-0rmRYBSg",
+      "idx": 33,
+      "start_s": 161.223,
+      "end_s": 162.624,
+      "text": "And it is not your friend.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0034",
+      "video_id": "th-0rmRYBSg",
+      "idx": 34,
+      "start_s": 163.165,
+      "end_s": 164.886,
+      "text": "UV light breaks chemical bonds.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0035",
+      "video_id": "th-0rmRYBSg",
+      "idx": 35,
+      "start_s": 165.226,
+      "end_s": 166.727,
+      "text": "It damages DNA.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0036",
+      "video_id": "th-0rmRYBSg",
+      "idx": 36,
+      "start_s": 167.348,
+      "end_s": 168.989,
+      "text": "It causes mutations in your cells.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0037",
+      "video_id": "th-0rmRYBSg",
+      "idx": 37,
+      "start_s": 169.53,
+      "end_s": 174.574,
+      "text": "And if those mutations pile up in the wrong places, over enough time, they turn into cancer.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0038",
+      "video_id": "th-0rmRYBSg",
+      "idx": 38,
+      "start_s": 174.854,
+      "end_s": 176.355,
+      "text": "Specifically, melanoma.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0039",
+      "video_id": "th-0rmRYBSg",
+      "idx": 39,
+      "start_s": 176.735,
+      "end_s": 179.377,
+      "text": "one of the most aggressive forms of skin cancer in existence.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0040",
+      "video_id": "th-0rmRYBSg",
+      "idx": 40,
+      "start_s": 179.698,
+      "end_s": 181.659,
+      "text": "Now, here's where skin color becomes relevant.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0041",
+      "video_id": "th-0rmRYBSg",
+      "idx": 41,
+      "start_s": 182.199,
+      "end_s": 185.042,
+      "text": "The pigment that gives skin its color is called melanin.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0042",
+      "video_id": "th-0rmRYBSg",
+      "idx": 42,
+      "start_s": 185.302,
+      "end_s": 189.905,
+      "text": "And melanin is, in the most literal biological sense, a sunscreen.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0043",
+      "video_id": "th-0rmRYBSg",
+      "idx": 43,
+      "start_s": 190.166,
+      "end_s": 194.269,
+      "text": "A natural, built-in, always-on UV filter.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0044",
+      "video_id": "th-0rmRYBSg",
+      "idx": 44,
+      "start_s": 194.789,
+      "end_s": 198.252,
+      "text": "the more melanin your skin contains, the darker it appears.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0045",
+      "video_id": "th-0rmRYBSg",
+      "idx": 45,
+      "start_s": 198.632,
+      "end_s": 205.337,
+      "text": "And the more effectively it blocks UV radiation from penetrating into the deeper layers of tissue where your DNA lives.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0046",
+      "video_id": "th-0rmRYBSg",
+      "idx": 46,
+      "start_s": 205.737,
+      "end_s": 208.679,
+      "text": "Dark skin isn't just a look, it's a shield.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0047",
+      "video_id": "th-0rmRYBSg",
+      "idx": 47,
+      "start_s": 208.919,
+      "end_s": 220.368,
+      "text": "This is why, in Africa, where our species originated, sitting directly under some of the most intense UV radiation on the entire planet, evolution selected hard and fast for dark skin.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0048",
+      "video_id": "th-0rmRYBSg",
+      "idx": 48,
+      "start_s": 220.548,
+      "end_s": 223.43,
+      "text": "Having more melanin meant your DNA was better protected.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0049",
+      "video_id": "th-0rmRYBSg",
+      "idx": 49,
+      "start_s": 223.93,
+      "end_s": 227.032,
+      "text": "it meant you were less likely to accumulate cancer-causing mutations.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0050",
+      "video_id": "th-0rmRYBSg",
+      "idx": 50,
+      "start_s": 227.532,
+      "end_s": 239.219,
+      "text": "It meant you lived longer, stayed healthier, and, most importantly from evolution's cold, calculating perspective, were more likely to survive long enough to reproduce and pass your genes to the next generation.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0051",
+      "video_id": "th-0rmRYBSg",
+      "idx": 51,
+      "start_s": 239.519,
+      "end_s": 244.422,
+      "text": "Natural selection is basically a very slow, very ruthless optimization algorithm.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0052",
+      "video_id": "th-0rmRYBSg",
+      "idx": 52,
+      "start_s": 244.922,
+      "end_s": 252.045,
+      "text": "It doesn't care about aesthetics, it doesn't have opinions about beauty, it doesn't wake up in the morning with a vision for what the human species should look like.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0053",
+      "video_id": "th-0rmRYBSg",
+      "idx": 53,
+      "start_s": 252.446,
+      "end_s": 258.569,
+      "text": "It runs one calculation over and over and over again, billions of times, across billions of organisms.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0054",
+      "video_id": "th-0rmRYBSg",
+      "idx": 54,
+      "start_s": 258.969,
+      "end_s": 261.97,
+      "text": "Does this trait help you survive long enough to have offspring?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0055",
+      "video_id": "th-0rmRYBSg",
+      "idx": 55,
+      "start_s": 262.43,
+      "end_s": 263.631,
+      "text": "If yes, keep it.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0056",
+      "video_id": "th-0rmRYBSg",
+      "idx": 56,
+      "start_s": 264.211,
+      "end_s": 265.932,
+      "text": "If no, eliminate it.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0057",
+      "video_id": "th-0rmRYBSg",
+      "idx": 57,
+      "start_s": 266.365,
+      "end_s": 271.566,
+      "text": "In equatorial Africa, under that blazing sun, dark skin was a hard, emphatic yes.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0058",
+      "video_id": "th-0rmRYBSg",
+      "idx": 58,
+      "start_s": 272.066,
+      "end_s": 272.886,
+      "text": "Every generation.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0059",
+      "video_id": "th-0rmRYBSg",
+      "idx": 59,
+      "start_s": 273.406,
+      "end_s": 273.927,
+      "text": "Every time.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0060",
+      "video_id": "th-0rmRYBSg",
+      "idx": 60,
+      "start_s": 274.447,
+      "end_s": 275.107,
+      "text": "But here's the thing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0061",
+      "video_id": "th-0rmRYBSg",
+      "idx": 61,
+      "start_s": 275.527,
+      "end_s": 279.408,
+      "text": "And this is where the story gets genuinely, unexpectedly complicated.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0062",
+      "video_id": "th-0rmRYBSg",
+      "idx": 62,
+      "start_s": 279.848,
+      "end_s": 284.489,
+      "text": "UV radiation doesn't just attack your skin cells, it also attacks something inside your body.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0063",
+      "video_id": "th-0rmRYBSg",
+      "idx": 63,
+      "start_s": 284.849,
+      "end_s": 287.809,
+      "text": "Something small, invisible, and critically important.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0064",
+      "video_id": "th-0rmRYBSg",
+      "idx": 64,
+      "start_s": 288.169,
+      "end_s": 295.111,
+      "text": "Something that, if you destroy it in the wrong person at the wrong moment, can end a pregnancy before it even really begins.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0065",
+      "video_id": "th-0rmRYBSg",
+      "idx": 65,
+      "start_s": 296.131,
+      "end_s": 298.612,
+      "text": "The molecule in question is called folate.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0066",
+      "video_id": "th-0rmRYBSg",
+      "idx": 66,
+      "start_s": 299.212,
+      "end_s": 305.074,
+      "text": "It's a form of vitamin B9, and it flows through your bloodstream doing essential biological maintenance work.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0067",
+      "video_id": "th-0rmRYBSg",
+      "idx": 67,
+      "start_s": 305.454,
+      "end_s": 311.436,
+      "text": "Now you might be thinking, okay, vitamin B sounds like something my doctor told me to eat more of.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0068",
+      "video_id": "th-0rmRYBSg",
+      "idx": 68,
+      "start_s": 312.377,
+      "end_s": 313.857,
+      "text": "Why does this matter for skin color?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0069",
+      "video_id": "th-0rmRYBSg",
+      "idx": 69,
+      "start_s": 314.638,
+      "end_s": 315.618,
+      "text": "It matters enormously.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0070",
+      "video_id": "th-0rmRYBSg",
+      "idx": 70,
+      "start_s": 316.447,
+      "end_s": 319.409,
+      "text": "especially if you are pregnant or trying to become pregnant.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0071",
+      "video_id": "th-0rmRYBSg",
+      "idx": 71,
+      "start_s": 320.229,
+      "end_s": 323.591,
+      "text": "Folate is critical for the development of the neural tube in embryos.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0072",
+      "video_id": "th-0rmRYBSg",
+      "idx": 72,
+      "start_s": 324.351,
+      "end_s": 328.213,
+      "text": "The neural tube is the structure that eventually becomes the brain and spinal cord.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0073",
+      "video_id": "th-0rmRYBSg",
+      "idx": 73,
+      "start_s": 328.534,
+      "end_s": 336.878,
+      "text": "Without sufficient folate in the first few weeks of pregnancy, sometimes before a woman even knows she's pregnant, the neural tube can fail to close properly.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0074",
+      "video_id": "th-0rmRYBSg",
+      "idx": 74,
+      "start_s": 337.138,
+      "end_s": 338.979,
+      "text": "The consequences are catastrophic.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0075",
+      "video_id": "th-0rmRYBSg",
+      "idx": 75,
+      "start_s": 339.44,
+      "end_s": 343.602,
+      "text": "Neural tube defects, severe developmental abnormalities, miscarriage.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0076",
+      "video_id": "th-0rmRYBSg",
+      "idx": 76,
+      "start_s": 344.062,
+      "end_s": 344.963,
+      "text": "Now here's the problem.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0077",
+      "video_id": "th-0rmRYBSg",
+      "idx": 77,
+      "start_s": 345.823,
+      "end_s": 347.744,
+      "text": "UV radiation destroys folate.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0078",
+      "video_id": "th-0rmRYBSg",
+      "idx": 78,
+      "start_s": 348.484,
+      "end_s": 353.505,
+      "text": "When UV light penetrates the skin and reaches the bloodstream, it breaks down folate molecules.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0079",
+      "video_id": "th-0rmRYBSg",
+      "idx": 79,
+      "start_s": 353.925,
+      "end_s": 364.469,
+      "text": "And, in a sun-drenched environment like Equatorial Africa, with no clothing, no shelter, no sunscreen, UV exposure was constant, intense, and unavoidable.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0080",
+      "video_id": "th-0rmRYBSg",
+      "idx": 80,
+      "start_s": 365.449,
+      "end_s": 368.57,
+      "text": "This created an additional, devastating selection pressure.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0081",
+      "video_id": "th-0rmRYBSg",
+      "idx": 81,
+      "start_s": 369.41,
+      "end_s": 376.911,
+      "text": "Pregnant women with lighter skin, less melanin, more UV penetrating deeper, had higher rates of folate destruction.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0082",
+      "video_id": "th-0rmRYBSg",
+      "idx": 82,
+      "start_s": 377.431,
+      "end_s": 381.392,
+      "text": "Higher rates of folate destruction meant higher rates of neural tube defects.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0083",
+      "video_id": "th-0rmRYBSg",
+      "idx": 83,
+      "start_s": 381.952,
+      "end_s": 385.713,
+      "text": "Higher rates of neural tube defects meant fewer surviving offspring.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0084",
+      "video_id": "th-0rmRYBSg",
+      "idx": 84,
+      "start_s": 386.113,
+      "end_s": 396.555,
+      "text": "So now we have not one, but two completely independent reasons why dark skin was deeply, powerfully, non-negotiably favored under the African sun.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0085",
+      "video_id": "th-0rmRYBSg",
+      "idx": 85,
+      "start_s": 397.215,
+      "end_s": 397.355,
+      "text": "1.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0086",
+      "video_id": "th-0rmRYBSg",
+      "idx": 86,
+      "start_s": 398.016,
+      "end_s": 402.579,
+      "text": "Melanin-protected DNA from UV damage, reducing cancer risk.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0087",
+      "video_id": "th-0rmRYBSg",
+      "idx": 87,
+      "start_s": 403.14,
+      "end_s": 403.38,
+      "text": "2.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0088",
+      "video_id": "th-0rmRYBSg",
+      "idx": 88,
+      "start_s": 404.101,
+      "end_s": 407.824,
+      "text": "Melanin-protected folate in pregnant women, preserving reproductive success.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0089",
+      "video_id": "th-0rmRYBSg",
+      "idx": 89,
+      "start_s": 408.584,
+      "end_s": 409.465,
+      "text": "Two separate threats.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0090",
+      "video_id": "th-0rmRYBSg",
+      "idx": 90,
+      "start_s": 410.206,
+      "end_s": 411.527,
+      "text": "One biological solution.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0091",
+      "video_id": "th-0rmRYBSg",
+      "idx": 91,
+      "start_s": 412.227,
+      "end_s": 417.832,
+      "text": "Dark skin in Africa wasn't just useful, it was essentially mandatory for the survival of the species.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0092",
+      "video_id": "th-0rmRYBSg",
+      "idx": 92,
+      "start_s": 418.999,
+      "end_s": 423.0,
+      "text": "Okay, so dark skin is this multi-purpose biological superweapon.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0093",
+      "video_id": "th-0rmRYBSg",
+      "idx": 93,
+      "start_s": 423.46,
+      "end_s": 429.701,
+      "text": "It blocks cancer, it protects folate, it has been field-tested and optimized over hundreds of thousands of years.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0094",
+      "video_id": "th-0rmRYBSg",
+      "idx": 94,
+      "start_s": 430.161,
+      "end_s": 437.022,
+      "text": "If evolution had a review system, dark skin would have a five-star rating with thousands of glowing testimonials.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0095",
+      "video_id": "th-0rmRYBSg",
+      "idx": 95,
+      "start_s": 437.402,
+      "end_s": 441.223,
+      "text": "So why, in the name of everything logical, did it change?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0096",
+      "video_id": "th-0rmRYBSg",
+      "idx": 96,
+      "start_s": 442.143,
+      "end_s": 447.424,
+      "text": "Why did populations that left Africa end up getting lighter and lighter over thousands of years?",
+      "n_words": 16
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0097",
+      "video_id": "th-0rmRYBSg",
+      "idx": 97,
+      "start_s": 448.338,
+      "end_s": 454.185,
+      "text": "The answer is one of the most elegant, brutal trade-offs in all of evolutionary biology.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0098",
+      "video_id": "th-0rmRYBSg",
+      "idx": 98,
+      "start_s": 455.186,
+      "end_s": 461.974,
+      "text": "Between roughly 70,000 and 100,000 years ago, groups of Homo sapiens began leaving Africa.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0099",
+      "video_id": "th-0rmRYBSg",
+      "idx": 99,
+      "start_s": 462.754,
+      "end_s": 464.516,
+      "text": "It wasn't a single dramatic event.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0100",
+      "video_id": "th-0rmRYBSg",
+      "idx": 100,
+      "start_s": 465.418,
+      "end_s": 466.719,
+      "text": "No one organized a meeting.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0101",
+      "video_id": "th-0rmRYBSg",
+      "idx": 101,
+      "start_s": 467.46,
+      "end_s": 469.002,
+      "text": "No one announced a great migration.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0102",
+      "video_id": "th-0rmRYBSg",
+      "idx": 102,
+      "start_s": 469.894,
+      "end_s": 472.577,
+      "text": "It was slow, generational drift.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0103",
+      "video_id": "th-0rmRYBSg",
+      "idx": 103,
+      "start_s": 473.558,
+      "end_s": 475.74,
+      "text": "A group moves a little further than their parents did.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0104",
+      "video_id": "th-0rmRYBSg",
+      "idx": 104,
+      "start_s": 476.3,
+      "end_s": 478.322,
+      "text": "Their children move a little further still.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0105",
+      "video_id": "th-0rmRYBSg",
+      "idx": 105,
+      "start_s": 478.662,
+      "end_s": 485.669,
+      "text": "Over thousands of years, humans spread through the Middle East, into Europe, across Asia, and eventually into the Americas.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0106",
+      "video_id": "th-0rmRYBSg",
+      "idx": 106,
+      "start_s": 485.929,
+      "end_s": 489.993,
+      "text": "And as they moved north, something fundamental about their environment changed.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0107",
+      "video_id": "th-0rmRYBSg",
+      "idx": 107,
+      "start_s": 490.534,
+      "end_s": 491.395,
+      "text": "The sun got weaker.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0108",
+      "video_id": "th-0rmRYBSg",
+      "idx": 108,
+      "start_s": 492.236,
+      "end_s": 493.176,
+      "text": "Not the sun itself.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0109",
+      "video_id": "th-0rmRYBSg",
+      "idx": 109,
+      "start_s": 494.1,
+      "end_s": 497.382,
+      "text": "The sun remained exactly as indifferent and nuclear as always.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0110",
+      "video_id": "th-0rmRYBSg",
+      "idx": 110,
+      "start_s": 498.123,
+      "end_s": 501.426,
+      "text": "But at higher latitudes, sunlight hits Earth at a lower angle.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0111",
+      "video_id": "th-0rmRYBSg",
+      "idx": 111,
+      "start_s": 502.386,
+      "end_s": 505.048,
+      "text": "It passes through more atmosphere before it reaches you.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0112",
+      "video_id": "th-0rmRYBSg",
+      "idx": 112,
+      "start_s": 506.249,
+      "end_s": 507.83,
+      "text": "UV radiation is filtered out.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0113",
+      "video_id": "th-0rmRYBSg",
+      "idx": 113,
+      "start_s": 508.411,
+      "end_s": 509.231,
+      "text": "Days are shorter.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0114",
+      "video_id": "th-0rmRYBSg",
+      "idx": 114,
+      "start_s": 509.732,
+      "end_s": 511.433,
+      "text": "Winters are long and dark.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0115",
+      "video_id": "th-0rmRYBSg",
+      "idx": 115,
+      "start_s": 511.953,
+      "end_s": 513.895,
+      "text": "The sky is overcast for months.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0116",
+      "video_id": "th-0rmRYBSg",
+      "idx": 116,
+      "start_s": 514.776,
+      "end_s": 517.998,
+      "text": "In northern Europe, in northern Asia, in Canada.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0117",
+      "video_id": "th-0rmRYBSg",
+      "idx": 117,
+      "start_s": 518.358,
+      "end_s": 522.962,
+      "text": "The UV environment is radically, dramatically different from equatorial Africa.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0118",
+      "video_id": "th-0rmRYBSg",
+      "idx": 118,
+      "start_s": 523.827,
+      "end_s": 531.53,
+      "text": "Instead of relentlessly intense radiation, you need to block, you have weak, intermittent radiation you desperately need to absorb.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0119",
+      "video_id": "th-0rmRYBSg",
+      "idx": 119,
+      "start_s": 532.051,
+      "end_s": 535.472,
+      "text": "And suddenly the dark skin that was perfect in Africa became a problem.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0120",
+      "video_id": "th-0rmRYBSg",
+      "idx": 120,
+      "start_s": 535.932,
+      "end_s": 537.053,
+      "text": "Not because of cancer.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0121",
+      "video_id": "th-0rmRYBSg",
+      "idx": 121,
+      "start_s": 537.493,
+      "end_s": 541.875,
+      "text": "The cancer risk at northern latitudes, with weak UV, was much lower.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0122",
+      "video_id": "th-0rmRYBSg",
+      "idx": 122,
+      "start_s": 542.455,
+      "end_s": 543.736,
+      "text": "Not because of folate.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0123",
+      "video_id": "th-0rmRYBSg",
+      "idx": 123,
+      "start_s": 544.176,
+      "end_s": 548.298,
+      "text": "Less UV meant less folate destruction, so that was fine.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0124",
+      "video_id": "th-0rmRYBSg",
+      "idx": 124,
+      "start_s": 549.006,
+      "end_s": 554.812,
+      "text": "No, the problem was something different, something that doesn't get nearly enough credit in this story.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0125",
+      "video_id": "th-0rmRYBSg",
+      "idx": 125,
+      "start_s": 556.139,
+      "end_s": 564.182,
+      "text": "Vitamin D.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0126",
+      "video_id": "th-0rmRYBSg",
+      "idx": 126,
+      "start_s": 556.139,
+      "end_s": 564.182,
+      "text": "Vitamin D is synthesized in the skin when UVB radiation hits a compound called 7-D-hydrocholesterol.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0127",
+      "video_id": "th-0rmRYBSg",
+      "idx": 127,
+      "start_s": 564.822,
+      "end_s": 566.843,
+      "text": "Your skin is literally a solar panel.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0128",
+      "video_id": "th-0rmRYBSg",
+      "idx": 128,
+      "start_s": 567.223,
+      "end_s": 572.325,
+      "text": "It uses fashion sunlight as an energy source to manufacture this essential molecule.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0129",
+      "video_id": "th-0rmRYBSg",
+      "idx": 129,
+      "start_s": 573.165,
+      "end_s": 575.586,
+      "text": "And vitamin D is not optional.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0130",
+      "video_id": "th-0rmRYBSg",
+      "idx": 130,
+      "start_s": 576.207,
+      "end_s": 577.467,
+      "text": "Not even a little bit.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0131",
+      "video_id": "th-0rmRYBSg",
+      "idx": 131,
+      "start_s": 577.827,
+      "end_s": 580.228,
+      "text": "It is absolutely fundamental to human health.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0132",
+      "video_id": "th-0rmRYBSg",
+      "idx": 132,
+      "start_s": 580.988,
+      "end_s": 584.59,
+      "text": "Vitamin D regulates calcium and phosphorus absorption in the gut.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0133",
+      "video_id": "th-0rmRYBSg",
+      "idx": 133,
+      "start_s": 585.485,
+      "end_s": 589.949,
+      "text": "Without it, calcium doesn't get properly absorbed, no matter how much dairy you consume.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0134",
+      "video_id": "th-0rmRYBSg",
+      "idx": 134,
+      "start_s": 590.329,
+      "end_s": 593.092,
+      "text": "Without calcium, bones don't mineralize correctly.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0135",
+      "video_id": "th-0rmRYBSg",
+      "idx": 135,
+      "start_s": 593.712,
+      "end_s": 604.682,
+      "text": "In children, severe vitamin D deficiency causes rickets, a disease that softens and deforms the bones, bows the legs outward, causes the skull to flatten, and stunts growth.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0136",
+      "video_id": "th-0rmRYBSg",
+      "idx": 136,
+      "start_s": 605.082,
+      "end_s": 611.007,
+      "text": "In adult women, vitamin D deficiency can cause a condition called osteomalacia, which softens the pelvic bones.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0137",
+      "video_id": "th-0rmRYBSg",
+      "idx": 137,
+      "start_s": 611.988,
+      "end_s": 617.452,
+      "text": "And softer, deformed pelvic bones make childbirth extraordinarily dangerous, sometimes impossible.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0138",
+      "video_id": "th-0rmRYBSg",
+      "idx": 138,
+      "start_s": 618.212,
+      "end_s": 622.815,
+      "text": "Women with severe vitamin D deficiency had dramatically higher rates of death during labor.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0139",
+      "video_id": "th-0rmRYBSg",
+      "idx": 139,
+      "start_s": 623.316,
+      "end_s": 626.077,
+      "text": "But vitamin D deficiency doesn't stop at the skeleton.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0140",
+      "video_id": "th-0rmRYBSg",
+      "idx": 140,
+      "start_s": 626.438,
+      "end_s": 630.06,
+      "text": "It also impairs immune function, making you more susceptible to infections.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0141",
+      "video_id": "th-0rmRYBSg",
+      "idx": 141,
+      "start_s": 630.66,
+      "end_s": 631.741,
+      "text": "It affects muscle strength.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0142",
+      "video_id": "th-0rmRYBSg",
+      "idx": 142,
+      "start_s": 632.281,
+      "end_s": 634.123,
+      "text": "It influences cardiovascular health.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0143",
+      "video_id": "th-0rmRYBSg",
+      "idx": 143,
+      "start_s": 634.823,
+      "end_s": 638.668,
+      "text": "Some research links chronic deficiency to depression and cognitive decline.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0144",
+      "video_id": "th-0rmRYBSg",
+      "idx": 144,
+      "start_s": 638.989,
+      "end_s": 645.177,
+      "text": "Vitamin D does so much biological work that when you run out of it, the body starts failing in multiple systems simultaneously.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0145",
+      "video_id": "th-0rmRYBSg",
+      "idx": 145,
+      "start_s": 646.098,
+      "end_s": 649.903,
+      "text": "Now put a dark-skinned person in northern Europe 40,000 years ago.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0146",
+      "video_id": "th-0rmRYBSg",
+      "idx": 146,
+      "start_s": 650.504,
+      "end_s": 652.086,
+      "text": "They have highly efficient melanin.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0147",
+      "video_id": "th-0rmRYBSg",
+      "idx": 147,
+      "start_s": 652.667,
+      "end_s": 672.344,
+      "text": "Their skin blocks UV radiation beautifully, which is brilliant in Africa, but in the gray, overcast, low-light north, that same melanin is now blocking the very UV they need to synthesize vitamin D.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0148",
+      "video_id": "th-0rmRYBSg",
+      "idx": 148,
+      "start_s": 652.667,
+      "end_s": 672.344,
+      "text": "Their skin can't tell the difference between dangerous UV I should block and useful UV I desperately need.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0149",
+      "video_id": "th-0rmRYBSg",
+      "idx": 149,
+      "start_s": 672.884,
+      "end_s": 673.505,
+      "text": "It just blocks.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0150",
+      "video_id": "th-0rmRYBSg",
+      "idx": 150,
+      "start_s": 674.065,
+      "end_s": 675.467,
+      "text": "So they don't make enough vitamin D.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0151",
+      "video_id": "th-0rmRYBSg",
+      "idx": 151,
+      "start_s": 676.087,
+      "end_s": 677.608,
+      "text": "Their calcium absorption drops.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0152",
+      "video_id": "th-0rmRYBSg",
+      "idx": 152,
+      "start_s": 677.948,
+      "end_s": 678.908,
+      "text": "Their bones weaken.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0153",
+      "video_id": "th-0rmRYBSg",
+      "idx": 153,
+      "start_s": 679.149,
+      "end_s": 680.489,
+      "text": "Their children develop rickets.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0154",
+      "video_id": "th-0rmRYBSg",
+      "idx": 154,
+      "start_s": 680.91,
+      "end_s": 682.15,
+      "text": "Women die in childbirth.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0155",
+      "video_id": "th-0rmRYBSg",
+      "idx": 155,
+      "start_s": 682.55,
+      "end_s": 684.131,
+      "text": "The population starts declining.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0156",
+      "video_id": "th-0rmRYBSg",
+      "idx": 156,
+      "start_s": 684.792,
+      "end_s": 687.833,
+      "text": "Dark skin in northern latitudes wasn't just a disadvantage.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0157",
+      "video_id": "th-0rmRYBSg",
+      "idx": 157,
+      "start_s": 688.173,
+      "end_s": 696.678,
+      "text": "In a pre-industrial world with no supplements, no fortified food, no medical interventions, it was a death sentence stretched across generations.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0158",
+      "video_id": "th-0rmRYBSg",
+      "idx": 158,
+      "start_s": 697.484,
+      "end_s": 704.049,
+      "text": "And evolution, that cold, merciless, endlessly patient calculator, started selecting against it.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0159",
+      "video_id": "th-0rmRYBSg",
+      "idx": 159,
+      "start_s": 704.97,
+      "end_s": 711.575,
+      "text": "Mutations that reduced melanin production began appearing in the population, randomly, as mutations always do.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0160",
+      "video_id": "th-0rmRYBSg",
+      "idx": 160,
+      "start_s": 712.156,
+      "end_s": 722.965,
+      "text": "But instead of being eliminated, they spread, because individuals with slightly lighter skin synthesized slightly more vitamin D, had slightly healthier bones, had slightly higher reproductive success.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0161",
+      "video_id": "th-0rmRYBSg",
+      "idx": 161,
+      "start_s": 723.605,
+      "end_s": 724.946,
+      "text": "generation after generation.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0162",
+      "video_id": "th-0rmRYBSg",
+      "idx": 162,
+      "start_s": 725.406,
+      "end_s": 729.147,
+      "text": "Slightly lighter, slightly lighter, slightly lighter.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0163",
+      "video_id": "th-0rmRYBSg",
+      "idx": 163,
+      "start_s": 729.527,
+      "end_s": 733.689,
+      "text": "Over thousands of years, the average skin tone of northern populations drifted upward.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0164",
+      "video_id": "th-0rmRYBSg",
+      "idx": 164,
+      "start_s": 734.049,
+      "end_s": 749.195,
+      "text": "Not because anyone decided it should, not because of culture or preference or social forces, but because in that specific environment, at that specific latitude, with that specific amount of sunlight, Lighter skin kept more people alive.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0165",
+      "video_id": "th-0rmRYBSg",
+      "idx": 165,
+      "start_s": 749.615,
+      "end_s": 751.917,
+      "text": "The algorithm had simply reversed its inputs.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0166",
+      "video_id": "th-0rmRYBSg",
+      "idx": 166,
+      "start_s": 752.377,
+      "end_s": 759.641,
+      "text": "For a long time, scientists assumed the depigmentation of European populations happened gradually over hundreds of thousands of years.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0167",
+      "video_id": "th-0rmRYBSg",
+      "idx": 167,
+      "start_s": 760.341,
+      "end_s": 763.963,
+      "text": "A slow, steady evolutionary drift as people moved north.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0168",
+      "video_id": "th-0rmRYBSg",
+      "idx": 168,
+      "start_s": 764.303,
+      "end_s": 770.507,
+      "text": "Recent ancient DNA analysis has completely demolished that assumption and replaced it with something far more interesting.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0169",
+      "video_id": "th-0rmRYBSg",
+      "idx": 169,
+      "start_s": 771.332,
+      "end_s": 780.617,
+      "text": "Early European hunter-gatherers—the people who lived in Europe for tens of thousands of years after the initial migration out of Africa—were still significantly dark-skinned.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0170",
+      "video_id": "th-0rmRYBSg",
+      "idx": 170,
+      "start_s": 780.917,
+      "end_s": 786.421,
+      "text": "Even after living at northern latitudes for a very long time, they hadn't dramatically depigmented.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0171",
+      "video_id": "th-0rmRYBSg",
+      "idx": 171,
+      "start_s": 787.141,
+      "end_s": 790.203,
+      "text": "The most famous example is a specimen known as Cheddar Man.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0172",
+      "video_id": "th-0rmRYBSg",
+      "idx": 172,
+      "start_s": 790.823,
+      "end_s": 794.644,
+      "text": "He lived in what is now Britain approximately 10,000 years ago.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0173",
+      "video_id": "th-0rmRYBSg",
+      "idx": 173,
+      "start_s": 795.344,
+      "end_s": 804.827,
+      "text": "Ancient DNA analysis published in 2018 revealed he likely had dark to medium dark skin, dark curly hair, and blue eyes.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0174",
+      "video_id": "th-0rmRYBSg",
+      "idx": 174,
+      "start_s": 805.768,
+      "end_s": 812.11,
+      "text": "A combination that looks almost paradoxical to modern eyes because we've come to associate blue eyes with very pale skin.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0175",
+      "video_id": "th-0rmRYBSg",
+      "idx": 175,
+      "start_s": 812.69,
+      "end_s": 815.311,
+      "text": "But 10,000 years ago, that wasn't yet the case.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0176",
+      "video_id": "th-0rmRYBSg",
+      "idx": 176,
+      "start_s": 816.051,
+      "end_s": 829.798,
+      "text": "The extremely fair skin we associate with Northwestern Europeans today, the kind that burns in about 12 minutes of summer sun, appears to have spread widely across European populations only in roughly the last 6,000 to 8,000 years.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0177",
+      "video_id": "th-0rmRYBSg",
+      "idx": 177,
+      "start_s": 830.818,
+      "end_s": 832.319,
+      "text": "That is shockingly recent.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0178",
+      "video_id": "th-0rmRYBSg",
+      "idx": 178,
+      "start_s": 833.119,
+      "end_s": 838.262,
+      "text": "In the full 300,000 year history of Homo sapiens, that's less than the last 3%.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0179",
+      "video_id": "th-0rmRYBSg",
+      "idx": 179,
+      "start_s": 839.202,
+      "end_s": 844.185,
+      "text": "So what happened 6,000 to 8,000 years ago that suddenly accelerated this process so dramatically?",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0180",
+      "video_id": "th-0rmRYBSg",
+      "idx": 180,
+      "start_s": 845.045,
+      "end_s": 852.228,
+      "text": "The answer is one of the biggest transitions in human history, and almost nobody talks about its effect on skin color.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0181",
+      "video_id": "th-0rmRYBSg",
+      "idx": 181,
+      "start_s": 852.568,
+      "end_s": 857.15,
+      "text": "The Neolithic Revolution, the switch from hunting and gathering to farming.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0182",
+      "video_id": "th-0rmRYBSg",
+      "idx": 182,
+      "start_s": 857.65,
+      "end_s": 862.172,
+      "text": "When humans transitioned to agriculture, their diet changed completely and permanently.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0183",
+      "video_id": "th-0rmRYBSg",
+      "idx": 183,
+      "start_s": 862.712,
+      "end_s": 878.3,
+      "text": "Hunter-gatherers ate a varied diet that naturally included significant amounts of vitamin D.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0184",
+      "video_id": "th-0rmRYBSg",
+      "idx": 184,
+      "start_s": 862.712,
+      "end_s": 878.3,
+      "text": "Fatty fish like salmon and mackerel, organ meats like liver and kidney, shellfish, and other animal products that are among the richest dietary sources of vitamin D in existence.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0185",
+      "video_id": "th-0rmRYBSg",
+      "idx": 185,
+      "start_s": 878.721,
+      "end_s": 885.744,
+      "text": "Farming populations ate mostly cereals, wheat, barley, oats, rye, carbohydrates.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0186",
+      "video_id": "th-0rmRYBSg",
+      "idx": 186,
+      "start_s": 886.164,
+      "end_s": 890.387,
+      "text": "Their dietary vitamin D intake didn't just drop, it collapsed.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0187",
+      "video_id": "th-0rmRYBSg",
+      "idx": 187,
+      "start_s": 891.127,
+      "end_s": 902.973,
+      "text": "Suddenly, populations that had been getting by with modest amounts of UV-synthesized vitamin D, because their diet was also contributing, were now almost entirely dependent on whatever their skin could produce.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0188",
+      "video_id": "th-0rmRYBSg",
+      "idx": 188,
+      "start_s": 903.773,
+      "end_s": 906.795,
+      "text": "And if their skin was still fairly dark, that wasn't enough.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0189",
+      "video_id": "th-0rmRYBSg",
+      "idx": 189,
+      "start_s": 907.645,
+      "end_s": 910.808,
+      "text": "The selection pressure for lighter skin intensified dramatically.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0190",
+      "video_id": "th-0rmRYBSg",
+      "idx": 190,
+      "start_s": 911.469,
+      "end_s": 918.935,
+      "text": "Even tiny increases in vitamin D synthesis ability, even marginally less melanin, became critically important for survival.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0191",
+      "video_id": "th-0rmRYBSg",
+      "idx": 191,
+      "start_s": 919.636,
+      "end_s": 922.199,
+      "text": "But there's a second factor that made this change happen faster.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0192",
+      "video_id": "th-0rmRYBSg",
+      "idx": 192,
+      "start_s": 922.839,
+      "end_s": 924.22,
+      "text": "Farming communities were large.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0193",
+      "video_id": "th-0rmRYBSg",
+      "idx": 193,
+      "start_s": 924.78,
+      "end_s": 925.52,
+      "text": "They were dense.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0194",
+      "video_id": "th-0rmRYBSg",
+      "idx": 194,
+      "start_s": 925.98,
+      "end_s": 927.0,
+      "text": "They were sedentary.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0195",
+      "video_id": "th-0rmRYBSg",
+      "idx": 195,
+      "start_s": 927.521,
+      "end_s": 933.903,
+      "text": "And population size and density have enormous effects on how quickly an advantageous mutation can spread through a gene pool.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0196",
+      "video_id": "th-0rmRYBSg",
+      "idx": 196,
+      "start_s": 934.483,
+      "end_s": 941.606,
+      "text": "In a small, scattered hunter-gatherer band of 50 people, a beneficial mutation might take a very long time to reach even neighboring groups.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0197",
+      "video_id": "th-0rmRYBSg",
+      "idx": 197,
+      "start_s": 942.326,
+      "end_s": 950.869,
+      "text": "In a farming village of hundreds, connected to a network of other farming villages, a beneficial mutation can spread through thousands of descendants in just a few generations.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0198",
+      "video_id": "th-0rmRYBSg",
+      "idx": 198,
+      "start_s": 951.709,
+      "end_s": 960.172,
+      "text": "The combination, dietary vitamin D collapse plus population density, essentially hit the fast-forward button on European depigmentation.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0199",
+      "video_id": "th-0rmRYBSg",
+      "idx": 199,
+      "start_s": 960.813,
+      "end_s": 972.197,
+      "text": "Within a few thousand years, the selective pressure that had been quietly nudging skin tones lighter for tens of millennia suddenly became intense, rapid, and visible in the archaeological record.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0200",
+      "video_id": "th-0rmRYBSg",
+      "idx": 200,
+      "start_s": 973.41,
+      "end_s": 977.073,
+      "text": "Here's something that genuinely surprises most people when they first hear it.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0201",
+      "video_id": "th-0rmRYBSg",
+      "idx": 201,
+      "start_s": 977.653,
+      "end_s": 980.376,
+      "text": "Skin color is not controlled by a single gene.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0202",
+      "video_id": "th-0rmRYBSg",
+      "idx": 202,
+      "start_s": 980.956,
+      "end_s": 986.02,
+      "text": "There is no dark skin gene and light skin gene where one dominates the other.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0203",
+      "video_id": "th-0rmRYBSg",
+      "idx": 203,
+      "start_s": 986.58,
+      "end_s": 988.202,
+      "text": "It's far more complicated than that.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0204",
+      "video_id": "th-0rmRYBSg",
+      "idx": 204,
+      "start_s": 988.742,
+      "end_s": 990.985,
+      "text": "Skin pigmentation is a polygenic trait.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0205",
+      "video_id": "th-0rmRYBSg",
+      "idx": 205,
+      "start_s": 991.345,
+      "end_s": 994.229,
+      "text": "It's controlled by dozens of different genes working together.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0206",
+      "video_id": "th-0rmRYBSg",
+      "idx": 206,
+      "start_s": 994.63,
+      "end_s": 1006.164,
+      "text": "Genes that influence how much melanin is produced, what type of melanin is made, how melanin granules are distributed inside skin cells, and how the skin responds to UV exposure over time.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0207",
+      "video_id": "th-0rmRYBSg",
+      "idx": 207,
+      "start_s": 1007.225,
+      "end_s": 1009.507,
+      "text": "And here's what makes this truly remarkable.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0208",
+      "video_id": "th-0rmRYBSg",
+      "idx": 208,
+      "start_s": 1010.128,
+      "end_s": 1015.512,
+      "text": "Different populations that independently evolved lighter skin did not use the same genes to do it.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0209",
+      "video_id": "th-0rmRYBSg",
+      "idx": 209,
+      "start_s": 1016.272,
+      "end_s": 1020.956,
+      "text": "East Asians and Europeans both have significantly lighter skin than Equatorial Africans.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0210",
+      "video_id": "th-0rmRYBSg",
+      "idx": 210,
+      "start_s": 1021.577,
+      "end_s": 1028.262,
+      "text": "But the genetic variants responsible for lighter skin in East Asians are largely different from the variants responsible in Europeans.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0211",
+      "video_id": "th-0rmRYBSg",
+      "idx": 211,
+      "start_s": 1028.702,
+      "end_s": 1031.723,
+      "text": "They arrived at similar outcomes through different molecular routes.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0212",
+      "video_id": "th-0rmRYBSg",
+      "idx": 212,
+      "start_s": 1032.203,
+      "end_s": 1034.203,
+      "text": "This is called convergent evolution.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0213",
+      "video_id": "th-0rmRYBSg",
+      "idx": 213,
+      "start_s": 1034.543,
+      "end_s": 1044.946,
+      "text": "The same adaptive solution, lighter skin in low UV environments, discovered independently through completely different genetic pathways by separate populations on separate continents.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0214",
+      "video_id": "th-0rmRYBSg",
+      "idx": 214,
+      "start_s": 1045.846,
+      "end_s": 1046.866,
+      "text": "Think about what that means.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0215",
+      "video_id": "th-0rmRYBSg",
+      "idx": 215,
+      "start_s": 1047.646,
+      "end_s": 1055.608,
+      "text": "The evolutionary pressure was so strong, so consistent, so unambiguous that natural selection found the same answer multiple times.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0216",
+      "video_id": "th-0rmRYBSg",
+      "idx": 216,
+      "start_s": 1056.228,
+      "end_s": 1057.909,
+      "text": "Not once, not twice.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0217",
+      "video_id": "th-0rmRYBSg",
+      "idx": 217,
+      "start_s": 1058.769,
+      "end_s": 1059.529,
+      "text": "Multiple times.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0218",
+      "video_id": "th-0rmRYBSg",
+      "idx": 218,
+      "start_s": 1060.41,
+      "end_s": 1061.11,
+      "text": "Independently.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0219",
+      "video_id": "th-0rmRYBSg",
+      "idx": 219,
+      "start_s": 1061.91,
+      "end_s": 1071.935,
+      "text": "When evolution keeps reinventing something from scratch, that's as strong a signal as biology ever gives you that the trait in question really, really matters for survival.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0220",
+      "video_id": "th-0rmRYBSg",
+      "idx": 220,
+      "start_s": 1073.175,
+      "end_s": 1078.317,
+      "text": "While we're in the genetic neighborhood, let's talk about something adjacent that is equally mind-bending.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0221",
+      "video_id": "th-0rmRYBSg",
+      "idx": 221,
+      "start_s": 1078.918,
+      "end_s": 1079.458,
+      "text": "Blue eyes.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0222",
+      "video_id": "th-0rmRYBSg",
+      "idx": 222,
+      "start_s": 1081.127,
+      "end_s": 1089.031,
+      "text": "Every single person alive today with blue eyes, every single one, no exceptions, is descended from one specific individual.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0223",
+      "video_id": "th-0rmRYBSg",
+      "idx": 223,
+      "start_s": 1089.751,
+      "end_s": 1097.755,
+      "text": "One person, one mutation, one moment somewhere around the Black Sea region, approximately 6,000 to 10,000 years ago.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0224",
+      "video_id": "th-0rmRYBSg",
+      "idx": 224,
+      "start_s": 1098.595,
+      "end_s": 1103.478,
+      "text": "Before that individual was born, the entire human species had brown eyes.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0225",
+      "video_id": "th-0rmRYBSg",
+      "idx": 225,
+      "start_s": 1104.258,
+      "end_s": 1104.698,
+      "text": "Everyone.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0226",
+      "video_id": "th-0rmRYBSg",
+      "idx": 226,
+      "start_s": 1105.219,
+      "end_s": 1109.341,
+      "text": "Brown, brown, nothing but brown, as far back as you go.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0227",
+      "video_id": "th-0rmRYBSg",
+      "idx": 227,
+      "start_s": 1110.161,
+      "end_s": 1116.707,
+      "text": "Then this one mutation appeared, a change that reduced melanin production specifically in the iris and its spread.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0228",
+      "video_id": "th-0rmRYBSg",
+      "idx": 228,
+      "start_s": 1117.688,
+      "end_s": 1126.095,
+      "text": "Slowly at first, then faster, because it was probably genetically linked to skin pigmentation variants that were themselves under strong selection.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0229",
+      "video_id": "th-0rmRYBSg",
+      "idx": 229,
+      "start_s": 1127.256,
+      "end_s": 1139.446,
+      "text": "Now consider something as seemingly ancient and fundamental as blue eyes, something that has been used to sort humans into categories throughout history, is younger than the invention of agriculture.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0230",
+      "video_id": "th-0rmRYBSg",
+      "idx": 230,
+      "start_s": 1140.047,
+      "end_s": 1141.267,
+      "text": "It's younger than Stonehenge.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0231",
+      "video_id": "th-0rmRYBSg",
+      "idx": 231,
+      "start_s": 1141.848,
+      "end_s": 1143.909,
+      "text": "It's younger than the domestication of the horse.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0232",
+      "video_id": "th-0rmRYBSg",
+      "idx": 232,
+      "start_s": 1144.609,
+      "end_s": 1152.714,
+      "text": "We treat certain human traits as ancient and primordial when they are, in geological or even historical terms, basically brand new.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0233",
+      "video_id": "th-0rmRYBSg",
+      "idx": 233,
+      "start_s": 1153.575,
+      "end_s": 1158.238,
+      "text": "The version of humanity we think of as normal and fixed is still being written.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0234",
+      "video_id": "th-0rmRYBSg",
+      "idx": 234,
+      "start_s": 1158.578,
+      "end_s": 1161.18,
+      "text": "Let's take a step back and look at the full picture.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0235",
+      "video_id": "th-0rmRYBSg",
+      "idx": 235,
+      "start_s": 1162.6,
+      "end_s": 1163.261,
+      "text": "Skin color.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0236",
+      "video_id": "th-0rmRYBSg",
+      "idx": 236,
+      "start_s": 1164.392,
+      "end_s": 1179.43,
+      "text": "The thing that has defined so much of human history, shaped political systems, justified atrocities, divided and sorted people into hierarchies for millennia, is, at its biological core, a UV calibration system.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0237",
+      "video_id": "th-0rmRYBSg",
+      "idx": 237,
+      "start_s": 1180.191,
+      "end_s": 1182.834,
+      "text": "It is a dial, an adjustment mechanism.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0238",
+      "video_id": "th-0rmRYBSg",
+      "idx": 238,
+      "start_s": 1183.765,
+      "end_s": 1194.802,
+      "text": "Your body's best ancestral estimate of how much sunlight protection you need, given the latitude your distant ancestors happened to inhabit, the diet they happened to eat, and the sun they happened to live under.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0239",
+      "video_id": "th-0rmRYBSg",
+      "idx": 239,
+      "start_s": 1195.992,
+      "end_s": 1199.195,
+      "text": "Light skin isn't better in any absolute sense.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0240",
+      "video_id": "th-0rmRYBSg",
+      "idx": 240,
+      "start_s": 1199.896,
+      "end_s": 1202.559,
+      "text": "In equatorial environments, it's actively dangerous.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0241",
+      "video_id": "th-0rmRYBSg",
+      "idx": 241,
+      "start_s": 1202.999,
+      "end_s": 1209.466,
+      "text": "More UV penetration, more DNA damage, more cancer risk, more folate destruction.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0242",
+      "video_id": "th-0rmRYBSg",
+      "idx": 242,
+      "start_s": 1210.147,
+      "end_s": 1212.97,
+      "text": "Light skin in Africa is a survival disadvantage.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0243",
+      "video_id": "th-0rmRYBSg",
+      "idx": 243,
+      "start_s": 1213.71,
+      "end_s": 1217.134,
+      "text": "Dark skin isn't less evolved or primitive.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0244",
+      "video_id": "th-0rmRYBSg",
+      "idx": 244,
+      "start_s": 1217.674,
+      "end_s": 1218.916,
+      "text": "It is the ancestral state.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0245",
+      "video_id": "th-0rmRYBSg",
+      "idx": 245,
+      "start_s": 1219.965,
+      "end_s": 1221.266,
+      "text": "The original configuration.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0246",
+      "video_id": "th-0rmRYBSg",
+      "idx": 246,
+      "start_s": 1221.786,
+      "end_s": 1224.607,
+      "text": "The baseline from which everything else is a modification.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0247",
+      "video_id": "th-0rmRYBSg",
+      "idx": 247,
+      "start_s": 1225.267,
+      "end_s": 1227.768,
+      "text": "If anything, lighter skin is the newer version.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0248",
+      "video_id": "th-0rmRYBSg",
+      "idx": 248,
+      "start_s": 1228.308,
+      "end_s": 1230.309,
+      "text": "The adaptation, the variation.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0249",
+      "video_id": "th-0rmRYBSg",
+      "idx": 249,
+      "start_s": 1230.629,
+      "end_s": 1232.43,
+      "text": "Dark skin is the default.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0250",
+      "video_id": "th-0rmRYBSg",
+      "idx": 250,
+      "start_s": 1232.81,
+      "end_s": 1234.611,
+      "text": "And the deepest irony of all is this.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0251",
+      "video_id": "th-0rmRYBSg",
+      "idx": 251,
+      "start_s": 1235.091,
+      "end_s": 1244.715,
+      "text": "The same sun that drove some populations to develop more melanin to survive its power also drove other populations to develop less melanin because they needed more of its limited energy.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0252",
+      "video_id": "th-0rmRYBSg",
+      "idx": 252,
+      "start_s": 1245.375,
+      "end_s": 1246.596,
+      "text": "The sun didn't pick sides.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0253",
+      "video_id": "th-0rmRYBSg",
+      "idx": 253,
+      "start_s": 1247.196,
+      "end_s": 1248.577,
+      "text": "The sun didn't have preferences.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0254",
+      "video_id": "th-0rmRYBSg",
+      "idx": 254,
+      "start_s": 1249.192,
+      "end_s": 1254.533,
+      "text": "the sun just radiated, indifferently, and let evolution sort out the rest.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0255",
+      "video_id": "th-0rmRYBSg",
+      "idx": 255,
+      "start_s": 1254.974,
+      "end_s": 1265.896,
+      "text": "We built an entire civilization's worth of prejudice, oppression, and hierarchy around a vitamin D problem, a calcium absorption issue, a folate protection mechanism.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0256",
+      "video_id": "th-0rmRYBSg",
+      "idx": 256,
+      "start_s": 1266.977,
+      "end_s": 1275.679,
+      "text": "Human populations are still evolving, slowly, almost imperceptibly on any individual time scale, but evolving nonetheless.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0257",
+      "video_id": "th-0rmRYBSg",
+      "idx": 257,
+      "start_s": 1276.952,
+      "end_s": 1283.678,
+      "text": "The selection pressures that shaped skin color are still present in the environment, even if modern technology has partially muffled them.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0258",
+      "video_id": "th-0rmRYBSg",
+      "idx": 258,
+      "start_s": 1284.159,
+      "end_s": 1285.86,
+      "text": "We have vitamin D supplements now.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0259",
+      "video_id": "th-0rmRYBSg",
+      "idx": 259,
+      "start_s": 1286.321,
+      "end_s": 1287.161,
+      "text": "We have sunscreen.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0260",
+      "video_id": "th-0rmRYBSg",
+      "idx": 260,
+      "start_s": 1287.722,
+      "end_s": 1293.747,
+      "text": "We have fortified foods and electric lighting and heated houses and year-round access to food from every latitude on Earth.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0261",
+      "video_id": "th-0rmRYBSg",
+      "idx": 261,
+      "start_s": 1294.568,
+      "end_s": 1298.811,
+      "text": "We've built a civilization that partially decouples skin biology from its original function.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0262",
+      "video_id": "th-0rmRYBSg",
+      "idx": 262,
+      "start_s": 1299.332,
+      "end_s": 1302.794,
+      "text": "The evolutionary algorithm is still running, but we've changed the inputs.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0263",
+      "video_id": "th-0rmRYBSg",
+      "idx": 263,
+      "start_s": 1303.434,
+      "end_s": 1308.058,
+      "text": "What that means for the human species over the next 100,000 years, nobody can say.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0264",
+      "video_id": "th-0rmRYBSg",
+      "idx": 264,
+      "start_s": 1308.778,
+      "end_s": 1330.847,
+      "text": "Evolution doesn't send newsletters, but what we can say with complete confidence is that every shade of human skin that exists today is the product of the same ancient population, standing in the African sun, slowly spreading across an unpredictable planet, and carrying, written in melanin, the precise record of every environment their descendants passed through.",
+      "n_words": 56
+    },
+    {
+      "sent_id": "th-0rmRYBSg:s0265",
+      "video_id": "th-0rmRYBSg",
+      "idx": 265,
+      "start_s": 1331.647,
+      "end_s": 1339.049,
+      "text": "Every skin tone is an answer to a question asked by a star, and every single answer was correct.",
+      "n_words": 19
+    }
+  ]
+}

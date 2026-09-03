@@ -1,0 +1,1762 @@
+{
+  "video_id": "5agqeNtjstU",
+  "generated_at": "2026-09-03T11:59:53.002207+00:00",
+  "windows": [
+    {
+      "window_id": "5agqeNtjstU:j0000",
+      "video_id": "5agqeNtjstU",
+      "idx": 0,
+      "sent_ids": [
+        "5agqeNtjstU:s0000",
+        "5agqeNtjstU:s0001"
+      ],
+      "start_s": 0.071,
+      "end_s": 8.975,
+      "text": "Here's a question that sounds simple, but opens up into something considerably more complicated the moment you start pulling on it. Did ancient humans have one partner?",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 5.2129221732745956e-05
+    },
+    {
+      "window_id": "5agqeNtjstU:j0001",
+      "video_id": "5agqeNtjstU",
+      "idx": 1,
+      "sent_ids": [
+        "5agqeNtjstU:s0002"
+      ],
+      "start_s": 9.575,
+      "end_s": 19.24,
+      "text": "It is a question that manages to be simultaneously evolutionary, anthropological, philosophical, and deeply personal depending on who is asking and why.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.007030102790014684
+    },
+    {
+      "window_id": "5agqeNtjstU:j0002",
+      "video_id": "5agqeNtjstU",
+      "idx": 2,
+      "sent_ids": [
+        "5agqeNtjstU:s0003"
+      ],
+      "start_s": 20.655,
+      "end_s": 33.918,
+      "text": "And the answer, once you actually dig into the biology, the archaeology, the primatology, and the cross-cultural anthropological evidence, is one of those answers that satisfies nobody completely, which is usually a sign that it is probably accurate.",
+      "n_words": 38,
+      "n_sentences": 1,
+      "pos_pct": 0.015165198237885463
+    },
+    {
+      "window_id": "5agqeNtjstU:j0003",
+      "video_id": "5agqeNtjstU",
+      "idx": 3,
+      "sent_ids": [
+        "5agqeNtjstU:s0004"
+      ],
+      "start_s": 34.498,
+      "end_s": 38.919,
+      "text": "The short answer is, mostly, kind of, with significant variation.",
+      "n_words": 10,
+      "n_sentences": 1,
+      "pos_pct": 0.025328928046989718
+    },
+    {
+      "window_id": "5agqeNtjstU:j0004",
+      "video_id": "5agqeNtjstU",
+      "idx": 4,
+      "sent_ids": [
+        "5agqeNtjstU:s0005"
+      ],
+      "start_s": 39.299,
+      "end_s": 46.641,
+      "text": "And the concept of one partner, as we currently understand it, is doing a lot of work in that question that needs to be unpacked before the question even makes sense.",
+      "n_words": 31,
+      "n_sentences": 1,
+      "pos_pct": 0.028853891336270192
+    },
+    {
+      "window_id": "5agqeNtjstU:j0005",
+      "video_id": "5agqeNtjstU",
+      "idx": 5,
+      "sent_ids": [
+        "5agqeNtjstU:s0006",
+        "5agqeNtjstU:s0007"
+      ],
+      "start_s": 47.461,
+      "end_s": 58.252,
+      "text": "The longer answer is what this is about. Let us start with biology, because the body keeps a record of what our ancestors were doing, even when those ancestors left no other documentation.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.03484654919236417
+    },
+    {
+      "window_id": "5agqeNtjstU:j0006",
+      "video_id": "5agqeNtjstU",
+      "idx": 6,
+      "sent_ids": [
+        "5agqeNtjstU:s0008"
+      ],
+      "start_s": 58.713,
+      "end_s": 68.384,
+      "text": "The question of whether a species practices monogamy, polygyny, or some other mating system is one that evolutionary biologists have developed tools to assess from physical characteristics alone.",
+      "n_words": 28,
+      "n_sentences": 1,
+      "pos_pct": 0.0431079295154185
+    },
+    {
+      "window_id": "5agqeNtjstU:j0007",
+      "video_id": "5agqeNtjstU",
+      "idx": 7,
+      "sent_ids": [
+        "5agqeNtjstU:s0009"
+      ],
+      "start_s": 69.424,
+      "end_s": 77.306,
+      "text": "This is possible because different mating systems produce different selection pressures that leave different anatomical signatures in the bodies of the animals that practice them.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.05097209985315713
+    },
+    {
+      "window_id": "5agqeNtjstU:j0008",
+      "video_id": "5agqeNtjstU",
+      "idx": 8,
+      "sent_ids": [
+        "5agqeNtjstU:s0010"
+      ],
+      "start_s": 78.267,
+      "end_s": 88.69,
+      "text": "The anatomy is a kind of fossil evidence of reproductive behavior, preserved in the very structure of the body long after the specific individuals and their specific choices are gone.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.0574647577092511
+    },
+    {
+      "window_id": "5agqeNtjstU:j0009",
+      "video_id": "5agqeNtjstU",
+      "idx": 9,
+      "sent_ids": [
+        "5agqeNtjstU:s0011"
+      ],
+      "start_s": 89.79,
+      "end_s": 100.233,
+      "text": "In species with strong polygyny, where one male mates with many females and male-male competition for access is intense, males tend to be significantly larger than females.",
+      "n_words": 27,
+      "n_sentences": 1,
+      "pos_pct": 0.0659251101321586
+    },
+    {
+      "window_id": "5agqeNtjstU:j0010",
+      "video_id": "5agqeNtjstU",
+      "idx": 10,
+      "sent_ids": [
+        "5agqeNtjstU:s0012",
+        "5agqeNtjstU:s0013"
+      ],
+      "start_s": 100.893,
+      "end_s": 111.396,
+      "text": "This is because larger males win more fights and therefore have more reproductive success, creating strong selection pressure for male size over time. Gorillas are the classic example.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.07407709251101322
+    },
+    {
+      "window_id": "5agqeNtjstU:j0011",
+      "video_id": "5agqeNtjstU",
+      "idx": 11,
+      "sent_ids": [
+        "5agqeNtjstU:s0014"
+      ],
+      "start_s": 111.937,
+      "end_s": 122.846,
+      "text": "Male gorillas are roughly twice the body mass of females, reflecting a mating system in which dominant males maintain exclusive access to multiple females and compete violently with other males for that access.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.08218575624082232
+    },
+    {
+      "window_id": "5agqeNtjstU:j0012",
+      "video_id": "5agqeNtjstU",
+      "idx": 12,
+      "sent_ids": [
+        "5agqeNtjstU:s0015",
+        "5agqeNtjstU:s0016"
+      ],
+      "start_s": 123.827,
+      "end_s": 134.411,
+      "text": "The anatomy is the mating system written in bone and muscle. In strictly monogamous species, by contrast, male and female body sizes tend to be similar or identical.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.09091556534508076
+    },
+    {
+      "window_id": "5agqeNtjstU:j0013",
+      "video_id": "5agqeNtjstU",
+      "idx": 13,
+      "sent_ids": [
+        "5agqeNtjstU:s0017",
+        "5agqeNtjstU:s0018"
+      ],
+      "start_s": 134.911,
+      "end_s": 145.993,
+      "text": "There is no size advantage to be gained from male-male competition when each male pairs with one female regardless of fighting ability. So the selection pressure for male size is reduced or eliminated entirely.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.09905359765051396
+    },
+    {
+      "window_id": "5agqeNtjstU:j0014",
+      "video_id": "5agqeNtjstU",
+      "idx": 14,
+      "sent_ids": [
+        "5agqeNtjstU:s0019",
+        "5agqeNtjstU:s0020"
+      ],
+      "start_s": 146.693,
+      "end_s": 152.394,
+      "text": "Now look at humans. The average male human is roughly 15-20% heavier and 5-7% taller than the average female human.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.10770411160058738
+    },
+    {
+      "window_id": "5agqeNtjstU:j0015",
+      "video_id": "5agqeNtjstU",
+      "idx": 15,
+      "sent_ids": [
+        "5agqeNtjstU:s0021"
+      ],
+      "start_s": 156.295,
+      "end_s": 166.843,
+      "text": "This is a moderate degree of sexual dimorphism, more than you would expect from a strictly monogamous species, significantly less than you would expect from a strongly polygynous one like gorillas.",
+      "n_words": 31,
+      "n_sentences": 1,
+      "pos_pct": 0.1147540381791483
+    },
+    {
+      "window_id": "5agqeNtjstU:j0016",
+      "video_id": "5agqeNtjstU",
+      "idx": 16,
+      "sent_ids": [
+        "5agqeNtjstU:s0022",
+        "5agqeNtjstU:s0023",
+        "5agqeNtjstU:s0024"
+      ],
+      "start_s": 167.96,
+      "end_s": 180.093,
+      "text": "The biology is pointing toward a mating system somewhere between strict monogamy and strong polygyny. Not one and not the other. Something in between that is more complex than either clean category allows.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.1233186490455213
+    },
+    {
+      "window_id": "5agqeNtjstU:j0017",
+      "video_id": "5agqeNtjstU",
+      "idx": 17,
+      "sent_ids": [
+        "5agqeNtjstU:s0025"
+      ],
+      "start_s": 180.674,
+      "end_s": 188.843,
+      "text": "Testis size relative to body size provides a second biological clue, and this one is arguably more revealing than body size dimorphism.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.13265345080763583
+    },
+    {
+      "window_id": "5agqeNtjstU:j0018",
+      "video_id": "5agqeNtjstU",
+      "idx": 18,
+      "sent_ids": [
+        "5agqeNtjstU:s0026"
+      ],
+      "start_s": 190.154,
+      "end_s": 199.239,
+      "text": "In species where females routinely mate with multiple males in rapid succession, sperm from different males compete inside the female reproductive tract for fertilization.",
+      "n_words": 24,
+      "n_sentences": 1,
+      "pos_pct": 0.13961380323054332
+    },
+    {
+      "window_id": "5agqeNtjstU:j0019",
+      "video_id": "5agqeNtjstU",
+      "idx": 19,
+      "sent_ids": [
+        "5agqeNtjstU:s0027"
+      ],
+      "start_s": 199.859,
+      "end_s": 206.303,
+      "text": "This creates selection pressure for males to produce more sperm, resulting in larger testes relative to body size.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.14673935389133627
+    },
+    {
+      "window_id": "5agqeNtjstU:j0020",
+      "video_id": "5agqeNtjstU",
+      "idx": 20,
+      "sent_ids": [
+        "5agqeNtjstU:s0028"
+      ],
+      "start_s": 207.884,
+      "end_s": 217.429,
+      "text": "Chimpanzees, which have a highly promiscuous mating system where multiple males mate with the same female in rapid succession, have enormous testes relative to their body size.",
+      "n_words": 27,
+      "n_sentences": 1,
+      "pos_pct": 0.15263142437591776
+    },
+    {
+      "window_id": "5agqeNtjstU:j0021",
+      "video_id": "5agqeNtjstU",
+      "idx": 21,
+      "sent_ids": [
+        "5agqeNtjstU:s0029"
+      ],
+      "start_s": 218.515,
+      "end_s": 223.737,
+      "text": "The sperm competition is intense, and the anatomy reflects it with absolute clarity.",
+      "n_words": 13,
+      "n_sentences": 1,
+      "pos_pct": 0.16043685756240822
+    },
+    {
+      "window_id": "5agqeNtjstU:j0022",
+      "video_id": "5agqeNtjstU",
+      "idx": 22,
+      "sent_ids": [
+        "5agqeNtjstU:s0030",
+        "5agqeNtjstU:s0031"
+      ],
+      "start_s": 225.028,
+      "end_s": 237.936,
+      "text": "Gorillas, whose females mate exclusively with the dominant male, have small testes relative to body size because there is no competition to select for sperm production volume. Human testis size falls between these two extremes.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.1652187958883994
+    },
+    {
+      "window_id": "5agqeNtjstU:j0023",
+      "video_id": "5agqeNtjstU",
+      "idx": 23,
+      "sent_ids": [
+        "5agqeNtjstU:s0032"
+      ],
+      "start_s": 238.777,
+      "end_s": 248.463,
+      "text": "Larger than gorillas, suggesting some sperm competition occurred in our evolutionary past, and that females sometimes mated with more than one male in close succession.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.17531350954478706
+    },
+    {
+      "window_id": "5agqeNtjstU:j0024",
+      "video_id": "5agqeNtjstU",
+      "idx": 24,
+      "sent_ids": [
+        "5agqeNtjstU:s0033",
+        "5agqeNtjstU:s0034",
+        "5agqeNtjstU:s0035",
+        "5agqeNtjstU:s0036"
+      ],
+      "start_s": 249.403,
+      "end_s": 262.753,
+      "text": "smaller than chimpanzees, suggesting we were not as promiscuous as they are. The anatomy is, again, pointing toward an intermediate, mixed system. Not strictly monogamous. Not highly promiscuous.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.1831152716593245
+    },
+    {
+      "window_id": "5agqeNtjstU:j0025",
+      "video_id": "5agqeNtjstU",
+      "idx": 25,
+      "sent_ids": [
+        "5agqeNtjstU:s0037",
+        "5agqeNtjstU:s0038"
+      ],
+      "start_s": 263.354,
+      "end_s": 273.402,
+      "text": "Something in between that does not map cleanly onto either pole, and that requires more nuance than either simple story can provide. Put the biology together, and you get a consistent picture.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.19335829662261378
+    },
+    {
+      "window_id": "5agqeNtjstU:j0026",
+      "video_id": "5agqeNtjstU",
+      "idx": 26,
+      "sent_ids": [
+        "5agqeNtjstU:s0039"
+      ],
+      "start_s": 273.962,
+      "end_s": 284.804,
+      "text": "Homo sapiens evolved in a mating context that was neither strictly monogamous nor highly promiscuous, but something messier and more variable than either of those clean categories.",
+      "n_words": 27,
+      "n_sentences": 1,
+      "pos_pct": 0.2011468428781204
+    },
+    {
+      "window_id": "5agqeNtjstU:j0027",
+      "video_id": "5agqeNtjstU",
+      "idx": 27,
+      "sent_ids": [
+        "5agqeNtjstU:s0040",
+        "5agqeNtjstU:s0041"
+      ],
+      "start_s": 285.584,
+      "end_s": 296.326,
+      "text": "The question is, what that messier reality actually looked like in practice? And for that, we need to look at the anthropological evidence from actual human societies across history and around the world.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.2096798825256975
+    },
+    {
+      "window_id": "5agqeNtjstU:j0028",
+      "video_id": "5agqeNtjstU",
+      "idx": 28,
+      "sent_ids": [
+        "5agqeNtjstU:s0042"
+      ],
+      "start_s": 297.167,
+      "end_s": 303.528,
+      "text": "The cross-cultural anthropological record is both illuminating and somewhat inconvenient for anyone who wants a simple answer.",
+      "n_words": 17,
+      "n_sentences": 1,
+      "pos_pct": 0.2181842878120411
+    },
+    {
+      "window_id": "5agqeNtjstU:j0029",
+      "video_id": "5agqeNtjstU",
+      "idx": 29,
+      "sent_ids": [
+        "5agqeNtjstU:s0043"
+      ],
+      "start_s": 304.709,
+      "end_s": 316.864,
+      "text": "Of all human societies that have been studied and documented by anthropologists, a database of several hundred cultures compiled across the 20th century in resources like the Standard Cross-Cultural Sample and the Ethnographic Atlas.",
+      "n_words": 34,
+      "n_sentences": 1,
+      "pos_pct": 0.22372173274596183
+    },
+    {
+      "window_id": "5agqeNtjstU:j0030",
+      "video_id": "5agqeNtjstU",
+      "idx": 30,
+      "sent_ids": [
+        "5agqeNtjstU:s0044",
+        "5agqeNtjstU:s0045"
+      ],
+      "start_s": 317.765,
+      "end_s": 327.219,
+      "text": "The majority permit polygyny. Roughly 80-85% of documented human societies permit a man to have more than one wife simultaneously.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.23330763582966224
+    },
+    {
+      "window_id": "5agqeNtjstU:j0031",
+      "video_id": "5agqeNtjstU",
+      "idx": 31,
+      "sent_ids": [
+        "5agqeNtjstU:s0046"
+      ],
+      "start_s": 328.099,
+      "end_s": 339.522,
+      "text": "This is a striking statistic, and it is frequently cited as evidence that polygyny is the natural human mating system, and that strict monogamy is a cultural imposition against our biological nature.",
+      "n_words": 32,
+      "n_sentences": 1,
+      "pos_pct": 0.2408950073421439
+    },
+    {
+      "window_id": "5agqeNtjstU:j0032",
+      "video_id": "5agqeNtjstU",
+      "idx": 32,
+      "sent_ids": [
+        "5agqeNtjstU:s0047",
+        "5agqeNtjstU:s0048"
+      ],
+      "start_s": 340.022,
+      "end_s": 352.489,
+      "text": "But the statistic requires significant context to be meaningful, and without that context it is actively misleading. First, permitting polygyny is not the same as practicing it universally or even commonly.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.24964904552129222
+    },
+    {
+      "window_id": "5agqeNtjstU:j0033",
+      "video_id": "5agqeNtjstU",
+      "idx": 33,
+      "sent_ids": [
+        "5agqeNtjstU:s0049"
+      ],
+      "start_s": 352.97,
+      "end_s": 359.017,
+      "text": "In most of the societies that formally permit polygyny, the majority of actual pairings are monogamous in practice.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.25915565345080765
+    },
+    {
+      "window_id": "5agqeNtjstU:j0034",
+      "video_id": "5agqeNtjstU",
+      "idx": 34,
+      "sent_ids": [
+        "5agqeNtjstU:s0050",
+        "5agqeNtjstU:s0051"
+      ],
+      "start_s": 359.718,
+      "end_s": 369.428,
+      "text": "Polygyny, when it occurs, is typically concentrated among high-status men with the resources to attract and support multiple wives. Most men do not have those resources.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.2641101321585903
+    },
+    {
+      "window_id": "5agqeNtjstU:j0035",
+      "video_id": "5agqeNtjstU",
+      "idx": 35,
+      "sent_ids": [
+        "5agqeNtjstU:s0052"
+      ],
+      "start_s": 369.868,
+      "end_s": 378.01,
+      "text": "Most men, in most human societies throughout history, have had one partner at a time, even in cultures that formally permit multiple partners.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.27156240822320116
+    },
+    {
+      "window_id": "5agqeNtjstU:j0036",
+      "video_id": "5agqeNtjstU",
+      "idx": 36,
+      "sent_ids": [
+        "5agqeNtjstU:s0053"
+      ],
+      "start_s": 378.89,
+      "end_s": 387.832,
+      "text": "The legal or cultural permission and the actual lived practice are reliably and significantly different things, and conflating them produces a distorted picture.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.27818649045521293
+    },
+    {
+      "window_id": "5agqeNtjstU:j0037",
+      "video_id": "5agqeNtjstU",
+      "idx": 37,
+      "sent_ids": [
+        "5agqeNtjstU:s0054"
+      ],
+      "start_s": 388.632,
+      "end_s": 396.841,
+      "text": "Second, the distribution of mating systems across documented human societies is not a random sample of all possible human social arrangements.",
+      "n_words": 21,
+      "n_sentences": 1,
+      "pos_pct": 0.28533920704845817
+    },
+    {
+      "window_id": "5agqeNtjstU:j0038",
+      "video_id": "5agqeNtjstU",
+      "idx": 38,
+      "sent_ids": [
+        "5agqeNtjstU:s0055",
+        "5agqeNtjstU:s0056"
+      ],
+      "start_s": 397.402,
+      "end_s": 409.755,
+      "text": "Heavily polygynous societies tend to be stratified societies with significant inequality in male resource holdings. Pastoral or agricultural societies, where wealthy men can accumulate enough surplus to support multiple wives.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.29177826725403816
+    },
+    {
+      "window_id": "5agqeNtjstU:j0039",
+      "video_id": "5agqeNtjstU",
+      "idx": 39,
+      "sent_ids": [
+        "5agqeNtjstU:s0057"
+      ],
+      "start_s": 411.335,
+      "end_s": 426.777,
+      "text": "Hunter-gatherer societies, which represent the vast majority of human evolutionary history both in absolute time and in terms of the environment that shaped our evolved psychology, tend toward much lower rates of polygyny than agricultural societies.",
+      "n_words": 36,
+      "n_sentences": 1,
+      "pos_pct": 0.30200807635829663
+    },
+    {
+      "window_id": "5agqeNtjstU:j0040",
+      "video_id": "5agqeNtjstU",
+      "idx": 40,
+      "sent_ids": [
+        "5agqeNtjstU:s0058"
+      ],
+      "start_s": 427.878,
+      "end_s": 438.405,
+      "text": "When we look at the societies most analogous to the environments in which human mating systems evolved, the pattern shifts substantially towards something closer to flexible monogamy with occasional variation.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.3141541850220264
+    },
+    {
+      "window_id": "5agqeNtjstU:j0041",
+      "video_id": "5agqeNtjstU",
+      "idx": 41,
+      "sent_ids": [
+        "5agqeNtjstU:s0059",
+        "5agqeNtjstU:s0060"
+      ],
+      "start_s": 439.125,
+      "end_s": 449.411,
+      "text": "Third, roughly 15 to 20 percent of documented human societies practice what is formally classified as monogamy as a cultural norm. This is not a trivially small number.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.3224118942731278
+    },
+    {
+      "window_id": "5agqeNtjstU:j0042",
+      "video_id": "5agqeNtjstU",
+      "idx": 42,
+      "sent_ids": [
+        "5agqeNtjstU:s0061"
+      ],
+      "start_s": 449.991,
+      "end_s": 465.076,
+      "text": "Monogamy as a culturally enforced expectation appears independently in enough separate human societies to suggest it is not purely a modern western cultural imposition, but a recurring human social solution to specific sets of problems that arise repeatedly across different contexts.",
+      "n_words": 41,
+      "n_sentences": 1,
+      "pos_pct": 0.33038986784140967
+    },
+    {
+      "window_id": "5agqeNtjstU:j0043",
+      "video_id": "5agqeNtjstU",
+      "idx": 43,
+      "sent_ids": [
+        "5agqeNtjstU:s0062",
+        "5agqeNtjstU:s0063"
+      ],
+      "start_s": 466.136,
+      "end_s": 472.238,
+      "text": "What problems does monogamy solve? This is where the evolutionary logic gets genuinely interesting.",
+      "n_words": 14,
+      "n_sentences": 2,
+      "pos_pct": 0.3422437591776799
+    },
+    {
+      "window_id": "5agqeNtjstU:j0044",
+      "video_id": "5agqeNtjstU",
+      "idx": 44,
+      "sent_ids": [
+        "5agqeNtjstU:s0064"
+      ],
+      "start_s": 473.498,
+      "end_s": 490.332,
+      "text": "One influential theory, developed by researchers including Joseph Henrich, holds that socially enforced monogamy, the cultural and legal pressure for men to maintain exclusive partnerships with one woman, emerged as a solution to the problems created by highly unequal reproductive success among men.",
+      "n_words": 43,
+      "n_sentences": 1,
+      "pos_pct": 0.3476490455212922
+    },
+    {
+      "window_id": "5agqeNtjstU:j0045",
+      "video_id": "5agqeNtjstU",
+      "idx": 45,
+      "sent_ids": [
+        "5agqeNtjstU:s0065"
+      ],
+      "start_s": 491.413,
+      "end_s": 500.181,
+      "text": "In strongly polygynous systems, high-status men monopolize reproductive access, leaving large numbers of lower-status men without partners.",
+      "n_words": 17,
+      "n_sentences": 1,
+      "pos_pct": 0.3608024963289281
+    },
+    {
+      "window_id": "5agqeNtjstU:j0046",
+      "video_id": "5agqeNtjstU",
+      "idx": 46,
+      "sent_ids": [
+        "5agqeNtjstU:s0066"
+      ],
+      "start_s": 501.734,
+      "end_s": 511.501,
+      "text": "Groups of unpartnered men with nothing to lose and everything to gain from risky competitive behavior are, historically and cross-culturally, not great for social stability.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.3683803230543318
+    },
+    {
+      "window_id": "5agqeNtjstU:j0047",
+      "video_id": "5agqeNtjstU",
+      "idx": 47,
+      "sent_ids": [
+        "5agqeNtjstU:s0067",
+        "5agqeNtjstU:s0068"
+      ],
+      "start_s": 512.182,
+      "end_s": 525.692,
+      "text": "They fight more, take more dangerous risks, and disrupt collective cooperation in ways that impose significant costs on the entire group. Monogamous norms reduce the variance in male reproductive success.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.37605139500734214
+    },
+    {
+      "window_id": "5agqeNtjstU:j0048",
+      "video_id": "5agqeNtjstU",
+      "idx": 48,
+      "sent_ids": [
+        "5agqeNtjstU:s0069"
+      ],
+      "start_s": 526.602,
+      "end_s": 538.726,
+      "text": "They give lower status men access to partners they would not have in a fully polygynous system, which reduces their motivation for disruptive competitive behavior and increases their investment in the group's collective welfare.",
+      "n_words": 34,
+      "n_sentences": 1,
+      "pos_pct": 0.38663876651982376
+    },
+    {
+      "window_id": "5agqeNtjstU:j0049",
+      "video_id": "5agqeNtjstU",
+      "idx": 49,
+      "sent_ids": [
+        "5agqeNtjstU:s0070"
+      ],
+      "start_s": 539.186,
+      "end_s": 549.453,
+      "text": "The society as a whole becomes more cooperative, more stable, and better able to engage in the kind of long-term collective projects that complex civilization requires.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.3958781204111601
+    },
+    {
+      "window_id": "5agqeNtjstU:j0050",
+      "video_id": "5agqeNtjstU",
+      "idx": 50,
+      "sent_ids": [
+        "5agqeNtjstU:s0071"
+      ],
+      "start_s": 550.414,
+      "end_s": 561.344,
+      "text": "The argument is supported by cross-cultural data showing that societies with more enforced monogamy tend to have lower rates of male-on-male violence and higher levels of paternal investment in children.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.40412187958883994
+    },
+    {
+      "window_id": "5agqeNtjstU:j0051",
+      "video_id": "5agqeNtjstU",
+      "idx": 51,
+      "sent_ids": [
+        "5agqeNtjstU:s0072",
+        "5agqeNtjstU:s0073"
+      ],
+      "start_s": 562.445,
+      "end_s": 573.472,
+      "text": "both outcomes that are good for group survival, and long-term competitive success. Monogamy also addresses the problem of paternity uncertainty in a specific and practically important way.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.4129552129221733
+    },
+    {
+      "window_id": "5agqeNtjstU:j0052",
+      "video_id": "5agqeNtjstU",
+      "idx": 52,
+      "sent_ids": [
+        "5agqeNtjstU:s0074"
+      ],
+      "start_s": 573.872,
+      "end_s": 581.877,
+      "text": "A man who is in an exclusive relationship with a woman, and whose exclusivity is enforced by social pressure, can be more confident that her children are his.",
+      "n_words": 28,
+      "n_sentences": 1,
+      "pos_pct": 0.42134508076358296
+    },
+    {
+      "window_id": "5agqeNtjstU:j0053",
+      "video_id": "5agqeNtjstU",
+      "idx": 53,
+      "sent_ids": [
+        "5agqeNtjstU:s0075",
+        "5agqeNtjstU:s0076"
+      ],
+      "start_s": 582.318,
+      "end_s": 589.784,
+      "text": "Higher paternity confidence produces more male investment in offspring. More paternal investment produces better outcomes for children.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.4275462555066079
+    },
+    {
+      "window_id": "5agqeNtjstU:j0054",
+      "video_id": "5agqeNtjstU",
+      "idx": 54,
+      "sent_ids": [
+        "5agqeNtjstU:s0077",
+        "5agqeNtjstU:s0078"
+      ],
+      "start_s": 590.324,
+      "end_s": 602.069,
+      "text": "A society that generates more paternal investment per child is, in the long run, a more effective competitor against societies that cannot. The logic is cold, but the consequences are real.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.43342437591776795
+    },
+    {
+      "window_id": "5agqeNtjstU:j0055",
+      "video_id": "5agqeNtjstU",
+      "idx": 55,
+      "sent_ids": [
+        "5agqeNtjstU:s0079"
+      ],
+      "start_s": 602.969,
+      "end_s": 608.791,
+      "text": "This does not mean monogamy is natural in the sense of being biologically inevitable or the universal default.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.442708516886931
+    },
+    {
+      "window_id": "5agqeNtjstU:j0056",
+      "video_id": "5agqeNtjstU",
+      "idx": 56,
+      "sent_ids": [
+        "5agqeNtjstU:s0080",
+        "5agqeNtjstU:s0081"
+      ],
+      "start_s": 609.531,
+      "end_s": 623.074,
+      "text": "It means monogamy is a social technology, a set of cultural rules and enforcement mechanisms that emerged repeatedly in different human societies because it solves real coordination problems. It is invented, not innate.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.4475264317180616
+    },
+    {
+      "window_id": "5agqeNtjstU:j0057",
+      "video_id": "5agqeNtjstU",
+      "idx": 57,
+      "sent_ids": [
+        "5agqeNtjstU:s0082"
+      ],
+      "start_s": 623.815,
+      "end_s": 632.137,
+      "text": "But things that are invented can still be effective and worth having, and the fact that they need to be enforced does not make them unnatural in any meaningful sense.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.4580139500734215
+    },
+    {
+      "window_id": "5agqeNtjstU:j0058",
+      "video_id": "5agqeNtjstU",
+      "idx": 58,
+      "sent_ids": [
+        "5agqeNtjstU:s0083"
+      ],
+      "start_s": 633.058,
+      "end_s": 643.801,
+      "text": "Now let us talk about what actually happened in practice across human history, because social norms and actual human behavior are reliably different things in every human society ever studied.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.46480029368575626
+    },
+    {
+      "window_id": "5agqeNtjstU:j0059",
+      "video_id": "5agqeNtjstU",
+      "idx": 59,
+      "sent_ids": [
+        "5agqeNtjstU:s0084"
+      ],
+      "start_s": 644.73,
+      "end_s": 650.076,
+      "text": "The genetic record of human populations gives us one important window into historical mating patterns.",
+      "n_words": 15,
+      "n_sentences": 1,
+      "pos_pct": 0.4733700440528634
+    },
+    {
+      "window_id": "5agqeNtjstU:j0060",
+      "video_id": "5agqeNtjstU",
+      "idx": 60,
+      "sent_ids": [
+        "5agqeNtjstU:s0085"
+      ],
+      "start_s": 651.617,
+      "end_s": 664.25,
+      "text": "Y-chromosome genealogical studies, which trace the male line through direct father-to-son transmission, have identified patterns consistent with highly unequal male reproductive success in some historical periods.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.4784265785609398
+    },
+    {
+      "window_id": "5agqeNtjstU:j0061",
+      "video_id": "5agqeNtjstU",
+      "idx": 61,
+      "sent_ids": [
+        "5agqeNtjstU:s0086"
+      ],
+      "start_s": 665.363,
+      "end_s": 676.359,
+      "text": "One famous study estimated that a single man living roughly 4,000 to 5,000 years ago in what is now the Eurasian Steppe region has somewhere between 16 million and 19 million male-lined descendants alive today.",
+      "n_words": 35,
+      "n_sentences": 1,
+      "pos_pct": 0.4885190895741557
+    },
+    {
+      "window_id": "5agqeNtjstU:j0062",
+      "video_id": "5agqeNtjstU",
+      "idx": 62,
+      "sent_ids": [
+        "5agqeNtjstU:s0087"
+      ],
+      "start_s": 677.636,
+      "end_s": 682.199,
+      "text": "The genetic signature suggests this was not random variation across a large population.",
+      "n_words": 13,
+      "n_sentences": 1,
+      "pos_pct": 0.49753010279001464
+    },
+    {
+      "window_id": "5agqeNtjstU:j0063",
+      "video_id": "5agqeNtjstU",
+      "idx": 63,
+      "sent_ids": [
+        "5agqeNtjstU:s0088"
+      ],
+      "start_s": 682.82,
+      "end_s": 695.288,
+      "text": "It reflects a social system in which some men had dramatically more reproductive success than others, consistent with the kind of highly stratified polygyny associated with pastoralist warrior societies of the Bronze Age steppe.",
+      "n_words": 34,
+      "n_sentences": 1,
+      "pos_pct": 0.5013362701908958
+    },
+    {
+      "window_id": "5agqeNtjstU:j0064",
+      "video_id": "5agqeNtjstU",
+      "idx": 64,
+      "sent_ids": [
+        "5agqeNtjstU:s0089",
+        "5agqeNtjstU:s0090",
+        "5agqeNtjstU:s0091"
+      ],
+      "start_s": 696.029,
+      "end_s": 703.855,
+      "text": "Some men had many children across many women. Many men had none at all. The genes remember even when the documents do not.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.5110345080763583
+    },
+    {
+      "window_id": "5agqeNtjstU:j0065",
+      "video_id": "5agqeNtjstU",
+      "idx": 65,
+      "sent_ids": [
+        "5agqeNtjstU:s0092"
+      ],
+      "start_s": 704.635,
+      "end_s": 719.681,
+      "text": "Studies of ancient DNA from Neolithic agricultural sites in Europe have found patterns suggesting significant inequality in male reproductive success relative to female reproductive success, fewer distinct male lineages than female lineages contributing to the next generation.",
+      "n_words": 37,
+      "n_sentences": 1,
+      "pos_pct": 0.5173531571218796
+    },
+    {
+      "window_id": "5agqeNtjstU:j0066",
+      "video_id": "5agqeNtjstU",
+      "idx": 66,
+      "sent_ids": [
+        "5agqeNtjstU:s0093"
+      ],
+      "start_s": 720.361,
+      "end_s": 728.765,
+      "text": "The transition to agriculture and the accumulation of heritable wealth appears to have increased male reproductive inequality, not decreased it.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.5288994126284875
+    },
+    {
+      "window_id": "5agqeNtjstU:j0067",
+      "video_id": "5agqeNtjstU",
+      "idx": 67,
+      "sent_ids": [
+        "5agqeNtjstU:s0094"
+      ],
+      "start_s": 729.785,
+      "end_s": 739.809,
+      "text": "When you can own land and cattle and pass them to your sons, the material basis for polygyny expands dramatically, and the pattern shows up in the genetics of the populations that followed.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.5358186490455212
+    },
+    {
+      "window_id": "5agqeNtjstU:j0068",
+      "video_id": "5agqeNtjstU",
+      "idx": 68,
+      "sent_ids": [
+        "5agqeNtjstU:s0095",
+        "5agqeNtjstU:s0096"
+      ],
+      "start_s": 740.71,
+      "end_s": 753.335,
+      "text": "Hunter-gatherer populations, studied both through ancient DNA and through contemporary observation, show lower degrees of male reproductive inequality. This is consistent with the theoretical expectation.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.5438399412628487
+    },
+    {
+      "window_id": "5agqeNtjstU:j0069",
+      "video_id": "5agqeNtjstU",
+      "idx": 69,
+      "sent_ids": [
+        "5agqeNtjstU:s0097"
+      ],
+      "start_s": 754.075,
+      "end_s": 762.562,
+      "text": "In societies with limited individual wealth accumulation and strong norms of resource sharing, the material basis for polygyny is structurally limited.",
+      "n_words": 21,
+      "n_sentences": 1,
+      "pos_pct": 0.5536527165932452
+    },
+    {
+      "window_id": "5agqeNtjstU:j0070",
+      "video_id": "5agqeNtjstU",
+      "idx": 70,
+      "sent_ids": [
+        "5agqeNtjstU:s0098",
+        "5agqeNtjstU:s0099"
+      ],
+      "start_s": 763.283,
+      "end_s": 775.072,
+      "text": "You cannot support multiple wives if you cannot accumulate significantly more resources than your neighbors. The egalitarianism of hunter-gatherer resource sharing was not just a spiritual virtue.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.560413362701909
+    },
+    {
+      "window_id": "5agqeNtjstU:j0071",
+      "video_id": "5agqeNtjstU",
+      "idx": 71,
+      "sent_ids": [
+        "5agqeNtjstU:s0100",
+        "5agqeNtjstU:s0101",
+        "5agqeNtjstU:s0102"
+      ],
+      "start_s": 775.673,
+      "end_s": 788.543,
+      "text": "It was also a structural constraint on reproductive inequality. People formed primary pair bonds. This is consistent across all of the evidence and across every human society ever documented.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.5695102790014684
+    },
+    {
+      "window_id": "5agqeNtjstU:j0072",
+      "video_id": "5agqeNtjstU",
+      "idx": 72,
+      "sent_ids": [
+        "5agqeNtjstU:s0103"
+      ],
+      "start_s": 789.864,
+      "end_s": 805.017,
+      "text": "The pair bond, a recognized, stable relationship between two specific individuals that involves mutual investment, shared living arrangements, and shared responsibility for offspring, appears to be a genuine human behavioral universal.",
+      "n_words": 31,
+      "n_sentences": 1,
+      "pos_pct": 0.5799295154185022
+    },
+    {
+      "window_id": "5agqeNtjstU:j0073",
+      "video_id": "5agqeNtjstU",
+      "idx": 73,
+      "sent_ids": [
+        "5agqeNtjstU:s0104"
+      ],
+      "start_s": 806.278,
+      "end_s": 824.239,
+      "text": "The neurochemical architecture of the pair bond, the oxytocin and vasopressin systems that produce attachment and preference for a specific individual over others, is real, well understood at the biological level, and clearly the product of long evolutionary history.",
+      "n_words": 39,
+      "n_sentences": 1,
+      "pos_pct": 0.5919809104258443
+    },
+    {
+      "window_id": "5agqeNtjstU:j0074",
+      "video_id": "5agqeNtjstU",
+      "idx": 74,
+      "sent_ids": [
+        "5agqeNtjstU:s0105",
+        "5agqeNtjstU:s0106"
+      ],
+      "start_s": 824.959,
+      "end_s": 837.667,
+      "text": "It evolved because it worked. Pairs that stayed together raised more surviving children than pairs that did not over enough generations that the emotional architecture of human attachment was shaped by that selective reality.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.6056967694566813
+    },
+    {
+      "window_id": "5agqeNtjstU:j0075",
+      "video_id": "5agqeNtjstU",
+      "idx": 75,
+      "sent_ids": [
+        "5agqeNtjstU:s0107"
+      ],
+      "start_s": 838.487,
+      "end_s": 847.611,
+      "text": "But the pair bond coexisted with behavior outside the pair bond, in both directions and in both sexes, across virtually every human society ever documented.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.6156292217327459
+    },
+    {
+      "window_id": "5agqeNtjstU:j0076",
+      "video_id": "5agqeNtjstU",
+      "idx": 76,
+      "sent_ids": [
+        "5agqeNtjstU:s0108"
+      ],
+      "start_s": 848.651,
+      "end_s": 860.476,
+      "text": "The genetic evidence for sperm competition, the intermediate testis size, and the cross-cultural documentation of extra-pair relationships in human societies all point to the same conclusion.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.6230917767988252
+    },
+    {
+      "window_id": "5agqeNtjstU:j0077",
+      "video_id": "5agqeNtjstU",
+      "idx": 77,
+      "sent_ids": [
+        "5agqeNtjstU:s0109",
+        "5agqeNtjstU:s0110"
+      ],
+      "start_s": 861.56,
+      "end_s": 875.174,
+      "text": "Humans formed primary pair bonds and also, at significant rates, maintained or sought relationships outside those bonds. The pair bond was the modal relationship, the expected structure, the social baseline.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.6325697503671072
+    },
+    {
+      "window_id": "5agqeNtjstU:j0078",
+      "video_id": "5agqeNtjstU",
+      "idx": 78,
+      "sent_ids": [
+        "5agqeNtjstU:s0111",
+        "5agqeNtjstU:s0112"
+      ],
+      "start_s": 876.215,
+      "end_s": 888.977,
+      "text": "It was not always exclusive in practice even when it was expected to be exclusive in theory. Studies of contemporary hunter-gatherer societies consistently document rates of extra-pair relationships that are significant without being dominant.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.6433296622613803
+    },
+    {
+      "window_id": "5agqeNtjstU:j0079",
+      "video_id": "5agqeNtjstU",
+      "idx": 79,
+      "sent_ids": [
+        "5agqeNtjstU:s0113",
+        "5agqeNtjstU:s0114"
+      ],
+      "start_s": 889.797,
+      "end_s": 904.382,
+      "text": "In these societies, extra-pair relationships are typically not random or indiscriminate. They occur within ongoing relationship structures with specific individuals that are semi-acknowledged within the community, rather than as purely opportunistic encounters.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.6533017621145375
+    },
+    {
+      "window_id": "5agqeNtjstU:j0080",
+      "video_id": "5agqeNtjstU",
+      "idx": 80,
+      "sent_ids": [
+        "5agqeNtjstU:s0115"
+      ],
+      "start_s": 905.443,
+      "end_s": 917.702,
+      "text": "The social reality is more complex than either faithful monogamy or unconstrained promiscuity, and it exists in that complicated middle space that simple theories about human nature find inconvenient to inhabit.",
+      "n_words": 31,
+      "n_sentences": 1,
+      "pos_pct": 0.6647892804698972
+    },
+    {
+      "window_id": "5agqeNtjstU:j0081",
+      "video_id": "5agqeNtjstU",
+      "idx": 81,
+      "sent_ids": [
+        "5agqeNtjstU:s0116",
+        "5agqeNtjstU:s0117"
+      ],
+      "start_s": 919.133,
+      "end_s": 930.416,
+      "text": "One dimension of prehistoric mating that formal evolutionary frameworks often underplay is the role of individual variation. Evolutionary models describe populations and averages and selection pressures.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.6748406754772394
+    },
+    {
+      "window_id": "5agqeNtjstU:j0082",
+      "video_id": "5agqeNtjstU",
+      "idx": 82,
+      "sent_ids": [
+        "5agqeNtjstU:s0118"
+      ],
+      "start_s": 931.016,
+      "end_s": 937.378,
+      "text": "But individual variation around those statistical tendencies was real, substantial, and consequential.",
+      "n_words": 12,
+      "n_sentences": 1,
+      "pos_pct": 0.6835653450807636
+    },
+    {
+      "window_id": "5agqeNtjstU:j0083",
+      "video_id": "5agqeNtjstU",
+      "idx": 83,
+      "sent_ids": [
+        "5agqeNtjstU:s0119"
+      ],
+      "start_s": 938.238,
+      "end_s": 948.709,
+      "text": "In any population of hunter-gatherers, some individuals were more inclined toward long-term exclusive attachment, and others were more inclined toward multiple simultaneous or sequential relationships.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.6888678414096917
+    },
+    {
+      "window_id": "5agqeNtjstU:j0084",
+      "video_id": "5agqeNtjstU",
+      "idx": 84,
+      "sent_ids": [
+        "5agqeNtjstU:s0120",
+        "5agqeNtjstU:s0121",
+        "5agqeNtjstU:s0122"
+      ],
+      "start_s": 949.469,
+      "end_s": 962.908,
+      "text": "Some men were more invested fathers, and some were less so. Some women prioritized security and reliable provisioning in a partner. and others prioritized genetic quality or social status by different measures.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.6971138032305434
+    },
+    {
+      "window_id": "5agqeNtjstU:j0085",
+      "video_id": "5agqeNtjstU",
+      "idx": 85,
+      "sent_ids": [
+        "5agqeNtjstU:s0123",
+        "5agqeNtjstU:s0124"
+      ],
+      "start_s": 963.588,
+      "end_s": 972.073,
+      "text": "This individual variation was not noise in the system, it was part of the system. Evolution does not eliminate variation, it shifts the distribution.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.7074801762114538
+    },
+    {
+      "window_id": "5agqeNtjstU:j0086",
+      "video_id": "5agqeNtjstU",
+      "idx": 86,
+      "sent_ids": [
+        "5agqeNtjstU:s0125"
+      ],
+      "start_s": 972.993,
+      "end_s": 983.8,
+      "text": "And the distribution of human mating inclinations is genuinely wide, which is part of why human mating systems across cultures are genuinely variable rather than converging on a single universal pattern.",
+      "n_words": 31,
+      "n_sentences": 1,
+      "pos_pct": 0.7143854625550661
+    },
+    {
+      "window_id": "5agqeNtjstU:j0087",
+      "video_id": "5agqeNtjstU",
+      "idx": 87,
+      "sent_ids": [
+        "5agqeNtjstU:s0126"
+      ],
+      "start_s": 984.859,
+      "end_s": 998.066,
+      "text": "The psychology of jealousy is one of the clearest windows into the ancestral mating system, because jealousy is an evolved psychological response to a specific threat—the threat of losing a partner or a partner's investment to a competitor.",
+      "n_words": 38,
+      "n_sentences": 1,
+      "pos_pct": 0.7230976505139501
+    },
+    {
+      "window_id": "5agqeNtjstU:j0088",
+      "video_id": "5agqeNtjstU",
+      "idx": 88,
+      "sent_ids": [
+        "5agqeNtjstU:s0127"
+      ],
+      "start_s": 998.878,
+      "end_s": 1010.465,
+      "text": "The specific structure of jealousy in humans reveals what the ancestral mating environment was like, because psychological mechanisms evolve in response to the threats that were consistently present over evolutionary time.",
+      "n_words": 31,
+      "n_sentences": 1,
+      "pos_pct": 0.7333906020558003
+    },
+    {
+      "window_id": "5agqeNtjstU:j0089",
+      "video_id": "5agqeNtjstU",
+      "idx": 89,
+      "sent_ids": [
+        "5agqeNtjstU:s0128"
+      ],
+      "start_s": 1010.985,
+      "end_s": 1014.627,
+      "text": "You do not evolve a mechanism for responding to threats that never occurred.",
+      "n_words": 13,
+      "n_sentences": 1,
+      "pos_pct": 0.7422797356828194
+    },
+    {
+      "window_id": "5agqeNtjstU:j0090",
+      "video_id": "5agqeNtjstU",
+      "idx": 90,
+      "sent_ids": [
+        "5agqeNtjstU:s0129"
+      ],
+      "start_s": 1015.783,
+      "end_s": 1031.637,
+      "text": "Research on jealousy consistently shows that it is a cross-cultural universal, present in every human society ever studied, associated with similar behavioral responses across cultures, and demonstrably connected to mate retention and pair-bond maintenance.",
+      "n_words": 34,
+      "n_sentences": 1,
+      "pos_pct": 0.745802496328928
+    },
+    {
+      "window_id": "5agqeNtjstU:j0091",
+      "video_id": "5agqeNtjstU",
+      "idx": 91,
+      "sent_ids": [
+        "5agqeNtjstU:s0130"
+      ],
+      "start_s": 1032.507,
+      "end_s": 1048.122,
+      "text": "The universality of jealousy is strong evidence that pair bonds were a consistent feature of the ancestral environment, and that the disruption of those pair bonds by outside competitors was a consistent enough threat to create selection pressure for a specific emotional response to it.",
+      "n_words": 45,
+      "n_sentences": 1,
+      "pos_pct": 0.7580814977973569
+    },
+    {
+      "window_id": "5agqeNtjstU:j0092",
+      "video_id": "5agqeNtjstU",
+      "idx": 92,
+      "sent_ids": [
+        "5agqeNtjstU:s0131",
+        "5agqeNtjstU:s0132"
+      ],
+      "start_s": 1049.163,
+      "end_s": 1060.748,
+      "text": "The specific structure of jealousy also reveals something about the ancestral mating situation. studies across multiple cultures find consistent differences in the triggers for intense jealousy between men and women.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.7703105726872247
+    },
+    {
+      "window_id": "5agqeNtjstU:j0093",
+      "video_id": "5agqeNtjstU",
+      "idx": 93,
+      "sent_ids": [
+        "5agqeNtjstU:s0133"
+      ],
+      "start_s": 1061.629,
+      "end_s": 1077.288,
+      "text": "Men report more intense jealousy in response to sexual infidelity, the threat that a partner has had sex with someone else, while women report more intense jealousy in response to emotional infidelity, the threat that a partner has formed a deep emotional attachment to someone else.",
+      "n_words": 46,
+      "n_sentences": 1,
+      "pos_pct": 0.7794632892804698
+    },
+    {
+      "window_id": "5agqeNtjstU:j0094",
+      "video_id": "5agqeNtjstU",
+      "idx": 94,
+      "sent_ids": [
+        "5agqeNtjstU:s0134"
+      ],
+      "start_s": 1078.169,
+      "end_s": 1085.421,
+      "text": "These differences are predicted by evolutionary theory on the basis of the different reproductive consequences of each type of infidelity for each sex.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.791607195301028
+    },
+    {
+      "window_id": "5agqeNtjstU:j0095",
+      "video_id": "5agqeNtjstU",
+      "idx": 95,
+      "sent_ids": [
+        "5agqeNtjstU:s0135"
+      ],
+      "start_s": 1086.494,
+      "end_s": 1094.38,
+      "text": "For a man in the ancestral environment, sexual infidelity by a partner creates the risk of investing resources in offspring that are not his.",
+      "n_words": 24,
+      "n_sentences": 1,
+      "pos_pct": 0.79771953010279
+    },
+    {
+      "window_id": "5agqeNtjstU:j0096",
+      "video_id": "5agqeNtjstU",
+      "idx": 96,
+      "sent_ids": [
+        "5agqeNtjstU:s0136"
+      ],
+      "start_s": 1095.281,
+      "end_s": 1104.608,
+      "text": "For a woman in the ancestral environment, emotional infidelity creates the risk that a partner will redirect his resources and investment toward another woman and her offspring.",
+      "n_words": 27,
+      "n_sentences": 1,
+      "pos_pct": 0.8041710719530103
+    },
+    {
+      "window_id": "5agqeNtjstU:j0097",
+      "video_id": "5agqeNtjstU",
+      "idx": 97,
+      "sent_ids": [
+        "5agqeNtjstU:s0137"
+      ],
+      "start_s": 1105.548,
+      "end_s": 1113.454,
+      "text": "Both are real threats and both produce jealousy, but the relative intensity tracks the relative reproductive cost of each type of infidelity.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.8117092511013216
+    },
+    {
+      "window_id": "5agqeNtjstU:j0098",
+      "video_id": "5agqeNtjstU",
+      "idx": 98,
+      "sent_ids": [
+        "5agqeNtjstU:s0138"
+      ],
+      "start_s": 1114.215,
+      "end_s": 1122.799,
+      "text": "The psychology is a record of what the ancestral mating environment looked like, written in the structure of emotion rather than in stone or bone.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.8180726872246695
+    },
+    {
+      "window_id": "5agqeNtjstU:j0099",
+      "video_id": "5agqeNtjstU",
+      "idx": 99,
+      "sent_ids": [
+        "5agqeNtjstU:s0139"
+      ],
+      "start_s": 1123.959,
+      "end_s": 1132.543,
+      "text": "The role of female mate choice in shaping the human mating system is a dimension that earlier evolutionary accounts systematically under-emphasized.",
+      "n_words": 21,
+      "n_sentences": 1,
+      "pos_pct": 0.8252268722466961
+    },
+    {
+      "window_id": "5agqeNtjstU:j0100",
+      "video_id": "5agqeNtjstU",
+      "idx": 100,
+      "sent_ids": [
+        "5agqeNtjstU:s0140",
+        "5agqeNtjstU:s0141"
+      ],
+      "start_s": 1133.364,
+      "end_s": 1147.791,
+      "text": "Female mate choice is an active, sophisticated, and highly consequential force that has shaped human mating systems as powerfully as male competition has. Women in hunter-gatherer societies are not passive recipients of male competition outcomes.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.8321321585903084
+    },
+    {
+      "window_id": "5agqeNtjstU:j0101",
+      "video_id": "5agqeNtjstU",
+      "idx": 101,
+      "sent_ids": [
+        "5agqeNtjstU:s0142"
+      ],
+      "start_s": 1148.411,
+      "end_s": 1160.579,
+      "text": "They exercise preferences actively, form alliances that support those preferences, resist pairings that are not in their interest, and pursue relationships that serve their own reproductive and social goals.",
+      "n_words": 29,
+      "n_sentences": 1,
+      "pos_pct": 0.8431798825256975
+    },
+    {
+      "window_id": "5agqeNtjstU:j0102",
+      "video_id": "5agqeNtjstU",
+      "idx": 102,
+      "sent_ids": [
+        "5agqeNtjstU:s0143"
+      ],
+      "start_s": 1161.935,
+      "end_s": 1169.738,
+      "text": "Female preferences in hunter-gatherer societies tend to favor men who combine physical capability with social skill and demonstrated generosity.",
+      "n_words": 19,
+      "n_sentences": 1,
+      "pos_pct": 0.8531093979441997
+    },
+    {
+      "window_id": "5agqeNtjstU:j0103",
+      "video_id": "5agqeNtjstU",
+      "idx": 103,
+      "sent_ids": [
+        "5agqeNtjstU:s0144"
+      ],
+      "start_s": 1170.358,
+      "end_s": 1177.941,
+      "text": "The willingness to share resources, to invest in the woman and her children, to be a reliable contributor to collective welfare over time.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.8592936857562408
+    },
+    {
+      "window_id": "5agqeNtjstU:j0104",
+      "video_id": "5agqeNtjstU",
+      "idx": 104,
+      "sent_ids": [
+        "5agqeNtjstU:s0145"
+      ],
+      "start_s": 1178.581,
+      "end_s": 1184.183,
+      "text": "This combination is not easily faked in a small group where everyone observes everyone else constantly.",
+      "n_words": 16,
+      "n_sentences": 1,
+      "pos_pct": 0.8653311306901614
+    },
+    {
+      "window_id": "5agqeNtjstU:j0105",
+      "video_id": "5agqeNtjstU",
+      "idx": 105,
+      "sent_ids": [
+        "5agqeNtjstU:s0146"
+      ],
+      "start_s": 1184.969,
+      "end_s": 1198.596,
+      "text": "Women in small bands have access to extensive information about potential partners' actual behavior under a wide range of conditions, which makes their mate choices considerably more informed than they could be in a large anonymous modern society.",
+      "n_words": 38,
+      "n_sentences": 1,
+      "pos_pct": 0.8700212922173275
+    },
+    {
+      "window_id": "5agqeNtjstU:j0106",
+      "video_id": "5agqeNtjstU",
+      "idx": 106,
+      "sent_ids": [
+        "5agqeNtjstU:s0147"
+      ],
+      "start_s": 1199.456,
+      "end_s": 1204.379,
+      "text": "The universality of marriage as a human institution points in the same direction as all the other evidence.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.8806578560939794
+    },
+    {
+      "window_id": "5agqeNtjstU:j0107",
+      "video_id": "5agqeNtjstU",
+      "idx": 107,
+      "sent_ids": [
+        "5agqeNtjstU:s0148",
+        "5agqeNtjstU:s0149"
+      ],
+      "start_s": 1205.56,
+      "end_s": 1219.45,
+      "text": "Marriage, some culturally recognized form of partnership that is publicly acknowledged, carries mutual obligations, and is distinct from casual sexual relationships, is present in every human culture ever documented. The specific forms vary enormously.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.8851395007342143
+    },
+    {
+      "window_id": "5agqeNtjstU:j0108",
+      "video_id": "5agqeNtjstU",
+      "idx": 108,
+      "sent_ids": [
+        "5agqeNtjstU:s0150"
+      ],
+      "start_s": 1220.031,
+      "end_s": 1225.575,
+      "text": "But the existence of some culturally recognized institution for the formalization of pair bonds is universal.",
+      "n_words": 16,
+      "n_sentences": 1,
+      "pos_pct": 0.8957643171806167
+    },
+    {
+      "window_id": "5agqeNtjstU:j0109",
+      "video_id": "5agqeNtjstU",
+      "idx": 109,
+      "sent_ids": [
+        "5agqeNtjstU:s0151"
+      ],
+      "start_s": 1226.235,
+      "end_s": 1237.724,
+      "text": "You embed a behavior in social structure when the behavior is important enough to require social management, and when individuals left to their own devices would not always behave in ways that serve collective interests.",
+      "n_words": 35,
+      "n_sentences": 1,
+      "pos_pct": 0.9003193832599118
+    },
+    {
+      "window_id": "5agqeNtjstU:j0110",
+      "video_id": "5agqeNtjstU",
+      "idx": 110,
+      "sent_ids": [
+        "5agqeNtjstU:s0152"
+      ],
+      "start_s": 1238.625,
+      "end_s": 1251.595,
+      "text": "The fact that every human culture has developed some form of marriage institution suggests that the underlying pair bond is real and deep enough to require formal recognition, and that it is also fragile enough to require structural support.",
+      "n_words": 39,
+      "n_sentences": 1,
+      "pos_pct": 0.9094162995594713
+    },
+    {
+      "window_id": "5agqeNtjstU:j0111",
+      "video_id": "5agqeNtjstU",
+      "idx": 111,
+      "sent_ids": [
+        "5agqeNtjstU:s0153",
+        "5agqeNtjstU:s0154",
+        "5agqeNtjstU:s0155"
+      ],
+      "start_s": 1252.456,
+      "end_s": 1267.579,
+      "text": "What does all of this add up to? Ancient humans had, predominantly, one primary partner at a time. The pair bond was real, emotionally significant, functionally important, and present in every human society ever documented.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.9195712187958883
+    },
+    {
+      "window_id": "5agqeNtjstU:j0112",
+      "video_id": "5agqeNtjstU",
+      "idx": 112,
+      "sent_ids": [
+        "5agqeNtjstU:s0156"
+      ],
+      "start_s": 1268.239,
+      "end_s": 1274.722,
+      "text": "At the same time, that pair bond was typically not exclusive in the way that modern monogamous ideals define exclusivity.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.9311593245227606
+    },
+    {
+      "window_id": "5agqeNtjstU:j0113",
+      "video_id": "5agqeNtjstU",
+      "idx": 113,
+      "sent_ids": [
+        "5agqeNtjstU:s0157"
+      ],
+      "start_s": 1275.522,
+      "end_s": 1288.526,
+      "text": "extra-pair relationships occurred, were managed rather than absent, and left traces in both the genetic record and the cross-cultural anthropological documentation of virtually every human society ever studied.",
+      "n_words": 28,
+      "n_sentences": 1,
+      "pos_pct": 0.9365066079295153
+    },
+    {
+      "window_id": "5agqeNtjstU:j0114",
+      "video_id": "5agqeNtjstU",
+      "idx": 114,
+      "sent_ids": [
+        "5agqeNtjstU:s0158",
+        "5agqeNtjstU:s0159"
+      ],
+      "start_s": 1289.547,
+      "end_s": 1299.139,
+      "text": "The mating system of our species is, in the somewhat inelegant but accurate language of the evolutionary biologists who study it, Facultative monogamy with variation.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.9468039647577092
+    },
+    {
+      "window_id": "5agqeNtjstU:j0115",
+      "video_id": "5agqeNtjstU",
+      "idx": 115,
+      "sent_ids": [
+        "5agqeNtjstU:s0160",
+        "5agqeNtjstU:s0161"
+      ],
+      "start_s": 1299.659,
+      "end_s": 1306.941,
+      "text": "The default is a recognized pair bond with one primary partner. The system is flexible enough to accommodate variation in both directions.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.9542283406754773
+    },
+    {
+      "window_id": "5agqeNtjstU:j0116",
+      "video_id": "5agqeNtjstU",
+      "idx": 116,
+      "sent_ids": [
+        "5agqeNtjstU:s0162",
+        "5agqeNtjstU:s0163"
+      ],
+      "start_s": 1307.481,
+      "end_s": 1318.483,
+      "text": "This is not a comfortable answer for anyone who wants the biological facts to straightforwardly vindicate their preferred social arrangement. It does not vindicate strict monogamy as the only natural human configuration.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.9599713656387665
+    },
+    {
+      "window_id": "5agqeNtjstU:j0117",
+      "video_id": "5agqeNtjstU",
+      "idx": 117,
+      "sent_ids": [
+        "5agqeNtjstU:s0164"
+      ],
+      "start_s": 1318.943,
+      "end_s": 1324.724,
+      "text": "It does not endorse non-monogamy as the authentic evolutionary baseline that modern culture has corrupted.",
+      "n_words": 15,
+      "n_sentences": 1,
+      "pos_pct": 0.9683869309838473
+    },
+    {
+      "window_id": "5agqeNtjstU:j0118",
+      "video_id": "5agqeNtjstU",
+      "idx": 118,
+      "sent_ids": [
+        "5agqeNtjstU:s0165",
+        "5agqeNtjstU:s0166"
+      ],
+      "start_s": 1325.633,
+      "end_s": 1338.577,
+      "text": "What it tells everyone, equally, is that the evidence is complicated, the history is complicated, and human sexual behavior has always been more variable than any simple story can capture. The pair bond is real.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.9732988252569751
+    },
+    {
+      "window_id": "5agqeNtjstU:j0119",
+      "video_id": "5agqeNtjstU",
+      "idx": 119,
+      "sent_ids": [
+        "5agqeNtjstU:s0167"
+      ],
+      "start_s": 1339.177,
+      "end_s": 1341.018,
+      "text": "Exclusivity is variable.",
+      "n_words": 3,
+      "n_sentences": 1,
+      "pos_pct": 0.9832430249632892
+    },
+    {
+      "window_id": "5agqeNtjstU:j0120",
+      "video_id": "5agqeNtjstU",
+      "idx": 120,
+      "sent_ids": [
+        "5agqeNtjstU:s0168"
+      ],
+      "start_s": 1341.798,
+      "end_s": 1356.812,
+      "text": "The specific shape of any given human partnership is negotiated between biology and culture, and circumstance in ways that resist easy generalization, and that have resisted it for as long as humans have been forming partnerships and arguing about what those partnerships should look like.",
+      "n_words": 45,
+      "n_sentences": 1,
+      "pos_pct": 0.9851674008810573
+    },
+    {
+      "window_id": "5agqeNtjstU:j0121",
+      "video_id": "5agqeNtjstU",
+      "idx": 121,
+      "sent_ids": [
+        "5agqeNtjstU:s0169"
+      ],
+      "start_s": 1357.373,
+      "end_s": 1361.117,
+      "text": "Which, if you have ever been in a relationship, is probably not news to you.",
+      "n_words": 15,
+      "n_sentences": 1,
+      "pos_pct": 0.9966027900146843
+    }
+  ]
+}

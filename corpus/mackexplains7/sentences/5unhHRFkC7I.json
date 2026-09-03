@@ -1,0 +1,2635 @@
+{
+  "video_id": "5unhHRFkC7I",
+  "duration_s": 1313.0,
+  "generated_at": "2026-09-03T11:59:40.807812+00:00",
+  "sentences": [
+    {
+      "sent_id": "5unhHRFkC7I:s0000",
+      "video_id": "5unhHRFkC7I",
+      "idx": 0,
+      "start_s": 0.131,
+      "end_s": 1.994,
+      "text": "You're having the worst day of your life.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0001",
+      "video_id": "5unhHRFkC7I",
+      "idx": 1,
+      "start_s": 2.675,
+      "end_s": 3.977,
+      "text": "Maybe you just got dumped.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0002",
+      "video_id": "5unhHRFkC7I",
+      "idx": 2,
+      "start_s": 4.417,
+      "end_s": 7.101,
+      "text": "Maybe your boss humiliated you in front of the whole office.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0003",
+      "video_id": "5unhHRFkC7I",
+      "idx": 3,
+      "start_s": 7.442,
+      "end_s": 14.191,
+      "text": "Maybe you dropped your phone screen first on concrete and watched it shatter in slow motion like a metaphor for your entire existence.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0004",
+      "video_id": "5unhHRFkC7I",
+      "idx": 4,
+      "start_s": 14.892,
+      "end_s": 15.673,
+      "text": "You come home...",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0005",
+      "video_id": "5unhHRFkC7I",
+      "idx": 5,
+      "start_s": 16.314,
+      "end_s": 17.455,
+      "text": "You don't say a word.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0006",
+      "video_id": "5unhHRFkC7I",
+      "idx": 6,
+      "start_s": 17.975,
+      "end_s": 19.056,
+      "text": "You don't have to.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0007",
+      "video_id": "5unhHRFkC7I",
+      "idx": 7,
+      "start_s": 19.596,
+      "end_s": 37.327,
+      "text": "And your dog, who, let's be honest, has spent the last eight hours aggressively napping on your couch in positions that would send a chiropractor into cardiac arrest, immediately walks over, puts his head in your lap, and stares at you with those enormous, ridiculous, impossibly warm eyes.",
+      "n_words": 48
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0008",
+      "video_id": "5unhHRFkC7I",
+      "idx": 8,
+      "start_s": 38.267,
+      "end_s": 38.848,
+      "text": "How did he know?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0009",
+      "video_id": "5unhHRFkC7I",
+      "idx": 9,
+      "start_s": 39.673,
+      "end_s": 41.055,
+      "text": "You didn't cry out loud.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0010",
+      "video_id": "5unhHRFkC7I",
+      "idx": 10,
+      "start_s": 41.576,
+      "end_s": 42.918,
+      "text": "You didn't explain anything.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0011",
+      "video_id": "5unhHRFkC7I",
+      "idx": 11,
+      "start_s": 43.179,
+      "end_s": 44.481,
+      "text": "You barely made a sound.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0012",
+      "video_id": "5unhHRFkC7I",
+      "idx": 12,
+      "start_s": 45.062,
+      "end_s": 49.289,
+      "text": "You walked through the door, set down your bag, and something in the air shifted.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0013",
+      "video_id": "5unhHRFkC7I",
+      "idx": 13,
+      "start_s": 50.257,
+      "end_s": 52.358,
+      "text": "and he felt it before you even sat down.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0014",
+      "video_id": "5unhHRFkC7I",
+      "idx": 14,
+      "start_s": 52.859,
+      "end_s": 58.702,
+      "text": "That moment right there, it's not just heartwarming, it's not just, aw, what a good boy.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0015",
+      "video_id": "5unhHRFkC7I",
+      "idx": 15,
+      "start_s": 59.142,
+      "end_s": 67.087,
+      "text": "It is one of the most scientifically fascinating things happening on this planet every single day, and almost nobody takes it seriously enough to actually investigate it.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0016",
+      "video_id": "5unhHRFkC7I",
+      "idx": 16,
+      "start_s": 67.667,
+      "end_s": 71.99,
+      "text": "Because the question, do animals actually know when a human is sad?",
+      "n_words": 12
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0017",
+      "video_id": "5unhHRFkC7I",
+      "idx": 17,
+      "start_s": 73.07,
+      "end_s": 77.734,
+      "text": "Sounds like the kind of thing you'd see embroidered on a decorative pillow next to a photo of a golden retriever.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0018",
+      "video_id": "5unhHRFkC7I",
+      "idx": 18,
+      "start_s": 78.454,
+      "end_s": 78.755,
+      "text": "Cute.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0019",
+      "video_id": "5unhHRFkC7I",
+      "idx": 19,
+      "start_s": 79.435,
+      "end_s": 80.056,
+      "text": "Sentimental.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0020",
+      "video_id": "5unhHRFkC7I",
+      "idx": 20,
+      "start_s": 80.576,
+      "end_s": 81.817,
+      "text": "Not exactly peer-reviewed.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0021",
+      "video_id": "5unhHRFkC7I",
+      "idx": 21,
+      "start_s": 82.437,
+      "end_s": 94.066,
+      "text": "But underneath that soft, fluffy exterior, it's a question that cuts to the very core of consciousness, emotion, cross-species communication, and what it even means to feel something in a body that isn't yours.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0022",
+      "video_id": "5unhHRFkC7I",
+      "idx": 22,
+      "start_s": 94.907,
+      "end_s": 104.074,
+      "text": "It touches evolutionary biology, neuroscience, animal cognition, and the 15,000-year-old experiment that changed both humans and dogs forever.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0023",
+      "video_id": "5unhHRFkC7I",
+      "idx": 23,
+      "start_s": 104.834,
+      "end_s": 105.995,
+      "text": "So let's actually answer it.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0024",
+      "video_id": "5unhHRFkC7I",
+      "idx": 24,
+      "start_s": 106.856,
+      "end_s": 107.396,
+      "text": "Properly.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0025",
+      "video_id": "5unhHRFkC7I",
+      "idx": 25,
+      "start_s": 108.297,
+      "end_s": 109.038,
+      "text": "With science.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0026",
+      "video_id": "5unhHRFkC7I",
+      "idx": 26,
+      "start_s": 110.098,
+      "end_s": 114.742,
+      "text": "Let's start with something that took researchers an embarrassingly long time to admit out loud.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0027",
+      "video_id": "5unhHRFkC7I",
+      "idx": 27,
+      "start_s": 115.562,
+      "end_s": 117.004,
+      "text": "Animals have emotions.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0028",
+      "video_id": "5unhHRFkC7I",
+      "idx": 28,
+      "start_s": 117.824,
+      "end_s": 123.248,
+      "text": "I say embarrassingly long, because if you've ever owned a pet, you probably figured this out within the first 48 hours.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0029",
+      "video_id": "5unhHRFkC7I",
+      "idx": 29,
+      "start_s": 124.469,
+      "end_s": 134.019,
+      "text": "the joy when you get home, the sulking when you leave, the very specific look of betrayal your cat gives you when you open a can that turns out to be chickpeas.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0030",
+      "video_id": "5unhHRFkC7I",
+      "idx": 30,
+      "start_s": 134.88,
+      "end_s": 147.373,
+      "text": "But science, bless its cautious little heart, needed roughly a century of careful observation, controlled studies, and a lot of heated conference debates before it was willing to commit that to paper.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0031",
+      "video_id": "5unhHRFkC7I",
+      "idx": 31,
+      "start_s": 148.568,
+      "end_s": 153.529,
+      "text": "For most of the 20th century, the dominant view in biology was something called behaviorism.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0032",
+      "video_id": "5unhHRFkC7I",
+      "idx": 32,
+      "start_s": 154.169,
+      "end_s": 157.63,
+      "text": "The idea that animals were essentially biological machines.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0033",
+      "video_id": "5unhHRFkC7I",
+      "idx": 33,
+      "start_s": 158.19,
+      "end_s": 159.251,
+      "text": "They didn't feel things.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0034",
+      "video_id": "5unhHRFkC7I",
+      "idx": 34,
+      "start_s": 159.651,
+      "end_s": 161.131,
+      "text": "They reacted to stimuli.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0035",
+      "video_id": "5unhHRFkC7I",
+      "idx": 35,
+      "start_s": 161.731,
+      "end_s": 163.972,
+      "text": "A dog wagging its tail wasn't expressing joy.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0036",
+      "video_id": "5unhHRFkC7I",
+      "idx": 36,
+      "start_s": 164.472,
+      "end_s": 170.113,
+      "text": "It was executing a hardwired behavioral response pattern associated with social bonding scenarios.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0037",
+      "video_id": "5unhHRFkC7I",
+      "idx": 37,
+      "start_s": 170.873,
+      "end_s": 171.674,
+      "text": "Very clinical.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0038",
+      "video_id": "5unhHRFkC7I",
+      "idx": 38,
+      "start_s": 172.554,
+      "end_s": 173.274,
+      "text": "Very tidy.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0039",
+      "video_id": "5unhHRFkC7I",
+      "idx": 39,
+      "start_s": 173.934,
+      "end_s": 177.375,
+      "text": "Very much how someone who has never owned a dog would describe a dog.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0040",
+      "video_id": "5unhHRFkC7I",
+      "idx": 40,
+      "start_s": 178.521,
+      "end_s": 181.542,
+      "text": "The shift came gradually, and it came from multiple directions at once.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0041",
+      "video_id": "5unhHRFkC7I",
+      "idx": 41,
+      "start_s": 182.322,
+      "end_s": 187.844,
+      "text": "Researchers studying great apes in the field started noticing things that were genuinely difficult to explain away.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0042",
+      "video_id": "5unhHRFkC7I",
+      "idx": 42,
+      "start_s": 188.524,
+      "end_s": 198.468,
+      "text": "Chimpanzees who lost companions would go through prolonged periods of lethargy, social withdrawal, reduced eating, and something that looked remarkably like what we'd call depression.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0043",
+      "video_id": "5unhHRFkC7I",
+      "idx": 43,
+      "start_s": 199.348,
+      "end_s": 211.173,
+      "text": "Elephants would return to the bones of deceased herd members years later, sometimes traveling significant distances to do so, and touch them gently with their trunks in ways that served absolutely no survival function.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0044",
+      "video_id": "5unhHRFkC7I",
+      "idx": 44,
+      "start_s": 212.314,
+      "end_s": 218.056,
+      "text": "Dolphins were observed staying near deceased calves long after any practical reason to do so had passed.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0045",
+      "video_id": "5unhHRFkC7I",
+      "idx": 45,
+      "start_s": 218.997,
+      "end_s": 221.578,
+      "text": "None of this fit the biological machine model.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0046",
+      "video_id": "5unhHRFkC7I",
+      "idx": 46,
+      "start_s": 222.178,
+      "end_s": 223.539,
+      "text": "Machines don't grieve.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0047",
+      "video_id": "5unhHRFkC7I",
+      "idx": 47,
+      "start_s": 224.139,
+      "end_s": 226.48,
+      "text": "Machines don't make detours to visit the dead.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0048",
+      "video_id": "5unhHRFkC7I",
+      "idx": 48,
+      "start_s": 227.347,
+      "end_s": 230.67,
+      "text": "Then came neuroscience, and it changed everything.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0049",
+      "video_id": "5unhHRFkC7I",
+      "idx": 49,
+      "start_s": 232.172,
+      "end_s": 237.797,
+      "text": "When researchers looked carefully at the brains of mammals, they found something that reframed the entire conversation.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0050",
+      "video_id": "5unhHRFkC7I",
+      "idx": 50,
+      "start_s": 238.765,
+      "end_s": 246.667,
+      "text": "The limbic system, the network of brain structures most closely associated with emotional processing in humans, is not a human invention.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0051",
+      "video_id": "5unhHRFkC7I",
+      "idx": 51,
+      "start_s": 247.327,
+      "end_s": 249.348,
+      "text": "It is not a uniquely primate development.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0052",
+      "video_id": "5unhHRFkC7I",
+      "idx": 52,
+      "start_s": 249.708,
+      "end_s": 254.509,
+      "text": "It is present in varying forms and degrees of complexity across virtually all mammals.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0053",
+      "video_id": "5unhHRFkC7I",
+      "idx": 53,
+      "start_s": 255.129,
+      "end_s": 256.529,
+      "text": "Traces of it appear in birds.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0054",
+      "video_id": "5unhHRFkC7I",
+      "idx": 54,
+      "start_s": 257.029,
+      "end_s": 258.99,
+      "text": "Elements of it show up even in fish.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0055",
+      "video_id": "5unhHRFkC7I",
+      "idx": 55,
+      "start_s": 260.0,
+      "end_s": 262.441,
+      "text": "What that means is staggering when you sit with it.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0056",
+      "video_id": "5unhHRFkC7I",
+      "idx": 56,
+      "start_s": 263.301,
+      "end_s": 268.202,
+      "text": "Emotion isn't something humans invented or stumbled upon through some miraculous cognitive leap.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0057",
+      "video_id": "5unhHRFkC7I",
+      "idx": 57,
+      "start_s": 268.762,
+      "end_s": 274.343,
+      "text": "It is an ancient biological tool, hundreds of millions of years old, that evolution kept because it works.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0058",
+      "video_id": "5unhHRFkC7I",
+      "idx": 58,
+      "start_s": 275.144,
+      "end_s": 276.924,
+      "text": "Fear keeps you away from predators.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0059",
+      "video_id": "5unhHRFkC7I",
+      "idx": 59,
+      "start_s": 277.284,
+      "end_s": 282.665,
+      "text": "Attachment keeps social animals bonded in groups that survive better than isolated individuals.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0060",
+      "video_id": "5unhHRFkC7I",
+      "idx": 60,
+      "start_s": 283.546,
+      "end_s": 289.607,
+      "text": "Grief signals the loss of something that mattered to your survival and motivates behaviors that protect what remains.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0061",
+      "video_id": "5unhHRFkC7I",
+      "idx": 61,
+      "start_s": 290.548,
+      "end_s": 292.39,
+      "text": "Emotion is functional.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0062",
+      "video_id": "5unhHRFkC7I",
+      "idx": 62,
+      "start_s": 293.771,
+      "end_s": 294.512,
+      "text": "And it is old.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0063",
+      "video_id": "5unhHRFkC7I",
+      "idx": 63,
+      "start_s": 295.553,
+      "end_s": 296.494,
+      "text": "Far older than us.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0064",
+      "video_id": "5unhHRFkC7I",
+      "idx": 64,
+      "start_s": 297.515,
+      "end_s": 305.905,
+      "text": "And if animals have the neurological architecture for emotion, if they have the hardware, so to speak, then the next question becomes obvious.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0065",
+      "video_id": "5unhHRFkC7I",
+      "idx": 65,
+      "start_s": 306.957,
+      "end_s": 309.218,
+      "text": "Can they detect those same signals in others?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0066",
+      "video_id": "5unhHRFkC7I",
+      "idx": 66,
+      "start_s": 310.039,
+      "end_s": 313.081,
+      "text": "Can they read the emotional state of a being that isn't them?",
+      "n_words": 12
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0067",
+      "video_id": "5unhHRFkC7I",
+      "idx": 67,
+      "start_s": 313.781,
+      "end_s": 316.283,
+      "text": "The answer, it turns out, is yes.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0068",
+      "video_id": "5unhHRFkC7I",
+      "idx": 68,
+      "start_s": 316.943,
+      "end_s": 321.146,
+      "text": "Conclusively, measurably, scientifically, yes.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0069",
+      "video_id": "5unhHRFkC7I",
+      "idx": 69,
+      "start_s": 321.826,
+      "end_s": 324.768,
+      "text": "But the how is where things get genuinely mind-blowing.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0070",
+      "video_id": "5unhHRFkC7I",
+      "idx": 70,
+      "start_s": 326.085,
+      "end_s": 327.026,
+      "text": "Let's talk about smell.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0071",
+      "video_id": "5unhHRFkC7I",
+      "idx": 71,
+      "start_s": 327.406,
+      "end_s": 337.312,
+      "text": "Specifically, let's talk about your dog's nose, because this is where dogs go from adorable and loyal companions to walking biological supercomputers that are casually doing things we barely understand.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0072",
+      "video_id": "5unhHRFkC7I",
+      "idx": 72,
+      "start_s": 338.433,
+      "end_s": 342.556,
+      "text": "A dog's nose contains roughly 300 million olfactory receptors.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0073",
+      "video_id": "5unhHRFkC7I",
+      "idx": 73,
+      "start_s": 343.136,
+      "end_s": 345.278,
+      "text": "A human nose contains about 6 million.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0074",
+      "video_id": "5unhHRFkC7I",
+      "idx": 74,
+      "start_s": 346.098,
+      "end_s": 350.322,
+      "text": "Now, you might hear that and think, okay, dogs have a better sense of smell, I knew that.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0075",
+      "video_id": "5unhHRFkC7I",
+      "idx": 75,
+      "start_s": 350.742,
+      "end_s": 354.245,
+      "text": "But the gap here isn't like comparing a good swimmer to an excellent swimmer.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0076",
+      "video_id": "5unhHRFkC7I",
+      "idx": 76,
+      "start_s": 354.626,
+      "end_s": 361.372,
+      "text": "It's like comparing someone who can see a candle to someone who can detect a single candle flame from 80 kilometers away on a clear night.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0077",
+      "video_id": "5unhHRFkC7I",
+      "idx": 77,
+      "start_s": 362.072,
+      "end_s": 365.756,
+      "text": "Dogs are not experiencing a slightly sharper version of your olfactory world.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0078",
+      "video_id": "5unhHRFkC7I",
+      "idx": 78,
+      "start_s": 366.176,
+      "end_s": 369.7,
+      "text": "They are experiencing a fundamentally different relationship with chemical reality.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0079",
+      "video_id": "5unhHRFkC7I",
+      "idx": 79,
+      "start_s": 370.281,
+      "end_s": 372.383,
+      "text": "When you walk into a room, you see a room.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0080",
+      "video_id": "5unhHRFkC7I",
+      "idx": 80,
+      "start_s": 372.944,
+      "end_s": 382.293,
+      "text": "A dog reads the entire chemical history of every person and animal who has been there, cross-referenced with their health status, emotional state, recent diet, and stress levels.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0081",
+      "video_id": "5unhHRFkC7I",
+      "idx": 81,
+      "start_s": 382.954,
+      "end_s": 384.835,
+      "text": "They are not smelling the same world you are.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0082",
+      "video_id": "5unhHRFkC7I",
+      "idx": 82,
+      "start_s": 385.435,
+      "end_s": 388.516,
+      "text": "They are smelling a completely different, infinitely richer one.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0083",
+      "video_id": "5unhHRFkC7I",
+      "idx": 83,
+      "start_s": 389.317,
+      "end_s": 391.358,
+      "text": "Now here's where this becomes directly relevant.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0084",
+      "video_id": "5unhHRFkC7I",
+      "idx": 84,
+      "start_s": 391.878,
+      "end_s": 397.56,
+      "text": "When you are sad or when you are experiencing genuine emotional distress, your body doesn't just feel different.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0085",
+      "video_id": "5unhHRFkC7I",
+      "idx": 85,
+      "start_s": 398.02,
+      "end_s": 399.141,
+      "text": "It is chemically different.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0086",
+      "video_id": "5unhHRFkC7I",
+      "idx": 86,
+      "start_s": 399.481,
+      "end_s": 400.902,
+      "text": "Your cortisol levels rise.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0087",
+      "video_id": "5unhHRFkC7I",
+      "idx": 87,
+      "start_s": 401.362,
+      "end_s": 402.422,
+      "text": "Your adrenaline shifts.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0088",
+      "video_id": "5unhHRFkC7I",
+      "idx": 88,
+      "start_s": 402.903,
+      "end_s": 404.123,
+      "text": "Your heart rate changes.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0089",
+      "video_id": "5unhHRFkC7I",
+      "idx": 89,
+      "start_s": 404.783,
+      "end_s": 406.444,
+      "text": "The composition of your sweat changes.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0090",
+      "video_id": "5unhHRFkC7I",
+      "idx": 90,
+      "start_s": 406.964,
+      "end_s": 407.925,
+      "text": "Your breath changes.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0091",
+      "video_id": "5unhHRFkC7I",
+      "idx": 91,
+      "start_s": 408.765,
+      "end_s": 411.969,
+      "text": "These are not subtle, poetic metaphors for emotional states.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0092",
+      "video_id": "5unhHRFkC7I",
+      "idx": 92,
+      "start_s": 412.63,
+      "end_s": 420.26,
+      "text": "These are real, physical, measurable molecular events producing actual compounds that float off your body into the surrounding air.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0093",
+      "video_id": "5unhHRFkC7I",
+      "idx": 93,
+      "start_s": 420.901,
+      "end_s": 423.404,
+      "text": "And your dog is picking up every single one of them.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0094",
+      "video_id": "5unhHRFkC7I",
+      "idx": 94,
+      "start_s": 424.285,
+      "end_s": 429.327,
+      "text": "A 2022 study published in the journal PLOS One was specifically designed to test this.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0095",
+      "video_id": "5unhHRFkC7I",
+      "idx": 95,
+      "start_s": 429.967,
+      "end_s": 438.17,
+      "text": "Researchers trained dogs to discriminate between breath and sweat samples collected from humans in high-stress states versus calm, relaxed states.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0096",
+      "video_id": "5unhHRFkC7I",
+      "idx": 96,
+      "start_s": 438.89,
+      "end_s": 439.83,
+      "text": "No visual cues.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0097",
+      "video_id": "5unhHRFkC7I",
+      "idx": 97,
+      "start_s": 440.53,
+      "end_s": 441.891,
+      "text": "No behavioral information.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0098",
+      "video_id": "5unhHRFkC7I",
+      "idx": 98,
+      "start_s": 442.911,
+      "end_s": 445.252,
+      "text": "Just the chemical signal on a cotton swab.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0099",
+      "video_id": "5unhHRFkC7I",
+      "idx": 99,
+      "start_s": 446.297,
+      "end_s": 454.565,
+      "text": "The dogs identified the stressed samples correctly, with an accuracy of over 93%—93%—from a cotton swab.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0100",
+      "video_id": "5unhHRFkC7I",
+      "idx": 100,
+      "start_s": 455.426,
+      "end_s": 458.109,
+      "text": "Smelling stress like most of us, smell coffee.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0101",
+      "video_id": "5unhHRFkC7I",
+      "idx": 101,
+      "start_s": 458.609,
+      "end_s": 463.654,
+      "text": "Your dog doesn't sense your sadness in some vague, mystical, animals-just-know kind of way.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0102",
+      "video_id": "5unhHRFkC7I",
+      "idx": 102,
+      "start_s": 464.275,
+      "end_s": 467.937,
+      "text": "Your dog smells your sadness the way you'd smell smoke from a fire two streets over.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0103",
+      "video_id": "5unhHRFkC7I",
+      "idx": 103,
+      "start_s": 468.438,
+      "end_s": 469.098,
+      "text": "It is immediate.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0104",
+      "video_id": "5unhHRFkC7I",
+      "idx": 104,
+      "start_s": 469.438,
+      "end_s": 470.199,
+      "text": "It is specific.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0105",
+      "video_id": "5unhHRFkC7I",
+      "idx": 105,
+      "start_s": 470.619,
+      "end_s": 471.32,
+      "text": "It is chemical.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0106",
+      "video_id": "5unhHRFkC7I",
+      "idx": 106,
+      "start_s": 471.78,
+      "end_s": 477.524,
+      "text": "And by the time you've sat down on that couch, your dog has already received a full biochemical report on your emotional state.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0107",
+      "video_id": "5unhHRFkC7I",
+      "idx": 107,
+      "start_s": 478.184,
+      "end_s": 478.965,
+      "text": "But here's the thing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0108",
+      "video_id": "5unhHRFkC7I",
+      "idx": 108,
+      "start_s": 479.405,
+      "end_s": 481.086,
+      "text": "Smell is only one piece of this.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0109",
+      "video_id": "5unhHRFkC7I",
+      "idx": 109,
+      "start_s": 481.666,
+      "end_s": 489.131,
+      "text": "Because dogs, and several other animals, have developed something even more extraordinary on top of that olfactory genius.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0110",
+      "video_id": "5unhHRFkC7I",
+      "idx": 110,
+      "start_s": 489.852,
+      "end_s": 491.953,
+      "text": "They've learned to read human faces.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0111",
+      "video_id": "5unhHRFkC7I",
+      "idx": 111,
+      "start_s": 493.603,
+      "end_s": 497.566,
+      "text": "This is the part where you should probably sit down, because it gets genuinely strange.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0112",
+      "video_id": "5unhHRFkC7I",
+      "idx": 112,
+      "start_s": 498.307,
+      "end_s": 506.894,
+      "text": "For somewhere between 15,000 and 40,000 years, depending on which archaeological evidence you trust, dogs have lived alongside humans.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0113",
+      "video_id": "5unhHRFkC7I",
+      "idx": 113,
+      "start_s": 507.514,
+      "end_s": 509.396,
+      "text": "Not just in the same general environment.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0114",
+      "video_id": "5unhHRFkC7I",
+      "idx": 114,
+      "start_s": 509.856,
+      "end_s": 511.177,
+      "text": "Inside our social structures.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0115",
+      "video_id": "5unhHRFkC7I",
+      "idx": 115,
+      "start_s": 511.678,
+      "end_s": 513.079,
+      "text": "Inside our emotional lives.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0116",
+      "video_id": "5unhHRFkC7I",
+      "idx": 116,
+      "start_s": 513.739,
+      "end_s": 519.424,
+      "text": "Sleeping next to us, watching us, depending on us, and being depended upon.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0117",
+      "video_id": "5unhHRFkC7I",
+      "idx": 117,
+      "start_s": 520.372,
+      "end_s": 531.278,
+      "text": "And over that vast stretch of time, through the relentless, patient, blind logic of natural selection, something happened that has no real parallel in the animal kingdom.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0118",
+      "video_id": "5unhHRFkC7I",
+      "idx": 118,
+      "start_s": 532.098,
+      "end_s": 536.981,
+      "text": "Dogs evolved specific cognitive adaptations for reading human emotional expressions.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0119",
+      "video_id": "5unhHRFkC7I",
+      "idx": 119,
+      "start_s": 537.501,
+      "end_s": 539.042,
+      "text": "Not animal expressions in general.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0120",
+      "video_id": "5unhHRFkC7I",
+      "idx": 120,
+      "start_s": 539.542,
+      "end_s": 541.063,
+      "text": "Not dog-to-dog body language.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0121",
+      "video_id": "5unhHRFkC7I",
+      "idx": 121,
+      "start_s": 541.623,
+      "end_s": 542.924,
+      "text": "Human faces, specifically.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0122",
+      "video_id": "5unhHRFkC7I",
+      "idx": 122,
+      "start_s": 543.745,
+      "end_s": 549.408,
+      "text": "In 2015, a research team from the University of Vienna designed a study to test this precisely.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0123",
+      "video_id": "5unhHRFkC7I",
+      "idx": 123,
+      "start_s": 550.228,
+      "end_s": 560.85,
+      "text": "they showed dogs photographs of happy and angry human faces, sometimes only the upper half, sometimes only the lower half, and rewarded them for correctly identifying one emotional category.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0124",
+      "video_id": "5unhHRFkC7I",
+      "idx": 124,
+      "start_s": 561.79,
+      "end_s": 565.991,
+      "text": "The faces belonged to strangers, not the dogs' owners.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0125",
+      "video_id": "5unhHRFkC7I",
+      "idx": 125,
+      "start_s": 566.871,
+      "end_s": 569.132,
+      "text": "People these dogs had never encountered before.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0126",
+      "video_id": "5unhHRFkC7I",
+      "idx": 126,
+      "start_s": 569.772,
+      "end_s": 570.652,
+      "text": "The dogs could do it.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0127",
+      "video_id": "5unhHRFkC7I",
+      "idx": 127,
+      "start_s": 571.272,
+      "end_s": 571.972,
+      "text": "Consistently.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0128",
+      "video_id": "5unhHRFkC7I",
+      "idx": 128,
+      "start_s": 572.532,
+      "end_s": 573.312,
+      "text": "Above chance.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0129",
+      "video_id": "5unhHRFkC7I",
+      "idx": 129,
+      "start_s": 573.913,
+      "end_s": 575.433,
+      "text": "With faces they had never seen.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0130",
+      "video_id": "5unhHRFkC7I",
+      "idx": 130,
+      "start_s": 576.395,
+      "end_s": 579.837,
+      "text": "More than that, they showed distinct behavioral responses.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0131",
+      "video_id": "5unhHRFkC7I",
+      "idx": 131,
+      "start_s": 580.457,
+      "end_s": 587.201,
+      "text": "Faced with angry expressions, they were more hesitant, more guarded, more likely to approach cautiously, or not at all.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0132",
+      "video_id": "5unhHRFkC7I",
+      "idx": 132,
+      "start_s": 587.821,
+      "end_s": 592.104,
+      "text": "Faced with happy expressions, they were more willing to approach, more relaxed in their posture.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0133",
+      "video_id": "5unhHRFkC7I",
+      "idx": 133,
+      "start_s": 592.464,
+      "end_s": 593.884,
+      "text": "They weren't just telling the difference.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0134",
+      "video_id": "5unhHRFkC7I",
+      "idx": 134,
+      "start_s": 594.545,
+      "end_s": 600.348,
+      "text": "They were interpreting what the difference meant and adjusting their behavior in real time based on that interpretation.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0135",
+      "video_id": "5unhHRFkC7I",
+      "idx": 135,
+      "start_s": 600.868,
+      "end_s": 603.59,
+      "text": "Follow-up research produced an even more specific finding.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0136",
+      "video_id": "5unhHRFkC7I",
+      "idx": 136,
+      "start_s": 604.35,
+      "end_s": 619.857,
+      "text": "Dogs process human emotional faces using a left-gaze bias, meaning they instinctively look first to the right side of a human face, which is the side that most strongly and reliably communicates emotional state in people due to right hemisphere dominance in emotional expression.",
+      "n_words": 44
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0137",
+      "video_id": "5unhHRFkC7I",
+      "idx": 137,
+      "start_s": 620.497,
+      "end_s": 624.339,
+      "text": "This is exactly the same bias that humans use when reading each other's faces.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0138",
+      "video_id": "5unhHRFkC7I",
+      "idx": 138,
+      "start_s": 624.939,
+      "end_s": 631.302,
+      "text": "We either taught it to them, or they evolved it alongside us across thousands of years of shared living.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0139",
+      "video_id": "5unhHRFkC7I",
+      "idx": 139,
+      "start_s": 632.062,
+      "end_s": 637.227,
+      "text": "Either way, it is a cognitive tool built specifically for navigating human emotional reality.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0140",
+      "video_id": "5unhHRFkC7I",
+      "idx": 140,
+      "start_s": 637.847,
+      "end_s": 641.21,
+      "text": "What this means when you add it all together is remarkable.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0141",
+      "video_id": "5unhHRFkC7I",
+      "idx": 141,
+      "start_s": 641.63,
+      "end_s": 646.434,
+      "text": "Over millennia of living with us, dogs didn't just become physically comfortable in human company.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0142",
+      "video_id": "5unhHRFkC7I",
+      "idx": 142,
+      "start_s": 647.035,
+      "end_s": 657.283,
+      "text": "They didn't just learn our schedules and our habits, they built an entirely new layer of cognitive machinery, dedicated specialized neural processing specifically for understanding us.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0143",
+      "video_id": "5unhHRFkC7I",
+      "idx": 143,
+      "start_s": 658.144,
+      "end_s": 663.25,
+      "text": "they became, in a very real and measurable sense, experts in being human.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0144",
+      "video_id": "5unhHRFkC7I",
+      "idx": 144,
+      "start_s": 664.267,
+      "end_s": 666.348,
+      "text": "Now, dogs are an obvious case.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0145",
+      "video_id": "5unhHRFkC7I",
+      "idx": 145,
+      "start_s": 666.889,
+      "end_s": 671.231,
+      "text": "They've been shaped by thousands of years of selective pressure specifically around human interaction.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0146",
+      "video_id": "5unhHRFkC7I",
+      "idx": 146,
+      "start_s": 671.852,
+      "end_s": 673.393,
+      "text": "But what about other animals?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0147",
+      "video_id": "5unhHRFkC7I",
+      "idx": 147,
+      "start_s": 674.013,
+      "end_s": 679.436,
+      "text": "What about cats, horses, elephants, or the wild ones that have spent no time in our living rooms at all?",
+      "n_words": 20
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0148",
+      "video_id": "5unhHRFkC7I",
+      "idx": 148,
+      "start_s": 680.637,
+      "end_s": 681.718,
+      "text": "Let's start with cats.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0149",
+      "video_id": "5unhHRFkC7I",
+      "idx": 149,
+      "start_s": 682.278,
+      "end_s": 683.339,
+      "text": "They deserve the floor.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0150",
+      "video_id": "5unhHRFkC7I",
+      "idx": 150,
+      "start_s": 683.939,
+      "end_s": 688.542,
+      "text": "Cats have a reputation, somewhat earned I'll admit, for being emotionally indifferent.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0151",
+      "video_id": "5unhHRFkC7I",
+      "idx": 151,
+      "start_s": 689.317,
+      "end_s": 689.637,
+      "text": "Cool.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0152",
+      "video_id": "5unhHRFkC7I",
+      "idx": 152,
+      "start_s": 690.378,
+      "end_s": 690.798,
+      "text": "Distant.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0153",
+      "video_id": "5unhHRFkC7I",
+      "idx": 153,
+      "start_s": 691.579,
+      "end_s": 695.781,
+      "text": "Operating on a private agenda that has nothing to do with you or your feelings.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0154",
+      "video_id": "5unhHRFkC7I",
+      "idx": 154,
+      "start_s": 696.462,
+      "end_s": 698.163,
+      "text": "And there's a structural reason for this.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0155",
+      "video_id": "5unhHRFkC7I",
+      "idx": 155,
+      "start_s": 698.743,
+      "end_s": 701.065,
+      "text": "Cats were not domesticated for emotional labor.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0156",
+      "video_id": "5unhHRFkC7I",
+      "idx": 156,
+      "start_s": 701.465,
+      "end_s": 703.867,
+      "text": "They were domesticated primarily for pest control.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0157",
+      "video_id": "5unhHRFkC7I",
+      "idx": 157,
+      "start_s": 704.707,
+      "end_s": 706.848,
+      "text": "The evolutionary contract is different.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0158",
+      "video_id": "5unhHRFkC7I",
+      "idx": 158,
+      "start_s": 707.308,
+      "end_s": 710.569,
+      "text": "Dogs were bred to work with humans emotionally and socially.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0159",
+      "video_id": "5unhHRFkC7I",
+      "idx": 159,
+      "start_s": 711.069,
+      "end_s": 714.05,
+      "text": "Cats were bred to work near humans while doing their own thing.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0160",
+      "video_id": "5unhHRFkC7I",
+      "idx": 160,
+      "start_s": 714.55,
+      "end_s": 716.01,
+      "text": "But don't let that fool you.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0161",
+      "video_id": "5unhHRFkC7I",
+      "idx": 161,
+      "start_s": 716.631,
+      "end_s": 723.613,
+      "text": "A study from Oakland University found that cats behave measurably differently around owners who are smiling versus owners who are frowning.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0162",
+      "video_id": "5unhHRFkC7I",
+      "idx": 162,
+      "start_s": 724.053,
+      "end_s": 731.335,
+      "text": "Around smiling owners, they were significantly more likely to approach, to purr, to engage in affiliative behaviors like rubbing.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0163",
+      "video_id": "5unhHRFkC7I",
+      "idx": 163,
+      "start_s": 732.705,
+      "end_s": 738.429,
+      "text": "Around frowning owners they were more withdrawn, more cautious, more likely to keep their distance.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0164",
+      "video_id": "5unhHRFkC7I",
+      "idx": 164,
+      "start_s": 739.089,
+      "end_s": 744.713,
+      "text": "The key finding, this effect was strongest with their own owners and much weaker with strangers.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0165",
+      "video_id": "5unhHRFkC7I",
+      "idx": 165,
+      "start_s": 745.374,
+      "end_s": 750.017,
+      "text": "Which suggests the cats haven't evolved a general purpose human face reader the way dogs have.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0166",
+      "video_id": "5unhHRFkC7I",
+      "idx": 166,
+      "start_s": 750.957,
+      "end_s": 754.098,
+      "text": "What they've done instead is something arguably more intimate.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0167",
+      "video_id": "5unhHRFkC7I",
+      "idx": 167,
+      "start_s": 754.558,
+      "end_s": 758.999,
+      "text": "They've built a bespoke, individualized, emotional model of their specific person.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0168",
+      "video_id": "5unhHRFkC7I",
+      "idx": 168,
+      "start_s": 759.399,
+      "end_s": 761.519,
+      "text": "Your cat has spent years studying you.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0169",
+      "video_id": "5unhHRFkC7I",
+      "idx": 169,
+      "start_s": 761.779,
+      "end_s": 767.541,
+      "text": "Your micro-expressions, your particular sounds when you're stressed, your movement patterns when something's wrong.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0170",
+      "video_id": "5unhHRFkC7I",
+      "idx": 170,
+      "start_s": 767.981,
+      "end_s": 772.842,
+      "text": "Your cat knows you in specific, personal, accumulated detail.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0171",
+      "video_id": "5unhHRFkC7I",
+      "idx": 171,
+      "start_s": 773.262,
+      "end_s": 776.763,
+      "text": "which, when you think about it, might be the deeper form of understanding.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0172",
+      "video_id": "5unhHRFkC7I",
+      "idx": 172,
+      "start_s": 777.203,
+      "end_s": 782.525,
+      "text": "Not, I know what humans look like when they're sad, but, I know what you look like when you're sad.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0173",
+      "video_id": "5unhHRFkC7I",
+      "idx": 173,
+      "start_s": 782.945,
+      "end_s": 785.586,
+      "text": "Horses operate on yet another level entirely.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0174",
+      "video_id": "5unhHRFkC7I",
+      "idx": 174,
+      "start_s": 787.146,
+      "end_s": 793.968,
+      "text": "In a 2018 study from the University of Sussex, horses were shown photographs of angry and happy human faces.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0175",
+      "video_id": "5unhHRFkC7I",
+      "idx": 175,
+      "start_s": 794.608,
+      "end_s": 800.83,
+      "text": "Hours later, not immediately, hours later, they were introduced to the actual person from the photograph.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0176",
+      "video_id": "5unhHRFkC7I",
+      "idx": 176,
+      "start_s": 801.752,
+      "end_s": 803.353,
+      "text": "The person behaved neutrally.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0177",
+      "video_id": "5unhHRFkC7I",
+      "idx": 177,
+      "start_s": 804.133,
+      "end_s": 805.934,
+      "text": "No emotional expression either way.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0178",
+      "video_id": "5unhHRFkC7I",
+      "idx": 178,
+      "start_s": 806.794,
+      "end_s": 813.556,
+      "text": "Horses who had previously seen the angry photograph showed significantly more wariness around that person than horses who had seen the happy photograph.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0179",
+      "video_id": "5unhHRFkC7I",
+      "idx": 179,
+      "start_s": 814.437,
+      "end_s": 816.017,
+      "text": "They remembered the emotional signal.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0180",
+      "video_id": "5unhHRFkC7I",
+      "idx": 180,
+      "start_s": 816.897,
+      "end_s": 818.218,
+      "text": "They formed an expectation.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0181",
+      "video_id": "5unhHRFkC7I",
+      "idx": 181,
+      "start_s": 819.453,
+      "end_s": 826.835,
+      "text": "and they adjusted their behavior toward a neutral stranger based entirely on an emotional impression made from a photograph hours earlier.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0182",
+      "video_id": "5unhHRFkC7I",
+      "idx": 182,
+      "start_s": 827.795,
+      "end_s": 828.956,
+      "text": "That is not reflex.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0183",
+      "video_id": "5unhHRFkC7I",
+      "idx": 183,
+      "start_s": 829.396,
+      "end_s": 830.396,
+      "text": "That is not instinct.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0184",
+      "video_id": "5unhHRFkC7I",
+      "idx": 184,
+      "start_s": 830.916,
+      "end_s": 834.237,
+      "text": "That is memory-based emotional reasoning applied across time.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0185",
+      "video_id": "5unhHRFkC7I",
+      "idx": 185,
+      "start_s": 834.878,
+      "end_s": 839.659,
+      "text": "That is cognition operating in a way we barely give animals credit for.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0186",
+      "video_id": "5unhHRFkC7I",
+      "idx": 186,
+      "start_s": 840.779,
+      "end_s": 841.599,
+      "text": "Let's go further.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0187",
+      "video_id": "5unhHRFkC7I",
+      "idx": 187,
+      "start_s": 842.14,
+      "end_s": 843.26,
+      "text": "Let's go to the wild.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0188",
+      "video_id": "5unhHRFkC7I",
+      "idx": 188,
+      "start_s": 844.668,
+      "end_s": 852.051,
+      "text": "Elephants are, neurologically and behaviorally, among the most emotionally sophisticated animals we have ever studied.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0189",
+      "video_id": "5unhHRFkC7I",
+      "idx": 189,
+      "start_s": 852.591,
+      "end_s": 854.312,
+      "text": "They console each other in distress.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0190",
+      "video_id": "5unhHRFkC7I",
+      "idx": 190,
+      "start_s": 854.892,
+      "end_s": 863.856,
+      "text": "They have specific vocalizations associated with greeting long-absent companions that researchers describe, carefully, as sounding like joy.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0191",
+      "video_id": "5unhHRFkC7I",
+      "idx": 191,
+      "start_s": 865.037,
+      "end_s": 868.498,
+      "text": "They mourn their dead in ways that have no survival function.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0192",
+      "video_id": "5unhHRFkC7I",
+      "idx": 192,
+      "start_s": 869.338,
+      "end_s": 870.399,
+      "text": "Returning to remains.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0193",
+      "video_id": "5unhHRFkC7I",
+      "idx": 193,
+      "start_s": 871.319,
+      "end_s": 871.899,
+      "text": "Touching them.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0194",
+      "video_id": "5unhHRFkC7I",
+      "idx": 194,
+      "start_s": 872.92,
+      "end_s": 873.38,
+      "text": "Lingering.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0195",
+      "video_id": "5unhHRFkC7I",
+      "idx": 195,
+      "start_s": 874.978,
+      "end_s": 877.823,
+      "text": "And here is what makes them relevant to this conversation.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0196",
+      "video_id": "5unhHRFkC7I",
+      "idx": 196,
+      "start_s": 878.764,
+      "end_s": 888.981,
+      "text": "Elephants in the wild have been documented responding to the distress signals of other species, not just other elephants, other animals in distress nearby.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0197",
+      "video_id": "5unhHRFkC7I",
+      "idx": 197,
+      "start_s": 890.365,
+      "end_s": 900.976,
+      "text": "Younger elephants in particular have been observed approaching distressed animals of different species in what researchers describe as investigative, calm, and apparently reassuring behavior.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0198",
+      "video_id": "5unhHRFkC7I",
+      "idx": 198,
+      "start_s": 901.416,
+      "end_s": 906.161,
+      "text": "They extend their empathetic response across biological lines when the signals are clear enough.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0199",
+      "video_id": "5unhHRFkC7I",
+      "idx": 199,
+      "start_s": 906.998,
+      "end_s": 907.739,
+      "text": "This is important.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0200",
+      "video_id": "5unhHRFkC7I",
+      "idx": 200,
+      "start_s": 908.519,
+      "end_s": 915.786,
+      "text": "Because it means that empathy, the capacity to detect and respond to the emotional state of another being, is not inherently species-locked.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0201",
+      "video_id": "5unhHRFkC7I",
+      "idx": 201,
+      "start_s": 916.386,
+      "end_s": 925.955,
+      "text": "It can operate across boundaries when the signal is legible, and if it can cross from elephant to other animal, there is no principled reason it cannot cross from animal to human.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0202",
+      "video_id": "5unhHRFkC7I",
+      "idx": 202,
+      "start_s": 926.735,
+      "end_s": 929.397,
+      "text": "We may simply be the distressed creature nearby.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0203",
+      "video_id": "5unhHRFkC7I",
+      "idx": 203,
+      "start_s": 930.359,
+      "end_s": 940.025,
+      "text": "And some animals, the ones who have lived with us longest, or the ones with the deepest empathic capacity, have learned to read our particular frequency.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0204",
+      "video_id": "5unhHRFkC7I",
+      "idx": 204,
+      "start_s": 941.045,
+      "end_s": 942.266,
+      "text": "Let's come back to that couch.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0205",
+      "video_id": "5unhHRFkC7I",
+      "idx": 205,
+      "start_s": 943.507,
+      "end_s": 949.891,
+      "text": "We've established the mechanisms, but there's one more layer that almost never gets discussed, and it might be the most important one.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0206",
+      "video_id": "5unhHRFkC7I",
+      "idx": 206,
+      "start_s": 950.471,
+      "end_s": 952.352,
+      "text": "It's not just detection, it's response.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0207",
+      "video_id": "5unhHRFkC7I",
+      "idx": 207,
+      "start_s": 952.952,
+      "end_s": 955.354,
+      "text": "Deliberate, regulated, intentional response.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0208",
+      "video_id": "5unhHRFkC7I",
+      "idx": 208,
+      "start_s": 956.279,
+      "end_s": 966.143,
+      "text": "In 2018, researchers at Johns Hopkins University set up a test with dogs and their distressed owners, separated by a transparent door with a simple magnetic latch the dog could push open.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0209",
+      "video_id": "5unhHRFkC7I",
+      "idx": 209,
+      "start_s": 966.763,
+      "end_s": 972.485,
+      "text": "Half the owners expressed distress, crying, using a distressed tone, half hummed quietly.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0210",
+      "video_id": "5unhHRFkC7I",
+      "idx": 210,
+      "start_s": 973.025,
+      "end_s": 976.486,
+      "text": "The dogs whose owners were crying were significantly more likely to open the door.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0211",
+      "video_id": "5unhHRFkC7I",
+      "idx": 211,
+      "start_s": 976.986,
+      "end_s": 978.946,
+      "text": "But the extraordinary detail is this.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0212",
+      "video_id": "5unhHRFkC7I",
+      "idx": 212,
+      "start_s": 979.626,
+      "end_s": 983.807,
+      "text": "Those dogs opened the door more slowly and more calmly than the others.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0213",
+      "video_id": "5unhHRFkC7I",
+      "idx": 213,
+      "start_s": 984.407,
+      "end_s": 985.267,
+      "text": "Not frantically.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0214",
+      "video_id": "5unhHRFkC7I",
+      "idx": 214,
+      "start_s": 985.687,
+      "end_s": 986.568,
+      "text": "Not in a panic.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0215",
+      "video_id": "5unhHRFkC7I",
+      "idx": 215,
+      "start_s": 987.128,
+      "end_s": 987.788,
+      "text": "Deliberately.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0216",
+      "video_id": "5unhHRFkC7I",
+      "idx": 216,
+      "start_s": 988.388,
+      "end_s": 990.008,
+      "text": "And then they went directly to their owner.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0217",
+      "video_id": "5unhHRFkC7I",
+      "idx": 217,
+      "start_s": 990.348,
+      "end_s": 992.329,
+      "text": "The researcher's interpretation was striking.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0218",
+      "video_id": "5unhHRFkC7I",
+      "idx": 218,
+      "start_s": 992.729,
+      "end_s": 999.25,
+      "text": "The dogs appeared to be actively regulating their own emotional arousal in order to be more present and useful to the human in distress.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0219",
+      "video_id": "5unhHRFkC7I",
+      "idx": 219,
+      "start_s": 1000.165,
+      "end_s": 1002.588,
+      "text": "They were managing themselves so they could help you better.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0220",
+      "video_id": "5unhHRFkC7I",
+      "idx": 220,
+      "start_s": 1003.249,
+      "end_s": 1005.071,
+      "text": "That is not an automatic response.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0221",
+      "video_id": "5unhHRFkC7I",
+      "idx": 221,
+      "start_s": 1005.772,
+      "end_s": 1006.893,
+      "text": "That is not a reflex.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0222",
+      "video_id": "5unhHRFkC7I",
+      "idx": 222,
+      "start_s": 1007.494,
+      "end_s": 1015.624,
+      "text": "That is something that looks unsettlingly close to compassion, to conscious choice, to reading a situation and deciding what it needs.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0223",
+      "video_id": "5unhHRFkC7I",
+      "idx": 223,
+      "start_s": 1016.512,
+      "end_s": 1021.395,
+      "text": "Now, and this matters, let's be honest about what we still don't know.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0224",
+      "video_id": "5unhHRFkC7I",
+      "idx": 224,
+      "start_s": 1022.116,
+      "end_s": 1023.437,
+      "text": "Science can measure behavior.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0225",
+      "video_id": "5unhHRFkC7I",
+      "idx": 225,
+      "start_s": 1023.837,
+      "end_s": 1025.158,
+      "text": "It can measure neurochemistry.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0226",
+      "video_id": "5unhHRFkC7I",
+      "idx": 226,
+      "start_s": 1025.598,
+      "end_s": 1031.722,
+      "text": "It is genuinely, profoundly limited when it comes to answering the question underneath all of this.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0227",
+      "video_id": "5unhHRFkC7I",
+      "idx": 227,
+      "start_s": 1032.903,
+      "end_s": 1034.444,
+      "text": "What does it feel like from the inside?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0228",
+      "video_id": "5unhHRFkC7I",
+      "idx": 228,
+      "start_s": 1035.447,
+      "end_s": 1040.629,
+      "text": "When your dog comes to you when you're crying, is there something it's like to be your dog in that moment?",
+      "n_words": 21
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0229",
+      "video_id": "5unhHRFkC7I",
+      "idx": 229,
+      "start_s": 1041.41,
+      "end_s": 1045.732,
+      "text": "Is there something we'd recognize as concern, as care, as love?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0230",
+      "video_id": "5unhHRFkC7I",
+      "idx": 230,
+      "start_s": 1046.692,
+      "end_s": 1049.333,
+      "text": "Or is it a very sophisticated pattern-matching system?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0231",
+      "video_id": "5unhHRFkC7I",
+      "idx": 231,
+      "start_s": 1050.314,
+      "end_s": 1058.898,
+      "text": "Stress signals detected, approach behavior executed, reinforcement received, with nothing we'd call genuine experience behind it.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0232",
+      "video_id": "5unhHRFkC7I",
+      "idx": 232,
+      "start_s": 1059.878,
+      "end_s": 1060.358,
+      "text": "Honestly?",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0233",
+      "video_id": "5unhHRFkC7I",
+      "idx": 233,
+      "start_s": 1061.319,
+      "end_s": 1062.019,
+      "text": "We don't know.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0234",
+      "video_id": "5unhHRFkC7I",
+      "idx": 234,
+      "start_s": 1062.219,
+      "end_s": 1066.041,
+      "text": "Subjective experience is the hardest thing in the universe to verify from the outside.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0235",
+      "video_id": "5unhHRFkC7I",
+      "idx": 235,
+      "start_s": 1066.481,
+      "end_s": 1068.742,
+      "text": "It is genuinely, philosophically hard.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0236",
+      "video_id": "5unhHRFkC7I",
+      "idx": 236,
+      "start_s": 1069.283,
+      "end_s": 1074.345,
+      "text": "But here is the counter-argument I'd offer anyone reaching for pure mechanism as an explanation.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0237",
+      "video_id": "5unhHRFkC7I",
+      "idx": 237,
+      "start_s": 1075.166,
+      "end_s": 1081.489,
+      "text": "The brain structures associated with emotion in humans are present in dogs, cats, horses, and elephants.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0238",
+      "video_id": "5unhHRFkC7I",
+      "idx": 238,
+      "start_s": 1082.229,
+      "end_s": 1089.073,
+      "text": "The behavioral responses we observe during human distress map exactly onto what we'd predict if empathy were driving them.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0239",
+      "video_id": "5unhHRFkC7I",
+      "idx": 239,
+      "start_s": 1089.953,
+      "end_s": 1091.515,
+      "text": "The responses are not random.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0240",
+      "video_id": "5unhHRFkC7I",
+      "idx": 240,
+      "start_s": 1092.256,
+      "end_s": 1099.463,
+      "text": "They are targeted, context-appropriate, and, in the case of the door-opening study, actively self-regulated.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0241",
+      "video_id": "5unhHRFkC7I",
+      "idx": 241,
+      "start_s": 1101.01,
+      "end_s": 1105.034,
+      "text": "The animals most skilled at detecting human sadness are not running away from it.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0242",
+      "video_id": "5unhHRFkC7I",
+      "idx": 242,
+      "start_s": 1105.574,
+      "end_s": 1108.737,
+      "text": "They are coming toward it, calmly, with apparent intention.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0243",
+      "video_id": "5unhHRFkC7I",
+      "idx": 243,
+      "start_s": 1109.277,
+      "end_s": 1123.79,
+      "text": "At some point, when something looks like empathy, acts like empathy, involves the same neural structures as empathy, produces the same outcomes as empathy, and does so across thousands of individual observations in controlled conditions, the burden of proof shifts.",
+      "n_words": 40
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0244",
+      "video_id": "5unhHRFkC7I",
+      "idx": 244,
+      "start_s": 1124.711,
+      "end_s": 1127.053,
+      "text": "You're not proving its emotion anymore.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0245",
+      "video_id": "5unhHRFkC7I",
+      "idx": 245,
+      "start_s": 1127.81,
+      "end_s": 1131.832,
+      "text": "You're explaining why, against all of that evidence, it somehow isn't.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0246",
+      "video_id": "5unhHRFkC7I",
+      "idx": 246,
+      "start_s": 1133.213,
+      "end_s": 1135.134,
+      "text": "There is one last thing worth saying here.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0247",
+      "video_id": "5unhHRFkC7I",
+      "idx": 247,
+      "start_s": 1135.974,
+      "end_s": 1143.198,
+      "text": "Something that doesn't live in any journal article but that anyone who has ever been genuinely, deeply sad will recognize the moment they hear it.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0248",
+      "video_id": "5unhHRFkC7I",
+      "idx": 248,
+      "start_s": 1144.198,
+      "end_s": 1145.439,
+      "text": "Animals don't try to fix you.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0249",
+      "video_id": "5unhHRFkC7I",
+      "idx": 249,
+      "start_s": 1146.179,
+      "end_s": 1148.66,
+      "text": "When you're sad, really sad.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0250",
+      "video_id": "5unhHRFkC7I",
+      "idx": 250,
+      "start_s": 1149.221,
+      "end_s": 1151.182,
+      "text": "The kind of sad that doesn't have a solution.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0251",
+      "video_id": "5unhHRFkC7I",
+      "idx": 251,
+      "start_s": 1152.002,
+      "end_s": 1153.763,
+      "text": "Most humans don't know what to do with that.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0252",
+      "video_id": "5unhHRFkC7I",
+      "idx": 252,
+      "start_s": 1154.753,
+      "end_s": 1155.633,
+      "text": "They offer advice.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0253",
+      "video_id": "5unhHRFkC7I",
+      "idx": 253,
+      "start_s": 1156.254,
+      "end_s": 1157.614,
+      "text": "They try to reframe things.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0254",
+      "video_id": "5unhHRFkC7I",
+      "idx": 254,
+      "start_s": 1158.395,
+      "end_s": 1166.458,
+      "text": "They tell you it could be worse, that you'll feel better soon, that at least you have your health, that everything happens for a reason.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0255",
+      "video_id": "5unhHRFkC7I",
+      "idx": 255,
+      "start_s": 1167.438,
+      "end_s": 1173.121,
+      "text": "They are uncomfortable with your pain, and they want, very urgently, to make it stop.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0256",
+      "video_id": "5unhHRFkC7I",
+      "idx": 256,
+      "start_s": 1173.901,
+      "end_s": 1176.462,
+      "text": "Partly for you, partly for themselves.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0257",
+      "video_id": "5unhHRFkC7I",
+      "idx": 257,
+      "start_s": 1177.863,
+      "end_s": 1179.403,
+      "text": "Your dog doesn't do any of that.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0258",
+      "video_id": "5unhHRFkC7I",
+      "idx": 258,
+      "start_s": 1180.364,
+      "end_s": 1181.344,
+      "text": "Your dog just stays.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0259",
+      "video_id": "5unhHRFkC7I",
+      "idx": 259,
+      "start_s": 1182.325,
+      "end_s": 1182.905,
+      "text": "No agenda.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0260",
+      "video_id": "5unhHRFkC7I",
+      "idx": 260,
+      "start_s": 1183.943,
+      "end_s": 1185.704,
+      "text": "No discomfort with the weight of your feelings.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0261",
+      "video_id": "5unhHRFkC7I",
+      "idx": 261,
+      "start_s": 1186.584,
+      "end_s": 1189.885,
+      "text": "No need to move the situation forward or reach resolution.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0262",
+      "video_id": "5unhHRFkC7I",
+      "idx": 262,
+      "start_s": 1190.546,
+      "end_s": 1194.507,
+      "text": "Just warm, physical, completely unconditional presence.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0263",
+      "video_id": "5unhHRFkC7I",
+      "idx": 263,
+      "start_s": 1195.428,
+      "end_s": 1198.349,
+      "text": "Right there, in the mess of it, with you.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0264",
+      "video_id": "5unhHRFkC7I",
+      "idx": 264,
+      "start_s": 1199.529,
+      "end_s": 1201.81,
+      "text": "And maybe that is the deepest thing to take from all of this.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0265",
+      "video_id": "5unhHRFkC7I",
+      "idx": 265,
+      "start_s": 1202.811,
+      "end_s": 1209.314,
+      "text": "The animals that are most skilled at detecting our emotional states are also the animals most capable of simply being in them with us.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0266",
+      "video_id": "5unhHRFkC7I",
+      "idx": 266,
+      "start_s": 1209.814,
+      "end_s": 1212.836,
+      "text": "Not fixing, not explaining, not moving on.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0267",
+      "video_id": "5unhHRFkC7I",
+      "idx": 267,
+      "start_s": 1213.656,
+      "end_s": 1214.277,
+      "text": "Just noticing.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0268",
+      "video_id": "5unhHRFkC7I",
+      "idx": 268,
+      "start_s": 1215.337,
+      "end_s": 1215.998,
+      "text": "And coming close.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0269",
+      "video_id": "5unhHRFkC7I",
+      "idx": 269,
+      "start_s": 1217.058,
+      "end_s": 1220.0,
+      "text": "So, do animals know when a human is sad?",
+      "n_words": 9
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0270",
+      "video_id": "5unhHRFkC7I",
+      "idx": 270,
+      "start_s": 1220.96,
+      "end_s": 1222.761,
+      "text": "Yes, unambiguously.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0271",
+      "video_id": "5unhHRFkC7I",
+      "idx": 271,
+      "start_s": 1223.462,
+      "end_s": 1225.803,
+      "text": "The evidence is extensive and specific.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0272",
+      "video_id": "5unhHRFkC7I",
+      "idx": 272,
+      "start_s": 1227.005,
+      "end_s": 1232.848,
+      "text": "Dogs detect it with biochemical precision through an olfactory system that makes ours look like a broken flashlight.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0273",
+      "video_id": "5unhHRFkC7I",
+      "idx": 273,
+      "start_s": 1233.569,
+      "end_s": 1239.372,
+      "text": "They read it in human faces using cognitive tools that evolved over thousands of years specifically for that purpose.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0274",
+      "video_id": "5unhHRFkC7I",
+      "idx": 274,
+      "start_s": 1240.112,
+      "end_s": 1245.935,
+      "text": "Cats build individualized emotional maps of their particular humans through years of close observation.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0275",
+      "video_id": "5unhHRFkC7I",
+      "idx": 275,
+      "start_s": 1246.736,
+      "end_s": 1250.198,
+      "text": "Horses encode emotional memories and act on them hours later.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0276",
+      "video_id": "5unhHRFkC7I",
+      "idx": 276,
+      "start_s": 1250.858,
+      "end_s": 1256.561,
+      "text": "Elephants extend empathetic responses across species lines, reaching toward distress that isn't even their own.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0277",
+      "video_id": "5unhHRFkC7I",
+      "idx": 277,
+      "start_s": 1257.241,
+      "end_s": 1260.182,
+      "text": "And some of them, when they find it, don't just know.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0278",
+      "video_id": "5unhHRFkC7I",
+      "idx": 278,
+      "start_s": 1260.782,
+      "end_s": 1261.463,
+      "text": "They respond.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0279",
+      "video_id": "5unhHRFkC7I",
+      "idx": 279,
+      "start_s": 1262.043,
+      "end_s": 1262.523,
+      "text": "Calmly.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0280",
+      "video_id": "5unhHRFkC7I",
+      "idx": 280,
+      "start_s": 1262.963,
+      "end_s": 1263.564,
+      "text": "Deliberately.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0281",
+      "video_id": "5unhHRFkC7I",
+      "idx": 281,
+      "start_s": 1263.964,
+      "end_s": 1267.245,
+      "text": "In ways that look, by every measure we have, like care.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0282",
+      "video_id": "5unhHRFkC7I",
+      "idx": 282,
+      "start_s": 1268.366,
+      "end_s": 1277.09,
+      "text": "We share this planet with creatures who have spent millions of years developing the capacity to feel, and thousands of years developing the capacity to feel for us, specifically.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0283",
+      "video_id": "5unhHRFkC7I",
+      "idx": 283,
+      "start_s": 1278.01,
+      "end_s": 1279.353,
+      "text": "That is not a small thing.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0284",
+      "video_id": "5unhHRFkC7I",
+      "idx": 284,
+      "start_s": 1279.875,
+      "end_s": 1285.127,
+      "text": "That is one of the most extraordinary facts about being alive in a world full of other living things.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0285",
+      "video_id": "5unhHRFkC7I",
+      "idx": 285,
+      "start_s": 1285.932,
+      "end_s": 1287.633,
+      "text": "Your dog didn't fix your bad day.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0286",
+      "video_id": "5unhHRFkC7I",
+      "idx": 286,
+      "start_s": 1288.193,
+      "end_s": 1289.073,
+      "text": "He didn't try to.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0287",
+      "video_id": "5unhHRFkC7I",
+      "idx": 287,
+      "start_s": 1289.574,
+      "end_s": 1292.075,
+      "text": "He just put his head in your lap and he stayed.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0288",
+      "video_id": "5unhHRFkC7I",
+      "idx": 288,
+      "start_s": 1292.535,
+      "end_s": 1303.419,
+      "text": "And somewhere in that gesture, ancient, precise, cross-species, and completely without words, was something every human being understands the moment it happens.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0289",
+      "video_id": "5unhHRFkC7I",
+      "idx": 289,
+      "start_s": 1304.02,
+      "end_s": 1304.82,
+      "text": "You were seen.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0290",
+      "video_id": "5unhHRFkC7I",
+      "idx": 290,
+      "start_s": 1305.6,
+      "end_s": 1306.361,
+      "text": "You were not alone.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "5unhHRFkC7I:s0291",
+      "video_id": "5unhHRFkC7I",
+      "idx": 291,
+      "start_s": 1307.021,
+      "end_s": 1311.963,
+      "text": "And for a creature that couldn't explain any of that, he understood every bit of it.",
+      "n_words": 16
+    }
+  ]
+}

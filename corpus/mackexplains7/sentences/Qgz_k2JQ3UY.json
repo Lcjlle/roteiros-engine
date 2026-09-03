@@ -1,0 +1,2455 @@
+{
+  "video_id": "Qgz_k2JQ3UY",
+  "duration_s": 1373.0,
+  "generated_at": "2026-09-03T11:57:54.708068+00:00",
+  "sentences": [
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0000",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 0,
+      "start_s": 0.091,
+      "end_s": 2.451,
+      "text": "Imagine waking up tomorrow and your job is gone.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0001",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 1,
+      "start_s": 2.771,
+      "end_s": 3.672,
+      "text": "Money doesn't exist.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0002",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 2,
+      "start_s": 3.892,
+      "end_s": 5.072,
+      "text": "Your boss doesn't exist.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0003",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 3,
+      "start_s": 5.232,
+      "end_s": 6.932,
+      "text": "The concept of a Monday doesn't exist.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0004",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 4,
+      "start_s": 7.012,
+      "end_s": 13.733,
+      "text": "There's no alarm, no email, no meetings, no one asking you to circle back or touch base or hop on a quick call.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0005",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 5,
+      "start_s": 14.193,
+      "end_s": 14.814,
+      "text": "What do you do?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0006",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 6,
+      "start_s": 15.634,
+      "end_s": 19.654,
+      "text": "If your first instinct is, I'd finally be free, congratulations.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0007",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 7,
+      "start_s": 20.214,
+      "end_s": 25.515,
+      "text": "You just had the exact same thought that literally every human being had for about 300,000 years.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0008",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 8,
+      "start_s": 25.995,
+      "end_s": 29.056,
+      "text": "Because for most of human history, this was just Tuesday.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0009",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 9,
+      "start_s": 29.756,
+      "end_s": 31.057,
+      "text": "or whatever they called Tuesday.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0010",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 10,
+      "start_s": 31.537,
+      "end_s": 32.298,
+      "text": "Probably nothing.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0011",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 11,
+      "start_s": 32.638,
+      "end_s": 34.039,
+      "text": "They didn't have Tuesdays either.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0012",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 12,
+      "start_s": 34.36,
+      "end_s": 35.38,
+      "text": "They didn't have weeks.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0013",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 13,
+      "start_s": 35.841,
+      "end_s": 44.067,
+      "text": "The whole concept of dividing time into seven-day chunks so you could dread five of them and barely enjoy two is a remarkably recent human invention.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0014",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 14,
+      "start_s": 44.427,
+      "end_s": 46.308,
+      "text": "And honestly, one of our worst.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0015",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 15,
+      "start_s": 47.309,
+      "end_s": 49.63,
+      "text": "So here's the question that should genuinely keep you up at night.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0016",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 16,
+      "start_s": 50.311,
+      "end_s": 63.538,
+      "text": "What did ancient humans actually do all day, like hour by hour, dawn to dusk, when there was no job to go to, no Netflix to watch, no phone to doomscroll, no newsletter to unsubscribe from?",
+      "n_words": 36
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0017",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 17,
+      "start_s": 64.438,
+      "end_s": 66.76,
+      "text": "What was a normal day in the life of a prehistoric human?",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0018",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 18,
+      "start_s": 67.141,
+      "end_s": 72.966,
+      "text": "The answer is equal parts surprising, fascinating, and honestly a little bit embarrassing for us.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0019",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 19,
+      "start_s": 73.587,
+      "end_s": 81.194,
+      "text": "Because it turns out the people we spent centuries calling primitive were, in several important ways, living better than most of us are right now.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0020",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 20,
+      "start_s": 81.474,
+      "end_s": 83.496,
+      "text": "And I don't say that to be dramatic.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0021",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 21,
+      "start_s": 84.137,
+      "end_s": 87.881,
+      "text": "I say it because the evidence is genuinely overwhelming once you start looking.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0022",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 22,
+      "start_s": 88.461,
+      "end_s": 89.122,
+      "text": "So let's look.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0023",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 23,
+      "start_s": 89.642,
+      "end_s": 95.366,
+      "text": "The biggest lie we've been told about prehistoric life is that it was basically a nonstop survival horror game.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0024",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 24,
+      "start_s": 95.967,
+      "end_s": 97.007,
+      "text": "Ancient human wakes up.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0025",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 25,
+      "start_s": 97.448,
+      "end_s": 99.389,
+      "text": "Ancient human tries not to get eaten.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0026",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 26,
+      "start_s": 99.789,
+      "end_s": 101.491,
+      "text": "Ancient human grunts at something.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0027",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 27,
+      "start_s": 101.851,
+      "end_s": 104.173,
+      "text": "Ancient human fails to invent agriculture.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0028",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 28,
+      "start_s": 104.493,
+      "end_s": 106.454,
+      "text": "Ancient human dies at 30.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0029",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 29,
+      "start_s": 106.835,
+      "end_s": 107.735,
+      "text": "That's wrong.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0030",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 30,
+      "start_s": 108.016,
+      "end_s": 109.316,
+      "text": "Almost completely wrong.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0031",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 31,
+      "start_s": 109.657,
+      "end_s": 112.299,
+      "text": "And the reason we believed it for so long is actually kind of funny.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0032",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 32,
+      "start_s": 112.839,
+      "end_s": 116.7,
+      "text": "It's because we looked at the hard evidence of ancient life and drew conclusions.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0033",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 33,
+      "start_s": 117.2,
+      "end_s": 118.62,
+      "text": "We found bones with cut marks.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0034",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 34,
+      "start_s": 118.92,
+      "end_s": 119.781,
+      "text": "We found weapons.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0035",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 35,
+      "start_s": 119.881,
+      "end_s": 122.521,
+      "text": "We found the remains of animals they'd hunted and butchered.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0036",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 36,
+      "start_s": 123.061,
+      "end_s": 127.202,
+      "text": "And we went, ah, yes, brutal survival all day, every day.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0037",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 37,
+      "start_s": 127.843,
+      "end_s": 128.623,
+      "text": "But here's the thing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0038",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 38,
+      "start_s": 128.783,
+      "end_s": 130.283,
+      "text": "We also found cave paintings.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0039",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 39,
+      "start_s": 130.463,
+      "end_s": 135.764,
+      "text": "We found musical instruments made from bird bones and mammoth ivory dating back 40,000 years.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0040",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 40,
+      "start_s": 136.224,
+      "end_s": 142.146,
+      "text": "We found jewelry made from shells, from teeth, from carefully perforated stones strung together as necklaces.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0041",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 41,
+      "start_s": 142.866,
+      "end_s": 153.27,
+      "text": "we found evidence of people traveling hundreds of miles, on foot, across landscapes with no roads, no maps, no Uber, just to trade pigments for body paint.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0042",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 42,
+      "start_s": 154.31,
+      "end_s": 163.313,
+      "text": "We found graves where elderly people who had survived decades with crippling physical disabilities were buried with care, with ceremony, sometimes surrounded by flowers.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0043",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 43,
+      "start_s": 163.933,
+      "end_s": 168.395,
+      "text": "That's not the behavior of a species spending every waking moment in survival panic.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0044",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 44,
+      "start_s": 168.955,
+      "end_s": 172.156,
+      "text": "That's the behavior of a species that had time on their hands.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0045",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 45,
+      "start_s": 173.012,
+      "end_s": 176.953,
+      "text": "a lot of it, and was doing genuinely interesting things with that time.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0046",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 46,
+      "start_s": 177.633,
+      "end_s": 182.734,
+      "text": "The survival horror narrative isn't just inaccurate, it's almost the opposite of the truth.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0047",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 47,
+      "start_s": 183.715,
+      "end_s": 189.736,
+      "text": "In the 1960s, an anthropologist named Marshall Sollins did something that was considered fairly radical at the time.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0048",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 48,
+      "start_s": 190.376,
+      "end_s": 201.559,
+      "text": "He actually studied modern hunter-gatherer groups with rigorous attention to their time use, trying to understand what daily life might have looked like before agriculture fundamentally reorganized human existence.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0049",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 49,
+      "start_s": 202.539,
+      "end_s": 221.095,
+      "text": "He looked at the Hashi's Khungsan people of southern Africa's Kalahari Desert, the Hadza of Tanzania, Aboriginal groups in Australia, societies that had maintained versions of the hunter-gatherer lifestyle into the modern era, and what he found destroyed the dominant narrative almost entirely.",
+      "n_words": 43
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0050",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 50,
+      "start_s": 222.172,
+      "end_s": 228.178,
+      "text": "On average, these groups spent somewhere between three and five hours a day on what you could call subsistence work.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0051",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 51,
+      "start_s": 228.839,
+      "end_s": 234.744,
+      "text": "Hunting, gathering, preparing food, maintaining tools, building or maintaining shelter.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0052",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 52,
+      "start_s": 235.385,
+      "end_s": 237.126,
+      "text": "Three to five hours per day.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0053",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 53,
+      "start_s": 237.467,
+      "end_s": 240.27,
+      "text": "The rest of the time, genuinely, legitimately free.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0054",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 54,
+      "start_s": 240.93,
+      "end_s": 252.262,
+      "text": "talking, resting, sleeping, playing games, making music, making art, making tools they didn't immediately need, telling stories, engaging in the complex social rituals of group life.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0055",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 55,
+      "start_s": 252.923,
+      "end_s": 257.027,
+      "text": "Sollens called hunter-gatherers the original affluent society.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0056",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 56,
+      "start_s": 257.748,
+      "end_s": 265.994,
+      "text": "Not because they had a lot of stuff, they had almost nothing in terms of material possessions, and deliberately so because everything you own is something you have to carry.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0057",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 57,
+      "start_s": 266.695,
+      "end_s": 272.76,
+      "text": "But because they had the one thing that every modern human is desperately chasing and almost never successfully catches.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0058",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 58,
+      "start_s": 273.42,
+      "end_s": 273.72,
+      "text": "Time.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0059",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 59,
+      "start_s": 274.201,
+      "end_s": 279.185,
+      "text": "Abundant, unscheduled, unmonetized, genuinely free time.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0060",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 60,
+      "start_s": 279.705,
+      "end_s": 298.54,
+      "text": "Now compare that to the average contemporary adult who, between their job, their commute, their administrative tasks, their childcare responsibilities, and the general exhausting overhead of maintaining a modern life, has approximately 2.5 to 3 hours of genuine leisure per day, if they're lucky.",
+      "n_words": 44
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0061",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 61,
+      "start_s": 299.467,
+      "end_s": 306.531,
+      "text": "And most of that leisure is spent staring at a screen consuming content algorithmically optimized to make them anxious enough to keep watching.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0062",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 62,
+      "start_s": 307.052,
+      "end_s": 312.915,
+      "text": "We are working more hours, with more stress, with less rest, than people who are hunting animals with sticks.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0063",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 63,
+      "start_s": 313.516,
+      "end_s": 314.977,
+      "text": "Let that sit with you for a second.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0064",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 64,
+      "start_s": 315.828,
+      "end_s": 316.848,
+      "text": "Let's break it down.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0065",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 65,
+      "start_s": 317.549,
+      "end_s": 320.529,
+      "text": "Because this is where the story gets genuinely extraordinary.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0066",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 66,
+      "start_s": 320.869,
+      "end_s": 321.41,
+      "text": "They talked.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0067",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 67,
+      "start_s": 322.13,
+      "end_s": 323.71,
+      "text": "Constantly and expertly.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0068",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 68,
+      "start_s": 324.49,
+      "end_s": 336.914,
+      "text": "If you could go back in time and observe a group of hunter-gatherers sitting around a fire in the late afternoon, the most striking thing wouldn't be the fire, or the animal skins, or the stone tools, or the absence of Wi-Fi.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0069",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 69,
+      "start_s": 337.634,
+      "end_s": 343.579,
+      "text": "it would be the conversation, because ancient humans were relentless, dedicated, passionate talkers.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0070",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 70,
+      "start_s": 344.2,
+      "end_s": 355.63,
+      "text": "Anthropological studies of modern hunter-gatherer groups have consistently shown that a massive portion of their non-work time, potentially 60-70% of all social time, was spent in conversation.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0071",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 71,
+      "start_s": 356.19,
+      "end_s": 357.951,
+      "text": "And not just tactical conversation.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0072",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 72,
+      "start_s": 358.231,
+      "end_s": 361.574,
+      "text": "Not just, the mammoth migration patterns this season seem different.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0073",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 73,
+      "start_s": 361.974,
+      "end_s": 364.556,
+      "text": "Or, I think the river runs south from here.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0074",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 74,
+      "start_s": 364.996,
+      "end_s": 365.677,
+      "text": "They gossiped.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0075",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 75,
+      "start_s": 365.917,
+      "end_s": 366.757,
+      "text": "They told jokes.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0076",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 76,
+      "start_s": 367.077,
+      "end_s": 367.698,
+      "text": "They argued.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0077",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 77,
+      "start_s": 367.958,
+      "end_s": 368.599,
+      "text": "They flirted.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0078",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 78,
+      "start_s": 368.819,
+      "end_s": 370.16,
+      "text": "They complained about each other.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0079",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 79,
+      "start_s": 370.48,
+      "end_s": 373.142,
+      "text": "They shared stories about things that happened years ago.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0080",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 80,
+      "start_s": 373.642,
+      "end_s": 375.984,
+      "text": "They speculated about things they couldn't explain.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0081",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 81,
+      "start_s": 376.804,
+      "end_s": 401.317,
+      "text": "Robin Dunbar, the British anthropologist famous for Dunbar's number, the theory that humans can comfortably maintain about 150 stable social relationships before the cognitive load becomes unmanageable, argued compellingly that language itself evolved primarily as a form of social grooming, because other primates maintain social bonds by physically grooming each other, picking parasites and debris out of each other's fur.",
+      "n_words": 60
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0082",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 82,
+      "start_s": 401.738,
+      "end_s": 405.28,
+      "text": "It's time-consuming and intimate, and it builds trust and alliance.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0083",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 83,
+      "start_s": 406.18,
+      "end_s": 411.302,
+      "text": "But as human social groups grew larger and more complex, you simply couldn't physically groom 80 people.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0084",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 84,
+      "start_s": 411.623,
+      "end_s": 412.663,
+      "text": "There weren't enough hours.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0085",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 85,
+      "start_s": 413.443,
+      "end_s": 417.245,
+      "text": "So humans evolved language to achieve the same social bonding function at scale.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0086",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 86,
+      "start_s": 417.625,
+      "end_s": 420.046,
+      "text": "You can verbally groom many people at once.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0087",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 87,
+      "start_s": 420.667,
+      "end_s": 427.15,
+      "text": "Sitting around a fire talking to five people simultaneously maintains five relationships in the time it used to take to maintain one.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0088",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 88,
+      "start_s": 428.03,
+      "end_s": 430.871,
+      "text": "Gossip in this framework is not a character flaw.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0089",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 89,
+      "start_s": 431.431,
+      "end_s": 436.471,
+      "text": "It is the original social technology, the fundamental software of human community.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0090",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 90,
+      "start_s": 436.912,
+      "end_s": 450.494,
+      "text": "Which means that every time you call a friend just to chat about nothing, or gossip with a coworker about something silly, or spend an evening doing nothing but talking and laughing with people you love, you are doing exactly what your ancestors did around a fire 50,000 years ago.",
+      "n_words": 50
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0091",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 91,
+      "start_s": 451.154,
+      "end_s": 456.415,
+      "text": "You are not wasting time, you are performing the oldest and most essential human activity there is.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0092",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 92,
+      "start_s": 457.315,
+      "end_s": 460.037,
+      "text": "Here's something that genuinely freaks people out when they learn it.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0093",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 93,
+      "start_s": 460.497,
+      "end_s": 465.94,
+      "text": "The concept of sleeping for eight consecutive hours at night is almost certainly a modern invention.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0094",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 94,
+      "start_s": 466.521,
+      "end_s": 468.422,
+      "text": "Not something humans evolved to do.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0095",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 95,
+      "start_s": 469.062,
+      "end_s": 471.484,
+      "text": "Not even something humans historically did.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0096",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 96,
+      "start_s": 472.144,
+      "end_s": 476.167,
+      "text": "Something we were essentially forced into by artificial lighting and the factory schedule.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0097",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 97,
+      "start_s": 476.947,
+      "end_s": 482.45,
+      "text": "Historian",
+      "n_words": 1
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0098",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 98,
+      "start_s": 476.947,
+      "end_s": 482.45,
+      "text": "Roger E. Kirch spent over two decades researching sleep patterns in historical documents.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0099",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 99,
+      "start_s": 482.911,
+      "end_s": 486.133,
+      "text": "Diaries, medical texts, court records, literature.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0100",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 100,
+      "start_s": 486.873,
+      "end_s": 494.558,
+      "text": "and found overwhelming evidence that before the widespread introduction of artificial lighting, most people slept in two distinct phases.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0101",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 101,
+      "start_s": 495.358,
+      "end_s": 499.02,
+      "text": "First sleep, from roughly dusk until sometime around midnight.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0102",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 102,
+      "start_s": 499.781,
+      "end_s": 506.325,
+      "text": "Then a period of being awake, genuinely, naturally awake, not insomnia, for one to two hours.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0103",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 103,
+      "start_s": 507.285,
+      "end_s": 509.887,
+      "text": "Then, second sleep until dawn.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0104",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 104,
+      "start_s": 510.487,
+      "end_s": 516.812,
+      "text": "During that middle-of-the-night waking period, people didn't lie there in anguished insomnia, wishing they could get back to sleep.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0105",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 105,
+      "start_s": 517.432,
+      "end_s": 517.912,
+      "text": "They got up.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0106",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 106,
+      "start_s": 518.433,
+      "end_s": 519.614,
+      "text": "They talked with their families.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0107",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 107,
+      "start_s": 520.194,
+      "end_s": 521.975,
+      "text": "They prayed or meditated.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0108",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 108,
+      "start_s": 522.456,
+      "end_s": 523.116,
+      "text": "They had sex.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0109",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 109,
+      "start_s": 523.857,
+      "end_s": 524.697,
+      "text": "They smoked pipes.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0110",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 110,
+      "start_s": 525.518,
+      "end_s": 526.418,
+      "text": "They visited neighbors.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0111",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 111,
+      "start_s": 527.059,
+      "end_s": 528.14,
+      "text": "They checked on their animals.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0112",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 112,
+      "start_s": 529.115,
+      "end_s": 531.977,
+      "text": "Some used it for reflection and creative thought.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0113",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 113,
+      "start_s": 532.458,
+      "end_s": 541.565,
+      "text": "There are accounts of people deliberately using this period for problem solving, for writing, or the kind of deep thinking that the busy daytime hours didn't allow.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0114",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 114,
+      "start_s": 542.285,
+      "end_s": 551.512,
+      "text": "Ancient and medieval texts are casually full of references to first sleep and a second sleep as if these terms needed no explanation because they didn't.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0115",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 115,
+      "start_s": 552.153,
+      "end_s": 555.215,
+      "text": "Everyone knew what they meant because everyone experienced it.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0116",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 116,
+      "start_s": 555.595,
+      "end_s": 571.734,
+      "text": "It was only after gas lighting in the early 19th century and then electric lighting in the late 19th century made the night fully artificial and conquerable that this natural sleep pattern got compressed and flattened into the consolidated 8-hour block we now consider biologically normal.",
+      "n_words": 46
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0117",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 117,
+      "start_s": 572.695,
+      "end_s": 573.196,
+      "text": "It's not.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0118",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 118,
+      "start_s": 574.016,
+      "end_s": 575.738,
+      "text": "Or at least, it may not be.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0119",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 119,
+      "start_s": 576.499,
+      "end_s": 585.687,
+      "text": "If you sometimes wake up at 2am, lie there for an hour feeling oddly alert and calm, and wonder what's wrong with you, the answer is potentially nothing.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0120",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 120,
+      "start_s": 586.307,
+      "end_s": 589.57,
+      "text": "Your body is doing what human bodies did for hundreds of thousands of years.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0121",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 121,
+      "start_s": 590.01,
+      "end_s": 597.917,
+      "text": "You're just missing the campfire, the low voices of your family nearby, and the absolute spectacular darkness of a world without electric lights.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0122",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 122,
+      "start_s": 599.038,
+      "end_s": 604.562,
+      "text": "One of the most persistent misunderstandings about prehistoric humans is the idea that they were technologically rudimentary.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0123",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 123,
+      "start_s": 605.262,
+      "end_s": 608.304,
+      "text": "That stone age implies something crude and simple.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0124",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 124,
+      "start_s": 608.805,
+      "end_s": 614.769,
+      "text": "But the craftsmanship required to produce their tools, their clothing, their shelter, and their art was not simple.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0125",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 125,
+      "start_s": 615.189,
+      "end_s": 619.372,
+      "text": "It was demanding, practiced, skilled work that took years to master.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0126",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 126,
+      "start_s": 619.892,
+      "end_s": 620.973,
+      "text": "Take stone napping.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0127",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 127,
+      "start_s": 621.353,
+      "end_s": 628.395,
+      "text": "the process of shaping flint or obsidian by striking it in precise sequences to produce a blade with a sharp, consistent edge.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0128",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 128,
+      "start_s": 629.115,
+      "end_s": 631.496,
+      "text": "This sounds like something anyone could do with a rock.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0129",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 129,
+      "start_s": 632.216,
+      "end_s": 632.656,
+      "text": "It is not.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0130",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 130,
+      "start_s": 633.156,
+      "end_s": 637.838,
+      "text": "The material has specific fracture properties that have to be deeply understood and anticipated.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0131",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 131,
+      "start_s": 638.398,
+      "end_s": 642.659,
+      "text": "The angle, force, and location of each strike must be carefully controlled.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0132",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 132,
+      "start_s": 643.259,
+      "end_s": 646.06,
+      "text": "A single wrong blow can shatter the whole piece.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0133",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 133,
+      "start_s": 647.14,
+      "end_s": 653.986,
+      "text": "Modern archaeologists and enthusiasts who have tried to learn knapping have reported that genuine proficiency takes years of regular practice.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0134",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 134,
+      "start_s": 654.546,
+      "end_s": 658.93,
+      "text": "Ancient humans spent significant portions of their time developing and maintaining this skill.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0135",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 135,
+      "start_s": 659.651,
+      "end_s": 663.454,
+      "text": "Then there's clothing production in cold climates, which was an enormous undertaking.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0136",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 136,
+      "start_s": 663.854,
+      "end_s": 672.781,
+      "text": "Preparing animal hides to be worn required scraping them clean, treating them to prevent hardening and decay, and then stitching them into garments using bone needles.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0137",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 137,
+      "start_s": 673.582,
+      "end_s": 677.244,
+      "text": "We have found needles made of bone dating back 50,000 years or more.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0138",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 138,
+      "start_s": 678.184,
+      "end_s": 684.947,
+      "text": "Needles with eyes that someone sat down and carefully drilled through a tiny piece of bone using stone tools because they wanted to sew.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0139",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 139,
+      "start_s": 685.628,
+      "end_s": 687.869,
+      "text": "Because the quality of their stitching mattered to them.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0140",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 140,
+      "start_s": 688.629,
+      "end_s": 689.47,
+      "text": "Because they cared.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0141",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 141,
+      "start_s": 689.91,
+      "end_s": 694.072,
+      "text": "And then there's the art, which should make every single person stop and feel something.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0142",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 142,
+      "start_s": 694.892,
+      "end_s": 699.255,
+      "text": "The cave paintings at Lascaux in France were made approximately 17,000 years ago.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0143",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 143,
+      "start_s": 700.116,
+      "end_s": 703.899,
+      "text": "The ones at Chauvet-Pont-d'Arc are potentially 36,000 years old.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0144",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 144,
+      "start_s": 704.479,
+      "end_s": 705.94,
+      "text": "These are not crude scribbles.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0145",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 145,
+      "start_s": 706.501,
+      "end_s": 711.445,
+      "text": "These are sophisticated, dynamic, compositionally thoughtful representations of animals.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0146",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 146,
+      "start_s": 711.945,
+      "end_s": 717.969,
+      "text": "Horses mid-gallop, bison turning their heads, charging rhinoceroses, lions hunting in packs.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0147",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 147,
+      "start_s": 718.75,
+      "end_s": 728.463,
+      "text": "They demonstrate an understanding of movement, of perspective, of light and shadow that genuinely astonishes contemporary artists and illustrators who study them.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0148",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 148,
+      "start_s": 729.103,
+      "end_s": 734.811,
+      "text": "Some of the artists use the natural curves and protrusions of the cave walls to give their animals three-dimensional form.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0149",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 149,
+      "start_s": 735.091,
+      "end_s": 743.173,
+      "text": "so that when viewed by flickering firelight, the only light available to them, the horses and bison and aurochs would appear to breathe, to shift, to move.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0150",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 150,
+      "start_s": 743.653,
+      "end_s": 747.935,
+      "text": "They built cinematic illusion into stone walls in the dark 36,000 years ago.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0151",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 151,
+      "start_s": 748.535,
+      "end_s": 749.575,
+      "text": "That is not primitive.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0152",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 152,
+      "start_s": 750.115,
+      "end_s": 751.176,
+      "text": "That is breathtaking.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0153",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 153,
+      "start_s": 751.516,
+      "end_s": 769.643,
+      "text": "And it means someone stood in that cave or crouched or lay on their back on the rock floor probably for hours doing this work, not because they had to, not because it fed anyone, because they had something to say and they found a way to say it in a medium that would outlast everything else they ever touched by tens of thousands of years.",
+      "n_words": 66
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0154",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 154,
+      "start_s": 770.444,
+      "end_s": 772.865,
+      "text": "If there's a definition of art, that's it.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0155",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 155,
+      "start_s": 773.345,
+      "end_s": 774.006,
+      "text": "They played.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0156",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 156,
+      "start_s": 774.766,
+      "end_s": 776.427,
+      "text": "Seriously and enthusiastically.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0157",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 157,
+      "start_s": 776.927,
+      "end_s": 777.948,
+      "text": "Because of course they did.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0158",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 158,
+      "start_s": 778.548,
+      "end_s": 780.309,
+      "text": "Because play is not a modern luxury.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0159",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 159,
+      "start_s": 780.85,
+      "end_s": 784.752,
+      "text": "Play is one of the defining behaviors of intelligent social species.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0160",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 160,
+      "start_s": 785.372,
+      "end_s": 795.029,
+      "text": "Crows play, dolphins play, wolves play, and humans, who are all of those things at once plus much more, play constantly and elaborately.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0161",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 161,
+      "start_s": 795.845,
+      "end_s": 799.029,
+      "text": "We have evidence of board games going back to the earliest civilizations.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0162",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 162,
+      "start_s": 799.409,
+      "end_s": 815.427,
+      "text": "The Royal Game of Ur, found in ancient Mesopotamia, dates to around 2500 BCE, and its rules have been partially reconstructed from a Babylonian clay tablet, but organized games almost certainly predate any civilization.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0163",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 163,
+      "start_s": 816.408,
+      "end_s": 829.257,
+      "text": "Children in every hunter-gatherer society ever studied engage in rich, complex play, mimicking adult skills, inventing rules and games, competing, cooperating, negotiating.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0164",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 164,
+      "start_s": 829.737,
+      "end_s": 838.984,
+      "text": "This is universal across all human cultures that have ever been observed, and universality in human behavior almost always signals deep evolutionary roots.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0165",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 165,
+      "start_s": 839.904,
+      "end_s": 844.027,
+      "text": "Wrestling competitions, foot races, tests of throwing accuracy,",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0166",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 166,
+      "start_s": 845.048,
+      "end_s": 856.717,
+      "text": "These appear independently in ancient cultures worldwide, in groups with no contact with each other, which is very strong evidence that competitive play is simply something humans do naturally when they have the time and energy to do it.",
+      "n_words": 39
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0167",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 167,
+      "start_s": 857.437,
+      "end_s": 861.14,
+      "text": "Which ancient humans, with their 3-5 hour workday, very much did.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0168",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 168,
+      "start_s": 861.76,
+      "end_s": 869.866,
+      "text": "Play is also, it's worth noting, one of the primary mechanisms through which children develop physical skills, social skills, and emotional intelligence.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0169",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 169,
+      "start_s": 870.847,
+      "end_s": 876.554,
+      "text": "The line between play and education in ancient societies was essentially non-existent.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0170",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 170,
+      "start_s": 877.335,
+      "end_s": 879.138,
+      "text": "You learned to hunt by playing at hunting.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0171",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 171,
+      "start_s": 879.478,
+      "end_s": 883.723,
+      "text": "You learned social negotiation by playing games with high stakes and real conflict.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0172",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 172,
+      "start_s": 884.304,
+      "end_s": 888.449,
+      "text": "You learned to manage your emotions under pressure by competing and sometimes losing.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0173",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 173,
+      "start_s": 889.29,
+      "end_s": 890.731,
+      "text": "Ancient children weren't in school.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0174",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 174,
+      "start_s": 891.351,
+      "end_s": 892.272,
+      "text": "They were in the world.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0175",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 175,
+      "start_s": 892.792,
+      "end_s": 894.253,
+      "text": "And the world was their teacher.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0176",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 176,
+      "start_s": 894.634,
+      "end_s": 896.655,
+      "text": "They took extraordinary care of each other.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0177",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 177,
+      "start_s": 897.235,
+      "end_s": 903.159,
+      "text": "This is the detail that hits the hardest, and the one that gets the least attention in popular narratives about ancient humans.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0178",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 178,
+      "start_s": 904.04,
+      "end_s": 908.443,
+      "text": "We have found skeletons of ancient individuals who had severe, lifelong disabilities.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0179",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 179,
+      "start_s": 909.163,
+      "end_s": 914.687,
+      "text": "Conditions that would have made them completely unable to contribute to group survival in any conventional physical sense.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0180",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 180,
+      "start_s": 915.442,
+      "end_s": 916.543,
+      "text": "And yet they survived.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0181",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 181,
+      "start_s": 917.123,
+      "end_s": 917.683,
+      "text": "For years.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0182",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 182,
+      "start_s": 918.283,
+      "end_s": 918.924,
+      "text": "For decades.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0183",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 183,
+      "start_s": 919.524,
+      "end_s": 920.824,
+      "text": "Because someone took care of them.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0184",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 184,
+      "start_s": 921.345,
+      "end_s": 936.076,
+      "text": "A Neanderthal discovered at Shanidar Cave in Iraq, known as Shanidar-1, had a withered and amputated right arm, was partially blind in his left eye, had significant hearing loss, and had suffered and survived serious leg injuries.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0185",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 185,
+      "start_s": 936.877,
+      "end_s": 940.839,
+      "text": "He was around 40 years old at death, which was genuinely old for the time.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0186",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 186,
+      "start_s": 941.419,
+      "end_s": 942.62,
+      "text": "He could not have hunted.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0187",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 187,
+      "start_s": 942.96,
+      "end_s": 944.882,
+      "text": "He could not have gathered effectively.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0188",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 188,
+      "start_s": 945.222,
+      "end_s": 950.085,
+      "text": "He would have been, by any ruthless calculus of pure survival efficiency, a liability.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0189",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 189,
+      "start_s": 950.525,
+      "end_s": 958.629,
+      "text": "and yet his group fed him, protected him, and kept him alive for years, not because they had to, because they chose to.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0190",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 190,
+      "start_s": 959.009,
+      "end_s": 968.133,
+      "text": "We found the skull of a child with Down syndrome who lived in what is now Spain and died approximately 500,000 years ago, having survived to around eight years of age.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0191",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 191,
+      "start_s": 968.913,
+      "end_s": 979.518,
+      "text": "The level of care required to keep a child with significant developmental disabilities alive in that environment for eight years goes enormously beyond what simple survival instinct would demand.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0192",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 192,
+      "start_s": 980.618,
+      "end_s": 983.08,
+      "text": "Someone loved that child enough to make it happen.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0193",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 193,
+      "start_s": 983.741,
+      "end_s": 986.663,
+      "text": "We've found evidence of healed fractures in ancient skeletons.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0194",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 194,
+      "start_s": 987.323,
+      "end_s": 997.111,
+      "text": "Healed, which means the person survived long enough for the bone to knit back together, which means they were fed and protected during weeks or months of incapacitation.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0195",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 195,
+      "start_s": 997.711,
+      "end_s": 1001.614,
+      "text": "Someone sat with them, brought them food, kept the fire going.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0196",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 196,
+      "start_s": 1002.175,
+      "end_s": 1004.476,
+      "text": "Ancient humans buried their dead with intention.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0197",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 197,
+      "start_s": 1005.237,
+      "end_s": 1009.118,
+      "text": "with arrangement, with grave goods, with a parent's ceremony.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0198",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 198,
+      "start_s": 1009.559,
+      "end_s": 1010.179,
+      "text": "They mourned.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0199",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 199,
+      "start_s": 1010.579,
+      "end_s": 1011.219,
+      "text": "They remembered.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0200",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 200,
+      "start_s": 1011.779,
+      "end_s": 1014.48,
+      "text": "They marked the end of a life as something that mattered.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0201",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 201,
+      "start_s": 1015.021,
+      "end_s": 1018.202,
+      "text": "The bones of ancient people don't tell a story of brutal indifference.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0202",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 202,
+      "start_s": 1019.2,
+      "end_s": 1028.863,
+      "text": "They tell a story of communities that took care of each other in ways that cost them real resources and real effort, for no strategic reason whatsoever except that this is what it means to be human.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0203",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 203,
+      "start_s": 1029.483,
+      "end_s": 1030.923,
+      "text": "And yes, they also hunted.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0204",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 204,
+      "start_s": 1031.303,
+      "end_s": 1032.764,
+      "text": "And it was completely insane.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0205",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 205,
+      "start_s": 1033.164,
+      "end_s": 1041.346,
+      "text": "We can't do this entire video without properly addressing the hunting, because it was genuinely one of the most extraordinary physical achievements in the natural world.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0206",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 206,
+      "start_s": 1041.946,
+      "end_s": 1057.596,
+      "text": "Before the development of bow and arrow technology, which appears around 70,000 years ago in South Africa, and considerably later in other parts of the world, humans hunted primarily with spears and with a strategy that sounds, when you first hear it, like a joke.",
+      "n_words": 45
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0207",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 207,
+      "start_s": 1058.237,
+      "end_s": 1062.4,
+      "text": "It's called persistence hunting, and it is exactly what it sounds like.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0208",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 208,
+      "start_s": 1062.98,
+      "end_s": 1074.808,
+      "text": "You find an animal, something large, a kudu, a wildebeest, a deer, and then you follow it, not sprinting after it, not trying to outrun it, because you can't outrun a wildebeest in a sprint.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0209",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 209,
+      "start_s": 1075.169,
+      "end_s": 1076.85,
+      "text": "You just keep pace.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0210",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 210,
+      "start_s": 1077.33,
+      "end_s": 1077.971,
+      "text": "You track it.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0211",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 211,
+      "start_s": 1078.571,
+      "end_s": 1083.194,
+      "text": "You follow it at a jog through the midday heat, through the hottest part of the day, for hours.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0212",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 212,
+      "start_s": 1084.255,
+      "end_s": 1094.899,
+      "text": "Every time it tries to rest because most four-legged animals cool down by panting, and panting requires them to stop moving, you appear again on the horizon, and it panics and runs again.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0213",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 213,
+      "start_s": 1095.72,
+      "end_s": 1100.962,
+      "text": "And you follow, again, for five hours, eight hours, sometimes longer.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0214",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 214,
+      "start_s": 1101.802,
+      "end_s": 1113.033,
+      "text": "until the animal is so thermally exhausted, so overheated, so physiologically depleted, that it literally collapses and cannot rise, and you walk up to it calmly and finish the job.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0215",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 215,
+      "start_s": 1113.773,
+      "end_s": 1115.655,
+      "text": "This works because humans sweat.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0216",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 216,
+      "start_s": 1116.256,
+      "end_s": 1126.265,
+      "text": "We are one of the only mammals on earth that primarily cools our bodies through perspiration rather than panting, which means we can sustain movement in heat that incapacitates almost everything else.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0217",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 217,
+      "start_s": 1127.266,
+      "end_s": 1135.17,
+      "text": "Our peculiar, hairless, sweating, flat-footed, large-buttocked bodies were specifically shaped by evolution for long-distance running in hot conditions.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0218",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 218,
+      "start_s": 1135.79,
+      "end_s": 1142.974,
+      "text": "The gluteus maximus, the muscle that makes up most of your backside, is enormous in humans compared to other primates.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0219",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 219,
+      "start_s": 1143.574,
+      "end_s": 1145.075,
+      "text": "Not because we sit a lot.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0220",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 220,
+      "start_s": 1145.375,
+      "end_s": 1146.276,
+      "text": "Because we run.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0221",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 221,
+      "start_s": 1146.816,
+      "end_s": 1147.816,
+      "text": "It's a running muscle.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0222",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 222,
+      "start_s": 1148.197,
+      "end_s": 1150.478,
+      "text": "We evolved it for exactly this purpose.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0223",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 223,
+      "start_s": 1151.238,
+      "end_s": 1152.439,
+      "text": "Those weird flat feet?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0224",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 224,
+      "start_s": 1153.019,
+      "end_s": 1154.04,
+      "text": "Running adaptations?",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0225",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 225,
+      "start_s": 1154.86,
+      "end_s": 1157.102,
+      "text": "our relatively long legs compared to our trunk?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0226",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 226,
+      "start_s": 1157.823,
+      "end_s": 1158.884,
+      "text": "Running adaptations.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0227",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 227,
+      "start_s": 1159.325,
+      "end_s": 1165.391,
+      "text": "The way our heads balance on our spines with remarkably little muscular effort so they don't bob violently when we run?",
+      "n_words": 21
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0228",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 228,
+      "start_s": 1166.232,
+      "end_s": 1167.353,
+      "text": "Running adaptation.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0229",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 229,
+      "start_s": 1168.154,
+      "end_s": 1174.24,
+      "text": "The fact that we can breathe independently of our stride, unlike most quadrupeds who have to breathe in sync with their gait?",
+      "n_words": 22
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0230",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 230,
+      "start_s": 1175.28,
+      "end_s": 1185.145,
+      "text": "Running Adaptation",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0231",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 231,
+      "start_s": 1175.28,
+      "end_s": 1185.145,
+      "text": "We were built, from the bones outward, to be endurance predators, long-distance pursuit hunters, the most improbable and effective ones on Earth.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0232",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 232,
+      "start_s": 1185.825,
+      "end_s": 1197.932,
+      "text": "When you run a half-marathon and question your life choices around mile 9, you are using hardware engineered over millions of years of evolution, specifically to chase large animals across open landscapes in the heat of midday.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0233",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 233,
+      "start_s": 1198.872,
+      "end_s": 1200.333,
+      "text": "You were made for this.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0234",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 234,
+      "start_s": 1200.993,
+      "end_s": 1203.835,
+      "text": "Your ancestors were terrifyingly good at it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0235",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 235,
+      "start_s": 1204.662,
+      "end_s": 1206.062,
+      "text": "What about genuine downtime?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0236",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 236,
+      "start_s": 1206.443,
+      "end_s": 1207.003,
+      "text": "True rest?",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0237",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 237,
+      "start_s": 1207.563,
+      "end_s": 1208.843,
+      "text": "Here's something nobody expects.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0238",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 238,
+      "start_s": 1209.703,
+      "end_s": 1214.105,
+      "text": "Ancient humans were probably substantially better at actually resting than modern humans are.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0239",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 239,
+      "start_s": 1214.725,
+      "end_s": 1216.966,
+      "text": "Not just sleeping more or sleeping differently.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0240",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 240,
+      "start_s": 1217.386,
+      "end_s": 1218.266,
+      "text": "Genuinely resting.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0241",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 241,
+      "start_s": 1218.866,
+      "end_s": 1219.546,
+      "text": "Cognitively.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0242",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 242,
+      "start_s": 1220.127,
+      "end_s": 1220.807,
+      "text": "Emotionally.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0243",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 243,
+      "start_s": 1221.327,
+      "end_s": 1224.308,
+      "text": "In ways that modern people have largely lost the ability to do.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0244",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 244,
+      "start_s": 1225.228,
+      "end_s": 1236.715,
+      "text": "Neuroscience has established something called the default mode network, a set of brain regions that activate specifically when you're not focused on any external task, when your attention is unfocused and inwardly directed.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0245",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 245,
+      "start_s": 1237.335,
+      "end_s": 1250.563,
+      "text": "This network is associated with daydreaming, self-reflection, creative thought, emotional processing, and what researchers call mental time travel, the ability to simulate past events and imagine future scenarios.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0246",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 246,
+      "start_s": 1251.283,
+      "end_s": 1254.864,
+      "text": "It's extraordinarily important for psychological health and for creativity.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0247",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 247,
+      "start_s": 1255.344,
+      "end_s": 1256.344,
+      "text": "And here's the problem.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0248",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 248,
+      "start_s": 1256.684,
+      "end_s": 1260.925,
+      "text": "The default mode network requires genuine cognitive rest to activate properly.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0249",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 249,
+      "start_s": 1261.526,
+      "end_s": 1264.626,
+      "text": "Your brain has to actually stop processing external stimulation.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0250",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 250,
+      "start_s": 1265.066,
+      "end_s": 1268.647,
+      "text": "But modern humans fill essentially every quiet moment with input.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0251",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 251,
+      "start_s": 1269.007,
+      "end_s": 1269.728,
+      "text": "A podcast.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0252",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 252,
+      "start_s": 1270.068,
+      "end_s": 1270.628,
+      "text": "A scroll.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0253",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 253,
+      "start_s": 1270.988,
+      "end_s": 1271.748,
+      "text": "Something to watch.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0254",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 254,
+      "start_s": 1272.248,
+      "end_s": 1273.008,
+      "text": "Something to read.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0255",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 255,
+      "start_s": 1273.589,
+      "end_s": 1274.709,
+      "text": "A notification to check.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0256",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 256,
+      "start_s": 1275.666,
+      "end_s": 1283.731,
+      "text": "We have collectively, accidentally engineered an environment in which genuine cognitive rest is almost impossible to achieve without deliberate effort.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0257",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 257,
+      "start_s": 1284.571,
+      "end_s": 1286.553,
+      "text": "Ancient humans didn't have this problem.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0258",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 258,
+      "start_s": 1287.053,
+      "end_s": 1296.038,
+      "text": "Sitting by a fire after dark, watching the flames, not doing anything in particular, letting thoughts arise and dissolve without any agenda, this was normal.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0259",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 259,
+      "start_s": 1296.699,
+      "end_s": 1299.881,
+      "text": "It was the default evening activity for most of human history.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0260",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 260,
+      "start_s": 1300.761,
+      "end_s": 1310.982,
+      "text": "And it probably had profound benefits for mental health, emotional regulation, creative processing, and the kind of unconscious problem-solving that the brain does when you give it space.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0261",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 261,
+      "start_s": 1312.234,
+      "end_s": 1324.381,
+      "text": "There's a reason so many of humanity's great leaps, in art, in philosophy, in mathematics, in technology, seem to cluster in periods and places of relative stillness and contemplation.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0262",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 262,
+      "start_s": 1325.001,
+      "end_s": 1329.443,
+      "text": "The mind, when genuinely not occupied, does extraordinary things.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0263",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 263,
+      "start_s": 1330.224,
+      "end_s": 1334.386,
+      "text": "Ancient people knew this, not as neuroscience, but as lived experience.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0264",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 264,
+      "start_s": 1335.066,
+      "end_s": 1343.952,
+      "text": "They were sitting with their own thoughts for hours every single day, noticing things, making connections, asking questions that had no obvious answers.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0265",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 265,
+      "start_s": 1344.612,
+      "end_s": 1353.9,
+      "text": "The stories they told around the fire about those questions, about why the stars moved, about where the dead went, about what the animals meant, about how the world was made.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0266",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 266,
+      "start_s": 1354.46,
+      "end_s": 1360.465,
+      "text": "Those stories are the ancestors of science, of philosophy, of religion, of literature.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0267",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 267,
+      "start_s": 1361.186,
+      "end_s": 1362.867,
+      "text": "They came from minds with time to wander.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0268",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 268,
+      "start_s": 1363.428,
+      "end_s": 1364.949,
+      "text": "So I have one last question for you.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0269",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 269,
+      "start_s": 1365.809,
+      "end_s": 1366.65,
+      "text": "Would you want to go back?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0270",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 270,
+      "start_s": 1367.531,
+      "end_s": 1368.452,
+      "text": "Let me know in the comments.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0271",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 271,
+      "start_s": 1369.181,
+      "end_s": 1372.368,
+      "text": "Until then, take care of yourselves, and I'll see you soon.",
+      "n_words": 11
+    }
+  ]
+}
