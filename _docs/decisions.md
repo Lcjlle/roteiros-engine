@@ -229,3 +229,47 @@ were never transcribed, per the plan.
 expected at 150 wpm (`6SapuAcHmDk`), comfortably above the 60% floor.
 `DECISOES.md#4`'s "não verificado ainda" note is resolved with this run's
 measured numbers.
+
+## 10. Fase 2 storage stays file, `sat-3l-sm` as the starting SaT model, `SAMPLE_SEED = 42`, scope is `@MackExplains7` only
+
+Grooming Issue #3 (Fase 2 - Sentenciação e janelas) left open exactly the
+kind of gap `_docs/team/pm.md` has the PM close, not hand to the engineer:
+one storage call `README.md`'s "Onde cada coisa é persistida" table lists
+as "Postgres (conforme a issue definir)" without deciding, and two
+thresholds `_docs/plano_implementacao.md` names a tool for but not a
+specific value.
+
+**(a) Storage: file, not Postgres.** `corpus/<canal>/sentences/<video_id>.json`
+and `corpus/<canal>/windows/<video_id>.json` are versioned files, same
+shape as `raw/<video_id>.json`. Item 1's argument for Postgres is
+operational resumability - a job that can be interrupted mid-run and needs
+to pick up by key, which is why M4's ~3,600 annotation calls will need a
+table. Sentenciação/janelamento for ~30 videos is local, deterministic,
+and has no network calls once `raw/` exists: a failed run just reruns from
+the same `raw/` input and gets the same output, so there is nothing to
+resume. Same file-vs-table criterion this file already applied to
+`manifesto.csv` (item 3's precedent, never reopened).
+
+**(b) wtpsplit model: `sat-3l-sm`.** The plan names the tool (`wtpsplit`,
+item unchanged) and the language code (`en`) but not which SaT checkpoint.
+`sat-3l-sm` (3 transformer layers, the general-purpose "-sm" checkpoint) is
+the starting point for speed over `sat-12l-sm` (12 layers, higher
+accuracy, slower). Contingency: if the Fase 2 gate's criterion 2
+(sentences cut mid-clause) shows a real problem in the human-judged
+sample, switch to `sat-12l-sm` and rerun `python -m src.sentencia` -
+offset reattachment does not change, only the split boundaries do. Not a
+call to make before that sample report is filled in.
+
+**(c) `SAMPLE_SEED = 42`.** Same seed value and the same reason as
+`HOLDOUT_SEED` (item 6): `src/amostragem.py`'s video/window draw for the
+Fase 2 gate's criteria 1/2 has to be reproducible, so QA measures the
+exact same 2 videos and 50 windows the engineer measured, not a fresh
+draw.
+
+**(d) Scope: `@MackExplains7` only, this pass.** Fase 2 runs against
+`corpus/mackexplains7/` because that is the channel that unblocks Fase 3
+(`DECISOES.md#4`). `@Zenn0009` already served its purpose as the Fase 1
+collection fixture (item 3/4) and is not reprocessed here; its manifest
+also predates the `role` column (item 7), so a future run against it would
+need `run()` to treat a missing `role` as `profile` first - out of scope
+for Issue #3.
