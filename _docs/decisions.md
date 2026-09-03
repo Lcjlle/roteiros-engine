@@ -750,3 +750,58 @@ When the Fase 3+ `perfis/<canal>.perfil.json` schema is built, its
 `diagnostics` object must include this `nonlast_single_ratio` alongside
 `smoothing_rate`. That schema and field are not implemented by this
 addendum; this records the intended future placement only.
+
+## 15. Issue #8 (fase2_sample.md `sentence_cut` FAIL): root cause fixed at
+sentenciacao (M2), not at the window-gate; SaT boundary confidence alone
+does not discriminate; automated-scanner-plus-agent-review named as future
+direction, not implemented now
+
+Resolves Issue #8. `lkLwp9o7Djk:j0095` (1/50, Issue #4's human sample)
+traced to `wtpsplit.SaT("sat-3l-sm").split()` itself, reproduced live
+against `raw/lkLwp9o7Djk.json`'s real joined text (238 chunks) -
+`src/janelas.py::group_windows()` only inherits a sentence boundary
+already wrong, it never creates one. A punctuation-only heuristic sweep of
+the full corpus (30 videos, 7,392 sentences) found 28 candidates (sentence
+not ending in `.`/`!`/`?`, excluding each video's last sentence); read
+individually against the following sentence, 22 are genuinely
+syntactically open (same defect class as `j0095`), 6 are false positives
+(grammatically complete despite trailing comma/no terminal punctuation -
+e.g. comma-spliced independent clauses, a `because`-clause already closed).
+Of the 22, 12 land exactly on a window's last sentence - the same
+`sentence_cut`-visible position `j0095` occupies.
+
+**Project owner's decision:** fix the root cause in sentenciacao (a new
+issue, `src/sentencia.py` only) before unblocking Fase 3. Explicitly
+rejected for now: relaxing criterion 2's `== 0` tolerance, raising
+`WINDOW_MAX_WORDS`/`WINDOW_MAX_SENTENCES`/`GATE_MAX_WINDOW_WORDS`, and
+migrating to EDU/RST. Also explicitly rejected: a rule of the shape "ends
+in a comma => merge with the next sentence" - the 6 false positives above
+are the counter-evidence; that rule would regress all six. The 28
+classified cases (22 open / 6 false positive, with individual rationale)
+are the required regression fixture for whatever fix ships.
+
+**Measured during this grooming, so the fix issue does not have to
+re-derive it:** `SaT.predict_proba()` exposes a per-character boundary
+probability. Extracted the model's own confidence at each of the 28
+candidate boundaries (same live-reproduction method as above, real
+`raw/*.json` text, real model) - it does **not** cleanly separate the two
+classes: open-case probabilities range 0.145-0.991 (mean 0.531, n=22),
+false-positive probabilities range 0.403-0.983 (mean 0.669, n=6), heavily
+overlapping (e.g. `f59QqKgwuq0:s0016`, open, p=0.885, higher than 4 of the
+6 false positives). A bare confidence-threshold retune of the SaT split
+decision is therefore not a viable standalone fix either, same conclusion
+as the punctuation-only rule - ruled out here so the implementation issue
+does not spend a cycle rediscovering it. Whatever mechanism the
+implementation issue lands on needs a real syntactic/lexical signal beyond
+either single feature, or a combination of features validated against the
+28-case fixture with zero regressions on the 6 false positives.
+
+**Future direction, registered per the project owner's explicit
+instruction - not implemented by this entry or scoped into the
+implementation issue:** an automated scanner that flags suspicious
+sentence/window boundaries corpus-wide, reviewed first by an agent, only
+escalating genuinely ambiguous cases to a human. This is a shape for a
+*future* issue (plausibly generalizing the 3c-style corpus-level
+thermometer this project already uses for window density,
+`_docs/decisions.md#14`, to sentence-boundary quality) - no issue number
+assigned yet, nothing to implement now.
