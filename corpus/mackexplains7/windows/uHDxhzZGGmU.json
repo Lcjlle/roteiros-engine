@@ -1,0 +1,1991 @@
+{
+  "video_id": "uHDxhzZGGmU",
+  "generated_at": "2026-09-03T11:59:53.026705+00:00",
+  "windows": [
+    {
+      "window_id": "uHDxhzZGGmU:j0000",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 0,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0000",
+        "uHDxhzZGGmU:s0001",
+        "uHDxhzZGGmU:s0002",
+        "uHDxhzZGGmU:s0003"
+      ],
+      "start_s": 0.071,
+      "end_s": 6.392,
+      "text": "You probably have a dozen things you consider private. A password. A diary. An embarrassing playlist.",
+      "n_words": 16,
+      "n_sentences": 4,
+      "pos_pct": 5.322338830584707e-05
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0001",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 1,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0004",
+        "uHDxhzZGGmU:s0005",
+        "uHDxhzZGGmU:s0006",
+        "uHDxhzZGGmU:s0007"
+      ],
+      "start_s": 6.772,
+      "end_s": 18.095,
+      "text": "Maybe a browser history you'd rather take to the grave. Maybe a specific folder on your desktop with a very innocent-sounding name that is absolutely not innocent. But here's the thing. That instinct.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.005076461769115442
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0002",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 2,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0008",
+        "uHDxhzZGGmU:s0009",
+        "uHDxhzZGGmU:s0010",
+        "uHDxhzZGGmU:s0011"
+      ],
+      "start_s": 18.655,
+      "end_s": 31.742,
+      "text": "That deep, almost visceral need to have something that's just yours. Where did it come from? Is it uniquely modern? Did it arrive with the invention of doors, the internet, curtains, Netflix passwords?",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.013984257871064469
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0003",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 3,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0012",
+        "uHDxhzZGGmU:s0013"
+      ],
+      "start_s": 32.342,
+      "end_s": 40.91,
+      "text": "Or did the guy chipping away at a spear point 40,000 years ago also want sometimes to just be left alone? That is what we're figuring out today.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.024244377811094453
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0004",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 4,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0014",
+        "uHDxhzZGGmU:s0015",
+        "uHDxhzZGGmU:s0016"
+      ],
+      "start_s": 41.43,
+      "end_s": 52.96,
+      "text": "But first, what even is a private life? In the modern sense, we tend to think of privacy as a kind of physical and psychological space. Your bedroom, your thoughts, your personal choices.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.031056971514242877
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0005",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 5,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0017",
+        "uHDxhzZGGmU:s0018",
+        "uHDxhzZGGmU:s0019"
+      ],
+      "start_s": 53.5,
+      "end_s": 63.728,
+      "text": "The stuff you don't put on your LinkedIn. The stuff you definitely don't bring up at Thanksgiving. But, if you strip it back to its absolute bare core, privacy is really just this.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.04010494752623688
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0006",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 6,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0020",
+        "uHDxhzZGGmU:s0021",
+        "uHDxhzZGGmU:s0022",
+        "uHDxhzZGGmU:s0023"
+      ],
+      "start_s": 64.148,
+      "end_s": 72.915,
+      "text": "Information or space that you control, and others don't. That's it. That's the whole thing. Which means, technically, privacy doesn't require a door.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.048086956521739124
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0007",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 7,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0024",
+        "uHDxhzZGGmU:s0025",
+        "uHDxhzZGGmU:s0026",
+        "uHDxhzZGGmU:s0027"
+      ],
+      "start_s": 73.115,
+      "end_s": 84.887,
+      "text": "It doesn't require a phone. It doesn't even require a house. It just requires the ability to conceal something. And humans, even the really old ones, were absolutely spectacular at concealing things.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.05480884557721139
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0008",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 8,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0028"
+      ],
+      "start_s": 85.268,
+      "end_s": 94.32,
+      "text": "In fact, our ability to deceive, to keep secrets, to perform different versions of ourselves depending on who was watching, that's not a modern invention.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.06391904047976012
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0009",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 9,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0029"
+      ],
+      "start_s": 94.8,
+      "end_s": 103.106,
+      "text": "That's arguably one of the oldest cognitive tools in the human toolkit, possibly older than language itself, and it starts way, way earlier than you think.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.07106446776611694
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0010",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 10,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0030",
+        "uHDxhzZGGmU:s0031"
+      ],
+      "start_s": 103.526,
+      "end_s": 112.673,
+      "text": "Primatologists studying chimpanzees, our closest living relatives, have documented deliberate deception in the wild. A chimp hiding food from a dominant male.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.07760569715142429
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0011",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 11,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0032",
+        "uHDxhzZGGmU:s0033",
+        "uHDxhzZGGmU:s0034",
+        "uHDxhzZGGmU:s0035"
+      ],
+      "start_s": 112.933,
+      "end_s": 122.12,
+      "text": "A chimp pretending to be uninterested in a female when a rival is watching, then circling back later. Strategic concealment. Performed indifference. Sound familiar?",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.08465742128935533
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0012",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 12,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0036",
+        "uHDxhzZGGmU:s0037",
+        "uHDxhzZGGmU:s0038"
+      ],
+      "start_s": 122.5,
+      "end_s": 133.888,
+      "text": "Now, chimps and humans diverged about 6 million years ago, which means the roots of privacy-related behavior might be 6 million years old. We didn't invent sneakiness. We just got really, really good at it.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.09182908545727136
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0013",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 13,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0039",
+        "uHDxhzZGGmU:s0040",
+        "uHDxhzZGGmU:s0041",
+        "uHDxhzZGGmU:s0042"
+      ],
+      "start_s": 134.328,
+      "end_s": 142.375,
+      "text": "Let's go back again. We're talking roughly 300,000 years ago. Homo sapiens is brand new. The world is genuinely terrifying.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.10069565217391305
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0014",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 14,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0043",
+        "uHDxhzZGGmU:s0044"
+      ],
+      "start_s": 142.715,
+      "end_s": 153.688,
+      "text": "There are lions, mammoths, rival groups of humans who will absolutely ruin your day, cave bears the size of small cars, and zero hospitals. Life expectancy is not something you want to google.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.10698275862068966
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0015",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 15,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0045",
+        "uHDxhzZGGmU:s0046"
+      ],
+      "start_s": 153.948,
+      "end_s": 163.5,
+      "text": "And yet, archaeologists have found burial sites from this period, and here's where it gets interesting. The way ancient humans buried their dead tells us something remarkable.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.11540329835082459
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0016",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 16,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0047"
+      ],
+      "start_s": 164.001,
+      "end_s": 174.576,
+      "text": "Because you don't bury someone with care, with specific positioning, with ochre pigment and shell beads and deliberate grave goods, if you're not thinking about them as someone, an individual.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.12293928035982009
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0017",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 17,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0048",
+        "uHDxhzZGGmU:s0049"
+      ],
+      "start_s": 174.977,
+      "end_s": 182.839,
+      "text": "a person with an inner life that was distinct from everyone else's. That implies that even 300,000 years ago, there was a concept of self.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.1311671664167916
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0018",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 18,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0050"
+      ],
+      "start_s": 183.319,
+      "end_s": 189.741,
+      "text": "A sense that the person who just died was not just a unit of the group, not just a body, they were a specific someone.",
+      "n_words": 25,
+      "n_sentences": 1,
+      "pos_pct": 0.13742053973013493
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0019",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 19,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0051"
+      ],
+      "start_s": 189.941,
+      "end_s": 195.183,
+      "text": "They had their own relationship to the world, their own story, and here's why that matters for privacy.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.14238455772113942
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0020",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 20,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0052"
+      ],
+      "start_s": 195.363,
+      "end_s": 202.665,
+      "text": "If you have a concept of self, you almost inevitably develop a concept of my things versus your things, of my thoughts versus yours.",
+      "n_words": 24,
+      "n_sentences": 1,
+      "pos_pct": 0.14644902548725638
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0021",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 21,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0053",
+        "uHDxhzZGGmU:s0054"
+      ],
+      "start_s": 203.045,
+      "end_s": 212.633,
+      "text": "of information that belongs to me versus information that belongs to everyone. The building blocks of private life are already there, baked into the very idea of individual identity.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.15220764617691154
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0022",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 22,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0055",
+        "uHDxhzZGGmU:s0056"
+      ],
+      "start_s": 213.193,
+      "end_s": 218.857,
+      "text": "You can't have a self without having a private self. The two come as a package deal.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.15981484257871065
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0023",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 23,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0057",
+        "uHDxhzZGGmU:s0058"
+      ],
+      "start_s": 219.218,
+      "end_s": 230.807,
+      "text": "Now, let's talk about where ancient humans actually lived, because the architecture, or the lack of it, tells a fascinating story. For most of the Stone Age, humans lived in relatively small, mobile bands.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.16433133433283356
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0024",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 24,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0059",
+        "uHDxhzZGGmU:s0060"
+      ],
+      "start_s": 231.187,
+      "end_s": 238.655,
+      "text": "roughly 20-50 people, and I want you to really picture that for a second. Not abstractly, really picture it.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.17330359820089955
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0025",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 25,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0061"
+      ],
+      "start_s": 238.675,
+      "end_s": 249.707,
+      "text": "20-50 people, the same 20-50 people, all the time, every meal, every morning, every night, around fires, in shelters, in caves, sleeping within arm's reach of each other.",
+      "n_words": 28,
+      "n_sentences": 1,
+      "pos_pct": 0.1789167916041979
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0026",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 26,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0062",
+        "uHDxhzZGGmU:s0063",
+        "uHDxhzZGGmU:s0064",
+        "uHDxhzZGGmU:s0065"
+      ],
+      "start_s": 250.067,
+      "end_s": 261.415,
+      "text": "knowing everyone's cough, everyone's sleep schedule, everyone's mood, everyone's relationship drama, whether you wanted to or not. There is no door to close. There is no, I'll be in my room. There is no room.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.18745652173913044
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0027",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 27,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0066",
+        "uHDxhzZGGmU:s0067",
+        "uHDxhzZGGmU:s0068",
+        "uHDxhzZGGmU:s0069"
+      ],
+      "start_s": 261.835,
+      "end_s": 272.823,
+      "text": "There is no room for a room. So was privacy just impossible? Was ancient communal life basically one long inescapable group chat with no mute button? Not exactly.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.1962781109445277
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0028",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 28,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0070"
+      ],
+      "start_s": 273.063,
+      "end_s": 275.145,
+      "text": "And this is where it gets genuinely interesting.",
+      "n_words": 8,
+      "n_sentences": 1,
+      "pos_pct": 0.20469490254872563
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0029",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 29,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0071"
+      ],
+      "start_s": 275.625,
+      "end_s": 288.235,
+      "text": "Anthropologists who study modern hunter-gatherer societies, people living in ways that are meaningfully comparable to our prehistoric ancestors, have noticed something fascinating and consistent across radically different cultures.",
+      "n_words": 28,
+      "n_sentences": 1,
+      "pos_pct": 0.20661544227886056
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0030",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 30,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0072",
+        "uHDxhzZGGmU:s0073",
+        "uHDxhzZGGmU:s0074"
+      ],
+      "start_s": 288.735,
+      "end_s": 298.643,
+      "text": "Even in extremely communal settings, people find ways to carve out privacy. They use social conventions instead of physical walls. In many traditional societies, there are shared, unspoken rules.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.21644302848575714
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0031",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 31,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0075",
+        "uHDxhzZGGmU:s0076",
+        "uHDxhzZGGmU:s0077"
+      ],
+      "start_s": 299.203,
+      "end_s": 307.268,
+      "text": "You don't look directly at someone when they're doing certain things. You don't enter a particular area of the shelter at certain times. You don't ask certain questions.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.22429010494752621
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0032",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 32,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0078",
+        "uHDxhzZGGmU:s0079"
+      ],
+      "start_s": 307.789,
+      "end_s": 314.713,
+      "text": "If someone turns away from the group and faces the wall, you leave them alone. If someone goes into the forest in a particular direction, nobody follows.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.23072638680659668
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0033",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 33,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0080",
+        "uHDxhzZGGmU:s0081",
+        "uHDxhzZGGmU:s0082",
+        "uHDxhzZGGmU:s0083"
+      ],
+      "start_s": 315.214,
+      "end_s": 325.399,
+      "text": "These invisible walls are just as real as physical ones. Sometimes more so, because breaking them is a serious social offense. More serious, arguably, than knocking on a door. Because you know.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.23629235382308844
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0034",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 34,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0084",
+        "uHDxhzZGGmU:s0085",
+        "uHDxhzZGGmU:s0086",
+        "uHDxhzZGGmU:s0087"
+      ],
+      "start_s": 325.779,
+      "end_s": 335.222,
+      "text": "You know what you're doing. There's no, I didn't realize, when the rules live in the culture. Privacy, it turns out, doesn't need architecture. It needs agreement.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.24421214392803597
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0035",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 35,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0088",
+        "uHDxhzZGGmU:s0089",
+        "uHDxhzZGGmU:s0090"
+      ],
+      "start_s": 335.662,
+      "end_s": 346.565,
+      "text": "And ancient humans were perfectly capable of making and keeping agreements. And speaking of agreements, let's talk about one of the most private things that has ever existed in human society. Sex.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.2516206896551724
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0036",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 36,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0091",
+        "uHDxhzZGGmU:s0092",
+        "uHDxhzZGGmU:s0093",
+        "uHDxhzZGGmU:s0094"
+      ],
+      "start_s": 347.182,
+      "end_s": 355.085,
+      "text": "Yes, we're going there. Now, in a lot of animals, reproduction is basically public. Nobody's embarrassed. Nobody's waiting for the others to leave.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.26025637181409295
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0037",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 37,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0095",
+        "uHDxhzZGGmU:s0096",
+        "uHDxhzZGGmU:s0097"
+      ],
+      "start_s": 355.645,
+      "end_s": 365.848,
+      "text": "The baboons don't excuse themselves. It's just a thing that happens, in front of whoever. Animals are extremely unselfconscious about this, and honestly, good for them.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.26660044977511244
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0038",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 38,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0098"
+      ],
+      "start_s": 366.168,
+      "end_s": 373.176,
+      "text": "But humans, even ancient ones, seem to have had a very different relationship with the whole situation.",
+      "n_words": 17,
+      "n_sentences": 1,
+      "pos_pct": 0.2744887556221889
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0039",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 39,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0099"
+      ],
+      "start_s": 373.576,
+      "end_s": 385.809,
+      "text": "Anthropological evidence from hunter-gatherer societies around the world, from the Amazon to the Kalahari to Papua New Guinea, consistently shows that sex is treated as something that should happen away from communal observation.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.28004197901049477
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0040",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 40,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0100",
+        "uHDxhzZGGmU:s0101",
+        "uHDxhzZGGmU:s0102"
+      ],
+      "start_s": 386.49,
+      "end_s": 396.659,
+      "text": "Even in groups with no private sleeping spaces, even in groups where everyone essentially lives in the same room, people find ways. They go into the forest. They wait until others are asleep.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.28972263868065967
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0041",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 41,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0103",
+        "uHDxhzZGGmU:s0104",
+        "uHDxhzZGGmU:s0105",
+        "uHDxhzZGGmU:s0106"
+      ],
+      "start_s": 397.019,
+      "end_s": 402.524,
+      "text": "They use cover of darkness. They make arrangements in advance. They are deliberate about it. Why?",
+      "n_words": 16,
+      "n_sentences": 4,
+      "pos_pct": 0.29761544227886055
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0042",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 42,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0107"
+      ],
+      "start_s": 403.365,
+      "end_s": 413.569,
+      "text": "because sex in humans is deeply entangled with pair bonding, jealousy, status, alliance building, and social politics in a way it simply isn't for most animals.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.3023725637181409
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0043",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 43,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0108",
+        "uHDxhzZGGmU:s0109"
+      ],
+      "start_s": 413.97,
+      "end_s": 424.714,
+      "text": "The moment sex becomes political, and in human societies, it almost always is, almost immediately. It becomes something that needs to be hidden, managed, controlled.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.31032233883058474
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0044",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 44,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0110",
+        "uHDxhzZGGmU:s0111"
+      ],
+      "start_s": 425.074,
+      "end_s": 436.605,
+      "text": "Information about who's sleeping with whom is power, and power is something people protect. So yes, our prehistoric ancestors were sneaking off into the bushes 40,000 years ago.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.31864617691154423
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0045",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 45,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0112"
+      ],
+      "start_s": 436.825,
+      "end_s": 445.818,
+      "text": "They were doing exactly what you think they were doing, and they absolutely did not want anyone to see, because the social consequences of being seen were very real and very immediate.",
+      "n_words": 32,
+      "n_sentences": 1,
+      "pos_pct": 0.32745502248875563
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0046",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 46,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0113",
+        "uHDxhzZGGmU:s0114",
+        "uHDxhzZGGmU:s0115",
+        "uHDxhzZGGmU:s0116"
+      ],
+      "start_s": 446.458,
+      "end_s": 452.401,
+      "text": "Some things are eternal. Some things are simply human. This is one of them. But let's go beyond the physical.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.3346761619190405
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0047",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 47,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0117",
+        "uHDxhzZGGmU:s0118",
+        "uHDxhzZGGmU:s0119"
+      ],
+      "start_s": 452.721,
+      "end_s": 462.865,
+      "text": "Let's talk about the inner life, because this is where it gets really fascinating and a little bit philosophical. Did ancient humans have private thoughts? Obviously, in a basic sense, yes.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.3393710644677661
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0048",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 48,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0120",
+        "uHDxhzZGGmU:s0121",
+        "uHDxhzZGGmU:s0122",
+        "uHDxhzZGGmU:s0123"
+      ],
+      "start_s": 463.545,
+      "end_s": 473.269,
+      "text": "Everyone has thoughts no one else can access. Your skull is the ultimate private space. But what I mean is something more specific. Did they have a rich, self-reflective inner world?",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.3474850074962519
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0049",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 49,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0124",
+        "uHDxhzZGGmU:s0125"
+      ],
+      "start_s": 473.529,
+      "end_s": 480.191,
+      "text": "Did they lie awake after everyone else fell asleep and think about things they'd never say out loud? Did they have opinions they kept to themselves?",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.3549692653673163
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0050",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 50,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0126",
+        "uHDxhzZGGmU:s0127",
+        "uHDxhzZGGmU:s0128",
+        "uHDxhzZGGmU:s0129"
+      ],
+      "start_s": 480.511,
+      "end_s": 492.356,
+      "text": "Feelings they performed over, covered with a smile, buried under the correct social response? The honest answer is we don't know with certainty. you can't excavate a thought. Consciousness doesn't fossilize.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.3602031484257871
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0051",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 51,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0130",
+        "uHDxhzZGGmU:s0131"
+      ],
+      "start_s": 492.756,
+      "end_s": 499.6,
+      "text": "But we have clues, really good ones. One of the most powerful clues is art, specifically cave art.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.3693823088455772
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0052",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 52,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0132"
+      ],
+      "start_s": 500.021,
+      "end_s": 507.025,
+      "text": "The famous paintings at Lascaux in France, at Altamira in Spain, at Chauvet, these date back 17,000 to 36,000 years.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.37482833583208397
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0053",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 53,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0133",
+        "uHDxhzZGGmU:s0134",
+        "uHDxhzZGGmU:s0135",
+        "uHDxhzZGGmU:s0136"
+      ],
+      "start_s": 507.085,
+      "end_s": 527.094,
+      "text": "Horses, bison, aurochs, handprints, geometric shapes, half-human figures, extraordinary images executed with real skill and care. And here's what's remarkable about a lot of them. They're deep inside the caves. Not at the entrance.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.380123688155922
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0054",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 54,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0137"
+      ],
+      "start_s": 527.734,
+      "end_s": 530.556,
+      "text": "not in a public area near the fire where people gathered.",
+      "n_words": 11,
+      "n_sentences": 1,
+      "pos_pct": 0.3956026986506747
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0055",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 55,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0138"
+      ],
+      "start_s": 530.856,
+      "end_s": 544.383,
+      "text": "Deep inside, in chambers that would have required torches, required real effort, required deliberate navigation through narrow passages and absolute darkness to reach, why would you paint something in a place almost no one would ever see?",
+      "n_words": 37,
+      "n_sentences": 1,
+      "pos_pct": 0.39794302848575713
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0056",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 56,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0139",
+        "uHDxhzZGGmU:s0140"
+      ],
+      "start_s": 545.063,
+      "end_s": 554.355,
+      "text": "One leading theory, and it's a compelling one, is that these weren't public murals. They weren't announcements or propaganda or decoration for the communal living room.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.4085929535232384
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0057",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 57,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0141",
+        "uHDxhzZGGmU:s0142"
+      ],
+      "start_s": 554.616,
+      "end_s": 564.067,
+      "text": "They were private acts, maybe ritual, maybe spiritual, maybe something like prayer, maybe something like journaling. but not intended for mass consumption.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.4157541229385307
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0058",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 58,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0143",
+        "uHDxhzZGGmU:s0144"
+      ],
+      "start_s": 564.427,
+      "end_s": 576.398,
+      "text": "In which case, you have people 30,000 years ago making something that was, in essence, for themselves. Or for some private, intimate interaction with forces they believed in and didn't necessarily talk about openly.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.4231086956521739
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0059",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 59,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0145",
+        "uHDxhzZGGmU:s0146",
+        "uHDxhzZGGmU:s0147"
+      ],
+      "start_s": 576.738,
+      "end_s": 584.484,
+      "text": "That's an inner life. That's privacy of a profound and almost moving kind. there's also the question of personal objects.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.4323373313343329
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0060",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 60,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0148",
+        "uHDxhzZGGmU:s0149"
+      ],
+      "start_s": 585.004,
+      "end_s": 597.026,
+      "text": "And this might seem like a small detail, but bear with me, because it's actually enormous. Archaeologists have found, repeatedly and across multiple continents, that ancient humans kept personal items.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.4385337331334333
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0061",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 61,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0150",
+        "uHDxhzZGGmU:s0151"
+      ],
+      "start_s": 597.407,
+      "end_s": 606.289,
+      "text": "Things that had no obvious functional use. A particular stone, shaped or colored in a specific way, carried for hundreds of miles from where it was found.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.4478313343328336
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0062",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 62,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0152",
+        "uHDxhzZGGmU:s0153",
+        "uHDxhzZGGmU:s0154",
+        "uHDxhzZGGmU:s0155"
+      ],
+      "start_s": 606.689,
+      "end_s": 620.077,
+      "text": "A piece of ochre carved with careful geometric patterns that served no practical survival purpose. perforated shells strung as jewelry, feathers, unusual fossils. These are not hunting tools. These are not food.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.45478935532233883
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0063",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 63,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0156",
+        "uHDxhzZGGmU:s0157",
+        "uHDxhzZGGmU:s0158",
+        "uHDxhzZGGmU:s0159"
+      ],
+      "start_s": 620.458,
+      "end_s": 631.408,
+      "text": "These are identity objects. Things that say, without words, I am a specific person. I find this beautiful or meaningful. This thing is mine.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.4651109445277361
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0064",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 64,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0160"
+      ],
+      "start_s": 632.107,
+      "end_s": 647.027,
+      "text": "And that's privacy in one of its most essential forms, the idea that you have something that belongs to you and not to the group, that your selfhood extends beyond your body into objects that you have, in some meaningful sense, belongings.",
+      "n_words": 42,
+      "n_sentences": 1,
+      "pos_pct": 0.47384332833583204
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0065",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 65,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0161"
+      ],
+      "start_s": 647.628,
+      "end_s": 662.654,
+      "text": "things that belong to you as a distinct individual, which also means, and here's a fun implication that historians don't talk about enough, that ancient humans almost certainly had theft, because you cannot have personal belongings without the possibility of someone taking them.",
+      "n_words": 43,
+      "n_sentences": 1,
+      "pos_pct": 0.48547826086956525
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0066",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 66,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0162",
+        "uHDxhzZGGmU:s0163",
+        "uHDxhzZGGmU:s0164",
+        "uHDxhzZGGmU:s0165"
+      ],
+      "start_s": 663.214,
+      "end_s": 674.043,
+      "text": "you cannot have mine without the risk of someone disagreeing. And if you have theft, you have hiding places. Secrets about where you store valuables. Concealment strategies.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.4971619190404798
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0067",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 67,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0166",
+        "uHDxhzZGGmU:s0167"
+      ],
+      "start_s": 674.623,
+      "end_s": 683.03,
+      "text": "And secrets about where you hide things is just another layer of private life, folded quietly inside the first one. It really does go all the way down.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.5057143928035982
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0068",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 68,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0168",
+        "uHDxhzZGGmU:s0169",
+        "uHDxhzZGGmU:s0170",
+        "uHDxhzZGGmU:s0171"
+      ],
+      "start_s": 683.73,
+      "end_s": 697.958,
+      "text": "Now let's talk about something that doesn't get discussed enough when people talk about ancient life. Emotional privacy. The managed interior. Across cultures, ancient and modern, isolated and interconnected, there's a remarkably consistent pattern.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.5125412293853073
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0069",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 69,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0172",
+        "uHDxhzZGGmU:s0173",
+        "uHDxhzZGGmU:s0174",
+        "uHDxhzZGGmU:s0175"
+      ],
+      "start_s": 698.458,
+      "end_s": 712.406,
+      "text": "People perform emotions publicly that don't necessarily match what they feel privately. We smile when we're sad. We appear calm when we're panicking. We nod enthusiastically when someone is explaining something that is, frankly, excruciating.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.5235817091454272
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0070",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 70,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0176",
+        "uHDxhzZGGmU:s0177"
+      ],
+      "start_s": 713.046,
+      "end_s": 720.748,
+      "text": "We express enthusiasm for decisions we think are catastrophically stupid. We say, I'm fine in a tone that means the precise opposite.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.5345172413793103
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0071",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 71,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0178"
+      ],
+      "start_s": 721.189,
+      "end_s": 728.411,
+      "text": "This gap between performed self and felt self is not a modern neurosis born of social media and office politics.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.5406214392803598
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0072",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 72,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0179"
+      ],
+      "start_s": 728.931,
+      "end_s": 734.733,
+      "text": "It's a deeply ancient social technology, possibly one of the most important ones we ever developed.",
+      "n_words": 16,
+      "n_sentences": 1,
+      "pos_pct": 0.5464250374812594
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0073",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 73,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0180"
+      ],
+      "start_s": 735.373,
+      "end_s": 746.098,
+      "text": "Because in a small group, the kind of small, tight, interconnected group that humans lived in for hundreds of thousands of years, Managing how others perceive you is not just a social nicety.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.5512541229385308
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0074",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 74,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0181",
+        "uHDxhzZGGmU:s0182",
+        "uHDxhzZGGmU:s0183",
+        "uHDxhzZGGmU:s0184"
+      ],
+      "start_s": 746.399,
+      "end_s": 757.749,
+      "text": "It's a survival skill. Literally. If the group thinks you're weak or frightened, you get fewer resources and less respect. If the group thinks you're dangerous or unstable, they might exile you.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.5595194902548726
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0075",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 75,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0185",
+        "uHDxhzZGGmU:s0186"
+      ],
+      "start_s": 758.129,
+      "end_s": 768.878,
+      "text": "And exile, in the Paleolithic, was essentially a death sentence. If the group thinks you're a bad mate or an unreliable ally, the social and reproductive consequences are immediate.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.5683125937031485
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0076",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 76,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0187"
+      ],
+      "start_s": 769.418,
+      "end_s": 779.966,
+      "text": "In that context, your emotional interior is something you actively protect, something you manage, something you carefully, strategically keep, to a significant degree, private.",
+      "n_words": 24,
+      "n_sentences": 1,
+      "pos_pct": 0.5767751124437781
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0077",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 77,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0188"
+      ],
+      "start_s": 780.626,
+      "end_s": 788.01,
+      "text": "Anthropologists call this impression management, and it's one of the most fundamental features of human social life across all known cultures.",
+      "n_words": 21,
+      "n_sentences": 1,
+      "pos_pct": 0.5851769115442279
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0078",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 78,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0189",
+        "uHDxhzZGGmU:s0190"
+      ],
+      "start_s": 788.47,
+      "end_s": 799.677,
+      "text": "And it requires, at its absolute core, the ability to maintain a private self that is distinct from your public self. An interior that the exterior doesn't fully reveal.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.5910569715142429
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0079",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 79,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0191",
+        "uHDxhzZGGmU:s0192"
+      ],
+      "start_s": 800.377,
+      "end_s": 808.722,
+      "text": "Which means ancient humans weren't just performing for their group, they were aware they were performing. They were making deliberate choices about what to show and what to hide.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.5999827586206896
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0080",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 80,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0193",
+        "uHDxhzZGGmU:s0194",
+        "uHDxhzZGGmU:s0195"
+      ],
+      "start_s": 809.143,
+      "end_s": 822.872,
+      "text": "That self-awareness, that gap between the felt and the performed, that's not just social behavior. That is, by any reasonable definition, a private life. Let's jump forward a bit, to around 10,000 years ago.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.6065539730134932
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0081",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 81,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0196",
+        "uHDxhzZGGmU:s0197",
+        "uHDxhzZGGmU:s0198",
+        "uHDxhzZGGmU:s0199"
+      ],
+      "start_s": 823.312,
+      "end_s": 830.62,
+      "text": "The Neolithic Revolution. Humans start farming. Settlements become permanent. Population density increases.",
+      "n_words": 12,
+      "n_sentences": 4,
+      "pos_pct": 0.6171754122938531
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0082",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 82,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0200",
+        "uHDxhzZGGmU:s0201",
+        "uHDxhzZGGmU:s0202"
+      ],
+      "start_s": 831.3,
+      "end_s": 844.116,
+      "text": "And with farming comes something that changes the texture of privacy forever. Architecture with intent. Permanent settlements appear, and almost immediately you start to see something interesting in the archaeological record.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.6231634182908545
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0083",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 83,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0203"
+      ],
+      "start_s": 844.596,
+      "end_s": 857.602,
+      "text": "rooms, separate spaces within dwellings, areas that seem functionally differentiated, sleeping separated from cooking, cooking separated from storage, storage separated from the spaces where guests might enter.",
+      "n_words": 27,
+      "n_sentences": 1,
+      "pos_pct": 0.6331304347826087
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0084",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 84,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0204"
+      ],
+      "start_s": 858.462,
+      "end_s": 864.545,
+      "text": "The physical world starts to mirror the social world with its layers and its zones and its access restrictions.",
+      "n_words": 19,
+      "n_sentences": 1,
+      "pos_pct": 0.6435247376311845
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0085",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 85,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0205"
+      ],
+      "start_s": 865.285,
+      "end_s": 874.432,
+      "text": "One of the most famous early examples is Satalhöyük, a Neolithic settlement in what is now Turkey, dating to around 7,500 BCE.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.6486394302848576
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0086",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 86,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0206",
+        "uHDxhzZGGmU:s0207",
+        "uHDxhzZGGmU:s0208",
+        "uHDxhzZGGmU:s0209"
+      ],
+      "start_s": 874.992,
+      "end_s": 886.561,
+      "text": "It's one of the world's oldest known proto-cities, home to thousands of people at its peak. And archaeologists have noticed something immediately striking about it. The houses have no exterior doors. None.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.6559160419790104
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0087",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 87,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0210",
+        "uHDxhzZGGmU:s0211",
+        "uHDxhzZGGmU:s0212",
+        "uHDxhzZGGmU:s0213"
+      ],
+      "start_s": 887.181,
+      "end_s": 897.191,
+      "text": "You enter through a hole in the roof. You literally climb down a ladder into the house. Every home is sealed from the street level. Now, scholars debate the exact reasons.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.6650532233883059
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0088",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 88,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0214",
+        "uHDxhzZGGmU:s0215",
+        "uHDxhzZGGmU:s0216"
+      ],
+      "start_s": 897.771,
+      "end_s": 909.823,
+      "text": "Defense, climate, symbolic meaning. But functionally, regardless of intent, what this creates is an extremely private domestic space. Your home is literally inaccessible from the ground.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.6729917541229385
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0089",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 89,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0217",
+        "uHDxhzZGGmU:s0218"
+      ],
+      "start_s": 910.183,
+      "end_s": 916.147,
+      "text": "To enter uninvited, someone has to descend through your ceiling. That is not an accident of engineering.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.6822961019490255
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0090",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 90,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0219"
+      ],
+      "start_s": 916.467,
+      "end_s": 923.091,
+      "text": "That is a society that has developed a very specific and rather fierce idea of the home as a private, protected space.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.6870067466266866
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0091",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 91,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0220"
+      ],
+      "start_s": 923.771,
+      "end_s": 936.259,
+      "text": "Nine and a half thousand years ago, before writing, before cities as we recognize them, before almost everything we consider civilization, already the idea that your home is yours and entry requires permission.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.6924820089955022
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0092",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 92,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0221",
+        "uHDxhzZGGmU:s0222"
+      ],
+      "start_s": 936.879,
+      "end_s": 947.088,
+      "text": "And then there are the really compelling parts of ancient private life. Actual documented secrets, conspiracies, grievances, things people deliberately hid.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.702308095952024
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0093",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 93,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0223",
+        "uHDxhzZGGmU:s0224"
+      ],
+      "start_s": 947.688,
+      "end_s": 957.316,
+      "text": "Because once you have complex social organization, and it appears shockingly early, you get all the behaviors that come with it. Alliances built in private.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.7104107946026986
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0094",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 94,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0225",
+        "uHDxhzZGGmU:s0226"
+      ],
+      "start_s": 958.117,
+      "end_s": 972.726,
+      "text": "information withheld strategically, deceptions maintained carefully over time, gossip about private matters that other people were actively trying to conceal. The ancient Mesopotamians left us thousands of clay tablets, the world's first written records.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.7182286356821589
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0095",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 95,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0227",
+        "uHDxhzZGGmU:s0228"
+      ],
+      "start_s": 973.346,
+      "end_s": 985.159,
+      "text": "And a significant chunk of them are personal letters, private business communications, intimate exchanges between individuals. And those letters contain things that are immediately and almost comically recognizable.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.7296446776611695
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0096",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 96,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0229",
+        "uHDxhzZGGmU:s0230",
+        "uHDxhzZGGmU:s0231"
+      ],
+      "start_s": 985.68,
+      "end_s": 994.608,
+      "text": "Complaints about unreliable family members, business deals made quietly behind other people's backs. Relationship tension? Money problems.",
+      "n_words": 17,
+      "n_sentences": 3,
+      "pos_pct": 0.7388905547226386
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0097",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 97,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0232",
+        "uHDxhzZGGmU:s0233",
+        "uHDxhzZGGmU:s0234",
+        "uHDxhzZGGmU:s0235"
+      ],
+      "start_s": 995.228,
+      "end_s": 1006.791,
+      "text": "Disputes about inheritance that have clearly been going on for years and involve a level of accumulated resentment that you can feel through the clay. In other words, private life. Documented. On clay tablets.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.746047976011994
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0098",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 98,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0236",
+        "uHDxhzZGGmU:s0237"
+      ],
+      "start_s": 1006.831,
+      "end_s": 1020.155,
+      "text": "5,000 years ago. One of the oldest letters ever found, a Mesopotamian clay tablet from roughly 1750 BCE, is effectively someone furiously complaining to a merchant who sold them substandard copper ingots.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.7547458770614692
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0099",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 99,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0238",
+        "uHDxhzZGGmU:s0239",
+        "uHDxhzZGGmU:s0240"
+      ],
+      "start_s": 1020.895,
+      "end_s": 1033.189,
+      "text": "It is, in every meaningful sense, a customer complaint letter. The world's oldest customer complaint. And even in that tiny bureaucratic fragment, there's a private relationship between two specific people.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.7652886056971514
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0100",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 100,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0241",
+        "uHDxhzZGGmU:s0242",
+        "uHDxhzZGGmU:s0243",
+        "uHDxhzZGGmU:s0244"
+      ],
+      "start_s": 1033.75,
+      "end_s": 1044.521,
+      "text": "A grievance being navigated outside of public view, a reputation being protected or attacked. They were just like us. The medium was different. The stakes were different.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.7749250374812594
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0101",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 101,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0245"
+      ],
+      "start_s": 1044.961,
+      "end_s": 1059.25,
+      "text": "The cuneiform was probably harder to type, but the basic social texture—people managing information, protecting their interests, concealing things from some while revealing them to others—was structurally identical to what we do every day.",
+      "n_words": 34,
+      "n_sentences": 1,
+      "pos_pct": 0.7833290854572714
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0102",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 102,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0246",
+        "uHDxhzZGGmU:s0247"
+      ],
+      "start_s": 1059.87,
+      "end_s": 1075.96,
+      "text": "Ancient Egypt adds another layer. A civilization famously obsessed with death, monuments, the afterlife, and making everything as enormous and public and eternal as possible, also had a thriving culture of intensely private written communication.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7945052473763118
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0103",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 103,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0248",
+        "uHDxhzZGGmU:s0249",
+        "uHDxhzZGGmU:s0250",
+        "uHDxhzZGGmU:s0251"
+      ],
+      "start_s": 1076.58,
+      "end_s": 1088.643,
+      "text": "Ostrica, limestone flakes or potsherds used as cheap, disposable writing surfaces, have been found in huge numbers. And a lot of them are personal. Deeply personal. Love letters.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.807031484257871
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0104",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 104,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0252",
+        "uHDxhzZGGmU:s0253",
+        "uHDxhzZGGmU:s0254"
+      ],
+      "start_s": 1089.143,
+      "end_s": 1102.448,
+      "text": "Complaints. Notes passed between workers at Deir el-Medina, the village that housed the craftsmen building the Valley of the Kings. These notes reveal an entire interior social world running quietly beneath the monumental official one.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.8164490254872564
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0105",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 105,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0255",
+        "uHDxhzZGGmU:s0256",
+        "uHDxhzZGGmU:s0257",
+        "uHDxhzZGGmU:s0258"
+      ],
+      "start_s": 1102.888,
+      "end_s": 1110.231,
+      "text": "Labor disputes. Accusations of theft. Affairs. Personal medical problems that people clearly didn't want the whole village knowing about.",
+      "n_words": 19,
+      "n_sentences": 4,
+      "pos_pct": 0.8267526236881558
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0106",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 106,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0259",
+        "uHDxhzZGGmU:s0260",
+        "uHDxhzZGGmU:s0261",
+        "uHDxhzZGGmU:s0262"
+      ],
+      "start_s": 1110.711,
+      "end_s": 1122.776,
+      "text": "Arguments about who borrowed what and never returned it. Requests for favors framed very carefully because the writer knew that framing mattered. These weren't official communications. They weren't going into the National Archive.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.8326169415292354
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0107",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 107,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0263",
+        "uHDxhzZGGmU:s0264",
+        "uHDxhzZGGmU:s0265"
+      ],
+      "start_s": 1123.236,
+      "end_s": 1136.039,
+      "text": "They were the private written record of ordinary private lives. People navigating their relationships, their fears, their desires, their social maneuvering, exactly as humans always have. And then they got buried.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.8420059970014994
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0108",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 108,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0266",
+        "uHDxhzZGGmU:s0267"
+      ],
+      "start_s": 1136.639,
+      "end_s": 1139.36,
+      "text": "And archaeologists dug them up. And now we know everything.",
+      "n_words": 10,
+      "n_sentences": 2,
+      "pos_pct": 0.8520532233883058
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0109",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 109,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0268",
+        "uHDxhzZGGmU:s0269"
+      ],
+      "start_s": 1139.72,
+      "end_s": 1151.245,
+      "text": "which is, frankly, a little uncomfortable, and also completely fascinating, and also a reminder that the private lives of the past are only private until someone with a trowel shows up. Nothing is private forever.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.8543628185907046
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0110",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 110,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0270",
+        "uHDxhzZGGmU:s0271",
+        "uHDxhzZGGmU:s0272",
+        "uHDxhzZGGmU:s0273"
+      ],
+      "start_s": 1151.705,
+      "end_s": 1160.989,
+      "text": "That's not a modern anxiety. That's just how time works. So what does all of this actually tell us? It tells us that the desire for privacy is not a product of modernity.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.8633470764617691
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0111",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 111,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0274",
+        "uHDxhzZGGmU:s0275"
+      ],
+      "start_s": 1161.369,
+      "end_s": 1169.393,
+      "text": "It didn't appear with smartphones. It didn't arrive with social media or influencer culture or the specific modern anxiety of feeling observed all the time.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.8705914542728636
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0112",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 112,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0276",
+        "uHDxhzZGGmU:s0277"
+      ],
+      "start_s": 1169.873,
+      "end_s": 1182.255,
+      "text": "It's something that emerged with consciousness itself, with the moment that humans became self-aware enough to understand that they had an inner world that was distinct from their social presentation. A self that was theirs.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.8769662668665668
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0113",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 113,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0278",
+        "uHDxhzZGGmU:s0279"
+      ],
+      "start_s": 1182.855,
+      "end_s": 1196.618,
+      "text": "A life that was theirs. The moment that happened, and evidence suggests it happened very early, possibly hundreds of thousands of years ago, possibly with the first glimmers of complex social cognition, privacy was born.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.8866979010494753
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0114",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 114,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0280"
+      ],
+      "start_s": 1197.138,
+      "end_s": 1208.17,
+      "text": "Not as a legal concept or a philosophical principle, just as a lived reality, as something that every human in every era has navigated in whatever way their circumstances allowed.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.8974047976011993
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0115",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 115,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0281",
+        "uHDxhzZGGmU:s0282"
+      ],
+      "start_s": 1208.691,
+      "end_s": 1219.222,
+      "text": "Every cave painter who went deep into the earth to make something in the dark, away from everyone. Every prehistoric person who tucked a precious object somewhere the others wouldn't find it.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.9060652173913044
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0116",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 116,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0283",
+        "uHDxhzZGGmU:s0284"
+      ],
+      "start_s": 1219.683,
+      "end_s": 1229.394,
+      "text": "Every Neolithic villager who sealed their house from the street and made visitors come in through the ceiling. Every Mesopotamian merchant managing a private grievance on a clay tablet.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.9143050974512743
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0117",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 117,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0285"
+      ],
+      "start_s": 1230.175,
+      "end_s": 1234.02,
+      "text": "Every Egyptian worker passing a note about something they didn't want overheard.",
+      "n_words": 12,
+      "n_sentences": 1,
+      "pos_pct": 0.9221701649175412
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0118",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 118,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0286"
+      ],
+      "start_s": 1234.74,
+      "end_s": 1243.725,
+      "text": "every ancient human who slipped away quietly to be with someone, or to think something, or to simply be alone for a moment in a world that offered very few moments of aloneness.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.925592203898051
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0119",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 119,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0287",
+        "uHDxhzZGGmU:s0288"
+      ],
+      "start_s": 1244.125,
+      "end_s": 1248.788,
+      "text": "All of them had private lives. All of them had things they didn't want others to know.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.9326274362818591
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0120",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 120,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0289"
+      ],
+      "start_s": 1249.308,
+      "end_s": 1257.173,
+      "text": "All of them felt the tension between belonging to a group and being a distinct, irreducible individual with an interior world that the group couldn't fully access.",
+      "n_words": 27,
+      "n_sentences": 1,
+      "pos_pct": 0.9365127436281859
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0121",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 121,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0290"
+      ],
+      "start_s": 1257.713,
+      "end_s": 1267.924,
+      "text": "That tension, that gap between the self that faces the world and the self that exists only for you, in the dark, in the quiet, is not a modern problem.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.9428133433283358
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0122",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 122,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0291",
+        "uHDxhzZGGmU:s0292",
+        "uHDxhzZGGmU:s0293"
+      ],
+      "start_s": 1268.365,
+      "end_s": 1278.656,
+      "text": "It is one of the oldest human experiences there is. It might be, in some sense, what makes us human in the first place. Which brings me back to you, right now.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.9507983508245877
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0123",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 123,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0294",
+        "uHDxhzZGGmU:s0295"
+      ],
+      "start_s": 1279.417,
+      "end_s": 1289.431,
+      "text": "with your passwords and your playlist and your very innocent desktop folder and your browser history that you've already decided no one will ever see. You are not anomalous.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.9590832083958021
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0124",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 124,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0296",
+        "uHDxhzZGGmU:s0297"
+      ],
+      "start_s": 1289.692,
+      "end_s": 1300.223,
+      "text": "You are not uniquely, weirdly private in a way your ancestors would find strange or excessive. You are the latest version of something that has been going on for a very, very long time.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.9667856071964018
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0125",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 125,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0298",
+        "uHDxhzZGGmU:s0299",
+        "uHDxhzZGGmU:s0300",
+        "uHDxhzZGGmU:s0301"
+      ],
+      "start_s": 1300.643,
+      "end_s": 1311.53,
+      "text": "A species that learned, almost as soon as it became a species, that some things are yours. Some spaces are yours. Some thoughts are yours. Some feelings are yours alone to carry.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.9749947526236882
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0126",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 126,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0302",
+        "uHDxhzZGGmU:s0303"
+      ],
+      "start_s": 1312.25,
+      "end_s": 1319.879,
+      "text": "or to share only with people you choose, or to take with you quietly when you go. Privacy is not a feature of civilization.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.9836956521739131
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0127",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 127,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0304",
+        "uHDxhzZGGmU:s0305",
+        "uHDxhzZGGmU:s0306"
+      ],
+      "start_s": 1320.419,
+      "end_s": 1329.33,
+      "text": "It's not something we invented with locks or laws or data protection regulations. It's a feature of being human. Fully, irreducibly, stubbornly human.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.9898193403298352
+    },
+    {
+      "window_id": "uHDxhzZGGmU:j0128",
+      "video_id": "uHDxhzZGGmU",
+      "idx": 128,
+      "sent_ids": [
+        "uHDxhzZGGmU:s0307"
+      ],
+      "start_s": 1329.67,
+      "end_s": 1332.833,
+      "text": "And apparently we've been guarding it since before we even had words for it.",
+      "n_words": 14,
+      "n_sentences": 1,
+      "pos_pct": 0.9967541229385308
+    }
+  ]
+}

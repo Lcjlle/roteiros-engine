@@ -1,0 +1,2248 @@
+{
+  "video_id": "1LM21yDJq-0",
+  "duration_s": 1279.0,
+  "generated_at": "2026-09-03T11:58:59.359159+00:00",
+  "sentences": [
+    {
+      "sent_id": "1LM21yDJq-0:s0000",
+      "video_id": "1LM21yDJq-0",
+      "idx": 0,
+      "start_s": 0.111,
+      "end_s": 1.353,
+      "text": "You don't remember being born.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0001",
+      "video_id": "1LM21yDJq-0",
+      "idx": 1,
+      "start_s": 1.834,
+      "end_s": 8.063,
+      "text": "You don't remember your first word, your first step, or the first time someone held you and you looked up at their face.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0002",
+      "video_id": "1LM21yDJq-0",
+      "idx": 2,
+      "start_s": 8.904,
+      "end_s": 10.747,
+      "text": "You don't remember learning what a dog was.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0003",
+      "video_id": "1LM21yDJq-0",
+      "idx": 3,
+      "start_s": 11.629,
+      "end_s": 17.153,
+      "text": "or the first time you tasted something sweet, or the moment you figured out that your hands belonged to you.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0004",
+      "video_id": "1LM21yDJq-0",
+      "idx": 4,
+      "start_s": 17.573,
+      "end_s": 18.313,
+      "text": "And here's the thing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0005",
+      "video_id": "1LM21yDJq-0",
+      "idx": 5,
+      "start_s": 18.673,
+      "end_s": 20.114,
+      "text": "Those moments happened.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0006",
+      "video_id": "1LM21yDJq-0",
+      "idx": 6,
+      "start_s": 20.415,
+      "end_s": 21.315,
+      "text": "They were real.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0007",
+      "video_id": "1LM21yDJq-0",
+      "idx": 7,
+      "start_s": 21.655,
+      "end_s": 22.416,
+      "text": "You were there.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0008",
+      "video_id": "1LM21yDJq-0",
+      "idx": 8,
+      "start_s": 22.776,
+      "end_s": 23.657,
+      "text": "You were conscious.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0009",
+      "video_id": "1LM21yDJq-0",
+      "idx": 9,
+      "start_s": 23.877,
+      "end_s": 30.581,
+      "text": "You were feeling things, experiencing things, processing an entirely new world at an astonishing rate.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0010",
+      "video_id": "1LM21yDJq-0",
+      "idx": 10,
+      "start_s": 31.141,
+      "end_s": 33.203,
+      "text": "And then it just vanished.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0011",
+      "video_id": "1LM21yDJq-0",
+      "idx": 11,
+      "start_s": 33.883,
+      "end_s": 36.905,
+      "text": "Everything before roughly age 3 is gone for most people.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0012",
+      "video_id": "1LM21yDJq-0",
+      "idx": 12,
+      "start_s": 37.225,
+      "end_s": 41.548,
+      "text": "Some people have a fragment or two from age four, a birthday, a car ride, a smell.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0013",
+      "video_id": "1LM21yDJq-0",
+      "idx": 13,
+      "start_s": 42.089,
+      "end_s": 51.116,
+      "text": "But the first years of your life, the most dramatic period of growth and learning your brain will ever undergo, exist in almost complete silence.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0014",
+      "video_id": "1LM21yDJq-0",
+      "idx": 14,
+      "start_s": 51.736,
+      "end_s": 53.378,
+      "text": "No memories, nothing.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0015",
+      "video_id": "1LM21yDJq-0",
+      "idx": 15,
+      "start_s": 54.539,
+      "end_s": 55.379,
+      "text": "So where did they go?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0016",
+      "video_id": "1LM21yDJq-0",
+      "idx": 16,
+      "start_s": 56.24,
+      "end_s": 58.722,
+      "text": "Because this isn't like forgetting where you put your keys.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0017",
+      "video_id": "1LM21yDJq-0",
+      "idx": 17,
+      "start_s": 59.482,
+      "end_s": 64.867,
+      "text": "This is a systematic, near-total erasure of the first chapter of your existence.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0018",
+      "video_id": "1LM21yDJq-0",
+      "idx": 18,
+      "start_s": 65.647,
+      "end_s": 69.91,
+      "text": "And for a long time, nobody could satisfactorily explain why it happens.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0019",
+      "video_id": "1LM21yDJq-0",
+      "idx": 19,
+      "start_s": 70.89,
+      "end_s": 73.892,
+      "text": "Now we have some answers, and they are genuinely fascinating.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0020",
+      "video_id": "1LM21yDJq-0",
+      "idx": 20,
+      "start_s": 74.552,
+      "end_s": 76.053,
+      "text": "Let's start with the obvious question.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0021",
+      "video_id": "1LM21yDJq-0",
+      "idx": 21,
+      "start_s": 76.894,
+      "end_s": 78.615,
+      "text": "Were you even conscious back then?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0022",
+      "video_id": "1LM21yDJq-0",
+      "idx": 22,
+      "start_s": 79.375,
+      "end_s": 81.837,
+      "text": "Were you actually experiencing anything worth remembering?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0023",
+      "video_id": "1LM21yDJq-0",
+      "idx": 23,
+      "start_s": 82.765,
+      "end_s": 83.085,
+      "text": "Yes.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0024",
+      "video_id": "1LM21yDJq-0",
+      "idx": 24,
+      "start_s": 83.905,
+      "end_s": 85.046,
+      "text": "Unambiguously yes.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0025",
+      "video_id": "1LM21yDJq-0",
+      "idx": 25,
+      "start_s": 85.886,
+      "end_s": 88.647,
+      "text": "Infants are not passive receivers of sensory input.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0026",
+      "video_id": "1LM21yDJq-0",
+      "idx": 26,
+      "start_s": 89.007,
+      "end_s": 93.729,
+      "text": "They are active, curious, emotionally responsive beings from extremely early on.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0027",
+      "video_id": "1LM21yDJq-0",
+      "idx": 27,
+      "start_s": 94.57,
+      "end_s": 103.173,
+      "text": "Newborns can recognize their mother's voice within hours of birth, they heard it in the womb, and the memory of that sound is already encoded before they've even seen daylight.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0028",
+      "video_id": "1LM21yDJq-0",
+      "idx": 28,
+      "start_s": 103.693,
+      "end_s": 105.735,
+      "text": "Within days, they show preferences.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0029",
+      "video_id": "1LM21yDJq-0",
+      "idx": 29,
+      "start_s": 106.055,
+      "end_s": 109.478,
+      "text": "They respond differently to faces they've seen versus faces they haven't.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0030",
+      "video_id": "1LM21yDJq-0",
+      "idx": 30,
+      "start_s": 110.059,
+      "end_s": 113.382,
+      "text": "They cry differently for hunger versus pain versus loneliness.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0031",
+      "video_id": "1LM21yDJq-0",
+      "idx": 31,
+      "start_s": 113.962,
+      "end_s": 115.203,
+      "text": "There is someone home.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0032",
+      "video_id": "1LM21yDJq-0",
+      "idx": 32,
+      "start_s": 115.664,
+      "end_s": 119.147,
+      "text": "A real experience in consciousness is present from the very beginning.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0033",
+      "video_id": "1LM21yDJq-0",
+      "idx": 33,
+      "start_s": 119.747,
+      "end_s": 121.848,
+      "text": "And yet, none of it sticks.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0034",
+      "video_id": "1LM21yDJq-0",
+      "idx": 34,
+      "start_s": 122.588,
+      "end_s": 124.508,
+      "text": "Not in a form you can access now.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0035",
+      "video_id": "1LM21yDJq-0",
+      "idx": 35,
+      "start_s": 125.308,
+      "end_s": 131.05,
+      "text": "The first major clue to understanding why comes from looking at what memory actually is and how it gets built.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0036",
+      "video_id": "1LM21yDJq-0",
+      "idx": 36,
+      "start_s": 131.81,
+      "end_s": 133.17,
+      "text": "Memory isn't a recording.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0037",
+      "video_id": "1LM21yDJq-0",
+      "idx": 37,
+      "start_s": 133.53,
+      "end_s": 140.912,
+      "text": "This is probably the most important thing to understand about how the brain stores experience, and it's wildly counterintuitive.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0038",
+      "video_id": "1LM21yDJq-0",
+      "idx": 38,
+      "start_s": 141.312,
+      "end_s": 146.013,
+      "text": "When something happens to you, your brain doesn't hit a record button and file away a video clip.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0039",
+      "video_id": "1LM21yDJq-0",
+      "idx": 39,
+      "start_s": 147.189,
+      "end_s": 149.892,
+      "text": "it does is far messier and far more interesting.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0040",
+      "video_id": "1LM21yDJq-0",
+      "idx": 40,
+      "start_s": 151.053,
+      "end_s": 155.477,
+      "text": "Different aspects of an experience get processed by different brain regions simultaneously.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0041",
+      "video_id": "1LM21yDJq-0",
+      "idx": 41,
+      "start_s": 156.558,
+      "end_s": 158.5,
+      "text": "The emotional content goes one place.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0042",
+      "video_id": "1LM21yDJq-0",
+      "idx": 42,
+      "start_s": 159.301,
+      "end_s": 161.163,
+      "text": "The sensory details go somewhere else.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0043",
+      "video_id": "1LM21yDJq-0",
+      "idx": 43,
+      "start_s": 161.803,
+      "end_s": 166.688,
+      "text": "The sequence of events, the narrative of what happened, goes somewhere else entirely.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0044",
+      "video_id": "1LM21yDJq-0",
+      "idx": 44,
+      "start_s": 167.769,
+      "end_s": 182.415,
+      "text": "For you to have a retrievable autobiographical memory, memory of the I-was-there-and-this-happened-to-me variety, all of those pieces need to be linked together and consolidated into a stable, accessible package.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0045",
+      "video_id": "1LM21yDJq-0",
+      "idx": 45,
+      "start_s": 183.635,
+      "end_s": 187.717,
+      "text": "That process requires a specific brain structure called the hippocampus.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0046",
+      "video_id": "1LM21yDJq-0",
+      "idx": 46,
+      "start_s": 188.537,
+      "end_s": 191.298,
+      "text": "The hippocampus is the brain's memory indexer.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0047",
+      "video_id": "1LM21yDJq-0",
+      "idx": 47,
+      "start_s": 191.878,
+      "end_s": 199.38,
+      "text": "It's the region that binds the scattered pieces of an experience into a coherent whole and files it somewhere you can later retrieve.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0048",
+      "video_id": "1LM21yDJq-0",
+      "idx": 48,
+      "start_s": 200.279,
+      "end_s": 210.843,
+      "text": "Without hippocampal involvement, you might process an experience, you might even be affected by it emotionally, but you won't have a conscious narrative memory of it that you can deliberately recall.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0049",
+      "video_id": "1LM21yDJq-0",
+      "idx": 49,
+      "start_s": 211.403,
+      "end_s": 217.166,
+      "text": "And here's the key, the hippocampus in human infants is dramatically underdeveloped, not slightly behind.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0050",
+      "video_id": "1LM21yDJq-0",
+      "idx": 50,
+      "start_s": 217.926,
+      "end_s": 222.652,
+      "text": "not almost there, dramatically, functionally incomplete in the first years of life.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0051",
+      "video_id": "1LM21yDJq-0",
+      "idx": 51,
+      "start_s": 223.353,
+      "end_s": 232.144,
+      "text": "The neurons are there, but the connections between them, the dense, complex network of links that allows efficient memory encoding and retrieval, hasn't formed yet.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0052",
+      "video_id": "1LM21yDJq-0",
+      "idx": 52,
+      "start_s": 232.905,
+      "end_s": 240.472,
+      "text": "The hippocampus undergoes significant development through the first two to three years of life, and in some regions continues developing well into adolescence.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0053",
+      "video_id": "1LM21yDJq-0",
+      "idx": 53,
+      "start_s": 241.253,
+      "end_s": 248.34,
+      "text": "A baby experiencing something beautiful or frightening or joyful is like trying to record a video on a camera that doesn't have a memory card yet.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0054",
+      "video_id": "1LM21yDJq-0",
+      "idx": 54,
+      "start_s": 248.88,
+      "end_s": 255.286,
+      "text": "The lens is working, the processor is running, but there's nowhere for the footage to go, so the memories don't form in the first place.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0055",
+      "video_id": "1LM21yDJq-0",
+      "idx": 55,
+      "start_s": 256.087,
+      "end_s": 258.348,
+      "text": "Not in the retrievable, narrative sense.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0056",
+      "video_id": "1LM21yDJq-0",
+      "idx": 56,
+      "start_s": 258.888,
+      "end_s": 261.409,
+      "text": "Not the kind you can pull up 30 years later and play back.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0057",
+      "video_id": "1LM21yDJq-0",
+      "idx": 57,
+      "start_s": 261.95,
+      "end_s": 263.19,
+      "text": "That's the first part of the answer.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0058",
+      "video_id": "1LM21yDJq-0",
+      "idx": 58,
+      "start_s": 263.71,
+      "end_s": 274.675,
+      "text": "But it's not the whole answer, because it still doesn't explain why most people can't access memories from age 2 or 3, even though the hippocampus is considerably more developed by then than it was at birth.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0059",
+      "video_id": "1LM21yDJq-0",
+      "idx": 59,
+      "start_s": 275.275,
+      "end_s": 276.857,
+      "text": "This is where it gets even more interesting.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0060",
+      "video_id": "1LM21yDJq-0",
+      "idx": 60,
+      "start_s": 277.237,
+      "end_s": 280.701,
+      "text": "There's a second factor, and it has to do with something called neurogenesis.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0061",
+      "video_id": "1LM21yDJq-0",
+      "idx": 61,
+      "start_s": 281.301,
+      "end_s": 283.644,
+      "text": "Your brain grows new neurons throughout your life.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0062",
+      "video_id": "1LM21yDJq-0",
+      "idx": 62,
+      "start_s": 284.265,
+      "end_s": 286.367,
+      "text": "This was considered controversial for a long time.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0063",
+      "video_id": "1LM21yDJq-0",
+      "idx": 63,
+      "start_s": 286.967,
+      "end_s": 291.692,
+      "text": "The old assumption was that you were born with all the neurons you'd ever have, and that was it.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0064",
+      "video_id": "1LM21yDJq-0",
+      "idx": 64,
+      "start_s": 292.553,
+      "end_s": 293.715,
+      "text": "That turned out to be wrong.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0065",
+      "video_id": "1LM21yDJq-0",
+      "idx": 65,
+      "start_s": 294.235,
+      "end_s": 298.34,
+      "text": "New neurons are generated continuously, particularly in the hippocampus.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0066",
+      "video_id": "1LM21yDJq-0",
+      "idx": 66,
+      "start_s": 299.101,
+      "end_s": 300.142,
+      "text": "Now here's the twist.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0067",
+      "video_id": "1LM21yDJq-0",
+      "idx": 67,
+      "start_s": 300.823,
+      "end_s": 308.332,
+      "text": "In early childhood, the rate of neurogenesis in the hippocampus is extraordinarily high, far higher than at any later point in life.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0068",
+      "video_id": "1LM21yDJq-0",
+      "idx": 68,
+      "start_s": 308.893,
+      "end_s": 318.862,
+      "text": "The infant brain is generating new hippocampal neurons at a rate that simply doesn't happen in adults, and all of those new neurons need to be integrated into the existing network.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0069",
+      "video_id": "1LM21yDJq-0",
+      "idx": 69,
+      "start_s": 319.323,
+      "end_s": 324.467,
+      "text": "They need to find their place, form connections, wire themselves into the system.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0070",
+      "video_id": "1LM21yDJq-0",
+      "idx": 70,
+      "start_s": 325.268,
+      "end_s": 327.79,
+      "text": "That integration process is disruptive.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0071",
+      "video_id": "1LM21yDJq-0",
+      "idx": 71,
+      "start_s": 328.15,
+      "end_s": 330.312,
+      "text": "It destabilizes existing connections.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0072",
+      "video_id": "1LM21yDJq-0",
+      "idx": 72,
+      "start_s": 330.612,
+      "end_s": 332.894,
+      "text": "It essentially rewires the filing system.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0073",
+      "video_id": "1LM21yDJq-0",
+      "idx": 73,
+      "start_s": 333.415,
+      "end_s": 334.155,
+      "text": "Think of it like this.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0074",
+      "video_id": "1LM21yDJq-0",
+      "idx": 74,
+      "start_s": 334.535,
+      "end_s": 343.343,
+      "text": "Imagine you have a library, not a big organized library, a young chaotic one that's adding hundreds of new shelves every single day.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0075",
+      "video_id": "1LM21yDJq-0",
+      "idx": 75,
+      "start_s": 344.063,
+      "end_s": 347.104,
+      "text": "Books are being added faster than they can be properly catalogued.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0076",
+      "video_id": "1LM21yDJq-0",
+      "idx": 76,
+      "start_s": 347.584,
+      "end_s": 350.785,
+      "text": "The organization system keeps changing as new sections are built.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0077",
+      "video_id": "1LM21yDJq-0",
+      "idx": 77,
+      "start_s": 351.445,
+      "end_s": 355.667,
+      "text": "Old books don't necessarily stay where you put them because the shelves themselves keep moving.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0078",
+      "video_id": "1LM21yDJq-0",
+      "idx": 78,
+      "start_s": 356.147,
+      "end_s": 358.787,
+      "text": "That's your hippocampus in the first few years of life.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0079",
+      "video_id": "1LM21yDJq-0",
+      "idx": 79,
+      "start_s": 359.348,
+      "end_s": 373.592,
+      "text": "The very thing that makes the infant brain so extraordinarily good at learning, that explosive growth, that relentless generation of new neurons, is simultaneously the thing that makes it almost impossible to form stable long-term memories.",
+      "n_words": 36
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0080",
+      "video_id": "1LM21yDJq-0",
+      "idx": 80,
+      "start_s": 375.155,
+      "end_s": 379.796,
+      "text": "Rapid neurogenesis trades away memory consolidation in exchange for learning capacity.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0081",
+      "video_id": "1LM21yDJq-0",
+      "idx": 81,
+      "start_s": 380.277,
+      "end_s": 388.439,
+      "text": "The infant brain is optimized for absorbing new information at maximum speed, not for filing it away in a form that will be accessible decades later.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0082",
+      "video_id": "1LM21yDJq-0",
+      "idx": 82,
+      "start_s": 388.819,
+      "end_s": 394.241,
+      "text": "You were learning faster than any adult ever could, and the cost of that speed was forgetting everything.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0083",
+      "video_id": "1LM21yDJq-0",
+      "idx": 83,
+      "start_s": 395.395,
+      "end_s": 398.738,
+      "text": "But there's a third factor, and this one is the strangest one of all.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0084",
+      "video_id": "1LM21yDJq-0",
+      "idx": 84,
+      "start_s": 399.459,
+      "end_s": 399.98,
+      "text": "Language.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0085",
+      "video_id": "1LM21yDJq-0",
+      "idx": 85,
+      "start_s": 400.44,
+      "end_s": 401.841,
+      "text": "This sounds simple at first.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0086",
+      "video_id": "1LM21yDJq-0",
+      "idx": 86,
+      "start_s": 402.222,
+      "end_s": 405.645,
+      "text": "Of course babies can't form verbal memories, they don't have words yet.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0087",
+      "video_id": "1LM21yDJq-0",
+      "idx": 87,
+      "start_s": 406.166,
+      "end_s": 407.207,
+      "text": "But it goes deeper than that.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0088",
+      "video_id": "1LM21yDJq-0",
+      "idx": 88,
+      "start_s": 407.747,
+      "end_s": 411.952,
+      "text": "Because the relationship between language and memory is more intimate than most people realize.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0089",
+      "video_id": "1LM21yDJq-0",
+      "idx": 89,
+      "start_s": 412.958,
+      "end_s": 420.804,
+      "text": "Autobiographical memory, the I-remember-when-I-was-five-and-this-happened kind of memory, is deeply, structurally connected to language.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0090",
+      "video_id": "1LM21yDJq-0",
+      "idx": 90,
+      "start_s": 421.465,
+      "end_s": 437.117,
+      "text": "Not just because you need words to describe memories to other people, but because the internal experience of having a memory, of replaying it in your mind, of knowing that it happened to you and not someone else, that experience is mediated by language in ways that are hard to fully separate.",
+      "n_words": 52
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0091",
+      "video_id": "1LM21yDJq-0",
+      "idx": 91,
+      "start_s": 438.318,
+      "end_s": 442.181,
+      "text": "When you remember something, you are, in part, narrating it to yourself.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0092",
+      "video_id": "1LM21yDJq-0",
+      "idx": 92,
+      "start_s": 443.138,
+      "end_s": 448.001,
+      "text": "You're constructing a story, a sequence, a sense of self moving through time.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0093",
+      "video_id": "1LM21yDJq-0",
+      "idx": 93,
+      "start_s": 448.782,
+      "end_s": 455.426,
+      "text": "And that narrative capacity, that ability to construct a story with yourself as the protagonist, emerges alongside language.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0094",
+      "video_id": "1LM21yDJq-0",
+      "idx": 94,
+      "start_s": 456.206,
+      "end_s": 457.447,
+      "text": "Infants have a sense of self.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0095",
+      "video_id": "1LM21yDJq-0",
+      "idx": 95,
+      "start_s": 458.308,
+      "end_s": 459.649,
+      "text": "Research has demonstrated that.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0096",
+      "video_id": "1LM21yDJq-0",
+      "idx": 96,
+      "start_s": 460.469,
+      "end_s": 462.53,
+      "text": "But it's a present tense self.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0097",
+      "video_id": "1LM21yDJq-0",
+      "idx": 97,
+      "start_s": 463.351,
+      "end_s": 465.993,
+      "text": "And I am experiencing this right now self.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0098",
+      "video_id": "1LM21yDJq-0",
+      "idx": 98,
+      "start_s": 466.901,
+      "end_s": 476.143,
+      "text": "The extension of that self backward through time into a retrievable personal history, the autobiographical self, requires language as scaffolding.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0099",
+      "video_id": "1LM21yDJq-0",
+      "idx": 99,
+      "start_s": 476.643,
+      "end_s": 478.383,
+      "text": "Without language, there's no story.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0100",
+      "video_id": "1LM21yDJq-0",
+      "idx": 100,
+      "start_s": 478.863,
+      "end_s": 480.804,
+      "text": "Without a story, there's no narrator.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0101",
+      "video_id": "1LM21yDJq-0",
+      "idx": 101,
+      "start_s": 481.224,
+      "end_s": 484.385,
+      "text": "And without a narrator, there's no one to be the subject of the memory.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0102",
+      "video_id": "1LM21yDJq-0",
+      "idx": 102,
+      "start_s": 485.205,
+      "end_s": 492.006,
+      "text": "You can't remember I was there if you don't yet have a stable, language-mediated concept of I.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0103",
+      "video_id": "1LM21yDJq-0",
+      "idx": 103,
+      "start_s": 493.326,
+      "end_s": 495.227,
+      "text": "Studies across cultures support this.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0104",
+      "video_id": "1LM21yDJq-0",
+      "idx": 104,
+      "start_s": 496.334,
+      "end_s": 501.66,
+      "text": "Children who develop language later also tend to have later onset of autobiographical memory.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0105",
+      "video_id": "1LM21yDJq-0",
+      "idx": 105,
+      "start_s": 502.62,
+      "end_s": 509.588,
+      "text": "Bilingual children often have the clearest early memories in the language they were using at the time, even if they rarely use that language as adults.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0106",
+      "video_id": "1LM21yDJq-0",
+      "idx": 106,
+      "start_s": 510.569,
+      "end_s": 517.336,
+      "text": "People who learned sign language as their first language show the same infantile amnesia patterns as hearing children who learned spoken language.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0107",
+      "video_id": "1LM21yDJq-0",
+      "idx": 107,
+      "start_s": 517.916,
+      "end_s": 523.28,
+      "text": "suggesting that it's not spoken language specifically, but language as a cognitive system that matters.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0108",
+      "video_id": "1LM21yDJq-0",
+      "idx": 108,
+      "start_s": 523.981,
+      "end_s": 529.124,
+      "text": "The words aren't just how you express the memory, they're part of how the memory is built in the first place.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0109",
+      "video_id": "1LM21yDJq-0",
+      "idx": 109,
+      "start_s": 529.985,
+      "end_s": 532.247,
+      "text": "So now we have three overlapping explanations.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0110",
+      "video_id": "1LM21yDJq-0",
+      "idx": 110,
+      "start_s": 532.807,
+      "end_s": 542.874,
+      "text": "Hippocampal immaturity, explosive neurogenesis disrupting consolidation, and the absence of language as a structuring scaffold for autobiographical experience.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0111",
+      "video_id": "1LM21yDJq-0",
+      "idx": 111,
+      "start_s": 543.715,
+      "end_s": 544.796,
+      "text": "All three are real.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0112",
+      "video_id": "1LM21yDJq-0",
+      "idx": 112,
+      "start_s": 545.196,
+      "end_s": 547.538,
+      "text": "All three are happening simultaneously.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0113",
+      "video_id": "1LM21yDJq-0",
+      "idx": 113,
+      "start_s": 547.758,
+      "end_s": 553.762,
+      "text": "And together, they create a window of near-total amnesia that covers the most formative period of your life.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0114",
+      "video_id": "1LM21yDJq-0",
+      "idx": 114,
+      "start_s": 554.623,
+      "end_s": 556.705,
+      "text": "But here's what makes this genuinely strange.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0115",
+      "video_id": "1LM21yDJq-0",
+      "idx": 115,
+      "start_s": 557.325,
+      "end_s": 560.107,
+      "text": "The experiences you can't remember still shaped you.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0116",
+      "video_id": "1LM21yDJq-0",
+      "idx": 116,
+      "start_s": 560.708,
+      "end_s": 563.49,
+      "text": "This is the part that people don't always fully sit with.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0117",
+      "video_id": "1LM21yDJq-0",
+      "idx": 117,
+      "start_s": 564.11,
+      "end_s": 570.553,
+      "text": "Your infant years are gone from your conscious retrievable memory, but they are absolutely not gone from you.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0118",
+      "video_id": "1LM21yDJq-0",
+      "idx": 118,
+      "start_s": 571.334,
+      "end_s": 577.777,
+      "text": "Everything that happened in those years left traces, deep structural traces that influence who you are right now.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0119",
+      "video_id": "1LM21yDJq-0",
+      "idx": 119,
+      "start_s": 578.577,
+      "end_s": 592.284,
+      "text": "The attachment patterns you formed with your caregivers in the first year of life, whether you learned that the world was safe and responsive or unpredictable and unreliable, are encoded not as memories, but as implicit expectations.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0120",
+      "video_id": "1LM21yDJq-0",
+      "idx": 120,
+      "start_s": 593.005,
+      "end_s": 593.705,
+      "text": "Ways of being.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0121",
+      "video_id": "1LM21yDJq-0",
+      "idx": 121,
+      "start_s": 594.566,
+      "end_s": 597.829,
+      "text": "Emotional reflexes that operate below conscious awareness.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0122",
+      "video_id": "1LM21yDJq-0",
+      "idx": 122,
+      "start_s": 598.749,
+      "end_s": 606.915,
+      "text": "If you were consistently soothed when you cried, your nervous system learned, at a biological level, that distress is temporary and help is available.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0123",
+      "video_id": "1LM21yDJq-0",
+      "idx": 123,
+      "start_s": 607.396,
+      "end_s": 610.478,
+      "text": "That expectation shapes how you respond to stress as an adult.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0124",
+      "video_id": "1LM21yDJq-0",
+      "idx": 124,
+      "start_s": 611.059,
+      "end_s": 612.82,
+      "text": "How quickly you can calm yourself down.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0125",
+      "video_id": "1LM21yDJq-0",
+      "idx": 125,
+      "start_s": 613.2,
+      "end_s": 615.022,
+      "text": "How much you trust that things will be okay.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0126",
+      "video_id": "1LM21yDJq-0",
+      "idx": 126,
+      "start_s": 615.822,
+      "end_s": 622.127,
+      "text": "If you were inconsistently responded to, or left to cry without comfort, your nervous system learned something different.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0127",
+      "video_id": "1LM21yDJq-0",
+      "idx": 127,
+      "start_s": 622.827,
+      "end_s": 623.748,
+      "text": "Not as a memory.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0128",
+      "video_id": "1LM21yDJq-0",
+      "idx": 128,
+      "start_s": 624.748,
+      "end_s": 625.189,
+      "text": "As a setting.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0129",
+      "video_id": "1LM21yDJq-0",
+      "idx": 129,
+      "start_s": 625.909,
+      "end_s": 630.032,
+      "text": "A default calibration of how safe the world is and how much you can rely on other people.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0130",
+      "video_id": "1LM21yDJq-0",
+      "idx": 130,
+      "start_s": 630.513,
+      "end_s": 632.994,
+      "text": "None of this is accessible to you as a story you can tell.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0131",
+      "video_id": "1LM21yDJq-0",
+      "idx": 131,
+      "start_s": 633.495,
+      "end_s": 640.64,
+      "text": "You can't remember the specific night you cried and no one came, or the specific morning you were held and felt completely safe.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0132",
+      "video_id": "1LM21yDJq-0",
+      "idx": 132,
+      "start_s": 641.14,
+      "end_s": 643.542,
+      "text": "But those nights and mornings added up into something.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0133",
+      "video_id": "1LM21yDJq-0",
+      "idx": 133,
+      "start_s": 643.882,
+      "end_s": 648.124,
+      "text": "a posture toward existence that you carry without knowing you're carrying it.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0134",
+      "video_id": "1LM21yDJq-0",
+      "idx": 134,
+      "start_s": 648.544,
+      "end_s": 653.667,
+      "text": "This is what psychologists mean when they talk about implicit memory as opposed to explicit memory.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0135",
+      "video_id": "1LM21yDJq-0",
+      "idx": 135,
+      "start_s": 654.047,
+      "end_s": 657.128,
+      "text": "Explicit memory is the kind you can consciously access and describe.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0136",
+      "video_id": "1LM21yDJq-0",
+      "idx": 136,
+      "start_s": 657.889,
+      "end_s": 666.253,
+      "text": "Implicit memory is the kind that lives in your body, your emotional reactions, your automatic assumptions about how relationships work, and whether you deserve to be cared for.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0137",
+      "video_id": "1LM21yDJq-0",
+      "idx": 137,
+      "start_s": 667.273,
+      "end_s": 669.915,
+      "text": "infantile amnesia erases your explicit memories.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0138",
+      "video_id": "1LM21yDJq-0",
+      "idx": 138,
+      "start_s": 670.435,
+      "end_s": 672.896,
+      "text": "It leaves your implicit memories completely intact.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0139",
+      "video_id": "1LM21yDJq-0",
+      "idx": 139,
+      "start_s": 673.417,
+      "end_s": 674.777,
+      "text": "You forgot the experiences.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0140",
+      "video_id": "1LM21yDJq-0",
+      "idx": 140,
+      "start_s": 675.078,
+      "end_s": 676.118,
+      "text": "You kept the lessons.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0141",
+      "video_id": "1LM21yDJq-0",
+      "idx": 141,
+      "start_s": 676.538,
+      "end_s": 680.0,
+      "text": "The problem is, you can't examine lessons you don't know you learned.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0142",
+      "video_id": "1LM21yDJq-0",
+      "idx": 142,
+      "start_s": 680.361,
+      "end_s": 684.123,
+      "text": "You just act on them and wonder why you respond to certain situations the way you do.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0143",
+      "video_id": "1LM21yDJq-0",
+      "idx": 143,
+      "start_s": 684.823,
+      "end_s": 688.484,
+      "text": "Now let's talk about the fake ones, because here's where it gets uncomfortable.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0144",
+      "video_id": "1LM21yDJq-0",
+      "idx": 144,
+      "start_s": 689.084,
+      "end_s": 704.809,
+      "text": "Some of the earliest memories you think you have are probably not real, not distorted, not exaggerated, actually fabricated, constructed by your brain from photographs, stories, and repeated tellings, and then filed as if they were genuine experiential memories.",
+      "n_words": 39
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0145",
+      "video_id": "1LM21yDJq-0",
+      "idx": 145,
+      "start_s": 705.489,
+      "end_s": 711.49,
+      "text": "This is extremely well documented in memory research, and it's deeply unsettling the first time you really confront it.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0146",
+      "video_id": "1LM21yDJq-0",
+      "idx": 146,
+      "start_s": 712.051,
+      "end_s": 712.851,
+      "text": "Here's how it happens.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0147",
+      "video_id": "1LM21yDJq-0",
+      "idx": 147,
+      "start_s": 713.431,
+      "end_s": 715.851,
+      "text": "Your family has a photo of you at your second birthday party.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0148",
+      "video_id": "1LM21yDJq-0",
+      "idx": 148,
+      "start_s": 716.172,
+      "end_s": 718.612,
+      "text": "You've seen that photo dozens of times growing up.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0149",
+      "video_id": "1LM21yDJq-0",
+      "idx": 149,
+      "start_s": 719.032,
+      "end_s": 721.033,
+      "text": "Adults told you the story of that birthday.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0150",
+      "video_id": "1LM21yDJq-0",
+      "idx": 150,
+      "start_s": 721.473,
+      "end_s": 724.854,
+      "text": "What happened, who was there, how you reacted to the cake.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0151",
+      "video_id": "1LM21yDJq-0",
+      "idx": 151,
+      "start_s": 725.254,
+      "end_s": 729.495,
+      "text": "You heard that story enough times that your brain eventually built a mental representation of the event.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0152",
+      "video_id": "1LM21yDJq-0",
+      "idx": 152,
+      "start_s": 729.875,
+      "end_s": 735.096,
+      "text": "And then at some point, your brain filed that mental representation in the same place as actual memories.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0153",
+      "video_id": "1LM21yDJq-0",
+      "idx": 153,
+      "start_s": 735.616,
+      "end_s": 736.937,
+      "text": "Now it feels like a memory.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0154",
+      "video_id": "1LM21yDJq-0",
+      "idx": 154,
+      "start_s": 737.317,
+      "end_s": 738.758,
+      "text": "It has the quality of a memory.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0155",
+      "video_id": "1LM21yDJq-0",
+      "idx": 155,
+      "start_s": 739.259,
+      "end_s": 748.906,
+      "text": "You'd describe it as a memory if someone asked, but what you're actually accessing is a reconstruction built from external information, not a genuine trace of the original experience.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0156",
+      "video_id": "1LM21yDJq-0",
+      "idx": 156,
+      "start_s": 750.275,
+      "end_s": 759.682,
+      "text": "researchers have demonstrated that entirely false memories of events that never happened at all can be implanted in people through repeated suggestion and social reinforcement.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0157",
+      "video_id": "1LM21yDJq-0",
+      "idx": 157,
+      "start_s": 760.002,
+      "end_s": 764.046,
+      "text": "And those false memories are experientially indistinguishable from real ones.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0158",
+      "video_id": "1LM21yDJq-0",
+      "idx": 158,
+      "start_s": 764.966,
+      "end_s": 773.613,
+      "text": "If that's possible with fabricated events, the capacity for genuine experiences to be reconstructed and misfiled as direct memories is even more plausible.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0159",
+      "video_id": "1LM21yDJq-0",
+      "idx": 159,
+      "start_s": 774.253,
+      "end_s": 779.037,
+      "text": "Think about the earliest memory you have right now, the one you'd reach for if someone asked.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0160",
+      "video_id": "1LM21yDJq-0",
+      "idx": 160,
+      "start_s": 780.098,
+      "end_s": 780.959,
+      "text": "Where did it come from?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0161",
+      "video_id": "1LM21yDJq-0",
+      "idx": 161,
+      "start_s": 781.8,
+      "end_s": 784.524,
+      "text": "Did you remember it always, unprompted?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0162",
+      "video_id": "1LM21yDJq-0",
+      "idx": 162,
+      "start_s": 785.425,
+      "end_s": 787.088,
+      "text": "Or did someone tell you about it first?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0163",
+      "video_id": "1LM21yDJq-0",
+      "idx": 163,
+      "start_s": 787.168,
+      "end_s": 791.694,
+      "text": "Is there a photo, a family story that gets a family told at reunions?",
+      "n_words": 14
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0164",
+      "video_id": "1LM21yDJq-0",
+      "idx": 164,
+      "start_s": 793.276,
+      "end_s": 796.581,
+      "text": "The honest answer for most people is that they can't be sure.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0165",
+      "video_id": "1LM21yDJq-0",
+      "idx": 165,
+      "start_s": 798.174,
+      "end_s": 801.176,
+      "text": "And that uncertainty is not comfortable, but it's important.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0166",
+      "video_id": "1LM21yDJq-0",
+      "idx": 166,
+      "start_s": 802.056,
+      "end_s": 812.703,
+      "text": "Your memory of your own earliest life is, at least partly, a story other people told you about yourself that you eventually absorbed as your own, which raises a strange philosophical question.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0167",
+      "video_id": "1LM21yDJq-0",
+      "idx": 167,
+      "start_s": 813.523,
+      "end_s": 822.729,
+      "text": "If the memory is vivid and emotionally real and functionally identical to a genuine memory in every way you can detect, does it matter that it might be a reconstruction?",
+      "n_words": 30
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0168",
+      "video_id": "1LM21yDJq-0",
+      "idx": 168,
+      "start_s": 824.337,
+      "end_s": 825.318,
+      "text": "Some people say no.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0169",
+      "video_id": "1LM21yDJq-0",
+      "idx": 169,
+      "start_s": 826.059,
+      "end_s": 828.761,
+      "text": "The memory serves the same function regardless of its origin.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0170",
+      "video_id": "1LM21yDJq-0",
+      "idx": 170,
+      "start_s": 829.682,
+      "end_s": 836.308,
+      "text": "Others find it deeply disorienting, because the self you think you are is partly built on stories about your own past.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0171",
+      "video_id": "1LM21yDJq-0",
+      "idx": 171,
+      "start_s": 837.089,
+      "end_s": 841.733,
+      "text": "And if those stories are borrowed rather than remembered, what does that mean for who you actually are?",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0172",
+      "video_id": "1LM21yDJq-0",
+      "idx": 172,
+      "start_s": 842.194,
+      "end_s": 843.295,
+      "text": "There's no clean answer to that.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0173",
+      "video_id": "1LM21yDJq-0",
+      "idx": 173,
+      "start_s": 844.249,
+      "end_s": 845.33,
+      "text": "but it's worth sitting with.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0174",
+      "video_id": "1LM21yDJq-0",
+      "idx": 174,
+      "start_s": 845.87,
+      "end_s": 847.412,
+      "text": "Let's come back to something more concrete.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0175",
+      "video_id": "1LM21yDJq-0",
+      "idx": 175,
+      "start_s": 847.872,
+      "end_s": 849.994,
+      "text": "Why do some people have earlier memories than others?",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0176",
+      "video_id": "1LM21yDJq-0",
+      "idx": 176,
+      "start_s": 850.654,
+      "end_s": 851.315,
+      "text": "Because they do.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0177",
+      "video_id": "1LM21yDJq-0",
+      "idx": 177,
+      "start_s": 852.055,
+      "end_s": 854.077,
+      "text": "The research consistently shows variation.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0178",
+      "video_id": "1LM21yDJq-0",
+      "idx": 178,
+      "start_s": 854.517,
+      "end_s": 857.8,
+      "text": "Some people have what feel like genuine memories from as early as age two.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0179",
+      "video_id": "1LM21yDJq-0",
+      "idx": 179,
+      "start_s": 858.581,
+      "end_s": 860.322,
+      "text": "Others have nothing before five or six.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0180",
+      "video_id": "1LM21yDJq-0",
+      "idx": 180,
+      "start_s": 861.123,
+      "end_s": 867.808,
+      "text": "The average onset of reliable autobiographical memory is around three to three and a half years, but the range is wide.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0181",
+      "video_id": "1LM21yDJq-0",
+      "idx": 181,
+      "start_s": 868.469,
+      "end_s": 870.25,
+      "text": "Several factors seem to influence this.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0182",
+      "video_id": "1LM21yDJq-0",
+      "idx": 182,
+      "start_s": 870.871,
+      "end_s": 871.872,
+      "text": "Culture is one of them.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0183",
+      "video_id": "1LM21yDJq-0",
+      "idx": 183,
+      "start_s": 872.612,
+      "end_s": 894.204,
+      "text": "Studies comparing American children with children from cultures where parents less frequently engage in collaborative reminiscing, talking with children about shared past experiences, asking them questions about what they remember, narrating their own histories back to them, show that the cultural practice of memory talk significantly affects how early children begin forming retrievable autobiographical memories.",
+      "n_words": 55
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0184",
+      "video_id": "1LM21yDJq-0",
+      "idx": 184,
+      "start_s": 895.064,
+      "end_s": 900.367,
+      "text": "In cultures where parents frequently say things like, remember when we went to the beach last summer, what did you see?",
+      "n_words": 21
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0185",
+      "video_id": "1LM21yDJq-0",
+      "idx": 185,
+      "start_s": 901.449,
+      "end_s": 908.972,
+      "text": "Where memory is actively rehearsed and socially reinforced, children develop earlier and more detailed autobiographical memories.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0186",
+      "video_id": "1LM21yDJq-0",
+      "idx": 186,
+      "start_s": 909.933,
+      "end_s": 917.416,
+      "text": "The social practice of remembering together teaches children that their experiences are worth preserving and gives them the narrative scaffolding to do so.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0187",
+      "video_id": "1LM21yDJq-0",
+      "idx": 187,
+      "start_s": 918.317,
+      "end_s": 920.818,
+      "text": "Memory, it turns out, is partly a social skill.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0188",
+      "video_id": "1LM21yDJq-0",
+      "idx": 188,
+      "start_s": 921.278,
+      "end_s": 925.66,
+      "text": "And like all social skills, it develops faster when it's actively practiced and encouraged.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0189",
+      "video_id": "1LM21yDJq-0",
+      "idx": 189,
+      "start_s": 927.14,
+      "end_s": 929.722,
+      "text": "Gender is another factor, though the reasons are complex.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0190",
+      "video_id": "1LM21yDJq-0",
+      "idx": 190,
+      "start_s": 930.753,
+      "end_s": 936.137,
+      "text": "Studies have found that on average, women report earlier and more emotionally detailed childhood memories than men.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0191",
+      "video_id": "1LM21yDJq-0",
+      "idx": 191,
+      "start_s": 937.058,
+      "end_s": 945.944,
+      "text": "Whether this is biological, or a product of different socialization patterns around emotional expression and narrative, or some combination of both, is still debated.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0192",
+      "video_id": "1LM21yDJq-0",
+      "idx": 192,
+      "start_s": 946.765,
+      "end_s": 947.506,
+      "text": "And then there's stress.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0193",
+      "video_id": "1LM21yDJq-0",
+      "idx": 193,
+      "start_s": 948.406,
+      "end_s": 954.531,
+      "text": "Significant emotional experiences, particularly frightening ones, sometimes leave traces that other memories don't.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0194",
+      "video_id": "1LM21yDJq-0",
+      "idx": 194,
+      "start_s": 955.898,
+      "end_s": 963.123,
+      "text": "The amygdala, the brain's emotional alarm system, is active and functional much earlier in development than the hippocampus.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0195",
+      "video_id": "1LM21yDJq-0",
+      "idx": 195,
+      "start_s": 964.043,
+      "end_s": 973.749,
+      "text": "Fear responses, intense emotional moments, can sometimes leave residues that surface later, as feelings or physical reactions without any accompanying narrative memory.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0196",
+      "video_id": "1LM21yDJq-0",
+      "idx": 196,
+      "start_s": 974.97,
+      "end_s": 982.855,
+      "text": "You might become inexplicably anxious in a hospital, or feel an unaccountable sense of safety at the smell of a specific food without knowing why.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0197",
+      "video_id": "1LM21yDJq-0",
+      "idx": 197,
+      "start_s": 984.288,
+      "end_s": 988.434,
+      "text": "The emotion remembered the experience, even when the story didn't.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0198",
+      "video_id": "1LM21yDJq-0",
+      "idx": 198,
+      "start_s": 989.857,
+      "end_s": 992.841,
+      "text": "Here's something that doesn't get discussed nearly enough in all of this.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0199",
+      "video_id": "1LM21yDJq-0",
+      "idx": 199,
+      "start_s": 993.562,
+      "end_s": 993.883,
+      "text": "Sleep.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0200",
+      "video_id": "1LM21yDJq-0",
+      "idx": 200,
+      "start_s": 995.265,
+      "end_s": 996.427,
+      "text": "Memory consolidation.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0201",
+      "video_id": "1LM21yDJq-0",
+      "idx": 201,
+      "start_s": 997.89,
+      "end_s": 1015.678,
+      "text": "The process by which new experiences are converted into stable long-term memories happens primarily during sleep, specifically during slow-wave sleep and REM sleep, when the brain essentially replays and reorganizes the day's experiences, strengthening important connections and pruning unnecessary ones.",
+      "n_words": 40
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0202",
+      "video_id": "1LM21yDJq-0",
+      "idx": 202,
+      "start_s": 1016.598,
+      "end_s": 1018.219,
+      "text": "Infants sleep enormously.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0203",
+      "video_id": "1LM21yDJq-0",
+      "idx": 203,
+      "start_s": 1018.699,
+      "end_s": 1021.421,
+      "text": "A newborn sleeps 16 to 18 hours a day.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0204",
+      "video_id": "1LM21yDJq-0",
+      "idx": 204,
+      "start_s": 1021.981,
+      "end_s": 1025.043,
+      "text": "And their sleep architecture is radically different from adult sleep.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0205",
+      "video_id": "1LM21yDJq-0",
+      "idx": 205,
+      "start_s": 1025.804,
+      "end_s": 1029.946,
+      "text": "They spend far more of their sleep time in active REM-like states than adults do.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0206",
+      "video_id": "1LM21yDJq-0",
+      "idx": 206,
+      "start_s": 1030.987,
+      "end_s": 1037.11,
+      "text": "For decades, researchers assumed this was just a biological quirk of development with no particular significance for memory.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0207",
+      "video_id": "1LM21yDJq-0",
+      "idx": 207,
+      "start_s": 1038.191,
+      "end_s": 1040.012,
+      "text": "It turns out that might be wrong.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0208",
+      "video_id": "1LM21yDJq-0",
+      "idx": 208,
+      "start_s": 1041.568,
+      "end_s": 1053.527,
+      "text": "Some researchers now believe that the enormous amounts of active sleep in infancy serve a specific developmental function, not storing discrete memories, but consolidating the foundational patterns that underlie learning.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0209",
+      "video_id": "1LM21yDJq-0",
+      "idx": 209,
+      "start_s": 1054.508,
+      "end_s": 1062.515,
+      "text": "Learning how faces work, how voices work, how physical objects behave in space, how social interaction flows.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0210",
+      "video_id": "1LM21yDJq-0",
+      "idx": 210,
+      "start_s": 1063.316,
+      "end_s": 1066.279,
+      "text": "The infant sleeping for 18 hours is not wasting time.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0211",
+      "video_id": "1LM21yDJq-0",
+      "idx": 211,
+      "start_s": 1066.919,
+      "end_s": 1071.603,
+      "text": "The infant sleeping for 18 hours is building the operating system that everything else will run on.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0212",
+      "video_id": "1LM21yDJq-0",
+      "idx": 212,
+      "start_s": 1072.384,
+      "end_s": 1085.088,
+      "text": "not saving individual files, installing the software, and one implication of this is that the experiences happening during those awake hours aren't being stored as memories precisely because they're being used for something more fundamental.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0213",
+      "video_id": "1LM21yDJq-0",
+      "idx": 213,
+      "start_s": 1085.448,
+      "end_s": 1091.17,
+      "text": "They're being processed into architecture rather than narrative, into capability rather than story.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0214",
+      "video_id": "1LM21yDJq-0",
+      "idx": 214,
+      "start_s": 1091.61,
+      "end_s": 1094.271,
+      "text": "You don't remember learning to see, but you can see.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0215",
+      "video_id": "1LM21yDJq-0",
+      "idx": 215,
+      "start_s": 1094.591,
+      "end_s": 1101.994,
+      "text": "You don't remember learning that objects are solid and permanent, but you know it, instantly and effortlessly, every moment of your life.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0216",
+      "video_id": "1LM21yDJq-0",
+      "idx": 216,
+      "start_s": 1102.474,
+      "end_s": 1111.397,
+      "text": "You don't remember learning to read faces and voices for emotional meaning, but you do it automatically, thousands of times a day, without any conscious effort.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0217",
+      "video_id": "1LM21yDJq-0",
+      "idx": 217,
+      "start_s": 1111.718,
+      "end_s": 1114.058,
+      "text": "All of that was learned in the years you can't remember.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0218",
+      "video_id": "1LM21yDJq-0",
+      "idx": 218,
+      "start_s": 1114.359,
+      "end_s": 1117.9,
+      "text": "It just got filed in a different format than the memories you can access.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0219",
+      "video_id": "1LM21yDJq-0",
+      "idx": 219,
+      "start_s": 1118.52,
+      "end_s": 1121.101,
+      "text": "deeper, more permanent, more fundamental.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0220",
+      "video_id": "1LM21yDJq-0",
+      "idx": 220,
+      "start_s": 1121.421,
+      "end_s": 1123.801,
+      "text": "So what does all of this mean for you right now?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0221",
+      "video_id": "1LM21yDJq-0",
+      "idx": 221,
+      "start_s": 1124.221,
+      "end_s": 1128.582,
+      "text": "It means that the first years of your life were not wasted just because you can't remember them.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0222",
+      "video_id": "1LM21yDJq-0",
+      "idx": 222,
+      "start_s": 1128.962,
+      "end_s": 1133.344,
+      "text": "They were, in many ways, the most consequential years of your entire existence.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0223",
+      "video_id": "1LM21yDJq-0",
+      "idx": 223,
+      "start_s": 1133.744,
+      "end_s": 1139.085,
+      "text": "The years when the foundational architecture of who you are was laid down at a level deeper than memory can reach.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0224",
+      "video_id": "1LM21yDJq-0",
+      "idx": 224,
+      "start_s": 1140.065,
+      "end_s": 1156.276,
+      "text": "The person you are, the way you attach to people, the way you respond to uncertainty, the things that calm you, the things that destabilize you, the intuitions you can't explain, and the fears that seem to come from nowhere.",
+      "n_words": 40
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0225",
+      "video_id": "1LM21yDJq-0",
+      "idx": 225,
+      "start_s": 1157.418,
+      "end_s": 1161.944,
+      "text": "All of that has roots in a period of your life that is completely invisible to your conscious mind.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0226",
+      "video_id": "1LM21yDJq-0",
+      "idx": 226,
+      "start_s": 1162.964,
+      "end_s": 1165.987,
+      "text": "You are built from experiences you cannot access.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0227",
+      "video_id": "1LM21yDJq-0",
+      "idx": 227,
+      "start_s": 1166.787,
+      "end_s": 1170.59,
+      "text": "That's either terrifying or liberating, depending on how you hold it.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0228",
+      "video_id": "1LM21yDJq-0",
+      "idx": 228,
+      "start_s": 1171.291,
+      "end_s": 1174.694,
+      "text": "On the terrifying side, you can't examine the foundations.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0229",
+      "video_id": "1LM21yDJq-0",
+      "idx": 229,
+      "start_s": 1175.274,
+      "end_s": 1179.918,
+      "text": "You can't go back and audit the first three years to understand why you are the way you are.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0230",
+      "video_id": "1LM21yDJq-0",
+      "idx": 230,
+      "start_s": 1180.599,
+      "end_s": 1182.16,
+      "text": "The influences are real.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0231",
+      "video_id": "1LM21yDJq-0",
+      "idx": 231,
+      "start_s": 1182.54,
+      "end_s": 1186.523,
+      "text": "They're shaping you constantly, and they're entirely outside your conscious reach.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0232",
+      "video_id": "1LM21yDJq-0",
+      "idx": 232,
+      "start_s": 1187.364,
+      "end_s": 1192.225,
+      "text": "On the liberating side, the absence of explicit memory means the absence of explicit narrative.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0233",
+      "video_id": "1LM21yDJq-0",
+      "idx": 233,
+      "start_s": 1192.645,
+      "end_s": 1195.066,
+      "text": "You don't have a story you tell yourself about those years.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0234",
+      "video_id": "1LM21yDJq-0",
+      "idx": 234,
+      "start_s": 1196.006,
+      "end_s": 1197.767,
+      "text": "And that means the story isn't fixed.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0235",
+      "video_id": "1LM21yDJq-0",
+      "idx": 235,
+      "start_s": 1198.407,
+      "end_s": 1206.989,
+      "text": "The implicit patterns can be changed, not by remembering because there's nothing to remember, but by new experiences that update the old calibrations.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0236",
+      "video_id": "1LM21yDJq-0",
+      "idx": 236,
+      "start_s": 1207.689,
+      "end_s": 1215.682,
+      "text": "therapy, safe relationships, consistent new evidence that the world is different from what your three-month-old self concluded it was.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0237",
+      "video_id": "1LM21yDJq-0",
+      "idx": 237,
+      "start_s": 1216.383,
+      "end_s": 1218.045,
+      "text": "The brain is plastic.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0238",
+      "video_id": "1LM21yDJq-0",
+      "idx": 238,
+      "start_s": 1218.847,
+      "end_s": 1222.512,
+      "text": "The early patterns are influential, but they're not destiny.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0239",
+      "video_id": "1LM21yDJq-0",
+      "idx": 239,
+      "start_s": 1223.093,
+      "end_s": 1224.674,
+      "text": "They're just the starting position.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0240",
+      "video_id": "1LM21yDJq-0",
+      "idx": 240,
+      "start_s": 1225.074,
+      "end_s": 1226.694,
+      "text": "And here's the last thing worth considering.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0241",
+      "video_id": "1LM21yDJq-0",
+      "idx": 241,
+      "start_s": 1227.155,
+      "end_s": 1234.758,
+      "text": "Every generation is shaped by experiences they can't remember, passed down from caregivers who were shaped by experiences they couldn't remember either.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0242",
+      "video_id": "1LM21yDJq-0",
+      "idx": 242,
+      "start_s": 1235.218,
+      "end_s": 1239.58,
+      "text": "The implicit emotional inheritance moves through families across generations.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0243",
+      "video_id": "1LM21yDJq-0",
+      "idx": 243,
+      "start_s": 1240.2,
+      "end_s": 1250.244,
+      "text": "Anxiety patterns, attachment styles, default expectations about whether the world is safe, without anyone being able to point to the original source or consciously decide whether to pass it on.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0244",
+      "video_id": "1LM21yDJq-0",
+      "idx": 244,
+      "start_s": 1250.424,
+      "end_s": 1262.867,
+      "text": "You received something from your caregivers that came from their caregivers, not as stories, not as explicit teaching, as calibration, as the emotional atmosphere you breathed in your earliest years before you had any awareness that you were absorbing it.",
+      "n_words": 40
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0245",
+      "video_id": "1LM21yDJq-0",
+      "idx": 245,
+      "start_s": 1263.609,
+      "end_s": 1270.341,
+      "text": "The memories are gone, but what they built is sitting inside you right now, quietly running the show in ways you barely notice.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0246",
+      "video_id": "1LM21yDJq-0",
+      "idx": 246,
+      "start_s": 1271.062,
+      "end_s": 1272.625,
+      "text": "The first years of your life happened.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0247",
+      "video_id": "1LM21yDJq-0",
+      "idx": 247,
+      "start_s": 1273.226,
+      "end_s": 1273.767,
+      "text": "They mattered.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "1LM21yDJq-0:s0248",
+      "video_id": "1LM21yDJq-0",
+      "idx": 248,
+      "start_s": 1274.228,
+      "end_s": 1278.436,
+      "text": "More than almost any other years that followed, you just weren't allowed to keep the receipts.",
+      "n_words": 16
+    }
+  ]
+}

@@ -1,0 +1,2081 @@
+{
+  "video_id": "kLYsABip8tI",
+  "generated_at": "2026-09-03T11:59:53.020030+00:00",
+  "windows": [
+    {
+      "window_id": "kLYsABip8tI:j0000",
+      "video_id": "kLYsABip8tI",
+      "idx": 0,
+      "sent_ids": [
+        "kLYsABip8tI:s0000",
+        "kLYsABip8tI:s0001",
+        "kLYsABip8tI:s0002"
+      ],
+      "start_s": 0.111,
+      "end_s": 9.736,
+      "text": "The voice reading this sentence did not ask your permission to begin. It appeared as soon as your eyes reached the words. Maybe it sounds like your speaking voice.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 7.719054242002782e-05
+    },
+    {
+      "window_id": "kLYsABip8tI:j0001",
+      "video_id": "kLYsABip8tI",
+      "idx": 1,
+      "sent_ids": [
+        "kLYsABip8tI:s0003"
+      ],
+      "start_s": 10.896,
+      "end_s": 15.218,
+      "text": "Maybe it has no clear sound at all, yet the language still feels present.",
+      "n_words": 14,
+      "n_sentences": 1,
+      "pos_pct": 0.007577190542420028
+    },
+    {
+      "window_id": "kLYsABip8tI:j0002",
+      "video_id": "kLYsABip8tI",
+      "idx": 2,
+      "sent_ids": [
+        "kLYsABip8tI:s0004",
+        "kLYsABip8tI:s0005"
+      ],
+      "start_s": 15.919,
+      "end_s": 26.884,
+      "text": "It pauses where the punctuation tells it to pause, quietly performs words you already understand, and may now be commenting on the fact that someone has pointed it out. There it is.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.011070236439499306
+    },
+    {
+      "window_id": "kLYsABip8tI:j0003",
+      "video_id": "kLYsABip8tI",
+      "idx": 3,
+      "sent_ids": [
+        "kLYsABip8tI:s0006",
+        "kLYsABip8tI:s0007"
+      ],
+      "start_s": 28.033,
+      "end_s": 36.096,
+      "text": "The strange part is that you probably did not choose each word before hearing it internally. The sentence arrived, and the voice followed.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.019494436717663422
+    },
+    {
+      "window_id": "kLYsABip8tI:j0004",
+      "video_id": "kLYsABip8tI",
+      "idx": 4,
+      "sent_ids": [
+        "kLYsABip8tI:s0008",
+        "kLYsABip8tI:s0009",
+        "kLYsABip8tI:s0010",
+        "kLYsABip8tI:s0011"
+      ],
+      "start_s": 36.817,
+      "end_s": 48.321,
+      "text": "Even when the words come from you, the next one often appears before you can explain where it was hiding. It sounds like you. It uses your vocabulary. But is it actually you?",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.025602920723226705
+    },
+    {
+      "window_id": "kLYsABip8tI:j0005",
+      "video_id": "kLYsABip8tI",
+      "idx": 5,
+      "sent_ids": [
+        "kLYsABip8tI:s0012",
+        "kLYsABip8tI:s0013",
+        "kLYsABip8tI:s0014"
+      ],
+      "start_s": 49.322,
+      "end_s": 61.67,
+      "text": "Or merely something happening inside you? That question becomes uncomfortable very quickly because the inner voice occupies the most private location imaginable. Nobody else can hear it.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.0342990264255911
+    },
+    {
+      "window_id": "kLYsABip8tI:j0006",
+      "video_id": "kLYsABip8tI",
+      "idx": 6,
+      "sent_ids": [
+        "kLYsABip8tI:s0015"
+      ],
+      "start_s": 62.551,
+      "end_s": 70.898,
+      "text": "It knows what you fear, what you almost said, what you regret, and what completely unnecessary argument it would like to rehearse it to in the morning.",
+      "n_words": 27,
+      "n_sentences": 1,
+      "pos_pct": 0.04349860917941586
+    },
+    {
+      "window_id": "kLYsABip8tI:j0007",
+      "video_id": "kLYsABip8tI",
+      "idx": 7,
+      "sent_ids": [
+        "kLYsABip8tI:s0016",
+        "kLYsABip8tI:s0017",
+        "kLYsABip8tI:s0018"
+      ],
+      "start_s": 71.708,
+      "end_s": 82.472,
+      "text": "If anything should qualify as the authentic self, this seems like the obvious candidate. Except some people do not experience a constant inner monologue. Some report only occasional words.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.049866481223922114
+    },
+    {
+      "window_id": "kLYsABip8tI:j0008",
+      "video_id": "kLYsABip8tI",
+      "idx": 8,
+      "sent_ids": [
+        "kLYsABip8tI:s0019"
+      ],
+      "start_s": 82.873,
+      "end_s": 91.116,
+      "text": "Others think mainly through images, spatial relationships, bodily sensations, emotions, or concepts that do not arrive as complete sentences.",
+      "n_words": 19,
+      "n_sentences": 1,
+      "pos_pct": 0.0576307371349096
+    },
+    {
+      "window_id": "kLYsABip8tI:j0009",
+      "video_id": "kLYsABip8tI",
+      "idx": 9,
+      "sent_ids": [
+        "kLYsABip8tI:s0020",
+        "kLYsABip8tI:s0021"
+      ],
+      "start_s": 91.836,
+      "end_s": 103.783,
+      "text": "People with vivid inner speech can also lose it temporarily after certain brain injuries while retaining other forms of thought. So thought cannot simply be the voice, and the voice cannot be the whole thinker.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.06386369958275383
+    },
+    {
+      "window_id": "kLYsABip8tI:j0010",
+      "video_id": "kLYsABip8tI",
+      "idx": 10,
+      "sent_ids": [
+        "kLYsABip8tI:s0022",
+        "kLYsABip8tI:s0023",
+        "kLYsABip8tI:s0024",
+        "kLYsABip8tI:s0025"
+      ],
+      "start_s": 104.523,
+      "end_s": 116.172,
+      "text": "Start with what inner speech actually is. Researchers generally use the term for the experience of language without audible speaking. You silently tell yourself to remember something. You rehearse an answer.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.07268636995827538
+    },
+    {
+      "window_id": "kLYsABip8tI:j0011",
+      "video_id": "kLYsABip8tI",
+      "idx": 11,
+      "sent_ids": [
+        "kLYsABip8tI:s0026",
+        "kLYsABip8tI:s0027",
+        "kLYsABip8tI:s0028"
+      ],
+      "start_s": 116.553,
+      "end_s": 126.841,
+      "text": "You read a sentence internally. You replay an insult with several improvements that would have been devastating if delivered six hours earlier. No air needs to move through the vocal cords.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.08105215577190543
+    },
+    {
+      "window_id": "kLYsABip8tI:j0012",
+      "video_id": "kLYsABip8tI",
+      "idx": 12,
+      "sent_ids": [
+        "kLYsABip8tI:s0029"
+      ],
+      "start_s": 127.401,
+      "end_s": 133.144,
+      "text": "Nobody in the room hears a sound, yet parts of the brain's language and speech planning systems become active.",
+      "n_words": 19,
+      "n_sentences": 1,
+      "pos_pct": 0.08859596662030597
+    },
+    {
+      "window_id": "kLYsABip8tI:j0013",
+      "video_id": "kLYsABip8tI",
+      "idx": 13,
+      "sent_ids": [
+        "kLYsABip8tI:s0030"
+      ],
+      "start_s": 133.824,
+      "end_s": 142.049,
+      "text": "Inner speech often recruits regions involved in producing language, processing verbal information, and connecting motor plans with expected sounds.",
+      "n_words": 19,
+      "n_sentences": 1,
+      "pos_pct": 0.09306258692628652
+    },
+    {
+      "window_id": "kLYsABip8tI:j0014",
+      "video_id": "kLYsABip8tI",
+      "idx": 14,
+      "sent_ids": [
+        "kLYsABip8tI:s0031",
+        "kLYsABip8tI:s0032"
+      ],
+      "start_s": 142.955,
+      "end_s": 151.205,
+      "text": "It is related to ordinary speech, but it is not simply normal talking with the volume turned to zero. The inner version is compressed.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.09941237830319889
+    },
+    {
+      "window_id": "kLYsABip8tI:j0015",
+      "video_id": "kLYsABip8tI",
+      "idx": 15,
+      "sent_ids": [
+        "kLYsABip8tI:s0033",
+        "kLYsABip8tI:s0034",
+        "kLYsABip8tI:s0035",
+        "kLYsABip8tI:s0036"
+      ],
+      "start_s": 151.946,
+      "end_s": 164.211,
+      "text": "When speaking to someone else, you must build a sentence that survives the journey out of your mouth and into another mind. Grammar matters. Context must be supplied. Pronouns need identifiable owners.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.10566481223922114
+    },
+    {
+      "window_id": "kLYsABip8tI:j0016",
+      "video_id": "kLYsABip8tI",
+      "idx": 16,
+      "sent_ids": [
+        "kLYsABip8tI:s0037",
+        "kLYsABip8tI:s0038"
+      ],
+      "start_s": 165.031,
+      "end_s": 176.513,
+      "text": "If you say, put it there after the other thing, the listener may reasonably request evidence that you have ever encountered a noun. Inside your own mind, much of that information is already available.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.11476425591098749
+    },
+    {
+      "window_id": "kLYsABip8tI:j0017",
+      "video_id": "kLYsABip8tI",
+      "idx": 17,
+      "sent_ids": [
+        "kLYsABip8tI:s0039",
+        "kLYsABip8tI:s0040",
+        "kLYsABip8tI:s0041",
+        "kLYsABip8tI:s0042"
+      ],
+      "start_s": 176.913,
+      "end_s": 181.994,
+      "text": "Your inner speech can shrink into fragments. Keys. Tomorrow. Don't forget.",
+      "n_words": 11,
+      "n_sentences": 4,
+      "pos_pct": 0.12302712100139084
+    },
+    {
+      "window_id": "kLYsABip8tI:j0018",
+      "video_id": "kLYsABip8tI",
+      "idx": 18,
+      "sent_ids": [
+        "kLYsABip8tI:s0043"
+      ],
+      "start_s": 182.694,
+      "end_s": 185.315,
+      "text": "A single word may represent an entire plan.",
+      "n_words": 8,
+      "n_sentences": 1,
+      "pos_pct": 0.12704728789986092
+    },
+    {
+      "window_id": "kLYsABip8tI:j0019",
+      "video_id": "kLYsABip8tI",
+      "idx": 19,
+      "sent_ids": [
+        "kLYsABip8tI:s0044"
+      ],
+      "start_s": 186.388,
+      "end_s": 197.738,
+      "text": "the sentence, I should probably leave now because traffic will become worse, may compress into a faint internal now accompanied by an image of the road and a feeling of urgency.",
+      "n_words": 31,
+      "n_sentences": 1,
+      "pos_pct": 0.12961613351877607
+    },
+    {
+      "window_id": "kLYsABip8tI:j0020",
+      "video_id": "kLYsABip8tI",
+      "idx": 20,
+      "sent_ids": [
+        "kLYsABip8tI:s0045",
+        "kLYsABip8tI:s0046",
+        "kLYsABip8tI:s0047"
+      ],
+      "start_s": 198.299,
+      "end_s": 211.608,
+      "text": "This is sometimes called condensed inner speech. At other moments, especially during difficult reasoning, emotional conflict, or deliberate rehearsal. The voice can expand into complete sentences.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.13789916550764952
+    },
+    {
+      "window_id": "kLYsABip8tI:j0021",
+      "video_id": "kLYsABip8tI",
+      "idx": 21,
+      "sent_ids": [
+        "kLYsABip8tI:s0048",
+        "kLYsABip8tI:s0049",
+        "kLYsABip8tI:s0050",
+        "kLYsABip8tI:s0051"
+      ],
+      "start_s": 212.288,
+      "end_s": 223.955,
+      "text": "It may even become dialogic, meaning it takes the form of a conversation. One part asks. Another responds. A third arrives late with criticism and no useful proposal.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.14762726008344923
+    },
+    {
+      "window_id": "kLYsABip8tI:j0022",
+      "video_id": "kLYsABip8tI",
+      "idx": 22,
+      "sent_ids": [
+        "kLYsABip8tI:s0052",
+        "kLYsABip8tI:s0053",
+        "kLYsABip8tI:s0054"
+      ],
+      "start_s": 224.595,
+      "end_s": 236.082,
+      "text": "That plurality provides the first clue. The voice feels singular, but inner speech is often built from social experience. Young children usually begin language and conversation with other people.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.15618567454798332
+    },
+    {
+      "window_id": "kLYsABip8tI:j0023",
+      "video_id": "kLYsABip8tI",
+      "idx": 23,
+      "sent_ids": [
+        "kLYsABip8tI:s0055",
+        "kLYsABip8tI:s0056",
+        "kLYsABip8tI:s0057"
+      ],
+      "start_s": 236.543,
+      "end_s": 251.216,
+      "text": "Adults name objects, give instructions, ask questions, correct behavior, and explain what comes next. As children gain language, they often speak aloud to guide themselves. A child building something may say, this one goes here.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.16449443671766342
+    },
+    {
+      "window_id": "kLYsABip8tI:j0024",
+      "video_id": "kLYsABip8tI",
+      "idx": 24,
+      "sent_ids": [
+        "kLYsABip8tI:s0058",
+        "kLYsABip8tI:s0059",
+        "kLYsABip8tI:s0060"
+      ],
+      "start_s": 252.017,
+      "end_s": 262.526,
+      "text": "or warn their own hand, no, not that piece. They are not confused about the location of the audience. The speech helps control attention and action.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.17525521557719054
+    },
+    {
+      "window_id": "kLYsABip8tI:j0025",
+      "video_id": "kLYsABip8tI",
+      "idx": 25,
+      "sent_ids": [
+        "kLYsABip8tI:s0061",
+        "kLYsABip8tI:s0062",
+        "kLYsABip8tI:s0063"
+      ],
+      "start_s": 263.087,
+      "end_s": 275.614,
+      "text": "Developmental theories propose that this private speech gradually becomes internalized. Instructions once spoken by caregivers become instructions children can give themselves. Dialogue moves inward.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.18295340751043115
+    },
+    {
+      "window_id": "kLYsABip8tI:j0026",
+      "video_id": "kLYsABip8tI",
+      "idx": 26,
+      "sent_ids": [
+        "kLYsABip8tI:s0064",
+        "kLYsABip8tI:s0065"
+      ],
+      "start_s": 276.134,
+      "end_s": 285.897,
+      "text": "The external voice does not disappear so much as become a tool the developing mind can operate privately. The exact developmental path is still being studied, and inner.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.19202642559109875
+    },
+    {
+      "window_id": "kLYsABip8tI:j0027",
+      "video_id": "kLYsABip8tI",
+      "idx": 27,
+      "sent_ids": [
+        "kLYsABip8tI:s0066",
+        "kLYsABip8tI:s0067",
+        "kLYsABip8tI:s0068"
+      ],
+      "start_s": 286.357,
+      "end_s": 296.744,
+      "text": "Speech does not mature through one identical sequence in everyone. But the general pattern explains why your private voice contains traces of public life. It learned its materials from other people.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.19913560500695413
+    },
+    {
+      "window_id": "kLYsABip8tI:j0028",
+      "video_id": "kLYsABip8tI",
+      "idx": 28,
+      "sent_ids": [
+        "kLYsABip8tI:s0069"
+      ],
+      "start_s": 297.084,
+      "end_s": 309.974,
+      "text": "The phrases used by parents, teachers, friends, religious communities, online strangers, books, films, and every person who made you feel unusually safe or unusually small can become available for internal use.",
+      "n_words": 31,
+      "n_sentences": 1,
+      "pos_pct": 0.20659527121001392
+    },
+    {
+      "window_id": "kLYsABip8tI:j0029",
+      "video_id": "kLYsABip8tI",
+      "idx": 29,
+      "sent_ids": [
+        "kLYsABip8tI:s0070",
+        "kLYsABip8tI:s0071"
+      ],
+      "start_s": 310.795,
+      "end_s": 317.26,
+      "text": "This does not mean tiny copies of those people live inside your skull holding a committee meeting. It means the brain learns patterns.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.21613004172461753
+    },
+    {
+      "window_id": "kLYsABip8tI:j0030",
+      "video_id": "kLYsABip8tI",
+      "idx": 30,
+      "sent_ids": [
+        "kLYsABip8tI:s0072",
+        "kLYsABip8tI:s0073",
+        "kLYsABip8tI:s0074",
+        "kLYsABip8tI:s0075"
+      ],
+      "start_s": 317.781,
+      "end_s": 331.372,
+      "text": "Words repeatedly paired with approval, danger, embarrassment, comfort, or correction become efficient predictions. Later the situation returns. So does the language. The emotional tone can arrive before the exact wording.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.2209881780250348
+    },
+    {
+      "window_id": "kLYsABip8tI:j0031",
+      "video_id": "kLYsABip8tI",
+      "idx": 31,
+      "sent_ids": [
+        "kLYsABip8tI:s0076",
+        "kLYsABip8tI:s0077",
+        "kLYsABip8tI:s0078"
+      ],
+      "start_s": 332.192,
+      "end_s": 346.044,
+      "text": "A person who repeatedly experienced criticism may not internally hear a perfect recording of the original critic. Instead, the mind learns a style of evaluation. Search for flaws, expect rejection, interpret uncertainty as failure.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.231009735744089
+    },
+    {
+      "window_id": "kLYsABip8tI:j0032",
+      "video_id": "kLYsABip8tI",
+      "idx": 32,
+      "sent_ids": [
+        "kLYsABip8tI:s0079",
+        "kLYsABip8tI:s0080"
+      ],
+      "start_s": 346.725,
+      "end_s": 353.209,
+      "text": "Language then gives that pattern a sentence. This is why the inner critic can feel both intimate and strangely borrowed.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.2411161335187761
+    },
+    {
+      "window_id": "kLYsABip8tI:j0033",
+      "video_id": "kLYsABip8tI",
+      "idx": 33,
+      "sent_ids": [
+        "kLYsABip8tI:s0081"
+      ],
+      "start_s": 353.769,
+      "end_s": 361.732,
+      "text": "The words are being generated now by your present brain, but the rules used to generate them may have been learned when someone else controlled the consequences.",
+      "n_words": 27,
+      "n_sentences": 1,
+      "pos_pct": 0.24601460361613353
+    },
+    {
+      "window_id": "kLYsABip8tI:j0034",
+      "video_id": "kLYsABip8tI",
+      "idx": 34,
+      "sent_ids": [
+        "kLYsABip8tI:s0082",
+        "kLYsABip8tI:s0083",
+        "kLYsABip8tI:s0084"
+      ],
+      "start_s": 362.452,
+      "end_s": 372.496,
+      "text": "An old social environment becomes a modern prediction system. The reverse is possible too. Encouragement, humor, patience, and problem-solving language can be internalized.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.2520528511821975
+    },
+    {
+      "window_id": "kLYsABip8tI:j0035",
+      "video_id": "kLYsABip8tI",
+      "idx": 35,
+      "sent_ids": [
+        "kLYsABip8tI:s0085",
+        "kLYsABip8tI:s0086"
+      ],
+      "start_s": 373.357,
+      "end_s": 383.723,
+      "text": "A calm instruction once provided by another person can later become something you supply yourself under pressure. The social world does not merely enter the mind as damage, it also enters as equipment.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.25963630041724617
+    },
+    {
+      "window_id": "kLYsABip8tI:j0036",
+      "video_id": "kLYsABip8tI",
+      "idx": 36,
+      "sent_ids": [
+        "kLYsABip8tI:s0087",
+        "kLYsABip8tI:s0088"
+      ],
+      "start_s": 384.424,
+      "end_s": 393.631,
+      "text": "You make a mistake and internally hear, what is wrong with you? That sentence may feel spontaneous because it is, but spontaneous does not mean mysterious.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.26733240611961057
+    },
+    {
+      "window_id": "kLYsABip8tI:j0037",
+      "video_id": "kLYsABip8tI",
+      "idx": 37,
+      "sent_ids": [
+        "kLYsABip8tI:s0089"
+      ],
+      "start_s": 394.272,
+      "end_s": 403.139,
+      "text": "The brain has encountered an error, searched familiar models for interpreting it, and produced a phrase practiced enough to arrive before a kinder alternative has located its shoes.",
+      "n_words": 28,
+      "n_sentences": 1,
+      "pos_pct": 0.2741808066759388
+    },
+    {
+      "window_id": "kLYsABip8tI:j0038",
+      "video_id": "kLYsABip8tI",
+      "idx": 38,
+      "sent_ids": [
+        "kLYsABip8tI:s0090",
+        "kLYsABip8tI:s0091",
+        "kLYsABip8tI:s0092"
+      ],
+      "start_s": 404.02,
+      "end_s": 411.789,
+      "text": "In that sense, your inner voice is yours in the same way your accent is yours. You produce it. You also inherited much of its shape.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.2809596662030598
+    },
+    {
+      "window_id": "kLYsABip8tI:j0039",
+      "video_id": "kLYsABip8tI",
+      "idx": 39,
+      "sent_ids": [
+        "kLYsABip8tI:s0093",
+        "kLYsABip8tI:s0094"
+      ],
+      "start_s": 412.45,
+      "end_s": 421.72,
+      "text": "The brain still needs to identify internally generated speech as internally generated. Whenever you speak aloud, the motor system sends commands that move the mouth and larynx.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.2868219749652295
+    },
+    {
+      "window_id": "kLYsABip8tI:j0040",
+      "video_id": "kLYsABip8tI",
+      "idx": 40,
+      "sent_ids": [
+        "kLYsABip8tI:s0095",
+        "kLYsABip8tI:s0096"
+      ],
+      "start_s": 422.721,
+      "end_s": 429.411,
+      "text": "At the same time, the brain can generate a prediction of the sensory consequences. It expects the timing and sound of your own voice.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.2939645340751043
+    },
+    {
+      "window_id": "kLYsABip8tI:j0041",
+      "video_id": "kLYsABip8tI",
+      "idx": 41,
+      "sent_ids": [
+        "kLYsABip8tI:s0097"
+      ],
+      "start_s": 430.453,
+      "end_s": 436.882,
+      "text": "This predictive signal helps explain why self-produced speech is processed differently from an unexpected external sound.",
+      "n_words": 16,
+      "n_sentences": 1,
+      "pos_pct": 0.2993414464534075
+    },
+    {
+      "window_id": "kLYsABip8tI:j0042",
+      "video_id": "kLYsABip8tI",
+      "idx": 42,
+      "sent_ids": [
+        "kLYsABip8tI:s0098"
+      ],
+      "start_s": 437.677,
+      "end_s": 446.045,
+      "text": "A related idea, often described using terms such as corollary discharge or efference copy, has been applied to inner speech.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.304365090403338
+    },
+    {
+      "window_id": "kLYsABip8tI:j0043",
+      "video_id": "kLYsABip8tI",
+      "idx": 43,
+      "sent_ids": [
+        "kLYsABip8tI:s0099"
+      ],
+      "start_s": 446.685,
+      "end_s": 454.652,
+      "text": "When the brain prepares silent speech, a copy of the speech plan may help auditory systems recognize the expected experience as self-generated.",
+      "n_words": 22,
+      "n_sentences": 1,
+      "pos_pct": 0.3106293463143254
+    },
+    {
+      "window_id": "kLYsABip8tI:j0044",
+      "video_id": "kLYsABip8tI",
+      "idx": 44,
+      "sent_ids": [
+        "kLYsABip8tI:s0100",
+        "kLYsABip8tI:s0101"
+      ],
+      "start_s": 455.593,
+      "end_s": 467.669,
+      "text": "The voice can have sound-like qualities without being mistaken for a person speaking in the room. This system is not a simple ownership stamp, and auditory-verbal hallucinations cannot be reduced to one broken switch.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.31682406119610573
+    },
+    {
+      "window_id": "kLYsABip8tI:j0045",
+      "video_id": "kLYsABip8tI",
+      "idx": 45,
+      "sent_ids": [
+        "kLYsABip8tI:s0102",
+        "kLYsABip8tI:s0103"
+      ],
+      "start_s": 468.49,
+      "end_s": 484.319,
+      "text": "They involve multiple possible mechanisms and occur in different clinical and non-clinical contexts. But altered prediction and self-monitoring remain important hypotheses for explaining why some internally generated verbal experiences can feel external or alien.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.32579276773296245
+    },
+    {
+      "window_id": "kLYsABip8tI:j0046",
+      "video_id": "kLYsABip8tI",
+      "idx": 46,
+      "sent_ids": [
+        "kLYsABip8tI:s0104",
+        "kLYsABip8tI:s0105",
+        "kLYsABip8tI:s0106"
+      ],
+      "start_s": 485.219,
+      "end_s": 493.681,
+      "text": "Normally the brain performs the distinction so smoothly that it becomes invisible. You do not hear your inner sentence and investigate the apartment. You know where it came from.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.33742628650904033
+    },
+    {
+      "window_id": "kLYsABip8tI:j0047",
+      "video_id": "kLYsABip8tI",
+      "idx": 47,
+      "sent_ids": [
+        "kLYsABip8tI:s0107",
+        "kLYsABip8tI:s0108",
+        "kLYsABip8tI:s0109",
+        "kLYsABip8tI:s0110"
+      ],
+      "start_s": 494.281,
+      "end_s": 503.723,
+      "text": "Or at least you know where it did not. The voice also serves practical functions. One of the clearest is verbal working memory. Temporarily holding language available for use.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.3437280945757997
+    },
+    {
+      "window_id": "kLYsABip8tI:j0048",
+      "video_id": "kLYsABip8tI",
+      "idx": 48,
+      "sent_ids": [
+        "kLYsABip8tI:s0111"
+      ],
+      "start_s": 504.643,
+      "end_s": 511.048,
+      "text": "If someone gives you a short code and you repeat it internally until you can type it, the voice is acting like a small rehearsal system.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.3509339360222531
+    },
+    {
+      "window_id": "kLYsABip8tI:j0049",
+      "video_id": "kLYsABip8tI",
+      "idx": 49,
+      "sent_ids": [
+        "kLYsABip8tI:s0112",
+        "kLYsABip8tI:s0113",
+        "kLYsABip8tI:s0114",
+        "kLYsABip8tI:s0115"
+      ],
+      "start_s": 511.648,
+      "end_s": 523.295,
+      "text": "Stop repeating, become distracted, and the code may disappear with the dignity of something that was never properly saved. Inner speech can support planning. First I send the file. Then I answer the message.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.3558052851182198
+    },
+    {
+      "window_id": "kLYsABip8tI:j0050",
+      "video_id": "kLYsABip8tI",
+      "idx": 50,
+      "sent_ids": [
+        "kLYsABip8tI:s0116",
+        "kLYsABip8tI:s0117"
+      ],
+      "start_s": 523.976,
+      "end_s": 535.401,
+      "text": "Then I pretend the file was always going to be sent at this exact time. It can guide complex tasks, compare options, prepare conversations, and help maintain a rule while impulses compete for control.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.36437830319888737
+    },
+    {
+      "window_id": "kLYsABip8tI:j0051",
+      "video_id": "kLYsABip8tI",
+      "idx": 51,
+      "sent_ids": [
+        "kLYsABip8tI:s0118"
+      ],
+      "start_s": 536.121,
+      "end_s": 544.205,
+      "text": "Researchers can interfere with this verbal tool using articulatory suppression, asking someone to repeat an irrelevant sound or word while completing another task.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.37282406119610567
+    },
+    {
+      "window_id": "kLYsABip8tI:j0052",
+      "video_id": "kLYsABip8tI",
+      "idx": 52,
+      "sent_ids": [
+        "kLYsABip8tI:s0119",
+        "kLYsABip8tI:s0120"
+      ],
+      "start_s": 545.105,
+      "end_s": 553.989,
+      "text": "Keeping the speech machinery occupied often makes certain forms of verbal memory and rhyme judgment more difficult. The effect is not universal across cognition.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.3790716272600835
+    },
+    {
+      "window_id": "kLYsABip8tI:j0053",
+      "video_id": "kLYsABip8tI",
+      "idx": 53,
+      "sent_ids": [
+        "kLYsABip8tI:s0121",
+        "kLYsABip8tI:s0122",
+        "kLYsABip8tI:s0123"
+      ],
+      "start_s": 554.309,
+      "end_s": 564.614,
+      "text": "It appears most strongly when the task benefits from silently rehearsing sounds or labels. That tells us something subtle. Inner speech is not merely decoration placed over finished thought.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.3854721835883171
+    },
+    {
+      "window_id": "kLYsABip8tI:j0054",
+      "video_id": "kLYsABip8tI",
+      "idx": 54,
+      "sent_ids": [
+        "kLYsABip8tI:s0124",
+        "kLYsABip8tI:s0125"
+      ],
+      "start_s": 565.074,
+      "end_s": 573.277,
+      "text": "In some situations, it becomes part of the machinery used to complete the task. A phone number lasts because the internal loop keeps rebuilding it.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.39295827538247563
+    },
+    {
+      "window_id": "kLYsABip8tI:j0055",
+      "video_id": "kLYsABip8tI",
+      "idx": 55,
+      "sent_ids": [
+        "kLYsABip8tI:s0126",
+        "kLYsABip8tI:s0127",
+        "kLYsABip8tI:s0128",
+        "kLYsABip8tI:s0129"
+      ],
+      "start_s": 573.697,
+      "end_s": 583.741,
+      "text": "A complicated instruction remains organized because language divides it into steps. Remove the rehearsal. And performance may weaken. But the mind can change strategies.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.3989547983310153
+    },
+    {
+      "window_id": "kLYsABip8tI:j0056",
+      "video_id": "kLYsABip8tI",
+      "idx": 56,
+      "sent_ids": [
+        "kLYsABip8tI:s0130"
+      ],
+      "start_s": 584.341,
+      "end_s": 591.004,
+      "text": "A person may convert information into an image, a spatial pattern, a rhythm, a gesture, or a set of associations.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.4063567454798331
+    },
+    {
+      "window_id": "kLYsABip8tI:j0057",
+      "video_id": "kLYsABip8tI",
+      "idx": 57,
+      "sent_ids": [
+        "kLYsABip8tI:s0131"
+      ],
+      "start_s": 591.724,
+      "end_s": 597.849,
+      "text": "this flexibility is one reason losing access to one form of inner speech does not mean losing thought itself.",
+      "n_words": 19,
+      "n_sentences": 1,
+      "pos_pct": 0.4114909596662031
+    },
+    {
+      "window_id": "kLYsABip8tI:j0058",
+      "video_id": "kLYsABip8tI",
+      "idx": 58,
+      "sent_ids": [
+        "kLYsABip8tI:s0132"
+      ],
+      "start_s": 598.51,
+      "end_s": 607.537,
+      "text": "By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.41621001390820583
+    },
+    {
+      "window_id": "kLYsABip8tI:j0059",
+      "video_id": "kLYsABip8tI",
+      "idx": 59,
+      "sent_ids": [
+        "kLYsABip8tI:s0133",
+        "kLYsABip8tI:s0134",
+        "kLYsABip8tI:s0135"
+      ],
+      "start_s": 608.218,
+      "end_s": 621.988,
+      "text": "10 modules, 3 plus hours of content covering everything we never talk about on YouTube. What they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.42296105702364395
+    },
+    {
+      "window_id": "kLYsABip8tI:j0060",
+      "video_id": "kLYsABip8tI",
+      "idx": 60,
+      "sent_ids": [
+        "kLYsABip8tI:s0136",
+        "kLYsABip8tI:s0137"
+      ],
+      "start_s": 622.548,
+      "end_s": 624.83,
+      "text": "Link in the description. See you inside.",
+      "n_words": 7,
+      "n_sentences": 2,
+      "pos_pct": 0.43292628650904036
+    },
+    {
+      "window_id": "kLYsABip8tI:j0061",
+      "video_id": "kLYsABip8tI",
+      "idx": 61,
+      "sent_ids": [
+        "kLYsABip8tI:s0138"
+      ],
+      "start_s": 625.39,
+      "end_s": 636.658,
+      "text": "The brain is less like a single narrator and more like an organization that has several departments, some of which communicate by sending pictures because the language department is currently repeating an irrelevant syllable for science.",
+      "n_words": 36,
+      "n_sentences": 1,
+      "pos_pct": 0.4349026425591099
+    },
+    {
+      "window_id": "kLYsABip8tI:j0062",
+      "video_id": "kLYsABip8tI",
+      "idx": 62,
+      "sent_ids": [
+        "kLYsABip8tI:s0139",
+        "kLYsABip8tI:s0140",
+        "kLYsABip8tI:s0141"
+      ],
+      "start_s": 637.118,
+      "end_s": 648.965,
+      "text": "It also participates in reading, writing, self-reflection, emotional regulation, and social simulation. You can test how a sentence might sound before saying it. You can imagine another person's reply.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.4430584144645341
+    },
+    {
+      "window_id": "kLYsABip8tI:j0063",
+      "video_id": "kLYsABip8tI",
+      "idx": 63,
+      "sent_ids": [
+        "kLYsABip8tI:s0142",
+        "kLYsABip8tI:s0143",
+        "kLYsABip8tI:s0144"
+      ],
+      "start_s": 649.465,
+      "end_s": 658.25,
+      "text": "You can rearrange an explanation internally until it becomes clear enough to survive contact with an audience. The voice is a simulator. It allows language to fail privately.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.45164464534075105
+    },
+    {
+      "window_id": "kLYsABip8tI:j0064",
+      "video_id": "kLYsABip8tI",
+      "idx": 64,
+      "sent_ids": [
+        "kLYsABip8tI:s0145",
+        "kLYsABip8tI:s0146"
+      ],
+      "start_s": 658.91,
+      "end_s": 668.594,
+      "text": "That is useful because external speech has consequences. An internal rehearsal can be abandoned, corrected, softened, or quietly buried where it will cause no international incident.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.4582127955493741
+    },
+    {
+      "window_id": "kLYsABip8tI:j0065",
+      "video_id": "kLYsABip8tI",
+      "idx": 65,
+      "sent_ids": [
+        "kLYsABip8tI:s0147"
+      ],
+      "start_s": 669.394,
+      "end_s": 677.017,
+      "text": "The brain can model a social exchange without forcing everyone else to participate in the first draft, but usefulness does not create authority.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.4655034770514604
+    },
+    {
+      "window_id": "kLYsABip8tI:j0066",
+      "video_id": "kLYsABip8tI",
+      "idx": 66,
+      "sent_ids": [
+        "kLYsABip8tI:s0148",
+        "kLYsABip8tI:s0149"
+      ],
+      "start_s": 677.777,
+      "end_s": 688.206,
+      "text": "The inner voice often speaks as though it has been officially appointed to explain everything. It narrates motives, judges decisions, predicts reactions, and produces reasons for behavior.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.47133310152990265
+    },
+    {
+      "window_id": "kLYsABip8tI:j0067",
+      "video_id": "kLYsABip8tI",
+      "idx": 67,
+      "sent_ids": [
+        "kLYsABip8tI:s0150",
+        "kLYsABip8tI:s0151",
+        "kLYsABip8tI:s0152"
+      ],
+      "start_s": 689.006,
+      "end_s": 702.158,
+      "text": "The confidence is impressive considering how often the explanation is assembled after other systems have already influenced what you feel or do. Your mind processes far more than language can report. Visual systems identify shapes.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.4791418636995827
+    },
+    {
+      "window_id": "kLYsABip8tI:j0068",
+      "video_id": "kLYsABip8tI",
+      "idx": 68,
+      "sent_ids": [
+        "kLYsABip8tI:s0153",
+        "kLYsABip8tI:s0154",
+        "kLYsABip8tI:s0155",
+        "kLYsABip8tI:s0156"
+      ],
+      "start_s": 702.919,
+      "end_s": 716.051,
+      "text": "Emotional systems assign value and urgency. Memory retrieves associations. Habit systems prepare familiar responses. The body changes heart rate, muscle tension, breathing, and hormonal activity.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.488817107093185
+    },
+    {
+      "window_id": "kLYsABip8tI:j0069",
+      "video_id": "kLYsABip8tI",
+      "idx": 69,
+      "sent_ids": [
+        "kLYsABip8tI:s0157",
+        "kLYsABip8tI:s0158"
+      ],
+      "start_s": 716.892,
+      "end_s": 724.198,
+      "text": "Attention shifts before the narrator has completed its sentence about why attention should shift. Then inner speech summarizes the result.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.4985340751043116
+    },
+    {
+      "window_id": "kLYsABip8tI:j0070",
+      "video_id": "kLYsABip8tI",
+      "idx": 70,
+      "sent_ids": [
+        "kLYsABip8tI:s0159",
+        "kLYsABip8tI:s0160",
+        "kLYsABip8tI:s0161"
+      ],
+      "start_s": 725.018,
+      "end_s": 735.588,
+      "text": "This can create the impression that the voice caused every decision because it arrived with an explanation. Sometimes it did participate directly. Deliberate verbal reasoning is real.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.5041849791376912
+    },
+    {
+      "window_id": "kLYsABip8tI:j0071",
+      "video_id": "kLYsABip8tI",
+      "idx": 71,
+      "sent_ids": [
+        "kLYsABip8tI:s0162"
+      ],
+      "start_s": 736.129,
+      "end_s": 741.136,
+      "text": "You can use inner speech to compare evidence, inhibit a response, or choose a plan.",
+      "n_words": 15,
+      "n_sentences": 1,
+      "pos_pct": 0.5119116828929068
+    },
+    {
+      "window_id": "kLYsABip8tI:j0072",
+      "video_id": "kLYsABip8tI",
+      "idx": 72,
+      "sent_ids": [
+        "kLYsABip8tI:s0163",
+        "kLYsABip8tI:s0164",
+        "kLYsABip8tI:s0165"
+      ],
+      "start_s": 741.717,
+      "end_s": 752.643,
+      "text": "But at other times, the voice behaves more like a press secretary walking to the microphone after several departments have already made the decision. It receives the outcome. Then it discovers a respectable sentence.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.5157976356050069
+    },
+    {
+      "window_id": "kLYsABip8tI:j0073",
+      "video_id": "kLYsABip8tI",
+      "idx": 73,
+      "sent_ids": [
+        "kLYsABip8tI:s0166",
+        "kLYsABip8tI:s0167"
+      ],
+      "start_s": 753.383,
+      "end_s": 764.432,
+      "text": "Experiments on voluntary action and preconscious brain activity are often exaggerated into the claim that neuroscience has disproved free will. The actual evidence is more limited and more interesting.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.5239102920723226
+    },
+    {
+      "window_id": "kLYsABip8tI:j0074",
+      "video_id": "kLYsABip8tI",
+      "idx": 74,
+      "sent_ids": [
+        "kLYsABip8tI:s0168"
+      ],
+      "start_s": 764.892,
+      "end_s": 771.86,
+      "text": "Neural activity related to preparation, perception, or choice can sometimes be detected before a person reports conscious awareness.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.5319137691237831
+    },
+    {
+      "window_id": "kLYsABip8tI:j0075",
+      "video_id": "kLYsABip8tI",
+      "idx": 75,
+      "sent_ids": [
+        "kLYsABip8tI:s0169",
+        "kLYsABip8tI:s0170"
+      ],
+      "start_s": 772.521,
+      "end_s": 783.931,
+      "text": "But researchers still debate what these signals represent, how decisions form, and whether laboratory button presses capture meaningful human agency. The safe conclusion is not that your conscious voice is fake.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.5372190542420028
+    },
+    {
+      "window_id": "kLYsABip8tI:j0076",
+      "video_id": "kLYsABip8tI",
+      "idx": 76,
+      "sent_ids": [
+        "kLYsABip8tI:s0171",
+        "kLYsABip8tI:s0172"
+      ],
+      "start_s": 784.391,
+      "end_s": 795.454,
+      "text": "It is that consciousness enters an ongoing process. By the time the inner narrator explains what is happening, other parts of the brain may already have supplied candidates, feelings, predictions, and impulses.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.5454735744089012
+    },
+    {
+      "window_id": "kLYsABip8tI:j0077",
+      "video_id": "kLYsABip8tI",
+      "idx": 77,
+      "sent_ids": [
+        "kLYsABip8tI:s0173",
+        "kLYsABip8tI:s0174",
+        "kLYsABip8tI:s0175",
+        "kLYsABip8tI:s0176"
+      ],
+      "start_s": 796.055,
+      "end_s": 806.338,
+      "text": "The voice is inside the system, not floating above it with complete access to the machinery. This explains why thoughts can surprise you. An unwanted sentence appears. A disturbing image follows.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.5535848400556328
+    },
+    {
+      "window_id": "kLYsABip8tI:j0078",
+      "video_id": "kLYsABip8tI",
+      "idx": 78,
+      "sent_ids": [
+        "kLYsABip8tI:s0177",
+        "kLYsABip8tI:s0178"
+      ],
+      "start_s": 807.198,
+      "end_s": 819.945,
+      "text": "The mind produces something cruel, absurd, sexual, violent, embarrassing, or so socially inappropriate that you immediately wonder what kind of person would think it. Apparently, this kind.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.5613337969401947
+    },
+    {
+      "window_id": "kLYsABip8tI:j0079",
+      "video_id": "kLYsABip8tI",
+      "idx": 79,
+      "sent_ids": [
+        "kLYsABip8tI:s0179",
+        "kLYsABip8tI:s0180",
+        "kLYsABip8tI:s0181",
+        "kLYsABip8tI:s0182"
+      ],
+      "start_s": 820.745,
+      "end_s": 834.173,
+      "text": "But producing a thought is not the same as endorsing it. The brain constantly generates possibilities. It predicts danger, recombines memories, simulates actions, and searches for associations. Some outputs are relevant, others are noise.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.5707545201668984
+    },
+    {
+      "window_id": "kLYsABip8tI:j0080",
+      "video_id": "kLYsABip8tI",
+      "idx": 80,
+      "sent_ids": [
+        "kLYsABip8tI:s0183",
+        "kLYsABip8tI:s0184",
+        "kLYsABip8tI:s0185",
+        "kLYsABip8tI:s0186"
+      ],
+      "start_s": 834.693,
+      "end_s": 845.399,
+      "text": "Some feel offensive precisely because they conflict with what you value. The distress does not prove secret agreement. It may demonstrate rejection. This distinction is essential.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.5804541029207232
+    },
+    {
+      "window_id": "kLYsABip8tI:j0081",
+      "video_id": "kLYsABip8tI",
+      "idx": 81,
+      "sent_ids": [
+        "kLYsABip8tI:s0187",
+        "kLYsABip8tI:s0188"
+      ],
+      "start_s": 845.939,
+      "end_s": 853.982,
+      "text": "An intrusive thought is an event in the mind, not a confession submitted by the soul. Trying to force the thought away can make it more persistent.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.5882746870653686
+    },
+    {
+      "window_id": "kLYsABip8tI:j0082",
+      "video_id": "kLYsABip8tI",
+      "idx": 82,
+      "sent_ids": [
+        "kLYsABip8tI:s0189",
+        "kLYsABip8tI:s0190"
+      ],
+      "start_s": 855.043,
+      "end_s": 867.108,
+      "text": "In the classic white bear experiments, participants instructed not to think about a white bear, struggled to suppress it, and later showed a rebound in white bear thoughts. The task contains its own trap.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.594605702364395
+    },
+    {
+      "window_id": "kLYsABip8tI:j0083",
+      "video_id": "kLYsABip8tI",
+      "idx": 83,
+      "sent_ids": [
+        "kLYsABip8tI:s0191",
+        "kLYsABip8tI:s0192",
+        "kLYsABip8tI:s0193",
+        "kLYsABip8tI:s0194"
+      ],
+      "start_s": 867.948,
+      "end_s": 880.74,
+      "text": "To confirm that you are successfully avoiding something, part of the mind must keep checking whether the forbidden thing has returned. Do not think about the bear. Monitoring status. Unfortunately, bear.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.6035799721835883
+    },
+    {
+      "window_id": "kLYsABip8tI:j0084",
+      "video_id": "kLYsABip8tI",
+      "idx": 84,
+      "sent_ids": [
+        "kLYsABip8tI:s0195",
+        "kLYsABip8tI:s0196",
+        "kLYsABip8tI:s0197",
+        "kLYsABip8tI:s0198"
+      ],
+      "start_s": 881.34,
+      "end_s": 891.97,
+      "text": "The same problem can affect inner speech. Ordering the voice to remain silent gives it a new topic. Silence. Fighting every unwanted sentence can increase attention to it.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.6128929068150208
+    },
+    {
+      "window_id": "kLYsABip8tI:j0085",
+      "video_id": "kLYsABip8tI",
+      "idx": 85,
+      "sent_ids": [
+        "kLYsABip8tI:s0199",
+        "kLYsABip8tI:s0200"
+      ],
+      "start_s": 892.51,
+      "end_s": 903.161,
+      "text": "making the thought feel important because so much mental effort is now surrounding it. None of this means distressing thoughts should always be ignored or that persistent symptoms never require help.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.6206606397774687
+    },
+    {
+      "window_id": "kLYsABip8tI:j0086",
+      "video_id": "kLYsABip8tI",
+      "idx": 86,
+      "sent_ids": [
+        "kLYsABip8tI:s0201",
+        "kLYsABip8tI:s0202"
+      ],
+      "start_s": 903.722,
+      "end_s": 915.535,
+      "text": "Recurrent intrusive thoughts can become deeply disruptive in conditions such as obsessive-compulsive disorder, anxiety disorders, depression, and trauma-related disorders. The point is narrower.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.6284575799721835
+    },
+    {
+      "window_id": "kLYsABip8tI:j0087",
+      "video_id": "kLYsABip8tI",
+      "idx": 87,
+      "sent_ids": [
+        "kLYsABip8tI:s0203",
+        "kLYsABip8tI:s0204",
+        "kLYsABip8tI:s0205"
+      ],
+      "start_s": 916.055,
+      "end_s": 930.035,
+      "text": "The occurrence of a sentence does not automatically reveal desire, intention, character, or future action. If the inner voice were the complete self, every contradictory thought would create a new person. It does not.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.6370340751043115
+    },
+    {
+      "window_id": "kLYsABip8tI:j0088",
+      "video_id": "kLYsABip8tI",
+      "idx": 88,
+      "sent_ids": [
+        "kLYsABip8tI:s0206",
+        "kLYsABip8tI:s0207",
+        "kLYsABip8tI:s0208",
+        "kLYsABip8tI:s0209"
+      ],
+      "start_s": 930.576,
+      "end_s": 944.427,
+      "text": "The mind contains conflict because different systems represent different goals. One voice wants to work. Another wants to sleep. A third recommends checking one notification, apparently unaware that this proposal has destroyed several previous evenings.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.6471321279554938
+    },
+    {
+      "window_id": "kLYsABip8tI:j0089",
+      "video_id": "kLYsABip8tI",
+      "idx": 89,
+      "sent_ids": [
+        "kLYsABip8tI:s0210",
+        "kLYsABip8tI:s0211",
+        "kLYsABip8tI:s0212",
+        "kLYsABip8tI:s0213"
+      ],
+      "start_s": 944.967,
+      "end_s": 958.618,
+      "text": "These are not necessarily separate identities. They are competing priorities translated into language. Even the word voice may be misleading. Some inner speech has a recognizable pitch, accent, rhythm, volume, or location.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.6571397774687066
+    },
+    {
+      "window_id": "kLYsABip8tI:j0090",
+      "video_id": "kLYsABip8tI",
+      "idx": 90,
+      "sent_ids": [
+        "kLYsABip8tI:s0214",
+        "kLYsABip8tI:s0215"
+      ],
+      "start_s": 958.978,
+      "end_s": 967.686,
+      "text": "People may internally hear their own voice, another person's voice, or a voice that is difficult to identify. Other inner speech is worded but acoustically thin.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.6668831710709319
+    },
+    {
+      "window_id": "kLYsABip8tI:j0091",
+      "video_id": "kLYsABip8tI",
+      "idx": 91,
+      "sent_ids": [
+        "kLYsABip8tI:s0216"
+      ],
+      "start_s": 968.267,
+      "end_s": 973.832,
+      "text": "You know the sentence without experiencing anything resembling sound, and many moments contain no inner speech at all.",
+      "n_words": 18,
+      "n_sentences": 1,
+      "pos_pct": 0.6733428372739917
+    },
+    {
+      "window_id": "kLYsABip8tI:j0092",
+      "video_id": "kLYsABip8tI",
+      "idx": 92,
+      "sent_ids": [
+        "kLYsABip8tI:s0217",
+        "kLYsABip8tI:s0218"
+      ],
+      "start_s": 974.293,
+      "end_s": 989.542,
+      "text": "Experience sampling research suggests that inner life includes images, emotions, sensory awareness, and what some researchers call unsymbolized thought. Thinking that has a specific meaning without clearly appearing as words, pictures, or another symbolic form.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.6775333796940195
+    },
+    {
+      "window_id": "kLYsABip8tI:j0093",
+      "video_id": "kLYsABip8tI",
+      "idx": 93,
+      "sent_ids": [
+        "kLYsABip8tI:s0219"
+      ],
+      "start_s": 990.515,
+      "end_s": 1000.002,
+      "text": "The concept is debated partly because describing a wordless thought requires adding words afterward, which is like proving a room was silent by recording someone explaining the silence.",
+      "n_words": 28,
+      "n_sentences": 1,
+      "pos_pct": 0.6888143254520167
+    },
+    {
+      "window_id": "kLYsABip8tI:j0094",
+      "video_id": "kLYsABip8tI",
+      "idx": 94,
+      "sent_ids": [
+        "kLYsABip8tI:s0220",
+        "kLYsABip8tI:s0221",
+        "kLYsABip8tI:s0222"
+      ],
+      "start_s": 1000.782,
+      "end_s": 1009.609,
+      "text": "Still, ordinary experience makes the basic point visible. You can recognize a face before naming the person. You can sense that a room feels wrong before producing a reason.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.6959541029207232
+    },
+    {
+      "window_id": "kLYsABip8tI:j0095",
+      "video_id": "kLYsABip8tI",
+      "idx": 95,
+      "sent_ids": [
+        "kLYsABip8tI:s0223",
+        "kLYsABip8tI:s0224"
+      ],
+      "start_s": 1009.849,
+      "end_s": 1021.417,
+      "text": "You can rotate an object mentally, navigate a familiar route, catch a ball, enjoy music, or understand the emotional direction of a conversation without narrating every operation. Language is powerful.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.702259388038943
+    },
+    {
+      "window_id": "kLYsABip8tI:j0096",
+      "video_id": "kLYsABip8tI",
+      "idx": 96,
+      "sent_ids": [
+        "kLYsABip8tI:s0225",
+        "kLYsABip8tI:s0226",
+        "kLYsABip8tI:s0227"
+      ],
+      "start_s": 1021.758,
+      "end_s": 1033.508,
+      "text": "It is not the only format the mind understands. There is an old temptation to divide language and thought too cleanly. One extreme treats words as transparent labels attached after thinking is complete.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.7105410292072323
+    },
+    {
+      "window_id": "kLYsABip8tI:j0097",
+      "video_id": "kLYsABip8tI",
+      "idx": 97,
+      "sent_ids": [
+        "kLYsABip8tI:s0228",
+        "kLYsABip8tI:s0229",
+        "kLYsABip8tI:s0230",
+        "kLYsABip8tI:s0231"
+      ],
+      "start_s": 1034.209,
+      "end_s": 1046.961,
+      "text": "The other treats language as the substance from which all human thought is made. The evidence fits neither position comfortably. Language can change performance. Labels make some categories easier to remember and compare.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.7191995827538248
+    },
+    {
+      "window_id": "kLYsABip8tI:j0098",
+      "video_id": "kLYsABip8tI",
+      "idx": 98,
+      "sent_ids": [
+        "kLYsABip8tI:s0232",
+        "kLYsABip8tI:s0233",
+        "kLYsABip8tI:s0234"
+      ],
+      "start_s": 1047.762,
+      "end_s": 1059.754,
+      "text": "Verbal rehearsal supports particular kinds of memory. Naming a goal can keep it active. Learning specialized vocabulary may help people notice distinctions that were previously difficult to communicate or maintain.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.728624478442281
+    },
+    {
+      "window_id": "kLYsABip8tI:j0099",
+      "video_id": "kLYsABip8tI",
+      "idx": 99,
+      "sent_ids": [
+        "kLYsABip8tI:s0235",
+        "kLYsABip8tI:s0236"
+      ],
+      "start_s": 1060.455,
+      "end_s": 1071.445,
+      "text": "Yet infants and non-human animals solve problems without human language. Adults perform perceptual, motor, emotional, and spatial operations faster than a sentence could describe them.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.7374513212795549
+    },
+    {
+      "window_id": "kLYsABip8tI:j0100",
+      "video_id": "kLYsABip8tI",
+      "idx": 100,
+      "sent_ids": [
+        "kLYsABip8tI:s0237",
+        "kLYsABip8tI:s0238"
+      ],
+      "start_s": 1072.306,
+      "end_s": 1083.754,
+      "text": "People with severe language impairments can retain important forms of reasoning, while the exact pattern depends on the injury and the task. Language does not create the entire landscape of thought.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.745692628650904
+    },
+    {
+      "window_id": "kLYsABip8tI:j0101",
+      "video_id": "kLYsABip8tI",
+      "idx": 101,
+      "sent_ids": [
+        "kLYsABip8tI:s0239",
+        "kLYsABip8tI:s0240",
+        "kLYsABip8tI:s0241"
+      ],
+      "start_s": 1084.455,
+      "end_s": 1091.658,
+      "text": "It builds roads through it. Those roads make certain destinations easier to reach. They also encourage repeated routes.",
+      "n_words": 18,
+      "n_sentences": 3,
+      "pos_pct": 0.7541411682892907
+    },
+    {
+      "window_id": "kLYsABip8tI:j0102",
+      "video_id": "kLYsABip8tI",
+      "idx": 102,
+      "sent_ids": [
+        "kLYsABip8tI:s0242",
+        "kLYsABip8tI:s0243"
+      ],
+      "start_s": 1092.398,
+      "end_s": 1106.124,
+      "text": "If every failure is labeled proof that you are useless, the phrase can become a shortcut from small mistake to global judgment. If an experience is described more precisely, tired, unprepared, distracted, unfamiliar,",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.7596648122392211
+    },
+    {
+      "window_id": "kLYsABip8tI:j0103",
+      "video_id": "kLYsABip8tI",
+      "idx": 103,
+      "sent_ids": [
+        "kLYsABip8tI:s0244",
+        "kLYsABip8tI:s0245"
+      ],
+      "start_s": 1106.824,
+      "end_s": 1118.668,
+      "text": "The mind gains several possible roads, instead of one dramatic highway directly into personal doom. Recent research has proposed the term anendophagia for little or no experienced inner speech.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.7696968011126565
+    },
+    {
+      "window_id": "kLYsABip8tI:j0104",
+      "video_id": "kLYsABip8tI",
+      "idx": 104,
+      "sent_ids": [
+        "kLYsABip8tI:s0246"
+      ],
+      "start_s": 1119.508,
+      "end_s": 1129.631,
+      "text": "In one series of studies, adults who reported very low inner speech performed worse on certain verbal working memory and rhyme judgment tasks than people reporting high inner speech.",
+      "n_words": 29,
+      "n_sentences": 1,
+      "pos_pct": 0.7785173852573019
+    },
+    {
+      "window_id": "kLYsABip8tI:j0105",
+      "video_id": "kLYsABip8tI",
+      "idx": 105,
+      "sent_ids": [
+        "kLYsABip8tI:s0247",
+        "kLYsABip8tI:s0248"
+      ],
+      "start_s": 1130.431,
+      "end_s": 1141.574,
+      "text": "They did not perform worse on every cognitive task, suggesting that alternative strategies can support thinking where internal verbal rehearsal is less available. The interpretation remains contested.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.7861133518776078
+    },
+    {
+      "window_id": "kLYsABip8tI:j0106",
+      "video_id": "kLYsABip8tI",
+      "idx": 106,
+      "sent_ids": [
+        "kLYsABip8tI:s0249"
+      ],
+      "start_s": 1142.134,
+      "end_s": 1151.696,
+      "text": "Self-reports about inner experience are difficult to verify, and a later scientific commentary argued that low-reported inner speech does not prove a complete absence of it.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.7942517385257302
+    },
+    {
+      "window_id": "kLYsABip8tI:j0107",
+      "video_id": "kLYsABip8tI",
+      "idx": 107,
+      "sent_ids": [
+        "kLYsABip8tI:s0250"
+      ],
+      "start_s": 1152.276,
+      "end_s": 1159.478,
+      "text": "Someone may rarely notice inner speech, use it only under specific demands, or describe the experience differently from another person.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.8013045897079277
+    },
+    {
+      "window_id": "kLYsABip8tI:j0108",
+      "video_id": "kLYsABip8tI",
+      "idx": 108,
+      "sent_ids": [
+        "kLYsABip8tI:s0251",
+        "kLYsABip8tI:s0252",
+        "kLYsABip8tI:s0253"
+      ],
+      "start_s": 1160.358,
+      "end_s": 1172.284,
+      "text": "so claims that a precise percentage of humanity lives in total internal silence should be treated carefully. The important finding is variability. Human minds do not all present thought through the same interface.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.8069248956884562
+    },
+    {
+      "window_id": "kLYsABip8tI:j0109",
+      "video_id": "kLYsABip8tI",
+      "idx": 109,
+      "sent_ids": [
+        "kLYsABip8tI:s0254"
+      ],
+      "start_s": 1172.924,
+      "end_s": 1177.186,
+      "text": "For someone with constant internal narration, a mind without it can sound empty.",
+      "n_words": 13,
+      "n_sentences": 1,
+      "pos_pct": 0.815663421418637
+    },
+    {
+      "window_id": "kLYsABip8tI:j0110",
+      "video_id": "kLYsABip8tI",
+      "idx": 110,
+      "sent_ids": [
+        "kLYsABip8tI:s0255"
+      ],
+      "start_s": 1177.747,
+      "end_s": 1186.151,
+      "text": "For someone with sparse inner speech, a continuous verbal monologue can sound like sharing an office with a co-worker who has never discovered the mute button.",
+      "n_words": 26,
+      "n_sentences": 1,
+      "pos_pct": 0.8190173852573018
+    },
+    {
+      "window_id": "kLYsABip8tI:j0111",
+      "video_id": "kLYsABip8tI",
+      "idx": 111,
+      "sent_ids": [
+        "kLYsABip8tI:s0256",
+        "kLYsABip8tI:s0257",
+        "kLYsABip8tI:s0258"
+      ],
+      "start_s": 1187.231,
+      "end_s": 1198.903,
+      "text": "Neither experience establishes greater depth, intelligence, creativity, or self-awareness by itself. They are different cognitive habits and capacities. That brings us back to identity.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.8256126564673157
+    },
+    {
+      "window_id": "kLYsABip8tI:j0112",
+      "video_id": "kLYsABip8tI",
+      "idx": 112,
+      "sent_ids": [
+        "kLYsABip8tI:s0259",
+        "kLYsABip8tI:s0260"
+      ],
+      "start_s": 1200.005,
+      "end_s": 1210.951,
+      "text": "If the inner voice is not universal, not fully voluntary, not always accurate, and not the only form of thought, why does it feel so much like the self? Because it has unusual access.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.8344958275382477
+    },
+    {
+      "window_id": "kLYsABip8tI:j0113",
+      "video_id": "kLYsABip8tI",
+      "idx": 113,
+      "sent_ids": [
+        "kLYsABip8tI:s0261",
+        "kLYsABip8tI:s0262"
+      ],
+      "start_s": 1211.351,
+      "end_s": 1222.877,
+      "text": "Inner speech can refer to your past, imagine your future, use your name, evaluate your behavior, and maintain a continuous story across time. It links memories into explanations.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.8423859527121003
+    },
+    {
+      "window_id": "kLYsABip8tI:j0114",
+      "video_id": "kLYsABip8tI",
+      "idx": 114,
+      "sent_ids": [
+        "kLYsABip8tI:s0263",
+        "kLYsABip8tI:s0264"
+      ],
+      "start_s": 1223.257,
+      "end_s": 1233.719,
+      "text": "It tells you what kind of person you believe yourself to be. It can convert a changing body and thousands of disconnected experiences into something that feels like one character moving through one life.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.8506655076495132
+    },
+    {
+      "window_id": "kLYsABip8tI:j0115",
+      "video_id": "kLYsABip8tI",
+      "idx": 115,
+      "sent_ids": [
+        "kLYsABip8tI:s0265",
+        "kLYsABip8tI:s0266",
+        "kLYsABip8tI:s0267",
+        "kLYsABip8tI:s0268"
+      ],
+      "start_s": 1234.14,
+      "end_s": 1245.122,
+      "text": "The narrator creates continuity, but continuity is edited. It is also social. Your story about yourself depends partly on categories supplied by the people around you. Successful.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.8582336578581363
+    },
+    {
+      "window_id": "kLYsABip8tI:j0116",
+      "video_id": "kLYsABip8tI",
+      "idx": 116,
+      "sent_ids": [
+        "kLYsABip8tI:s0269",
+        "kLYsABip8tI:s0270",
+        "kLYsABip8tI:s0271",
+        "kLYsABip8tI:s0272"
+      ],
+      "start_s": 1245.482,
+      "end_s": 1248.643,
+      "text": "Irresponsible. Shy. Talented. Difficult.",
+      "n_words": 4,
+      "n_sentences": 4,
+      "pos_pct": 0.8661210013908206
+    },
+    {
+      "window_id": "kLYsABip8tI:j0117",
+      "video_id": "kLYsABip8tI",
+      "idx": 117,
+      "sent_ids": [
+        "kLYsABip8tI:s0273",
+        "kLYsABip8tI:s0274",
+        "kLYsABip8tI:s0275",
+        "kLYsABip8tI:s0276"
+      ],
+      "start_s": 1248.923,
+      "end_s": 1257.066,
+      "text": "Dependable. Strange. Some labels fit observed patterns. Others were assigned during one period and remained long after the evidence changed.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.8685139082058414
+    },
+    {
+      "window_id": "kLYsABip8tI:j0118",
+      "video_id": "kLYsABip8tI",
+      "idx": 118,
+      "sent_ids": [
+        "kLYsABip8tI:s0277",
+        "kLYsABip8tI:s0278",
+        "kLYsABip8tI:s0279",
+        "kLYsABip8tI:s0280"
+      ],
+      "start_s": 1257.527,
+      "end_s": 1272.217,
+      "text": "Inner speech can preserve an outdated identity because repetition feels like confirmation. The narrator rarely begins each morning by reviewing the entire case from zero. It loads the previous save. Memory is selective and reconstructive.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.8744972183588318
+    },
+    {
+      "window_id": "kLYsABip8tI:j0119",
+      "video_id": "kLYsABip8tI",
+      "idx": 119,
+      "sent_ids": [
+        "kLYsABip8tI:s0281",
+        "kLYsABip8tI:s0282"
+      ],
+      "start_s": 1272.678,
+      "end_s": 1281.688,
+      "text": "The voice cannot narrate what was never encoded, what has been forgotten, or what remains outside awareness. It emphasizes some events and ignores others.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.8850333796940195
+    },
+    {
+      "window_id": "kLYsABip8tI:j0120",
+      "video_id": "kLYsABip8tI",
+      "idx": 120,
+      "sent_ids": [
+        "kLYsABip8tI:s0283",
+        "kLYsABip8tI:s0284",
+        "kLYsABip8tI:s0285"
+      ],
+      "start_s": 1282.449,
+      "end_s": 1294.18,
+      "text": "It changes explanations as new information arrives, often without announcing that the official story has been revised. Yesterday, you avoided the task because you were tired. Today, apparently, it was a strategic decision.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.8918282336578582
+    },
+    {
+      "window_id": "kLYsABip8tI:j0121",
+      "video_id": "kLYsABip8tI",
+      "idx": 121,
+      "sent_ids": [
+        "kLYsABip8tI:s0286",
+        "kLYsABip8tI:s0287"
+      ],
+      "start_s": 1294.64,
+      "end_s": 1304.467,
+      "text": "The inner voice is therefore part witness, part planner, part critic, and part autobiographer working from incomplete notes. It is not lying every time it gets something wrong.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.9003059805285119
+    },
+    {
+      "window_id": "kLYsABip8tI:j0122",
+      "video_id": "kLYsABip8tI",
+      "idx": 122,
+      "sent_ids": [
+        "kLYsABip8tI:s0288",
+        "kLYsABip8tI:s0289",
+        "kLYsABip8tI:s0290"
+      ],
+      "start_s": 1304.808,
+      "end_s": 1315.776,
+      "text": "It is constructing the best available model from a system too complex to inspect directly. That model can influence the system in return. Repeated inner speech changes attention and behavior.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.9073769123783032
+    },
+    {
+      "window_id": "kLYsABip8tI:j0123",
+      "video_id": "kLYsABip8tI",
+      "idx": 123,
+      "sent_ids": [
+        "kLYsABip8tI:s0291",
+        "kLYsABip8tI:s0292",
+        "kLYsABip8tI:s0293",
+        "kLYsABip8tI:s0294"
+      ],
+      "start_s": 1316.556,
+      "end_s": 1329.205,
+      "text": "Rehearsing a rule can strengthen control. Naming an emotion can alter how it is processed. Reframing an event can change its meaning. Practicing a harsh interpretation makes that interpretation easier to retrieve next time.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.9155465924895688
+    },
+    {
+      "window_id": "kLYsABip8tI:j0124",
+      "video_id": "kLYsABip8tI",
+      "idx": 124,
+      "sent_ids": [
+        "kLYsABip8tI:s0295",
+        "kLYsABip8tI:s0296"
+      ],
+      "start_s": 1330.226,
+      "end_s": 1337.01,
+      "text": "Practicing a more accurate one can create another available path. The voice is shaped by you while helping shape what you become.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.9250528511821976
+    },
+    {
+      "window_id": "kLYsABip8tI:j0125",
+      "video_id": "kLYsABip8tI",
+      "idx": 125,
+      "sent_ids": [
+        "kLYsABip8tI:s0297",
+        "kLYsABip8tI:s0298",
+        "kLYsABip8tI:s0299"
+      ],
+      "start_s": 1337.71,
+      "end_s": 1348.372,
+      "text": "This is why it is neither an independent stranger nor the ruler of the mind. It is a loop. The brain generates language from memory, perception, emotion, habit, and current goals.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.9302573018080668
+    },
+    {
+      "window_id": "kLYsABip8tI:j0126",
+      "video_id": "kLYsABip8tI",
+      "idx": 126,
+      "sent_ids": [
+        "kLYsABip8tI:s0300",
+        "kLYsABip8tI:s0301",
+        "kLYsABip8tI:s0302"
+      ],
+      "start_s": 1349.112,
+      "end_s": 1359.435,
+      "text": "That language then becomes new input. You hear the internal sentence, react to it, judge it, repeat it, reject it, or build another sentence in response. The thinker produces the voice.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.9381863699582754
+    },
+    {
+      "window_id": "kLYsABip8tI:j0127",
+      "video_id": "kLYsABip8tI",
+      "idx": 127,
+      "sent_ids": [
+        "kLYsABip8tI:s0303",
+        "kLYsABip8tI:s0304",
+        "kLYsABip8tI:s0305"
+      ],
+      "start_s": 1360.175,
+      "end_s": 1371.078,
+      "text": "and the voice modifies the thinker. There is no need to place a smaller person inside the brain listening to it. The listening, evaluating, and responding are additional processes performed by the same larger system.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.9458796940194715
+    },
+    {
+      "window_id": "kLYsABip8tI:j0128",
+      "video_id": "kLYsABip8tI",
+      "idx": 128,
+      "sent_ids": [
+        "kLYsABip8tI:s0306",
+        "kLYsABip8tI:s0307"
+      ],
+      "start_s": 1371.778,
+      "end_s": 1380.281,
+      "text": "The feeling of observing your own thought does not require a separate observer hidden behind the eyes. It requires the brain to represent one part of its activity to another.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.9539485396383867
+    },
+    {
+      "window_id": "kLYsABip8tI:j0129",
+      "video_id": "kLYsABip8tI",
+      "idx": 129,
+      "sent_ids": [
+        "kLYsABip8tI:s0308",
+        "kLYsABip8tI:s0309"
+      ],
+      "start_s": 1380.901,
+      "end_s": 1386.443,
+      "text": "So is your inner voice really you? Yes, but not in the way the voice usually claims.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.9602927677329625
+    },
+    {
+      "window_id": "kLYsABip8tI:j0130",
+      "video_id": "kLYsABip8tI",
+      "idx": 130,
+      "sent_ids": [
+        "kLYsABip8tI:s0310",
+        "kLYsABip8tI:s0311"
+      ],
+      "start_s": 1386.884,
+      "end_s": 1394.107,
+      "text": "It is generated by your brain, shaped by your history, influenced by your relationships, and used in your decisions. It belongs to you.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.9644534075104312
+    },
+    {
+      "window_id": "kLYsABip8tI:j0131",
+      "video_id": "kLYsABip8tI",
+      "idx": 131,
+      "sent_ids": [
+        "kLYsABip8tI:s0312",
+        "kLYsABip8tI:s0313"
+      ],
+      "start_s": 1394.847,
+      "end_s": 1404.992,
+      "text": "Even when it borrows another person's tone or produces a thought you dislike, the event is occurring within your cognitive system. But ownership is not endorsement, and presence is not totality.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.9699909596662031
+    },
+    {
+      "window_id": "kLYsABip8tI:j0132",
+      "video_id": "kLYsABip8tI",
+      "idx": 132,
+      "sent_ids": [
+        "kLYsABip8tI:s0314"
+      ],
+      "start_s": 1405.552,
+      "end_s": 1419.882,
+      "text": "You are also the nonverbal prediction, the remembered image, the emotional response, the practiced skill, the bodily signal, the impulse that never becomes action, and the capacity to examine a sentence instead of obeying it.",
+      "n_words": 35,
+      "n_sentences": 1,
+      "pos_pct": 0.9774353268428372
+    },
+    {
+      "window_id": "kLYsABip8tI:j0133",
+      "video_id": "kLYsABip8tI",
+      "idx": 133,
+      "sent_ids": [
+        "kLYsABip8tI:s0315",
+        "kLYsABip8tI:s0316",
+        "kLYsABip8tI:s0317",
+        "kLYsABip8tI:s0318"
+      ],
+      "start_s": 1420.262,
+      "end_s": 1434.978,
+      "text": "The voice can advise. It can warn, it can rehearse, accuse, invent, distort, comfort, and explain. What it cannot do is contain the entire mind that produced it. The inner voice is part of you.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.9876648122392211
+    },
+    {
+      "window_id": "kLYsABip8tI:j0134",
+      "video_id": "kLYsABip8tI",
+      "idx": 134,
+      "sent_ids": [
+        "kLYsABip8tI:s0319"
+      ],
+      "start_s": 1435.319,
+      "end_s": 1437.084,
+      "text": "The part that answers is too.",
+      "n_words": 6,
+      "n_sentences": 1,
+      "pos_pct": 0.9981356050069541
+    }
+  ]
+}

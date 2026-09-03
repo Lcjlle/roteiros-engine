@@ -1,0 +1,2347 @@
+{
+  "video_id": "yKqe_ey3QOs",
+  "duration_s": 1206.0,
+  "generated_at": "2026-09-03T11:57:18.362675+00:00",
+  "sentences": [
+    {
+      "sent_id": "yKqe_ey3QOs:s0000",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 0,
+      "start_s": 0.091,
+      "end_s": 2.492,
+      "text": "It's roughly 170,000 years ago.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0001",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 1,
+      "start_s": 3.372,
+      "end_s": 6.594,
+      "text": "You're a human, barely recognizable as one, but still.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0002",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 2,
+      "start_s": 7.334,
+      "end_s": 14.677,
+      "text": "You wake up, stretch, look around at the African savannah, and at absolutely no point do you think you know what would really complete this morning.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0003",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 3,
+      "start_s": 15.738,
+      "end_s": 16.118,
+      "text": "Pants.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0004",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 4,
+      "start_s": 17.408,
+      "end_s": 18.989,
+      "text": "And yet, here we are.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0005",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 5,
+      "start_s": 19.449,
+      "end_s": 22.15,
+      "text": "Billions of people every single morning putting on pants.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0006",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 6,
+      "start_s": 22.71,
+      "end_s": 23.211,
+      "text": "Or skirts.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0007",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 7,
+      "start_s": 23.851,
+      "end_s": 31.534,
+      "text": "Or whatever you call that thing that's technically pajamas but you've been wearing for three days straight and you're calling it loungewear now because that sounds intentional.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0008",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 8,
+      "start_s": 31.974,
+      "end_s": 36.616,
+      "text": "Clothes are so baked into human existence that we literally arrest people for not wearing them.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0009",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 9,
+      "start_s": 36.996,
+      "end_s": 38.137,
+      "text": "Think about that for a second.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0010",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 10,
+      "start_s": 38.477,
+      "end_s": 40.699,
+      "text": "the state will intervene if you're too naked.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0011",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 11,
+      "start_s": 41.079,
+      "end_s": 46.042,
+      "text": "We built an entire legal system around the concept of, please, put something on.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0012",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 12,
+      "start_s": 46.523,
+      "end_s": 49.245,
+      "text": "We have laws about nudity as a species.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0013",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 13,
+      "start_s": 49.585,
+      "end_s": 50.806,
+      "text": "That is where we are.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0014",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 14,
+      "start_s": 51.126,
+      "end_s": 51.867,
+      "text": "But why?",
+      "n_words": 2
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0015",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 15,
+      "start_s": 52.127,
+      "end_s": 53.248,
+      "text": "When did this start?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0016",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 16,
+      "start_s": 53.548,
+      "end_s": 59.472,
+      "text": "And more importantly, why did we do it when basically every other animal on the planet just didn't?",
+      "n_words": 18
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0017",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 17,
+      "start_s": 60.453,
+      "end_s": 61.493,
+      "text": "Dogs don't wear clothes.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0018",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 18,
+      "start_s": 62.174,
+      "end_s": 63.595,
+      "text": "Wolves don't wear clothes.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0019",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 19,
+      "start_s": 65.138,
+      "end_s": 72.0,
+      "text": "The elephant, which is objectively smarter than most people you went to high school with, has never once thought, I need a jacket for this.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0020",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 20,
+      "start_s": 72.581,
+      "end_s": 76.102,
+      "text": "The short answer is, we have no idea exactly when it happened.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0021",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 21,
+      "start_s": 76.382,
+      "end_s": 84.025,
+      "text": "The long answer is way more interesting, and slightly weird, and it involves lice, which, spoiler, is not as gross as it sounds.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0022",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 22,
+      "start_s": 84.845,
+      "end_s": 85.605,
+      "text": "Actually, it is.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0023",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 23,
+      "start_s": 86.406,
+      "end_s": 88.046,
+      "text": "It's exactly as gross as it sounds.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0024",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 24,
+      "start_s": 88.647,
+      "end_s": 97.43,
+      "text": "But stick with it, because the lice thing is genuinely one of the most bizarre and fascinating pieces of evolutionary detective work in all of science.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0025",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 25,
+      "start_s": 98.35,
+      "end_s": 99.611,
+      "text": "Let's go back to the beginning.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0026",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 26,
+      "start_s": 100.731,
+      "end_s": 102.272,
+      "text": "The naked ape problem.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0027",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 27,
+      "start_s": 103.305,
+      "end_s": 104.926,
+      "text": "Here's something nobody talks about enough.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0028",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 28,
+      "start_s": 105.527,
+      "end_s": 108.67,
+      "text": "Humans are basically the only large mammals on earth that are nearly hairless.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0029",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 29,
+      "start_s": 109.11,
+      "end_s": 111.672,
+      "text": "Genuinely stop and think about that zoologically for a second.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0030",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 30,
+      "start_s": 112.253,
+      "end_s": 112.713,
+      "text": "Gorillas?",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0031",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 31,
+      "start_s": 113.434,
+      "end_s": 113.794,
+      "text": "Covered.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0032",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 32,
+      "start_s": 114.595,
+      "end_s": 115.375,
+      "text": "Chimpanzees?",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0033",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 33,
+      "start_s": 116.356,
+      "end_s": 116.736,
+      "text": "Covered.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0034",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 34,
+      "start_s": 117.397,
+      "end_s": 126.424,
+      "text": "Bears, lions, wolves, horses, elephants, hippos, all of them across wildly different environments and climates are walking around in full coats.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0035",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 35,
+      "start_s": 127.165,
+      "end_s": 127.866,
+      "text": "And then there's us.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0036",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 36,
+      "start_s": 128.866,
+      "end_s": 141.633,
+      "text": "Standing in the middle of all this biodiversity just smooth, a bit patchy, weirdly pink in some places, sporting an evolutionary look that says, I used to have fur, but I made some choices.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0037",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 37,
+      "start_s": 143.293,
+      "end_s": 146.374,
+      "text": "Scientists have a few theories for why we lost our fur in the first place.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0038",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 38,
+      "start_s": 147.315,
+      "end_s": 150.076,
+      "text": "The most popular one is the thermoregulation argument.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0039",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 39,
+      "start_s": 150.616,
+      "end_s": 159.779,
+      "text": "Basically, as our ancestors moved from forests to open grasslands and started running long distances to hunt, being covered in thick fur became a massive liability.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0040",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 40,
+      "start_s": 160.339,
+      "end_s": 172.666,
+      "text": "you'd overheat, you'd slow down, your core temperature would spike, and you'd collapse before catching the thing you were chasing, and then you'd die hungry, which from an evolutionary perspective is the worst possible outcome.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0041",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 41,
+      "start_s": 173.286,
+      "end_s": 180.531,
+      "text": "So over hundreds of thousands of years, we gradually shed our fur and developed something better, an absolutely insane number of sweat glands.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0042",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 42,
+      "start_s": 181.311,
+      "end_s": 184.553,
+      "text": "Humans have approximately 2 to 4 million sweat glands on their bodies.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0043",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 43,
+      "start_s": 185.173,
+      "end_s": 187.655,
+      "text": "That is more than almost any other animal on the planet.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0044",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 44,
+      "start_s": 188.375,
+      "end_s": 191.036,
+      "text": "We are, without exaggeration, elite sweating machines.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0045",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 45,
+      "start_s": 191.596,
+      "end_s": 194.516,
+      "text": "Professional grade, world-class moisture emitters.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0046",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 46,
+      "start_s": 195.517,
+      "end_s": 198.797,
+      "text": "If there were Olympics for sweating, we would dominate every category.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0047",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 47,
+      "start_s": 199.497,
+      "end_s": 200.518,
+      "text": "This is great in the summer.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0048",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 48,
+      "start_s": 200.718,
+      "end_s": 206.639,
+      "text": "It is considerably less great when it's 40 below zero and you're trying to survive in Central Asia with nothing but your wits and a rock.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0049",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 49,
+      "start_s": 207.119,
+      "end_s": 208.979,
+      "text": "And that's where clothes come in, eventually.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0050",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 50,
+      "start_s": 209.119,
+      "end_s": 211.5,
+      "text": "Warmth was probably not the first reason.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0051",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 51,
+      "start_s": 212.392,
+      "end_s": 212.832,
+      "text": "Probably.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0052",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 52,
+      "start_s": 213.413,
+      "end_s": 214.533,
+      "text": "Here's the conventional story.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0053",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 53,
+      "start_s": 215.114,
+      "end_s": 221.777,
+      "text": "Humans moved out of Africa, hit colder climates, got cold, wrapped themselves in animal skins, and that's that.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0054",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 54,
+      "start_s": 222.077,
+      "end_s": 222.378,
+      "text": "Simple.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0055",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 55,
+      "start_s": 222.538,
+      "end_s": 222.818,
+      "text": "Clean.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0056",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 56,
+      "start_s": 223.018,
+      "end_s": 223.438,
+      "text": "Logical.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0057",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 57,
+      "start_s": 223.598,
+      "end_s": 224.939,
+      "text": "A five-year-old could figure it out.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0058",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 58,
+      "start_s": 225.519,
+      "end_s": 231.023,
+      "text": "Except the timeline doesn't quite work, and once you notice that, the whole tidy narrative starts to unravel.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0059",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 59,
+      "start_s": 231.963,
+      "end_s": 241.992,
+      "text": "Genetic evidence, you know, which we'll get to in about 30 seconds, suggests that humans started wearing clothes somewhere around 100,000 to 170,000 years ago.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0060",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 60,
+      "start_s": 242.832,
+      "end_s": 250.379,
+      "text": "The problem is that modern humans didn't really start migrating out of Africa in significant numbers until around 70,000 years ago.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0061",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 61,
+      "start_s": 250.879,
+      "end_s": 259.327,
+      "text": "So if clothes were purely a response to cold weather, why are they appearing tens of thousands of years before humans actually went anywhere cold?",
+      "n_words": 25
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0062",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 62,
+      "start_s": 259.967,
+      "end_s": 261.689,
+      "text": "Something else must have been going on earlier.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0063",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 63,
+      "start_s": 262.169,
+      "end_s": 262.95,
+      "text": "Something social.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0064",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 64,
+      "start_s": 263.37,
+      "end_s": 267.134,
+      "text": "Something that has more to do with who we are as a species than with the temperature outside.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0065",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 65,
+      "start_s": 267.554,
+      "end_s": 274.861,
+      "text": "But before we get into that, we need to talk about the most unlikely piece of evidence in the entire clothing origin story.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0066",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 66,
+      "start_s": 275.301,
+      "end_s": 276.903,
+      "text": "And yes, it's the lice.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0067",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 67,
+      "start_s": 277.603,
+      "end_s": 278.705,
+      "text": "We're doing the lice now.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0068",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 68,
+      "start_s": 279.527,
+      "end_s": 293.544,
+      "text": "The louse that changed everything researchers at the University of Florida were doing what geneticists do, which apparently involves staring at very small things for extremely long periods of time, and occasionally having a breakthrough that changes everything.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0069",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 69,
+      "start_s": 294.466,
+      "end_s": 297.469,
+      "text": "And they decided to map the evolutionary history of human lice.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0070",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 70,
+      "start_s": 298.475,
+      "end_s": 301.597,
+      "text": "Now, here's the crucial piece of biology you need to understand.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0071",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 71,
+      "start_s": 302.358,
+      "end_s": 307.202,
+      "text": "Humans have two main types of lice, head lice and body lice.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0072",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 72,
+      "start_s": 307.922,
+      "end_s": 309.364,
+      "text": "Head lice live in your hair.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0073",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 73,
+      "start_s": 310.745,
+      "end_s": 316.389,
+      "text": "Body lice live specifically in clothing, in the seams, in the folds, in the fabric.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0074",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 74,
+      "start_s": 317.17,
+      "end_s": 323.695,
+      "text": "They are two genetically distinct populations, and body lice evolved from head lice at some specific moment in history.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0075",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 75,
+      "start_s": 324.615,
+      "end_s": 326.297,
+      "text": "Here's why that matters enormously.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0076",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 76,
+      "start_s": 326.917,
+      "end_s": 330.139,
+      "text": "Body lice can only survive if there are clothes to live in.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0077",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 77,
+      "start_s": 330.659,
+      "end_s": 333.141,
+      "text": "They cannot survive on bare human skin.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0078",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 78,
+      "start_s": 333.741,
+      "end_s": 334.802,
+      "text": "They need fabric.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0079",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 79,
+      "start_s": 335.142,
+      "end_s": 337.764,
+      "text": "They need the warmth and shelter that clothing provides.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0080",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 80,
+      "start_s": 338.364,
+      "end_s": 351.072,
+      "text": "So the moment body lice genetically diverged from head lice, the moment that evolutionary split happened, is essentially the moment humans started wearing clothes consistently enough to create a new ecological niche for a parasite.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0081",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 81,
+      "start_s": 352.132,
+      "end_s": 357.856,
+      "text": "When researchers ran the numbers, they found that body lice diverged from head lice somewhere between 83,000 and 170,000 years ago.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0082",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 82,
+      "start_s": 357.916,
+      "end_s": 358.977,
+      "text": "Let that sit for a moment.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0083",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 83,
+      "start_s": 363.987,
+      "end_s": 377.278,
+      "text": "A parasitic insect, one of the most universally hated creatures in human history, the thing that causes mass panic in elementary schools and ruins camping trips, accidentally preserved the earliest evidence of human fashion.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0084",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 84,
+      "start_s": 377.999,
+      "end_s": 380.2,
+      "text": "The lice know when we got dressed before we do.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0085",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 85,
+      "start_s": 380.761,
+      "end_s": 381.361,
+      "text": "They were there.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0086",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 86,
+      "start_s": 381.922,
+      "end_s": 382.723,
+      "text": "They adapted.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0087",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 87,
+      "start_s": 383.223,
+      "end_s": 383.904,
+      "text": "They moved in.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0088",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 88,
+      "start_s": 384.404,
+      "end_s": 388.067,
+      "text": "That is either beautiful or deeply, deeply horrifying.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0089",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 89,
+      "start_s": 388.447,
+      "end_s": 390.109,
+      "text": "Possibly both simultaneously?",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0090",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 90,
+      "start_s": 390.729,
+      "end_s": 391.39,
+      "text": "Probably both.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0091",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 91,
+      "start_s": 392.404,
+      "end_s": 395.065,
+      "text": "So, what were clothes actually for first?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0092",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 92,
+      "start_s": 396.065,
+      "end_s": 404.147,
+      "text": "Okay, so we've established that clothing predates the migration out of Africa by a significant margin, which means warmth cannot be the original driver.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0093",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 93,
+      "start_s": 404.487,
+      "end_s": 405.668,
+      "text": "So, what was?",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0094",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 94,
+      "start_s": 406.668,
+      "end_s": 407.468,
+      "text": "Theory number one.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0095",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 95,
+      "start_s": 408.229,
+      "end_s": 409.749,
+      "text": "Basic physical protection.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0096",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 96,
+      "start_s": 410.309,
+      "end_s": 412.35,
+      "text": "Not from cold, but from sun.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0097",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 97,
+      "start_s": 413.07,
+      "end_s": 416.231,
+      "text": "Insects, sharp vegetation, and general abrasion.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0098",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 98,
+      "start_s": 417.051,
+      "end_s": 432.68,
+      "text": "If you're spending your days walking through tall grass and thorny scrubland, tracking animals across rocky terrain, a basic wrap or loincloth made from animal hide creates a meaningful barrier between your skin and things that want to scratch, bite, or burn it.",
+      "n_words": 43
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0099",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 99,
+      "start_s": 433.301,
+      "end_s": 442.907,
+      "text": "It's not glamorous, it's not philosophically interesting, but it probably kept early humans significantly more comfortable and reduced infections from small cuts and wounds.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0100",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 100,
+      "start_s": 443.873,
+      "end_s": 445.874,
+      "text": "Sometimes the boring answer is the right one.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0101",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 101,
+      "start_s": 446.594,
+      "end_s": 449.435,
+      "text": "Theory number two is where it gets genuinely interesting.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0102",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 102,
+      "start_s": 450.035,
+      "end_s": 450.995,
+      "text": "Social signaling.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0103",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 103,
+      "start_s": 451.555,
+      "end_s": 455.517,
+      "text": "Humans are, at our core, profoundly social animals.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0104",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 104,
+      "start_s": 456.417,
+      "end_s": 459.698,
+      "text": "We are obsessed with hierarchy in a way that goes bone deep.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0105",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 105,
+      "start_s": 460.218,
+      "end_s": 471.122,
+      "text": "We are constantly, compulsively communicating who we are, what group we belong to, what status we hold, whether you should be scared of us, or attracted to us, or deferential to us.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0106",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 106,
+      "start_s": 471.962,
+      "end_s": 483.368,
+      "text": "We do this with our posture, our facial expressions, our voices, our hairstyles, our tattoos, and, quite possibly from very early on, with what we drape over our bodies.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0107",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 107,
+      "start_s": 484.028,
+      "end_s": 489.951,
+      "text": "There's evidence that our ancestors were using pigments like ochre for body decoration as far back as 200,000 years ago.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0108",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 108,
+      "start_s": 490.532,
+      "end_s": 499.857,
+      "text": "That's before the lice evidence for clothing, so the impulse to decorate the body to signal something visually about yourself to the group, that may actually be older than clothing itself.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0109",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 109,
+      "start_s": 500.737,
+      "end_s": 503.36,
+      "text": "We were painting ourselves before we were dressing ourselves.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0110",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 110,
+      "start_s": 503.88,
+      "end_s": 516.692,
+      "text": "The jump from decorating your skin to wearing a particular kind of hide in a particular way isn't a large cognitive leap, and once the hide is on, you start thinking about which hide, and how it's worn, and what that communicates.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0111",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 111,
+      "start_s": 517.293,
+      "end_s": 518.994,
+      "text": "Is this the hide of something powerful?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0112",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 112,
+      "start_s": 519.655,
+      "end_s": 520.797,
+      "text": "Did I kill it myself?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0113",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 113,
+      "start_s": 521.017,
+      "end_s": 522.96,
+      "text": "Does wearing it say something about me?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0114",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 114,
+      "start_s": 523.36,
+      "end_s": 525.564,
+      "text": "Welcome to the very first fashion industry.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0115",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 115,
+      "start_s": 526.044,
+      "end_s": 526.725,
+      "text": "Population.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0116",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 116,
+      "start_s": 527.006,
+      "end_s": 532.333,
+      "text": "A small band of homo sapiens on the African savannah, arguing about who gets to wear the leopard skin.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0117",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 117,
+      "start_s": 532.574,
+      "end_s": 532.974,
+      "text": "Needles.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0118",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 118,
+      "start_s": 533.916,
+      "end_s": 534.156,
+      "text": "Alls.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0119",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 119,
+      "start_s": 534.937,
+      "end_s": 536.258,
+      "text": "and the invention of tailoring.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0120",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 120,
+      "start_s": 536.658,
+      "end_s": 540.1,
+      "text": "For most of early human history, clothing probably looked rough.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0121",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 121,
+      "start_s": 540.881,
+      "end_s": 547.965,
+      "text": "A skin draped over the shoulders held in place with a cord made of twisted sinew, maybe crudely cut along the edges with a stone flake.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0122",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 122,
+      "start_s": 548.525,
+      "end_s": 548.985,
+      "text": "Functional.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0123",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 123,
+      "start_s": 549.686,
+      "end_s": 550.266,
+      "text": "Ungainly.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0124",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 124,
+      "start_s": 550.886,
+      "end_s": 553.188,
+      "text": "The prehistoric equivalent of wearing a bin bag.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0125",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 125,
+      "start_s": 553.668,
+      "end_s": 556.03,
+      "text": "gets the job done, but nobody's winning any awards.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0126",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 126,
+      "start_s": 556.631,
+      "end_s": 561.816,
+      "text": "But then, around 50,000 years ago, something changes in the archaeological record.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0127",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 127,
+      "start_s": 562.256,
+      "end_s": 563.778,
+      "text": "Researchers start finding bone needles.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0128",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 128,
+      "start_s": 564.218,
+      "end_s": 573.347,
+      "text": "Not just pointed tools for punching holes, actual needles with tiny eyes bored through them, clearly designed for threading sinew or fiber and stitching material together with precision.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0129",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 129,
+      "start_s": 574.228,
+      "end_s": 579.931,
+      "text": "fitted clothing, sewn seams, garments shaped to the body rather than just thrown over it.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0130",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 130,
+      "start_s": 580.792,
+      "end_s": 587.835,
+      "text": "The oldest confirmed needle with a proper eye was found in Denisova Cave in Siberia, and dates back approximately 50,000 years.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0131",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 131,
+      "start_s": 588.836,
+      "end_s": 594.399,
+      "text": "It was made from the hollow bone of a bird, shaped and polished to a fineness that is genuinely extraordinary.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0132",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 132,
+      "start_s": 595.6,
+      "end_s": 599.241,
+      "text": "This object represents a cognitive leap that is difficult to overstate.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0133",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 133,
+      "start_s": 600.102,
+      "end_s": 601.543,
+      "text": "Someone looked at a sliver of bone.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0134",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 134,
+      "start_s": 602.41,
+      "end_s": 614.215,
+      "text": "envisioned a tool that didn't yet exist, figured out how to bore a clean hole through the narrow end without splitting it, and used the finished product to join two pieces of material with a controlled, repeatable stitch.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0135",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 135,
+      "start_s": 614.815,
+      "end_s": 616.316,
+      "text": "That is not survival instinct.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0136",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 136,
+      "start_s": 616.676,
+      "end_s": 617.516,
+      "text": "That is engineering.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0137",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 137,
+      "start_s": 618.137,
+      "end_s": 619.097,
+      "text": "That is design thinking.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0138",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 138,
+      "start_s": 619.657,
+      "end_s": 624.119,
+      "text": "That is someone solving a problem through imagination and craft rather than brute force.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0139",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 139,
+      "start_s": 624.599,
+      "end_s": 628.241,
+      "text": "And that needle matters more than almost any other object from that period.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0140",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 140,
+      "start_s": 628.421,
+      "end_s": 639.347,
+      "text": "Because you can live without pottery, you can live without cave paintings, in Siberia, 50,000 years ago, in the depths of a glacial winter, without properly fitted clothing that seals heat against the body?",
+      "n_words": 34
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0141",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 141,
+      "start_s": 640.248,
+      "end_s": 641.749,
+      "text": "You absolutely cannot.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0142",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 142,
+      "start_s": 642.109,
+      "end_s": 644.31,
+      "text": "The Neanderthals were doing it, too.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0143",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 143,
+      "start_s": 644.69,
+      "end_s": 652.255,
+      "text": "Here's something that often gets dropped from the clothing origin story, mostly because it complicates the neat modern humans invented everything narrative.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0144",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 144,
+      "start_s": 652.695,
+      "end_s": 657.518,
+      "text": "Neanderthals were also making and wearing clothes, and they were doing it well before they ever encountered us.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0145",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 145,
+      "start_s": 658.787,
+      "end_s": 675.058,
+      "text": "We've found substantial evidence of Neanderthals systematically processing animal hides, scraping bones in patterns consistent with hide preparation, using specific stone tools that were clearly designed for working leather, and managing carcasses in ways that suggest they were after the skin as much as the meat.",
+      "n_words": 46
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0146",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 146,
+      "start_s": 675.198,
+      "end_s": 689.646,
+      "text": "There's also genetic and anatomical evidence suggesting Neanderthals had physiological adaptations to cold climates, stockier bodies, shorter limbs, different fat distribution, which tells us they were dealing with serious cold for a very long time.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0147",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 147,
+      "start_s": 690.306,
+      "end_s": 692.727,
+      "text": "Clothes would have been essential, not optional.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0148",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 148,
+      "start_s": 693.247,
+      "end_s": 702.03,
+      "text": "And then there are the Denisovans, the mysterious third human lineage we only discovered in 2010 from a single finger bone found in that same Siberian cave.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0149",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 149,
+      "start_s": 702.771,
+      "end_s": 712.194,
+      "text": "In the same archaeological layers as the needle, researchers found pierced and polished ornaments that suggest symbolic thinking, decoration, and possibly garment embellishment.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0150",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 150,
+      "start_s": 712.994,
+      "end_s": 716.999,
+      "text": "A people we barely know existed were already thinking about what they were wearing and how it looked.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0151",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 151,
+      "start_s": 717.78,
+      "end_s": 720.724,
+      "text": "So the impulse to clothe the body wasn't exclusive to our lineage.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0152",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 152,
+      "start_s": 721.384,
+      "end_s": 726.591,
+      "text": "Multiple human species in different environments arrived at similar solutions through overlapping reasoning.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0153",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 153,
+      "start_s": 727.372,
+      "end_s": 729.614,
+      "text": "Which raises a genuinely unsettling question.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0154",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 154,
+      "start_s": 730.335,
+      "end_s": 735.202,
+      "text": "Is clothing a human thing, or is it a smart bipedal primate living in a harsh environment thing?",
+      "n_words": 18
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0155",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 155,
+      "start_s": 735.723,
+      "end_s": 736.564,
+      "text": "Is it inevitable?",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0156",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 156,
+      "start_s": 737.225,
+      "end_s": 744.975,
+      "text": "Would any sufficiently intelligent creature, cold enough and social enough, eventually figure out that wrapping yourself in something is just obviously correct?",
+      "n_words": 22
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0157",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 157,
+      "start_s": 746.084,
+      "end_s": 750.728,
+      "text": "We don't know, but the convergence across species is very hard to dismiss.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0158",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 158,
+      "start_s": 750.948,
+      "end_s": 754.711,
+      "text": "Let's take a step back and talk about the truly strange thing here.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0159",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 159,
+      "start_s": 755.111,
+      "end_s": 760.115,
+      "text": "The thing that separates human clothing from every other animal's relationship with shelter or protection.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0160",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 160,
+      "start_s": 760.535,
+      "end_s": 769.943,
+      "text": "If clothes were purely practical, every culture across history would converge on the most thermally efficient solution for their climate and just stay there forever.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0161",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 161,
+      "start_s": 770.643,
+      "end_s": 774.145,
+      "text": "thick hides in the Arctic, light plant fiber in the tropics.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0162",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 162,
+      "start_s": 774.585,
+      "end_s": 778.086,
+      "text": "Same shapes, same function, total standardization.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0163",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 163,
+      "start_s": 778.907,
+      "end_s": 779.127,
+      "text": "Done.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0164",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 164,
+      "start_s": 780.047,
+      "end_s": 782.148,
+      "text": "That is categorically not what happened.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0165",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 165,
+      "start_s": 782.649,
+      "end_s": 787.391,
+      "text": "What happened is that humans immediately and universally made clothing mean something.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0166",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 166,
+      "start_s": 787.771,
+      "end_s": 796.155,
+      "text": "In every culture we have records of, going back to the earliest archaeological evidence, clothing carries symbolic weight that goes far beyond its physical function.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0167",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 167,
+      "start_s": 797.075,
+      "end_s": 798.936,
+      "text": "Priests wore different things than warriors.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0168",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 168,
+      "start_s": 799.456,
+      "end_s": 801.777,
+      "text": "Rulers wore things nobody else was allowed to wear.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0169",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 169,
+      "start_s": 802.437,
+      "end_s": 807.119,
+      "text": "The dead were buried in specific garments suited to their status and the journey ahead of them.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0170",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 170,
+      "start_s": 807.84,
+      "end_s": 811.841,
+      "text": "Ceremonies required specific dress that would be absurd in any other context.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0171",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 171,
+      "start_s": 812.422,
+      "end_s": 815.603,
+      "text": "Some of the oldest textile fragments ever found weren't just pieces.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0172",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 172,
+      "start_s": 816.123,
+      "end_s": 816.904,
+      "text": "Of fabric.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0173",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 173,
+      "start_s": 817.804,
+      "end_s": 819.605,
+      "text": "They were dyed in multiple colors.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0174",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 174,
+      "start_s": 820.853,
+      "end_s": 829.652,
+      "text": "Someone, tens of thousands of years ago, looked at a perfectly functional piece of woven material and thought, this needs to be a different color.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0175",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 175,
+      "start_s": 830.881,
+      "end_s": 834.564,
+      "text": "Not because it would keep them warmer, but because it would mean something different.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0176",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 176,
+      "start_s": 835.124,
+      "end_s": 836.265,
+      "text": "Because it would say something.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0177",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 177,
+      "start_s": 836.685,
+      "end_s": 839.147,
+      "text": "This is the fundamental weirdness of human clothing.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0178",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 178,
+      "start_s": 839.507,
+      "end_s": 840.548,
+      "text": "We use it as language.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0179",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 179,
+      "start_s": 840.868,
+      "end_s": 843.089,
+      "text": "We use it to construct and broadcast identity.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0180",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 180,
+      "start_s": 843.51,
+      "end_s": 845.891,
+      "text": "We use it to say, I belong to this group.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0181",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 181,
+      "start_s": 846.312,
+      "end_s": 847.212,
+      "text": "I hold this rank.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0182",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 182,
+      "start_s": 847.693,
+      "end_s": 848.273,
+      "text": "I am mourning.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0183",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 183,
+      "start_s": 848.473,
+      "end_s": 849.354,
+      "text": "I am celebrating.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0184",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 184,
+      "start_s": 849.554,
+      "end_s": 850.395,
+      "text": "I am dangerous.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0185",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 185,
+      "start_s": 850.595,
+      "end_s": 851.335,
+      "text": "I am available.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0186",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 186,
+      "start_s": 851.535,
+      "end_s": 852.376,
+      "text": "I am sacred.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0187",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 187,
+      "start_s": 852.616,
+      "end_s": 853.537,
+      "text": "I am ordinary.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0188",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 188,
+      "start_s": 854.137,
+      "end_s": 855.279,
+      "text": "No other animal does this.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0189",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 189,
+      "start_s": 855.899,
+      "end_s": 857.541,
+      "text": "Peacocks display, sure.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0190",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 190,
+      "start_s": 858.102,
+      "end_s": 859.263,
+      "text": "Cuttlefish change color.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0191",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 191,
+      "start_s": 859.483,
+      "end_s": 865.41,
+      "text": "But they're not choosing what to communicate based on social context, cultural history, and personal narrative.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0192",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 192,
+      "start_s": 865.831,
+      "end_s": 866.812,
+      "text": "That's entirely ours.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0193",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 193,
+      "start_s": 867.452,
+      "end_s": 881.546,
+      "text": "And it started, as best we can tell, in Africa between 1 and 200,000 years ago, when some ancestor of ours picked up a piece of ochre, painted themselves with it, and felt something click into place about who they were in relation to everyone else.",
+      "n_words": 46
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0194",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 194,
+      "start_s": 881.907,
+      "end_s": 886.091,
+      "text": "Even if warmth wasn't the original reason, it became a survival-critical one fast.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0195",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 195,
+      "start_s": 886.651,
+      "end_s": 893.217,
+      "text": "Between roughly 120,000 and 70,000 years ago, Earth went through a series of brutal glacial cycles.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0196",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 196,
+      "start_s": 893.457,
+      "end_s": 894.598,
+      "text": "Global temperatures plunged.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0197",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 197,
+      "start_s": 895.038,
+      "end_s": 896.719,
+      "text": "Ice sheets expanded dramatically.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0198",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 198,
+      "start_s": 897.019,
+      "end_s": 899.341,
+      "text": "Large portions of Africa became hyper-arid.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0199",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 199,
+      "start_s": 899.741,
+      "end_s": 900.562,
+      "text": "Lakes dried up.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0200",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 200,
+      "start_s": 900.942,
+      "end_s": 902.323,
+      "text": "Food sources collapsed.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0201",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 201,
+      "start_s": 902.663,
+      "end_s": 908.187,
+      "text": "The human population may have crashed to somewhere between 10,000 and 30,000 individuals at its lowest point.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0202",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 202,
+      "start_s": 908.547,
+      "end_s": 909.748,
+      "text": "We nearly went extinct.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0203",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 203,
+      "start_s": 910.068,
+      "end_s": 913.251,
+      "text": "We came astonishingly close to just not existing anymore.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0204",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 204,
+      "start_s": 913.831,
+      "end_s": 916.894,
+      "text": "as a species, before we'd even gotten properly started.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0205",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 205,
+      "start_s": 917.134,
+      "end_s": 928.445,
+      "text": "For the survivors, and especially for the groups that eventually pushed north into Europe and east into Central Asia over the following millennia, clothing was no longer a social signal or a practical comfort.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0206",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 206,
+      "start_s": 929.167,
+      "end_s": 933.029,
+      "text": "It was the thin line between life and death, quite literally.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0207",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 207,
+      "start_s": 933.249,
+      "end_s": 944.895,
+      "text": "The groups that had already developed sophisticated clothing technology, fitted, layered, stitched, sealed at the extremities, had a survival advantage so significant, it's hard to overstate.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0208",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 208,
+      "start_s": 945.195,
+      "end_s": 948.337,
+      "text": "A properly constructed garment traps warm air against the body.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0209",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 209,
+      "start_s": 948.617,
+      "end_s": 954.343,
+      "text": "It protects the wrists and neck, the places where blood runs close to the surface and heat escapes fastest.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0210",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 210,
+      "start_s": 954.663,
+      "end_s": 959.248,
+      "text": "It allows a human body to survive temperatures that would kill an unclothed person in hours.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0211",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 211,
+      "start_s": 959.628,
+      "end_s": 965.935,
+      "text": "Those with the needle, the thread, the knowledge of how to prepare hide and layer materials, they made it through.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0212",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 212,
+      "start_s": 966.455,
+      "end_s": 977.06,
+      "text": "They had children, those children learned the same skills, and those skills carried forward across generations are part of the reason modern humans made it to every continent on Earth.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0213",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 213,
+      "start_s": 977.3,
+      "end_s": 983.263,
+      "text": "We didn't just evolve bodies suited for the world, we built a second skin and carried it everywhere we went.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0214",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 214,
+      "start_s": 983.583,
+      "end_s": 990.407,
+      "text": "There's a transition in the clothing story that often gets glossed over, because it doesn't have a single dramatic moment attached to it.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0215",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 215,
+      "start_s": 990.907,
+      "end_s": 993.729,
+      "text": "The shift from animal hides to woven plant fibers.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0216",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 216,
+      "start_s": 994.069,
+      "end_s": 997.15,
+      "text": "Animal hides are warm, durable, and water-resistant.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0217",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 217,
+      "start_s": 997.31,
+      "end_s": 1002.713,
+      "text": "They're also heavy, stiff, difficult to clean, and you need to kill something to get them, which is a logistical constraint.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0218",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 218,
+      "start_s": 1003.093,
+      "end_s": 1010.698,
+      "text": "At some point, humans started working with plant fibers, spinning them into thread, twisting them into cord, eventually weaving them into fabric.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0219",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 219,
+      "start_s": 1011.058,
+      "end_s": 1015.26,
+      "text": "The oldest known twisted plant fiber was found in a cave in the Republic of Georgia.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0220",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 220,
+      "start_s": 1015.48,
+      "end_s": 1020.082,
+      "text": "The country, not the state, and dates to roughly 30,000 years ago.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0221",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 221,
+      "start_s": 1020.382,
+      "end_s": 1023.144,
+      "text": "Crucially, those fibers were dyed in multiple colors.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0222",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 222,
+      "start_s": 1023.624,
+      "end_s": 1028.966,
+      "text": "Already decorative, already intentional, already communicating something beyond simple function.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0223",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 223,
+      "start_s": 1029.386,
+      "end_s": 1038.951,
+      "text": "By the time of the Neolithic agricultural revolution, roughly 10,000 BCE onwards, textile production had become a core technology of human civilization.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0224",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 224,
+      "start_s": 1039.531,
+      "end_s": 1043.233,
+      "text": "Flax cultivation for linen, wool from domesticated sheep.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0225",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 225,
+      "start_s": 1043.853,
+      "end_s": 1051.035,
+      "text": "eventually cotton, silk, and the extraordinary variety of fibers that different cultures developed independently across the world.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0226",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 226,
+      "start_s": 1051.456,
+      "end_s": 1058.498,
+      "text": "And with textiles came something genuinely revolutionary, the wardrobe, clothing that could be specialized for different purposes.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0227",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 227,
+      "start_s": 1059.138,
+      "end_s": 1067.125,
+      "text": "A heavy cloak for winter, a light wrap for summer, specific garments for ritual, for work, for status, for mourning.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0228",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 228,
+      "start_s": 1067.345,
+      "end_s": 1071.249,
+      "text": "Clothing as a system of expression rather than a single object of survival.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0229",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 229,
+      "start_s": 1071.629,
+      "end_s": 1080.117,
+      "text": "The textile industry, long before the Industrial Revolution made it mechanical, was one of the most significant economic and cultural forces in the ancient world.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0230",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 230,
+      "start_s": 1080.597,
+      "end_s": 1082.379,
+      "text": "Entire trade routes were built on it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0231",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 231,
+      "start_s": 1082.699,
+      "end_s": 1084.28,
+      "text": "Empires were financed by it.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0232",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 232,
+      "start_s": 1084.66,
+      "end_s": 1087.622,
+      "text": "Wars were fought over access to the raw materials for it.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0233",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 233,
+      "start_s": 1088.022,
+      "end_s": 1091.503,
+      "text": "Silk alone reshaped the political geography of half the world.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0234",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 234,
+      "start_s": 1092.024,
+      "end_s": 1096.346,
+      "text": "All of this from a cold, naked primate with clever hands and a piece of bone.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0235",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 235,
+      "start_s": 1096.766,
+      "end_s": 1099.307,
+      "text": "So why did ancient humans start wearing clothes?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0236",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 236,
+      "start_s": 1099.728,
+      "end_s": 1108.112,
+      "text": "The honest answer is, for all the reasons in overlapping waves, driven by biology and culture and climate and social complexity all at once.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0237",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 237,
+      "start_s": 1108.492,
+      "end_s": 1110.373,
+      "text": "It probably started with practical protection.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0238",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 238,
+      "start_s": 1110.613,
+      "end_s": 1113.735,
+      "text": "Something between the skin and the thorns and the sun and the biting things.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0239",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 239,
+      "start_s": 1114.315,
+      "end_s": 1116.816,
+      "text": "It evolved almost immediately into social signaling.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0240",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 240,
+      "start_s": 1117.137,
+      "end_s": 1121.839,
+      "text": "A way of saying something about who you are in a world full of other people making constant judgments about you.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0241",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 241,
+      "start_s": 1122.519,
+      "end_s": 1126.982,
+      "text": "It became a survival technology when the climate turned hostile and the migrations began.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0242",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 242,
+      "start_s": 1127.822,
+      "end_s": 1135.606,
+      "text": "and it became an art form, an industry, a language, and an identity as human culture grew more complex.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0243",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 243,
+      "start_s": 1136.386,
+      "end_s": 1139.248,
+      "text": "The remarkable thing isn't that we started wearing clothes.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0244",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 244,
+      "start_s": 1139.908,
+      "end_s": 1147.992,
+      "text": "Given who we are, social, symbolic, status-obsessed, freezing half the time, it was probably inevitable.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0245",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 245,
+      "start_s": 1148.172,
+      "end_s": 1149.553,
+      "text": "You are doing that right now.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0246",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 246,
+      "start_s": 1149.773,
+      "end_s": 1152.194,
+      "text": "Whatever you're wearing, you made choices.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0247",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 247,
+      "start_s": 1152.474,
+      "end_s": 1155.716,
+      "text": "Conscious and unconscious ones about what to put on your body today.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0248",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 248,
+      "start_s": 1155.956,
+      "end_s": 1164.42,
+      "text": "And those choices reflect something about who you are, how you feel, what group you belong to, what image of yourself you're presenting to the world.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0249",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 249,
+      "start_s": 1164.96,
+      "end_s": 1175.506,
+      "text": "You are doing exactly what that person on the African savannah was doing, wrapped in ochre-stained hide, figuring out how to signal something about themselves to the people standing around the same fire.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0250",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 250,
+      "start_s": 1175.666,
+      "end_s": 1179.868,
+      "text": "150,000 years of human history and what connects you to them",
+      "n_words": 11
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0251",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 251,
+      "start_s": 1180.588,
+      "end_s": 1184.935,
+      "text": "Directly, without interruption, is the simple fact that you got dressed this morning.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0252",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 252,
+      "start_s": 1185.075,
+      "end_s": 1186.096,
+      "text": "That's not a small thing.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0253",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 253,
+      "start_s": 1186.677,
+      "end_s": 1187.659,
+      "text": "That's the whole thing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0254",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 254,
+      "start_s": 1188.079,
+      "end_s": 1194.909,
+      "text": "We get cold, we get creative, we get dressed, and then we spend the rest of our lives complaining that we have nothing to wear.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0255",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 255,
+      "start_s": 1195.33,
+      "end_s": 1197.954,
+      "text": "Some things, genuinely, never change.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0256",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 256,
+      "start_s": 1198.234,
+      "end_s": 1198.855,
+      "text": "And what about you?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0257",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 257,
+      "start_s": 1199.216,
+      "end_s": 1201.339,
+      "text": "Would you go back in time and live completely naked?",
+      "n_words": 10
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0258",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 258,
+      "start_s": 1201.86,
+      "end_s": 1202.741,
+      "text": "Let me know in the comments.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0259",
+      "video_id": "yKqe_ey3QOs",
+      "idx": 259,
+      "start_s": 1203.262,
+      "end_s": 1204.864,
+      "text": "Until then, see you soon.",
+      "n_words": 5
+    }
+  ]
+}

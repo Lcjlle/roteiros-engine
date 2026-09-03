@@ -1,0 +1,2464 @@
+{
+  "video_id": "rk7qIWcLJ40",
+  "duration_s": 1281.0,
+  "generated_at": "2026-09-03T11:58:05.525400+00:00",
+  "sentences": [
+    {
+      "sent_id": "rk7qIWcLJ40:s0000",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 0,
+      "start_s": 0.071,
+      "end_s": 11.502,
+      "text": "You wake up, your throat is on fire, your nose is running like a broken faucet, you drag yourself to the medicine cabinet, grab some ibuprofen, maybe a decongestant, and you're mostly functional by noon.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0001",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 1,
+      "start_s": 11.662,
+      "end_s": 13.624,
+      "text": "Now, imagine none of that exists.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0002",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 2,
+      "start_s": 13.984,
+      "end_s": 24.333,
+      "text": "No pharmacy, no doctor, no hospital three miles away, no Google to tell you whether your headache is a tension migraine, or, according to the algorithm, a very rare brain parasite.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0003",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 3,
+      "start_s": 24.654,
+      "end_s": 25.975,
+      "text": "Just you, a forest.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0004",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 4,
+      "start_s": 26.215,
+      "end_s": 29.617,
+      "text": "and whatever creative ideas your ancestors had about keeping themselves alive.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0005",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 5,
+      "start_s": 29.817,
+      "end_s": 31.438,
+      "text": "The crazy thing is, they did survive.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0006",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 6,
+      "start_s": 31.618,
+      "end_s": 45.706,
+      "text": "For hundreds of thousands of years, before antibiotics, before surgery, before literally any understanding of what a germ even was, humans lived, reproduced, built civilizations, and somehow didn't just collectively drop dead the moment someone caught a cold.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0007",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 7,
+      "start_s": 45.866,
+      "end_s": 47.707,
+      "text": "So how exactly did they pull that off?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0008",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 8,
+      "start_s": 48.007,
+      "end_s": 51.429,
+      "text": "Before we dive in, we need to reframe how we think about ancient medicine.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0009",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 9,
+      "start_s": 51.509,
+      "end_s": 53.711,
+      "text": "Because here's the trap most people fall into.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0010",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 10,
+      "start_s": 53.811,
+      "end_s": 57.634,
+      "text": "They imagine ancient humans were basically us, just without the tools.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0011",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 11,
+      "start_s": 57.854,
+      "end_s": 62.497,
+      "text": "Like cavemen standing around going, man, I really wish I had penicillin right now.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0012",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 12,
+      "start_s": 62.757,
+      "end_s": 63.818,
+      "text": "But that's not how it worked.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0013",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 13,
+      "start_s": 64.018,
+      "end_s": 65.379,
+      "text": "Ancient people weren't dumb.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0014",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 14,
+      "start_s": 65.439,
+      "end_s": 70.443,
+      "text": "They were incredibly observant, deeply practical, and they had something we sometimes underestimate.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0015",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 15,
+      "start_s": 70.483,
+      "end_s": 73.205,
+      "text": "Thousands of years of accumulated trial and error.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0016",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 16,
+      "start_s": 73.305,
+      "end_s": 78.569,
+      "text": "When you live close to nature and dying is a very real daily possibility, you pay attention.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0017",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 17,
+      "start_s": 78.609,
+      "end_s": 81.011,
+      "text": "You notice which plant makes the stomach pain stop.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0018",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 18,
+      "start_s": 81.031,
+      "end_s": 84.032,
+      "text": "you notice which root causes your wound to close faster.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0019",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 19,
+      "start_s": 84.112,
+      "end_s": 88.754,
+      "text": "You notice that drinking from the river downstream of the dead animal is not ideal.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0020",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 20,
+      "start_s": 88.894,
+      "end_s": 94.997,
+      "text": "That knowledge got passed down, generation after generation, grandmother to granddaughter, healer to apprentice.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0021",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 21,
+      "start_s": 95.177,
+      "end_s": 101.42,
+      "text": "It wasn't written in textbooks, but it was stored in something equally powerful, human memory and community tradition.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0022",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 22,
+      "start_s": 101.52,
+      "end_s": 108.368,
+      "text": "The result was a system of medicine that, while lacking our understanding of biology, was actually shockingly effective for many conditions.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0023",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 23,
+      "start_s": 108.568,
+      "end_s": 112.172,
+      "text": "And for the conditions it couldn't handle, well, that's where things get interesting.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0024",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 24,
+      "start_s": 112.433,
+      "end_s": 116.778,
+      "text": "Let's start with the most widespread tool ancient humans had—plants.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0025",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 25,
+      "start_s": 117.098,
+      "end_s": 118.4,
+      "text": "This is not pseudoscience.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0026",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 26,
+      "start_s": 118.8,
+      "end_s": 120.803,
+      "text": "This is not woo-woo hippie stuff.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0027",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 27,
+      "start_s": 121.183,
+      "end_s": 129.453,
+      "text": "This is legitimate pharmacology with a prehistory stretching back at least 60,000 years, and we have the archaeological evidence to prove it.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0028",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 28,
+      "start_s": 129.553,
+      "end_s": 134.779,
+      "text": "In 1960, a Neanderthal burial site was discovered in a cave in Iraq called Shanidar.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0029",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 29,
+      "start_s": 135.3,
+      "end_s": 144.473,
+      "text": "Inside the grave, researchers found enormous concentrations of pollen from multiple plant species, yarrow, ground sole, ephedra, and others.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0030",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 30,
+      "start_s": 144.754,
+      "end_s": 145.895,
+      "text": "The leading interpretation?",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0031",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 31,
+      "start_s": 146.216,
+      "end_s": 148.179,
+      "text": "These weren't random weeds that blew in.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0032",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 32,
+      "start_s": 148.639,
+      "end_s": 150.282,
+      "text": "They were deliberately placed.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0033",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 33,
+      "start_s": 150.642,
+      "end_s": 151.523,
+      "text": "And here's the kicker.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0034",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 34,
+      "start_s": 152.183,
+      "end_s": 155.565,
+      "text": "Several of those exact plants are still used in herbal medicine today.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0035",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 35,
+      "start_s": 155.885,
+      "end_s": 159.908,
+      "text": "Some have been clinically studied and shown to have genuine medicinal properties.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0036",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 36,
+      "start_s": 160.308,
+      "end_s": 161.149,
+      "text": "Neanderthals.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0037",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 37,
+      "start_s": 161.489,
+      "end_s": 162.61,
+      "text": "Doing herbal medicine.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0038",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 38,
+      "start_s": 162.67,
+      "end_s": 165.551,
+      "text": "Before modern humans even showed up in that part of the world.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0039",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 39,
+      "start_s": 165.651,
+      "end_s": 166.992,
+      "text": "Let that sink in for a second.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0040",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 40,
+      "start_s": 167.232,
+      "end_s": 171.855,
+      "text": "Once modern humans arrived on the scene, plant-based medicine exploded in sophistication.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0041",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 41,
+      "start_s": 172.135,
+      "end_s": 186.425,
+      "text": "Willow bark, which contains salicin, the compound that aspirin is based on, was used across ancient Egypt, Greece, China, and indigenous North America to treat pain and fever, independently, on completely separate continents.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0042",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 42,
+      "start_s": 186.666,
+      "end_s": 189.347,
+      "text": "Because people noticed, chew this bark, pain goes down.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0043",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 43,
+      "start_s": 189.608,
+      "end_s": 193.951,
+      "text": "Simple cause and effect repeated millions of times over thousands of years.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0044",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 44,
+      "start_s": 194.011,
+      "end_s": 201.136,
+      "text": "Garlic was used as an antibiotic by ancient Egyptians and has actually been shown in modern studies to have real antimicrobial properties.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0045",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 45,
+      "start_s": 201.376,
+      "end_s": 207.621,
+      "text": "Turmeric, used for millennia in Ayurvedic medicine, contains curcumin, which has documented anti-inflammatory effects.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0046",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 46,
+      "start_s": 207.821,
+      "end_s": 213.466,
+      "text": "Echinacea, long used by Native American tribes for immune support, is still in every pharmacy today.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0047",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 47,
+      "start_s": 213.726,
+      "end_s": 215.428,
+      "text": "But it goes even deeper than that.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0048",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 48,
+      "start_s": 215.608,
+      "end_s": 219.191,
+      "text": "Ancient healers weren't just randomly chewing on whatever looked interesting.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0049",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 49,
+      "start_s": 219.291,
+      "end_s": 221.553,
+      "text": "They developed sophisticated preparation methods.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0050",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 50,
+      "start_s": 221.673,
+      "end_s": 224.176,
+      "text": "They knew to boil certain plants, and not others.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0051",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 51,
+      "start_s": 224.336,
+      "end_s": 226.859,
+      "text": "They knew that some roots were only effective when dried.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0052",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 52,
+      "start_s": 226.979,
+      "end_s": 230.483,
+      "text": "They combined plants in specific proportions and observed what happened.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0053",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 53,
+      "start_s": 230.623,
+      "end_s": 235.488,
+      "text": "Some ancient herbal preparations involved dozens of ingredients, each playing a specific role.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0054",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 54,
+      "start_s": 235.648,
+      "end_s": 241.615,
+      "text": "Some as the active compound, some to mask bitter taste, some to help with absorption, some to counteract side effects.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0055",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 55,
+      "start_s": 241.775,
+      "end_s": 242.856,
+      "text": "That's not folk magic.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0056",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 56,
+      "start_s": 243.036,
+      "end_s": 246.059,
+      "text": "That's empirical pharmacology, without the lab coats.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0057",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 57,
+      "start_s": 246.359,
+      "end_s": 251.464,
+      "text": "Ancient people were, in a very real sense, running one massive, uncontrolled clinical trial.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0058",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 58,
+      "start_s": 251.564,
+      "end_s": 253.726,
+      "text": "The sample size was all of humanity.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0059",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 59,
+      "start_s": 253.826,
+      "end_s": 255.347,
+      "text": "The methodology was chaotic.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0060",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 60,
+      "start_s": 255.508,
+      "end_s": 258.53,
+      "text": "The death rate from failed experiments was admittedly pretty high.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0061",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 61,
+      "start_s": 258.61,
+      "end_s": 259.411,
+      "text": "But the results?",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0062",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 62,
+      "start_s": 259.731,
+      "end_s": 260.752,
+      "text": "Surprisingly solid.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0063",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 63,
+      "start_s": 260.932,
+      "end_s": 265.877,
+      "text": "Okay, now let's talk about something that kills people fast and that ancient humans had to deal with constantly.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0064",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 64,
+      "start_s": 266.017,
+      "end_s": 266.357,
+      "text": "Wounds.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0065",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 65,
+      "start_s": 266.637,
+      "end_s": 272.059,
+      "text": "Whether from hunting, war, accidents, or just tripping over a log in the dark, wounds were everywhere.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0066",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 66,
+      "start_s": 272.219,
+      "end_s": 278.38,
+      "text": "And without modern antiseptics and sutures, a bad cut could easily become infected and kill you within days.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0067",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 67,
+      "start_s": 278.66,
+      "end_s": 279.741,
+      "text": "So, what did they do?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0068",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 68,
+      "start_s": 279.921,
+      "end_s": 280.661,
+      "text": "First, honey.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0069",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 69,
+      "start_s": 280.761,
+      "end_s": 283.362,
+      "text": "Ancient Egyptians used honey on wounds extensively.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0070",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 70,
+      "start_s": 283.542,
+      "end_s": 285.022,
+      "text": "And it wasn't just a superstition.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0071",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 71,
+      "start_s": 285.262,
+      "end_s": 287.485,
+      "text": "Honey is genuinely antibacterial.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0072",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 72,
+      "start_s": 287.665,
+      "end_s": 295.475,
+      "text": "It has low pH, high sugar content, and releases small amounts of hydrogen peroxide, all of which create a hostile environment for bacteria.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0073",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 73,
+      "start_s": 295.675,
+      "end_s": 298.058,
+      "text": "Modern medicine has actually rediscovered this.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0074",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 74,
+      "start_s": 298.298,
+      "end_s": 303.243,
+      "text": "There's a medically approved honey product called Manuka honey used in clinical wound care today.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0075",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 75,
+      "start_s": 303.363,
+      "end_s": 305.384,
+      "text": "The ancient Egyptians were not wrong.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0076",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 76,
+      "start_s": 305.544,
+      "end_s": 306.965,
+      "text": "Second, mud and clay.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0077",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 77,
+      "start_s": 307.245,
+      "end_s": 312.469,
+      "text": "Certain clays, particularly those rich in minerals like montmorillonite, have antimicrobial properties.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0078",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 78,
+      "start_s": 312.669,
+      "end_s": 316.392,
+      "text": "Indigenous cultures across the globe used clay poultices on wounds.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0079",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 79,
+      "start_s": 316.632,
+      "end_s": 317.512,
+      "text": "Again, not wrong.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0080",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 80,
+      "start_s": 317.693,
+      "end_s": 318.653,
+      "text": "Third, maggots.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0081",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 81,
+      "start_s": 318.933,
+      "end_s": 320.314,
+      "text": "Okay, breathe, I know.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0082",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 82,
+      "start_s": 320.654,
+      "end_s": 321.335,
+      "text": "But here's the thing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0083",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 83,
+      "start_s": 321.515,
+      "end_s": 334.484,
+      "text": "Maggot therapy, where fly larvae are applied to infected wounds to eat away dead and infected tissue, was used by indigenous Australians, Mayan people in Central America, and military surgeons throughout history.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0084",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 84,
+      "start_s": 334.584,
+      "end_s": 339.708,
+      "text": "And it is still used today in modern hospitals for wounds that don't respond to antibiotics.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0085",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 85,
+      "start_s": 340.008,
+      "end_s": 342.25,
+      "text": "Maggots only eat dead tissue.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0086",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 86,
+      "start_s": 342.33,
+      "end_s": 343.951,
+      "text": "They leave healthy tissue alone.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0087",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 87,
+      "start_s": 344.071,
+      "end_s": 346.874,
+      "text": "They're actually remarkable little wound-cleaning machines.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0088",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 88,
+      "start_s": 347.074,
+      "end_s": 351.077,
+      "text": "Ancient people discovered this not because they were weird, but because they were observant.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0089",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 89,
+      "start_s": 351.277,
+      "end_s": 354.981,
+      "text": "They noticed that wounds with maggots sometimes healed better than wounds without.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0090",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 90,
+      "start_s": 355.141,
+      "end_s": 358.424,
+      "text": "Instead of screaming and running away, they filed that information away.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0091",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 91,
+      "start_s": 358.584,
+      "end_s": 359.825,
+      "text": "And then there's spider webs.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0092",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 92,
+      "start_s": 360.145,
+      "end_s": 367.09,
+      "text": "Multiple ancient cultures—Greeks, Celts, Native Americans—applied spider webs directly to wounds to stop bleeding.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0093",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 93,
+      "start_s": 367.29,
+      "end_s": 374.995,
+      "text": "This sounds insane, but spider silk contains vitamin K, which plays a role in blood clotting, and has some antimicrobial properties.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0094",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 94,
+      "start_s": 375.235,
+      "end_s": 380.538,
+      "text": "Modern researchers have actually investigated spider silk as a biomaterial for wound closure.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0095",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 95,
+      "start_s": 380.658,
+      "end_s": 383.3,
+      "text": "Once again, ancient people stumbled onto something real.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0096",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 96,
+      "start_s": 383.42,
+      "end_s": 386.502,
+      "text": "Honestly, it's more science than most people give them credit for.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0097",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 97,
+      "start_s": 386.923,
+      "end_s": 389.945,
+      "text": "Here's where things start to get genuinely jaw-dropping.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0098",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 98,
+      "start_s": 390.085,
+      "end_s": 398.112,
+      "text": "We have archaeological evidence of trepanation, the practice of drilling or scraping a hole in the skull, dating back over 9,000 years.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0099",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 99,
+      "start_s": 398.392,
+      "end_s": 400.954,
+      "text": "And before you ask, yes, patients survived.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0100",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 100,
+      "start_s": 401.154,
+      "end_s": 404.537,
+      "text": "We know this because the bones show signs of healing around the hole.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0101",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 101,
+      "start_s": 404.717,
+      "end_s": 407.84,
+      "text": "meaning the patient didn't just immediately die on the operating table.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0102",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 102,
+      "start_s": 408.06,
+      "end_s": 415.086,
+      "text": "Some skulls show multiple trepanation sites, meaning the same person had the procedure done more than once and walked away both times.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0103",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 103,
+      "start_s": 415.286,
+      "end_s": 416.167,
+      "text": "Why did they do this?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0104",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 104,
+      "start_s": 416.347,
+      "end_s": 426.435,
+      "text": "The theories include treating head injuries, relieving pressure after skull fractures, treating severe headaches or seizures, and, let's be honest, probably some spiritual reasons too.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0105",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 105,
+      "start_s": 426.615,
+      "end_s": 429.518,
+      "text": "Ancient medicine and ancient religion were heavily blended.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0106",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 106,
+      "start_s": 429.718,
+      "end_s": 433.119,
+      "text": "and sometimes it's hard to separate where one ended and the other began.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0107",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 107,
+      "start_s": 433.28,
+      "end_s": 435.0,
+      "text": "But here's what we know for sure.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0108",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 108,
+      "start_s": 435.2,
+      "end_s": 441.603,
+      "text": "They were doing brain surgery 9,000 years ago with stone tools, and people were surviving it.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0109",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 109,
+      "start_s": 441.723,
+      "end_s": 444.224,
+      "text": "We also have evidence of amputations that healed cleanly.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0110",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 110,
+      "start_s": 444.324,
+      "end_s": 453.628,
+      "text": "A skeleton found in France dating to around 7,000 years ago shows a forearm amputation with clear signs of bone regrowth, meaning the patient survived long enough for the stump to begin healing.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0111",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 111,
+      "start_s": 453.748,
+      "end_s": 461.134,
+      "text": "That required not just the surgical act, but post-operative care, wound management, keeping infection out, feeding and supporting a recovering patient.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0112",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 112,
+      "start_s": 461.254,
+      "end_s": 462.515,
+      "text": "That's not a lucky accident.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0113",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 113,
+      "start_s": 462.775,
+      "end_s": 464.777,
+      "text": "That's a functioning medical support system.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0114",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 114,
+      "start_s": 464.977,
+      "end_s": 476.085,
+      "text": "To put that in perspective, effective antiseptic practice in modern medicine only became standard in the 1860s, when Joseph Lister figured out that maybe doctors should wash their hands before operating.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0115",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 115,
+      "start_s": 476.266,
+      "end_s": 484.252,
+      "text": "For context, hospitals in the 1840s had higher mortality rates than battlefield surgeries because the conditions were so unsanitary.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0116",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 116,
+      "start_s": 484.412,
+      "end_s": 490.018,
+      "text": "The infection risk from a 19th century hospital was sometimes worse than just staying home and hoping for the best.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0117",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 117,
+      "start_s": 490.278,
+      "end_s": 499.947,
+      "text": "Ancient Trepanation surgeons, working outdoors in fresh air with clean stone tools, may have accidentally had better sterility conditions than 19th century European surgeons.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0118",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 118,
+      "start_s": 500.127,
+      "end_s": 501.908,
+      "text": "The universe has a dark sense of humor.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0119",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 119,
+      "start_s": 502.069,
+      "end_s": 505.692,
+      "text": "Now here's something that doesn't get talked about enough when people ask this question.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0120",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 120,
+      "start_s": 505.892,
+      "end_s": 509.157,
+      "text": "Ancient humans didn't just survive because of the medicine they used.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0121",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 121,
+      "start_s": 509.297,
+      "end_s": 517.789,
+      "text": "They survived because of what was inside them, an immune system that had been shaped by millions of years of evolutionary pressure into something extraordinarily capable.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0122",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 122,
+      "start_s": 517.909,
+      "end_s": 519.432,
+      "text": "Here's the thing about the immune system.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0123",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 123,
+      "start_s": 519.592,
+      "end_s": 520.052,
+      "text": "It learns.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0124",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 124,
+      "start_s": 520.353,
+      "end_s": 520.914,
+      "text": "It adapts.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0125",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 125,
+      "start_s": 521.134,
+      "end_s": 526.317,
+      "text": "The more pathogens a population is exposed to over generations, the more the survivors develop resistance.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0126",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 126,
+      "start_s": 526.617,
+      "end_s": 532.761,
+      "text": "Ancient humans were exposed to an incredible diversity of pathogens from birth, constantly training their immune defenses.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0127",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 127,
+      "start_s": 532.981,
+      "end_s": 538.084,
+      "text": "Children who survived childhood, which yes, many did not, were often immunologically robust adults.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0128",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 128,
+      "start_s": 538.344,
+      "end_s": 541.046,
+      "text": "There's also the concept of herd immunity without vaccines.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0129",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 129,
+      "start_s": 541.286,
+      "end_s": 548.693,
+      "text": "When a disease swept through a community repeatedly over generations, the people who were genetically more resistant to it tended to survive and reproduce more.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0130",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 130,
+      "start_s": 548.993,
+      "end_s": 553.958,
+      "text": "Over time, the population became, on average, more resistant to that particular disease.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0131",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 131,
+      "start_s": 554.218,
+      "end_s": 557.862,
+      "text": "It was brutal, slow, and involved an enormous amount of death.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0132",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 132,
+      "start_s": 558.122,
+      "end_s": 558.683,
+      "text": "But it worked.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0133",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 133,
+      "start_s": 558.903,
+      "end_s": 565.389,
+      "text": "This is partly why the arrival of Europeans in the Americas was so catastrophically devastating to indigenous populations.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0134",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 134,
+      "start_s": 565.609,
+      "end_s": 576.777,
+      "text": "It wasn't that Europeans were somehow physically superior, it was that they carried diseases—smallpox, measles, influenza—that their populations had been building immunity to for centuries.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0135",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 135,
+      "start_s": 577.037,
+      "end_s": 581.6,
+      "text": "Indigenous Americans had no such prior exposure, no inherited resistance.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0136",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 136,
+      "start_s": 581.84,
+      "end_s": 584.141,
+      "text": "The death toll in some regions reached 90%.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0137",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 137,
+      "start_s": 584.962,
+      "end_s": 592.969,
+      "text": "The flip side of this is that indigenous American populations had their own immune advantages against local diseases that European settlers often struggled with.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0138",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 138,
+      "start_s": 592.989,
+      "end_s": 597.152,
+      "text": "The immune system is, above all, a record of what your ancestors survived.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0139",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 139,
+      "start_s": 597.352,
+      "end_s": 600.735,
+      "text": "Modern research is increasingly pointing to the gut microbiome.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0140",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 140,
+      "start_s": 600.895,
+      "end_s": 608.5,
+      "text": "the trillions of bacteria living in your intestines, as central to immune function, mental health, and overall well-being.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0141",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 141,
+      "start_s": 608.78,
+      "end_s": 614.043,
+      "text": "Ancient humans, it turns out, probably had a spectacular microbiome by modern standards.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0142",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 142,
+      "start_s": 614.283,
+      "end_s": 614.543,
+      "text": "Why?",
+      "n_words": 1
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0143",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 143,
+      "start_s": 614.683,
+      "end_s": 620.607,
+      "text": "Because they ate an incredibly diverse diet of wild plants, fermented foods, and animal products.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0144",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 144,
+      "start_s": 620.787,
+      "end_s": 626.929,
+      "text": "because they were regularly exposed to soil and the microorganisms in it, because they weren't sterilizing everything around them.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0145",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 145,
+      "start_s": 627.129,
+      "end_s": 630.991,
+      "text": "Fermented foods, in particular, appear across almost every ancient culture.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0146",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 146,
+      "start_s": 631.171,
+      "end_s": 634.052,
+      "text": "Fermentation was originally a food preservation technique.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0147",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 147,
+      "start_s": 634.352,
+      "end_s": 636.153,
+      "text": "You ferment things so they don't spoil.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0148",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 148,
+      "start_s": 636.393,
+      "end_s": 640.735,
+      "text": "But what fermentation also does is load food with beneficial bacteria.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0149",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 149,
+      "start_s": 640.935,
+      "end_s": 644.396,
+      "text": "Kimchi, sauerkraut, kefir, kvass, injera.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0150",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 150,
+      "start_s": 644.656,
+      "end_s": 646.417,
+      "text": "Every traditional culture had its version.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0151",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 151,
+      "start_s": 646.677,
+      "end_s": 651.181,
+      "text": "and every version was a probiotic supplement that would make your local health food store jealous.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0152",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 152,
+      "start_s": 651.721,
+      "end_s": 659.627,
+      "text": "Recent studies comparing the gut microbiomes of modern hunter-gatherer populations to industrialized populations find striking differences.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0153",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 153,
+      "start_s": 659.887,
+      "end_s": 671.937,
+      "text": "The hunter-gatherers have dramatically higher microbial diversity, and higher microbial diversity is consistently associated with better immune function, lower rates of autoimmune disease, and better metabolic health.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0154",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 154,
+      "start_s": 672.397,
+      "end_s": 692.004,
+      "text": "There's a growing body of research suggesting that the dramatic rise in allergies, autoimmune diseases, and certain mental health conditions in modern industrialized societies is at least partly linked to the destruction of microbial diversity in our guts, thanks to antibiotics, ultra-processed food, chlorinated water, and our general obsession with cleanliness.",
+      "n_words": 51
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0155",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 155,
+      "start_s": 692.444,
+      "end_s": 693.705,
+      "text": "Ancient humans weren't clean.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0156",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 156,
+      "start_s": 694.085,
+      "end_s": 700.949,
+      "text": "They were constantly covered in dirt and bacteria, and that might have been, in some specific immunological senses, genuinely good for them.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0157",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 157,
+      "start_s": 701.129,
+      "end_s": 703.371,
+      "text": "This is not an endorsement of not washing your hands.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0158",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 158,
+      "start_s": 703.651,
+      "end_s": 704.591,
+      "text": "Please wash your hands.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0159",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 159,
+      "start_s": 704.852,
+      "end_s": 711.876,
+      "text": "But the relationship between dirt, microbes, and human health is a lot more complicated than clean equals good, dirty equals bad.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0160",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 160,
+      "start_s": 712.276,
+      "end_s": 717.12,
+      "text": "Let's talk about something that sounds completely unscientific but actually has real scientific backing.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0161",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 161,
+      "start_s": 717.62,
+      "end_s": 718.601,
+      "text": "The placebo effect.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0162",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 162,
+      "start_s": 719.201,
+      "end_s": 722.364,
+      "text": "If you believe you're going to get better, you often do better.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0163",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 163,
+      "start_s": 722.724,
+      "end_s": 723.805,
+      "text": "This isn't mysticism.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0164",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 164,
+      "start_s": 724.025,
+      "end_s": 725.666,
+      "text": "This is documented neuroscience.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0165",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 165,
+      "start_s": 726.167,
+      "end_s": 731.831,
+      "text": "The placebo effect can produce measurable changes in pain perception, immune function, and recovery time.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0166",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 166,
+      "start_s": 732.172,
+      "end_s": 734.533,
+      "text": "It works even when patients know they're taking a placebo.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0167",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 167,
+      "start_s": 735.274,
+      "end_s": 738.556,
+      "text": "It's one of the weirder and more fascinating corners of human biology.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0168",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 168,
+      "start_s": 739.417,
+      "end_s": 748.96,
+      "text": "Ancient healers, shamans, medicine women and men, witch doctors, whatever name you want to use across different cultures, understood this even if they didn't have the language for it.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0169",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 169,
+      "start_s": 749.54,
+      "end_s": 751.741,
+      "text": "The ritual surrounding treatment mattered.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0170",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 170,
+      "start_s": 752.021,
+      "end_s": 754.161,
+      "text": "The confidence of the healer mattered.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0171",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 171,
+      "start_s": 754.481,
+      "end_s": 756.402,
+      "text": "The community support mattered.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0172",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 172,
+      "start_s": 756.702,
+      "end_s": 759.883,
+      "text": "The belief that something was being done mattered.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0173",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 173,
+      "start_s": 760.623,
+      "end_s": 771.105,
+      "text": "When a shaman performed an elaborate ceremony over a sick person involving chanting, specific plants, fire, symbols, and the visible participation of the whole community, something was happening.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0174",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 174,
+      "start_s": 771.765,
+      "end_s": 773.626,
+      "text": "Yes, some of it was symbolic.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0175",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 175,
+      "start_s": 773.786,
+      "end_s": 776.206,
+      "text": "Yes, the germ theory was entirely absent.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0176",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 176,
+      "start_s": 776.806,
+      "end_s": 779.827,
+      "text": "But the patient's brain was receiving a powerful signal.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0177",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 177,
+      "start_s": 780.487,
+      "end_s": 782.187,
+      "text": "You are being cared for.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0178",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 178,
+      "start_s": 782.727,
+      "end_s": 783.848,
+      "text": "People are fighting for you.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0179",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 179,
+      "start_s": 783.968,
+      "end_s": 785.528,
+      "text": "Something active is being done.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0180",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 180,
+      "start_s": 786.148,
+      "end_s": 789.549,
+      "text": "We now know this signal has real physiological consequences.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0181",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 181,
+      "start_s": 790.289,
+      "end_s": 794.712,
+      "text": "Cortisol drops, immune activity shifts, pain perception changes.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0182",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 182,
+      "start_s": 795.473,
+      "end_s": 798.195,
+      "text": "Recovery, in many cases, genuinely improves.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0183",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 183,
+      "start_s": 798.795,
+      "end_s": 802.718,
+      "text": "Does that mean ancient spiritual medicine was real medicine in the modern sense?",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0184",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 184,
+      "start_s": 803.638,
+      "end_s": 803.839,
+      "text": "No.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0185",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 185,
+      "start_s": 804.319,
+      "end_s": 805.44,
+      "text": "But it wasn't nothing either.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0186",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 186,
+      "start_s": 805.62,
+      "end_s": 808.682,
+      "text": "It was tapping into something genuine in human biology.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0187",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 187,
+      "start_s": 809.222,
+      "end_s": 814.126,
+      "text": "The body's remarkable capacity to heal itself when given the right psychological environment.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0188",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 188,
+      "start_s": 815.018,
+      "end_s": 817.06,
+      "text": "Modern medicine is slowly catching up to this.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0189",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 189,
+      "start_s": 817.761,
+      "end_s": 820.603,
+      "text": "Bedside manner has measurable effects on patient outcomes.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0190",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 190,
+      "start_s": 821.104,
+      "end_s": 823.947,
+      "text": "Social support improves survival rates in cancer patients.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0191",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 191,
+      "start_s": 824.687,
+      "end_s": 831.774,
+      "text": "The mind-body connection, long dismissed by hard-nosed scientific medicine, is now taken seriously by serious researchers.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0192",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 192,
+      "start_s": 832.415,
+      "end_s": 833.916,
+      "text": "Ancient healers got there first.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0193",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 193,
+      "start_s": 834.677,
+      "end_s": 835.258,
+      "text": "Accidentally.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0194",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 194,
+      "start_s": 836.035,
+      "end_s": 840.976,
+      "text": "through the same process of observation and tradition that gave us willow bark and honey on wounds.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0195",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 195,
+      "start_s": 841.577,
+      "end_s": 844.677,
+      "text": "Now, fairness demands we talk about the flip side.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0196",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 196,
+      "start_s": 845.338,
+      "end_s": 848.158,
+      "text": "There were things ancient medicine simply could not fix.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0197",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 197,
+      "start_s": 848.959,
+      "end_s": 852.64,
+      "text": "Bacterial infections that crossed certain thresholds were death sentences.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0198",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 198,
+      "start_s": 853.58,
+      "end_s": 860.084,
+      "text": "Appendicitis, a blocked appendix that ruptures, killed people that we now save with a routine one-hour surgery.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0199",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 199,
+      "start_s": 860.545,
+      "end_s": 863.687,
+      "text": "Childbirth was extraordinarily dangerous for both mother and child.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0200",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 200,
+      "start_s": 864.447,
+      "end_s": 866.809,
+      "text": "Dental infections that spread to the jaw could be fatal.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0201",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 201,
+      "start_s": 867.713,
+      "end_s": 870.914,
+      "text": "Broken bones that healed incorrectly led to permanent disability.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0202",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 202,
+      "start_s": 871.295,
+      "end_s": 872.755,
+      "text": "Infant mortality was staggering.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0203",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 203,
+      "start_s": 873.455,
+      "end_s": 879.578,
+      "text": "In many ancient populations, somewhere between 25% and 50% of children died before reaching adulthood.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0204",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 204,
+      "start_s": 880.558,
+      "end_s": 888.762,
+      "text": "Life expectancy numbers from ancient times look terrible, often averaging 30 to 35 years, but this is heavily skewed by those childhood deaths.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0205",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 205,
+      "start_s": 889.322,
+      "end_s": 896.409,
+      "text": "If you survived childhood and didn't die in violence or childbirth, you could easily live into your 50s, 60s, or even 70s.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0206",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 206,
+      "start_s": 897.01,
+      "end_s": 907.54,
+      "text": "There's archaeological evidence of ancient humans living with severe arthritis, with healed fractures, with evidence of significant injury, living with these conditions for decades.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0207",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 207,
+      "start_s": 908.431,
+      "end_s": 909.272,
+      "text": "Old age existed.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0208",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 208,
+      "start_s": 909.912,
+      "end_s": 911.273,
+      "text": "It just wasn't guaranteed.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0209",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 209,
+      "start_s": 911.693,
+      "end_s": 914.074,
+      "text": "And here's perhaps the most sobering thought.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0210",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 210,
+      "start_s": 914.695,
+      "end_s": 922.599,
+      "text": "Many of the diseases that killed people in the ancient world still kill people today in parts of the world without access to modern medicine.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0211",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 211,
+      "start_s": 922.92,
+      "end_s": 923.48,
+      "text": "Malaria.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0212",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 212,
+      "start_s": 923.96,
+      "end_s": 924.801,
+      "text": "Tuberculosis.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0213",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 213,
+      "start_s": 925.401,
+      "end_s": 925.921,
+      "text": "Cholera.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0214",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 214,
+      "start_s": 926.302,
+      "end_s": 927.823,
+      "text": "Diarrheal diseases in children.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0215",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 215,
+      "start_s": 928.203,
+      "end_s": 930.284,
+      "text": "These aren't exotic, ancient problems.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0216",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 216,
+      "start_s": 930.685,
+      "end_s": 937.009,
+      "text": "They're ongoing realities for hundreds of millions of people right now who lack what you probably have within five miles of where you're sitting.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0217",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 217,
+      "start_s": 937.629,
+      "end_s": 939.17,
+      "text": "Modern medicine isn't a luxury.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0218",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 218,
+      "start_s": 939.37,
+      "end_s": 942.352,
+      "text": "It's one of the most significant achievements in human history.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0219",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 219,
+      "start_s": 942.933,
+      "end_s": 953.84,
+      "text": "The fact that a routine infection that would have killed someone in 1850 is now solved by a five-day course of pills is genuinely extraordinary, and we have collectively stopped being amazed by it.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0220",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 220,
+      "start_s": 954.56,
+      "end_s": 959.665,
+      "text": "Let's spend a moment on some specific ancient medical traditions because they deserve more than a footnote.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0221",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 221,
+      "start_s": 960.366,
+      "end_s": 970.015,
+      "text": "Ancient Egyptian medicine, documented in the Ebers Papyrus from around 1550 BCE, describes over 700 remedies for various conditions.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0222",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 222,
+      "start_s": 970.595,
+      "end_s": 977.061,
+      "text": "It includes descriptions of the cardiovascular system, surgical procedures, and pharmaceutical preparations.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0223",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 223,
+      "start_s": 977.942,
+      "end_s": 983.847,
+      "text": "it mixes medical observations that hold up to modern scrutiny with magical incantations that do not.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0224",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 224,
+      "start_s": 984.588,
+      "end_s": 991.013,
+      "text": "It was both science and religion simultaneously, because for those people, those categories didn't exist.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0225",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 225,
+      "start_s": 991.193,
+      "end_s": 1001.081,
+      "text": "Separately, traditional Chinese medicine, developed over thousands of years, includes acupuncture, herbal medicine, dietary therapy, and physical manipulation.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0226",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 226,
+      "start_s": 1001.582,
+      "end_s": 1004.864,
+      "text": "Some of it has been validated by modern research, some hasn't.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0227",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 227,
+      "start_s": 1005.244,
+      "end_s": 1015.026,
+      "text": "But the point is the sophistication of the system, the centuries of careful observation, the detailed mapping of the body, the complex pharmacopoeia of herbal combinations.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0228",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 228,
+      "start_s": 1015.466,
+      "end_s": 1027.869,
+      "text": "Ayurvedic medicine from the Indian subcontinent identified medicinal properties of hundreds of plants, developed surgical techniques, and produced texts describing diseases and their treatments in remarkable detail.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0229",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 229,
+      "start_s": 1028.449,
+      "end_s": 1045.242,
+      "text": "Sushruta, a physician around 600 BCE, described surgical procedures including rhinoplasty, rebuilding a nose, that were so sophisticated that 18th century British surgeons actually traveled to India to learn from traditional practitioners still using his techniques.",
+      "n_words": 36
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0230",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 230,
+      "start_s": 1045.602,
+      "end_s": 1049.786,
+      "text": "The ancient Greeks gave us Hippocrates, who made a radical idea famous.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0231",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 231,
+      "start_s": 1050.206,
+      "end_s": 1053.669,
+      "text": "Disease is caused by natural, not supernatural factors.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0232",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 232,
+      "start_s": 1053.969,
+      "end_s": 1059.393,
+      "text": "Diet, environment, and physical imbalances, not angry gods, were responsible for illness.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0233",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 233,
+      "start_s": 1059.833,
+      "end_s": 1069.536,
+      "text": "That idea, that the body operates according to understandable natural laws that can be observed and reasoned about, is literally the foundational premise of all modern medicine.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0234",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 234,
+      "start_s": 1070.257,
+      "end_s": 1084.982,
+      "text": "And in Mesopotamia, the oldest known medical texts, clay tablets from ancient Sumer, over 4,000 years old, list specific plant-based treatments for specific symptoms in a format that is recognizably clinical, not prayers, prescriptions.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0235",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 235,
+      "start_s": 1085.262,
+      "end_s": 1090.445,
+      "text": "If you have this symptom, use this plant, prepared in this way, administered at this time.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0236",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 236,
+      "start_s": 1090.845,
+      "end_s": 1101.212,
+      "text": "That structure, symptom, treatment, method, is the same structure a doctor uses today when writing you a prescription, just with fewer Latin words and significantly more cuneiform.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0237",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 237,
+      "start_s": 1101.432,
+      "end_s": 1102.993,
+      "text": "These weren't primitive guesses.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0238",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 238,
+      "start_s": 1103.233,
+      "end_s": 1108.357,
+      "text": "These were serious intellectual traditions, built by intelligent people over centuries.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0239",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 239,
+      "start_s": 1108.917,
+      "end_s": 1112.399,
+      "text": "doing the best they could with the tools and knowledge available to them.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0240",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 240,
+      "start_s": 1112.8,
+      "end_s": 1118.423,
+      "text": "Ancient humans survived without medicine in the modern sense because they were never truly without medicine.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0241",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 241,
+      "start_s": 1118.924,
+      "end_s": 1122.526,
+      "text": "They had plants, many of which contained genuinely active compounds.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0242",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 242,
+      "start_s": 1123.086,
+      "end_s": 1129.951,
+      "text": "They had wound care techniques that, while lacking our understanding of bacteria, were often surprisingly effective.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0243",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 243,
+      "start_s": 1130.391,
+      "end_s": 1134.654,
+      "text": "They had immune systems that had been hardened by generations of pathogen exposure.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0244",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 244,
+      "start_s": 1134.974,
+      "end_s": 1138.056,
+      "text": "They had fermented foods that maintained gut health.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0245",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 245,
+      "start_s": 1138.456,
+      "end_s": 1142.979,
+      "text": "They had healers who understood the psychological power of ritual and community care.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0246",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 246,
+      "start_s": 1143.639,
+      "end_s": 1147.281,
+      "text": "They had accumulated knowledge passed down over thousands of generations.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0247",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 247,
+      "start_s": 1147.902,
+      "end_s": 1152.265,
+      "text": "And they had something else, something perhaps most important of all, each other.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0248",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 248,
+      "start_s": 1153.205,
+      "end_s": 1155.367,
+      "text": "Humans are not built to survive alone.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0249",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 249,
+      "start_s": 1155.807,
+      "end_s": 1162.072,
+      "text": "We are deeply biologically social creatures, and social support has measurable effects on health and survival.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0250",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 250,
+      "start_s": 1162.573,
+      "end_s": 1169.919,
+      "text": "Ancient humans lived in tight-knit communities where the sick were cared for, the weak were protected, the elderly were valued for their knowledge.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0251",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 251,
+      "start_s": 1170.519,
+      "end_s": 1172.921,
+      "text": "The community was itself a medical institution.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0252",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 252,
+      "start_s": 1173.281,
+      "end_s": 1180.888,
+      "text": "Modern research on loneliness consistently finds it to be one of the most powerful risk factors for early death, comparable to smoking.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0253",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 253,
+      "start_s": 1181.668,
+      "end_s": 1182.95,
+      "text": "Social isolation kills.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0254",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 254,
+      "start_s": 1183.851,
+      "end_s": 1184.973,
+      "text": "Social connection heals.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0255",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 255,
+      "start_s": 1185.774,
+      "end_s": 1188.617,
+      "text": "This was as true 50,000 years ago as it is today.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0256",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 256,
+      "start_s": 1189.478,
+      "end_s": 1192.302,
+      "text": "There's something almost humbling about it when you sit with it long enough.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0257",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 257,
+      "start_s": 1193.002,
+      "end_s": 1198.87,
+      "text": "We have MRI machines, gene sequencing, organ transplants, and robotic surgery.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0258",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 258,
+      "start_s": 1199.597,
+      "end_s": 1202.802,
+      "text": "We can cure diseases that wiped out entire civilizations.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0259",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 259,
+      "start_s": 1203.523,
+      "end_s": 1210.312,
+      "text": "We have done things medically in the last 150 years that would look like pure sorcery to any human who lived before 1850.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0260",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 260,
+      "start_s": 1211.194,
+      "end_s": 1212.996,
+      "text": "And yet the fundamentals haven't changed.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0261",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 261,
+      "start_s": 1213.697,
+      "end_s": 1215.84,
+      "text": "Ate diverse, real food.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0262",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 262,
+      "start_s": 1216.683,
+      "end_s": 1221.765,
+      "text": "stay connected to other people, move your body, manage stress, sleep enough.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0263",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 263,
+      "start_s": 1222.746,
+      "end_s": 1230.169,
+      "text": "The advice your doctor gives you today is, in its essence, not that different from what a healer told a patient sitting around a fire 10,000 years ago.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0264",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 264,
+      "start_s": 1230.649,
+      "end_s": 1232.81,
+      "text": "The tools are unrecognizably different.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0265",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 265,
+      "start_s": 1233.13,
+      "end_s": 1235.151,
+      "text": "The human underneath them is exactly the same.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0266",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 266,
+      "start_s": 1235.451,
+      "end_s": 1240.153,
+      "text": "So the next time you're marveling at the miracle of modern medicine, and you should marvel at it.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0267",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 267,
+      "start_s": 1240.554,
+      "end_s": 1241.994,
+      "text": "It is genuinely miraculous.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0268",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 268,
+      "start_s": 1243.035,
+      "end_s": 1245.776,
+      "text": "Spare a thought for what your ancestors pulled off.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0269",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 269,
+      "start_s": 1246.509,
+      "end_s": 1251.992,
+      "text": "without pharmacies, without hospitals, without the faintest idea what a virus was.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0270",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 270,
+      "start_s": 1252.812,
+      "end_s": 1270.162,
+      "text": "They looked at a world full of things that could kill them, and through observation, creativity, community, and an impressive willingness to try absolutely anything, including, let's not forget, putting maggots on wounds on purpose, they figured out how to not die.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0271",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 271,
+      "start_s": 1270.987,
+      "end_s": 1274.662,
+      "text": "At least enough of them, enough of the time, to eventually produce you.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "rk7qIWcLJ40:s0272",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 272,
+      "start_s": 1275.245,
+      "end_s": 1279.803,
+      "text": "And you, sitting here right now, are the living proof that it worked.",
+      "n_words": 13
+    }
+  ]
+}
