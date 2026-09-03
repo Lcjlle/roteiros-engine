@@ -70,13 +70,37 @@ sai - essa e a redefinicao da v3.0 (ver `_docs/plano_implementacao.md`,
 "Como escolher o canal de referencia"). `@MackExplains7` e o canal
 definitivo para a Fase 3.
 
-**Nao verificado ainda:** os criterios praticos da Fase 1 (>=40 videos
-longos elegiveis, formato consistente, legenda em ingles disponivel) nao
-foram confirmados contra este canal via `yt-dlp --flat-playlist
---dump-json`, do jeito que a Issue #1 verificou `@Zenn0009` e registrou o
-achado aqui (item 1 acima). Isso so acontece quando a issue de Fase 1 para
-`@MackExplains7` for aberta, groomada e rodar de fato - nao assuma que ja
-passou no portao so porque o canal foi escolhido.
+**Verificado na Fase 1 (issue #2), achado registrado aqui:** `yt-dlp
+--flat-playlist --dump-json` contra o canal real mostra 65 videos na aba
+`/videos`, todos com duracao >= 180s (nenhum short, min 1039s/17min, max
+1673s/28min), formato consistente (video explicativo de historia/ciencia,
+tipicamente 17-28 min, titulo em formato de pergunta - "How Did...", "Why
+Do...", "Did Ancient Humans..."), e legenda automatica em ingles listada
+como disponivel (`yt-dlp --list-subs` mostra `en` nas legendas
+automaticas). O canal tem 65 videos longos elegiveis - bem acima do piso
+pratico de 34 (30 `profile` + 4 `holdout` minimo, `_docs/decisions.md#6`)
+que esta issue exige pra rodar a coleta.
+
+Mesmo achado de canal jovem que `@Zenn0009` teve: o video mais antigo
+listado data de 92 dias antes da coleta (2026-09-02), ou seja **nenhum
+video tem mais de 6 meses** - a selecao usa o recuo ja implementado (pool
+inteiro de videos longos, ranqueado por views) em vez do filtro de 6
+meses, igual ao item 1.
+
+**Bloqueio de IP confirmado, resolvido do jeito ja documentado
+(`_docs/decisions.md#3`/`#4`/`#5`):** apesar da legenda em ingles estar
+listada como disponivel, `youtube_transcript_api` e o endpoint de legenda
+do `yt-dlp` devolveram `IpBlocked`/`HTTP 429` pros 30 videos `profile`
+selecionados (mesmo IP que bloqueou a coleta de `@Zenn0009`, ainda nao
+liberado). O endpoint de audio nao estava bloqueado, entao os 30 videos
+`profile` foram transcritos via fallback whisperX (GPU, `batch_size=4`,
+um subprocesso por video - mesmo isolamento do item #4), sem tocar nos 5
+videos `holdout` (nunca transcritos, por desenho). Pior ratio de palavras
+entre os 30 `profile`: 90.2% do esperado a 150 palavras/min
+(`_docs/decisions.md#8`), bem acima do piso de 60%.
+
+`corpus/mackexplains7/manifesto.csv` tem 30 linhas `profile` + 5 linhas
+`holdout` - o portao completo da Fase 1 desta issue passou.
 
 ## 5. Modelo de anotacao
 
@@ -93,5 +117,6 @@ gera roteiros de 10-12 min no perfil do canal @MackExplains7 (canal
 definitivo, item 4), anotado com Claude Sonnet 5 (item 5), para uso nao
 comercial. @Zenn0009 segue como fixture que ja validou apenas o codigo de
 coleta (M1/Fase 1) - a anotacao (Fase 4/5) ainda nao rodou contra nenhum
-canal. Issue #1 (Fase 1 - Coleta) ja rodou contra `@Zenn0009`; a proxima
-issue de Fase 1 roda contra `@MackExplains7` e pode ser aberta e groomada.
+canal. Issue #1 (Fase 1 - Coleta) rodou contra `@Zenn0009`; issue #2 (Fase
+1 - Coleta com reserva de holdout) rodou contra `@MackExplains7` e
+cumpriu o portao completo (item 4 acima).

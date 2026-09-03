@@ -1,0 +1,1077 @@
+{
+  "video_id": "0neQIzWDXaM",
+  "source": "whisperx",
+  "metadata": {
+    "title": "Why Does Time Feel Faster as You Age?",
+    "duration": 1395,
+    "view_count": 45000,
+    "published_at": "2026-08-03T00:00:00+00:00"
+  },
+  "fragments": [
+    {
+      "start": 0.091,
+      "duration": 2.3009999999999997,
+      "text": "It's the end of another year and you're wondering where it went."
+    },
+    {
+      "start": 3.233,
+      "duration": 1.9810000000000003,
+      "text": "Not in the wistful greeting card sense."
+    },
+    {
+      "start": 5.874,
+      "duration": 11.687000000000001,
+      "text": "In the specific, slightly alarming sense of knowing that January was three weeks ago and somehow it is already December and you cannot account for the intervening 11 months with any detail that would satisfy a court of inquiry."
+    },
+    {
+      "start": 18.522,
+      "duration": 0.9600000000000009,
+      "text": "The months passed."
+    },
+    {
+      "start": 20.203,
+      "duration": 0.5800000000000018,
+      "text": "You were there."
+    },
+    {
+      "start": 21.343,
+      "duration": 1.7809999999999988,
+      "text": "You have almost no idea what happened to them."
+    },
+    {
+      "start": 24.005,
+      "duration": 0.9600000000000009,
+      "text": "And this is getting worse."
+    },
+    {
+      "start": 25.546,
+      "duration": 1.721,
+      "text": "That's the part nobody warns you about."
+    },
+    {
+      "start": 28.286,
+      "duration": 1.8810000000000002,
+      "text": "The acceleration is not a fixed rate."
+    },
+    {
+      "start": 31.187,
+      "duration": 0.8210000000000015,
+      "text": "It is compounding."
+    },
+    {
+      "start": 32.768,
+      "duration": 5.302999999999997,
+      "text": "At some point in your 30s or 40s or 50s, you notice that the years are not just going by faster."
+    },
+    {
+      "start": 38.431,
+      "duration": 2.761000000000003,
+      "text": "They are going by faster than they were going by faster before."
+    },
+    {
+      "start": 41.713,
+      "duration": 1.1999999999999957,
+      "text": "The compression is ongoing."
+    },
+    {
+      "start": 43.273,
+      "duration": 7.283999999999999,
+      "text": "A year at 40 does not feel the same length as a year at 30, which felt nothing like a year at 20, which was an eternity compared to summer when you were 8."
+    },
+    {
+      "start": 51.277,
+      "duration": 1.4810000000000016,
+      "text": "Summer when you were 8 was an epic."
+    },
+    {
+      "start": 53.018,
+      "duration": 1.341000000000001,
+      "text": "It was a geological era."
+    },
+    {
+      "start": 54.459,
+      "duration": 1.3009999999999948,
+      "text": "It contained everything."
+    },
+    {
+      "start": 56.06,
+      "duration": 7.643999999999998,
+      "text": "It lasted forever and was over before it started, and both of these things were simultaneously true because time at 8 is fundamentally different from time at 40."
+    },
+    {
+      "start": 63.764,
+      "duration": 0.11999999999999744,
+      "text": "Why?"
+    },
+    {
+      "start": 65.897,
+      "duration": 1.4809999999999945,
+      "text": "The question is not rhetorical."
+    },
+    {
+      "start": 67.778,
+      "duration": 10.727999999999994,
+      "text": "The answer is neurological, mathematical, psychological, and practical, and it is considerably more interesting and considerably more actionable than most people who ask the question expect."
+    },
+    {
+      "start": 79.407,
+      "duration": 1.0400000000000063,
+      "text": "Let's go through it properly."
+    },
+    {
+      "start": 81.448,
+      "duration": 7.686000000000007,
+      "text": "Start with the ratio hypothesis, because this is the most commonly cited explanation, and it is illuminating even though it is not the complete story."
+    },
+    {
+      "start": 90.018,
+      "duration": 7.179999999999993,
+      "text": "The ratio hypothesis proposes that the perceived length of a time period is experienced relative to the total time you have already lived."
+    },
+    {
+      "start": 98.078,
+      "duration": 4.4809999999999945,
+      "text": "When you are 5 years old, 1 year represents 20% of your entire life experience."
+    },
+    {
+      "start": 103.139,
+      "duration": 2.4810000000000088,
+      "text": "It is 1 5th of everything you have ever known."
+    },
+    {
+      "start": 106.06,
+      "duration": 2.5999999999999943,
+      "text": "At 40, 1 year is 1 40th of your life."
+    },
+    {
+      "start": 109.26,
+      "duration": 1.7609999999999957,
+      "text": "At 80, it is 1 80th."
+    },
+    {
+      "start": 111.401,
+      "duration": 9.921999999999997,
+      "text": "The subjective experience of a year at 5 feels long, relative to a year at 40, partly because at 5, a year is a proportionally enormous slice of lived experience."
+    },
+    {
+      "start": 122.263,
+      "duration": 4.280999999999992,
+      "text": "At 40, the same objective year is a much smaller proportion of a much larger total."
+    },
+    {
+      "start": 127.44,
+      "duration": 6.085000000000008,
+      "text": "The ratio is different, and the subjective experience of duration tracks the ratio rather than the absolute time."
+    },
+    {
+      "start": 133.845,
+      "duration": 6.305000000000007,
+      "text": "This is mathematically elegant and intuitively compelling, and it does capture something real about age-related time acceleration."
+    },
+    {
+      "start": 140.37,
+      "duration": 1.4410000000000025,
+      "text": "But it is also incomplete."
+    },
+    {
+      "start": 142.232,
+      "duration": 10.647999999999996,
+      "text": "The ratio hypothesis predicts a simple compression that scales with age, but the actual experience of time acceleration is more irregular and more context-dependent than a simple ratio model would predict."
+    },
+    {
+      "start": 153.561,
+      "duration": 1.400999999999982,
+      "text": "Some years at 40 feel long."
+    },
+    {
+      "start": 155.522,
+      "duration": 1.4620000000000175,
+      "text": "Some years at 20 felt short."
+    },
+    {
+      "start": 157.564,
+      "duration": 2.141999999999996,
+      "text": "The ratio doesn't account for this variation."
+    },
+    {
+      "start": 160.087,
+      "duration": 7.367000000000019,
+      "text": "To understand what actually drives the variation, you need to go deeper into the neuroscience of how time is perceived and how the brain registers duration."
+    },
+    {
+      "start": 168.075,
+      "duration": 2.3220000000000027,
+      "text": "The brain does not have a single dedicated clock."
+    },
+    {
+      "start": 170.938,
+      "duration": 3.8640000000000043,
+      "text": "This surprises people who expect time perception to work the way a wristwatch works."
+    },
+    {
+      "start": 175.122,
+      "duration": 5.461999999999989,
+      "text": "with a single mechanism running continuously that the brain simply reads when it needs to know how much time has passed."
+    },
+    {
+      "start": 181.184,
+      "duration": 9.403999999999996,
+      "text": "The reality is that time perception in the brain is distributed, context-dependent, and substantially constructed after the fact rather than recorded in real time."
+    },
+    {
+      "start": 191.268,
+      "duration": 3.4819999999999993,
+      "text": "The primary mechanism relevant to the age-acceleration effect is this."
+    },
+    {
+      "start": 195.35,
+      "duration": 4.782000000000011,
+      "text": "The brain uses the density of encoded memories as a proxy for the duration of a time period."
+    },
+    {
+      "start": 200.972,
+      "duration": 4.244,
+      "text": "More distinct memories encoded means the time period feels longer when you look back at it."
+    },
+    {
+      "start": 205.836,
+      "duration": 6.845999999999975,
+      "text": "Fewer distinct memories, even if the same number of hours objectively elapsed, means the period feels shorter in retrospect."
+    },
+    {
+      "start": 213.542,
+      "duration": 5.103999999999985,
+      "text": "This is the memory-based model of time perception, and it explains what the ratio hypothesis cannot."
+    },
+    {
+      "start": 219.667,
+      "duration": 2.320999999999998,
+      "text": "the irregularity of time acceleration."
+    },
+    {
+      "start": 222.828,
+      "duration": 13.764999999999986,
+      "text": "A year that was full of new experiences, new places, new people, new challenges, a year that generated a high density of distinct encoded memories, feels longer in retrospect than a year of routine, regardless of the person's age."
+    },
+    {
+      "start": 237.373,
+      "duration": 5.981999999999999,
+      "text": "A year of vacation travel at 40 feels longer in retrospect than a year of uneventful routine at 20."
+    },
+    {
+      "start": 244.075,
+      "duration": 1.820999999999998,
+      "text": "The variable is not age."
+    },
+    {
+      "start": 246.476,
+      "duration": 2.4209999999999923,
+      "text": "The variable is the density of encoded memory."
+    },
+    {
+      "start": 249.752,
+      "duration": 3.8819999999999766,
+      "text": "Now, here is where age enters the picture again, but through a different mechanism."
+    },
+    {
+      "start": 254.395,
+      "duration": 5.542999999999978,
+      "text": "Children are novelty machines, not because they are more cognitively capable than adults."
+    },
+    {
+      "start": 260.819,
+      "duration": 6.4839999999999804,
+      "text": "They are not, by most measures, but because they are encountering a world that is almost entirely unfamiliar."
+    },
+    {
+      "start": 268.308,
+      "duration": 0.8210000000000264,
+      "text": "Everything is new."
+    },
+    {
+      "start": 269.829,
+      "duration": 7.463999999999999,
+      "text": "The first day of school, the first time riding a bike, the first experience of rain, the first time trying a new food."
+    },
+    {
+      "start": 277.674,
+      "duration": 5.423000000000002,
+      "text": "These are not experiences that can be predicted from prior knowledge because there is no relevant prior knowledge."
+    },
+    {
+      "start": 283.417,
+      "duration": 5.6440000000000055,
+      "text": "They must be encoded freshly in detail because they are informative about how the world works."
+    },
+    {
+      "start": 289.841,
+      "duration": 2.9429999999999836,
+      "text": "Each of these novel experiences generates a distinct memory."
+    },
+    {
+      "start": 293.424,
+      "duration": 8.56800000000004,
+      "text": "The summer at 8 feels eternal in retrospect, because it was full of novel experiences that were encoded as individual, distinct memories."
+    },
+    {
+      "start": 302.872,
+      "duration": 10.38900000000001,
+      "text": "You remember the smell of the grass and the specific quality of light on a particular afternoon because those sensory details were part of genuinely new experiences that the brain was encoding carefully."
+    },
+    {
+      "start": 314.342,
+      "duration": 5.326000000000022,
+      "text": "Adults have seen most of what there is to see, at least within their typical environments and daily routines."
+    },
+    {
+      "start": 320.589,
+      "duration": 5.807000000000016,
+      "text": "The morning commute to work, if you have been doing it for five years, is not a novel experience."
+    },
+    {
+      "start": 327.317,
+      "duration": 7.267999999999972,
+      "text": "The brain processes it efficiently, using prediction and pattern recognition to handle it without generating detailed new memories."
+    },
+    {
+      "start": 335.816,
+      "duration": 8.866000000000042,
+      "text": "You arrive at work without a clear memory of the journey, not because something is wrong with you, but because the journey was predicted well enough that no new encoding was required."
+    },
+    {
+      "start": 345.362,
+      "duration": 4.742999999999995,
+      "text": "Multiply this efficiency across the full day, the full week, the full year."
+    },
+    {
+      "start": 350.826,
+      "duration": 13.34899999999999,
+      "text": "A year of predictable, routine experience, work, commute, grocery shopping, known social contexts, familiar places, generates far fewer distinct encoded memories than a year of novelty."
+    },
+    {
+      "start": 364.755,
+      "duration": 7.4220000000000255,
+      "text": "The retrospective brain, estimating how long that year lasted based on the density of its memory traces, concludes that it was short."
+    },
+    {
+      "start": 372.917,
+      "duration": 5.122000000000014,
+      "text": "Because by the only measure the brain has available for retrospective time estimation, it was."
+    },
+    {
+      "start": 379.159,
+      "duration": 5.961999999999989,
+      "text": "This mechanism explains not just the age-related acceleration, but also the specific phenomenology of it."
+    },
+    {
+      "start": 385.661,
+      "duration": 2.761000000000024,
+      "text": "Why certain years feel long regardless of age."
+    },
+    {
+      "start": 388.942,
+      "duration": 4.060999999999979,
+      "text": "Why vacation time feels short in the moment, but long in retrospect."
+    },
+    {
+      "start": 393.563,
+      "duration": 6.185000000000002,
+      "text": "and why the end of life feels imminent to old people in ways that have nothing to do with mortality statistics."
+    },
+    {
+      "start": 400.858,
+      "duration": 9.72399999999999,
+      "text": "Let's talk about the perspective versus retrospective distinction, because this is one of the most interesting nuances in time perception research and one that most people don't consider."
+    },
+    {
+      "start": 411.502,
+      "duration": 7.163000000000011,
+      "text": "Prospective time perception is how time feels while you are in it, the experience of duration as it is happening."
+    },
+    {
+      "start": 419.345,
+      "duration": 4.481999999999971,
+      "text": "Retrospective time perception is how long a period seems when you look back at it."
+    },
+    {
+      "start": 424.428,
+      "duration": 5.701999999999998,
+      "text": "These two measures of subjective duration are determined by different mechanisms and often produce opposite results."
+    },
+    {
+      "start": 430.79,
+      "duration": 4.242999999999995,
+      "text": "Boring, monotonous, unchanging experience feels long in the moment."
+    },
+    {
+      "start": 435.414,
+      "duration": 1.9209999999999923,
+      "text": "You are paying attention to time passing."
+    },
+    {
+      "start": 437.535,
+      "duration": 3.923000000000002,
+      "text": "You have nothing to distract from the awareness of duration and the time drags."
+    },
+    {
+      "start": 442.019,
+      "duration": 5.004000000000019,
+      "text": "But boring experience feels short in retrospect, because it generated no distinct memories."
+    },
+    {
+      "start": 447.743,
+      "duration": 7.124000000000024,
+      "text": "The day at the office doing routine work drags until five o'clock and then disappears without a trace in the retrospective review."
+    },
+    {
+      "start": 455.608,
+      "duration": 4.302000000000021,
+      "text": "Engaging, novel, immersive experience feels short in the moment."
+    },
+    {
+      "start": 460.231,
+      "duration": 0.9599999999999795,
+      "text": "You are absorbed."
+    },
+    {
+      "start": 461.852,
+      "duration": 1.7010000000000218,
+      "text": "Time passes without being noticed."
+    },
+    {
+      "start": 464.053,
+      "duration": 3.6619999999999777,
+      "text": "The vacation or the captivating project seems to end before it begins."
+    },
+    {
+      "start": 468.556,
+      "duration": 6.924000000000035,
+      "text": "But engaging experience feels long in retrospect because it generated rich, detailed, distinct memories."
+    },
+    {
+      "start": 476.04,
+      "duration": 7.149000000000001,
+      "text": "The vacation week feels substantial in the retrospective review, full of separable moments and experiences that can be individually recalled."
+    },
+    {
+      "start": 484.21,
+      "duration": 10.413000000000011,
+      "text": "This paradox—that the experiences that feel longest in the moment feel shortest in retrospect, and vice versa—is one of the most reliable findings in time-perception research."
+    },
+    {
+      "start": 495.584,
+      "duration": 10.853999999999985,
+      "text": "It is also one of the most practically important because it means that optimizing for day-to-day comfort and the reduction of boredom may systematically produce lives that feel shorter in retrospect."
+    },
+    {
+      "start": 507.139,
+      "duration": 2.0020000000000095,
+      "text": "A life of maximized comfort and routine"
+    },
+    {
+      "start": 510.327,
+      "duration": 8.644999999999982,
+      "text": "A life structured to eliminate friction, unpredictability, and novelty is a life that will feel like it passed in an instant when you look back at it."
+    },
+    {
+      "start": 519.792,
+      "duration": 3.3619999999999663,
+      "text": "The opposite is not intuitive, but it is supported by the evidence."
+    },
+    {
+      "start": 523.855,
+      "duration": 3.7619999999999436,
+      "text": "The lives that feel longest, that feel most full of time,"
+    },
+    {
+      "start": 528.497,
+      "duration": 7.387000000000057,
+      "text": "are the lives that contain the most variety, the most novelty, and the most deliberately accumulated distinct experience."
+    },
+    {
+      "start": 536.365,
+      "duration": 11.711000000000013,
+      "text": "Now let's talk about the role of attention, because attention is the mechanism that connects novelty to memory encoding, and that provides the most direct lever for intervening in the time acceleration experience."
+    },
+    {
+      "start": 548.817,
+      "duration": 2.8239999999999554,
+      "text": "Memories are formed from experience that is attended to."
+    },
+    {
+      "start": 552.522,
+      "duration": 11.854999999999905,
+      "text": "Unattended experience—experience that is processed but not focused on, that passes through the senses without generating cognitive engagement—produces weak or absent memory traces."
+    },
+    {
+      "start": 565.258,
+      "duration": 11.784999999999968,
+      "text": "The commute that is navigated on autopilot while mentally rehearsing a work conversation generates no meaningful memory, because the attention that would encode the experience was directed elsewhere."
+    },
+    {
+      "start": 577.803,
+      "duration": 8.44399999999996,
+      "text": "Mindfulness, the deliberate direction of attention to present experience, works against the time-acceleration effect through this mechanism."
+    },
+    {
+      "start": 587.237,
+      "duration": 6.850000000000023,
+      "text": "When you pay attention to what is happening as it happens, the experience is more likely to generate distinct memory traces."
+    },
+    {
+      "start": 594.588,
+      "duration": 6.971000000000004,
+      "text": "The walk that you actually look at, the meal you actually taste, the conversation you actually listen to."
+    },
+    {
+      "start": 602.46,
+      "duration": 4.062000000000012,
+      "text": "These generate richer memories than the same activities conducted on autopilot."
+    },
+    {
+      "start": 607.382,
+      "duration": 9.043000000000006,
+      "text": "By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans."
+    },
+    {
+      "start": 617.106,
+      "duration": 6.04200000000003,
+      "text": "10 modules, 3 plus hours of content, covering everything we never talk about on YouTube."
+    },
+    {
+      "start": 623.648,
+      "duration": 4.583999999999946,
+      "text": "What they feared, how they communicated, what hunted them, and much more."
+    },
+    {
+      "start": 628.552,
+      "duration": 2.322999999999979,
+      "text": "Plus an exclusive PDF guide included."
+    },
+    {
+      "start": 631.435,
+      "duration": 0.9810000000001082,
+      "text": "Link in the description."
+    },
+    {
+      "start": 632.896,
+      "duration": 0.8010000000000446,
+      "text": "See you inside."
+    },
+    {
+      "start": 634.698,
+      "duration": 1.620999999999981,
+      "text": "This is not just philosophical."
+    },
+    {
+      "start": 637.48,
+      "duration": 0.8410000000000082,
+      "text": "It is measurable."
+    },
+    {
+      "start": 639.322,
+      "duration": 6.2859999999999445,
+      "text": "Studies of mindfulness practitioners versus non-practitioners find consistent differences in time perception."
+    },
+    {
+      "start": 646.693,
+      "duration": 8.105000000000018,
+      "text": "Mindfulness practitioners generally report slower perceived passage of time and more detailed autobiographical memory for recent periods."
+    },
+    {
+      "start": 655.538,
+      "duration": 10.785999999999945,
+      "text": "The attention they bring to experience is generating the memory density that the brain uses to estimate duration, and the resulting retrospective time estimation is of a longer, more substantial period."
+    },
+    {
+      "start": 667.044,
+      "duration": 7.404999999999973,
+      "text": "The practical implication is uncomfortable for most modern people because it runs directly against the dominant pattern of contemporary life."
+    },
+    {
+      "start": 675.289,
+      "duration": 13.228000000000065,
+      "text": "Chronic distraction, the background stimulus that most people maintain through near constant phone use, background media, and multitasking, is essentially a systematized attention reduction program."
+    },
+    {
+      "start": 689.337,
+      "duration": 9.865999999999985,
+      "text": "It ensures that most experiences are processed without full attention, and therefore without generating the memory traces that would make time feel substantial in retrospect."
+    },
+    {
+      "start": 700.288,
+      "duration": 11.06899999999996,
+      "text": "A year spent with frequent attention divided by a phone generates fewer distinct memories of lived experience than the same year lived with full attention to what was actually happening."
+    },
+    {
+      "start": 712.037,
+      "duration": 13.329999999999927,
+      "text": "The acceleration that people in highly connected, highly distracted modern environments notice is substantially a product of chronic attention division, producing inadequate memory formation across the days and months that constitute the year."
+    },
+    {
+      "start": 726.508,
+      "duration": 7.807999999999993,
+      "text": "Now let's talk about emotional intensity and its relationship to time perception, because this dimension is both well-documented and practically important."
+    },
+    {
+      "start": 735.117,
+      "duration": 4.724000000000046,
+      "text": "Emotionally intense experiences are encoded more strongly than neutral experiences."
+    },
+    {
+      "start": 740.662,
+      "duration": 2.6019999999999754,
+      "text": "This is a fundamental feature of memory formation."
+    },
+    {
+      "start": 744.16,
+      "duration": 8.663999999999987,
+      "text": "The amygdala, which processes emotional intensity, modulates the encoding process in the hippocampus, which forms explicit memories."
+    },
+    {
+      "start": 753.724,
+      "duration": 7.08299999999997,
+      "text": "High emotional intensity means stronger encoding signal, which means more durable and more detailed memory formation."
+    },
+    {
+      "start": 761.707,
+      "duration": 3.4220000000000255,
+      "text": "This is why you remember where you were during major emotional events."
+    },
+    {
+      "start": 765.769,
+      "duration": 4.141999999999939,
+      "text": "Moments of sudden fear, of intense joy, of grief, of love."
+    },
+    {
+      "start": 770.751,
+      "duration": 3.745999999999981,
+      "text": "with a clarity and detail that ordinary moments never achieve."
+    },
+    {
+      "start": 775.568,
+      "duration": 6.985000000000014,
+      "text": "The emotional intensity is directly increasing the memory encoding signal and producing the detailed memory that results."
+    },
+    {
+      "start": 783.454,
+      "duration": 5.363000000000056,
+      "text": "For time perception, this means that emotionally intense periods feel longer in retrospect."
+    },
+    {
+      "start": 789.798,
+      "duration": 15.291000000000054,
+      "text": "A week containing major emotional events, a bereavement, a falling in love, a significant achievement or failure, contains more memory traces than a week of even pleasant routine, and therefore feels longer when recalled."
+    },
+    {
+      "start": 806.592,
+      "duration": 2.882000000000062,
+      "text": "Children's lives are emotionally intense by default."
+    },
+    {
+      "start": 810.094,
+      "duration": 11.046999999999912,
+      "text": "Not because children have more intense emotions than adults, though this may be true, but because the novelty that produces new memories also produces emotional engagement."
+    },
+    {
+      "start": 821.961,
+      "duration": 2.562000000000012,
+      "text": "New experiences produce emotional responses."
+    },
+    {
+      "start": 825.523,
+      "duration": 7.044999999999959,
+      "text": "The first time is always emotional to some degree, because the outcome is unknown and the experience is uncharted."
+    },
+    {
+      "start": 833.348,
+      "duration": 3.6230000000000473,
+      "text": "By the hundredth time, the emotional response is attenuated."
+    },
+    {
+      "start": 837.631,
+      "duration": 10.187999999999988,
+      "text": "The competent adult navigating a familiar situation is emotionally flatter than the child navigating everything for the first time, and the memory traces are correspondingly less vivid."
+    },
+    {
+      "start": 849.011,
+      "duration": 2.9610000000000127,
+      "text": "Now let's talk about something that appears in the time perception."
+    },
+    {
+      "start": 852.433,
+      "duration": 4.3419999999999845,
+      "text": "Literature but that rarely makes it into popular discussions of why time accelerates."
+    },
+    {
+      "start": 857.395,
+      "duration": 4.9220000000000255,
+      "text": "The specific role of social time perception and how other people shape your sense of time passing."
+    },
+    {
+      "start": 863.157,
+      "duration": 9.365000000000009,
+      "text": "Humans are profoundly social animals and social context shapes time perception in ways that are distinct from the individual mechanisms already described."
+    },
+    {
+      "start": 873.362,
+      "duration": 19.175000000000068,
+      "text": "Time spent in deeply engaging social interaction, conversation that absorbs attention, shared experience that generates emotional intensity, the presence of people you care about, is time that tends to generate rich memory traces in the social-emotional memory systems that are particularly durable."
+    },
+    {
+      "start": 893.778,
+      "duration": 5.9249999999999545,
+      "text": "Conversely, loneliness and social isolation distort time perception in a specific direction."
+    },
+    {
+      "start": 900.898,
+      "duration": 15.004000000000019,
+      "text": "Research on time perception in isolated individuals, from studies of cave dwellers in chronobiology experiments to research on the effects of extended social isolation, consistently finds that isolation produces dysregulated time perception."
+    },
+    {
+      "start": 916.622,
+      "duration": 8.023000000000025,
+      "text": "Without the social anchoring that other people provide, the sense of time becomes fluid, poorly calibrated, and subjectively erratic."
+    },
+    {
+      "start": 925.565,
+      "duration": 6.402999999999906,
+      "text": "This social dimension of time perception has a practical implication that is separate from the novelty and attention recommendations."
+    },
+    {
+      "start": 932.848,
+      "duration": 11.605999999999995,
+      "text": "Investing in rich, attentive social relationships is not just psychologically beneficial in the ways that the extensive loneliness research documents, it is also a form of time management in the subjective sense."
+    },
+    {
+      "start": 945.454,
+      "duration": 8.104000000000042,
+      "text": "Time spent in engaged social connection generates the memory traces and emotional intensity that make that time feel substantial in retrospect."
+    },
+    {
+      "start": 954.622,
+      "duration": 16.764999999999986,
+      "text": "The trend toward more isolated, less socially rich lives, working from home, reduced community participation, entertainment that is consumed individually rather than shared, has time perception consequences that compound the effects of routine and distraction."
+    },
+    {
+      "start": 972.267,
+      "duration": 8.52299999999991,
+      "text": "Less social engagement means fewer socially anchored memories, means time feels thinner and more compressed in the retrospective review."
+    },
+    {
+      "start": 981.59,
+      "duration": 5.062999999999988,
+      "text": "Now let's address something that is both scientifically interesting and emotionally significant."
+    },
+    {
+      "start": 987.593,
+      "duration": 4.7420000000000755,
+      "text": "The relationship between time acceleration and identity across a life."
+    },
+    {
+      "start": 993.236,
+      "duration": 4.04200000000003,
+      "text": "The compressing of time as we age is not just a perceptual phenomenon."
+    },
+    {
+      "start": 998.018,
+      "duration": 5.122999999999934,
+      "text": "It has consequences for identity and for how people construct narratives of their own lives."
+    },
+    {
+      "start": 1004.081,
+      "duration": 1.1809999999999263,
+      "text": "When time feels slow,"
+    },
+    {
+      "start": 1006.105,
+      "duration": 9.606999999999971,
+      "text": "When each year is a substantial, experientially rich period, the self has time to change, to develop, to accumulate new chapters."
+    },
+    {
+      "start": 1016.673,
+      "duration": 9.807000000000016,
+      "text": "When time compresses, when years blur into indistinguishable routines and pass without leaving distinct traces, the self can feel static."
+    },
+    {
+      "start": 1027.762,
+      "duration": 9.244000000000142,
+      "text": "Not because it isn't changing biologically or socially, but because it isn't generating the kind of distinct, separable experience that makes change visible in the narrative."
+    },
+    {
+      "start": 1037.786,
+      "duration": 12.42599999999993,
+      "text": "People who report feeling that their lives are passing too fast often also report a sense that they are not changing, not growing, not accumulating the kinds of experiences that give a life the quality of having been lived fully."
+    },
+    {
+      "start": 1051.603,
+      "duration": 6.664999999999964,
+      "text": "These two experiences, time acceleration and narrative stagnation, are connected by the same mechanism."
+    },
+    {
+      "start": 1059.329,
+      "duration": 2.2619999999999436,
+      "text": "Routine produces few distinct memories."
+    },
+    {
+      "start": 1062.212,
+      "duration": 2.8220000000001164,
+      "text": "Few distinct memories means time feels compressed."
+    },
+    {
+      "start": 1065.674,
+      "duration": 5.365000000000009,
+      "text": "Few distinct memories also means few markers of change and growth in the autobiographical narrative."
+    },
+    {
+      "start": 1071.959,
+      "duration": 7.886999999999944,
+      "text": "The same deficit in experience produces both the feeling of time passing too fast and the feeling that nothing significant is happening."
+    },
+    {
+      "start": 1081.033,
+      "duration": 2.2210000000000036,
+      "text": "The intervention is the same in both cases."
+    },
+    {
+      "start": 1084.255,
+      "duration": 4.481999999999971,
+      "text": "The solution to time acceleration is the solution to narrative stagnation."
+    },
+    {
+      "start": 1089.857,
+      "duration": 10.285000000000082,
+      "text": "Deliberate introduction of novelty, challenge, and new experience that generates the memory density the brain uses to construct the sense of a substantial, changing life."
+    },
+    {
+      "start": 1101.185,
+      "duration": 10.06899999999996,
+      "text": "Let's talk about what this means practically, because the research on time perception converges on implications that are specific, actionable, and somewhat counter-cultural."
+    },
+    {
+      "start": 1112.275,
+      "duration": 4.6039999999998145,
+      "text": "The lives that feel longest, that produce the most subjective time richness,"
+    },
+    {
+      "start": 1117.56,
+      "duration": 3.1410000000000764,
+      "text": "are not the lives that are most comfortable or most efficient."
+    },
+    {
+      "start": 1121.461,
+      "duration": 18.023999999999887,
+      "text": "They are the lives that contain the most variety, the most novelty, the most challenges met for the first time, the most places visited that were unfamiliar, the most skills learned that were initially difficult, the most relationships formed with people who were different."
+    },
+    {
+      "start": 1139.985,
+      "duration": 2.8810000000000855,
+      "text": "These are the experiences that generate distinct memories."
+    },
+    {
+      "start": 1143.486,
+      "duration": 3.6809999999998126,
+      "text": "These are the experiences that make time feel substantial in retrospect."
+    },
+    {
+      "start": 1148.107,
+      "duration": 8.846000000000004,
+      "text": "The standard life advice of finding your comfort zone and settling into it is, from a time perception perspective, a recipe for a life that will feel very short when you look back on it."
+    },
+    {
+      "start": 1158.134,
+      "duration": 7.444999999999936,
+      "text": "Not because comfort is bad, but because comfort produces the routine and prediction that eliminate novelty and therefore reduce memory formation."
+    },
+    {
+      "start": 1166.879,
+      "duration": 8.424000000000206,
+      "text": "Learning a new skill, genuinely new, not the incremental refinement of a skill you already have, generates novelty throughout the learning period."
+    },
+    {
+      "start": 1176.403,
+      "duration": 3.421000000000049,
+      "text": "Each session is slightly different from the last because your ability is changing."
+    },
+    {
+      "start": 1180.405,
+      "duration": 4.981999999999971,
+      "text": "The experience of learning is consistently novel in a way that the experience of competence is not."
+    },
+    {
+      "start": 1186.047,
+      "duration": 8.844000000000051,
+      "text": "A musician who is learning an instrument is generating more memory traces per hour of practice than a professional musician playing music they have played hundreds of times."
+    },
+    {
+      "start": 1195.691,
+      "duration": 1.7609999999999673,
+      "text": "The learning musician's time is richer."
+    },
+    {
+      "start": 1198.093,
+      "duration": 11.907999999999902,
+      "text": "Travel is the most commonly cited intervention, and it works for the documented reason, new environments, new sensory inputs, new social contexts, new food, new navigation challenges."
+    },
+    {
+      "start": 1210.541,
+      "duration": 4.003000000000156,
+      "text": "All of these generate the memory density that makes time feel substantial."
+    },
+    {
+      "start": 1215.444,
+      "duration": 4.54099999999994,
+      "text": "A week in a genuinely unfamiliar place generates more memories than a month of home routine."
+    },
+    {
+      "start": 1220.445,
+      "duration": 4.101000000000113,
+      "text": "Which is why travel weeks feel short in the moment and long in retrospect."
+    },
+    {
+      "start": 1224.926,
+      "duration": 4.861000000000104,
+      "text": "And why the year you traveled extensively feels longer in the rearview mirror than the year you stayed home."
+    },
+    {
+      "start": 1230.227,
+      "duration": 11.642999999999802,
+      "text": "The travel intervention doesn't require expensive international trips to work, and this is worth emphasizing because the expense barrier causes many people to dismiss travel as a time enrichment strategy available only to the wealthy."
+    },
+    {
+      "start": 1242.783,
+      "duration": 3.0820000000001073,
+      "text": "The mechanism is novelty, not distance or cost."
+    },
+    {
+      "start": 1246.465,
+      "duration": 12.326999999999998,
+      "text": "A weekend in a town two hours from home that you have never visited, eating food you have never tried, navigating streets that are unfamiliar, this generates the novelty-based memory density that makes time feel substantial."
+    },
+    {
+      "start": 1259.472,
+      "duration": 2.0009999999999764,
+      "text": "The geographic distance is irrelevant."
+    },
+    {
+      "start": 1261.993,
+      "duration": 2.18100000000004,
+      "text": "The unfamiliarity is what matters."
+    },
+    {
+      "start": 1265.075,
+      "duration": 7.023999999999887,
+      "text": "Novelty can be introduced into ordinary life at no financial cost through deliberate variation of routine, a different route to work."
+    },
+    {
+      "start": 1272.958,
+      "duration": 1.9209999999998217,
+      "text": "A meal from a cuisine you have never tried."
+    },
+    {
+      "start": 1275.62,
+      "duration": 2.9220000000000255,
+      "text": "A conversation with a stranger you would normally not engage with."
+    },
+    {
+      "start": 1279.202,
+      "duration": 1.5419999999999163,
+      "text": "A book in a genre you never read."
+    },
+    {
+      "start": 1281.264,
+      "duration": 2.0410000000001673,
+      "text": "A physical skill attempted for the first time."
+    },
+    {
+      "start": 1283.706,
+      "duration": 8.18600000000015,
+      "text": "Each of these injects novelty into a day that would otherwise pass on autopilot, and each generates the memory traces that make the day feel like something happened in it."
+    },
+    {
+      "start": 1292.73,
+      "duration": 14.461999999999989,
+      "text": "The accumulation of these small novelties across a year does not produce the dramatic time enrichment of a year of adventure travel, but it produces more than a year of pure routine, and it is available to everyone regardless of financial circumstances, health, or life stage."
+    },
+    {
+      "start": 1308.113,
+      "duration": 2.5,
+      "text": "And this is ultimately the answer to the question in the title."
+    },
+    {
+      "start": 1311.673,
+      "duration": 10.22199999999998,
+      "text": "Time feels faster as you age because the proportion of your experience that is novel decreases as you accumulate experience and settle into the routines that predictable adult life produces."
+    },
+    {
+      "start": 1322.905,
+      "duration": 3.4220000000000255,
+      "text": "The brain measures retrospective time by memory density."
+    },
+    {
+      "start": 1326.987,
+      "duration": 2.6820000000000164,
+      "text": "Memory density is produced by novelty and attention."
+    },
+    {
+      "start": 1330.129,
+      "duration": 2.4610000000000127,
+      "text": "Novelty decreases as familiarity increases."
+    },
+    {
+      "start": 1333.09,
+      "duration": 2.86200000000008,
+      "text": "Attention decreases as habit and distraction dominate."
+    },
+    {
+      "start": 1336.712,
+      "duration": 8.245000000000118,
+      "text": "Social engagement, which anchors memory and generates emotional intensity, often decreases as adult life becomes more structured and less spontaneous."
+    },
+    {
+      "start": 1345.777,
+      "duration": 8.710000000000036,
+      "text": "The result is a systematic reduction in memory density per unit time as life becomes more predictable, which the brain experiences as time passing faster."
+    },
+    {
+      "start": 1355.548,
+      "duration": 3.423999999999978,
+      "text": "The good news is that this mechanism is responsive to intervention."
+    },
+    {
+      "start": 1359.653,
+      "duration": 1.6020000000000891,
+      "text": "The compression is not inevitable."
+    },
+    {
+      "start": 1362.076,
+      "duration": 3.2239999999999327,
+      "text": "It is the product of specific conditions that are partly under your control."
+    },
+    {
+      "start": 1366.257,
+      "duration": 6.923000000000002,
+      "text": "more novelty, more deliberate attention, more challenge, more social engagement, more firstness."
+    },
+    {
+      "start": 1373.92,
+      "duration": 6.76299999999992,
+      "text": "The first time doing anything generates more memory than the hundredth time, and you can choose to generate more first times at any age."
+    },
+    {
+      "start": 1381.743,
+      "duration": 3.9220000000000255,
+      "text": "The summer at eight felt eternal because everything was a first time."
+    },
+    {
+      "start": 1385.985,
+      "duration": 3.4809999999999945,
+      "text": "You can't go back to eight, but you can go back to first times."
+    },
+    {
+      "start": 1389.906,
+      "duration": 4.102000000000089,
+      "text": "That is the closest thing to slowing time down that the neuroscience currently supports."
+    }
+  ]
+}
