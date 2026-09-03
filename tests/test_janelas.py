@@ -147,27 +147,78 @@ def _window(video_id, idx, n_words=10, n_sentences=2, sent_ids=None):
 
 class TestCheck3a:
     def test_passes_when_big_window_count_matches_big_sentence_count(self):
+        # positivo minimo: janela > 60 com n_sentences=1 e a sentenca
+        # referenciada por sent_ids[0] de fato > 60 - proveniencia comprovada
         sentences_by_video = {"v1": _sentences_payload("v1", [_sentence("v1", 0, n_words=70)])}
         windows_by_video = {"v1": [_window("v1", 0, n_words=70, n_sentences=1)]}
 
-        ok, n_sent, n_win = janelas.check_3a(sentences_by_video, windows_by_video)
+        ok, problems = janelas.check_3a(sentences_by_video, windows_by_video)
 
         assert ok
-        assert n_sent == 1
-        assert n_win == 1
+        assert problems == []
 
     def test_fails_when_oversized_window_has_no_matching_oversized_sentence(self):
         # nenhuma sentenca > 60 palavras, mas uma janela reporta 70 -
         # violacao da invariante (bug de agrupamento, nao explicado por
-        # sentenca isolada estourada)
+        # sentenca isolada estourada) e da proveniencia por janela
         sentences_by_video = {"v1": _sentences_payload("v1", [_sentence("v1", 0, n_words=10)])}
         windows_by_video = {"v1": [_window("v1", 0, n_words=70, n_sentences=1)]}
 
-        ok, n_sent, n_win = janelas.check_3a(sentences_by_video, windows_by_video)
+        ok, problems = janelas.check_3a(sentences_by_video, windows_by_video)
 
         assert not ok
-        assert n_sent == 0
-        assert n_win == 1
+        assert any("v1:j0000" in p for p in problems)
+
+    def test_fails_when_oversized_window_is_a_merge_of_multiple_sentences(self):
+        # GAP que a contagem agregada sozinha deixa passar: 1 sentenca
+        # grande no corpus (70 palavras, idx 0) e 1 janela grande no corpus
+        # (65 palavras) - contagens EMPATAM (1==1), a checagem antiga (so
+        # contagem agregada) passaria aqui. Mas a janela grande e uma FUSAO
+        # de 2 sentencas (n_sentences=2, sent_ids de s0001/s0002 - nao a
+        # s0000 que e a unica realmente grande) - proveniencia falsa, a
+        # sentenca de 70 palavras "sumiu" sem estar representada por
+        # nenhuma janela grande. A checagem por janela tem que pegar isso.
+        sentences_by_video = {
+            "v1": _sentences_payload(
+                "v1",
+                [
+                    _sentence("v1", 0, n_words=70),
+                    _sentence("v1", 1, n_words=35),
+                    _sentence("v1", 2, n_words=30),
+                ],
+            )
+        }
+        windows_by_video = {
+            "v1": [_window("v1", 0, n_words=65, n_sentences=2, sent_ids=["v1:s0001", "v1:s0002"])]
+        }
+
+        ok, problems = janelas.check_3a(sentences_by_video, windows_by_video)
+
+        assert not ok
+        assert any("v1:j0000" in p and "2 sentencas" in p for p in problems)
+        # a contagem agregada sozinha empataria (1 sentenca grande == 1
+        # janela grande) - nao deve ser esse o problema reportado aqui
+        assert not any("contagem agregada" in p for p in problems)
+
+    def test_fails_when_oversized_window_references_a_small_sentence(self):
+        # mesmo GAP, outra forma: contagens empatam (1==1), janela tem
+        # n_sentences=1 (nao fusao visivel), mas sent_ids[0] aponta pra uma
+        # sentenca PEQUENA (10 palavras) - proveniencia errada, nao a
+        # sentenca de 70 palavras que de fato existe no corpus
+        sentences_by_video = {
+            "v1": _sentences_payload(
+                "v1", [_sentence("v1", 0, n_words=70), _sentence("v1", 1, n_words=10)]
+            )
+        }
+        windows_by_video = {
+            "v1": [_window("v1", 0, n_words=65, n_sentences=1, sent_ids=["v1:s0001"])]
+        }
+
+        ok, problems = janelas.check_3a(sentences_by_video, windows_by_video)
+
+        assert not ok
+        assert any("v1:j0000" in p and "v1:s0001" in p for p in problems)
+        assert not any("contagem agregada" in p for p in problems)
 
 
 class TestCheck3b:

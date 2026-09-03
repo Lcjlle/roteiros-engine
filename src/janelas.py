@@ -139,31 +139,96 @@ def window_records(
 # --------------------------------------------------------------------------
 
 
-def check_3a(
+def _count_big(
     sentences_by_video: dict[str, dict], windows_by_video: dict[str, list[dict]]
-) -> tuple[bool, int, int]:
-    """3a - INVARIANTE: nº de janelas com `n_words > GATE_MAX_WINDOW_WORDS`
-    no corpus inteiro tem que ser igual ao nº de sentencas com `n_words >
-    GATE_MAX_WINDOW_WORDS` no corpus inteiro. `windows/*.json` sozinho nao
-    tem esse denominador - o lido vem de `sentences/*.json`
-    (`sentences_by_video[vid]["sentences"]`), porque `group_windows()`
-    nunca deixa a soma de varias sentencas ultrapassar `gate_max_words`: a
-    unica forma de uma janela estourar e relaindo uma sentenca ja
-    estourada sozinha. Devolve `(passou, n_sentencas_grandes,
+) -> tuple[int, int]:
+    """Contagem agregada de sentencas/janelas com `n_words >
+    GATE_MAX_WINDOW_WORDS` no corpus inteiro. Sinal util (`check_3a`
+    depende dele) mas NAO suficiente sozinho: duas contagens podem empatar
+    por coincidencia sem provar que cada janela grande de fato veio de
+    relay de uma sentenca ja grande - so a checagem por janela em
+    `check_3a` prova proveniencia. Devolve `(n_sentencas_grandes,
     n_janelas_grandes)`."""
-    n_big_sentences = sum(
+    n_sentences = sum(
         1
         for data in sentences_by_video.values()
         for s in data["sentences"]
         if s["n_words"] > GATE_MAX_WINDOW_WORDS
     )
-    n_big_windows = sum(
+    n_windows = sum(
         1
         for windows in windows_by_video.values()
         for w in windows
         if w["n_words"] > GATE_MAX_WINDOW_WORDS
     )
-    return n_big_sentences == n_big_windows, n_big_sentences, n_big_windows
+    return n_sentences, n_windows
+
+
+def check_3a(
+    sentences_by_video: dict[str, dict], windows_by_video: dict[str, list[dict]]
+) -> tuple[bool, list[str]]:
+    """3a - INVARIANTE + PROVENIENCIA. Dois niveis de checagem, o segundo
+    fecha o buraco do primeiro:
+
+    (1) Contagem agregada (`_count_big`): nº de janelas > `GATE_MAX_WINDOW_WORDS`
+    no corpus inteiro tem que ser igual ao nº de sentencas > `GATE_MAX_WINDOW_WORDS`.
+    Necessario, mas NAO suficiente sozinho - duas contagens podem empatar
+    por coincidencia (ex.: uma janela grande formada por fusao de varias
+    sentencas medias, enquanto uma sentenca grande de verdade "some" em
+    outro lugar do corpus), sem que nenhuma das duas janelas problematicas
+    seja de fato explicada.
+
+    (2) Proveniencia por janela (o que fecha o buraco de (1)): toda janela
+    com `n_words > GATE_MAX_WINDOW_WORDS` tem que ter `n_sentences == 1` E
+    a sentenca referenciada por `sent_ids[0]` (buscada em
+    `sentences_by_video[video_id]["sentences"]`) tem que, ela mesma, ter
+    `n_words > GATE_MAX_WINDOW_WORDS`. Essa e a unica forma legitima de uma
+    janela estourar - `group_windows()` nunca deixa a soma de VARIAS
+    sentencas ultrapassar `gate_max_words`, entao uma janela grande so pode
+    existir por estar relaying uma sentenca ja grande sozinha, nunca por
+    fusao.
+
+    Devolve `(passou, problemas)`: um problema para a contagem agregada se
+    ela nao bater, e um problema por janela cuja proveniencia nao foi
+    comprovada, cada um citando o `window_id`."""
+    problems: list[str] = []
+
+    n_sent_big, n_win_big = _count_big(sentences_by_video, windows_by_video)
+    if n_sent_big != n_win_big:
+        problems.append(
+            f"3a: {n_win_big} janela(s) > {GATE_MAX_WINDOW_WORDS} palavras no corpus, "
+            f"esperado igual as {n_sent_big} sentenca(s) > {GATE_MAX_WINDOW_WORDS} palavras "
+            "(contagem agregada, invariante, 0 de diferenca)"
+        )
+
+    for video_id, windows in windows_by_video.items():
+        sent_by_id = {s["sent_id"]: s for s in sentences_by_video[video_id]["sentences"]}
+        for w in windows:
+            if w["n_words"] <= GATE_MAX_WINDOW_WORDS:
+                continue
+            if w["n_sentences"] != 1:
+                problems.append(
+                    f"3a: {w['window_id']} tem {w['n_words']} palavras (> "
+                    f"{GATE_MAX_WINDOW_WORDS}) mas {w['n_sentences']} sentencas - janela "
+                    "grande so pode vir de relay de uma sentenca ja grande, nunca de "
+                    "fusao de varias (proveniencia nao comprovada)"
+                )
+                continue
+            sentence = sent_by_id.get(w["sent_ids"][0])
+            if sentence is None or sentence["n_words"] <= GATE_MAX_WINDOW_WORDS:
+                found = (
+                    f"{sentence['n_words']} palavras"
+                    if sentence is not None
+                    else "sentenca nao encontrada em sentences_by_video"
+                )
+                problems.append(
+                    f"3a: {w['window_id']} tem {w['n_words']} palavras (> "
+                    f"{GATE_MAX_WINDOW_WORDS}) mas a sentenca referenciada "
+                    f"({w['sent_ids'][0]}) tem {found}, nao > {GATE_MAX_WINDOW_WORDS} "
+                    "(proveniencia nao comprovada)"
+                )
+
+    return not problems, problems
 
 
 def check_3b(
@@ -257,13 +322,8 @@ def check_gate(
     mas nunca bloqueia PASSOU/FALHOU."""
     problems: list[str] = []
 
-    a_ok, n_sent_big, n_win_big = check_3a(sentences_by_video, windows_by_video)
-    if not a_ok:
-        problems.append(
-            f"3a: {n_win_big} janela(s) > {GATE_MAX_WINDOW_WORDS} palavras no corpus, "
-            f"esperado igual as {n_sent_big} sentenca(s) > {GATE_MAX_WINDOW_WORDS} palavras "
-            "(invariante, 0 de diferenca)"
-        )
+    a_ok, a_problems = check_3a(sentences_by_video, windows_by_video)
+    problems.extend(a_problems)
 
     b_ok, residual = check_3b(sentences_by_video, windows_by_video)
     if not b_ok:
@@ -321,11 +381,12 @@ def main() -> None:
     total = sum(len(w) for w in windows_by_video.values())
     print(f"{len(windows_by_video)} videos, {total} janelas em {WINDOWS_DIR}")
 
-    a_ok, n_sent_big, n_win_big = check_3a(sentences_by_video, windows_by_video)
+    a_ok, _a_problems = check_3a(sentences_by_video, windows_by_video)
+    n_sent_big, n_win_big = _count_big(sentences_by_video, windows_by_video)
     print(
-        f"3a (invariante): {n_win_big} janelas > {GATE_MAX_WINDOW_WORDS} palavras == "
-        f"{n_sent_big} sentencas > {GATE_MAX_WINDOW_WORDS} palavras -> "
-        f"{'OK' if a_ok else 'FALHOU'}"
+        f"3a (invariante + proveniencia por janela): {n_win_big} janelas > "
+        f"{GATE_MAX_WINDOW_WORDS} palavras == {n_sent_big} sentencas > "
+        f"{GATE_MAX_WINDOW_WORDS} palavras -> {'OK' if a_ok else 'FALHOU'}"
     )
     b_ok, residual = check_3b(sentences_by_video, windows_by_video)
     print(f"3b (invariante): residuo nao explicado = {residual} -> {'OK' if b_ok else 'FALHOU'}")
