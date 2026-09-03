@@ -2,6 +2,9 @@
 
 from __future__ import annotations
 
+import json
+from datetime import datetime, timedelta
+
 from src import janelas
 
 
@@ -26,6 +29,15 @@ def _sentences_payload(video_id, sentences, duration_s=600.0):
         "generated_at": "2026-01-01T00:00:00+00:00",
         "sentences": sentences,
     }
+
+
+def _write_sentences_input(sentences_dir, payload):
+    for sentence in payload["sentences"]:
+        sentence["text"] = " ".join(["palavra"] * sentence["n_words"])
+    sentences_dir.mkdir()
+    (sentences_dir / f"{payload['video_id']}.json").write_text(
+        json.dumps(payload), encoding="utf-8"
+    )
 
 
 # --------------------------------------------------------------------------
@@ -417,3 +429,97 @@ class TestCheckGate:
 
         assert passed
         assert problems == []
+
+
+# --------------------------------------------------------------------------
+# gate artifact
+# --------------------------------------------------------------------------
+
+
+class TestGateArtifact:
+    def test_persists_each_gate_result_from_the_generated_windows(self, tmp_path):
+        sentences_dir = tmp_path / "sentences"
+        payload = _sentences_payload(
+            "v1", [_sentence("v1", idx, n_words=10) for idx in range(12)], duration_s=60.0
+        )
+        _write_sentences_input(sentences_dir, payload)
+
+        windows_by_video, sentences_by_video, _result = janelas.run_gate(
+            sentences_dir, tmp_path / "windows"
+        )
+        artifact = json.loads((tmp_path / "fase2_gate.json").read_text(encoding="utf-8"))
+        a_ok, a_problems = janelas.check_3a(sentences_by_video, windows_by_video)
+        b_ok, residual = janelas.check_3b(sentences_by_video, windows_by_video)
+        c_ok, ratio = janelas.check_3c(windows_by_video)
+        d_ok, d_problems = janelas.check_3d(sentences_by_video, windows_by_video)
+        passed, _problems = janelas.check_gate(windows_by_video, sentences_by_video)
+
+        assert set(artifact) == {
+            "generated_at",
+            "n_videos",
+            "n_windows",
+            "passed",
+            "3a",
+            "3b",
+            "3c",
+            "3d",
+            "constants",
+        }
+        assert datetime.fromisoformat(artifact["generated_at"]).utcoffset() == timedelta(0)
+        assert type(artifact["n_videos"]) is int
+        assert type(artifact["n_windows"]) is int
+        assert artifact["n_videos"] == len(windows_by_video)
+        assert artifact["n_windows"] == sum(len(windows) for windows in windows_by_video.values())
+        assert artifact["passed"] is passed
+        assert artifact["3a"] == {
+            "n_sentencas_grandes": janelas._count_big(sentences_by_video, windows_by_video)[0],
+            "n_janelas_grandes": janelas._count_big(sentences_by_video, windows_by_video)[1],
+            "passed": a_ok,
+            "problems": a_problems,
+        }
+        assert artifact["3b"] == {"residuo": residual, "passed": b_ok}
+        assert artifact["3c"] == {
+            "nonlast_single_ratio": ratio,
+            "threshold": janelas.GATE_NONLAST_SINGLE_WINDOW_MAX_RATIO,
+            "passed": c_ok,
+        }
+        assert artifact["3d"] == {"passed": d_ok, "problems": d_problems}
+        assert all(isinstance(problem, str) for problem in artifact["3a"]["problems"])
+        assert all(isinstance(problem, str) for problem in artifact["3d"]["problems"])
+        assert artifact["constants"] == {
+            "WINDOW_MAX_WORDS": janelas.WINDOW_MAX_WORDS,
+            "WINDOW_MAX_SENTENCES": janelas.WINDOW_MAX_SENTENCES,
+            "WINDOW_MIN_SENTENCES": janelas.WINDOW_MIN_SENTENCES,
+            "GATE_MAX_WINDOW_WORDS": janelas.GATE_MAX_WINDOW_WORDS,
+            "GATE_WINDOWS_PER_MINUTE": janelas.GATE_WINDOWS_PER_MINUTE,
+            "GATE_WINDOWS_PER_MINUTE_BAND": janelas.GATE_WINDOWS_PER_MINUTE_BAND,
+        }
+
+    def test_persists_nonblocking_3c_failure_without_failing_the_gate(self, tmp_path):
+        sentences_dir = tmp_path / "sentences"
+        payload = _sentences_payload(
+            "v1",
+            [
+                _sentence("v1", 0, n_words=40),
+                _sentence("v1", 1, n_words=40),
+                _sentence("v1", 2, n_words=40),
+                _sentence("v1", 3, n_words=10),
+                _sentence("v1", 4, n_words=10),
+            ],
+            duration_s=60.0,
+        )
+        _write_sentences_input(sentences_dir, payload)
+
+        windows_by_video, sentences_by_video, _result = janelas.run_gate(
+            sentences_dir, tmp_path / "windows"
+        )
+        artifact = json.loads((tmp_path / "fase2_gate.json").read_text(encoding="utf-8"))
+        passed, _problems = janelas.check_gate(windows_by_video, sentences_by_video)
+        c_ok, ratio = janelas.check_3c(windows_by_video)
+
+        assert not c_ok
+        assert ratio == 0.75
+        assert passed
+        assert artifact["3c"]["passed"] is False
+        assert artifact["3c"]["nonlast_single_ratio"] == ratio
+        assert artifact["passed"] is True

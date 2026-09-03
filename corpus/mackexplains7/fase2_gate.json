@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-09-03T14:16:37.443306+00:00",
+  "n_videos": 30,
+  "n_windows": 3106,
+  "passed": true,
+  "3a": {
+    "n_sentencas_grandes": 18,
+    "n_janelas_grandes": 18,
+    "passed": true,
+    "problems": []
+  },
+  "3b": {
+    "residuo": 0,
+    "passed": true
+  },
+  "3c": {
+    "nonlast_single_ratio": 0.1159047005795235,
+    "threshold": 0.15,
+    "passed": true
+  },
+  "3d": {
+    "passed": true,
+    "problems": []
+  },
+  "constants": {
+    "WINDOW_MAX_WORDS": 35,
+    "WINDOW_MAX_SENTENCES": 4,
+    "WINDOW_MIN_SENTENCES": 2,
+    "GATE_MAX_WINDOW_WORDS": 60,
+    "GATE_WINDOWS_PER_MINUTE": 4.86,
+    "GATE_WINDOWS_PER_MINUTE_BAND": 0.4
+  }
+}

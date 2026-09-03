@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import json
 import math
+from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -167,6 +168,17 @@ def _count_big(
 def check_3a(
     sentences_by_video: dict[str, dict], windows_by_video: dict[str, list[dict]]
 ) -> tuple[bool, list[str]]:
+    """3a - invariante e proveniencia de cada janela grande."""
+    return _check_3a(
+        sentences_by_video, windows_by_video, _count_big(sentences_by_video, windows_by_video)
+    )
+
+
+def _check_3a(
+    sentences_by_video: dict[str, dict],
+    windows_by_video: dict[str, list[dict]],
+    counts: tuple[int, int],
+) -> tuple[bool, list[str]]:
     """3a - INVARIANTE + PROVENIENCIA. Dois niveis de checagem, o segundo
     fecha o buraco do primeiro:
 
@@ -193,7 +205,7 @@ def check_3a(
     comprovada, cada um citando o `window_id`."""
     problems: list[str] = []
 
-    n_sent_big, n_win_big = _count_big(sentences_by_video, windows_by_video)
+    n_sent_big, n_win_big = counts
     if n_sent_big != n_win_big:
         problems.append(
             f"3a: {n_win_big} janela(s) > {GATE_MAX_WINDOW_WORDS} palavras no corpus, "
@@ -310,6 +322,63 @@ def check_3d(
     return not problems, problems
 
 
+@dataclass(frozen=True)
+class GateResults:
+    """Resultados das quatro checagens do portao da Fase 2."""
+
+    passed: bool
+    problems: list[str]
+    a_ok: bool
+    a_problems: list[str]
+    n_sentences_big: int
+    n_windows_big: int
+    b_ok: bool
+    residual: int
+    c_ok: bool
+    nonlast_single_ratio: float
+    d_ok: bool
+    d_problems: list[str]
+
+
+def _evaluate_gate(
+    windows_by_video: dict[str, list[dict]], sentences_by_video: dict[str, dict]
+) -> GateResults:
+    """Calcula uma vez os subresultados usados pelo portao e seu artefato."""
+    n_sentences_big, n_windows_big = _count_big(sentences_by_video, windows_by_video)
+    a_ok, a_problems = _check_3a(
+        sentences_by_video, windows_by_video, (n_sentences_big, n_windows_big)
+    )
+    b_ok, residual = check_3b(sentences_by_video, windows_by_video)
+    c_ok, nonlast_single_ratio = check_3c(windows_by_video)
+    d_ok, d_problems = check_3d(sentences_by_video, windows_by_video)
+    problems = [
+        *a_problems,
+        *(
+            [
+                f"3b: {residual} janela(s) de 1 sentenca nao-final sem explicacao "
+                "(invariante, residuo esperado 0)"
+            ]
+            if not b_ok
+            else []
+        ),
+        *d_problems,
+    ]
+    return GateResults(
+        passed=a_ok and b_ok and d_ok,
+        problems=problems,
+        a_ok=a_ok,
+        a_problems=a_problems,
+        n_sentences_big=n_sentences_big,
+        n_windows_big=n_windows_big,
+        b_ok=b_ok,
+        residual=residual,
+        c_ok=c_ok,
+        nonlast_single_ratio=nonlast_single_ratio,
+        d_ok=d_ok,
+        d_problems=d_problems,
+    )
+
+
 def check_gate(
     windows_by_video: dict[str, list[dict]], sentences_by_video: dict[str, dict]
 ) -> tuple[bool, list[str]]:
@@ -320,22 +389,8 @@ def check_gate(
     sozinho nao basta; 3d precisa de `duration_s`. PASSA so se 3a, 3b e 3d
     passarem para todos os videos - 3c e medido sempre (ver `check_3c`),
     mas nunca bloqueia PASSOU/FALHOU."""
-    problems: list[str] = []
-
-    a_ok, a_problems = check_3a(sentences_by_video, windows_by_video)
-    problems.extend(a_problems)
-
-    b_ok, residual = check_3b(sentences_by_video, windows_by_video)
-    if not b_ok:
-        problems.append(
-            f"3b: {residual} janela(s) de 1 sentenca nao-final sem explicacao "
-            "(invariante, residuo esperado 0)"
-        )
-
-    d_ok, d_problems = check_3d(sentences_by_video, windows_by_video)
-    problems.extend(d_problems)
-
-    return a_ok and b_ok and d_ok, problems
+    result = _evaluate_gate(windows_by_video, sentences_by_video)
+    return result.passed, result.problems
 
 
 # --------------------------------------------------------------------------
@@ -375,31 +430,76 @@ def run(
     return windows_by_video, sentences_by_video
 
 
+def write_gate_artifact(
+    path: Path,
+    windows_by_video: dict[str, list[dict]],
+    result: GateResults,
+) -> None:
+    """Escreve a evidencia persistente do portao a partir de sua unica avaliacao."""
+    payload = {
+        "generated_at": datetime.now(UTC).isoformat(),
+        "n_videos": len(windows_by_video),
+        "n_windows": sum(len(windows) for windows in windows_by_video.values()),
+        "passed": result.passed,
+        "3a": {
+            "n_sentencas_grandes": result.n_sentences_big,
+            "n_janelas_grandes": result.n_windows_big,
+            "passed": result.a_ok,
+            "problems": list(result.a_problems),
+        },
+        "3b": {"residuo": result.residual, "passed": result.b_ok},
+        "3c": {
+            "nonlast_single_ratio": result.nonlast_single_ratio,
+            "threshold": GATE_NONLAST_SINGLE_WINDOW_MAX_RATIO,
+            "passed": result.c_ok,
+        },
+        "3d": {"passed": result.d_ok, "problems": list(result.d_problems)},
+        "constants": {
+            "WINDOW_MAX_WORDS": WINDOW_MAX_WORDS,
+            "WINDOW_MAX_SENTENCES": WINDOW_MAX_SENTENCES,
+            "WINDOW_MIN_SENTENCES": WINDOW_MIN_SENTENCES,
+            "GATE_MAX_WINDOW_WORDS": GATE_MAX_WINDOW_WORDS,
+            "GATE_WINDOWS_PER_MINUTE": GATE_WINDOWS_PER_MINUTE,
+            "GATE_WINDOWS_PER_MINUTE_BAND": GATE_WINDOWS_PER_MINUTE_BAND,
+        },
+    }
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def run_gate(
+    sentences_dir: Path = SENTENCES_DIR, windows_dir: Path = WINDOWS_DIR
+) -> tuple[dict[str, list[dict]], dict[str, dict], GateResults]:
+    """Gera janelas, avalia o portao uma vez e persiste sua evidencia."""
+    windows_by_video, sentences_by_video = run(sentences_dir, windows_dir)
+    result = _evaluate_gate(windows_by_video, sentences_by_video)
+    write_gate_artifact(sentences_dir.parent / "fase2_gate.json", windows_by_video, result)
+    return windows_by_video, sentences_by_video, result
+
+
 def main() -> None:
-    windows_by_video, sentences_by_video = run()
-    passed, problems = check_gate(windows_by_video, sentences_by_video)
+    windows_by_video, _sentences_by_video, result = run_gate()
+    passed = result.passed
+    problems = result.problems
     total = sum(len(w) for w in windows_by_video.values())
     print(f"{len(windows_by_video)} videos, {total} janelas em {WINDOWS_DIR}")
 
-    a_ok, _a_problems = check_3a(sentences_by_video, windows_by_video)
-    n_sent_big, n_win_big = _count_big(sentences_by_video, windows_by_video)
     print(
-        f"3a (invariante + proveniencia por janela): {n_win_big} janelas > "
-        f"{GATE_MAX_WINDOW_WORDS} palavras == {n_sent_big} sentencas > "
-        f"{GATE_MAX_WINDOW_WORDS} palavras -> {'OK' if a_ok else 'FALHOU'}"
+        f"3a (invariante + proveniencia por janela): {result.n_windows_big} janelas > "
+        f"{GATE_MAX_WINDOW_WORDS} palavras == {result.n_sentences_big} sentencas > "
+        f"{GATE_MAX_WINDOW_WORDS} palavras -> {'OK' if result.a_ok else 'FALHOU'}"
     )
-    b_ok, residual = check_3b(sentences_by_video, windows_by_video)
-    print(f"3b (invariante): residuo nao explicado = {residual} -> {'OK' if b_ok else 'FALHOU'}")
-    c_ok, ratio = check_3c(windows_by_video)
+    print(
+        f"3b (invariante): residuo nao explicado = {result.residual} -> "
+        f"{'OK' if result.b_ok else 'FALHOU'}"
+    )
     print(
         f"3c (tolerancia, <= {GATE_NONLAST_SINGLE_WINDOW_MAX_RATIO:.0%}, nao bloqueia): "
-        f"{ratio:.1%} de janelas de 1 sentenca nao-final -> "
-        f"{'dentro' if c_ok else 'acima'} da tolerancia"
+        f"{result.nonlast_single_ratio:.1%} de janelas de 1 sentenca nao-final -> "
+        f"{'dentro' if result.c_ok else 'acima'} da tolerancia"
     )
-    d_ok, d_problems = check_3d(sentences_by_video, windows_by_video)
     print(
-        f"3d (tolerancia, banda por video): {'OK' if d_ok else 'FALHOU'} "
-        f"({len(d_problems)} video(s) fora da banda)"
+        f"3d (tolerancia, banda por video): {'OK' if result.d_ok else 'FALHOU'} "
+        f"({len(result.d_problems)} video(s) fora da banda)"
     )
 
     print("Portao Fase 2 (criterio 3): " + ("PASSOU" if passed else "FALHOU"))
