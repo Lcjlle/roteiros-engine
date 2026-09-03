@@ -17,6 +17,17 @@ def _sentence(video_id, idx, n_words, start_s=None, end_s=None):
     }
 
 
+def _sentences_payload(video_id, sentences, duration_s=600.0):
+    """Envelope de `sentences/<video_id>.json`, o formato que `check_gate`
+    (via `sentences_by_video`) espera."""
+    return {
+        "video_id": video_id,
+        "duration_s": duration_s,
+        "generated_at": "2026-01-01T00:00:00+00:00",
+        "sentences": sentences,
+    }
+
+
 # --------------------------------------------------------------------------
 # group_windows
 # --------------------------------------------------------------------------
@@ -57,6 +68,40 @@ class TestGroupWindows:
     def test_empty_input_returns_empty_list(self):
         assert janelas.group_windows([]) == []
 
+    def test_nonlast_window_overflows_max_words_to_reach_min_sentences(self):
+        # 20+20=40 > max_words(35), mas so tem 1 sentenca ainda -> continua
+        # acumulando ate alcancar min_sentences(2), sem estourar gate_max_words(60)
+        sentences = [
+            _sentence("v1", 0, n_words=20),
+            _sentence("v1", 1, n_words=20),
+            _sentence("v1", 2, n_words=5),
+        ]
+
+        windows = janelas.group_windows(
+            sentences, max_words=35, max_sentences=4, min_sentences=2, gate_max_words=60
+        )
+
+        assert len(windows) == 2
+        assert [s["idx"] for s in windows[0]] == [0, 1]
+        assert sum(s["n_words"] for s in windows[0]) == 40  # estourou max_words de proposito
+
+    def test_nonlast_window_closes_below_min_sentences_when_next_would_exceed_gate_max_words(self):
+        # janela com 1 sentenca (20) nao alcanca min_sentences(2), mas a
+        # proxima sentenca (45) faria a soma estourar gate_max_words(60) ->
+        # fecha assim mesmo, abaixo do minimo, sem violar o teto do portao
+        sentences = [
+            _sentence("v1", 0, n_words=20),
+            _sentence("v1", 1, n_words=45),
+        ]
+
+        windows = janelas.group_windows(
+            sentences, max_words=35, max_sentences=4, min_sentences=2, gate_max_words=60
+        )
+
+        assert len(windows) == 2
+        assert [s["idx"] for s in windows[0]] == [0]  # nao-final, abaixo do minimo
+        assert [s["idx"] for s in windows[1]] == [1]
+
 
 # --------------------------------------------------------------------------
 # window_records
@@ -85,58 +130,239 @@ class TestWindowRecords:
 
 
 # --------------------------------------------------------------------------
-# check_gate
+# check_3a / check_3b / check_3c / check_3d / check_gate
 # --------------------------------------------------------------------------
 
 
-def _window(video_id, idx, n_words=10, n_sentences=2):
+def _window(video_id, idx, n_words=10, n_sentences=2, sent_ids=None):
     return {
         "window_id": f"{video_id}:j{idx:04d}",
         "video_id": video_id,
         "idx": idx,
+        "sent_ids": sent_ids or [f"{video_id}:s{idx:04d}"],
         "n_words": n_words,
         "n_sentences": n_sentences,
     }
 
 
+class TestCheck3a:
+    def test_passes_when_big_window_count_matches_big_sentence_count(self):
+        sentences_by_video = {"v1": _sentences_payload("v1", [_sentence("v1", 0, n_words=70)])}
+        windows_by_video = {"v1": [_window("v1", 0, n_words=70, n_sentences=1)]}
+
+        ok, n_sent, n_win = janelas.check_3a(sentences_by_video, windows_by_video)
+
+        assert ok
+        assert n_sent == 1
+        assert n_win == 1
+
+    def test_fails_when_oversized_window_has_no_matching_oversized_sentence(self):
+        # nenhuma sentenca > 60 palavras, mas uma janela reporta 70 -
+        # violacao da invariante (bug de agrupamento, nao explicado por
+        # sentenca isolada estourada)
+        sentences_by_video = {"v1": _sentences_payload("v1", [_sentence("v1", 0, n_words=10)])}
+        windows_by_video = {"v1": [_window("v1", 0, n_words=70, n_sentences=1)]}
+
+        ok, n_sent, n_win = janelas.check_3a(sentences_by_video, windows_by_video)
+
+        assert not ok
+        assert n_sent == 0
+        assert n_win == 1
+
+
+class TestCheck3b:
+    def test_passes_when_single_nonlast_windows_are_explained(self):
+        sentences = [
+            _sentence("v1", 0, n_words=40),  # caso (i): isolada > 35 sozinha
+            _sentence("v1", 1, n_words=10),
+            _sentence("v1", 2, n_words=10),
+        ]
+        sentences_by_video = {"v1": _sentences_payload("v1", sentences)}
+        windows_by_video = {
+            "v1": [
+                _window("v1", 0, n_words=40, n_sentences=1, sent_ids=["v1:s0000"]),
+                _window("v1", 1, n_words=20, n_sentences=2, sent_ids=["v1:s0001", "v1:s0002"]),
+            ]
+        }
+
+        ok, residual = janelas.check_3b(sentences_by_video, windows_by_video)
+
+        assert ok
+        assert residual == 0
+
+    def test_fails_with_unexplained_residual(self):
+        # janela nao-final de 1 sentenca (20 palavras, nao estourada), a
+        # soma com a proxima sentenca (5) nao chega perto de 60 - nao
+        # explicada nem por (i) nem por (ii)
+        sentences = [
+            _sentence("v1", 0, n_words=20),
+            _sentence("v1", 1, n_words=5),
+            _sentence("v1", 2, n_words=5),
+        ]
+        sentences_by_video = {"v1": _sentences_payload("v1", sentences)}
+        windows_by_video = {
+            "v1": [
+                _window("v1", 0, n_words=20, n_sentences=1, sent_ids=["v1:s0000"]),
+                _window("v1", 1, n_words=10, n_sentences=2, sent_ids=["v1:s0001", "v1:s0002"]),
+            ]
+        }
+
+        ok, residual = janelas.check_3b(sentences_by_video, windows_by_video)
+
+        assert not ok
+        assert residual == 1
+
+    def test_last_window_with_one_sentence_is_never_counted(self):
+        sentences = [
+            _sentence("v1", 0, n_words=10),
+            _sentence("v1", 1, n_words=10),
+            _sentence("v1", 2, n_words=10),
+        ]
+        sentences_by_video = {"v1": _sentences_payload("v1", sentences)}
+        windows_by_video = {
+            "v1": [
+                _window("v1", 0, n_words=20, n_sentences=2, sent_ids=["v1:s0000", "v1:s0001"]),
+                _window("v1", 1, n_words=10, n_sentences=1, sent_ids=["v1:s0002"]),  # ultima
+            ]
+        }
+
+        ok, residual = janelas.check_3b(sentences_by_video, windows_by_video)
+
+        assert ok
+        assert residual == 0
+
+
+class TestCheck3c:
+    def test_measures_ratio_of_nonlast_single_sentence_windows(self):
+        windows = [
+            _window("v1", 0, n_sentences=1),
+            _window("v1", 1, n_sentences=1),
+            _window("v1", 2, n_sentences=1),
+            _window("v1", 3, n_sentences=2),  # ultima, nunca conta
+        ]
+
+        ok, ratio = janelas.check_3c({"v1": windows})
+
+        assert ratio == 0.75
+        assert not ok  # 0.75 > 0.15
+
+    def test_does_not_block_check_gate_overall_pass(self):
+        # 3 janelas de 1 sentenca isolada > WINDOW_MAX_WORDS (explicadas por
+        # 3b caso (i), sem violar 3a pois <= 60) + 1 janela final -> 3c
+        # estoura a tolerancia (3/4 = 75% > 15%) mas nao bloqueia o PASSOU
+        sentences = [
+            _sentence("v1", 0, n_words=40),
+            _sentence("v1", 1, n_words=40),
+            _sentence("v1", 2, n_words=40),
+            _sentence("v1", 3, n_words=10),
+            _sentence("v1", 4, n_words=10),
+        ]
+        sentences_by_video = {"v1": _sentences_payload("v1", sentences, duration_s=60.0)}
+        windows_by_video = {
+            "v1": [
+                _window("v1", 0, n_words=40, n_sentences=1, sent_ids=["v1:s0000"]),
+                _window("v1", 1, n_words=40, n_sentences=1, sent_ids=["v1:s0001"]),
+                _window("v1", 2, n_words=40, n_sentences=1, sent_ids=["v1:s0002"]),
+                _window("v1", 3, n_words=20, n_sentences=2, sent_ids=["v1:s0003", "v1:s0004"]),
+            ]
+        }
+
+        c_ok, ratio = janelas.check_3c(windows_by_video)
+        passed, problems = janelas.check_gate(windows_by_video, sentences_by_video)
+
+        assert ratio == 0.75
+        assert not c_ok
+        assert passed  # 3c nao aparece nos problemas nem bloqueia o PASSOU
+        assert problems == []
+
+
+class TestCheck3d:
+    def test_video_within_proportional_band_reports_no_problem(self):
+        # duration_min=1 -> banda [ceil(1*4.86*0.6), floor(1*4.86*1.4)] = [3, 6]
+        windows = [_window("v1", i) for i in range(5)]
+        sentences_by_video = {"v1": _sentences_payload("v1", [], duration_s=60.0)}
+
+        ok, problems = janelas.check_3d(sentences_by_video, {"v1": windows})
+
+        assert ok
+        assert problems == []
+
+    def test_video_outside_proportional_band_reports_problem_with_video_id(self):
+        windows = [_window("v1", 0)]  # 1 janela, abaixo da banda [3, 6]
+        sentences_by_video = {"v1": _sentences_payload("v1", [], duration_s=60.0)}
+
+        ok, problems = janelas.check_3d(sentences_by_video, {"v1": windows})
+
+        assert not ok
+        assert any("v1" in p and "3d" in p for p in problems)
+
+
 class TestCheckGate:
-    def test_isolated_window_over_max_words_reports_one_problem_with_window_id(self):
-        windows = [_window("v1", i, n_words=10) for i in range(25)]
-        windows[5]["n_words"] = 61
+    def test_passes_when_3a_3b_3d_all_pass(self):
+        # video de 20 minutos, 97 janelas cai dentro da banda
+        # [ceil(20*4.86*0.6), floor(20*4.86*1.4)] = [59, 136]
+        sentences = [_sentence("v1", i, n_words=10) for i in range(200)]
+        sentences_by_video = {"v1": _sentences_payload("v1", sentences, duration_s=1200.0)}
+        windows_by_video = {"v1": janelas.window_records("v1", sentences, duration_s=1200.0)}
 
-        passed, problems = janelas.check_gate({"v1": windows})
+        passed, problems = janelas.check_gate(windows_by_video, sentences_by_video)
 
-        assert not passed
-        matching = [p for p in problems if "v1:j0005" in p]
-        assert len(matching) == 1
+        assert passed
+        assert problems == []
 
-    def test_video_below_min_windows_reports_problem_with_video_id(self):
-        windows = [_window("v1", i) for i in range(10)]
+    def test_fails_and_reports_3a_problem(self):
+        sentences_by_video = {
+            "v1": _sentences_payload("v1", [_sentence("v1", 0, n_words=10)], duration_s=60.0)
+        }
+        windows_by_video = {"v1": [_window("v1", 0, n_words=70, n_sentences=1)]}
 
-        passed, problems = janelas.check_gate({"v1": windows})
-
-        assert not passed
-        assert any("v1" in p and "10 janelas" in p for p in problems)
-
-    def test_intermediate_window_below_min_sentences_reports_problem(self):
-        windows = [_window("v1", i, n_sentences=2) for i in range(30)]
-        windows[10]["n_sentences"] = 1  # nao e a ultima (idx max = 29)
-
-        passed, problems = janelas.check_gate({"v1": windows})
+        passed, problems = janelas.check_gate(windows_by_video, sentences_by_video)
 
         assert not passed
-        assert any("v1:j0010" in p for p in problems)
+        assert any(p.startswith("3a:") for p in problems)
 
-    def test_last_window_with_one_sentence_reports_no_problem(self):
-        windows = [_window("v1", i, n_sentences=2) for i in range(29)]
-        windows.append(_window("v1", 29, n_sentences=1))  # ultima, excecao
+    def test_fails_and_reports_3b_problem(self):
+        sentences = [
+            _sentence("v1", 0, n_words=20),
+            _sentence("v1", 1, n_words=5),
+            _sentence("v1", 2, n_words=5),
+        ]
+        sentences_by_video = {"v1": _sentences_payload("v1", sentences, duration_s=60.0)}
+        windows_by_video = {
+            "v1": [
+                _window("v1", 0, n_words=20, n_sentences=1, sent_ids=["v1:s0000"]),
+                _window("v1", 1, n_words=10, n_sentences=2, sent_ids=["v1:s0001", "v1:s0002"]),
+            ]
+        }
 
-        _passed, problems = janelas.check_gate({"v1": windows})
-
-        assert not any("v1:j0029" in p for p in problems)
-
-    def test_video_with_zero_windows_does_not_crash(self):
-        passed, problems = janelas.check_gate({"v1": []})
+        passed, problems = janelas.check_gate(windows_by_video, sentences_by_video)
 
         assert not passed
-        assert any("v1" in p and "0 janelas" in p for p in problems)
+        assert any(p.startswith("3b:") for p in problems)
+
+    def test_fails_and_reports_3d_problem(self):
+        sentences_by_video = {"v1": _sentences_payload("v1", [], duration_s=60.0)}
+        windows_by_video = {"v1": [_window("v1", 0)]}  # 1 janela, fora da banda [3, 6]
+
+        passed, problems = janelas.check_gate(windows_by_video, sentences_by_video)
+
+        assert not passed
+        assert any(p.startswith("3d:") for p in problems)
+
+    def test_video_with_zero_sentences_and_zero_windows_does_not_crash(self):
+        sentences_by_video = {"v1": _sentences_payload("v1", [], duration_s=600.0)}
+        windows_by_video = {"v1": []}
+
+        passed, problems = janelas.check_gate(windows_by_video, sentences_by_video)
+
+        assert not passed  # duration > 0 mas 0 janelas, fora da banda
+        assert any("v1" in p for p in problems)
+
+    def test_video_with_zero_duration_and_zero_windows_passes(self):
+        sentences_by_video = {"v1": _sentences_payload("v1", [], duration_s=0.0)}
+        windows_by_video = {"v1": []}
+
+        passed, problems = janelas.check_gate(windows_by_video, sentences_by_video)
+
+        assert passed
+        assert problems == []

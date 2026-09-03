@@ -1,6 +1,6 @@
 {
   "video_id": "qsBitnO8djE",
-  "generated_at": "2026-09-03T11:59:53.023803+00:00",
+  "generated_at": "2026-09-03T13:18:13.140865+00:00",
   "windows": [
     {
       "window_id": "qsBitnO8djE:j0000",
@@ -37,13 +37,14 @@
       "video_id": "qsBitnO8djE",
       "idx": 2,
       "sent_ids": [
-        "qsBitnO8djE:s0004"
+        "qsBitnO8djE:s0004",
+        "qsBitnO8djE:s0005"
       ],
       "start_s": 25.11,
-      "end_s": 27.491,
-      "text": "Because the popular image this number conjures",
-      "n_words": 7,
-      "n_sentences": 1,
+      "end_s": 43.049,
+      "text": "Because the popular image this number conjures A 30-year-old hunter-gatherer collapsing from old age, creaky joints, gray hair, the whole package, while everyone around them treats this as an entirely unremarkable and expected event, is almost completely wrong.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.018965256797583083
     },
     {
@@ -51,47 +52,20 @@
       "video_id": "qsBitnO8djE",
       "idx": 3,
       "sent_ids": [
-        "qsBitnO8djE:s0005"
+        "qsBitnO8djE:s0006",
+        "qsBitnO8djE:s0007"
       ],
-      "start_s": 28.568,
-      "end_s": 43.049,
-      "text": "A 30-year-old hunter-gatherer collapsing from old age, creaky joints, gray hair, the whole package, while everyone around them treats this as an entirely unremarkable and expected event, is almost completely wrong.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.02157703927492447
+      "start_s": 43.912,
+      "end_s": 56.095,
+      "text": "And the actual explanation for why that number is so low is both more interesting and considerably darker than simple old-fashioned aging. So let us actually take this number apart and see what is really inside it.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.03316616314199396
     },
     {
       "window_id": "qsBitnO8djE:j0004",
       "video_id": "qsBitnO8djE",
       "idx": 4,
-      "sent_ids": [
-        "qsBitnO8djE:s0006"
-      ],
-      "start_s": 43.912,
-      "end_s": 52.254,
-      "text": "And the actual explanation for why that number is so low is both more interesting and considerably darker than simple old-fashioned aging.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.03316616314199396
-    },
-    {
-      "window_id": "qsBitnO8djE:j0005",
-      "video_id": "qsBitnO8djE",
-      "idx": 5,
-      "sent_ids": [
-        "qsBitnO8djE:s0007"
-      ],
-      "start_s": 52.614,
-      "end_s": 56.095,
-      "text": "So let us actually take this number apart and see what is really inside it.",
-      "n_words": 15,
-      "n_sentences": 1,
-      "pos_pct": 0.039738670694864045
-    },
-    {
-      "window_id": "qsBitnO8djE:j0006",
-      "video_id": "qsBitnO8djE",
-      "idx": 6,
       "sent_ids": [
         "qsBitnO8djE:s0008"
       ],
@@ -103,37 +77,24 @@
       "pos_pct": 0.04289652567975831
     },
     {
-      "window_id": "qsBitnO8djE:j0007",
+      "window_id": "qsBitnO8djE:j0005",
       "video_id": "qsBitnO8djE",
-      "idx": 7,
+      "idx": 5,
       "sent_ids": [
-        "qsBitnO8djE:s0009"
+        "qsBitnO8djE:s0009",
+        "qsBitnO8djE:s0010"
       ],
       "start_s": 70.297,
-      "end_s": 72.358,
-      "text": "Life expectancy at birth is an average.",
-      "n_words": 7,
-      "n_sentences": 1,
+      "end_s": 82.043,
+      "text": "Life expectancy at birth is an average. It takes every single person born into a population, including those who die within their first hour of life, and averages their age at death across the entire group.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.05309441087613293
     },
     {
-      "window_id": "qsBitnO8djE:j0008",
+      "window_id": "qsBitnO8djE:j0006",
       "video_id": "qsBitnO8djE",
-      "idx": 8,
-      "sent_ids": [
-        "qsBitnO8djE:s0010"
-      ],
-      "start_s": 72.778,
-      "end_s": 82.043,
-      "text": "It takes every single person born into a population, including those who die within their first hour of life, and averages their age at death across the entire group.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.05496827794561934
-    },
-    {
-      "window_id": "qsBitnO8djE:j0009",
-      "video_id": "qsBitnO8djE",
-      "idx": 9,
+      "idx": 6,
       "sent_ids": [
         "qsBitnO8djE:s0011"
       ],
@@ -145,9 +106,9 @@
       "pos_pct": 0.06257099697885196
     },
     {
-      "window_id": "qsBitnO8djE:j0010",
+      "window_id": "qsBitnO8djE:j0007",
       "video_id": "qsBitnO8djE",
-      "idx": 10,
+      "idx": 7,
       "sent_ids": [
         "qsBitnO8djE:s0012",
         "qsBitnO8djE:s0013"
@@ -160,69 +121,56 @@
       "pos_pct": 0.07484290030211481
     },
     {
-      "window_id": "qsBitnO8djE:j0011",
+      "window_id": "qsBitnO8djE:j0008",
       "video_id": "qsBitnO8djE",
-      "idx": 11,
+      "idx": 8,
       "sent_ids": [
-        "qsBitnO8djE:s0014"
+        "qsBitnO8djE:s0014",
+        "qsBitnO8djE:s0015"
       ],
       "start_s": 105.934,
-      "end_s": 115.657,
-      "text": "Five of them die before their fifth birthday, a grim but historically realistic infant and child mortality rate for many ancient and even relatively recent pre-modern populations.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 119.558,
+      "text": "Five of them die before their fifth birthday, a grim but historically realistic infant and child mortality rate for many ancient and even relatively recent pre-modern populations. The other five survive childhood and live to the ripe old age of 70.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.08001057401812689
     },
     {
-      "window_id": "qsBitnO8djE:j0012",
+      "window_id": "qsBitnO8djE:j0009",
       "video_id": "qsBitnO8djE",
-      "idx": 12,
+      "idx": 9,
       "sent_ids": [
-        "qsBitnO8djE:s0015",
-        "qsBitnO8djE:s0016"
+        "qsBitnO8djE:s0016",
+        "qsBitnO8djE:s0017"
       ],
-      "start_s": 116.437,
-      "end_s": 123.9,
-      "text": "The other five survive childhood and live to the ripe old age of 70. What is the average life expectancy at birth for this population?",
-      "n_words": 25,
+      "start_s": 120.658,
+      "end_s": 132.006,
+      "text": "What is the average life expectancy at birth for this population? You add up all 10 ages at death, 5 deaths at roughly age 2, on average, and 5 deaths at age 70.",
+      "n_words": 33,
       "n_sentences": 2,
-      "pos_pct": 0.08794335347432024
+      "pos_pct": 0.09113141993957705
     },
     {
-      "window_id": "qsBitnO8djE:j0013",
+      "window_id": "qsBitnO8djE:j0010",
       "video_id": "qsBitnO8djE",
-      "idx": 13,
+      "idx": 10,
       "sent_ids": [
-        "qsBitnO8djE:s0017",
-        "qsBitnO8djE:s0018"
-      ],
-      "start_s": 124.481,
-      "end_s": 134.424,
-      "text": "You add up all 10 ages at death, 5 deaths at roughly age 2, on average, and 5 deaths at age 70. and divide by 10.",
-      "n_words": 26,
-      "n_sentences": 2,
-      "pos_pct": 0.09401888217522658
-    },
-    {
-      "window_id": "qsBitnO8djE:j0014",
-      "video_id": "qsBitnO8djE",
-      "idx": 14,
-      "sent_ids": [
+        "qsBitnO8djE:s0018",
         "qsBitnO8djE:s0019",
         "qsBitnO8djE:s0020",
         "qsBitnO8djE:s0021"
       ],
-      "start_s": 135.024,
+      "start_s": 133.403,
       "end_s": 144.872,
-      "text": "The math works out to a life expectancy at birth of roughly 36 years. But notice what this number completely fails to communicate. Half the population lived to 70.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.10198187311178247
+      "text": "and divide by 10. The math works out to a life expectancy at birth of roughly 36 years. But notice what this number completely fails to communicate. Half the population lived to 70.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.10075755287009062
     },
     {
-      "window_id": "qsBitnO8djE:j0015",
+      "window_id": "qsBitnO8djE:j0011",
       "video_id": "qsBitnO8djE",
-      "idx": 15,
+      "idx": 11,
       "sent_ids": [
         "qsBitnO8djE:s0022",
         "qsBitnO8djE:s0023"
@@ -235,37 +183,24 @@
       "pos_pct": 0.109964501510574
     },
     {
-      "window_id": "qsBitnO8djE:j0016",
+      "window_id": "qsBitnO8djE:j0012",
       "video_id": "qsBitnO8djE",
-      "idx": 16,
+      "idx": 12,
       "sent_ids": [
-        "qsBitnO8djE:s0024"
+        "qsBitnO8djE:s0024",
+        "qsBitnO8djE:s0025"
       ],
       "start_s": 157.202,
-      "end_s": 164.564,
-      "text": "This is, in simplified form, almost exactly what is happening with the famous Stone Age life expectancy figures that circulate so widely.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 175.728,
+      "text": "This is, in simplified form, almost exactly what is happening with the famous Stone Age life expectancy figures that circulate so widely. The low average is driven overwhelmingly by extremely high infant and child mortality, not by widespread early death among adults who survived their childhood.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.11873262839879153
     },
     {
-      "window_id": "qsBitnO8djE:j0017",
+      "window_id": "qsBitnO8djE:j0013",
       "video_id": "qsBitnO8djE",
-      "idx": 17,
-      "sent_ids": [
-        "qsBitnO8djE:s0025"
-      ],
-      "start_s": 165.385,
-      "end_s": 175.728,
-      "text": "The low average is driven overwhelmingly by extremely high infant and child mortality, not by widespread early death among adults who survived their childhood.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.1249131419939577
-    },
-    {
-      "window_id": "qsBitnO8djE:j0018",
-      "video_id": "qsBitnO8djE",
-      "idx": 18,
+      "idx": 13,
       "sent_ids": [
         "qsBitnO8djE:s0026"
       ],
@@ -277,65 +212,39 @@
       "pos_pct": 0.1333141993957704
     },
     {
-      "window_id": "qsBitnO8djE:j0019",
+      "window_id": "qsBitnO8djE:j0014",
       "video_id": "qsBitnO8djE",
-      "idx": 19,
+      "idx": 14,
       "sent_ids": [
-        "qsBitnO8djE:s0027"
+        "qsBitnO8djE:s0027",
+        "qsBitnO8djE:s0028"
       ],
       "start_s": 191.805,
-      "end_s": 198.928,
-      "text": "And when paleodemographers calculate this statistic for ancient and prehistoric populations, the picture changes dramatically.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 214.735,
+      "text": "And when paleodemographers calculate this statistic for ancient and prehistoric populations, the picture changes dramatically. Studies of hunter-gatherer populations, both archaeological and from ethnographic observation of contemporary traditional societies, consistently find that individuals who survived to age 15 had a reasonable expectation of living into their 60s or even their 70s.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.1448678247734139
     },
     {
-      "window_id": "qsBitnO8djE:j0020",
+      "window_id": "qsBitnO8djE:j0015",
       "video_id": "qsBitnO8djE",
-      "idx": 20,
+      "idx": 15,
       "sent_ids": [
-        "qsBitnO8djE:s0028"
-      ],
-      "start_s": 199.649,
-      "end_s": 214.735,
-      "text": "Studies of hunter-gatherer populations, both archaeological and from ethnographic observation of contemporary traditional societies, consistently find that individuals who survived to age 15 had a reasonable expectation of living into their 60s or even their 70s.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.15079229607250755
-    },
-    {
-      "window_id": "qsBitnO8djE:j0021",
-      "video_id": "qsBitnO8djE",
-      "idx": 21,
-      "sent_ids": [
-        "qsBitnO8djE:s0029"
+        "qsBitnO8djE:s0029",
+        "qsBitnO8djE:s0030"
       ],
       "start_s": 215.976,
-      "end_s": 217.177,
-      "text": "This is not a small correction.",
-      "n_words": 6,
-      "n_sentences": 1,
+      "end_s": 230.044,
+      "text": "This is not a small correction. This is the difference between a population where everyone dies young and a population where most adults live a genuinely long life by any reasonable historical standard once you account for the brutal filtering effect of childhood mortality.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.1631238670694864
     },
     {
-      "window_id": "qsBitnO8djE:j0022",
+      "window_id": "qsBitnO8djE:j0016",
       "video_id": "qsBitnO8djE",
-      "idx": 22,
-      "sent_ids": [
-        "qsBitnO8djE:s0030"
-      ],
-      "start_s": 217.517,
-      "end_s": 230.044,
-      "text": "This is the difference between a population where everyone dies young and a population where most adults live a genuinely long life by any reasonable historical standard once you account for the brutal filtering effect of childhood mortality.",
-      "n_words": 38,
-      "n_sentences": 1,
-      "pos_pct": 0.16428776435045317
-    },
-    {
-      "window_id": "qsBitnO8djE:j0023",
-      "video_id": "qsBitnO8djE",
-      "idx": 23,
+      "idx": 16,
       "sent_ids": [
         "qsBitnO8djE:s0031",
         "qsBitnO8djE:s0032"
@@ -348,9 +257,9 @@
       "pos_pct": 0.17427870090634442
     },
     {
-      "window_id": "qsBitnO8djE:j0024",
+      "window_id": "qsBitnO8djE:j0017",
       "video_id": "qsBitnO8djE",
-      "idx": 24,
+      "idx": 17,
       "sent_ids": [
         "qsBitnO8djE:s0033"
       ],
@@ -362,9 +271,9 @@
       "pos_pct": 0.1807643504531722
     },
     {
-      "window_id": "qsBitnO8djE:j0025",
+      "window_id": "qsBitnO8djE:j0018",
       "video_id": "qsBitnO8djE",
-      "idx": 25,
+      "idx": 18,
       "sent_ids": [
         "qsBitnO8djE:s0034"
       ],
@@ -376,37 +285,24 @@
       "pos_pct": 0.19183157099697887
     },
     {
-      "window_id": "qsBitnO8djE:j0026",
+      "window_id": "qsBitnO8djE:j0019",
       "video_id": "qsBitnO8djE",
-      "idx": 26,
+      "idx": 19,
       "sent_ids": [
-        "qsBitnO8djE:s0035"
+        "qsBitnO8djE:s0035",
+        "qsBitnO8djE:s0036"
       ],
       "start_s": 265.531,
-      "end_s": 282.3,
-      "text": "Many of the most devastating epidemic diseases, smallpox, measles, tuberculosis in its epidemic form, bubonic plague, require population densities and patterns of sustained close contact that simply did not exist in small, mobile hunter-gatherer bands.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 288.355,
+      "text": "Many of the most devastating epidemic diseases, smallpox, measles, tuberculosis in its epidemic form, bubonic plague, require population densities and patterns of sustained close contact that simply did not exist in small, mobile hunter-gatherer bands. These diseases are, in technical epidemiological terms, density-dependent.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.2005521148036254
     },
     {
-      "window_id": "qsBitnO8djE:j0027",
+      "window_id": "qsBitnO8djE:j0020",
       "video_id": "qsBitnO8djE",
-      "idx": 27,
-      "sent_ids": [
-        "qsBitnO8djE:s0036"
-      ],
-      "start_s": 283.293,
-      "end_s": 288.355,
-      "text": "These diseases are, in technical epidemiological terms, density-dependent.",
-      "n_words": 8,
-      "n_sentences": 1,
-      "pos_pct": 0.21396752265861027
-    },
-    {
-      "window_id": "qsBitnO8djE:j0028",
-      "video_id": "qsBitnO8djE",
-      "idx": 28,
+      "idx": 20,
       "sent_ids": [
         "qsBitnO8djE:s0037"
       ],
@@ -418,9 +314,9 @@
       "pos_pct": 0.21821374622356496
     },
     {
-      "window_id": "qsBitnO8djE:j0029",
+      "window_id": "qsBitnO8djE:j0021",
       "video_id": "qsBitnO8djE",
-      "idx": 29,
+      "idx": 21,
       "sent_ids": [
         "qsBitnO8djE:s0038"
       ],
@@ -432,9 +328,9 @@
       "pos_pct": 0.22933534743202416
     },
     {
-      "window_id": "qsBitnO8djE:j0030",
+      "window_id": "qsBitnO8djE:j0022",
       "video_id": "qsBitnO8djE",
-      "idx": 30,
+      "idx": 22,
       "sent_ids": [
         "qsBitnO8djE:s0039"
       ],
@@ -446,9 +342,9 @@
       "pos_pct": 0.24259894259818732
     },
     {
-      "window_id": "qsBitnO8djE:j0031",
+      "window_id": "qsBitnO8djE:j0023",
       "video_id": "qsBitnO8djE",
-      "idx": 31,
+      "idx": 23,
       "sent_ids": [
         "qsBitnO8djE:s0040",
         "qsBitnO8djE:s0041",
@@ -463,9 +359,9 @@
       "pos_pct": 0.2604932024169184
     },
     {
-      "window_id": "qsBitnO8djE:j0032",
+      "window_id": "qsBitnO8djE:j0024",
       "video_id": "qsBitnO8djE",
-      "idx": 32,
+      "idx": 24,
       "sent_ids": [
         "qsBitnO8djE:s0044"
       ],
@@ -477,9 +373,9 @@
       "pos_pct": 0.2733904833836858
     },
     {
-      "window_id": "qsBitnO8djE:j0033",
+      "window_id": "qsBitnO8djE:j0025",
       "video_id": "qsBitnO8djE",
-      "idx": 33,
+      "idx": 25,
       "sent_ids": [
         "qsBitnO8djE:s0045"
       ],
@@ -491,9 +387,9 @@
       "pos_pct": 0.28764425981873115
     },
     {
-      "window_id": "qsBitnO8djE:j0034",
+      "window_id": "qsBitnO8djE:j0026",
       "video_id": "qsBitnO8djE",
-      "idx": 34,
+      "idx": 26,
       "sent_ids": [
         "qsBitnO8djE:s0046",
         "qsBitnO8djE:s0047",
@@ -507,37 +403,24 @@
       "pos_pct": 0.305285498489426
     },
     {
-      "window_id": "qsBitnO8djE:j0035",
+      "window_id": "qsBitnO8djE:j0027",
       "video_id": "qsBitnO8djE",
-      "idx": 35,
+      "idx": 27,
       "sent_ids": [
-        "qsBitnO8djE:s0049"
+        "qsBitnO8djE:s0049",
+        "qsBitnO8djE:s0050"
       ],
       "start_s": 416.224,
-      "end_s": 425.548,
-      "text": "Obstructed labor in cases where the infant's position or size created a mechanical blockage that no amount of effort or skill could resolve without modern surgical intervention.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 436.531,
+      "text": "Obstructed labor in cases where the infant's position or size created a mechanical blockage that no amount of effort or skill could resolve without modern surgical intervention. and pre-eclampsia and related hypertensive disorders of pregnancy that remain dangerous even with modern medical care and were essentially untreatable in any pre-modern context.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.31436858006042295
     },
     {
-      "window_id": "qsBitnO8djE:j0036",
+      "window_id": "qsBitnO8djE:j0028",
       "video_id": "qsBitnO8djE",
-      "idx": 36,
-      "sent_ids": [
-        "qsBitnO8djE:s0050"
-      ],
-      "start_s": 426.188,
-      "end_s": 436.531,
-      "text": "and pre-eclampsia and related hypertensive disorders of pregnancy that remain dangerous even with modern medical care and were essentially untreatable in any pre-modern context.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.3218942598187311
-    },
-    {
-      "window_id": "qsBitnO8djE:j0037",
-      "video_id": "qsBitnO8djE",
-      "idx": 37,
+      "idx": 28,
       "sent_ids": [
         "qsBitnO8djE:s0051"
       ],
@@ -549,9 +432,9 @@
       "pos_pct": 0.33025
     },
     {
-      "window_id": "qsBitnO8djE:j0038",
+      "window_id": "qsBitnO8djE:j0029",
       "video_id": "qsBitnO8djE",
-      "idx": 38,
+      "idx": 29,
       "sent_ids": [
         "qsBitnO8djE:s0052"
       ],
@@ -563,9 +446,9 @@
       "pos_pct": 0.33826132930513597
     },
     {
-      "window_id": "qsBitnO8djE:j0039",
+      "window_id": "qsBitnO8djE:j0030",
       "video_id": "qsBitnO8djE",
-      "idx": 39,
+      "idx": 30,
       "sent_ids": [
         "qsBitnO8djE:s0053"
       ],
@@ -577,9 +460,9 @@
       "pos_pct": 0.3502839879154079
     },
     {
-      "window_id": "qsBitnO8djE:j0040",
+      "window_id": "qsBitnO8djE:j0031",
       "video_id": "qsBitnO8djE",
-      "idx": 40,
+      "idx": 31,
       "sent_ids": [
         "qsBitnO8djE:s0054"
       ],
@@ -591,9 +474,9 @@
       "pos_pct": 0.37071752265861024
     },
     {
-      "window_id": "qsBitnO8djE:j0041",
+      "window_id": "qsBitnO8djE:j0032",
       "video_id": "qsBitnO8djE",
-      "idx": 41,
+      "idx": 32,
       "sent_ids": [
         "qsBitnO8djE:s0055",
         "qsBitnO8djE:s0056",
@@ -607,9 +490,9 @@
       "pos_pct": 0.3808474320241692
     },
     {
-      "window_id": "qsBitnO8djE:j0042",
+      "window_id": "qsBitnO8djE:j0033",
       "video_id": "qsBitnO8djE",
-      "idx": 42,
+      "idx": 33,
       "sent_ids": [
         "qsBitnO8djE:s0058"
       ],
@@ -621,9 +504,9 @@
       "pos_pct": 0.39141238670694867
     },
     {
-      "window_id": "qsBitnO8djE:j0043",
+      "window_id": "qsBitnO8djE:j0034",
       "video_id": "qsBitnO8djE",
-      "idx": 43,
+      "idx": 34,
       "sent_ids": [
         "qsBitnO8djE:s0059"
       ],
@@ -635,37 +518,24 @@
       "pos_pct": 0.3985294561933535
     },
     {
-      "window_id": "qsBitnO8djE:j0044",
+      "window_id": "qsBitnO8djE:j0035",
       "video_id": "qsBitnO8djE",
-      "idx": 44,
+      "idx": 35,
       "sent_ids": [
-        "qsBitnO8djE:s0060"
+        "qsBitnO8djE:s0060",
+        "qsBitnO8djE:s0061"
       ],
       "start_s": 549.669,
-      "end_s": 556.774,
-      "text": "Estimates in some specific populations range as high as 10 to 20 percent of all adult male deaths attributable to violence.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 568.196,
+      "text": "Estimates in some specific populations range as high as 10 to 20 percent of all adult male deaths attributable to violence. Other researchers have pushed back against these high estimates, arguing that the specific archaeological sites used to generate them may not be representative of hunter-gatherer society more broadly.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.41515785498489427
     },
     {
-      "window_id": "qsBitnO8djE:j0045",
+      "window_id": "qsBitnO8djE:j0036",
       "video_id": "qsBitnO8djE",
-      "idx": 45,
-      "sent_ids": [
-        "qsBitnO8djE:s0061"
-      ],
-      "start_s": 557.985,
-      "end_s": 568.196,
-      "text": "Other researchers have pushed back against these high estimates, arguing that the specific archaeological sites used to generate them may not be representative of hunter-gatherer society more broadly.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.4214388217522659
-    },
-    {
-      "window_id": "qsBitnO8djE:j0046",
-      "video_id": "qsBitnO8djE",
-      "idx": 46,
+      "idx": 36,
       "sent_ids": [
         "qsBitnO8djE:s0062"
       ],
@@ -677,9 +547,9 @@
       "pos_pct": 0.42989199395770394
     },
     {
-      "window_id": "qsBitnO8djE:j0047",
+      "window_id": "qsBitnO8djE:j0037",
       "video_id": "qsBitnO8djE",
-      "idx": 47,
+      "idx": 37,
       "sent_ids": [
         "qsBitnO8djE:s0063"
       ],
@@ -691,9 +561,9 @@
       "pos_pct": 0.43826057401812685
     },
     {
-      "window_id": "qsBitnO8djE:j0048",
+      "window_id": "qsBitnO8djE:j0038",
       "video_id": "qsBitnO8djE",
-      "idx": 48,
+      "idx": 38,
       "sent_ids": [
         "qsBitnO8djE:s0064"
       ],
@@ -705,68 +575,55 @@
       "pos_pct": 0.45048338368580065
     },
     {
-      "window_id": "qsBitnO8djE:j0049",
+      "window_id": "qsBitnO8djE:j0039",
       "video_id": "qsBitnO8djE",
-      "idx": 49,
+      "idx": 39,
       "sent_ids": [
-        "qsBitnO8djE:s0065"
+        "qsBitnO8djE:s0065",
+        "qsBitnO8djE:s0066"
       ],
       "start_s": 614.388,
-      "end_s": 622.532,
-      "text": "It is genuinely difficult to overstate how completely antibiotics transformed the relationship between minor injury or infection and death.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 635.186,
+      "text": "It is genuinely difficult to overstate how completely antibiotics transformed the relationship between minor injury or infection and death. Before antibiotics, a relatively minor wound that became infected could progress to sepsis and death within days, a process that is now almost entirely preventable with a basic course of inexpensive medication.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.46403927492447133
     },
     {
-      "window_id": "qsBitnO8djE:j0050",
+      "window_id": "qsBitnO8djE:j0040",
       "video_id": "qsBitnO8djE",
-      "idx": 50,
+      "idx": 40,
       "sent_ids": [
-        "qsBitnO8djE:s0066",
-        "qsBitnO8djE:s0067"
-      ],
-      "start_s": 623.392,
-      "end_s": 636.847,
-      "text": "Before antibiotics, a relatively minor wound that became infected could progress to sepsis and death within days, a process that is now almost entirely preventable with a basic course of inexpensive medication. Childbirth infections.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.4708398791540786
-    },
-    {
-      "window_id": "qsBitnO8djE:j0051",
-      "video_id": "qsBitnO8djE",
-      "idx": 51,
-      "sent_ids": [
+        "qsBitnO8djE:s0067",
         "qsBitnO8djE:s0068",
-        "qsBitnO8djE:s0069",
-        "qsBitnO8djE:s0070"
+        "qsBitnO8djE:s0069"
       ],
-      "start_s": 637.488,
-      "end_s": 652.088,
-      "text": "Surgical infections. Pneumonia following a common cold or flu. All of these represented genuine mortal threats throughout almost the entirety of human history, right up until the widespread availability of antibiotics in the mid-20th century.",
-      "n_words": 35,
+      "start_s": 635.806,
+      "end_s": 641.272,
+      "text": "Childbirth infections. Surgical infections. Pneumonia following a common cold or flu.",
+      "n_words": 11,
       "n_sentences": 3,
-      "pos_pct": 0.4814864048338369
+      "pos_pct": 0.4802160120845922
     },
     {
-      "window_id": "qsBitnO8djE:j0052",
+      "window_id": "qsBitnO8djE:j0041",
       "video_id": "qsBitnO8djE",
-      "idx": 52,
+      "idx": 41,
       "sent_ids": [
+        "qsBitnO8djE:s0070",
         "qsBitnO8djE:s0071"
       ],
-      "start_s": 652.948,
+      "start_s": 642.441,
       "end_s": 662.095,
-      "text": "The gap between ancient and modern mortality is not primarily a story about ancient bodies being fundamentally weaker or less robust than modern bodies.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.49316314199395767
+      "text": "All of these represented genuine mortal threats throughout almost the entirety of human history, right up until the widespread availability of antibiotics in the mid-20th century. The gap between ancient and modern mortality is not primarily a story about ancient bodies being fundamentally weaker or less robust than modern bodies.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.4852273413897281
     },
     {
-      "window_id": "qsBitnO8djE:j0053",
+      "window_id": "qsBitnO8djE:j0042",
       "video_id": "qsBitnO8djE",
-      "idx": 53,
+      "idx": 42,
       "sent_ids": [
         "qsBitnO8djE:s0072",
         "qsBitnO8djE:s0073"
@@ -779,9 +636,9 @@
       "pos_pct": 0.5007220543806646
     },
     {
-      "window_id": "qsBitnO8djE:j0054",
+      "window_id": "qsBitnO8djE:j0043",
       "video_id": "qsBitnO8djE",
-      "idx": 54,
+      "idx": 43,
       "sent_ids": [
         "qsBitnO8djE:s0074",
         "qsBitnO8djE:s0075"
@@ -794,65 +651,39 @@
       "pos_pct": 0.5097054380664653
     },
     {
-      "window_id": "qsBitnO8djE:j0055",
+      "window_id": "qsBitnO8djE:j0044",
       "video_id": "qsBitnO8djE",
-      "idx": 55,
+      "idx": 44,
       "sent_ids": [
-        "qsBitnO8djE:s0076"
+        "qsBitnO8djE:s0076",
+        "qsBitnO8djE:s0077"
       ],
       "start_s": 687.035,
-      "end_s": 697.901,
-      "text": "Skeletal remains from individuals who survived to advanced age in prehistoric populations show clear evidence of the same age-related degenerative changes that affect modern elderly populations.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 708.065,
+      "text": "Skeletal remains from individuals who survived to advanced age in prehistoric populations show clear evidence of the same age-related degenerative changes that affect modern elderly populations. osteoarthritis, dental wear, and loss, evidence of healed fractures, and in some cases evidence of conditions like osteoporosis.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.5189086102719033
     },
     {
-      "window_id": "qsBitnO8djE:j0056",
+      "window_id": "qsBitnO8djE:j0045",
       "video_id": "qsBitnO8djE",
-      "idx": 56,
+      "idx": 45,
       "sent_ids": [
-        "qsBitnO8djE:s0077"
-      ],
-      "start_s": 698.661,
-      "end_s": 708.065,
-      "text": "osteoarthritis, dental wear, and loss, evidence of healed fractures, and in some cases evidence of conditions like osteoporosis.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.5276895770392749
-    },
-    {
-      "window_id": "qsBitnO8djE:j0057",
-      "video_id": "qsBitnO8djE",
-      "idx": 57,
-      "sent_ids": [
-        "qsBitnO8djE:s0078"
+        "qsBitnO8djE:s0078",
+        "qsBitnO8djE:s0079"
       ],
       "start_s": 709.046,
-      "end_s": 723.753,
-      "text": "Contemporary hunter-gatherer societies studied extensively by anthropologists, such as the Hadza of Tanzania and various groups in the Amazon basin, consistently include elderly individuals well into their 70s and occasionally their 80s.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 728.635,
+      "text": "Contemporary hunter-gatherer societies studied extensively by anthropologists, such as the Hadza of Tanzania and various groups in the Amazon basin, consistently include elderly individuals well into their 70s and occasionally their 80s. These elderly individuals are not marginal curiosities within their societies.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.5355332326283988
     },
     {
-      "window_id": "qsBitnO8djE:j0058",
+      "window_id": "qsBitnO8djE:j0046",
       "video_id": "qsBitnO8djE",
-      "idx": 58,
-      "sent_ids": [
-        "qsBitnO8djE:s0079"
-      ],
-      "start_s": 724.673,
-      "end_s": 728.635,
-      "text": "These elderly individuals are not marginal curiosities within their societies.",
-      "n_words": 10,
-      "n_sentences": 1,
-      "pos_pct": 0.5473361027190332
-    },
-    {
-      "window_id": "qsBitnO8djE:j0059",
-      "video_id": "qsBitnO8djE",
-      "idx": 59,
+      "idx": 46,
       "sent_ids": [
         "qsBitnO8djE:s0080"
       ],
@@ -864,9 +695,9 @@
       "pos_pct": 0.5507817220543807
     },
     {
-      "window_id": "qsBitnO8djE:j0060",
+      "window_id": "qsBitnO8djE:j0047",
       "video_id": "qsBitnO8djE",
-      "idx": 60,
+      "idx": 47,
       "sent_ids": [
         "qsBitnO8djE:s0081"
       ],
@@ -878,37 +709,24 @@
       "pos_pct": 0.5646850453172205
     },
     {
-      "window_id": "qsBitnO8djE:j0061",
+      "window_id": "qsBitnO8djE:j0048",
       "video_id": "qsBitnO8djE",
-      "idx": 61,
+      "idx": 48,
       "sent_ids": [
-        "qsBitnO8djE:s0082"
+        "qsBitnO8djE:s0082",
+        "qsBitnO8djE:s0083"
       ],
       "start_s": 762.029,
-      "end_s": 773.214,
-      "text": "The hypothesis argues that post-reproductive women who survived into old age provided substantial fitness benefits to their descendants by assisting with childcare, food provisioning, and the transmission of accumulated knowledge.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 780.938,
+      "text": "The hypothesis argues that post-reproductive women who survived into old age provided substantial fitness benefits to their descendants by assisting with childcare, food provisioning, and the transmission of accumulated knowledge. and that this benefit was significant enough to drive the evolution of an extended post-reproductive lifespan in human females, specifically.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.5755506042296072
     },
     {
-      "window_id": "qsBitnO8djE:j0062",
+      "window_id": "qsBitnO8djE:j0049",
       "video_id": "qsBitnO8djE",
-      "idx": 62,
-      "sent_ids": [
-        "qsBitnO8djE:s0083"
-      ],
-      "start_s": 773.934,
-      "end_s": 780.938,
-      "text": "and that this benefit was significant enough to drive the evolution of an extended post-reproductive lifespan in human females, specifically.",
-      "n_words": 20,
-      "n_sentences": 1,
-      "pos_pct": 0.5845422960725075
-    },
-    {
-      "window_id": "qsBitnO8djE:j0063",
-      "video_id": "qsBitnO8djE",
-      "idx": 63,
+      "idx": 49,
       "sent_ids": [
         "qsBitnO8djE:s0084"
       ],
@@ -920,9 +738,9 @@
       "pos_pct": 0.5902552870090635
     },
     {
-      "window_id": "qsBitnO8djE:j0064",
+      "window_id": "qsBitnO8djE:j0050",
       "video_id": "qsBitnO8djE",
-      "idx": 64,
+      "idx": 50,
       "sent_ids": [
         "qsBitnO8djE:s0085"
       ],
@@ -934,93 +752,54 @@
       "pos_pct": 0.5974131419939577
     },
     {
-      "window_id": "qsBitnO8djE:j0065",
+      "window_id": "qsBitnO8djE:j0051",
       "video_id": "qsBitnO8djE",
-      "idx": 65,
+      "idx": 51,
       "sent_ids": [
-        "qsBitnO8djE:s0086"
+        "qsBitnO8djE:s0086",
+        "qsBitnO8djE:s0087"
       ],
       "start_s": 806.039,
-      "end_s": 818.062,
-      "text": "The very existence of a substantial population of long-lived grandmothers is itself powerful, evidence that long adult lifespans were a real and recurring feature of human existence throughout deep prehistory.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 827.689,
+      "text": "The very existence of a substantial population of long-lived grandmothers is itself powerful, evidence that long adult lifespans were a real and recurring feature of human existence throughout deep prehistory. There is another dimension to this story worth unpacking, because it concerns how paleodemographers actually reconstruct age-at-death data from skeletal remains.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.6087907854984894
     },
     {
-      "window_id": "qsBitnO8djE:j0066",
+      "window_id": "qsBitnO8djE:j0052",
       "video_id": "qsBitnO8djE",
-      "idx": 66,
+      "idx": 52,
       "sent_ids": [
-        "qsBitnO8djE:s0087"
-      ],
-      "start_s": 818.922,
-      "end_s": 827.689,
-      "text": "There is another dimension to this story worth unpacking, because it concerns how paleodemographers actually reconstruct age-at-death data from skeletal remains.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.6185211480362538
-    },
-    {
-      "window_id": "qsBitnO8djE:j0067",
-      "video_id": "qsBitnO8djE",
-      "idx": 67,
-      "sent_ids": [
-        "qsBitnO8djE:s0088"
+        "qsBitnO8djE:s0088",
+        "qsBitnO8djE:s0089"
       ],
       "start_s": 828.49,
-      "end_s": 841.38,
-      "text": "Determining the age at which an ancient individual died relies on biological markers including the fusion of growth plates, changes in the pelvis, dental wear, and microscopic bone density changes.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 849.346,
+      "text": "Determining the age at which an ancient individual died relies on biological markers including the fusion of growth plates, changes in the pelvis, dental wear, and microscopic bone density changes. The problem is that these aging techniques become progressively less precise the older an individual was at death.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.6257477341389728
     },
     {
-      "window_id": "qsBitnO8djE:j0068",
+      "window_id": "qsBitnO8djE:j0053",
       "video_id": "qsBitnO8djE",
-      "idx": 68,
+      "idx": 53,
       "sent_ids": [
-        "qsBitnO8djE:s0089"
-      ],
-      "start_s": 842.281,
-      "end_s": 849.346,
-      "text": "The problem is that these aging techniques become progressively less precise the older an individual was at death.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.6361638972809668
-    },
-    {
-      "window_id": "qsBitnO8djE:j0069",
-      "video_id": "qsBitnO8djE",
-      "idx": 69,
-      "sent_ids": [
-        "qsBitnO8djE:s0090"
+        "qsBitnO8djE:s0090",
+        "qsBitnO8djE:s0091"
       ],
       "start_s": 850.047,
-      "end_s": 865.258,
-      "text": "Distinguishing a 45-year-old skeleton from a 65-year-old skeleton is genuinely difficult, and for decades the standard practice involved lumping all adults above roughly age 50 into a single broad old adult category without further discrimination.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 870.804,
+      "text": "Distinguishing a 45-year-old skeleton from a 65-year-old skeleton is genuinely difficult, and for decades the standard practice involved lumping all adults above roughly age 50 into a single broad old adult category without further discrimination. This methodological limitation had a distorting effect on calculated life expectancy figures.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.6420294561933535
     },
     {
-      "window_id": "qsBitnO8djE:j0070",
+      "window_id": "qsBitnO8djE:j0054",
       "video_id": "qsBitnO8djE",
-      "idx": 70,
-      "sent_ids": [
-        "qsBitnO8djE:s0091"
-      ],
-      "start_s": 866.078,
-      "end_s": 870.804,
-      "text": "This methodological limitation had a distorting effect on calculated life expectancy figures.",
-      "n_words": 12,
-      "n_sentences": 1,
-      "pos_pct": 0.6541374622356495
-    },
-    {
-      "window_id": "qsBitnO8djE:j0071",
-      "video_id": "qsBitnO8djE",
-      "idx": 71,
+      "idx": 54,
       "sent_ids": [
         "qsBitnO8djE:s0092"
       ],
@@ -1032,9 +811,9 @@
       "pos_pct": 0.658357250755287
     },
     {
-      "window_id": "qsBitnO8djE:j0072",
+      "window_id": "qsBitnO8djE:j0055",
       "video_id": "qsBitnO8djE",
-      "idx": 72,
+      "idx": 55,
       "sent_ids": [
         "qsBitnO8djE:s0093"
       ],
@@ -1046,9 +825,9 @@
       "pos_pct": 0.6780234138972809
     },
     {
-      "window_id": "qsBitnO8djE:j0073",
+      "window_id": "qsBitnO8djE:j0056",
       "video_id": "qsBitnO8djE",
-      "idx": 73,
+      "idx": 56,
       "sent_ids": [
         "qsBitnO8djE:s0094"
       ],
@@ -1060,37 +839,24 @@
       "pos_pct": 0.6893104229607251
     },
     {
-      "window_id": "qsBitnO8djE:j0074",
+      "window_id": "qsBitnO8djE:j0057",
       "video_id": "qsBitnO8djE",
-      "idx": 74,
+      "idx": 57,
       "sent_ids": [
-        "qsBitnO8djE:s0095"
+        "qsBitnO8djE:s0095",
+        "qsBitnO8djE:s0096"
       ],
       "start_s": 932.805,
-      "end_s": 939.575,
-      "text": "Initial analyses of the lib and skeletal population produced life expectancy figures that fit neatly into the popular narrative.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 945.764,
+      "text": "Initial analyses of the lib and skeletal population produced life expectancy figures that fit neatly into the popular narrative. An apparently very low average lifespan, with few individuals appearing to survive much past their 40s or 50s.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.704535498489426
     },
     {
-      "window_id": "qsBitnO8djE:j0075",
+      "window_id": "qsBitnO8djE:j0058",
       "video_id": "qsBitnO8djE",
-      "idx": 75,
-      "sent_ids": [
-        "qsBitnO8djE:s0096"
-      ],
-      "start_s": 940.076,
-      "end_s": 945.764,
-      "text": "An apparently very low average lifespan, with few individuals appearing to survive much past their 40s or 50s.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.7100271903323263
-    },
-    {
-      "window_id": "qsBitnO8djE:j0076",
-      "video_id": "qsBitnO8djE",
-      "idx": 76,
+      "idx": 58,
       "sent_ids": [
         "qsBitnO8djE:s0097"
       ],
@@ -1102,9 +868,9 @@
       "pos_pct": 0.7155868580060423
     },
     {
-      "window_id": "qsBitnO8djE:j0077",
+      "window_id": "qsBitnO8djE:j0059",
       "video_id": "qsBitnO8djE",
-      "idx": 77,
+      "idx": 59,
       "sent_ids": [
         "qsBitnO8djE:s0098"
       ],
@@ -1116,37 +882,24 @@
       "pos_pct": 0.7259078549848943
     },
     {
-      "window_id": "qsBitnO8djE:j0078",
+      "window_id": "qsBitnO8djE:j0060",
       "video_id": "qsBitnO8djE",
-      "idx": 78,
+      "idx": 60,
       "sent_ids": [
-        "qsBitnO8djE:s0099"
+        "qsBitnO8djE:s0099",
+        "qsBitnO8djE:s0100"
       ],
       "start_s": 974.406,
-      "end_s": 987.858,
-      "text": "This case study has become something of a cautionary tale within paleodemography itself, illustrating how methodological limitations in aging older skeletons can systematically distort our understanding of how long ancient people actually lived.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 991.382,
+      "text": "This case study has become something of a cautionary tale within paleodemography itself, illustrating how methodological limitations in aging older skeletons can systematically distort our understanding of how long ancient people actually lived. This pattern of revision is not unique to Liban.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.7359561933534743
     },
     {
-      "window_id": "qsBitnO8djE:j0079",
+      "window_id": "qsBitnO8djE:j0061",
       "video_id": "qsBitnO8djE",
-      "idx": 79,
-      "sent_ids": [
-        "qsBitnO8djE:s0100"
-      ],
-      "start_s": 988.779,
-      "end_s": 991.382,
-      "text": "This pattern of revision is not unique to Liban.",
-      "n_words": 9,
-      "n_sentences": 1,
-      "pos_pct": 0.7468119335347432
-    },
-    {
-      "window_id": "qsBitnO8djE:j0080",
-      "video_id": "qsBitnO8djE",
-      "idx": 80,
+      "idx": 61,
       "sent_ids": [
         "qsBitnO8djE:s0101"
       ],
@@ -1158,9 +911,9 @@
       "pos_pct": 0.749155589123867
     },
     {
-      "window_id": "qsBitnO8djE:j0081",
+      "window_id": "qsBitnO8djE:j0062",
       "video_id": "qsBitnO8djE",
-      "idx": 81,
+      "idx": 62,
       "sent_ids": [
         "qsBitnO8djE:s0102"
       ],
@@ -1172,9 +925,9 @@
       "pos_pct": 0.7659901812688822
     },
     {
-      "window_id": "qsBitnO8djE:j0082",
+      "window_id": "qsBitnO8djE:j0063",
       "video_id": "qsBitnO8djE",
-      "idx": 82,
+      "idx": 63,
       "sent_ids": [
         "qsBitnO8djE:s0103"
       ],
@@ -1186,9 +939,9 @@
       "pos_pct": 0.7782651057401813
     },
     {
-      "window_id": "qsBitnO8djE:j0083",
+      "window_id": "qsBitnO8djE:j0064",
       "video_id": "qsBitnO8djE",
-      "idx": 83,
+      "idx": 64,
       "sent_ids": [
         "qsBitnO8djE:s0104"
       ],
@@ -1200,37 +953,24 @@
       "pos_pct": 0.7810453172205438
     },
     {
-      "window_id": "qsBitnO8djE:j0084",
+      "window_id": "qsBitnO8djE:j0065",
       "video_id": "qsBitnO8djE",
-      "idx": 84,
+      "idx": 65,
       "sent_ids": [
-        "qsBitnO8djE:s0105"
+        "qsBitnO8djE:s0105",
+        "qsBitnO8djE:s0106"
       ],
       "start_s": 1057.009,
-      "end_s": 1061.071,
-      "text": "their research produced a specific statistic that deserves wider recognition.",
-      "n_words": 10,
-      "n_sentences": 1,
+      "end_s": 1076.499,
+      "text": "their research produced a specific statistic that deserves wider recognition. Across the various hunter-gatherer populations studied, the modal age of adult death, the single most common age at which adults actually died, as opposed to the mean average dragged down by childhood mortality, clustered consistently in the range of 70 to 72 years old.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.798345166163142
     },
     {
-      "window_id": "qsBitnO8djE:j0085",
+      "window_id": "qsBitnO8djE:j0066",
       "video_id": "qsBitnO8djE",
-      "idx": 85,
-      "sent_ids": [
-        "qsBitnO8djE:s0106"
-      ],
-      "start_s": 1061.791,
-      "end_s": 1076.499,
-      "text": "Across the various hunter-gatherer populations studied, the modal age of adult death, the single most common age at which adults actually died, as opposed to the mean average dragged down by childhood mortality, clustered consistently in the range of 70 to 72 years old.",
-      "n_words": 44,
-      "n_sentences": 1,
-      "pos_pct": 0.8019569486404834
-    },
-    {
-      "window_id": "qsBitnO8djE:j0086",
-      "video_id": "qsBitnO8djE",
-      "idx": 86,
+      "idx": 66,
       "sent_ids": [
         "qsBitnO8djE:s0107"
       ],
@@ -1242,9 +982,9 @@
       "pos_pct": 0.8145317220543807
     },
     {
-      "window_id": "qsBitnO8djE:j0087",
+      "window_id": "qsBitnO8djE:j0067",
       "video_id": "qsBitnO8djE",
-      "idx": 87,
+      "idx": 67,
       "sent_ids": [
         "qsBitnO8djE:s0108"
       ],
@@ -1256,9 +996,9 @@
       "pos_pct": 0.8252643504531723
     },
     {
-      "window_id": "qsBitnO8djE:j0088",
+      "window_id": "qsBitnO8djE:j0068",
       "video_id": "qsBitnO8djE",
-      "idx": 88,
+      "idx": 68,
       "sent_ids": [
         "qsBitnO8djE:s0109"
       ],
@@ -1270,37 +1010,24 @@
       "pos_pct": 0.8367031722054381
     },
     {
-      "window_id": "qsBitnO8djE:j0089",
+      "window_id": "qsBitnO8djE:j0069",
       "video_id": "qsBitnO8djE",
-      "idx": 89,
+      "idx": 69,
       "sent_ids": [
-        "qsBitnO8djE:s0110"
+        "qsBitnO8djE:s0110",
+        "qsBitnO8djE:s0111"
       ],
       "start_s": 1127.853,
-      "end_s": 1137.361,
-      "text": "This is sometimes called the Neolithic mortality crisis, and it complicates the simple, linear narrative in which human health steadily improved as civilization advanced.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 1151.352,
+      "text": "This is sometimes called the Neolithic mortality crisis, and it complicates the simple, linear narrative in which human health steadily improved as civilization advanced. There is also a specific and somewhat counterintuitive point worth raising about how disease environments shifted across the broad sweep of human history in ways that complicate any simple story of continuous improvement or continuous decline.",
+      "n_words": 60,
+      "n_sentences": 2,
       "pos_pct": 0.8518527190332327
     },
     {
-      "window_id": "qsBitnO8djE:j0090",
+      "window_id": "qsBitnO8djE:j0070",
       "video_id": "qsBitnO8djE",
-      "idx": 90,
-      "sent_ids": [
-        "qsBitnO8djE:s0111"
-      ],
-      "start_s": 1137.941,
-      "end_s": 1151.352,
-      "text": "There is also a specific and somewhat counterintuitive point worth raising about how disease environments shifted across the broad sweep of human history in ways that complicate any simple story of continuous improvement or continuous decline.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.8594720543806647
-    },
-    {
-      "window_id": "qsBitnO8djE:j0091",
-      "video_id": "qsBitnO8djE",
-      "idx": 91,
+      "idx": 70,
       "sent_ids": [
         "qsBitnO8djE:s0112"
       ],
@@ -1312,9 +1039,9 @@
       "pos_pct": 0.87014501510574
     },
     {
-      "window_id": "qsBitnO8djE:j0092",
+      "window_id": "qsBitnO8djE:j0071",
       "video_id": "qsBitnO8djE",
-      "idx": 92,
+      "idx": 71,
       "sent_ids": [
         "qsBitnO8djE:s0113"
       ],
@@ -1326,121 +1053,69 @@
       "pos_pct": 0.8882228096676738
     },
     {
-      "window_id": "qsBitnO8djE:j0093",
+      "window_id": "qsBitnO8djE:j0072",
       "video_id": "qsBitnO8djE",
-      "idx": 93,
+      "idx": 72,
       "sent_ids": [
-        "qsBitnO8djE:s0114"
+        "qsBitnO8djE:s0114",
+        "qsBitnO8djE:s0115"
       ],
       "start_s": 1193.792,
-      "end_s": 1197.213,
-      "text": "There is one more thread in this story that deserves attention before we close.",
-      "n_words": 14,
-      "n_sentences": 1,
+      "end_s": 1205.896,
+      "text": "There is one more thread in this story that deserves attention before we close. Because it concerns how this whole topic intersects with our own modern psychological relationship to aging, and the way we tell stories about the past.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.901655589123867
     },
     {
-      "window_id": "qsBitnO8djE:j0094",
+      "window_id": "qsBitnO8djE:j0073",
       "video_id": "qsBitnO8djE",
-      "idx": 94,
+      "idx": 73,
       "sent_ids": [
-        "qsBitnO8djE:s0115"
-      ],
-      "start_s": 1197.813,
-      "end_s": 1205.896,
-      "text": "Because it concerns how this whole topic intersects with our own modern psychological relationship to aging, and the way we tell stories about the past.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.9046925981873113
-    },
-    {
-      "window_id": "qsBitnO8djE:j0095",
-      "video_id": "qsBitnO8djE",
-      "idx": 95,
-      "sent_ids": [
-        "qsBitnO8djE:s0116"
+        "qsBitnO8djE:s0116",
+        "qsBitnO8djE:s0117"
       ],
       "start_s": 1206.576,
-      "end_s": 1211.579,
-      "text": "The persistent popularity of the 30-year myth serves a kind of narrative function.",
-      "n_words": 13,
-      "n_sentences": 1,
+      "end_s": 1229.468,
+      "text": "The persistent popularity of the 30-year myth serves a kind of narrative function. The idea that ancient humans simply dropped dead at 30 fits neatly into a broader cultural story in which modernity represents straightforward, linear improvement over a brutal and short-lived past, flattering the present by exaggerating the deficiencies of everything that came before it.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.9113111782477341
     },
     {
-      "window_id": "qsBitnO8djE:j0096",
+      "window_id": "qsBitnO8djE:j0074",
       "video_id": "qsBitnO8djE",
-      "idx": 96,
+      "idx": 74,
       "sent_ids": [
-        "qsBitnO8djE:s0117"
-      ],
-      "start_s": 1212.639,
-      "end_s": 1229.468,
-      "text": "The idea that ancient humans simply dropped dead at 30 fits neatly into a broader cultural story in which modernity represents straightforward, linear improvement over a brutal and short-lived past, flattering the present by exaggerating the deficiencies of everything that came before it.",
-      "n_words": 43,
-      "n_sentences": 1,
-      "pos_pct": 0.9158904833836857
-    },
-    {
-      "window_id": "qsBitnO8djE:j0097",
-      "video_id": "qsBitnO8djE",
-      "idx": 97,
-      "sent_ids": [
-        "qsBitnO8djE:s0118"
+        "qsBitnO8djE:s0118",
+        "qsBitnO8djE:s0119"
       ],
       "start_s": 1230.663,
-      "end_s": 1235.345,
-      "text": "The more accurate picture changes how we think about what modern medicine has actually accomplished.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 1249.633,
+      "text": "The more accurate picture changes how we think about what modern medicine has actually accomplished. The achievement is not that we have somehow extended the maximum potential human lifespan dramatically beyond what was previously possible, since long adult lifespans into the 70s and beyond were always within the range of human biological possibility.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.9295037764350453
     },
     {
-      "window_id": "qsBitnO8djE:j0098",
+      "window_id": "qsBitnO8djE:j0075",
       "video_id": "qsBitnO8djE",
-      "idx": 98,
+      "idx": 75,
       "sent_ids": [
-        "qsBitnO8djE:s0119"
-      ],
-      "start_s": 1236.206,
-      "end_s": 1249.633,
-      "text": "The achievement is not that we have somehow extended the maximum potential human lifespan dramatically beyond what was previously possible, since long adult lifespans into the 70s and beyond were always within the range of human biological possibility.",
-      "n_words": 38,
-      "n_sentences": 1,
-      "pos_pct": 0.933690332326284
-    },
-    {
-      "window_id": "qsBitnO8djE:j0099",
-      "video_id": "qsBitnO8djE",
-      "idx": 99,
-      "sent_ids": [
-        "qsBitnO8djE:s0120"
+        "qsBitnO8djE:s0120",
+        "qsBitnO8djE:s0121"
       ],
       "start_s": 1250.433,
-      "end_s": 1254.735,
-      "text": "The actual achievement is more specific and, in its own way, more remarkable.",
-      "n_words": 13,
-      "n_sentences": 1,
+      "end_s": 1271.363,
+      "text": "The actual achievement is more specific and, in its own way, more remarkable. We have dramatically reduced the proportion of any given population that fails to survive childhood, that dies from infectious disease in adulthood, that dies from childbirth complications, and that dies from injuries that would once have been fatal but are now routinely treatable.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.9444358006042296
     },
     {
-      "window_id": "qsBitnO8djE:j0100",
+      "window_id": "qsBitnO8djE:j0076",
       "video_id": "qsBitnO8djE",
-      "idx": 100,
-      "sent_ids": [
-        "qsBitnO8djE:s0121"
-      ],
-      "start_s": 1255.355,
-      "end_s": 1271.363,
-      "text": "We have dramatically reduced the proportion of any given population that fails to survive childhood, that dies from infectious disease in adulthood, that dies from childbirth complications, and that dies from injuries that would once have been fatal but are now routinely treatable.",
-      "n_words": 43,
-      "n_sentences": 1,
-      "pos_pct": 0.9481533232628399
-    },
-    {
-      "window_id": "qsBitnO8djE:j0101",
-      "video_id": "qsBitnO8djE",
-      "idx": 101,
+      "idx": 76,
       "sent_ids": [
         "qsBitnO8djE:s0122",
         "qsBitnO8djE:s0123"
@@ -1453,9 +1128,9 @@
       "pos_pct": 0.9611873111782478
     },
     {
-      "window_id": "qsBitnO8djE:j0102",
+      "window_id": "qsBitnO8djE:j0077",
       "video_id": "qsBitnO8djE",
-      "idx": 102,
+      "idx": 77,
       "sent_ids": [
         "qsBitnO8djE:s0124"
       ],
@@ -1467,9 +1142,9 @@
       "pos_pct": 0.9678957703927492
     },
     {
-      "window_id": "qsBitnO8djE:j0103",
+      "window_id": "qsBitnO8djE:j0078",
       "video_id": "qsBitnO8djE",
-      "idx": 103,
+      "idx": 78,
       "sent_ids": [
         "qsBitnO8djE:s0125"
       ],
@@ -1481,32 +1156,19 @@
       "pos_pct": 0.9725037764350454
     },
     {
-      "window_id": "qsBitnO8djE:j0104",
+      "window_id": "qsBitnO8djE:j0079",
       "video_id": "qsBitnO8djE",
-      "idx": 104,
+      "idx": 79,
       "sent_ids": [
-        "qsBitnO8djE:s0126"
-      ],
-      "start_s": 1302.028,
-      "end_s": 1306.655,
-      "text": "the number 30 captures something real and tragic about ancient human existence.",
-      "n_words": 12,
-      "n_sentences": 1,
-      "pos_pct": 0.9834048338368581
-    },
-    {
-      "window_id": "qsBitnO8djE:j0105",
-      "video_id": "qsBitnO8djE",
-      "idx": 105,
-      "sent_ids": [
+        "qsBitnO8djE:s0126",
         "qsBitnO8djE:s0127"
       ],
-      "start_s": 1307.396,
+      "start_s": 1302.028,
       "end_s": 1323.319,
-      "text": "It simply does not capture what most people assume it captures, and the actual story underneath it is both darker in its specific details about childhood and childbirth, and brighter in its implications about adult longevity than the flattened popular version most people carry around in their heads.",
-      "n_words": 48,
-      "n_sentences": 1,
-      "pos_pct": 0.9874592145015105
+      "text": "the number 30 captures something real and tragic about ancient human existence. It simply does not capture what most people assume it captures, and the actual story underneath it is both darker in its specific details about childhood and childbirth, and brighter in its implications about adult longevity than the flattened popular version most people carry around in their heads.",
+      "n_words": 60,
+      "n_sentences": 2,
+      "pos_pct": 0.9834048338368581
     }
   ]
 }

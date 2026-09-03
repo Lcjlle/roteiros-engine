@@ -1,6 +1,6 @@
 {
   "video_id": "pJYm-8WQbEE",
-  "generated_at": "2026-09-03T11:59:53.021903+00:00",
+  "generated_at": "2026-09-03T13:18:13.137539+00:00",
   "windows": [
     {
       "window_id": "pJYm-8WQbEE:j0000",
@@ -167,13 +167,14 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 10,
       "sent_ids": [
-        "pJYm-8WQbEE:s0030"
+        "pJYm-8WQbEE:s0030",
+        "pJYm-8WQbEE:s0031"
       ],
       "start_s": 89.102,
-      "end_s": 94.085,
-      "text": "which is their way of admitting they don't actually know the answer, but they'd like to be paid to think about it.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 99.527,
+      "text": "which is their way of admitting they don't actually know the answer, but they'd like to be paid to think about it. And fair enough, because this question is genuinely one of the hardest problems in all of science and philosophy.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.08575745909528393
     },
     {
@@ -181,64 +182,63 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 11,
       "sent_ids": [
-        "pJYm-8WQbEE:s0031",
-        "pJYm-8WQbEE:s0032"
+        "pJYm-8WQbEE:s0032",
+        "pJYm-8WQbEE:s0033"
       ],
-      "start_s": 94.425,
-      "end_s": 101.888,
-      "text": "And fair enough, because this question is genuinely one of the hardest problems in all of science and philosophy. It's called the problem of consciousness.",
-      "n_words": 25,
+      "start_s": 100.128,
+      "end_s": 106.651,
+      "text": "It's called the problem of consciousness. Consciousness, at the most basic level, is there something it feels like to be you?",
+      "n_words": 21,
       "n_sentences": 2,
-      "pos_pct": 0.09088065447545716
+      "pos_pct": 0.09636958614051973
     },
     {
       "window_id": "pJYm-8WQbEE:j0012",
       "video_id": "pJYm-8WQbEE",
       "idx": 12,
       "sent_ids": [
-        "pJYm-8WQbEE:s0033",
         "pJYm-8WQbEE:s0034",
-        "pJYm-8WQbEE:s0035"
+        "pJYm-8WQbEE:s0035",
+        "pJYm-8WQbEE:s0036",
+        "pJYm-8WQbEE:s0037"
       ],
-      "start_s": 102.209,
-      "end_s": 112.734,
-      "text": "Consciousness, at the most basic level, is there something it feels like to be you? When you see the color red, there's a redness to it, not just a wavelength. Not just neurons firing.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.09837247353224254
+      "start_s": 106.991,
+      "end_s": 117.098,
+      "text": "When you see the color red, there's a redness to it, not just a wavelength. Not just neurons firing. There's the experience of red. That's what philosophers call qualia.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.10297497593840231
     },
     {
       "window_id": "pJYm-8WQbEE:j0013",
       "video_id": "pJYm-8WQbEE",
       "idx": 13,
       "sent_ids": [
-        "pJYm-8WQbEE:s0036",
-        "pJYm-8WQbEE:s0037",
         "pJYm-8WQbEE:s0038",
-        "pJYm-8WQbEE:s0039"
+        "pJYm-8WQbEE:s0039",
+        "pJYm-8WQbEE:s0040"
       ],
-      "start_s": 113.055,
-      "end_s": 120.981,
-      "text": "There's the experience of red. That's what philosophers call qualia. The subjective felt quality of an experience. You feel hunger.",
-      "n_words": 20,
-      "n_sentences": 4,
-      "pos_pct": 0.10881135707410973
+      "start_s": 117.418,
+      "end_s": 122.062,
+      "text": "The subjective felt quality of an experience. You feel hunger. You feel cold.",
+      "n_words": 13,
+      "n_sentences": 3,
+      "pos_pct": 0.11301058710298365
     },
     {
       "window_id": "pJYm-8WQbEE:j0014",
       "video_id": "pJYm-8WQbEE",
       "idx": 14,
       "sent_ids": [
-        "pJYm-8WQbEE:s0040",
         "pJYm-8WQbEE:s0041",
         "pJYm-8WQbEE:s0042"
       ],
-      "start_s": 121.321,
+      "start_s": 122.402,
       "end_s": 132.11,
-      "text": "You feel cold. You feel that specific kind of emotional devastation when you open the fridge and the leftover pizza you were looking forward to all day is gone. Now, does your cat feel that?",
-      "n_words": 35,
-      "n_sentences": 3,
-      "pos_pct": 0.11676708373435996
+      "text": "You feel that specific kind of emotional devastation when you open the fridge and the leftover pizza you were looking forward to all day is gone. Now, does your cat feel that?",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.11780750721847931
     },
     {
       "window_id": "pJYm-8WQbEE:j0015",
@@ -275,13 +275,14 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 17,
       "sent_ids": [
-        "pJYm-8WQbEE:s0047"
+        "pJYm-8WQbEE:s0047",
+        "pJYm-8WQbEE:s0048"
       ],
       "start_s": 151.503,
-      "end_s": 156.826,
-      "text": "You just kind of assume because they look a lot like you, and they act a lot like you, and that seems reasonable.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 161.328,
+      "text": "You just kind of assume because they look a lot like you, and they act a lot like you, and that seems reasonable. But animals don't look exactly like you, and that's where it gets complicated.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.14581616939364772
     },
     {
@@ -289,113 +290,99 @@
       "video_id": "pJYm-8WQbEE",
       "idx": 18,
       "sent_ids": [
-        "pJYm-8WQbEE:s0048",
         "pJYm-8WQbEE:s0049",
-        "pJYm-8WQbEE:s0050"
+        "pJYm-8WQbEE:s0050",
+        "pJYm-8WQbEE:s0051",
+        "pJYm-8WQbEE:s0052"
       ],
-      "start_s": 157.306,
-      "end_s": 168.812,
-      "text": "But animals don't look exactly like you, and that's where it gets complicated. For most of scientific history, the official position of mainstream science was animals don't really feel anything. They respond to stimuli.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.15140134744947065
+      "start_s": 161.688,
+      "end_s": 173.734,
+      "text": "For most of scientific history, the official position of mainstream science was animals don't really feel anything. They respond to stimuli. They have behaviors. But there's no inner experience, no feelings, no awareness.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.155618864292589
     },
     {
       "window_id": "pJYm-8WQbEE:j0019",
       "video_id": "pJYm-8WQbEE",
       "idx": 19,
       "sent_ids": [
-        "pJYm-8WQbEE:s0051",
-        "pJYm-8WQbEE:s0052",
-        "pJYm-8WQbEE:s0053"
+        "pJYm-8WQbEE:s0053",
+        "pJYm-8WQbEE:s0054"
       ],
-      "start_s": 168.952,
-      "end_s": 176.716,
-      "text": "They have behaviors. But there's no inner experience, no feelings, no awareness. just biological machinery executing its programming.",
-      "n_words": 18,
-      "n_sentences": 3,
-      "pos_pct": 0.16261020211742058
+      "start_s": 174.074,
+      "end_s": 188.345,
+      "text": "just biological machinery executing its programming. This view was heavily influenced by a French philosopher named Descartes, who in the 1600s argued that animals were essentially just complex automatons, biological robots.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.16753994225216556
     },
     {
       "window_id": "pJYm-8WQbEE:j0020",
       "video_id": "pJYm-8WQbEE",
       "idx": 20,
       "sent_ids": [
-        "pJYm-8WQbEE:s0054",
-        "pJYm-8WQbEE:s0055"
+        "pJYm-8WQbEE:s0055",
+        "pJYm-8WQbEE:s0056",
+        "pJYm-8WQbEE:s0057"
       ],
-      "start_s": 177.016,
-      "end_s": 190.467,
-      "text": "This view was heavily influenced by a French philosopher named Descartes, who in the 1600s argued that animals were essentially just complex automatons, biological robots. The squealing of a pig when you heard it?",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.17037151106833492
+      "start_s": 188.785,
+      "end_s": 194.61,
+      "text": "The squealing of a pig when you heard it? Not pain, just mechanism. Like the sound of a clock ticking.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.1816987487969201
     },
     {
       "window_id": "pJYm-8WQbEE:j0021",
       "video_id": "pJYm-8WQbEE",
       "idx": 21,
       "sent_ids": [
-        "pJYm-8WQbEE:s0056",
-        "pJYm-8WQbEE:s0057",
-        "pJYm-8WQbEE:s0058"
+        "pJYm-8WQbEE:s0058",
+        "pJYm-8WQbEE:s0059"
       ],
-      "start_s": 190.907,
-      "end_s": 200.215,
-      "text": "Not pain, just mechanism. Like the sound of a clock ticking. Now look, I want to be fair to Descartes here, He didn't have the benefit of modern neuroscience.",
+      "start_s": 194.91,
+      "end_s": 204.279,
+      "text": "Now look, I want to be fair to Descartes here, He didn't have the benefit of modern neuroscience. He didn't know about neurons or nervous systems or brain structures.",
       "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.18374109720885468
+      "n_sentences": 2,
+      "pos_pct": 0.18759384023099132
     },
     {
       "window_id": "pJYm-8WQbEE:j0022",
       "video_id": "pJYm-8WQbEE",
       "idx": 22,
       "sent_ids": [
-        "pJYm-8WQbEE:s0059",
-        "pJYm-8WQbEE:s0060"
+        "pJYm-8WQbEE:s0060",
+        "pJYm-8WQbEE:s0061"
       ],
-      "start_s": 200.676,
-      "end_s": 206.582,
-      "text": "He didn't know about neurons or nervous systems or brain structures. He was working with what he had.",
-      "n_words": 18,
+      "start_s": 204.82,
+      "end_s": 215.191,
+      "text": "He was working with what he had. But also, and I say this with all due respect to one of history's greatest thinkers, that is one of the most aggressively wrong takes in intellectual history.",
+      "n_words": 35,
       "n_sentences": 2,
-      "pos_pct": 0.1931434071222329
+      "pos_pct": 0.19713185755534166
     },
     {
       "window_id": "pJYm-8WQbEE:j0023",
       "video_id": "pJYm-8WQbEE",
       "idx": 23,
       "sent_ids": [
-        "pJYm-8WQbEE:s0061",
-        "pJYm-8WQbEE:s0062"
+        "pJYm-8WQbEE:s0062",
+        "pJYm-8WQbEE:s0063",
+        "pJYm-8WQbEE:s0064"
       ],
-      "start_s": 207.042,
-      "end_s": 216.513,
-      "text": "But also, and I say this with all due respect to one of history's greatest thinkers, that is one of the most aggressively wrong takes in intellectual history. Pigs do feel pain.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.1992704523580366
+      "start_s": 215.391,
+      "end_s": 221.297,
+      "text": "Pigs do feel pain. They very obviously feel pain. Anyone who has spent more than 10 minutes near a pig knows this.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.2073060635226179
     },
     {
       "window_id": "pJYm-8WQbEE:j0024",
       "video_id": "pJYm-8WQbEE",
       "idx": 24,
-      "sent_ids": [
-        "pJYm-8WQbEE:s0063",
-        "pJYm-8WQbEE:s0064"
-      ],
-      "start_s": 216.833,
-      "end_s": 221.297,
-      "text": "They very obviously feel pain. Anyone who has spent more than 10 minutes near a pig knows this.",
-      "n_words": 18,
-      "n_sentences": 2,
-      "pos_pct": 0.2086939364773821
-    },
-    {
-      "window_id": "pJYm-8WQbEE:j0025",
-      "video_id": "pJYm-8WQbEE",
-      "idx": 25,
       "sent_ids": [
         "pJYm-8WQbEE:s0065",
         "pJYm-8WQbEE:s0066"
@@ -408,9 +395,9 @@
       "pos_pct": 0.21324061597690086
     },
     {
-      "window_id": "pJYm-8WQbEE:j0026",
+      "window_id": "pJYm-8WQbEE:j0025",
       "video_id": "pJYm-8WQbEE",
-      "idx": 26,
+      "idx": 25,
       "sent_ids": [
         "pJYm-8WQbEE:s0067",
         "pJYm-8WQbEE:s0068",
@@ -425,9 +412,9 @@
       "pos_pct": 0.22431857555341675
     },
     {
-      "window_id": "pJYm-8WQbEE:j0027",
+      "window_id": "pJYm-8WQbEE:j0026",
       "video_id": "pJYm-8WQbEE",
-      "idx": 27,
+      "idx": 26,
       "sent_ids": [
         "pJYm-8WQbEE:s0071",
         "pJYm-8WQbEE:s0072",
@@ -442,9 +429,9 @@
       "pos_pct": 0.2356082771896054
     },
     {
-      "window_id": "pJYm-8WQbEE:j0028",
+      "window_id": "pJYm-8WQbEE:j0027",
       "video_id": "pJYm-8WQbEE",
-      "idx": 28,
+      "idx": 27,
       "sent_ids": [
         "pJYm-8WQbEE:s0075",
         "pJYm-8WQbEE:s0076",
@@ -459,9 +446,9 @@
       "pos_pct": 0.24778537054860444
     },
     {
-      "window_id": "pJYm-8WQbEE:j0029",
+      "window_id": "pJYm-8WQbEE:j0028",
       "video_id": "pJYm-8WQbEE",
-      "idx": 29,
+      "idx": 28,
       "sent_ids": [
         "pJYm-8WQbEE:s0079",
         "pJYm-8WQbEE:s0080",
@@ -476,9 +463,9 @@
       "pos_pct": 0.2597449470644851
     },
     {
-      "window_id": "pJYm-8WQbEE:j0030",
+      "window_id": "pJYm-8WQbEE:j0029",
       "video_id": "pJYm-8WQbEE",
-      "idx": 30,
+      "idx": 29,
       "sent_ids": [
         "pJYm-8WQbEE:s0083",
         "pJYm-8WQbEE:s0084",
@@ -493,9 +480,9 @@
       "pos_pct": 0.2689104908565929
     },
     {
-      "window_id": "pJYm-8WQbEE:j0031",
+      "window_id": "pJYm-8WQbEE:j0030",
       "video_id": "pJYm-8WQbEE",
-      "idx": 31,
+      "idx": 30,
       "sent_ids": [
         "pJYm-8WQbEE:s0087",
         "pJYm-8WQbEE:s0088"
@@ -508,9 +495,9 @@
       "pos_pct": 0.27855822906641003
     },
     {
-      "window_id": "pJYm-8WQbEE:j0032",
+      "window_id": "pJYm-8WQbEE:j0031",
       "video_id": "pJYm-8WQbEE",
-      "idx": 32,
+      "idx": 31,
       "sent_ids": [
         "pJYm-8WQbEE:s0089",
         "pJYm-8WQbEE:s0090"
@@ -523,9 +510,9 @@
       "pos_pct": 0.2854706448508181
     },
     {
-      "window_id": "pJYm-8WQbEE:j0033",
+      "window_id": "pJYm-8WQbEE:j0032",
       "video_id": "pJYm-8WQbEE",
-      "idx": 33,
+      "idx": 32,
       "sent_ids": [
         "pJYm-8WQbEE:s0091",
         "pJYm-8WQbEE:s0092"
@@ -538,103 +525,90 @@
       "pos_pct": 0.2950587102983638
     },
     {
+      "window_id": "pJYm-8WQbEE:j0033",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 33,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0093",
+        "pJYm-8WQbEE:s0094"
+      ],
+      "start_s": 310.927,
+      "end_s": 323.569,
+      "text": "This became known as the mirror self-recognition test, or the MSR test, and it's been considered one of the gold standards for measuring self-awareness in animals. Because to recognize yourself in a mirror, you have to have some concept of self.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.29925601539942254
+    },
+    {
       "window_id": "pJYm-8WQbEE:j0034",
       "video_id": "pJYm-8WQbEE",
       "idx": 34,
       "sent_ids": [
-        "pJYm-8WQbEE:s0093"
+        "pJYm-8WQbEE:s0095",
+        "pJYm-8WQbEE:s0096"
       ],
-      "start_s": 310.927,
-      "end_s": 319.468,
-      "text": "This became known as the mirror self-recognition test, or the MSR test, and it's been considered one of the gold standards for measuring self-awareness in animals.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.29925601539942254
+      "start_s": 323.949,
+      "end_s": 334.031,
+      "text": "You have to understand that thing in the reflection is me. And if you have a concept of self, you have at least a rudimentary form of self-awareness, which is at least a precursor to knowing you exist.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.31178922040423485
     },
     {
       "window_id": "pJYm-8WQbEE:j0035",
       "video_id": "pJYm-8WQbEE",
       "idx": 35,
       "sent_ids": [
-        "pJYm-8WQbEE:s0094",
-        "pJYm-8WQbEE:s0095"
+        "pJYm-8WQbEE:s0097",
+        "pJYm-8WQbEE:s0098",
+        "pJYm-8WQbEE:s0099",
+        "pJYm-8WQbEE:s0100"
       ],
-      "start_s": 319.809,
-      "end_s": 327.43,
-      "text": "Because to recognize yourself in a mirror, you have to have some concept of self. You have to understand that thing in the reflection is me.",
-      "n_words": 26,
-      "n_sentences": 2,
-      "pos_pct": 0.3078046198267565
+      "start_s": 334.331,
+      "end_s": 341.392,
+      "text": "So who else passes the test? Great apes, chimps, bonobos, orangutans, gorillas, mostly. Yes. Dolphins.",
+      "n_words": 15,
+      "n_sentences": 4,
+      "pos_pct": 0.32178152069297405
     },
     {
       "window_id": "pJYm-8WQbEE:j0036",
       "video_id": "pJYm-8WQbEE",
       "idx": 36,
       "sent_ids": [
-        "pJYm-8WQbEE:s0096",
-        "pJYm-8WQbEE:s0097"
+        "pJYm-8WQbEE:s0101",
+        "pJYm-8WQbEE:s0102",
+        "pJYm-8WQbEE:s0103",
+        "pJYm-8WQbEE:s0104"
       ],
-      "start_s": 327.91,
-      "end_s": 335.531,
-      "text": "And if you have a concept of self, you have at least a rudimentary form of self-awareness, which is at least a precursor to knowing you exist. So who else passes the test?",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.3156015399422522
+      "start_s": 341.652,
+      "end_s": 344.313,
+      "text": "Yes. Elephants. Yes. And one that surprised everyone.",
+      "n_words": 8,
+      "n_sentences": 4,
+      "pos_pct": 0.328827718960539
     },
     {
       "window_id": "pJYm-8WQbEE:j0037",
       "video_id": "pJYm-8WQbEE",
       "idx": 37,
       "sent_ids": [
-        "pJYm-8WQbEE:s0098",
-        "pJYm-8WQbEE:s0099",
-        "pJYm-8WQbEE:s0100",
-        "pJYm-8WQbEE:s0101"
+        "pJYm-8WQbEE:s0105",
+        "pJYm-8WQbEE:s0106",
+        "pJYm-8WQbEE:s0107",
+        "pJYm-8WQbEE:s0108"
       ],
-      "start_s": 335.911,
-      "end_s": 341.872,
-      "text": "Great apes, chimps, bonobos, orangutans, gorillas, mostly. Yes. Dolphins. Yes.",
-      "n_words": 10,
+      "start_s": 344.553,
+      "end_s": 353.895,
+      "text": "Magpies. Magpies, those clever little corvid birds, pass the mirror test. A bird, looking at its reflection, reaching up to touch a mark on its own body. Dogs, interestingly, mostly don't pass it.",
+      "n_words": 33,
       "n_sentences": 4,
-      "pos_pct": 0.32330221366698747
+      "pos_pct": 0.33161982675649665
     },
     {
       "window_id": "pJYm-8WQbEE:j0038",
       "video_id": "pJYm-8WQbEE",
       "idx": 38,
-      "sent_ids": [
-        "pJYm-8WQbEE:s0102",
-        "pJYm-8WQbEE:s0103",
-        "pJYm-8WQbEE:s0104",
-        "pJYm-8WQbEE:s0105"
-      ],
-      "start_s": 342.152,
-      "end_s": 345.013,
-      "text": "Elephants. Yes. And one that surprised everyone. Magpies.",
-      "n_words": 8,
-      "n_sentences": 4,
-      "pos_pct": 0.3293089509143407
-    },
-    {
-      "window_id": "pJYm-8WQbEE:j0039",
-      "video_id": "pJYm-8WQbEE",
-      "idx": 39,
-      "sent_ids": [
-        "pJYm-8WQbEE:s0106",
-        "pJYm-8WQbEE:s0107",
-        "pJYm-8WQbEE:s0108"
-      ],
-      "start_s": 345.253,
-      "end_s": 353.895,
-      "text": "Magpies, those clever little corvid birds, pass the mirror test. A bird, looking at its reflection, reaching up to touch a mark on its own body. Dogs, interestingly, mostly don't pass it.",
-      "n_words": 32,
-      "n_sentences": 3,
-      "pos_pct": 0.33229355149181905
-    },
-    {
-      "window_id": "pJYm-8WQbEE:j0040",
-      "video_id": "pJYm-8WQbEE",
-      "idx": 40,
       "sent_ids": [
         "pJYm-8WQbEE:s0109",
         "pJYm-8WQbEE:s0110",
@@ -648,9 +622,9 @@
       "pos_pct": 0.34074590952839273
     },
     {
-      "window_id": "pJYm-8WQbEE:j0041",
+      "window_id": "pJYm-8WQbEE:j0039",
       "video_id": "pJYm-8WQbEE",
-      "idx": 41,
+      "idx": 39,
       "sent_ids": [
         "pJYm-8WQbEE:s0112",
         "pJYm-8WQbEE:s0113",
@@ -664,9 +638,9 @@
       "pos_pct": 0.34711838306063525
     },
     {
-      "window_id": "pJYm-8WQbEE:j0042",
+      "window_id": "pJYm-8WQbEE:j0040",
       "video_id": "pJYm-8WQbEE",
-      "idx": 42,
+      "idx": 40,
       "sent_ids": [
         "pJYm-8WQbEE:s0115",
         "pJYm-8WQbEE:s0116"
@@ -679,9 +653,9 @@
       "pos_pct": 0.35578248315688166
     },
     {
-      "window_id": "pJYm-8WQbEE:j0043",
+      "window_id": "pJYm-8WQbEE:j0041",
       "video_id": "pJYm-8WQbEE",
-      "idx": 43,
+      "idx": 41,
       "sent_ids": [
         "pJYm-8WQbEE:s0117",
         "pJYm-8WQbEE:s0118"
@@ -694,9 +668,9 @@
       "pos_pct": 0.3659518768046198
     },
     {
-      "window_id": "pJYm-8WQbEE:j0044",
+      "window_id": "pJYm-8WQbEE:j0042",
       "video_id": "pJYm-8WQbEE",
-      "idx": 44,
+      "idx": 42,
       "sent_ids": [
         "pJYm-8WQbEE:s0119",
         "pJYm-8WQbEE:s0120"
@@ -709,9 +683,9 @@
       "pos_pct": 0.37729547641963423
     },
     {
-      "window_id": "pJYm-8WQbEE:j0045",
+      "window_id": "pJYm-8WQbEE:j0043",
       "video_id": "pJYm-8WQbEE",
-      "idx": 45,
+      "idx": 43,
       "sent_ids": [
         "pJYm-8WQbEE:s0121",
         "pJYm-8WQbEE:s0122"
@@ -724,9 +698,9 @@
       "pos_pct": 0.38407410972088546
     },
     {
-      "window_id": "pJYm-8WQbEE:j0046",
+      "window_id": "pJYm-8WQbEE:j0044",
       "video_id": "pJYm-8WQbEE",
-      "idx": 46,
+      "idx": 44,
       "sent_ids": [
         "pJYm-8WQbEE:s0123",
         "pJYm-8WQbEE:s0124"
@@ -739,9 +713,9 @@
       "pos_pct": 0.3927593840230991
     },
     {
-      "window_id": "pJYm-8WQbEE:j0047",
+      "window_id": "pJYm-8WQbEE:j0045",
       "video_id": "pJYm-8WQbEE",
-      "idx": 47,
+      "idx": 45,
       "sent_ids": [
         "pJYm-8WQbEE:s0125",
         "pJYm-8WQbEE:s0126",
@@ -755,37 +729,24 @@
       "pos_pct": 0.39690086621751686
     },
     {
-      "window_id": "pJYm-8WQbEE:j0048",
+      "window_id": "pJYm-8WQbEE:j0046",
       "video_id": "pJYm-8WQbEE",
-      "idx": 48,
+      "idx": 46,
       "sent_ids": [
-        "pJYm-8WQbEE:s0128"
+        "pJYm-8WQbEE:s0128",
+        "pJYm-8WQbEE:s0129"
       ],
       "start_s": 423.308,
-      "end_s": 428.851,
-      "text": "They experience the world through sonar, bouncing sound waves off objects and perceiving the world that way.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 439.241,
+      "text": "They experience the world through sonar, bouncing sound waves off objects and perceiving the world that way. And Nagel's argument is that we can know every single physical fact about bat brains bat neurons, bat sonar, sonctronito, we can map the whole thing.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.4074186717998075
     },
     {
-      "window_id": "pJYm-8WQbEE:j0049",
+      "window_id": "pJYm-8WQbEE:j0047",
       "video_id": "pJYm-8WQbEE",
-      "idx": 49,
-      "sent_ids": [
-        "pJYm-8WQbEE:s0129"
-      ],
-      "start_s": 429.252,
-      "end_s": 439.241,
-      "text": "And Nagel's argument is that we can know every single physical fact about bat brains bat neurons, bat sonar, sonctronito, we can map the whole thing.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.4131395572666025
-    },
-    {
-      "window_id": "pJYm-8WQbEE:j0050",
-      "video_id": "pJYm-8WQbEE",
-      "idx": 50,
+      "idx": 47,
       "sent_ids": [
         "pJYm-8WQbEE:s0130",
         "pJYm-8WQbEE:s0131",
@@ -799,9 +760,9 @@
       "pos_pct": 0.4229653512993263
     },
     {
-      "window_id": "pJYm-8WQbEE:j0051",
+      "window_id": "pJYm-8WQbEE:j0048",
       "video_id": "pJYm-8WQbEE",
-      "idx": 51,
+      "idx": 48,
       "sent_ids": [
         "pJYm-8WQbEE:s0133",
         "pJYm-8WQbEE:s0134",
@@ -816,9 +777,9 @@
       "pos_pct": 0.4313099133782483
     },
     {
-      "window_id": "pJYm-8WQbEE:j0052",
+      "window_id": "pJYm-8WQbEE:j0049",
       "video_id": "pJYm-8WQbEE",
-      "idx": 52,
+      "idx": 49,
       "sent_ids": [
         "pJYm-8WQbEE:s0137",
         "pJYm-8WQbEE:s0138"
@@ -831,9 +792,9 @@
       "pos_pct": 0.4375505293551492
     },
     {
-      "window_id": "pJYm-8WQbEE:j0053",
+      "window_id": "pJYm-8WQbEE:j0050",
       "video_id": "pJYm-8WQbEE",
-      "idx": 53,
+      "idx": 50,
       "sent_ids": [
         "pJYm-8WQbEE:s0139",
         "pJYm-8WQbEE:s0140"
@@ -846,9 +807,9 @@
       "pos_pct": 0.4443676612127045
     },
     {
-      "window_id": "pJYm-8WQbEE:j0054",
+      "window_id": "pJYm-8WQbEE:j0051",
       "video_id": "pJYm-8WQbEE",
-      "idx": 54,
+      "idx": 51,
       "sent_ids": [
         "pJYm-8WQbEE:s0141",
         "pJYm-8WQbEE:s0142",
@@ -863,9 +824,9 @@
       "pos_pct": 0.45245620789220403
     },
     {
-      "window_id": "pJYm-8WQbEE:j0055",
+      "window_id": "pJYm-8WQbEE:j0052",
       "video_id": "pJYm-8WQbEE",
-      "idx": 55,
+      "idx": 52,
       "sent_ids": [
         "pJYm-8WQbEE:s0145",
         "pJYm-8WQbEE:s0146",
@@ -880,9 +841,9 @@
       "pos_pct": 0.4617247353224254
     },
     {
-      "window_id": "pJYm-8WQbEE:j0056",
+      "window_id": "pJYm-8WQbEE:j0053",
       "video_id": "pJYm-8WQbEE",
-      "idx": 56,
+      "idx": 53,
       "sent_ids": [
         "pJYm-8WQbEE:s0149",
         "pJYm-8WQbEE:s0150",
@@ -897,9 +858,9 @@
       "pos_pct": 0.46837247353224254
     },
     {
-      "window_id": "pJYm-8WQbEE:j0057",
+      "window_id": "pJYm-8WQbEE:j0054",
       "video_id": "pJYm-8WQbEE",
-      "idx": 57,
+      "idx": 54,
       "sent_ids": [
         "pJYm-8WQbEE:s0153",
         "pJYm-8WQbEE:s0154",
@@ -913,9 +874,9 @@
       "pos_pct": 0.4744215591915303
     },
     {
-      "window_id": "pJYm-8WQbEE:j0058",
+      "window_id": "pJYm-8WQbEE:j0055",
       "video_id": "pJYm-8WQbEE",
-      "idx": 58,
+      "idx": 55,
       "sent_ids": [
         "pJYm-8WQbEE:s0156",
         "pJYm-8WQbEE:s0157"
@@ -928,56 +889,56 @@
       "pos_pct": 0.4869576515880655
     },
     {
-      "window_id": "pJYm-8WQbEE:j0059",
+      "window_id": "pJYm-8WQbEE:j0056",
       "video_id": "pJYm-8WQbEE",
-      "idx": 59,
+      "idx": 56,
       "sent_ids": [
-        "pJYm-8WQbEE:s0158"
+        "pJYm-8WQbEE:s0158",
+        "pJYm-8WQbEE:s0159"
       ],
       "start_s": 511.852,
-      "end_s": 520.419,
-      "text": "Sometimes for hours, sometimes for days, they'll come back to the site of the death long after the body is gone, and stand there, seeming to remember.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 525.724,
+      "text": "Sometimes for hours, sometimes for days, they'll come back to the site of the death long after the body is gone, and stand there, seeming to remember. Now, what's actually happening inside an elephant's mind in those moments, we don't know for certain.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.4926390760346487
     },
     {
-      "window_id": "pJYm-8WQbEE:j0060",
+      "window_id": "pJYm-8WQbEE:j0057",
       "video_id": "pJYm-8WQbEE",
-      "idx": 60,
+      "idx": 57,
       "sent_ids": [
-        "pJYm-8WQbEE:s0159",
         "pJYm-8WQbEE:s0160",
-        "pJYm-8WQbEE:s0161"
+        "pJYm-8WQbEE:s0161",
+        "pJYm-8WQbEE:s0162"
       ],
-      "start_s": 520.659,
-      "end_s": 530.688,
-      "text": "Now, what's actually happening inside an elephant's mind in those moments, we don't know for certain. But here's what we do know. Elephants have extremely large brains relative to their body size.",
-      "n_words": 32,
+      "start_s": 525.904,
+      "end_s": 535.212,
+      "text": "But here's what we do know. Elephants have extremely large brains relative to their body size. They have a highly developed limbic system, the part of the brain associated with emotion.",
+      "n_words": 31,
       "n_sentences": 3,
-      "pos_pct": 0.5011154956689124
+      "pos_pct": 0.5061636188642926
     },
     {
-      "window_id": "pJYm-8WQbEE:j0061",
+      "window_id": "pJYm-8WQbEE:j0058",
       "video_id": "pJYm-8WQbEE",
-      "idx": 61,
+      "idx": 58,
       "sent_ids": [
-        "pJYm-8WQbEE:s0162",
         "pJYm-8WQbEE:s0163",
         "pJYm-8WQbEE:s0164",
         "pJYm-8WQbEE:s0165"
       ],
-      "start_s": 530.908,
+      "start_s": 535.692,
       "end_s": 543.699,
-      "text": "They have a highly developed limbic system, the part of the brain associated with emotion. They form deep, long-term social bonds. They remember individuals they haven't seen in years. They appear to experience grief.",
-      "n_words": 34,
-      "n_sentences": 4,
-      "pos_pct": 0.5109797882579403
+      "text": "They form deep, long-term social bonds. They remember individuals they haven't seen in years. They appear to experience grief.",
+      "n_words": 19,
+      "n_sentences": 3,
+      "pos_pct": 0.5155842155919154
     },
     {
-      "window_id": "pJYm-8WQbEE:j0062",
+      "window_id": "pJYm-8WQbEE:j0059",
       "video_id": "pJYm-8WQbEE",
-      "idx": 62,
+      "idx": 59,
       "sent_ids": [
         "pJYm-8WQbEE:s0166",
         "pJYm-8WQbEE:s0167"
@@ -990,9 +951,9 @@
       "pos_pct": 0.5236381135707411
     },
     {
-      "window_id": "pJYm-8WQbEE:j0063",
+      "window_id": "pJYm-8WQbEE:j0060",
       "video_id": "pJYm-8WQbEE",
-      "idx": 63,
+      "idx": 60,
       "sent_ids": [
         "pJYm-8WQbEE:s0168",
         "pJYm-8WQbEE:s0169",
@@ -1006,9 +967,9 @@
       "pos_pct": 0.5344639076034648
     },
     {
-      "window_id": "pJYm-8WQbEE:j0064",
+      "window_id": "pJYm-8WQbEE:j0061",
       "video_id": "pJYm-8WQbEE",
-      "idx": 64,
+      "idx": 61,
       "sent_ids": [
         "pJYm-8WQbEE:s0171",
         "pJYm-8WQbEE:s0172",
@@ -1022,9 +983,9 @@
       "pos_pct": 0.5430346487006736
     },
     {
-      "window_id": "pJYm-8WQbEE:j0065",
+      "window_id": "pJYm-8WQbEE:j0062",
       "video_id": "pJYm-8WQbEE",
-      "idx": 65,
+      "idx": 62,
       "sent_ids": [
         "pJYm-8WQbEE:s0174",
         "pJYm-8WQbEE:s0175",
@@ -1039,9 +1000,9 @@
       "pos_pct": 0.5507959576515881
     },
     {
-      "window_id": "pJYm-8WQbEE:j0066",
+      "window_id": "pJYm-8WQbEE:j0063",
       "video_id": "pJYm-8WQbEE",
-      "idx": 66,
+      "idx": 63,
       "sent_ids": [
         "pJYm-8WQbEE:s0178",
         "pJYm-8WQbEE:s0179",
@@ -1056,9 +1017,9 @@
       "pos_pct": 0.5596756496631377
     },
     {
-      "window_id": "pJYm-8WQbEE:j0067",
+      "window_id": "pJYm-8WQbEE:j0064",
       "video_id": "pJYm-8WQbEE",
-      "idx": 67,
+      "idx": 64,
       "sent_ids": [
         "pJYm-8WQbEE:s0182",
         "pJYm-8WQbEE:s0183"
@@ -1071,37 +1032,24 @@
       "pos_pct": 0.5680153994225217
     },
     {
-      "window_id": "pJYm-8WQbEE:j0068",
+      "window_id": "pJYm-8WQbEE:j0065",
       "video_id": "pJYm-8WQbEE",
-      "idx": 68,
+      "idx": 65,
       "sent_ids": [
-        "pJYm-8WQbEE:s0184"
+        "pJYm-8WQbEE:s0184",
+        "pJYm-8WQbEE:s0185"
       ],
       "start_s": 601.801,
-      "end_s": 606.287,
-      "text": "When put in conditions they find aversive, they show physiological stress responses.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 615.534,
+      "text": "When put in conditions they find aversive, they show physiological stress responses. Some fish have even passed versions of the mirror test, or at least shown reactions to their reflection that suggest a level of self-awareness that surprised researchers.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.5792117420596729
     },
     {
-      "window_id": "pJYm-8WQbEE:j0069",
+      "window_id": "pJYm-8WQbEE:j0066",
       "video_id": "pJYm-8WQbEE",
-      "idx": 69,
-      "sent_ids": [
-        "pJYm-8WQbEE:s0185"
-      ],
-      "start_s": 606.927,
-      "end_s": 615.534,
-      "text": "Some fish have even passed versions of the mirror test, or at least shown reactions to their reflection that suggest a level of self-awareness that surprised researchers.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.5841453320500481
-    },
-    {
-      "window_id": "pJYm-8WQbEE:j0070",
-      "video_id": "pJYm-8WQbEE",
-      "idx": 70,
+      "idx": 66,
       "sent_ids": [
         "pJYm-8WQbEE:s0186",
         "pJYm-8WQbEE:s0187"
@@ -1114,9 +1062,9 @@
       "pos_pct": 0.5926794995187681
     },
     {
-      "window_id": "pJYm-8WQbEE:j0071",
+      "window_id": "pJYm-8WQbEE:j0067",
       "video_id": "pJYm-8WQbEE",
-      "idx": 71,
+      "idx": 67,
       "sent_ids": [
         "pJYm-8WQbEE:s0188",
         "pJYm-8WQbEE:s0189",
@@ -1130,9 +1078,9 @@
       "pos_pct": 0.602446583253128
     },
     {
-      "window_id": "pJYm-8WQbEE:j0072",
+      "window_id": "pJYm-8WQbEE:j0068",
       "video_id": "pJYm-8WQbEE",
-      "idx": 72,
+      "idx": 68,
       "sent_ids": [
         "pJYm-8WQbEE:s0191",
         "pJYm-8WQbEE:s0192"
@@ -1145,37 +1093,24 @@
       "pos_pct": 0.6079364773820981
     },
     {
-      "window_id": "pJYm-8WQbEE:j0073",
+      "window_id": "pJYm-8WQbEE:j0069",
       "video_id": "pJYm-8WQbEE",
-      "idx": 73,
+      "idx": 69,
       "sent_ids": [
-        "pJYm-8WQbEE:s0193"
+        "pJYm-8WQbEE:s0193",
+        "pJYm-8WQbEE:s0194"
       ],
       "start_s": 642.09,
-      "end_s": 645.771,
-      "text": "Bees show something that looks disturbingly like pessimism when they're stressed.",
-      "n_words": 11,
-      "n_sentences": 1,
+      "end_s": 655.114,
+      "text": "Bees show something that looks disturbingly like pessimism when they're stressed. When you subject bees to a stressful experience and then give them an ambiguous stimulus, something that might be a reward or might not, stressed bees are less likely to investigate it.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.6179884504331088
     },
     {
-      "window_id": "pJYm-8WQbEE:j0074",
+      "window_id": "pJYm-8WQbEE:j0070",
       "video_id": "pJYm-8WQbEE",
-      "idx": 74,
-      "sent_ids": [
-        "pJYm-8WQbEE:s0194"
-      ],
-      "start_s": 645.971,
-      "end_s": 655.114,
-      "text": "When you subject bees to a stressful experience and then give them an ambiguous stimulus, something that might be a reward or might not, stressed bees are less likely to investigate it.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.6217237728585178
-    },
-    {
-      "window_id": "pJYm-8WQbEE:j0075",
-      "video_id": "pJYm-8WQbEE",
-      "idx": 75,
+      "idx": 70,
       "sent_ids": [
         "pJYm-8WQbEE:s0195",
         "pJYm-8WQbEE:s0196",
@@ -1189,9 +1124,9 @@
       "pos_pct": 0.6307545717035612
     },
     {
-      "window_id": "pJYm-8WQbEE:j0076",
+      "window_id": "pJYm-8WQbEE:j0071",
       "video_id": "pJYm-8WQbEE",
-      "idx": 76,
+      "idx": 71,
       "sent_ids": [
         "pJYm-8WQbEE:s0198",
         "pJYm-8WQbEE:s0199",
@@ -1206,9 +1141,9 @@
       "pos_pct": 0.6402281039461021
     },
     {
-      "window_id": "pJYm-8WQbEE:j0077",
+      "window_id": "pJYm-8WQbEE:j0072",
       "video_id": "pJYm-8WQbEE",
-      "idx": 77,
+      "idx": 72,
       "sent_ids": [
         "pJYm-8WQbEE:s0202",
         "pJYm-8WQbEE:s0203",
@@ -1223,9 +1158,9 @@
       "pos_pct": 0.6528614051973051
     },
     {
-      "window_id": "pJYm-8WQbEE:j0078",
+      "window_id": "pJYm-8WQbEE:j0073",
       "video_id": "pJYm-8WQbEE",
-      "idx": 78,
+      "idx": 73,
       "sent_ids": [
         "pJYm-8WQbEE:s0206",
         "pJYm-8WQbEE:s0207",
@@ -1240,9 +1175,9 @@
       "pos_pct": 0.6614504331087584
     },
     {
-      "window_id": "pJYm-8WQbEE:j0079",
+      "window_id": "pJYm-8WQbEE:j0074",
       "video_id": "pJYm-8WQbEE",
-      "idx": 79,
+      "idx": 74,
       "sent_ids": [
         "pJYm-8WQbEE:s0210",
         "pJYm-8WQbEE:s0211",
@@ -1256,9 +1191,9 @@
       "pos_pct": 0.6710615976900866
     },
     {
-      "window_id": "pJYm-8WQbEE:j0080",
+      "window_id": "pJYm-8WQbEE:j0075",
       "video_id": "pJYm-8WQbEE",
-      "idx": 80,
+      "idx": 75,
       "sent_ids": [
         "pJYm-8WQbEE:s0213",
         "pJYm-8WQbEE:s0214"
@@ -1271,9 +1206,9 @@
       "pos_pct": 0.6831010587102984
     },
     {
-      "window_id": "pJYm-8WQbEE:j0081",
+      "window_id": "pJYm-8WQbEE:j0076",
       "video_id": "pJYm-8WQbEE",
-      "idx": 81,
+      "idx": 76,
       "sent_ids": [
         "pJYm-8WQbEE:s0215",
         "pJYm-8WQbEE:s0216"
@@ -1286,9 +1221,9 @@
       "pos_pct": 0.6903830606352261
     },
     {
-      "window_id": "pJYm-8WQbEE:j0082",
+      "window_id": "pJYm-8WQbEE:j0077",
       "video_id": "pJYm-8WQbEE",
-      "idx": 82,
+      "idx": 77,
       "sent_ids": [
         "pJYm-8WQbEE:s0217",
         "pJYm-8WQbEE:s0218",
@@ -1302,9 +1237,9 @@
       "pos_pct": 0.7022877767083735
     },
     {
-      "window_id": "pJYm-8WQbEE:j0083",
+      "window_id": "pJYm-8WQbEE:j0078",
       "video_id": "pJYm-8WQbEE",
-      "idx": 83,
+      "idx": 78,
       "sent_ids": [
         "pJYm-8WQbEE:s0220",
         "pJYm-8WQbEE:s0221"
@@ -1317,9 +1252,9 @@
       "pos_pct": 0.713111645813282
     },
     {
-      "window_id": "pJYm-8WQbEE:j0084",
+      "window_id": "pJYm-8WQbEE:j0079",
       "video_id": "pJYm-8WQbEE",
-      "idx": 84,
+      "idx": 79,
       "sent_ids": [
         "pJYm-8WQbEE:s0222",
         "pJYm-8WQbEE:s0223"
@@ -1332,9 +1267,9 @@
       "pos_pct": 0.7212194417709336
     },
     {
-      "window_id": "pJYm-8WQbEE:j0085",
+      "window_id": "pJYm-8WQbEE:j0080",
       "video_id": "pJYm-8WQbEE",
-      "idx": 85,
+      "idx": 80,
       "sent_ids": [
         "pJYm-8WQbEE:s0224",
         "pJYm-8WQbEE:s0225",
@@ -1348,9 +1283,9 @@
       "pos_pct": 0.7309307025986526
     },
     {
-      "window_id": "pJYm-8WQbEE:j0086",
+      "window_id": "pJYm-8WQbEE:j0081",
       "video_id": "pJYm-8WQbEE",
-      "idx": 86,
+      "idx": 81,
       "sent_ids": [
         "pJYm-8WQbEE:s0227",
         "pJYm-8WQbEE:s0228",
@@ -1365,9 +1300,9 @@
       "pos_pct": 0.7403917228103947
     },
     {
-      "window_id": "pJYm-8WQbEE:j0087",
+      "window_id": "pJYm-8WQbEE:j0082",
       "video_id": "pJYm-8WQbEE",
-      "idx": 87,
+      "idx": 82,
       "sent_ids": [
         "pJYm-8WQbEE:s0231",
         "pJYm-8WQbEE:s0232",
@@ -1382,9 +1317,9 @@
       "pos_pct": 0.7485409047160732
     },
     {
-      "window_id": "pJYm-8WQbEE:j0088",
+      "window_id": "pJYm-8WQbEE:j0083",
       "video_id": "pJYm-8WQbEE",
-      "idx": 88,
+      "idx": 83,
       "sent_ids": [
         "pJYm-8WQbEE:s0235",
         "pJYm-8WQbEE:s0236",
@@ -1399,9 +1334,9 @@
       "pos_pct": 0.752759384023099
     },
     {
-      "window_id": "pJYm-8WQbEE:j0089",
+      "window_id": "pJYm-8WQbEE:j0084",
       "video_id": "pJYm-8WQbEE",
-      "idx": 89,
+      "idx": 84,
       "sent_ids": [
         "pJYm-8WQbEE:s0239",
         "pJYm-8WQbEE:s0240",
@@ -1416,9 +1351,9 @@
       "pos_pct": 0.7578450433108758
     },
     {
-      "window_id": "pJYm-8WQbEE:j0090",
+      "window_id": "pJYm-8WQbEE:j0085",
       "video_id": "pJYm-8WQbEE",
-      "idx": 90,
+      "idx": 85,
       "sent_ids": [
         "pJYm-8WQbEE:s0243",
         "pJYm-8WQbEE:s0244",
@@ -1432,9 +1367,9 @@
       "pos_pct": 0.7644706448508181
     },
     {
-      "window_id": "pJYm-8WQbEE:j0091",
+      "window_id": "pJYm-8WQbEE:j0086",
       "video_id": "pJYm-8WQbEE",
-      "idx": 91,
+      "idx": 86,
       "sent_ids": [
         "pJYm-8WQbEE:s0246",
         "pJYm-8WQbEE:s0247"
@@ -1447,9 +1382,9 @@
       "pos_pct": 0.7732733397497594
     },
     {
-      "window_id": "pJYm-8WQbEE:j0092",
+      "window_id": "pJYm-8WQbEE:j0087",
       "video_id": "pJYm-8WQbEE",
-      "idx": 92,
+      "idx": 87,
       "sent_ids": [
         "pJYm-8WQbEE:s0248",
         "pJYm-8WQbEE:s0249",
@@ -1463,9 +1398,9 @@
       "pos_pct": 0.7803792107795957
     },
     {
-      "window_id": "pJYm-8WQbEE:j0093",
+      "window_id": "pJYm-8WQbEE:j0088",
       "video_id": "pJYm-8WQbEE",
-      "idx": 93,
+      "idx": 88,
       "sent_ids": [
         "pJYm-8WQbEE:s0251",
         "pJYm-8WQbEE:s0252"
@@ -1478,9 +1413,9 @@
       "pos_pct": 0.7894504331087584
     },
     {
-      "window_id": "pJYm-8WQbEE:j0094",
+      "window_id": "pJYm-8WQbEE:j0089",
       "video_id": "pJYm-8WQbEE",
-      "idx": 94,
+      "idx": 89,
       "sent_ids": [
         "pJYm-8WQbEE:s0253",
         "pJYm-8WQbEE:s0254"
@@ -1493,9 +1428,9 @@
       "pos_pct": 0.7956333012512031
     },
     {
-      "window_id": "pJYm-8WQbEE:j0095",
+      "window_id": "pJYm-8WQbEE:j0090",
       "video_id": "pJYm-8WQbEE",
-      "idx": 95,
+      "idx": 90,
       "sent_ids": [
         "pJYm-8WQbEE:s0255",
         "pJYm-8WQbEE:s0256",
@@ -1509,9 +1444,9 @@
       "pos_pct": 0.808618864292589
     },
     {
-      "window_id": "pJYm-8WQbEE:j0096",
+      "window_id": "pJYm-8WQbEE:j0091",
       "video_id": "pJYm-8WQbEE",
-      "idx": 96,
+      "idx": 91,
       "sent_ids": [
         "pJYm-8WQbEE:s0258",
         "pJYm-8WQbEE:s0259",
@@ -1525,9 +1460,9 @@
       "pos_pct": 0.8148036573628489
     },
     {
-      "window_id": "pJYm-8WQbEE:j0097",
+      "window_id": "pJYm-8WQbEE:j0092",
       "video_id": "pJYm-8WQbEE",
-      "idx": 97,
+      "idx": 92,
       "sent_ids": [
         "pJYm-8WQbEE:s0261",
         "pJYm-8WQbEE:s0262"
@@ -1540,9 +1475,9 @@
       "pos_pct": 0.8238970163618864
     },
     {
-      "window_id": "pJYm-8WQbEE:j0098",
+      "window_id": "pJYm-8WQbEE:j0093",
       "video_id": "pJYm-8WQbEE",
-      "idx": 98,
+      "idx": 93,
       "sent_ids": [
         "pJYm-8WQbEE:s0263",
         "pJYm-8WQbEE:s0264",
@@ -1557,9 +1492,9 @@
       "pos_pct": 0.8301385948026949
     },
     {
-      "window_id": "pJYm-8WQbEE:j0099",
+      "window_id": "pJYm-8WQbEE:j0094",
       "video_id": "pJYm-8WQbEE",
-      "idx": 99,
+      "idx": 94,
       "sent_ids": [
         "pJYm-8WQbEE:s0267",
         "pJYm-8WQbEE:s0268",
@@ -1573,9 +1508,9 @@
       "pos_pct": 0.8396121270452358
     },
     {
-      "window_id": "pJYm-8WQbEE:j0100",
+      "window_id": "pJYm-8WQbEE:j0095",
       "video_id": "pJYm-8WQbEE",
-      "idx": 100,
+      "idx": 95,
       "sent_ids": [
         "pJYm-8WQbEE:s0270",
         "pJYm-8WQbEE:s0271",
@@ -1590,9 +1525,9 @@
       "pos_pct": 0.847948989412897
     },
     {
-      "window_id": "pJYm-8WQbEE:j0101",
+      "window_id": "pJYm-8WQbEE:j0096",
       "video_id": "pJYm-8WQbEE",
-      "idx": 101,
+      "idx": 96,
       "sent_ids": [
         "pJYm-8WQbEE:s0274",
         "pJYm-8WQbEE:s0275",
@@ -1607,9 +1542,9 @@
       "pos_pct": 0.857172281039461
     },
     {
-      "window_id": "pJYm-8WQbEE:j0102",
+      "window_id": "pJYm-8WQbEE:j0097",
       "video_id": "pJYm-8WQbEE",
-      "idx": 102,
+      "idx": 97,
       "sent_ids": [
         "pJYm-8WQbEE:s0278",
         "pJYm-8WQbEE:s0279",
@@ -1624,9 +1559,9 @@
       "pos_pct": 0.8654908565928777
     },
     {
-      "window_id": "pJYm-8WQbEE:j0103",
+      "window_id": "pJYm-8WQbEE:j0098",
       "video_id": "pJYm-8WQbEE",
-      "idx": 103,
+      "idx": 98,
       "sent_ids": [
         "pJYm-8WQbEE:s0282",
         "pJYm-8WQbEE:s0283",
@@ -1641,9 +1576,9 @@
       "pos_pct": 0.8731559191530317
     },
     {
-      "window_id": "pJYm-8WQbEE:j0104",
+      "window_id": "pJYm-8WQbEE:j0099",
       "video_id": "pJYm-8WQbEE",
-      "idx": 104,
+      "idx": 99,
       "sent_ids": [
         "pJYm-8WQbEE:s0286",
         "pJYm-8WQbEE:s0287",
@@ -1657,9 +1592,9 @@
       "pos_pct": 0.8820904716073147
     },
     {
-      "window_id": "pJYm-8WQbEE:j0105",
+      "window_id": "pJYm-8WQbEE:j0100",
       "video_id": "pJYm-8WQbEE",
-      "idx": 105,
+      "idx": 100,
       "sent_ids": [
         "pJYm-8WQbEE:s0289",
         "pJYm-8WQbEE:s0290",
@@ -1674,9 +1609,9 @@
       "pos_pct": 0.890948989412897
     },
     {
-      "window_id": "pJYm-8WQbEE:j0106",
+      "window_id": "pJYm-8WQbEE:j0101",
       "video_id": "pJYm-8WQbEE",
-      "idx": 106,
+      "idx": 101,
       "sent_ids": [
         "pJYm-8WQbEE:s0293",
         "pJYm-8WQbEE:s0294",
@@ -1690,9 +1625,9 @@
       "pos_pct": 0.8988084696823869
     },
     {
-      "window_id": "pJYm-8WQbEE:j0107",
+      "window_id": "pJYm-8WQbEE:j0102",
       "video_id": "pJYm-8WQbEE",
-      "idx": 107,
+      "idx": 102,
       "sent_ids": [
         "pJYm-8WQbEE:s0296",
         "pJYm-8WQbEE:s0297",
@@ -1706,9 +1641,9 @@
       "pos_pct": 0.9087690086621751
     },
     {
-      "window_id": "pJYm-8WQbEE:j0108",
+      "window_id": "pJYm-8WQbEE:j0103",
       "video_id": "pJYm-8WQbEE",
-      "idx": 108,
+      "idx": 103,
       "sent_ids": [
         "pJYm-8WQbEE:s0299",
         "pJYm-8WQbEE:s0300",
@@ -1722,9 +1657,9 @@
       "pos_pct": 0.9180943214629451
     },
     {
-      "window_id": "pJYm-8WQbEE:j0109",
+      "window_id": "pJYm-8WQbEE:j0104",
       "video_id": "pJYm-8WQbEE",
-      "idx": 109,
+      "idx": 104,
       "sent_ids": [
         "pJYm-8WQbEE:s0302",
         "pJYm-8WQbEE:s0303"
@@ -1737,52 +1672,39 @@
       "pos_pct": 0.9256679499518768
     },
     {
-      "window_id": "pJYm-8WQbEE:j0110",
+      "window_id": "pJYm-8WQbEE:j0105",
       "video_id": "pJYm-8WQbEE",
-      "idx": 110,
+      "idx": 105,
       "sent_ids": [
-        "pJYm-8WQbEE:s0304"
+        "pJYm-8WQbEE:s0304",
+        "pJYm-8WQbEE:s0305"
       ],
       "start_s": 966.275,
-      "end_s": 972.822,
-      "text": "The question, do animals know they're alive, turns out to be less a question about animals and more a question about what knowing you even is.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 982.21,
+      "text": "The question, do animals know they're alive, turns out to be less a question about animals and more a question about what knowing you even is. It's a question about consciousness, about the nature of experience, about the hard problem that philosophers and scientists have spent generations wrestling with and still haven't solved.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.930004812319538
     },
     {
-      "window_id": "pJYm-8WQbEE:j0111",
+      "window_id": "pJYm-8WQbEE:j0106",
       "video_id": "pJYm-8WQbEE",
-      "idx": 111,
+      "idx": 106,
       "sent_ids": [
-        "pJYm-8WQbEE:s0305",
-        "pJYm-8WQbEE:s0306"
-      ],
-      "start_s": 973.043,
-      "end_s": 983.511,
-      "text": "It's a question about consciousness, about the nature of experience, about the hard problem that philosophers and scientists have spent generations wrestling with and still haven't solved. But here's what we do know.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.9365187680461983
-    },
-    {
-      "window_id": "pJYm-8WQbEE:j0112",
-      "video_id": "pJYm-8WQbEE",
-      "idx": 112,
-      "sent_ids": [
+        "pJYm-8WQbEE:s0306",
         "pJYm-8WQbEE:s0307"
       ],
-      "start_s": 983.671,
+      "start_s": 982.29,
       "end_s": 997.963,
-      "text": "The world is full of creatures who experience it, who feel it, in some form or another, who are, in their own ways, alive not just biologically, but—and I want to be careful with this word, but I'm going to use it—experientially.",
-      "n_words": 42,
-      "n_sentences": 1,
-      "pos_pct": 0.9467478344562079
+      "text": "But here's what we do know. The world is full of creatures who experience it, who feel it, in some form or another, who are, in their own ways, alive not just biologically, but—and I want to be careful with this word, but I'm going to use it—experientially.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.9454186717998074
     },
     {
-      "window_id": "pJYm-8WQbEE:j0113",
+      "window_id": "pJYm-8WQbEE:j0107",
       "video_id": "pJYm-8WQbEE",
-      "idx": 113,
+      "idx": 107,
       "sent_ids": [
         "pJYm-8WQbEE:s0308",
         "pJYm-8WQbEE:s0309",
@@ -1796,9 +1718,9 @@
       "pos_pct": 0.9607343599615015
     },
     {
-      "window_id": "pJYm-8WQbEE:j0114",
+      "window_id": "pJYm-8WQbEE:j0108",
       "video_id": "pJYm-8WQbEE",
-      "idx": 114,
+      "idx": 108,
       "sent_ids": [
         "pJYm-8WQbEE:s0311",
         "pJYm-8WQbEE:s0312",
@@ -1812,9 +1734,9 @@
       "pos_pct": 0.9684013474494706
     },
     {
-      "window_id": "pJYm-8WQbEE:j0115",
+      "window_id": "pJYm-8WQbEE:j0109",
       "video_id": "pJYm-8WQbEE",
-      "idx": 115,
+      "idx": 109,
       "sent_ids": [
         "pJYm-8WQbEE:s0314",
         "pJYm-8WQbEE:s0315",
@@ -1829,9 +1751,9 @@
       "pos_pct": 0.9771665062560153
     },
     {
-      "window_id": "pJYm-8WQbEE:j0116",
+      "window_id": "pJYm-8WQbEE:j0110",
       "video_id": "pJYm-8WQbEE",
-      "idx": 116,
+      "idx": 110,
       "sent_ids": [
         "pJYm-8WQbEE:s0318",
         "pJYm-8WQbEE:s0319",

@@ -1,19 +1,20 @@
 {
   "video_id": "lkLwp9o7Djk",
-  "generated_at": "2026-09-03T11:59:53.020881+00:00",
+  "generated_at": "2026-09-03T13:18:13.135944+00:00",
   "windows": [
     {
       "window_id": "lkLwp9o7Djk:j0000",
       "video_id": "lkLwp9o7Djk",
       "idx": 0,
       "sent_ids": [
-        "lkLwp9o7Djk:s0000"
+        "lkLwp9o7Djk:s0000",
+        "lkLwp9o7Djk:s0001"
       ],
       "start_s": 0.131,
-      "end_s": 14.124,
-      "text": "Imagine waking up one morning hearing voices, voices that tell you things, important things, maybe warnings, maybe prophecies, maybe just pure chaos at 3 a.m. while everyone else is asleep.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 19.129,
+      "text": "Imagine waking up one morning hearing voices, voices that tell you things, important things, maybe warnings, maybe prophecies, maybe just pure chaos at 3 a.m. while everyone else is asleep. Now imagine this is happening to you in ancient Egypt 3,000 years ago.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.00010069177555726365
     },
     {
@@ -21,35 +22,21 @@
       "video_id": "lkLwp9o7Djk",
       "idx": 1,
       "sent_ids": [
-        "lkLwp9o7Djk:s0001",
         "lkLwp9o7Djk:s0002",
-        "lkLwp9o7Djk:s0003"
+        "lkLwp9o7Djk:s0003",
+        "lkLwp9o7Djk:s0004"
       ],
-      "start_s": 15.666,
-      "end_s": 23.407,
-      "text": "Now imagine this is happening to you in ancient Egypt 3,000 years ago. You don't have a diagnosis. You don't have medication.",
-      "n_words": 22,
+      "start_s": 20.625,
+      "end_s": 31.694,
+      "text": "You don't have a diagnosis. You don't have medication. You don't have a therapist named Dr. Keller who charges 120 bucks an hour to nod slowly and say, and how does that make you feel?",
+      "n_words": 35,
       "n_sentences": 3,
-      "pos_pct": 0.012041506533435819
+      "pos_pct": 0.015853189853958494
     },
     {
       "window_id": "lkLwp9o7Djk:j0002",
       "video_id": "lkLwp9o7Djk",
       "idx": 2,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0004"
-      ],
-      "start_s": 24.308,
-      "end_s": 31.694,
-      "text": "You don't have a therapist named Dr. Keller who charges 120 bucks an hour to nod slowly and say, and how does that make you feel?",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.018684089162182935
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0003",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 3,
       "sent_ids": [
         "lkLwp9o7Djk:s0005",
         "lkLwp9o7Djk:s0006"
@@ -62,165 +49,152 @@
       "pos_pct": 0.02502305918524212
     },
     {
+      "window_id": "lkLwp9o7Djk:j0003",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 3,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0007",
+        "lkLwp9o7Djk:s0008"
+      ],
+      "start_s": 38.259,
+      "end_s": 51.028,
+      "text": "Depending on where and when you lived, that might have actually been not the worst thing, or it could have been absolutely horrifying. Because how a society treats its most vulnerable people, that tells you everything about that society.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.02940737893927748
+    },
+    {
       "window_id": "lkLwp9o7Djk:j0004",
       "video_id": "lkLwp9o7Djk",
       "idx": 4,
       "sent_ids": [
-        "lkLwp9o7Djk:s0007"
+        "lkLwp9o7Djk:s0009",
+        "lkLwp9o7Djk:s0010"
       ],
-      "start_s": 38.259,
-      "end_s": 45.485,
-      "text": "Depending on where and when you lived, that might have actually been not the worst thing, or it could have been absolutely horrifying.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.02940737893927748
+      "start_s": 51.768,
+      "end_s": 61.354,
+      "text": "Everything. Let's start with prehistoric humans because yes, we actually have evidence of how they dealt with mental illness, and it is immediately insane.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.03979093005380477
     },
     {
       "window_id": "lkLwp9o7Djk:j0005",
       "video_id": "lkLwp9o7Djk",
       "idx": 5,
       "sent_ids": [
-        "lkLwp9o7Djk:s0008",
-        "lkLwp9o7Djk:s0009"
+        "lkLwp9o7Djk:s0011",
+        "lkLwp9o7Djk:s0012",
+        "lkLwp9o7Djk:s0013"
       ],
-      "start_s": 45.865,
-      "end_s": 52.269,
-      "text": "Because how a society treats its most vulnerable people, that tells you everything about that society. Everything.",
-      "n_words": 17,
-      "n_sentences": 2,
-      "pos_pct": 0.035253651037663335
+      "start_s": 62.274,
+      "end_s": 73.34,
+      "text": "Archaeologists have found skulls, thousands of years old, with holes in them. Not battle wounds, not animal attacks. Clean, deliberately carved holes.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.0478662567255957
     },
     {
       "window_id": "lkLwp9o7Djk:j0006",
       "video_id": "lkLwp9o7Djk",
       "idx": 6,
       "sent_ids": [
-        "lkLwp9o7Djk:s0010",
-        "lkLwp9o7Djk:s0011"
+        "lkLwp9o7Djk:s0014",
+        "lkLwp9o7Djk:s0015"
       ],
-      "start_s": 53.489,
-      "end_s": 67.017,
-      "text": "Let's start with prehistoric humans because yes, we actually have evidence of how they dealt with mental illness, and it is immediately insane. Archaeologists have found skulls, thousands of years old, with holes in them.",
-      "n_words": 35,
+      "start_s": 74.321,
+      "end_s": 83.105,
+      "text": "Some of these skulls even show signs of bone regrowth around the edges, which means the patient survived the procedure. They lived with a hole in their head, intentionally put there.",
+      "n_words": 31,
       "n_sentences": 2,
-      "pos_pct": 0.041113758647194465
+      "pos_pct": 0.057126056879323595
     },
     {
       "window_id": "lkLwp9o7Djk:j0007",
       "video_id": "lkLwp9o7Djk",
       "idx": 7,
       "sent_ids": [
-        "lkLwp9o7Djk:s0012",
-        "lkLwp9o7Djk:s0013",
-        "lkLwp9o7Djk:s0014"
+        "lkLwp9o7Djk:s0016",
+        "lkLwp9o7Djk:s0017",
+        "lkLwp9o7Djk:s0018"
       ],
-      "start_s": 67.837,
-      "end_s": 79.583,
-      "text": "Not battle wounds, not animal attacks. Clean, deliberately carved holes. Some of these skulls even show signs of bone regrowth around the edges, which means the patient survived the procedure.",
-      "n_words": 30,
+      "start_s": 83.546,
+      "end_s": 94.929,
+      "text": "This is called trepanation, and it is exactly as metal as it sounds. The working theory? They were letting the evil spirits out, literally drilling an exit door for the demon living in someone's skull.",
+      "n_words": 35,
       "n_sentences": 3,
-      "pos_pct": 0.05214219830899308
+      "pos_pct": 0.06421675634127595
     },
     {
       "window_id": "lkLwp9o7Djk:j0008",
       "video_id": "lkLwp9o7Djk",
       "idx": 8,
       "sent_ids": [
-        "lkLwp9o7Djk:s0015",
-        "lkLwp9o7Djk:s0016",
-        "lkLwp9o7Djk:s0017"
+        "lkLwp9o7Djk:s0019",
+        "lkLwp9o7Djk:s0020",
+        "lkLwp9o7Djk:s0021",
+        "lkLwp9o7Djk:s0022"
       ],
-      "start_s": 80.124,
-      "end_s": 89.089,
-      "text": "They lived with a hole in their head, intentionally put there. This is called trepanation, and it is exactly as metal as it sounds. The working theory?",
-      "n_words": 27,
-      "n_sentences": 3,
-      "pos_pct": 0.06158647194465795
+      "start_s": 95.75,
+      "end_s": 100.156,
+      "text": "Got bad headaches? Demon. Hearing voices? Demon.",
+      "n_words": 7,
+      "n_sentences": 4,
+      "pos_pct": 0.07359723289777094
     },
     {
       "window_id": "lkLwp9o7Djk:j0009",
       "video_id": "lkLwp9o7Djk",
       "idx": 9,
       "sent_ids": [
-        "lkLwp9o7Djk:s0018",
-        "lkLwp9o7Djk:s0019",
-        "lkLwp9o7Djk:s0020",
-        "lkLwp9o7Djk:s0021"
+        "lkLwp9o7Djk:s0023",
+        "lkLwp9o7Djk:s0024",
+        "lkLwp9o7Djk:s0025",
+        "lkLwp9o7Djk:s0026"
       ],
-      "start_s": 90.062,
-      "end_s": 98.894,
-      "text": "They were letting the evil spirits out, literally drilling an exit door for the demon living in someone's skull. Got bad headaches? Demon. Hearing voices?",
-      "n_words": 25,
+      "start_s": 100.857,
+      "end_s": 107.913,
+      "text": "Acting erratic and strange? Demon. Obviously. Demon, drill the hole, boom.",
+      "n_words": 11,
       "n_sentences": 4,
-      "pos_pct": 0.06922521137586472
+      "pos_pct": 0.07752267486548808
     },
     {
       "window_id": "lkLwp9o7Djk:j0010",
       "video_id": "lkLwp9o7Djk",
       "idx": 10,
       "sent_ids": [
-        "lkLwp9o7Djk:s0022",
-        "lkLwp9o7Djk:s0023",
-        "lkLwp9o7Djk:s0024",
-        "lkLwp9o7Djk:s0025"
+        "lkLwp9o7Djk:s0027",
+        "lkLwp9o7Djk:s0028",
+        "lkLwp9o7Djk:s0029",
+        "lkLwp9o7Djk:s0030"
       ],
-      "start_s": 99.815,
-      "end_s": 104.822,
-      "text": "Demon. Acting erratic and strange? Demon. Obviously.",
-      "n_words": 7,
+      "start_s": 108.534,
+      "end_s": 118.08,
+      "text": "Done. Next patient. And here's the thing that really messes with you when you sit with it. Trepanation actually survived for thousands of years across completely unconnected civilizations.",
+      "n_words": 28,
       "n_sentences": 4,
-      "pos_pct": 0.0767217524980784
+      "pos_pct": 0.08342352036894697
     },
     {
       "window_id": "lkLwp9o7Djk:j0011",
       "video_id": "lkLwp9o7Djk",
       "idx": 11,
       "sent_ids": [
-        "lkLwp9o7Djk:s0026",
-        "lkLwp9o7Djk:s0027",
-        "lkLwp9o7Djk:s0028",
-        "lkLwp9o7Djk:s0029"
+        "lkLwp9o7Djk:s0031",
+        "lkLwp9o7Djk:s0032"
       ],
-      "start_s": 105.672,
-      "end_s": 112.577,
-      "text": "Demon, drill the hole, boom. Done. Next patient. And here's the thing that really messes with you when you sit with it.",
-      "n_words": 22,
-      "n_sentences": 4,
-      "pos_pct": 0.08122367409684858
+      "start_s": 118.681,
+      "end_s": 133.871,
+      "text": "Ancient Peru, Ancient Greece, Medieval Europe, Sub-Saharan Africa. Completely separate cultures, no contact with each other, all independently arriving at the conclusion that the solution to mental disturbance was to put a hole in someone's head.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.0912229054573405
     },
     {
       "window_id": "lkLwp9o7Djk:j0012",
       "video_id": "lkLwp9o7Djk",
       "idx": 12,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0030",
-        "lkLwp9o7Djk:s0031"
-      ],
-      "start_s": 112.877,
-      "end_s": 123.764,
-      "text": "Trepanation actually survived for thousands of years across completely unconnected civilizations. Ancient Peru, Ancient Greece, Medieval Europe, Sub-Saharan Africa.",
-      "n_words": 19,
-      "n_sentences": 2,
-      "pos_pct": 0.08676172175249808
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0013",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 13,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0032"
-      ],
-      "start_s": 124.344,
-      "end_s": 133.871,
-      "text": "Completely separate cultures, no contact with each other, all independently arriving at the conclusion that the solution to mental disturbance was to put a hole in someone's head.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.09557571099154497
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0014",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 14,
       "sent_ids": [
         "lkLwp9o7Djk:s0033",
         "lkLwp9o7Djk:s0034"
@@ -233,9 +207,9 @@
       "pos_pct": 0.10356648731744812
     },
     {
-      "window_id": "lkLwp9o7Djk:j0015",
+      "window_id": "lkLwp9o7Djk:j0013",
       "video_id": "lkLwp9o7Djk",
-      "idx": 15,
+      "idx": 13,
       "sent_ids": [
         "lkLwp9o7Djk:s0035",
         "lkLwp9o7Djk:s0036",
@@ -249,154 +223,115 @@
       "pos_pct": 0.11177094542659492
     },
     {
+      "window_id": "lkLwp9o7Djk:j0014",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 14,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0038",
+        "lkLwp9o7Djk:s0039"
+      ],
+      "start_s": 158.756,
+      "end_s": 171.281,
+      "text": "If you were suffering psychologically, it meant the gods were mad at you. Specifically, it meant you had violated some divine law, broken a sacred contract, or deeply offended a deity, and now you were paying the price.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.12202613374327441
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0015",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 15,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0040",
+        "lkLwp9o7Djk:s0041"
+      ],
+      "start_s": 172.181,
+      "end_s": 179.306,
+      "text": "This was called the hand of a god doctrine. Your madness was literally the hand of a specific god pressing down on you.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.13234511913912375
+    },
+    {
       "window_id": "lkLwp9o7Djk:j0016",
       "video_id": "lkLwp9o7Djk",
       "idx": 16,
       "sent_ids": [
-        "lkLwp9o7Djk:s0038"
+        "lkLwp9o7Djk:s0042",
+        "lkLwp9o7Djk:s0043"
       ],
-      "start_s": 158.756,
-      "end_s": 162.117,
-      "text": "If you were suffering psychologically, it meant the gods were mad at you.",
-      "n_words": 13,
-      "n_sentences": 1,
-      "pos_pct": 0.12202613374327441
+      "start_s": 179.926,
+      "end_s": 190.933,
+      "text": "Which, honestly, if you've ever had a panic attack, the phrase, it felt like something was pressing down on me, does hit a little close to home. Not defending the theology here, just noting the metaphor holds up.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.13829823212913142
     },
     {
       "window_id": "lkLwp9o7Djk:j0017",
       "video_id": "lkLwp9o7Djk",
       "idx": 17,
       "sent_ids": [
-        "lkLwp9o7Djk:s0039",
-        "lkLwp9o7Djk:s0040"
+        "lkLwp9o7Djk:s0044",
+        "lkLwp9o7Djk:s0045"
       ],
-      "start_s": 162.757,
-      "end_s": 174.823,
-      "text": "Specifically, it meant you had violated some divine law, broken a sacred contract, or deeply offended a deity, and now you were paying the price. This was called the hand of a god doctrine.",
-      "n_words": 34,
+      "start_s": 191.434,
+      "end_s": 201.474,
+      "text": "The treatment involved priests called ashipu, who were essentially ancient forensic spiritual investigators. Their job was to figure out which god you'd angered and how badly.",
+      "n_words": 26,
       "n_sentences": 2,
-      "pos_pct": 0.12510146041506534
+      "pos_pct": 0.14714373558800922
     },
     {
       "window_id": "lkLwp9o7Djk:j0018",
       "video_id": "lkLwp9o7Djk",
       "idx": 18,
       "sent_ids": [
-        "lkLwp9o7Djk:s0041"
+        "lkLwp9o7Djk:s0046",
+        "lkLwp9o7Djk:s0047"
       ],
-      "start_s": 175.223,
-      "end_s": 179.306,
-      "text": "Your madness was literally the hand of a specific god pressing down on you.",
-      "n_words": 14,
-      "n_sentences": 1,
-      "pos_pct": 0.13468332052267487
+      "start_s": 201.954,
+      "end_s": 219.184,
+      "text": "They would examine your symptoms, your dreams, your behaviors, cross-reference them against massive clay tablet databases of divine offenses and their corresponding punishments, and then prescribe a ritual cleansing. And look, and before we laugh too hard, see, these priests were genuinely trying to help.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.15522982321291315
     },
     {
       "window_id": "lkLwp9o7Djk:j0019",
       "video_id": "lkLwp9o7Djk",
       "idx": 19,
       "sent_ids": [
-        "lkLwp9o7Djk:s0042"
+        "lkLwp9o7Djk:s0048",
+        "lkLwp9o7Djk:s0049",
+        "lkLwp9o7Djk:s0050"
       ],
-      "start_s": 179.926,
-      "end_s": 187.511,
-      "text": "Which, honestly, if you've ever had a panic attack, the phrase, it felt like something was pressing down on me, does hit a little close to home.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.13829823212913142
+      "start_s": 219.604,
+      "end_s": 233.286,
+      "text": "They weren't monsters. They were working with the best explanatory framework available to them, and their diagnostic tablets incredibly detailed. They described symptoms we would today recognize as schizophrenia, epilepsy, depression, mania.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.16879631053036126
     },
     {
       "window_id": "lkLwp9o7Djk:j0020",
       "video_id": "lkLwp9o7Djk",
       "idx": 20,
       "sent_ids": [
-        "lkLwp9o7Djk:s0043",
-        "lkLwp9o7Djk:s0044"
+        "lkLwp9o7Djk:s0051",
+        "lkLwp9o7Djk:s0052"
       ],
-      "start_s": 187.951,
-      "end_s": 197.598,
-      "text": "Not defending the theology here, just noting the metaphor holds up. The treatment involved priests called ashipu, who were essentially ancient forensic spiritual investigators.",
-      "n_words": 24,
+      "start_s": 233.726,
+      "end_s": 243.568,
+      "text": "They were observing carefully and systematically. They just had the causal mechanism completely wrong, which in the grand tradition of medicine is a completely normal phase to go through.",
+      "n_words": 29,
       "n_sentences": 2,
-      "pos_pct": 0.14446656418139892
+      "pos_pct": 0.1796510376633359
     },
     {
       "window_id": "lkLwp9o7Djk:j0021",
       "video_id": "lkLwp9o7Djk",
       "idx": 21,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0045"
-      ],
-      "start_s": 198.352,
-      "end_s": 201.474,
-      "text": "Their job was to figure out which god you'd angered and how badly.",
-      "n_words": 13,
-      "n_sentences": 1,
-      "pos_pct": 0.15246118370484243
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0022",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 22,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0046"
-      ],
-      "start_s": 201.954,
-      "end_s": 214.043,
-      "text": "They would examine your symptoms, your dreams, your behaviors, cross-reference them against massive clay tablet databases of divine offenses and their corresponding punishments, and then prescribe a ritual cleansing.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.15522982321291315
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0023",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 23,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0047",
-        "lkLwp9o7Djk:s0048"
-      ],
-      "start_s": 214.703,
-      "end_s": 220.404,
-      "text": "And look, and before we laugh too hard, see, these priests were genuinely trying to help. They weren't monsters.",
-      "n_words": 19,
-      "n_sentences": 2,
-      "pos_pct": 0.16502920830130668
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0024",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 24,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0049",
-        "lkLwp9o7Djk:s0050",
-        "lkLwp9o7Djk:s0051"
-      ],
-      "start_s": 220.704,
-      "end_s": 235.827,
-      "text": "They were working with the best explanatory framework available to them, and their diagnostic tablets incredibly detailed. They described symptoms we would today recognize as schizophrenia, epilepsy, depression, mania. They were observing carefully and systematically.",
-      "n_words": 35,
-      "n_sentences": 3,
-      "pos_pct": 0.16964181398923905
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0025",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 25,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0052"
-      ],
-      "start_s": 236.307,
-      "end_s": 243.568,
-      "text": "They just had the causal mechanism completely wrong, which in the grand tradition of medicine is a completely normal phase to go through.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.1816348962336664
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0026",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 26,
       "sent_ids": [
         "lkLwp9o7Djk:s0053"
       ],
@@ -408,67 +343,54 @@
       "pos_pct": 0.18802613374327443
     },
     {
-      "window_id": "lkLwp9o7Djk:j0027",
+      "window_id": "lkLwp9o7Djk:j0022",
       "video_id": "lkLwp9o7Djk",
-      "idx": 27,
+      "idx": 22,
       "sent_ids": [
-        "lkLwp9o7Djk:s0054"
+        "lkLwp9o7Djk:s0054",
+        "lkLwp9o7Djk:s0055"
       ],
       "start_s": 255.606,
-      "end_s": 268.591,
-      "text": "Egyptian medical texts, particularly the Ebers Papyrus from around 1550 BC, actually described mental and emotional disorders as conditions of the heart and uterus, which, anatomically, miss by quite a bit.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 273.733,
+      "text": "Egyptian medical texts, particularly the Ebers Papyrus from around 1550 BC, actually described mental and emotional disorders as conditions of the heart and uterus, which, anatomically, miss by quite a bit. But crucially, they treated them as medical conditions rather than purely spiritual ones.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.19646887009992314
     },
     {
-      "window_id": "lkLwp9o7Djk:j0028",
+      "window_id": "lkLwp9o7Djk:j0023",
       "video_id": "lkLwp9o7Djk",
-      "idx": 28,
+      "idx": 23,
       "sent_ids": [
-        "lkLwp9o7Djk:s0055",
-        "lkLwp9o7Djk:s0056"
+        "lkLwp9o7Djk:s0056",
+        "lkLwp9o7Djk:s0057"
       ],
-      "start_s": 269.311,
-      "end_s": 282.777,
-      "text": "But crucially, they treated them as medical conditions rather than purely spiritual ones. Egyptian physicians would prescribe things like herbal remedies, lifestyle changes, rest, social activities.",
-      "n_words": 26,
+      "start_s": 274.974,
+      "end_s": 290.18,
+      "text": "Egyptian physicians would prescribe things like herbal remedies, lifestyle changes, rest, social activities. There are accounts of patients being taken to temples not just for prayer, but for what we might call environmental therapy.",
+      "n_words": 34,
       "n_sentences": 2,
-      "pos_pct": 0.20700307455803227
+      "pos_pct": 0.21135588009223674
     },
     {
-      "window_id": "lkLwp9o7Djk:j0029",
+      "window_id": "lkLwp9o7Djk:j0024",
       "video_id": "lkLwp9o7Djk",
-      "idx": 29,
+      "idx": 24,
       "sent_ids": [
-        "lkLwp9o7Djk:s0057",
-        "lkLwp9o7Djk:s0058"
-      ],
-      "start_s": 283.497,
-      "end_s": 297.083,
-      "text": "There are accounts of patients being taken to temples not just for prayer, but for what we might call environmental therapy. Calming surroundings, music, gardens, activities designed to soothe an agitated mind.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.21790699461952345
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0030",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 30,
-      "sent_ids": [
+        "lkLwp9o7Djk:s0058",
         "lkLwp9o7Djk:s0059"
       ],
-      "start_s": 298.148,
+      "start_s": 290.98,
       "end_s": 310.775,
-      "text": "There was an ancient Egyptian temple complex dedicated to the healing god Imhotep, where mentally distressed individuals would come, sleep in the sacred precinct, and receive dream interpretations that were meant to guide their healing.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.2291683320522675
+      "text": "Calming surroundings, music, gardens, activities designed to soothe an agitated mind. There was an ancient Egyptian temple complex dedicated to the healing god Imhotep, where mentally distressed individuals would come, sleep in the sacred precinct, and receive dream interpretations that were meant to guide their healing.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.2236587240584166
     },
     {
-      "window_id": "lkLwp9o7Djk:j0031",
+      "window_id": "lkLwp9o7Djk:j0025",
       "video_id": "lkLwp9o7Djk",
-      "idx": 31,
+      "idx": 25,
       "sent_ids": [
         "lkLwp9o7Djk:s0060",
         "lkLwp9o7Djk:s0061",
@@ -483,52 +405,39 @@
       "pos_pct": 0.23935126825518832
     },
     {
-      "window_id": "lkLwp9o7Djk:j0032",
+      "window_id": "lkLwp9o7Djk:j0026",
       "video_id": "lkLwp9o7Djk",
-      "idx": 32,
+      "idx": 26,
       "sent_ids": [
-        "lkLwp9o7Djk:s0064"
+        "lkLwp9o7Djk:s0064",
+        "lkLwp9o7Djk:s0065"
       ],
       "start_s": 322.942,
-      "end_s": 333.492,
-      "text": "Egypt also had a concept that some mental disturbances came from the heart being too full or too empty, almost precursor ideas to what we'd understand as mood disorders.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 336.815,
+      "text": "Egypt also had a concept that some mental disturbances came from the heart being too full or too empty, almost precursor ideas to what we'd understand as mood disorders. Not quite right, but in the right neighborhood.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.2482259800153728
     },
     {
-      "window_id": "lkLwp9o7Djk:j0033",
+      "window_id": "lkLwp9o7Djk:j0027",
       "video_id": "lkLwp9o7Djk",
-      "idx": 33,
+      "idx": 27,
       "sent_ids": [
-        "lkLwp9o7Djk:s0065",
-        "lkLwp9o7Djk:s0066"
-      ],
-      "start_s": 334.112,
-      "end_s": 339.657,
-      "text": "Not quite right, but in the right neighborhood. Pointing at the right building, wrong floor.",
-      "n_words": 15,
-      "n_sentences": 2,
-      "pos_pct": 0.2568116833205227
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0034",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 34,
-      "sent_ids": [
+        "lkLwp9o7Djk:s0066",
         "lkLwp9o7Djk:s0067"
       ],
-      "start_s": 340.655,
+      "start_s": 337.335,
       "end_s": 356.206,
-      "text": "Now we cross the Mediterranean, and we have to talk about ancient Greece, because ancient Greece is where things get philosophically fascinating and also occasionally horrifying in that specific ancient Greek way, where everything is very smart and also somehow involves suffering.",
-      "n_words": 42,
-      "n_sentences": 1,
-      "pos_pct": 0.26184089162182933
+      "text": "Pointing at the right building, wrong floor. Now we cross the Mediterranean, and we have to talk about ancient Greece, because ancient Greece is where things get philosophically fascinating and also occasionally horrifying in that specific ancient Greek way, where everything is very smart and also somehow involves suffering.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.25928900845503455
     },
     {
-      "window_id": "lkLwp9o7Djk:j0035",
+      "window_id": "lkLwp9o7Djk:j0028",
       "video_id": "lkLwp9o7Djk",
-      "idx": 35,
+      "idx": 28,
       "sent_ids": [
         "lkLwp9o7Djk:s0068",
         "lkLwp9o7Djk:s0069"
@@ -541,9 +450,9 @@
       "pos_pct": 0.27496310530361256
     },
     {
-      "window_id": "lkLwp9o7Djk:j0036",
+      "window_id": "lkLwp9o7Djk:j0029",
       "video_id": "lkLwp9o7Djk",
-      "idx": 36,
+      "idx": 29,
       "sent_ids": [
         "lkLwp9o7Djk:s0070",
         "lkLwp9o7Djk:s0071"
@@ -556,9 +465,9 @@
       "pos_pct": 0.2833627978478094
     },
     {
-      "window_id": "lkLwp9o7Djk:j0037",
+      "window_id": "lkLwp9o7Djk:j0030",
       "video_id": "lkLwp9o7Djk",
-      "idx": 37,
+      "idx": 30,
       "sent_ids": [
         "lkLwp9o7Djk:s0072",
         "lkLwp9o7Djk:s0073",
@@ -572,9 +481,9 @@
       "pos_pct": 0.29160568793235975
     },
     {
-      "window_id": "lkLwp9o7Djk:j0038",
+      "window_id": "lkLwp9o7Djk:j0031",
       "video_id": "lkLwp9o7Djk",
-      "idx": 38,
+      "idx": 31,
       "sent_ids": [
         "lkLwp9o7Djk:s0075",
         "lkLwp9o7Djk:s0076"
@@ -587,54 +496,41 @@
       "pos_pct": 0.3013405073020753
     },
     {
-      "window_id": "lkLwp9o7Djk:j0039",
+      "window_id": "lkLwp9o7Djk:j0032",
       "video_id": "lkLwp9o7Djk",
-      "idx": 39,
+      "idx": 32,
       "sent_ids": [
-        "lkLwp9o7Djk:s0077"
+        "lkLwp9o7Djk:s0077",
+        "lkLwp9o7Djk:s0078"
       ],
       "start_s": 406.244,
-      "end_s": 411.987,
-      "text": "In Plato's view, a totally sane, completely rational person might actually be spiritually limited.",
-      "n_words": 14,
-      "n_sentences": 1,
+      "end_s": 420.933,
+      "text": "In Plato's view, a totally sane, completely rational person might actually be spiritually limited. The mad person had access to truths unavailable to the merely normal, which is genuinely a wild take for someone who helped invent Western rational philosophy.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.3122551883166795
     },
     {
-      "window_id": "lkLwp9o7Djk:j0040",
+      "window_id": "lkLwp9o7Djk:j0033",
       "video_id": "lkLwp9o7Djk",
-      "idx": 40,
+      "idx": 33,
       "sent_ids": [
-        "lkLwp9o7Djk:s0078",
         "lkLwp9o7Djk:s0079",
-        "lkLwp9o7Djk:s0080"
-      ],
-      "start_s": 412.528,
-      "end_s": 425.416,
-      "text": "The mad person had access to truths unavailable to the merely normal, which is genuinely a wild take for someone who helped invent Western rational philosophy. But, okay Plato, do your thing. Framework 2.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.3170853189853959
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0041",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 41,
-      "sent_ids": [
+        "lkLwp9o7Djk:s0080",
         "lkLwp9o7Djk:s0081",
         "lkLwp9o7Djk:s0082"
       ],
-      "start_s": 425.976,
+      "start_s": 421.533,
       "end_s": 434.422,
-      "text": "The Medical Explanation. Hippocrates, the doctor, the oath guy, directly and explicitly rejected the divine explanation for mental illness.",
-      "n_words": 19,
-      "n_sentences": 2,
-      "pos_pct": 0.3274219830899308
+      "text": "But, okay Plato, do your thing. Framework 2. The Medical Explanation. Hippocrates, the doctor, the oath guy, directly and explicitly rejected the divine explanation for mental illness.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.32400691775557267
     },
     {
-      "window_id": "lkLwp9o7Djk:j0042",
+      "window_id": "lkLwp9o7Djk:j0034",
       "video_id": "lkLwp9o7Djk",
-      "idx": 42,
+      "idx": 34,
       "sent_ids": [
         "lkLwp9o7Djk:s0083"
       ],
@@ -646,9 +542,9 @@
       "pos_pct": 0.3344827056110684
     },
     {
-      "window_id": "lkLwp9o7Djk:j0043",
+      "window_id": "lkLwp9o7Djk:j0035",
       "video_id": "lkLwp9o7Djk",
-      "idx": 43,
+      "idx": 35,
       "sent_ids": [
         "lkLwp9o7Djk:s0084",
         "lkLwp9o7Djk:s0085"
@@ -661,9 +557,9 @@
       "pos_pct": 0.3464050730207533
     },
     {
-      "window_id": "lkLwp9o7Djk:j0044",
+      "window_id": "lkLwp9o7Djk:j0036",
       "video_id": "lkLwp9o7Djk",
-      "idx": 44,
+      "idx": 36,
       "sent_ids": [
         "lkLwp9o7Djk:s0086",
         "lkLwp9o7Djk:s0087",
@@ -678,9 +574,9 @@
       "pos_pct": 0.3551575710991545
     },
     {
-      "window_id": "lkLwp9o7Djk:j0045",
+      "window_id": "lkLwp9o7Djk:j0037",
       "video_id": "lkLwp9o7Djk",
-      "idx": 45,
+      "idx": 37,
       "sent_ids": [
         "lkLwp9o7Djk:s0090"
       ],
@@ -692,9 +588,9 @@
       "pos_pct": 0.3627563412759416
     },
     {
-      "window_id": "lkLwp9o7Djk:j0046",
+      "window_id": "lkLwp9o7Djk:j0038",
       "video_id": "lkLwp9o7Djk",
-      "idx": 46,
+      "idx": 38,
       "sent_ids": [
         "lkLwp9o7Djk:s0091",
         "lkLwp9o7Djk:s0092"
@@ -707,9 +603,9 @@
       "pos_pct": 0.37489623366641045
     },
     {
-      "window_id": "lkLwp9o7Djk:j0047",
+      "window_id": "lkLwp9o7Djk:j0039",
       "video_id": "lkLwp9o7Djk",
-      "idx": 47,
+      "idx": 39,
       "sent_ids": [
         "lkLwp9o7Djk:s0093",
         "lkLwp9o7Djk:s0094",
@@ -723,9 +619,9 @@
       "pos_pct": 0.3836033820138355
     },
     {
-      "window_id": "lkLwp9o7Djk:j0048",
+      "window_id": "lkLwp9o7Djk:j0040",
       "video_id": "lkLwp9o7Djk",
-      "idx": 48,
+      "idx": 40,
       "sent_ids": [
         "lkLwp9o7Djk:s0096",
         "lkLwp9o7Djk:s0097"
@@ -738,9 +634,9 @@
       "pos_pct": 0.3944335126825519
     },
     {
-      "window_id": "lkLwp9o7Djk:j0049",
+      "window_id": "lkLwp9o7Djk:j0041",
       "video_id": "lkLwp9o7Djk",
-      "idx": 49,
+      "idx": 41,
       "sent_ids": [
         "lkLwp9o7Djk:s0098"
       ],
@@ -752,9 +648,9 @@
       "pos_pct": 0.4060338201383551
     },
     {
-      "window_id": "lkLwp9o7Djk:j0050",
+      "window_id": "lkLwp9o7Djk:j0042",
       "video_id": "lkLwp9o7Djk",
-      "idx": 50,
+      "idx": 42,
       "sent_ids": [
         "lkLwp9o7Djk:s0099"
       ],
@@ -766,9 +662,9 @@
       "pos_pct": 0.41422213681783243
     },
     {
-      "window_id": "lkLwp9o7Djk:j0051",
+      "window_id": "lkLwp9o7Djk:j0043",
       "video_id": "lkLwp9o7Djk",
-      "idx": 51,
+      "idx": 43,
       "sent_ids": [
         "lkLwp9o7Djk:s0100",
         "lkLwp9o7Djk:s0101",
@@ -782,9 +678,9 @@
       "pos_pct": 0.4302544196771714
     },
     {
-      "window_id": "lkLwp9o7Djk:j0052",
+      "window_id": "lkLwp9o7Djk:j0044",
       "video_id": "lkLwp9o7Djk",
-      "idx": 52,
+      "idx": 44,
       "sent_ids": [
         "lkLwp9o7Djk:s0103",
         "lkLwp9o7Djk:s0104"
@@ -797,9 +693,9 @@
       "pos_pct": 0.4404965411222137
     },
     {
-      "window_id": "lkLwp9o7Djk:j0053",
+      "window_id": "lkLwp9o7Djk:j0045",
       "video_id": "lkLwp9o7Djk",
-      "idx": 53,
+      "idx": 45,
       "sent_ids": [
         "lkLwp9o7Djk:s0105",
         "lkLwp9o7Djk:s0106"
@@ -812,9 +708,9 @@
       "pos_pct": 0.449369715603382
     },
     {
-      "window_id": "lkLwp9o7Djk:j0054",
+      "window_id": "lkLwp9o7Djk:j0046",
       "video_id": "lkLwp9o7Djk",
-      "idx": 54,
+      "idx": 46,
       "sent_ids": [
         "lkLwp9o7Djk:s0107"
       ],
@@ -826,9 +722,9 @@
       "pos_pct": 0.45769638739431207
     },
     {
-      "window_id": "lkLwp9o7Djk:j0055",
+      "window_id": "lkLwp9o7Djk:j0047",
       "video_id": "lkLwp9o7Djk",
-      "idx": 55,
+      "idx": 47,
       "sent_ids": [
         "lkLwp9o7Djk:s0108",
         "lkLwp9o7Djk:s0109",
@@ -842,9 +738,9 @@
       "pos_pct": 0.46672790161414296
     },
     {
-      "window_id": "lkLwp9o7Djk:j0056",
+      "window_id": "lkLwp9o7Djk:j0048",
       "video_id": "lkLwp9o7Djk",
-      "idx": 56,
+      "idx": 48,
       "sent_ids": [
         "lkLwp9o7Djk:s0111",
         "lkLwp9o7Djk:s0112"
@@ -857,37 +753,24 @@
       "pos_pct": 0.4779116064565719
     },
     {
-      "window_id": "lkLwp9o7Djk:j0057",
+      "window_id": "lkLwp9o7Djk:j0049",
       "video_id": "lkLwp9o7Djk",
-      "idx": 57,
+      "idx": 49,
       "sent_ids": [
-        "lkLwp9o7Djk:s0113"
+        "lkLwp9o7Djk:s0113",
+        "lkLwp9o7Djk:s0114"
       ],
       "start_s": 633.568,
-      "end_s": 641.292,
-      "text": "Medieval Islamic civilization, which stretched from Spain to Central Asia during this period, was doing something genuinely extraordinary with mental illness.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 652.336,
+      "text": "Medieval Islamic civilization, which stretched from Spain to Central Asia during this period, was doing something genuinely extraordinary with mental illness. The physician Ibn Sina, known in the West as Avicenna, wrote the canon of medicine in the early 11th century, one of the most comprehensive medical texts in human history.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.48698539584934664
     },
     {
-      "window_id": "lkLwp9o7Djk:j0058",
+      "window_id": "lkLwp9o7Djk:j0050",
       "video_id": "lkLwp9o7Djk",
-      "idx": 58,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0114"
-      ],
-      "start_s": 641.992,
-      "end_s": 652.336,
-      "text": "The physician Ibn Sina, known in the West as Avicenna, wrote the canon of medicine in the early 11th century, one of the most comprehensive medical texts in human history.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.49346041506533433
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0059",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 59,
+      "idx": 50,
       "sent_ids": [
         "lkLwp9o7Djk:s0115",
         "lkLwp9o7Djk:s0116"
@@ -900,9 +783,9 @@
       "pos_pct": 0.5019192928516525
     },
     {
-      "window_id": "lkLwp9o7Djk:j0060",
+      "window_id": "lkLwp9o7Djk:j0051",
       "video_id": "lkLwp9o7Djk",
-      "idx": 60,
+      "idx": 51,
       "sent_ids": [
         "lkLwp9o7Djk:s0117",
         "lkLwp9o7Djk:s0118"
@@ -915,9 +798,9 @@
       "pos_pct": 0.5124381245196004
     },
     {
-      "window_id": "lkLwp9o7Djk:j0061",
+      "window_id": "lkLwp9o7Djk:j0052",
       "video_id": "lkLwp9o7Djk",
-      "idx": 61,
+      "idx": 52,
       "sent_ids": [
         "lkLwp9o7Djk:s0119",
         "lkLwp9o7Djk:s0120",
@@ -931,9 +814,9 @@
       "pos_pct": 0.52171714066103
     },
     {
-      "window_id": "lkLwp9o7Djk:j0062",
+      "window_id": "lkLwp9o7Djk:j0053",
       "video_id": "lkLwp9o7Djk",
-      "idx": 62,
+      "idx": 53,
       "sent_ids": [
         "lkLwp9o7Djk:s0122",
         "lkLwp9o7Djk:s0123",
@@ -948,9 +831,9 @@
       "pos_pct": 0.5355303612605689
     },
     {
-      "window_id": "lkLwp9o7Djk:j0063",
+      "window_id": "lkLwp9o7Djk:j0054",
       "video_id": "lkLwp9o7Djk",
-      "idx": 63,
+      "idx": 54,
       "sent_ids": [
         "lkLwp9o7Djk:s0126",
         "lkLwp9o7Djk:s0127",
@@ -964,37 +847,24 @@
       "pos_pct": 0.5448677940046118
     },
     {
-      "window_id": "lkLwp9o7Djk:j0064",
+      "window_id": "lkLwp9o7Djk:j0055",
       "video_id": "lkLwp9o7Djk",
-      "idx": 64,
+      "idx": 55,
       "sent_ids": [
-        "lkLwp9o7Djk:s0129"
+        "lkLwp9o7Djk:s0129",
+        "lkLwp9o7Djk:s0130"
       ],
       "start_s": 724.166,
-      "end_s": 728.531,
-      "text": "There was tremendous variation within both traditions and both had their failures.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 738.602,
+      "text": "There was tremendous variation within both traditions and both had their failures. But the selective emphasis on medieval darkness while ignoring medieval Islamic advancement in mental health care is a genuine gap in how this history usually gets told.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.5566225980015373
     },
     {
-      "window_id": "lkLwp9o7Djk:j0065",
+      "window_id": "lkLwp9o7Djk:j0056",
       "video_id": "lkLwp9o7Djk",
-      "idx": 65,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0130"
-      ],
-      "start_s": 729.552,
-      "end_s": 738.602,
-      "text": "But the selective emphasis on medieval darkness while ignoring medieval Islamic advancement in mental health care is a genuine gap in how this history usually gets told.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.5607624903920062
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0066",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 66,
+      "idx": 56,
       "sent_ids": [
         "lkLwp9o7Djk:s0131",
         "lkLwp9o7Djk:s0132"
@@ -1007,9 +877,9 @@
       "pos_pct": 0.5689377401998462
     },
     {
-      "window_id": "lkLwp9o7Djk:j0067",
+      "window_id": "lkLwp9o7Djk:j0057",
       "video_id": "lkLwp9o7Djk",
-      "idx": 67,
+      "idx": 57,
       "sent_ids": [
         "lkLwp9o7Djk:s0133",
         "lkLwp9o7Djk:s0134"
@@ -1022,9 +892,9 @@
       "pos_pct": 0.58023904688701
     },
     {
-      "window_id": "lkLwp9o7Djk:j0068",
+      "window_id": "lkLwp9o7Djk:j0058",
       "video_id": "lkLwp9o7Djk",
-      "idx": 68,
+      "idx": 58,
       "sent_ids": [
         "lkLwp9o7Djk:s0135",
         "lkLwp9o7Djk:s0136",
@@ -1039,9 +909,9 @@
       "pos_pct": 0.5904942352036894
     },
     {
-      "window_id": "lkLwp9o7Djk:j0069",
+      "window_id": "lkLwp9o7Djk:j0059",
       "video_id": "lkLwp9o7Djk",
-      "idx": 69,
+      "idx": 59,
       "sent_ids": [
         "lkLwp9o7Djk:s0139",
         "lkLwp9o7Djk:s0140",
@@ -1055,157 +925,118 @@
       "pos_pct": 0.599369715603382
     },
     {
-      "window_id": "lkLwp9o7Djk:j0070",
+      "window_id": "lkLwp9o7Djk:j0060",
       "video_id": "lkLwp9o7Djk",
-      "idx": 70,
+      "idx": 60,
       "sent_ids": [
-        "lkLwp9o7Djk:s0142"
+        "lkLwp9o7Djk:s0142",
+        "lkLwp9o7Djk:s0143"
       ],
       "start_s": 795.71,
-      "end_s": 799.213,
-      "text": "The town of Giel in Belgium is perhaps the most remarkable example.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 808.502,
+      "text": "The town of Giel in Belgium is perhaps the most remarkable example. A town that, from at least the 13th century onward, operated a community foster care system for mentally ill individuals who came as pilgrims and stayed.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.6116141429669485
     },
     {
-      "window_id": "lkLwp9o7Djk:j0071",
+      "window_id": "lkLwp9o7Djk:j0061",
       "video_id": "lkLwp9o7Djk",
-      "idx": 71,
+      "idx": 61,
       "sent_ids": [
-        "lkLwp9o7Djk:s0143",
-        "lkLwp9o7Djk:s0144"
-      ],
-      "start_s": 799.814,
-      "end_s": 810.844,
-      "text": "A town that, from at least the 13th century onward, operated a community foster care system for mentally ill individuals who came as pilgrims and stayed. Local families took them in.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.6147686395080707
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0072",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 72,
-      "sent_ids": [
+        "lkLwp9o7Djk:s0144",
         "lkLwp9o7Djk:s0145",
         "lkLwp9o7Djk:s0146",
-        "lkLwp9o7Djk:s0147",
-        "lkLwp9o7Djk:s0148"
+        "lkLwp9o7Djk:s0147"
       ],
-      "start_s": 811.544,
-      "end_s": 819.692,
-      "text": "They participated in daily life. They worked alongside family members. This system ran for centuries. It still runs today.",
-      "n_words": 19,
+      "start_s": 809.523,
+      "end_s": 817.79,
+      "text": "Local families took them in. They participated in daily life. They worked alongside family members. This system ran for centuries.",
+      "n_words": 20,
       "n_sentences": 4,
-      "pos_pct": 0.6237847809377401
+      "pos_pct": 0.6222313604919293
     },
     {
-      "window_id": "lkLwp9o7Djk:j0073",
+      "window_id": "lkLwp9o7Djk:j0062",
       "video_id": "lkLwp9o7Djk",
-      "idx": 73,
+      "idx": 62,
       "sent_ids": [
+        "lkLwp9o7Djk:s0148",
         "lkLwp9o7Djk:s0149",
         "lkLwp9o7Djk:s0150",
-        "lkLwp9o7Djk:s0151",
-        "lkLwp9o7Djk:s0152"
+        "lkLwp9o7Djk:s0151"
       ],
-      "start_s": 821.046,
-      "end_s": 836.275,
-      "text": "Gilles, Belgium, has an unbroken tradition of community-based mental health care that is over 700 years old, predating professional psychiatry by half a millennium. Seven. Hundred. Years.",
-      "n_words": 27,
+      "start_s": 818.771,
+      "end_s": 834.554,
+      "text": "It still runs today. Gilles, Belgium, has an unbroken tradition of community-based mental health care that is over 700 years old, predating professional psychiatry by half a millennium. Seven. Hundred.",
+      "n_words": 30,
       "n_sentences": 4,
-      "pos_pct": 0.6310883935434282
+      "pos_pct": 0.6293397386625672
     },
     {
-      "window_id": "lkLwp9o7Djk:j0074",
+      "window_id": "lkLwp9o7Djk:j0063",
       "video_id": "lkLwp9o7Djk",
-      "idx": 74,
+      "idx": 63,
       "sent_ids": [
+        "lkLwp9o7Djk:s0152",
         "lkLwp9o7Djk:s0153"
       ],
-      "start_s": 837.375,
+      "start_s": 835.894,
       "end_s": 843.479,
-      "text": "If a modern mental health reformer proposed a Gilles-style community integration model today, they would be celebrated as visionary.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.6436395080707148
+      "text": "Years. If a modern mental health reformer proposed a Gilles-style community integration model today, they would be celebrated as visionary.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.6425011529592621
     },
     {
-      "window_id": "lkLwp9o7Djk:j0075",
+      "window_id": "lkLwp9o7Djk:j0064",
       "video_id": "lkLwp9o7Djk",
-      "idx": 75,
+      "idx": 64,
       "sent_ids": [
-        "lkLwp9o7Djk:s0154"
+        "lkLwp9o7Djk:s0154",
+        "lkLwp9o7Djk:s0155"
       ],
       "start_s": 844.199,
-      "end_s": 849.102,
-      "text": "The people of a small Belgian town figured it out in the 1200s and just quietly kept doing it.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 856.005,
+      "text": "The people of a small Belgian town figured it out in the 1200s and just quietly kept doing it. Then comes the early modern period, and things in Europe get notably worse before they get better.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.6488847040737894
     },
     {
-      "window_id": "lkLwp9o7Djk:j0076",
+      "window_id": "lkLwp9o7Djk:j0065",
       "video_id": "lkLwp9o7Djk",
-      "idx": 76,
+      "idx": 65,
       "sent_ids": [
-        "lkLwp9o7Djk:s0155",
-        "lkLwp9o7Djk:s0156"
-      ],
-      "start_s": 850.543,
-      "end_s": 860.307,
-      "text": "Then comes the early modern period, and things in Europe get notably worse before they get better. The 16th and 17th centuries saw the rise of the institution.",
-      "n_words": 28,
-      "n_sentences": 2,
-      "pos_pct": 0.65376095311299
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0077",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 77,
-      "sent_ids": [
+        "lkLwp9o7Djk:s0156",
         "lkLwp9o7Djk:s0157"
       ],
-      "start_s": 860.827,
+      "start_s": 856.605,
       "end_s": 868.91,
-      "text": "Large-scale confinement of the mad, the poor, the criminal, and the simply inconvenient all lumped together under one roof.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.6616656418139892
+      "text": "The 16th and 17th centuries saw the rise of the institution. Large-scale confinement of the mad, the poor, the criminal, and the simply inconvenient all lumped together under one roof.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.6584204458109147
     },
     {
-      "window_id": "lkLwp9o7Djk:j0078",
+      "window_id": "lkLwp9o7Djk:j0066",
       "video_id": "lkLwp9o7Djk",
-      "idx": 78,
+      "idx": 66,
       "sent_ids": [
-        "lkLwp9o7Djk:s0158"
+        "lkLwp9o7Djk:s0158",
+        "lkLwp9o7Djk:s0159"
       ],
       "start_s": 869.79,
-      "end_s": 880.0,
-      "text": "The most famous of these is Bethlehem Royal Hospital in London, shortened colloquially to Bedlam, a word that has entered the English language as a synonym for complete chaos.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 891.531,
+      "text": "The most famous of these is Bethlehem Royal Hospital in London, shortened colloquially to Bedlam, a word that has entered the English language as a synonym for complete chaos. You do not get a word adopted into everyday language to mean unhinged disorder unless the place it came from was genuinely, vividly, catastrophically unhinged.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.668554957724827
     },
     {
-      "window_id": "lkLwp9o7Djk:j0079",
+      "window_id": "lkLwp9o7Djk:j0067",
       "video_id": "lkLwp9o7Djk",
-      "idx": 79,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0159"
-      ],
-      "start_s": 880.861,
-      "end_s": 891.531,
-      "text": "You do not get a word adopted into everyday language to mean unhinged disorder unless the place it came from was genuinely, vividly, catastrophically unhinged.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.6770645657186779
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0080",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 80,
+      "idx": 67,
       "sent_ids": [
         "lkLwp9o7Djk:s0160",
         "lkLwp9o7Djk:s0161"
@@ -1218,9 +1049,9 @@
       "pos_pct": 0.6859431206764028
     },
     {
-      "window_id": "lkLwp9o7Djk:j0081",
+      "window_id": "lkLwp9o7Djk:j0068",
       "video_id": "lkLwp9o7Djk",
-      "idx": 81,
+      "idx": 68,
       "sent_ids": [
         "lkLwp9o7Djk:s0162",
         "lkLwp9o7Djk:s0163",
@@ -1234,37 +1065,24 @@
       "pos_pct": 0.6949008455034589
     },
     {
-      "window_id": "lkLwp9o7Djk:j0082",
+      "window_id": "lkLwp9o7Djk:j0069",
       "video_id": "lkLwp9o7Djk",
-      "idx": 82,
+      "idx": 69,
       "sent_ids": [
-        "lkLwp9o7Djk:s0165"
+        "lkLwp9o7Djk:s0165",
+        "lkLwp9o7Djk:s0166"
       ],
       "start_s": 911.811,
-      "end_s": 917.273,
-      "text": "There are records suggesting Bethlehem received thousands of visitors annually for this purpose in its worst period.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 931.518,
+      "text": "There are records suggesting Bethlehem received thousands of visitors annually for this purpose in its worst period. The level of remove required to do that, to watch a human being in profound suffering and experience it as spectacle, is itself a kind of collective dissociation that says something very dark about how thoroughly the mentally ill had been dehumanized.",
+      "n_words": 59,
+      "n_sentences": 2,
       "pos_pct": 0.7008539584934665
     },
     {
-      "window_id": "lkLwp9o7Djk:j0083",
+      "window_id": "lkLwp9o7Djk:j0070",
       "video_id": "lkLwp9o7Djk",
-      "idx": 83,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0166"
-      ],
-      "start_s": 917.813,
-      "end_s": 931.518,
-      "text": "The level of remove required to do that, to watch a human being in profound suffering and experience it as spectacle, is itself a kind of collective dissociation that says something very dark about how thoroughly the mentally ill had been dehumanized.",
-      "n_words": 42,
-      "n_sentences": 1,
-      "pos_pct": 0.705467332820907
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0084",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 84,
+      "idx": 70,
       "sent_ids": [
         "lkLwp9o7Djk:s0167",
         "lkLwp9o7Djk:s0168"
@@ -1277,149 +1095,136 @@
       "pos_pct": 0.7169500384319754
     },
     {
-      "window_id": "lkLwp9o7Djk:j0085",
+      "window_id": "lkLwp9o7Djk:j0071",
       "video_id": "lkLwp9o7Djk",
-      "idx": 85,
+      "idx": 71,
       "sent_ids": [
-        "lkLwp9o7Djk:s0169"
+        "lkLwp9o7Djk:s0169",
+        "lkLwp9o7Djk:s0170"
       ],
       "start_s": 945.276,
-      "end_s": 954.96,
-      "text": "A few key reformers began arguing that the mentally ill were not subhuman, not demonic, not entertainment, but sick people who deserved humane care.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 966.53,
+      "text": "A few key reformers began arguing that the mentally ill were not subhuman, not demonic, not entertainment, but sick people who deserved humane care. Philippe Pinel in France famously, perhaps apocryphally, but the story stuck, ordered the chains removed from patients at the Bicetre Asylum in Paris in 1793.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.726576479631053
     },
     {
-      "window_id": "lkLwp9o7Djk:j0086",
+      "window_id": "lkLwp9o7Djk:j0072",
       "video_id": "lkLwp9o7Djk",
-      "idx": 86,
+      "idx": 72,
       "sent_ids": [
-        "lkLwp9o7Djk:s0170"
-      ],
-      "start_s": 955.82,
-      "end_s": 966.53,
-      "text": "Philippe Pinel in France famously, perhaps apocryphally, but the story stuck, ordered the chains removed from patients at the Bicetre Asylum in Paris in 1793.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.7346810146041507
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0087",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 87,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0171"
+        "lkLwp9o7Djk:s0171",
+        "lkLwp9o7Djk:s0172"
       ],
       "start_s": 967.13,
-      "end_s": 974.917,
-      "text": "He argued that mental illness was a disease of the mind, that patients could recover, and that brutal confinement was counterproductive to that recovery.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 986.867,
+      "text": "He argued that mental illness was a disease of the mind, that patients could recover, and that brutal confinement was counterproductive to that recovery. In England, William Tuke established the York Retreat in 1796, a Quaker institution run on the radical premise that mental patients should be treated with kindness, dignity, and moral support.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.7433743274404304
     },
     {
-      "window_id": "lkLwp9o7Djk:j0088",
+      "window_id": "lkLwp9o7Djk:j0073",
       "video_id": "lkLwp9o7Djk",
-      "idx": 88,
+      "idx": 73,
       "sent_ids": [
-        "lkLwp9o7Djk:s0172",
         "lkLwp9o7Djk:s0173",
-        "lkLwp9o7Djk:s0174"
-      ],
-      "start_s": 975.858,
-      "end_s": 989.99,
-      "text": "In England, William Tuke established the York Retreat in 1796, a Quaker institution run on the radical premise that mental patients should be treated with kindness, dignity, and moral support. No chains. No isolation dungeons.",
-      "n_words": 35,
-      "n_sentences": 3,
-      "pos_pct": 0.7500830130668716
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0089",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 89,
-      "sent_ids": [
+        "lkLwp9o7Djk:s0174",
         "lkLwp9o7Djk:s0175",
-        "lkLwp9o7Djk:s0176",
+        "lkLwp9o7Djk:s0176"
+      ],
+      "start_s": 987.508,
+      "end_s": 992.412,
+      "text": "No chains. No isolation dungeons. Fresh air. Useful work.",
+      "n_words": 9,
+      "n_sentences": 4,
+      "pos_pct": 0.7590376633358955
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0074",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 74,
+      "sent_ids": [
         "lkLwp9o7Djk:s0177",
-        "lkLwp9o7Djk:s0178"
+        "lkLwp9o7Djk:s0178",
+        "lkLwp9o7Djk:s0179"
       ],
-      "start_s": 990.63,
-      "end_s": 999.076,
-      "text": "Fresh air. Useful work. social interaction. The York retreat's outcomes were dramatically better than contemporary asylums.",
-      "n_words": 16,
-      "n_sentences": 4,
-      "pos_pct": 0.7614373558800922
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0090",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 90,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0179",
-        "lkLwp9o7Djk:s0180",
-        "lkLwp9o7Djk:s0181",
-        "lkLwp9o7Djk:s0182"
-      ],
-      "start_s": 999.576,
-      "end_s": 1014.745,
-      "text": "Because, it turns out, treating traumatized people kindly rather than torturing them tends to produce better mental health outcomes. This was considered a radical discovery in 1796. We were making progress. Genuinely.",
-      "n_words": 32,
-      "n_sentences": 4,
-      "pos_pct": 0.7683136049192929
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0091",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 91,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0183",
-        "lkLwp9o7Djk:s0184",
-        "lkLwp9o7Djk:s0185",
-        "lkLwp9o7Djk:s0186"
-      ],
-      "start_s": 1015.785,
-      "end_s": 1021.309,
-      "text": "Slowly. Unevenly. With enormous suffering in the gaps. But the direction was right.",
-      "n_words": 13,
-      "n_sentences": 4,
-      "pos_pct": 0.7807724827056111
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0092",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 92,
-      "sent_ids": [
-        "lkLwp9o7Djk:s0187",
-        "lkLwp9o7Djk:s0188",
-        "lkLwp9o7Djk:s0189"
-      ],
-      "start_s": 1022.82,
-      "end_s": 1034.994,
-      "text": "And then the 19th century arrived and built enormous asylums and overcrowded them to catastrophic levels. So progress is never really a straight line. The asylum movement started with reform intentions.",
+      "start_s": 993.072,
+      "end_s": 1007.741,
+      "text": "social interaction. The York retreat's outcomes were dramatically better than contemporary asylums. Because, it turns out, treating traumatized people kindly rather than torturing them tends to produce better mental health outcomes.",
       "n_words": 31,
       "n_sentences": 3,
-      "pos_pct": 0.7861798616448886
+      "pos_pct": 0.7633143735588009
     },
     {
-      "window_id": "lkLwp9o7Djk:j0093",
+      "window_id": "lkLwp9o7Djk:j0075",
       "video_id": "lkLwp9o7Djk",
-      "idx": 93,
+      "idx": 75,
       "sent_ids": [
-        "lkLwp9o7Djk:s0190",
+        "lkLwp9o7Djk:s0180",
+        "lkLwp9o7Djk:s0181",
+        "lkLwp9o7Djk:s0182",
+        "lkLwp9o7Djk:s0183"
+      ],
+      "start_s": 1008.501,
+      "end_s": 1016.226,
+      "text": "This was considered a radical discovery in 1796. We were making progress. Genuinely. Slowly.",
+      "n_words": 14,
+      "n_sentences": 4,
+      "pos_pct": 0.7751737125288239
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0076",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 76,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0184",
+        "lkLwp9o7Djk:s0185",
+        "lkLwp9o7Djk:s0186",
+        "lkLwp9o7Djk:s0187"
+      ],
+      "start_s": 1016.866,
+      "end_s": 1028.787,
+      "text": "Unevenly. With enormous suffering in the gaps. But the direction was right. And then the 19th century arrived and built enormous asylums and overcrowded them to catastrophic levels.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.7816033820138355
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0077",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 77,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0188",
+        "lkLwp9o7Djk:s0189",
+        "lkLwp9o7Djk:s0190"
+      ],
+      "start_s": 1029.248,
+      "end_s": 1041.502,
+      "text": "So progress is never really a straight line. The asylum movement started with reform intentions. Get people out of poor houses and prisons into specialized facilities, treat them with the latest psychiatric methods.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.7911206764027672
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0078",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 78,
+      "sent_ids": [
         "lkLwp9o7Djk:s0191"
       ],
-      "start_s": 1035.475,
+      "start_s": 1042.707,
       "end_s": 1050.993,
-      "text": "Get people out of poor houses and prisons into specialized facilities, treat them with the latest psychiatric methods. By mid-century, those facilities were overwhelmed, understaffed, and had developed institutional cultures that were themselves deeply traumatic.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.7959069946195234
+      "text": "By mid-century, those facilities were overwhelmed, understaffed, and had developed institutional cultures that were themselves deeply traumatic.",
+      "n_words": 17,
+      "n_sentences": 1,
+      "pos_pct": 0.8014657955418909
     },
     {
-      "window_id": "lkLwp9o7Djk:j0094",
+      "window_id": "lkLwp9o7Djk:j0079",
       "video_id": "lkLwp9o7Djk",
-      "idx": 94,
+      "idx": 79,
       "sent_ids": [
         "lkLwp9o7Djk:s0192"
       ],
@@ -1431,9 +1236,9 @@
       "pos_pct": 0.8085265180630284
     },
     {
-      "window_id": "lkLwp9o7Djk:j0095",
+      "window_id": "lkLwp9o7Djk:j0080",
       "video_id": "lkLwp9o7Djk",
-      "idx": 95,
+      "idx": 80,
       "sent_ids": [
         "lkLwp9o7Djk:s0193",
         "lkLwp9o7Djk:s0194",
@@ -1448,9 +1253,9 @@
       "pos_pct": 0.8226333589546504
     },
     {
-      "window_id": "lkLwp9o7Djk:j0096",
+      "window_id": "lkLwp9o7Djk:j0081",
       "video_id": "lkLwp9o7Djk",
-      "idx": 96,
+      "idx": 81,
       "sent_ids": [
         "lkLwp9o7Djk:s0197",
         "lkLwp9o7Djk:s0198",
@@ -1464,9 +1269,9 @@
       "pos_pct": 0.8371429669485012
     },
     {
-      "window_id": "lkLwp9o7Djk:j0097",
+      "window_id": "lkLwp9o7Djk:j0082",
       "video_id": "lkLwp9o7Djk",
-      "idx": 97,
+      "idx": 82,
       "sent_ids": [
         "lkLwp9o7Djk:s0200",
         "lkLwp9o7Djk:s0201"
@@ -1479,9 +1284,9 @@
       "pos_pct": 0.8493520368946964
     },
     {
-      "window_id": "lkLwp9o7Djk:j0098",
+      "window_id": "lkLwp9o7Djk:j0083",
       "video_id": "lkLwp9o7Djk",
-      "idx": 98,
+      "idx": 83,
       "sent_ids": [
         "lkLwp9o7Djk:s0202",
         "lkLwp9o7Djk:s0203"
@@ -1494,9 +1299,9 @@
       "pos_pct": 0.8550568793235973
     },
     {
-      "window_id": "lkLwp9o7Djk:j0099",
+      "window_id": "lkLwp9o7Djk:j0084",
       "video_id": "lkLwp9o7Djk",
-      "idx": 99,
+      "idx": 84,
       "sent_ids": [
         "lkLwp9o7Djk:s0204"
       ],
@@ -1508,9 +1313,9 @@
       "pos_pct": 0.865608762490392
     },
     {
-      "window_id": "lkLwp9o7Djk:j0100",
+      "window_id": "lkLwp9o7Djk:j0085",
       "video_id": "lkLwp9o7Djk",
-      "idx": 100,
+      "idx": 85,
       "sent_ids": [
         "lkLwp9o7Djk:s0205"
       ],
@@ -1522,9 +1327,9 @@
       "pos_pct": 0.8711299000768639
     },
     {
-      "window_id": "lkLwp9o7Djk:j0101",
+      "window_id": "lkLwp9o7Djk:j0086",
       "video_id": "lkLwp9o7Djk",
-      "idx": 101,
+      "idx": 86,
       "sent_ids": [
         "lkLwp9o7Djk:s0206",
         "lkLwp9o7Djk:s0207",
@@ -1538,9 +1343,9 @@
       "pos_pct": 0.8863228285933897
     },
     {
-      "window_id": "lkLwp9o7Djk:j0102",
+      "window_id": "lkLwp9o7Djk:j0087",
       "video_id": "lkLwp9o7Djk",
-      "idx": 102,
+      "idx": 87,
       "sent_ids": [
         "lkLwp9o7Djk:s0209",
         "lkLwp9o7Djk:s0210",
@@ -1555,9 +1360,9 @@
       "pos_pct": 0.901510376633359
     },
     {
-      "window_id": "lkLwp9o7Djk:j0103",
+      "window_id": "lkLwp9o7Djk:j0088",
       "video_id": "lkLwp9o7Djk",
-      "idx": 103,
+      "idx": 88,
       "sent_ids": [
         "lkLwp9o7Djk:s0213",
         "lkLwp9o7Djk:s0214",
@@ -1572,9 +1377,9 @@
       "pos_pct": 0.9124027671022291
     },
     {
-      "window_id": "lkLwp9o7Djk:j0104",
+      "window_id": "lkLwp9o7Djk:j0089",
       "video_id": "lkLwp9o7Djk",
-      "idx": 104,
+      "idx": 89,
       "sent_ids": [
         "lkLwp9o7Djk:s0217",
         "lkLwp9o7Djk:s0218",
@@ -1589,53 +1394,40 @@
       "pos_pct": 0.9254473481936972
     },
     {
-      "window_id": "lkLwp9o7Djk:j0105",
+      "window_id": "lkLwp9o7Djk:j0090",
       "video_id": "lkLwp9o7Djk",
-      "idx": 105,
+      "idx": 90,
       "sent_ids": [
-        "lkLwp9o7Djk:s0221"
+        "lkLwp9o7Djk:s0221",
+        "lkLwp9o7Djk:s0222"
       ],
       "start_s": 1217.598,
-      "end_s": 1223.283,
-      "text": "We have a global conversation about mental health that would have been literally unimaginable in most of the periods we've discussed.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 1233.251,
+      "text": "We have a global conversation about mental health that would have been literally unimaginable in most of the periods we've discussed. But the gap between what we know and what we actually do with that knowledge, the gap between our scientific understanding and the humanity with which we implement it,",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.9358939277478862
     },
     {
-      "window_id": "lkLwp9o7Djk:j0106",
+      "window_id": "lkLwp9o7Djk:j0091",
       "video_id": "lkLwp9o7Djk",
-      "idx": 106,
+      "idx": 91,
       "sent_ids": [
-        "lkLwp9o7Djk:s0222",
-        "lkLwp9o7Djk:s0223"
-      ],
-      "start_s": 1224.484,
-      "end_s": 1235.126,
-      "text": "But the gap between what we know and what we actually do with that knowledge, the gap between our scientific understanding and the humanity with which we implement it, That gap.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.9411867794004611
-    },
-    {
-      "window_id": "lkLwp9o7Djk:j0107",
-      "video_id": "lkLwp9o7Djk",
-      "idx": 107,
-      "sent_ids": [
+        "lkLwp9o7Djk:s0223",
         "lkLwp9o7Djk:s0224",
         "lkLwp9o7Djk:s0225"
       ],
-      "start_s": 1236.687,
+      "start_s": 1234.345,
       "end_s": 1247.617,
-      "text": "That gap is not a new problem. That gap has been there since the first physician removed a patient's chains in 1793, and everyone around him thought it was insane to do so.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.9505664873174481
+      "text": "That gap. That gap is not a new problem. That gap has been there since the first physician removed a patient's chains in 1793, and everyone around him thought it was insane to do so.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.9487663335895465
     },
     {
-      "window_id": "lkLwp9o7Djk:j0108",
+      "window_id": "lkLwp9o7Djk:j0092",
       "video_id": "lkLwp9o7Djk",
-      "idx": 108,
+      "idx": 92,
       "sent_ids": [
         "lkLwp9o7Djk:s0226",
         "lkLwp9o7Djk:s0227"
@@ -1648,9 +1440,9 @@
       "pos_pct": 0.9595680245964642
     },
     {
-      "window_id": "lkLwp9o7Djk:j0109",
+      "window_id": "lkLwp9o7Djk:j0093",
       "video_id": "lkLwp9o7Djk",
-      "idx": 109,
+      "idx": 93,
       "sent_ids": [
         "lkLwp9o7Djk:s0228",
         "lkLwp9o7Djk:s0229"
@@ -1663,9 +1455,9 @@
       "pos_pct": 0.966183704842429
     },
     {
-      "window_id": "lkLwp9o7Djk:j0110",
+      "window_id": "lkLwp9o7Djk:j0094",
       "video_id": "lkLwp9o7Djk",
-      "idx": 110,
+      "idx": 94,
       "sent_ids": [
         "lkLwp9o7Djk:s0230",
         "lkLwp9o7Djk:s0231"
@@ -1678,50 +1470,50 @@
       "pos_pct": 0.9739992313604919
     },
     {
-      "window_id": "lkLwp9o7Djk:j0111",
+      "window_id": "lkLwp9o7Djk:j0095",
       "video_id": "lkLwp9o7Djk",
-      "idx": 111,
+      "idx": 95,
       "sent_ids": [
-        "lkLwp9o7Djk:s0232"
+        "lkLwp9o7Djk:s0232",
+        "lkLwp9o7Djk:s0233"
       ],
       "start_s": 1273.619,
-      "end_s": 1282.346,
-      "text": "It is found in the same place it was found in Gill in the 13th century, and in Avicenna's writing in 1025, and in William Tewkes' retreat in 1796.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 1291.839,
+      "text": "It is found in the same place it was found in Gill in the 13th century, and in Avicenna's writing in 1025, and in William Tewkes' retreat in 1796. It is found in whether or not you are willing to look at a person who is suffering in a way that makes you uncomfortable and still say,",
+      "n_words": 57,
+      "n_sentences": 2,
       "pos_pct": 0.9789538816295157
     },
     {
-      "window_id": "lkLwp9o7Djk:j0112",
+      "window_id": "lkLwp9o7Djk:j0096",
       "video_id": "lkLwp9o7Djk",
-      "idx": 112,
+      "idx": 96,
       "sent_ids": [
-        "lkLwp9o7Djk:s0233",
-        "lkLwp9o7Djk:s0234"
+        "lkLwp9o7Djk:s0234",
+        "lkLwp9o7Djk:s0235",
+        "lkLwp9o7Djk:s0236",
+        "lkLwp9o7Djk:s0237"
       ],
       "start_s": 1284.187,
-      "end_s": 1291.839,
-      "text": "It is found in whether or not you are willing to look at a person who is suffering in a way that makes you uncomfortable and still say, This is a person.",
-      "n_words": 32,
-      "n_sentences": 2,
+      "end_s": 1298.53,
+      "text": "This is a person. This person belongs here. This person is worth the effort. That has been the hard part throughout history.",
+      "n_words": 22,
+      "n_sentences": 4,
       "pos_pct": 0.987076863950807
     },
     {
-      "window_id": "lkLwp9o7Djk:j0113",
+      "window_id": "lkLwp9o7Djk:j0097",
       "video_id": "lkLwp9o7Djk",
-      "idx": 113,
+      "idx": 97,
       "sent_ids": [
-        "lkLwp9o7Djk:s0235",
-        "lkLwp9o7Djk:s0236",
-        "lkLwp9o7Djk:s0237",
         "lkLwp9o7Djk:s0238"
       ],
-      "start_s": 1292.26,
+      "start_s": 1298.93,
       "end_s": 1300.372,
-      "text": "This person belongs here. This person is worth the effort. That has been the hard part throughout history. It remains the hard part now.",
-      "n_words": 24,
-      "n_sentences": 4,
-      "pos_pct": 0.9932820906994619
+      "text": "It remains the hard part now.",
+      "n_words": 6,
+      "n_sentences": 1,
+      "pos_pct": 0.9984089162182936
     }
   ]
 }

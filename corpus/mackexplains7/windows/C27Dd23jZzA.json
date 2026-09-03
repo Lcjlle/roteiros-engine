@@ -1,6 +1,6 @@
 {
   "video_id": "C27Dd23jZzA",
-  "generated_at": "2026-09-03T11:59:53.008894+00:00",
+  "generated_at": "2026-09-03T13:18:13.117749+00:00",
   "windows": [
     {
       "window_id": "C27Dd23jZzA:j0000",
@@ -55,33 +55,20 @@
       "video_id": "C27Dd23jZzA",
       "idx": 3,
       "sent_ids": [
-        "C27Dd23jZzA:s0009"
+        "C27Dd23jZzA:s0009",
+        "C27Dd23jZzA:s0010"
       ],
       "start_s": 28.944,
-      "end_s": 34.629,
-      "text": "Not cigarettes, not cigars, not the guy outside the office who you always end up talking to for too long.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 43.434,
+      "text": "Not cigarettes, not cigars, not the guy outside the office who you always end up talking to for too long. We're talking about the very first time a human being intentionally inhaled something burning, and why that might be one of the oldest habits our species has ever had.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.022027397260273973
     },
     {
       "window_id": "C27Dd23jZzA:j0004",
       "video_id": "C27Dd23jZzA",
       "idx": 4,
-      "sent_ids": [
-        "C27Dd23jZzA:s0010"
-      ],
-      "start_s": 35.349,
-      "end_s": 43.434,
-      "text": "We're talking about the very first time a human being intentionally inhaled something burning, and why that might be one of the oldest habits our species has ever had.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.026901826484018263
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0005",
-      "video_id": "C27Dd23jZzA",
-      "idx": 5,
       "sent_ids": [
         "C27Dd23jZzA:s0011",
         "C27Dd23jZzA:s0012",
@@ -95,9 +82,9 @@
       "pos_pct": 0.03352739726027397
     },
     {
-      "window_id": "C27Dd23jZzA:j0006",
+      "window_id": "C27Dd23jZzA:j0005",
       "video_id": "C27Dd23jZzA",
-      "idx": 6,
+      "idx": 5,
       "sent_ids": [
         "C27Dd23jZzA:s0014",
         "C27Dd23jZzA:s0015",
@@ -111,9 +98,9 @@
       "pos_pct": 0.04067047184170472
     },
     {
-      "window_id": "C27Dd23jZzA:j0007",
+      "window_id": "C27Dd23jZzA:j0006",
       "video_id": "C27Dd23jZzA",
-      "idx": 7,
+      "idx": 6,
       "sent_ids": [
         "C27Dd23jZzA:s0017",
         "C27Dd23jZzA:s0018"
@@ -126,9 +113,9 @@
       "pos_pct": 0.05100532724505327
     },
     {
-      "window_id": "C27Dd23jZzA:j0008",
+      "window_id": "C27Dd23jZzA:j0007",
       "video_id": "C27Dd23jZzA",
-      "idx": 8,
+      "idx": 7,
       "sent_ids": [
         "C27Dd23jZzA:s0019",
         "C27Dd23jZzA:s0020"
@@ -141,9 +128,9 @@
       "pos_pct": 0.0564261796042618
     },
     {
-      "window_id": "C27Dd23jZzA:j0009",
+      "window_id": "C27Dd23jZzA:j0008",
       "video_id": "C27Dd23jZzA",
-      "idx": 9,
+      "idx": 8,
       "sent_ids": [
         "C27Dd23jZzA:s0021",
         "C27Dd23jZzA:s0022"
@@ -156,9 +143,9 @@
       "pos_pct": 0.06640030441400305
     },
     {
-      "window_id": "C27Dd23jZzA:j0010",
+      "window_id": "C27Dd23jZzA:j0009",
       "video_id": "C27Dd23jZzA",
-      "idx": 10,
+      "idx": 9,
       "sent_ids": [
         "C27Dd23jZzA:s0023",
         "C27Dd23jZzA:s0024"
@@ -171,9 +158,9 @@
       "pos_pct": 0.07552130898021309
     },
     {
-      "window_id": "C27Dd23jZzA:j0011",
+      "window_id": "C27Dd23jZzA:j0010",
       "video_id": "C27Dd23jZzA",
-      "idx": 11,
+      "idx": 10,
       "sent_ids": [
         "C27Dd23jZzA:s0025",
         "C27Dd23jZzA:s0026",
@@ -188,9 +175,9 @@
       "pos_pct": 0.08622678843226789
     },
     {
-      "window_id": "C27Dd23jZzA:j0012",
+      "window_id": "C27Dd23jZzA:j0011",
       "video_id": "C27Dd23jZzA",
-      "idx": 12,
+      "idx": 11,
       "sent_ids": [
         "C27Dd23jZzA:s0029",
         "C27Dd23jZzA:s0030",
@@ -204,9 +191,9 @@
       "pos_pct": 0.09103957382039574
     },
     {
-      "window_id": "C27Dd23jZzA:j0013",
+      "window_id": "C27Dd23jZzA:j0012",
       "video_id": "C27Dd23jZzA",
-      "idx": 13,
+      "idx": 12,
       "sent_ids": [
         "C27Dd23jZzA:s0032",
         "C27Dd23jZzA:s0033",
@@ -220,9 +207,9 @@
       "pos_pct": 0.0990357686453577
     },
     {
-      "window_id": "C27Dd23jZzA:j0014",
+      "window_id": "C27Dd23jZzA:j0013",
       "video_id": "C27Dd23jZzA",
-      "idx": 14,
+      "idx": 13,
       "sent_ids": [
         "C27Dd23jZzA:s0035",
         "C27Dd23jZzA:s0036",
@@ -236,52 +223,39 @@
       "pos_pct": 0.10598097412480974
     },
     {
+      "window_id": "C27Dd23jZzA:j0014",
+      "video_id": "C27Dd23jZzA",
+      "idx": 14,
+      "sent_ids": [
+        "C27Dd23jZzA:s0038",
+        "C27Dd23jZzA:s0039"
+      ],
+      "start_s": 151.547,
+      "end_s": 169.78,
+      "text": "Alkaloids, terpenes, compounds that interact with the human nervous system in ways that are, let's say, noticeable. In other words, some of our ancestors were absolutely accidentally getting high around the campfire, and they had no idea why they felt amazing.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.11533257229832572
+    },
+    {
       "window_id": "C27Dd23jZzA:j0015",
       "video_id": "C27Dd23jZzA",
       "idx": 15,
       "sent_ids": [
-        "C27Dd23jZzA:s0038"
+        "C27Dd23jZzA:s0040",
+        "C27Dd23jZzA:s0041"
       ],
-      "start_s": 151.547,
-      "end_s": 159.691,
-      "text": "Alkaloids, terpenes, compounds that interact with the human nervous system in ways that are, let's say, noticeable.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.11533257229832572
+      "start_s": 170.3,
+      "end_s": 187.335,
+      "text": "This isn't a fringe theory. Researchers have proposed for decades that early humans living in forested environments would have regularly been exposed to the smoke of psychoactive plants like cannabis, Nicotiana species, and various entheogens that grow naturally across Africa, Europe, and Asia.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.12960426179604262
     },
     {
       "window_id": "C27Dd23jZzA:j0016",
       "video_id": "C27Dd23jZzA",
       "idx": 16,
-      "sent_ids": [
-        "C27Dd23jZzA:s0039",
-        "C27Dd23jZzA:s0040"
-      ],
-      "start_s": 160.712,
-      "end_s": 171.541,
-      "text": "In other words, some of our ancestors were absolutely accidentally getting high around the campfire, and they had no idea why they felt amazing. This isn't a fringe theory.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.12230745814307457
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0017",
-      "video_id": "C27Dd23jZzA",
-      "idx": 17,
-      "sent_ids": [
-        "C27Dd23jZzA:s0041"
-      ],
-      "start_s": 172.182,
-      "end_s": 187.335,
-      "text": "Researchers have proposed for decades that early humans living in forested environments would have regularly been exposed to the smoke of psychoactive plants like cannabis, Nicotiana species, and various entheogens that grow naturally across Africa, Europe, and Asia.",
-      "n_words": 38,
-      "n_sentences": 1,
-      "pos_pct": 0.13103652968036528
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0018",
-      "video_id": "C27Dd23jZzA",
-      "idx": 18,
       "sent_ids": [
         "C27Dd23jZzA:s0042",
         "C27Dd23jZzA:s0043"
@@ -294,9 +268,9 @@
       "pos_pct": 0.14356849315068493
     },
     {
-      "window_id": "C27Dd23jZzA:j0019",
+      "window_id": "C27Dd23jZzA:j0017",
       "video_id": "C27Dd23jZzA",
-      "idx": 19,
+      "idx": 17,
       "sent_ids": [
         "C27Dd23jZzA:s0044",
         "C27Dd23jZzA:s0045",
@@ -311,9 +285,9 @@
       "pos_pct": 0.15319634703196347
     },
     {
-      "window_id": "C27Dd23jZzA:j0020",
+      "window_id": "C27Dd23jZzA:j0018",
       "video_id": "C27Dd23jZzA",
-      "idx": 20,
+      "idx": 18,
       "sent_ids": [
         "C27Dd23jZzA:s0048",
         "C27Dd23jZzA:s0049",
@@ -327,9 +301,9 @@
       "pos_pct": 0.16253348554033484
     },
     {
-      "window_id": "C27Dd23jZzA:j0021",
+      "window_id": "C27Dd23jZzA:j0019",
       "video_id": "C27Dd23jZzA",
-      "idx": 21,
+      "idx": 19,
       "sent_ids": [
         "C27Dd23jZzA:s0051",
         "C27Dd23jZzA:s0052"
@@ -342,9 +316,9 @@
       "pos_pct": 0.17135007610350075
     },
     {
-      "window_id": "C27Dd23jZzA:j0022",
+      "window_id": "C27Dd23jZzA:j0020",
       "video_id": "C27Dd23jZzA",
-      "idx": 22,
+      "idx": 20,
       "sent_ids": [
         "C27Dd23jZzA:s0053"
       ],
@@ -356,65 +330,39 @@
       "pos_pct": 0.17751902587519025
     },
     {
-      "window_id": "C27Dd23jZzA:j0023",
+      "window_id": "C27Dd23jZzA:j0021",
       "video_id": "C27Dd23jZzA",
-      "idx": 23,
+      "idx": 21,
       "sent_ids": [
-        "C27Dd23jZzA:s0054"
+        "C27Dd23jZzA:s0054",
+        "C27Dd23jZzA:s0055"
       ],
       "start_s": 250.794,
-      "end_s": 253.476,
-      "text": "History is sometimes beautiful in the most absurd ways.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 265.182,
+      "text": "History is sometimes beautiful in the most absurd ways. Now here's where we have to be careful about timelines, because ancient humans smoked things and ancient humans intentionally cultivated things to smoke are very different claims.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.19086301369863015
     },
     {
-      "window_id": "C27Dd23jZzA:j0024",
+      "window_id": "C27Dd23jZzA:j0022",
       "video_id": "C27Dd23jZzA",
-      "idx": 24,
+      "idx": 22,
       "sent_ids": [
-        "C27Dd23jZzA:s0055"
-      ],
-      "start_s": 254.597,
-      "end_s": 265.182,
-      "text": "Now here's where we have to be careful about timelines, because ancient humans smoked things and ancient humans intentionally cultivated things to smoke are very different claims.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.1937572298325723
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0025",
-      "video_id": "C27Dd23jZzA",
-      "idx": 25,
-      "sent_ids": [
-        "C27Dd23jZzA:s0056"
+        "C27Dd23jZzA:s0056",
+        "C27Dd23jZzA:s0057"
       ],
       "start_s": 266.602,
-      "end_s": 268.843,
-      "text": "Let's talk about what the archaeology actually tells us.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 282.89,
+      "text": "Let's talk about what the archaeology actually tells us. The oldest direct evidence of intentional cannabis use, meaning burned cannabis seeds found in a context suggesting deliberate inhalation, comes from a burial site in the Pamir Mountains of Central Asia, dating to around 500 BC.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.20289345509893453
     },
     {
-      "window_id": "C27Dd23jZzA:j0026",
+      "window_id": "C27Dd23jZzA:j0023",
       "video_id": "C27Dd23jZzA",
-      "idx": 26,
-      "sent_ids": [
-        "C27Dd23jZzA:s0057"
-      ],
-      "start_s": 269.384,
-      "end_s": 282.89,
-      "text": "The oldest direct evidence of intentional cannabis use, meaning burned cannabis seeds found in a context suggesting deliberate inhalation, comes from a burial site in the Pamir Mountains of Central Asia, dating to around 500 BC.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.20501065449010655
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0027",
-      "video_id": "C27Dd23jZzA",
-      "idx": 27,
+      "idx": 23,
       "sent_ids": [
         "C27Dd23jZzA:s0058",
         "C27Dd23jZzA:s0059"
@@ -427,9 +375,9 @@
       "pos_pct": 0.21706012176560122
     },
     {
-      "window_id": "C27Dd23jZzA:j0028",
+      "window_id": "C27Dd23jZzA:j0024",
       "video_id": "C27Dd23jZzA",
-      "idx": 28,
+      "idx": 24,
       "sent_ids": [
         "C27Dd23jZzA:s0060",
         "C27Dd23jZzA:s0061"
@@ -442,9 +390,9 @@
       "pos_pct": 0.2284041095890411
     },
     {
-      "window_id": "C27Dd23jZzA:j0029",
+      "window_id": "C27Dd23jZzA:j0025",
       "video_id": "C27Dd23jZzA",
-      "idx": 29,
+      "idx": 25,
       "sent_ids": [
         "C27Dd23jZzA:s0062",
         "C27Dd23jZzA:s0063"
@@ -457,9 +405,9 @@
       "pos_pct": 0.2365380517503805
     },
     {
-      "window_id": "C27Dd23jZzA:j0030",
+      "window_id": "C27Dd23jZzA:j0026",
       "video_id": "C27Dd23jZzA",
-      "idx": 30,
+      "idx": 26,
       "sent_ids": [
         "C27Dd23jZzA:s0064",
         "C27Dd23jZzA:s0065"
@@ -472,9 +420,9 @@
       "pos_pct": 0.24217427701674277
     },
     {
-      "window_id": "C27Dd23jZzA:j0031",
+      "window_id": "C27Dd23jZzA:j0027",
       "video_id": "C27Dd23jZzA",
-      "idx": 31,
+      "idx": 27,
       "sent_ids": [
         "C27Dd23jZzA:s0066",
         "C27Dd23jZzA:s0067"
@@ -487,9 +435,9 @@
       "pos_pct": 0.2500350076103501
     },
     {
-      "window_id": "C27Dd23jZzA:j0032",
+      "window_id": "C27Dd23jZzA:j0028",
       "video_id": "C27Dd23jZzA",
-      "idx": 32,
+      "idx": 28,
       "sent_ids": [
         "C27Dd23jZzA:s0068",
         "C27Dd23jZzA:s0069",
@@ -503,218 +451,179 @@
       "pos_pct": 0.258779299847793
     },
     {
+      "window_id": "C27Dd23jZzA:j0029",
+      "video_id": "C27Dd23jZzA",
+      "idx": 29,
+      "sent_ids": [
+        "C27Dd23jZzA:s0071",
+        "C27Dd23jZzA:s0072"
+      ],
+      "start_s": 353.795,
+      "end_s": 369.947,
+      "text": "There is also the Herodotus problem. Herodotus, the ancient Greek historian writing in the 5th century BC, described in remarkable detail the Scythians, a nomadic people from the Eurasian steppe, performing what he called a vapor bath.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.26925038051750383
+    },
+    {
+      "window_id": "C27Dd23jZzA:j0030",
+      "video_id": "C27Dd23jZzA",
+      "idx": 30,
+      "sent_ids": [
+        "C27Dd23jZzA:s0073",
+        "C27Dd23jZzA:s0074"
+      ],
+      "start_s": 371.07,
+      "end_s": 390.268,
+      "text": "would set up small enclosed tents, heat stones until they glowed, and throw hemp seeds onto those stones, then sit inside the tent inhaling the smoke and, as Herodotus wrote, howling with pleasure. For centuries, historians assumed he was exaggerating or misunderstanding what he saw.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.2823972602739726
+    },
+    {
+      "window_id": "C27Dd23jZzA:j0031",
+      "video_id": "C27Dd23jZzA",
+      "idx": 31,
+      "sent_ids": [
+        "C27Dd23jZzA:s0075",
+        "C27Dd23jZzA:s0076",
+        "C27Dd23jZzA:s0077"
+      ],
+      "start_s": 390.908,
+      "end_s": 407.68,
+      "text": "Then archaeologists started excavating Scythian burial mounds and finding, you guessed it, bronze braziers, heated stones, and hemp residue, exactly what Herodotus described. The man was just reporting what he saw. He wasn't embellishing.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.29749467275494673
+    },
+    {
+      "window_id": "C27Dd23jZzA:j0032",
+      "video_id": "C27Dd23jZzA",
+      "idx": 32,
+      "sent_ids": [
+        "C27Dd23jZzA:s0078",
+        "C27Dd23jZzA:s0079",
+        "C27Dd23jZzA:s0080"
+      ],
+      "start_s": 408.0,
+      "end_s": 420.76,
+      "text": "He was, if anything, underselling it. Let's talk about tobacco, because it's the one most people actually associate with smoking. Tobacco is a plant in the genus Nicotiana, and it's native to the Americas.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.3105022831050228
+    },
+    {
       "window_id": "C27Dd23jZzA:j0033",
       "video_id": "C27Dd23jZzA",
       "idx": 33,
       "sent_ids": [
-        "C27Dd23jZzA:s0071"
+        "C27Dd23jZzA:s0081",
+        "C27Dd23jZzA:s0082"
       ],
-      "start_s": 353.795,
-      "end_s": 355.536,
-      "text": "There is also the Herodotus problem.",
-      "n_words": 6,
-      "n_sentences": 1,
-      "pos_pct": 0.26925038051750383
+      "start_s": 421.36,
+      "end_s": 439.988,
+      "text": "That matters enormously, because it means tobacco was completely unknown to Old World civilizations, Europe, Africa, Asia, until contact with the Americas in the late 15th century. When European explorers arrived in the Caribbean in 1492, they immediately noticed indigenous people doing something strange.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.3206697108066971
     },
     {
       "window_id": "C27Dd23jZzA:j0034",
       "video_id": "C27Dd23jZzA",
       "idx": 34,
       "sent_ids": [
-        "C27Dd23jZzA:s0072"
+        "C27Dd23jZzA:s0083",
+        "C27Dd23jZzA:s0084"
       ],
-      "start_s": 356.097,
-      "end_s": 369.947,
-      "text": "Herodotus, the ancient Greek historian writing in the 5th century BC, described in remarkable detail the Scythians, a nomadic people from the Eurasian steppe, performing what he called a vapor bath.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.27100228310502283
+      "start_s": 441.504,
+      "end_s": 454.273,
+      "text": "Columbus himself wrote in his journal about seeing men and women walking around with small glowing sticks, inhaling the smoke from burning dried leaves, and letting it back out through their noses and mouths. His crew was baffled.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.336
     },
     {
       "window_id": "C27Dd23jZzA:j0035",
       "video_id": "C27Dd23jZzA",
       "idx": 35,
       "sent_ids": [
-        "C27Dd23jZzA:s0073"
+        "C27Dd23jZzA:s0085",
+        "C27Dd23jZzA:s0086",
+        "C27Dd23jZzA:s0087"
       ],
-      "start_s": 371.07,
-      "end_s": 384.53,
-      "text": "would set up small enclosed tents, heat stones until they glowed, and throw hemp seeds onto those stones, then sit inside the tent inhaling the smoke and, as Herodotus wrote, howling with pleasure.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.2823972602739726
+      "start_s": 454.613,
+      "end_s": 463.319,
+      "text": "His crew also, within weeks, tried it themselves. Because, of course, they did. But tobacco use in the Americas is far, far older than 1492.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.3459764079147641
     },
     {
       "window_id": "C27Dd23jZzA:j0036",
       "video_id": "C27Dd23jZzA",
       "idx": 36,
       "sent_ids": [
-        "C27Dd23jZzA:s0074",
-        "C27Dd23jZzA:s0075"
+        "C27Dd23jZzA:s0088",
+        "C27Dd23jZzA:s0089"
       ],
-      "start_s": 385.965,
-      "end_s": 402.737,
-      "text": "For centuries, historians assumed he was exaggerating or misunderstanding what he saw. Then archaeologists started excavating Scythian burial mounds and finding, you guessed it, bronze braziers, heated stones, and hemp residue, exactly what Herodotus described.",
-      "n_words": 35,
+      "start_s": 465.321,
+      "end_s": 485.13,
+      "text": "Archaeological evidence of tobacco, specifically chemical residues in ancient pipes, has been found dating back to at least 3,500 years ago in the southeastern United States. Some researchers believe it could go back considerably further, possibly 10,000 years or more, tied to the development of cultivation in the Amazon basin.",
+      "n_words": 50,
       "n_sentences": 2,
-      "pos_pct": 0.2937328767123287
+      "pos_pct": 0.3541255707762557
     },
     {
       "window_id": "C27Dd23jZzA:j0037",
       "video_id": "C27Dd23jZzA",
       "idx": 37,
       "sent_ids": [
-        "C27Dd23jZzA:s0076",
-        "C27Dd23jZzA:s0077",
-        "C27Dd23jZzA:s0078",
-        "C27Dd23jZzA:s0079"
+        "C27Dd23jZzA:s0090",
+        "C27Dd23jZzA:s0091",
+        "C27Dd23jZzA:s0092",
+        "C27Dd23jZzA:s0093"
       ],
-      "start_s": 404.278,
-      "end_s": 415.898,
-      "text": "The man was just reporting what he saw. He wasn't embellishing. He was, if anything, underselling it. Let's talk about tobacco, because it's the one most people actually associate with smoking.",
-      "n_words": 31,
+      "start_s": 486.091,
+      "end_s": 494.535,
+      "text": "And here's the thing about tobacco in ancient America. It was not recreational. Not primarily. It was sacred.",
+      "n_words": 18,
       "n_sentences": 4,
-      "pos_pct": 0.30766971080669714
+      "pos_pct": 0.3699322678843227
     },
     {
       "window_id": "C27Dd23jZzA:j0038",
       "video_id": "C27Dd23jZzA",
       "idx": 38,
       "sent_ids": [
-        "C27Dd23jZzA:s0080"
+        "C27Dd23jZzA:s0094",
+        "C27Dd23jZzA:s0095"
       ],
-      "start_s": 416.418,
-      "end_s": 420.76,
-      "text": "Tobacco is a plant in the genus Nicotiana, and it's native to the Americas.",
-      "n_words": 14,
-      "n_sentences": 1,
-      "pos_pct": 0.31690867579908677
+      "start_s": 495.608,
+      "end_s": 506.81,
+      "text": "Tobacco was used in healing rituals, in communication with the spirit world, in binding agreements between tribes. Blowing smoke on someone was an act of blessing, of connection, of respect.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.3771750380517504
     },
     {
       "window_id": "C27Dd23jZzA:j0039",
       "video_id": "C27Dd23jZzA",
       "idx": 39,
       "sent_ids": [
-        "C27Dd23jZzA:s0081"
+        "C27Dd23jZzA:s0096",
+        "C27Dd23jZzA:s0097"
       ],
-      "start_s": 421.36,
-      "end_s": 432.185,
-      "text": "That matters enormously, because it means tobacco was completely unknown to Old World civilizations, Europe, Africa, Asia, until contact with the Americas in the late 15th century.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.3206697108066971
+      "start_s": 507.63,
+      "end_s": 514.071,
+      "text": "A shaman who smoked wasn't having a casual cigarette break. He was opening a channel between the living and the divine.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.386324200913242
     },
     {
       "window_id": "C27Dd23jZzA:j0040",
       "video_id": "C27Dd23jZzA",
       "idx": 40,
-      "sent_ids": [
-        "C27Dd23jZzA:s0082"
-      ],
-      "start_s": 433.085,
-      "end_s": 439.988,
-      "text": "When European explorers arrived in the Caribbean in 1492, they immediately noticed indigenous people doing something strange.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.32959284627092844
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0041",
-      "video_id": "C27Dd23jZzA",
-      "idx": 41,
-      "sent_ids": [
-        "C27Dd23jZzA:s0083"
-      ],
-      "start_s": 441.504,
-      "end_s": 452.151,
-      "text": "Columbus himself wrote in his journal about seeing men and women walking around with small glowing sticks, inhaling the smoke from burning dried leaves, and letting it back out through their noses and mouths.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.336
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0042",
-      "video_id": "C27Dd23jZzA",
-      "idx": 42,
-      "sent_ids": [
-        "C27Dd23jZzA:s0084",
-        "C27Dd23jZzA:s0085",
-        "C27Dd23jZzA:s0086",
-        "C27Dd23jZzA:s0087"
-      ],
-      "start_s": 453.112,
-      "end_s": 463.319,
-      "text": "His crew was baffled. His crew also, within weeks, tried it themselves. Because, of course, they did. But tobacco use in the Americas is far, far older than 1492.",
-      "n_words": 29,
-      "n_sentences": 4,
-      "pos_pct": 0.34483409436834095
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0043",
-      "video_id": "C27Dd23jZzA",
-      "idx": 43,
-      "sent_ids": [
-        "C27Dd23jZzA:s0088"
-      ],
-      "start_s": 465.321,
-      "end_s": 475.806,
-      "text": "Archaeological evidence of tobacco, specifically chemical residues in ancient pipes, has been found dating back to at least 3,500 years ago in the southeastern United States.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.3541255707762557
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0044",
-      "video_id": "C27Dd23jZzA",
-      "idx": 44,
-      "sent_ids": [
-        "C27Dd23jZzA:s0089",
-        "C27Dd23jZzA:s0090"
-      ],
-      "start_s": 476.806,
-      "end_s": 488.452,
-      "text": "Some researchers believe it could go back considerably further, possibly 10,000 years or more, tied to the development of cultivation in the Amazon basin. And here's the thing about tobacco in ancient America.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.36286605783866055
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0045",
-      "video_id": "C27Dd23jZzA",
-      "idx": 45,
-      "sent_ids": [
-        "C27Dd23jZzA:s0091",
-        "C27Dd23jZzA:s0092",
-        "C27Dd23jZzA:s0093",
-        "C27Dd23jZzA:s0094"
-      ],
-      "start_s": 489.573,
-      "end_s": 502.289,
-      "text": "It was not recreational. Not primarily. It was sacred. Tobacco was used in healing rituals, in communication with the spirit world, in binding agreements between tribes.",
-      "n_words": 26,
-      "n_sentences": 4,
-      "pos_pct": 0.3725821917808219
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0046",
-      "video_id": "C27Dd23jZzA",
-      "idx": 46,
-      "sent_ids": [
-        "C27Dd23jZzA:s0095",
-        "C27Dd23jZzA:s0096",
-        "C27Dd23jZzA:s0097"
-      ],
-      "start_s": 502.789,
-      "end_s": 514.071,
-      "text": "Blowing smoke on someone was an act of blessing, of connection, of respect. A shaman who smoked wasn't having a casual cigarette break. He was opening a channel between the living and the divine.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.38264003044140027
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0047",
-      "video_id": "C27Dd23jZzA",
-      "idx": 47,
       "sent_ids": [
         "C27Dd23jZzA:s0098",
         "C27Dd23jZzA:s0099"
@@ -727,9 +636,9 @@
       "pos_pct": 0.3918805175038052
     },
     {
-      "window_id": "C27Dd23jZzA:j0048",
+      "window_id": "C27Dd23jZzA:j0041",
       "video_id": "C27Dd23jZzA",
-      "idx": 48,
+      "idx": 41,
       "sent_ids": [
         "C27Dd23jZzA:s0100",
         "C27Dd23jZzA:s0101"
@@ -742,123 +651,84 @@
       "pos_pct": 0.4008447488584475
     },
     {
-      "window_id": "C27Dd23jZzA:j0049",
+      "window_id": "C27Dd23jZzA:j0042",
       "video_id": "C27Dd23jZzA",
-      "idx": 49,
+      "idx": 42,
       "sent_ids": [
-        "C27Dd23jZzA:s0102"
+        "C27Dd23jZzA:s0102",
+        "C27Dd23jZzA:s0103"
       ],
       "start_s": 538.899,
-      "end_s": 540.8,
-      "text": "You don't chain-smoke it while watching TV.",
-      "n_words": 7,
-      "n_sentences": 1,
+      "end_s": 552.909,
+      "text": "You don't chain-smoke it while watching TV. The idea of tobacco as a casual everyday habit, something you do on a lunch break or while waiting for the bus, is an almost entirely European invention, and a fairly recent one at that.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.41012100456621003
     },
     {
-      "window_id": "C27Dd23jZzA:j0050",
+      "window_id": "C27Dd23jZzA:j0043",
       "video_id": "C27Dd23jZzA",
-      "idx": 50,
+      "idx": 43,
       "sent_ids": [
-        "C27Dd23jZzA:s0103"
-      ],
-      "start_s": 541.921,
-      "end_s": 552.909,
-      "text": "The idea of tobacco as a casual everyday habit, something you do on a lunch break or while waiting for the bus, is an almost entirely European invention, and a fairly recent one at that.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.41242085235920856
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0051",
-      "video_id": "C27Dd23jZzA",
-      "idx": 51,
-      "sent_ids": [
-        "C27Dd23jZzA:s0104"
+        "C27Dd23jZzA:s0104",
+        "C27Dd23jZzA:s0105"
       ],
       "start_s": 554.036,
-      "end_s": 563.424,
-      "text": "Now, let's go back even further, because there's a piece of this story that most people have never heard, and it might be the oldest evidence of intentional smoking in the entire archaeological record.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 569.83,
+      "text": "Now, let's go back even further, because there's a piece of this story that most people have never heard, and it might be the oldest evidence of intentional smoking in the entire archaeological record. In 2019, researchers made a remarkable discovery at a site in the Great Salt Lake Desert in Utah.",
+      "n_words": 52,
+      "n_sentences": 2,
       "pos_pct": 0.4216407914764079
     },
     {
-      "window_id": "C27Dd23jZzA:j0052",
+      "window_id": "C27Dd23jZzA:j0044",
       "video_id": "C27Dd23jZzA",
-      "idx": 52,
+      "idx": 44,
       "sent_ids": [
-        "C27Dd23jZzA:s0105"
-      ],
-      "start_s": 564.245,
-      "end_s": 569.83,
-      "text": "In 2019, researchers made a remarkable discovery at a site in the Great Salt Lake Desert in Utah.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.429410197869102
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0053",
-      "video_id": "C27Dd23jZzA",
-      "idx": 53,
-      "sent_ids": [
-        "C27Dd23jZzA:s0106"
+        "C27Dd23jZzA:s0106",
+        "C27Dd23jZzA:s0107"
       ],
       "start_s": 570.35,
-      "end_s": 581.54,
-      "text": "They found a hearth, a cooking and heating fire, roughly 12,000 years old, containing the seeds of Nicotiana atenuata, a wild tobacco species native to North America.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 585.759,
+      "text": "They found a hearth, a cooking and heating fire, roughly 12,000 years old, containing the seeds of Nicotiana atenuata, a wild tobacco species native to North America. these weren't seeds that had accidentally blown into the fire.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.4340563165905632
     },
     {
-      "window_id": "C27Dd23jZzA:j0054",
+      "window_id": "C27Dd23jZzA:j0045",
       "video_id": "C27Dd23jZzA",
-      "idx": 54,
+      "idx": 45,
       "sent_ids": [
-        "C27Dd23jZzA:s0107",
-        "C27Dd23jZzA:s0108"
+        "C27Dd23jZzA:s0108",
+        "C27Dd23jZzA:s0109"
       ],
-      "start_s": 582.795,
-      "end_s": 590.606,
-      "text": "these weren't seeds that had accidentally blown into the fire. They were concentrated, present in a way that suggested deliberate placement.",
-      "n_words": 21,
+      "start_s": 586.32,
+      "end_s": 596.366,
+      "text": "They were concentrated, present in a way that suggested deliberate placement. the site predates any known pottery or pipe artifacts in the region by thousands of years.",
+      "n_words": 27,
       "n_sentences": 2,
-      "pos_pct": 0.44352739726027396
+      "pos_pct": 0.4462100456621005
     },
     {
-      "window_id": "C27Dd23jZzA:j0055",
+      "window_id": "C27Dd23jZzA:j0046",
       "video_id": "C27Dd23jZzA",
-      "idx": 55,
+      "idx": 46,
       "sent_ids": [
-        "C27Dd23jZzA:s0109",
-        "C27Dd23jZzA:s0110"
-      ],
-      "start_s": 591.523,
-      "end_s": 602.289,
-      "text": "the site predates any known pottery or pipe artifacts in the region by thousands of years. This pushed back the possible timeline of tobacco use in the Americas by a significant margin.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.45016971080669715
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0056",
-      "video_id": "C27Dd23jZzA",
-      "idx": 56,
-      "sent_ids": [
+        "C27Dd23jZzA:s0110",
         "C27Dd23jZzA:s0111"
       ],
-      "start_s": 603.17,
+      "start_s": 597.166,
       "end_s": 605.491,
-      "text": "And it raised a genuinely fascinating question.",
-      "n_words": 7,
-      "n_sentences": 1,
-      "pos_pct": 0.45903348554033485
+      "text": "This pushed back the possible timeline of tobacco use in the Americas by a significant margin. And it raised a genuinely fascinating question.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.45446423135464237
     },
     {
-      "window_id": "C27Dd23jZzA:j0057",
+      "window_id": "C27Dd23jZzA:j0047",
       "video_id": "C27Dd23jZzA",
-      "idx": 57,
+      "idx": 47,
       "sent_ids": [
         "C27Dd23jZzA:s0112"
       ],
@@ -870,9 +740,9 @@
       "pos_pct": 0.4612572298325723
     },
     {
-      "window_id": "C27Dd23jZzA:j0058",
+      "window_id": "C27Dd23jZzA:j0048",
       "video_id": "C27Dd23jZzA",
-      "idx": 58,
+      "idx": 48,
       "sent_ids": [
         "C27Dd23jZzA:s0113",
         "C27Dd23jZzA:s0114",
@@ -887,9 +757,9 @@
       "pos_pct": 0.470576103500761
     },
     {
-      "window_id": "C27Dd23jZzA:j0059",
+      "window_id": "C27Dd23jZzA:j0049",
       "video_id": "C27Dd23jZzA",
-      "idx": 59,
+      "idx": 49,
       "sent_ids": [
         "C27Dd23jZzA:s0117",
         "C27Dd23jZzA:s0118",
@@ -904,9 +774,9 @@
       "pos_pct": 0.481175799086758
     },
     {
-      "window_id": "C27Dd23jZzA:j0060",
+      "window_id": "C27Dd23jZzA:j0050",
       "video_id": "C27Dd23jZzA",
-      "idx": 60,
+      "idx": 50,
       "sent_ids": [
         "C27Dd23jZzA:s0121",
         "C27Dd23jZzA:s0122"
@@ -919,9 +789,9 @@
       "pos_pct": 0.49226712328767125
     },
     {
-      "window_id": "C27Dd23jZzA:j0061",
+      "window_id": "C27Dd23jZzA:j0051",
       "video_id": "C27Dd23jZzA",
-      "idx": 61,
+      "idx": 51,
       "sent_ids": [
         "C27Dd23jZzA:s0123",
         "C27Dd23jZzA:s0124"
@@ -934,37 +804,24 @@
       "pos_pct": 0.4996080669710807
     },
     {
-      "window_id": "C27Dd23jZzA:j0062",
+      "window_id": "C27Dd23jZzA:j0052",
       "video_id": "C27Dd23jZzA",
-      "idx": 62,
+      "idx": 52,
       "sent_ids": [
-        "C27Dd23jZzA:s0125"
+        "C27Dd23jZzA:s0125",
+        "C27Dd23jZzA:s0126"
       ],
       "start_s": 674.317,
-      "end_s": 691.945,
-      "text": "Ronald Siegel, a psychopharmacologist at UCLA, proposed in the 1980s that the pursuit of intoxication is a fourth drive, alongside hunger, thirst, and sex, that is biologically embedded in animal behavior, not just human behavior.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 696.282,
+      "text": "Ronald Siegel, a psychopharmacologist at UCLA, proposed in the 1980s that the pursuit of intoxication is a fourth drive, alongside hunger, thirst, and sex, that is biologically embedded in animal behavior, not just human behavior. Elephants deliberately seek out fermented marula fruit.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.5131788432267884
     },
     {
-      "window_id": "C27Dd23jZzA:j0063",
+      "window_id": "C27Dd23jZzA:j0053",
       "video_id": "C27Dd23jZzA",
-      "idx": 63,
-      "sent_ids": [
-        "C27Dd23jZzA:s0126"
-      ],
-      "start_s": 693.319,
-      "end_s": 696.282,
-      "text": "Elephants deliberately seek out fermented marula fruit.",
-      "n_words": 7,
-      "n_sentences": 1,
-      "pos_pct": 0.5276400304414003
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0064",
-      "video_id": "C27Dd23jZzA",
-      "idx": 64,
+      "idx": 53,
       "sent_ids": [
         "C27Dd23jZzA:s0127",
         "C27Dd23jZzA:s0128",
@@ -979,9 +836,9 @@
       "pos_pct": 0.5305197869101979
     },
     {
-      "window_id": "C27Dd23jZzA:j0065",
+      "window_id": "C27Dd23jZzA:j0054",
       "video_id": "C27Dd23jZzA",
-      "idx": 65,
+      "idx": 54,
       "sent_ids": [
         "C27Dd23jZzA:s0131",
         "C27Dd23jZzA:s0132"
@@ -994,9 +851,9 @@
       "pos_pct": 0.5427701674277017
     },
     {
-      "window_id": "C27Dd23jZzA:j0066",
+      "window_id": "C27Dd23jZzA:j0055",
       "video_id": "C27Dd23jZzA",
-      "idx": 66,
+      "idx": 55,
       "sent_ids": [
         "C27Dd23jZzA:s0133"
       ],
@@ -1008,9 +865,9 @@
       "pos_pct": 0.544713089802131
     },
     {
-      "window_id": "C27Dd23jZzA:j0067",
+      "window_id": "C27Dd23jZzA:j0056",
       "video_id": "C27Dd23jZzA",
-      "idx": 67,
+      "idx": 56,
       "sent_ids": [
         "C27Dd23jZzA:s0134",
         "C27Dd23jZzA:s0135"
@@ -1023,104 +880,91 @@
       "pos_pct": 0.563148401826484
     },
     {
-      "window_id": "C27Dd23jZzA:j0068",
+      "window_id": "C27Dd23jZzA:j0057",
       "video_id": "C27Dd23jZzA",
-      "idx": 68,
+      "idx": 57,
       "sent_ids": [
-        "C27Dd23jZzA:s0136"
+        "C27Dd23jZzA:s0136",
+        "C27Dd23jZzA:s0137"
       ],
       "start_s": 748.262,
-      "end_s": 758.448,
-      "text": "Maybe they learned which smoke made you feel good, and which made you feel like you were dying, which, with some plants, is a distinction that kills you once before you figure it out.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 760.429,
+      "text": "Maybe they learned which smoke made you feel good, and which made you feel like you were dying, which, with some plants, is a distinction that kills you once before you figure it out. This is trial and error.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.5694535768645357
     },
     {
-      "window_id": "C27Dd23jZzA:j0069",
+      "window_id": "C27Dd23jZzA:j0058",
       "video_id": "C27Dd23jZzA",
-      "idx": 69,
+      "idx": 58,
       "sent_ids": [
-        "C27Dd23jZzA:s0137",
         "C27Dd23jZzA:s0138",
         "C27Dd23jZzA:s0139",
-        "C27Dd23jZzA:s0140"
+        "C27Dd23jZzA:s0140",
+        "C27Dd23jZzA:s0141"
       ],
-      "start_s": 759.228,
-      "end_s": 765.852,
-      "text": "This is trial and error. Prehistoric style. Very high stakes. Occasionally literally fatal.",
-      "n_words": 13,
+      "start_s": 760.929,
+      "end_s": 769.918,
+      "text": "Prehistoric style. Very high stakes. Occasionally literally fatal. but the ones who survived, they remembered.",
+      "n_words": 15,
       "n_sentences": 4,
-      "pos_pct": 0.5777990867579909
+      "pos_pct": 0.5790936073059361
     },
     {
-      "window_id": "C27Dd23jZzA:j0070",
+      "window_id": "C27Dd23jZzA:j0059",
       "video_id": "C27Dd23jZzA",
-      "idx": 70,
+      "idx": 59,
       "sent_ids": [
-        "C27Dd23jZzA:s0141",
         "C27Dd23jZzA:s0142",
-        "C27Dd23jZzA:s0143"
-      ],
-      "start_s": 767.256,
-      "end_s": 777.262,
-      "text": "but the ones who survived, they remembered. They told others. They passed it down through generations of knowledge that never got written, but got lived.",
-      "n_words": 25,
-      "n_sentences": 3,
-      "pos_pct": 0.5839086757990868
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0071",
-      "video_id": "C27Dd23jZzA",
-      "idx": 71,
-      "sent_ids": [
+        "C27Dd23jZzA:s0143",
         "C27Dd23jZzA:s0144",
-        "C27Dd23jZzA:s0145",
-        "C27Dd23jZzA:s0146"
+        "C27Dd23jZzA:s0145"
       ],
-      "start_s": 778.223,
-      "end_s": 790.67,
-      "text": "That's how most human knowledge worked for most of human history. Not libraries, not schools. Lived experience, passed mouth to ear, around a fire, in the dark.",
-      "n_words": 27,
-      "n_sentences": 3,
-      "pos_pct": 0.5922549467275494
+      "start_s": 770.778,
+      "end_s": 784.246,
+      "text": "They told others. They passed it down through generations of knowledge that never got written, but got lived. That's how most human knowledge worked for most of human history. Not libraries, not schools.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.5865890410958904
     },
     {
-      "window_id": "C27Dd23jZzA:j0072",
+      "window_id": "C27Dd23jZzA:j0060",
       "video_id": "C27Dd23jZzA",
-      "idx": 72,
+      "idx": 60,
       "sent_ids": [
+        "C27Dd23jZzA:s0146",
         "C27Dd23jZzA:s0147",
         "C27Dd23jZzA:s0148",
-        "C27Dd23jZzA:s0149",
-        "C27Dd23jZzA:s0150"
+        "C27Dd23jZzA:s0149"
       ],
-      "start_s": 791.931,
-      "end_s": 802.109,
-      "text": "Let's also talk about something that rarely comes up in this conversation. Smoking as medicine. Long before smoking was recreational. Long before it was spiritual.",
-      "n_words": 25,
+      "start_s": 785.367,
+      "end_s": 799.808,
+      "text": "Lived experience, passed mouth to ear, around a fire, in the dark. Let's also talk about something that rarely comes up in this conversation. Smoking as medicine. Long before smoking was recreational.",
+      "n_words": 32,
       "n_sentences": 4,
-      "pos_pct": 0.6026872146118721
+      "pos_pct": 0.5976917808219178
     },
     {
-      "window_id": "C27Dd23jZzA:j0073",
+      "window_id": "C27Dd23jZzA:j0061",
       "video_id": "C27Dd23jZzA",
-      "idx": 73,
+      "idx": 61,
       "sent_ids": [
+        "C27Dd23jZzA:s0150",
         "C27Dd23jZzA:s0151",
         "C27Dd23jZzA:s0152"
       ],
-      "start_s": 802.909,
+      "start_s": 800.788,
       "end_s": 811.873,
-      "text": "It may have been medical. The Abra's Papyrus, one of the oldest known medical documents in the world, dates to ancient Egypt around 1550 BC.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.6110418569254186
+      "text": "Long before it was spiritual. It may have been medical. The Abra's Papyrus, one of the oldest known medical documents in the world, dates to ancient Egypt around 1550 BC.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.6094277016742771
     },
     {
-      "window_id": "C27Dd23jZzA:j0074",
+      "window_id": "C27Dd23jZzA:j0062",
       "video_id": "C27Dd23jZzA",
-      "idx": 74,
+      "idx": 62,
       "sent_ids": [
         "C27Dd23jZzA:s0153",
         "C27Dd23jZzA:s0154"
@@ -1133,9 +977,9 @@
       "pos_pct": 0.6186095890410959
     },
     {
-      "window_id": "C27Dd23jZzA:j0075",
+      "window_id": "C27Dd23jZzA:j0063",
       "video_id": "C27Dd23jZzA",
-      "idx": 75,
+      "idx": 63,
       "sent_ids": [
         "C27Dd23jZzA:s0155",
         "C27Dd23jZzA:s0156",
@@ -1149,9 +993,9 @@
       "pos_pct": 0.6273569254185692
     },
     {
-      "window_id": "C27Dd23jZzA:j0076",
+      "window_id": "C27Dd23jZzA:j0064",
       "video_id": "C27Dd23jZzA",
-      "idx": 76,
+      "idx": 64,
       "sent_ids": [
         "C27Dd23jZzA:s0158",
         "C27Dd23jZzA:s0159"
@@ -1164,118 +1008,118 @@
       "pos_pct": 0.6331468797564689
     },
     {
-      "window_id": "C27Dd23jZzA:j0077",
+      "window_id": "C27Dd23jZzA:j0065",
       "video_id": "C27Dd23jZzA",
-      "idx": 77,
+      "idx": 65,
       "sent_ids": [
-        "C27Dd23jZzA:s0160"
+        "C27Dd23jZzA:s0160",
+        "C27Dd23jZzA:s0161"
       ],
       "start_s": 847.65,
-      "end_s": 856.776,
-      "text": "Hippocrates, the guy you take an oath named after if you become a doctor, wrote about the inhalation of herbal vapors to treat diseases of the lungs and other conditions.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 860.038,
+      "text": "Hippocrates, the guy you take an oath named after if you become a doctor, wrote about the inhalation of herbal vapors to treat diseases of the lungs and other conditions. The thinking wasn't crazy by the standards of the time.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.6450913242009132
     },
     {
-      "window_id": "C27Dd23jZzA:j0078",
+      "window_id": "C27Dd23jZzA:j0066",
       "video_id": "C27Dd23jZzA",
-      "idx": 78,
+      "idx": 66,
       "sent_ids": [
-        "C27Dd23jZzA:s0161",
-        "C27Dd23jZzA:s0162"
-      ],
-      "start_s": 857.796,
-      "end_s": 867.703,
-      "text": "The thinking wasn't crazy by the standards of the time. Smoke reaches the lungs directly, so if the plant has medicinal properties, delivering it via smoke makes a certain logical sense.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.6528127853881279
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0079",
-      "video_id": "C27Dd23jZzA",
-      "idx": 79,
-      "sent_ids": [
+        "C27Dd23jZzA:s0162",
         "C27Dd23jZzA:s0163",
-        "C27Dd23jZzA:s0164",
-        "C27Dd23jZzA:s0165",
-        "C27Dd23jZzA:s0166"
+        "C27Dd23jZzA:s0164"
       ],
-      "start_s": 868.783,
-      "end_s": 880.947,
-      "text": "The lungs as a delivery mechanism. inhaled medicine. We still do this today, with asthma inhalers and anesthetic gases and nebulizers. The delivery method survived.",
-      "n_words": 25,
-      "n_sentences": 4,
-      "pos_pct": 0.6611742770167428
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0080",
-      "video_id": "C27Dd23jZzA",
-      "idx": 80,
-      "sent_ids": [
-        "C27Dd23jZzA:s0167",
-        "C27Dd23jZzA:s0168",
-        "C27Dd23jZzA:s0169"
-      ],
-      "start_s": 881.667,
-      "end_s": 897.425,
-      "text": "The burning part, thankfully, mostly didn't. Ancient Indian Ayurvedic medicine, dating back over 3,000 years, describes a practice called dumapana. literally smoke drinking, involving the inhalation of medicinal herbs through pipes.",
-      "n_words": 31,
+      "start_s": 860.578,
+      "end_s": 873.004,
+      "text": "Smoke reaches the lungs directly, so if the plant has medicinal properties, delivering it via smoke makes a certain logical sense. The lungs as a delivery mechanism. inhaled medicine.",
+      "n_words": 29,
       "n_sentences": 3,
-      "pos_pct": 0.6709794520547946
+      "pos_pct": 0.6549299847792999
     },
     {
-      "window_id": "C27Dd23jZzA:j0081",
+      "window_id": "C27Dd23jZzA:j0067",
       "video_id": "C27Dd23jZzA",
-      "idx": 81,
+      "idx": 67,
       "sent_ids": [
-        "C27Dd23jZzA:s0170",
+        "C27Dd23jZzA:s0165",
+        "C27Dd23jZzA:s0166",
+        "C27Dd23jZzA:s0167"
+      ],
+      "start_s": 873.425,
+      "end_s": 884.488,
+      "text": "We still do this today, with asthma inhalers and anesthetic gases and nebulizers. The delivery method survived. The burning part, thankfully, mostly didn't.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.66470700152207
+    },
+    {
+      "window_id": "C27Dd23jZzA:j0068",
+      "video_id": "C27Dd23jZzA",
+      "idx": 68,
+      "sent_ids": [
+        "C27Dd23jZzA:s0168",
+        "C27Dd23jZzA:s0169",
+        "C27Dd23jZzA:s0170"
+      ],
+      "start_s": 885.469,
+      "end_s": 903.468,
+      "text": "Ancient Indian Ayurvedic medicine, dating back over 3,000 years, describes a practice called dumapana. literally smoke drinking, involving the inhalation of medicinal herbs through pipes. The texts describe specific plants, specific conditions, specific preparations.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.6738729071537292
+    },
+    {
+      "window_id": "C27Dd23jZzA:j0069",
+      "video_id": "C27Dd23jZzA",
+      "idx": 69,
+      "sent_ids": [
         "C27Dd23jZzA:s0171",
         "C27Dd23jZzA:s0172"
       ],
-      "start_s": 898.286,
+      "start_s": 904.449,
       "end_s": 912.212,
-      "text": "The texts describe specific plants, specific conditions, specific preparations. This wasn't casual or improvised. It was a sophisticated medical system with detailed protocols and centuries of refinement behind it.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.6836270928462709
+      "text": "This wasn't casual or improvised. It was a sophisticated medical system with detailed protocols and centuries of refinement behind it.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.6883173515981735
     },
     {
-      "window_id": "C27Dd23jZzA:j0082",
+      "window_id": "C27Dd23jZzA:j0070",
       "video_id": "C27Dd23jZzA",
-      "idx": 82,
+      "idx": 70,
       "sent_ids": [
-        "C27Dd23jZzA:s0173"
+        "C27Dd23jZzA:s0173",
+        "C27Dd23jZzA:s0174"
       ],
       "start_s": 913.053,
-      "end_s": 927.816,
-      "text": "Across ancient China, ancient Mesopotamia, ancient Greece, ancient India, in virtually every early civilization on record, there is evidence of people inhaling smoke deliberately for therapeutic purposes, as a recognized medical practice.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 929.638,
+      "text": "Across ancient China, ancient Mesopotamia, ancient Greece, ancient India, in virtually every early civilization on record, there is evidence of people inhaling smoke deliberately for therapeutic purposes, as a recognized medical practice. Not because they were addicted.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.6948652968036529
     },
     {
-      "window_id": "C27Dd23jZzA:j0083",
+      "window_id": "C27Dd23jZzA:j0071",
       "video_id": "C27Dd23jZzA",
-      "idx": 83,
+      "idx": 71,
       "sent_ids": [
-        "C27Dd23jZzA:s0174",
         "C27Dd23jZzA:s0175",
         "C27Dd23jZzA:s0176",
         "C27Dd23jZzA:s0177"
       ],
-      "start_s": 928.357,
+      "start_s": 929.939,
       "end_s": 934.724,
-      "text": "Not because they were addicted. Not because they thought it was cool. Because it worked. Or at least, it worked sometimes.",
-      "n_words": 21,
-      "n_sentences": 4,
-      "pos_pct": 0.7065121765601218
+      "text": "Not because they thought it was cool. Because it worked. Or at least, it worked sometimes.",
+      "n_words": 16,
+      "n_sentences": 3,
+      "pos_pct": 0.7077161339421613
     },
     {
-      "window_id": "C27Dd23jZzA:j0084",
+      "window_id": "C27Dd23jZzA:j0072",
       "video_id": "C27Dd23jZzA",
-      "idx": 84,
+      "idx": 72,
       "sent_ids": [
         "C27Dd23jZzA:s0178"
       ],
@@ -1287,9 +1131,9 @@
       "pos_pct": 0.7119368340943684
     },
     {
-      "window_id": "C27Dd23jZzA:j0085",
+      "window_id": "C27Dd23jZzA:j0073",
       "video_id": "C27Dd23jZzA",
-      "idx": 85,
+      "idx": 73,
       "sent_ids": [
         "C27Dd23jZzA:s0179",
         "C27Dd23jZzA:s0180",
@@ -1303,9 +1147,9 @@
       "pos_pct": 0.7232222222222222
     },
     {
-      "window_id": "C27Dd23jZzA:j0086",
+      "window_id": "C27Dd23jZzA:j0074",
       "video_id": "C27Dd23jZzA",
-      "idx": 86,
+      "idx": 74,
       "sent_ids": [
         "C27Dd23jZzA:s0182",
         "C27Dd23jZzA:s0183",
@@ -1319,9 +1163,9 @@
       "pos_pct": 0.731445205479452
     },
     {
-      "window_id": "C27Dd23jZzA:j0087",
+      "window_id": "C27Dd23jZzA:j0075",
       "video_id": "C27Dd23jZzA",
-      "idx": 87,
+      "idx": 75,
       "sent_ids": [
         "C27Dd23jZzA:s0185",
         "C27Dd23jZzA:s0186"
@@ -1334,82 +1178,69 @@
       "pos_pct": 0.7426354642313546
     },
     {
-      "window_id": "C27Dd23jZzA:j0088",
+      "window_id": "C27Dd23jZzA:j0076",
       "video_id": "C27Dd23jZzA",
-      "idx": 88,
+      "idx": 76,
       "sent_ids": [
-        "C27Dd23jZzA:s0187"
+        "C27Dd23jZzA:s0187",
+        "C27Dd23jZzA:s0188"
       ],
       "start_s": 988.473,
-      "end_s": 997.993,
-      "text": "When a group of people undergo a shared altered experience together, it creates a sense of connection, of trust, of mutual understanding that is very hard to replicate any other way.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 1001.045,
+      "text": "When a group of people undergo a shared altered experience together, it creates a sense of connection, of trust, of mutual understanding that is very hard to replicate any other way. Modern neuroscience has confirmed this.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.7522625570776256
     },
     {
-      "window_id": "C27Dd23jZzA:j0089",
+      "window_id": "C27Dd23jZzA:j0077",
       "video_id": "C27Dd23jZzA",
-      "idx": 89,
+      "idx": 77,
       "sent_ids": [
-        "C27Dd23jZzA:s0188",
-        "C27Dd23jZzA:s0189"
-      ],
-      "start_s": 999.364,
-      "end_s": 1009.587,
-      "text": "Modern neuroscience has confirmed this. Shared rituals synchronize neural activity, increase trust, and deepen group identity in measurable, documented ways.",
-      "n_words": 20,
-      "n_sentences": 2,
-      "pos_pct": 0.7605509893455099
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0090",
-      "video_id": "C27Dd23jZzA",
-      "idx": 90,
-      "sent_ids": [
+        "C27Dd23jZzA:s0189",
         "C27Dd23jZzA:s0190"
       ],
-      "start_s": 1010.487,
+      "start_s": 1001.665,
       "end_s": 1022.931,
-      "text": "So when a group of ancient humans sat together in a closed space, breathing in smoke from burning cannabis or other herbs, and collectively entered an altered state, that wasn't just recreational, that was social technology.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.7690159817351598
+      "text": "Shared rituals synchronize neural activity, increase trust, and deepen group identity in measurable, documented ways. So when a group of ancient humans sat together in a closed space, breathing in smoke from burning cannabis or other herbs, and collectively entered an altered state, that wasn't just recreational, that was social technology.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.7623021308980212
     },
     {
-      "window_id": "C27Dd23jZzA:j0091",
+      "window_id": "C27Dd23jZzA:j0078",
       "video_id": "C27Dd23jZzA",
-      "idx": 91,
+      "idx": 78,
       "sent_ids": [
-        "C27Dd23jZzA:s0191"
+        "C27Dd23jZzA:s0191",
+        "C27Dd23jZzA:s0192"
       ],
       "start_s": 1023.531,
-      "end_s": 1029.756,
-      "text": "That was how you built the kind of deep trust and group cohesion that let you go into dangerous situations together and come back alive.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 1034.6,
+      "text": "That was how you built the kind of deep trust and group cohesion that let you go into dangerous situations together and come back alive. The ritual smoke circle wasn't just a party, it was infrastructure.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.7789429223744292
     },
     {
-      "window_id": "C27Dd23jZzA:j0092",
+      "window_id": "C27Dd23jZzA:j0079",
       "video_id": "C27Dd23jZzA",
-      "idx": 92,
+      "idx": 79,
       "sent_ids": [
-        "C27Dd23jZzA:s0192",
         "C27Dd23jZzA:s0193",
         "C27Dd23jZzA:s0194"
       ],
-      "start_s": 1030.557,
+      "start_s": 1035.747,
       "end_s": 1045.773,
-      "text": "The ritual smoke circle wasn't just a party, it was infrastructure. Here's where we arrive at the uncomfortable part of the story. The transition from sacred smoke to casual habit is, historically, an absolute disaster.",
-      "n_words": 35,
-      "n_sentences": 3,
-      "pos_pct": 0.7842899543378996
+      "text": "Here's where we arrive at the uncomfortable part of the story. The transition from sacred smoke to casual habit is, historically, an absolute disaster.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.7882397260273973
     },
     {
-      "window_id": "C27Dd23jZzA:j0093",
+      "window_id": "C27Dd23jZzA:j0080",
       "video_id": "C27Dd23jZzA",
-      "idx": 93,
+      "idx": 80,
       "sent_ids": [
         "C27Dd23jZzA:s0195",
         "C27Dd23jZzA:s0196"
@@ -1422,9 +1253,9 @@
       "pos_pct": 0.7964939117199392
     },
     {
-      "window_id": "C27Dd23jZzA:j0094",
+      "window_id": "C27Dd23jZzA:j0081",
       "video_id": "C27Dd23jZzA",
-      "idx": 94,
+      "idx": 81,
       "sent_ids": [
         "C27Dd23jZzA:s0197",
         "C27Dd23jZzA:s0198",
@@ -1438,37 +1269,24 @@
       "pos_pct": 0.8057541856925419
     },
     {
-      "window_id": "C27Dd23jZzA:j0095",
+      "window_id": "C27Dd23jZzA:j0082",
       "video_id": "C27Dd23jZzA",
-      "idx": 95,
+      "idx": 82,
       "sent_ids": [
-        "C27Dd23jZzA:s0200"
+        "C27Dd23jZzA:s0200",
+        "C27Dd23jZzA:s0201"
       ],
       "start_s": 1075.513,
-      "end_s": 1085.281,
-      "text": "By the early 1900s, the industrially manufactured cigarette had been invented, making tobacco consumption cheaper, more convenient, and more addictive than anything that had come before.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 1099.092,
+      "text": "By the early 1900s, the industrially manufactured cigarette had been invented, making tobacco consumption cheaper, more convenient, and more addictive than anything that had come before. What had taken indigenous Americans thousands of years to incorporate into a measured, ritualistic, deeply cultural practice was, in the hands of European industrialists, turned into a mass-market consumer product within four centuries.",
+      "n_words": 59,
+      "n_sentences": 2,
       "pos_pct": 0.8185030441400304
     },
     {
-      "window_id": "C27Dd23jZzA:j0096",
+      "window_id": "C27Dd23jZzA:j0083",
       "video_id": "C27Dd23jZzA",
-      "idx": 96,
-      "sent_ids": [
-        "C27Dd23jZzA:s0201"
-      ],
-      "start_s": 1086.102,
-      "end_s": 1099.092,
-      "text": "What had taken indigenous Americans thousands of years to incorporate into a measured, ritualistic, deeply cultural practice was, in the hands of European industrialists, turned into a mass-market consumer product within four centuries.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.8265616438356165
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0097",
-      "video_id": "C27Dd23jZzA",
-      "idx": 97,
+      "idx": 83,
       "sent_ids": [
         "C27Dd23jZzA:s0202",
         "C27Dd23jZzA:s0203",
@@ -1482,9 +1300,9 @@
       "pos_pct": 0.8371027397260273
     },
     {
-      "window_id": "C27Dd23jZzA:j0098",
+      "window_id": "C27Dd23jZzA:j0084",
       "video_id": "C27Dd23jZzA",
-      "idx": 98,
+      "idx": 84,
       "sent_ids": [
         "C27Dd23jZzA:s0205",
         "C27Dd23jZzA:s0206"
@@ -1497,52 +1315,39 @@
       "pos_pct": 0.8480372907153728
     },
     {
-      "window_id": "C27Dd23jZzA:j0099",
+      "window_id": "C27Dd23jZzA:j0085",
       "video_id": "C27Dd23jZzA",
-      "idx": 99,
+      "idx": 85,
       "sent_ids": [
-        "C27Dd23jZzA:s0207"
+        "C27Dd23jZzA:s0207",
+        "C27Dd23jZzA:s0208"
       ],
       "start_s": 1125.504,
-      "end_s": 1135.127,
-      "text": "They turned something ancient and ritualistic and communal into a product specifically engineered to be as physically destructive and as financially extractive as possible.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 1139.716,
+      "text": "They turned something ancient and ritualistic and communal into a product specifically engineered to be as physically destructive and as financially extractive as possible. A shaman and a tobacco executive both worked with the same plant.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.8565479452054794
     },
     {
-      "window_id": "C27Dd23jZzA:j0100",
+      "window_id": "C27Dd23jZzA:j0086",
       "video_id": "C27Dd23jZzA",
-      "idx": 100,
+      "idx": 86,
       "sent_ids": [
-        "C27Dd23jZzA:s0208",
-        "C27Dd23jZzA:s0209"
-      ],
-      "start_s": 1136.234,
-      "end_s": 1141.758,
-      "text": "A shaman and a tobacco executive both worked with the same plant. They had almost nothing else in common.",
-      "n_words": 19,
-      "n_sentences": 2,
-      "pos_pct": 0.8647138508371385
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0101",
-      "video_id": "C27Dd23jZzA",
-      "idx": 101,
-      "sent_ids": [
+        "C27Dd23jZzA:s0209",
         "C27Dd23jZzA:s0210"
       ],
-      "start_s": 1142.398,
+      "start_s": 1140.217,
       "end_s": 1157.769,
-      "text": "The gap between a shaman in 500 BC placing cannabis on hot stones in a ritual burial and a tobacco company executive in 1960 signing off on marketing cigarettes to teenagers is one of the larger moral chasms in human history.",
-      "n_words": 41,
-      "n_sentences": 1,
-      "pos_pct": 0.8694048706240486
+      "text": "They had almost nothing else in common. The gap between a shaman in 500 BC placing cannabis on hot stones in a ritual burial and a tobacco company executive in 1960 signing off on marketing cigarettes to teenagers is one of the larger moral chasms in human history.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.8677450532724507
     },
     {
-      "window_id": "C27Dd23jZzA:j0102",
+      "window_id": "C27Dd23jZzA:j0087",
       "video_id": "C27Dd23jZzA",
-      "idx": 102,
+      "idx": 87,
       "sent_ids": [
         "C27Dd23jZzA:s0211",
         "C27Dd23jZzA:s0212",
@@ -1557,37 +1362,24 @@
       "pos_pct": 0.8818188736681888
     },
     {
-      "window_id": "C27Dd23jZzA:j0103",
+      "window_id": "C27Dd23jZzA:j0088",
       "video_id": "C27Dd23jZzA",
-      "idx": 103,
+      "idx": 88,
       "sent_ids": [
-        "C27Dd23jZzA:s0215"
+        "C27Dd23jZzA:s0215",
+        "C27Dd23jZzA:s0216"
       ],
       "start_s": 1173.547,
-      "end_s": 1180.032,
-      "text": "The physical evidence takes us back 12,000 years with some confidence, and possibly much further with reasonable speculation.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 1192.901,
+      "text": "The physical evidence takes us back 12,000 years with some confidence, and possibly much further with reasonable speculation. The behavioral drive that underlies smoking, the desire to alter consciousness, to share ritual experiences, to use inhaled substances as medicine, is almost certainly far older than any artifact we've found.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.8931103500761035
     },
     {
-      "window_id": "C27Dd23jZzA:j0104",
+      "window_id": "C27Dd23jZzA:j0089",
       "video_id": "C27Dd23jZzA",
-      "idx": 104,
-      "sent_ids": [
-        "C27Dd23jZzA:s0216"
-      ],
-      "start_s": 1180.552,
-      "end_s": 1192.901,
-      "text": "The behavioral drive that underlies smoking, the desire to alter consciousness, to share ritual experiences, to use inhaled substances as medicine, is almost certainly far older than any artifact we've found.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.8984414003044139
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0105",
-      "video_id": "C27Dd23jZzA",
-      "idx": 105,
+      "idx": 89,
       "sent_ids": [
         "C27Dd23jZzA:s0217",
         "C27Dd23jZzA:s0218",
@@ -1601,9 +1393,9 @@
       "pos_pct": 0.9085707762557078
     },
     {
-      "window_id": "C27Dd23jZzA:j0106",
+      "window_id": "C27Dd23jZzA:j0090",
       "video_id": "C27Dd23jZzA",
-      "idx": 106,
+      "idx": 90,
       "sent_ids": [
         "C27Dd23jZzA:s0220",
         "C27Dd23jZzA:s0221",
@@ -1618,9 +1410,9 @@
       "pos_pct": 0.9154832572298325
     },
     {
-      "window_id": "C27Dd23jZzA:j0107",
+      "window_id": "C27Dd23jZzA:j0091",
       "video_id": "C27Dd23jZzA",
-      "idx": 107,
+      "idx": 91,
       "sent_ids": [
         "C27Dd23jZzA:s0224",
         "C27Dd23jZzA:s0225",
@@ -1635,54 +1427,41 @@
       "pos_pct": 0.9222998477929986
     },
     {
-      "window_id": "C27Dd23jZzA:j0108",
+      "window_id": "C27Dd23jZzA:j0092",
       "video_id": "C27Dd23jZzA",
-      "idx": 108,
+      "idx": 92,
       "sent_ids": [
-        "C27Dd23jZzA:s0228"
+        "C27Dd23jZzA:s0228",
+        "C27Dd23jZzA:s0229"
       ],
       "start_s": 1224.93,
-      "end_s": 1234.577,
-      "text": "What is absolutely clear is that by the time the historical record begins in every corner of the world where humans lived, they were already finding ways to put smoke into their bodies.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 1236.458,
+      "text": "What is absolutely clear is that by the time the historical record begins in every corner of the world where humans lived, they were already finding ways to put smoke into their bodies. The specific plants changed.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.9322146118721462
     },
     {
-      "window_id": "C27Dd23jZzA:j0109",
+      "window_id": "C27Dd23jZzA:j0093",
       "video_id": "C27Dd23jZzA",
-      "idx": 109,
+      "idx": 93,
       "sent_ids": [
-        "C27Dd23jZzA:s0229",
         "C27Dd23jZzA:s0230",
         "C27Dd23jZzA:s0231",
-        "C27Dd23jZzA:s0232"
-      ],
-      "start_s": 1235.177,
-      "end_s": 1245.145,
-      "text": "The specific plants changed. The rituals changed. The purposes changed. But the behavior, the behavior was already ancient by the time anyone thought to write it down.",
-      "n_words": 27,
-      "n_sentences": 4,
-      "pos_pct": 0.9400129375951293
-    },
-    {
-      "window_id": "C27Dd23jZzA:j0110",
-      "video_id": "C27Dd23jZzA",
-      "idx": 110,
-      "sent_ids": [
+        "C27Dd23jZzA:s0232",
         "C27Dd23jZzA:s0233"
       ],
-      "start_s": 1245.746,
+      "start_s": 1236.998,
       "end_s": 1247.487,
-      "text": "There's something almost poetic about that.",
-      "n_words": 6,
-      "n_sentences": 1,
-      "pos_pct": 0.9480563165905632
+      "text": "The rituals changed. The purposes changed. But the behavior, the behavior was already ancient by the time anyone thought to write it down. There's something almost poetic about that.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.9413987823439879
     },
     {
-      "window_id": "C27Dd23jZzA:j0111",
+      "window_id": "C27Dd23jZzA:j0094",
       "video_id": "C27Dd23jZzA",
-      "idx": 111,
+      "idx": 94,
       "sent_ids": [
         "C27Dd23jZzA:s0234"
       ],
@@ -1694,9 +1473,9 @@
       "pos_pct": 0.9497321156773212
     },
     {
-      "window_id": "C27Dd23jZzA:j0112",
+      "window_id": "C27Dd23jZzA:j0095",
       "video_id": "C27Dd23jZzA",
-      "idx": 112,
+      "idx": 95,
       "sent_ids": [
         "C27Dd23jZzA:s0235",
         "C27Dd23jZzA:s0236"
@@ -1709,9 +1488,9 @@
       "pos_pct": 0.9621933028919329
     },
     {
-      "window_id": "C27Dd23jZzA:j0113",
+      "window_id": "C27Dd23jZzA:j0096",
       "video_id": "C27Dd23jZzA",
-      "idx": 113,
+      "idx": 96,
       "sent_ids": [
         "C27Dd23jZzA:s0237"
       ],
@@ -1723,9 +1502,9 @@
       "pos_pct": 0.9689741248097412
     },
     {
-      "window_id": "C27Dd23jZzA:j0114",
+      "window_id": "C27Dd23jZzA:j0097",
       "video_id": "C27Dd23jZzA",
-      "idx": 114,
+      "idx": 97,
       "sent_ids": [
         "C27Dd23jZzA:s0238"
       ],
@@ -1737,33 +1516,33 @@
       "pos_pct": 0.9724786910197869
     },
     {
-      "window_id": "C27Dd23jZzA:j0115",
+      "window_id": "C27Dd23jZzA:j0098",
       "video_id": "C27Dd23jZzA",
-      "idx": 115,
+      "idx": 98,
       "sent_ids": [
-        "C27Dd23jZzA:s0239"
+        "C27Dd23jZzA:s0239",
+        "C27Dd23jZzA:s0240"
       ],
       "start_s": 1301.607,
-      "end_s": 1309.978,
-      "text": "Either way, next time you flip a light switch or sit around a summer fire or catch a whiff of wood smoke on a cold night, you're participating in something far older than you realize.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 1312.161,
+      "text": "Either way, next time you flip a light switch or sit around a summer fire or catch a whiff of wood smoke on a cold night, you're participating in something far older than you realize. You're doing what humans have always done.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.990568493150685
     },
     {
-      "window_id": "C27Dd23jZzA:j0116",
+      "window_id": "C27Dd23jZzA:j0099",
       "video_id": "C27Dd23jZzA",
-      "idx": 116,
+      "idx": 99,
       "sent_ids": [
-        "C27Dd23jZzA:s0240",
         "C27Dd23jZzA:s0241"
       ],
-      "start_s": 1310.659,
+      "start_s": 1312.642,
       "end_s": 1313.322,
-      "text": "You're doing what humans have always done. You're breathing.",
-      "n_words": 9,
-      "n_sentences": 2,
-      "pos_pct": 0.9974573820395739
+      "text": "You're breathing.",
+      "n_words": 2,
+      "n_sentences": 1,
+      "pos_pct": 0.9989665144596652
     }
   ]
 }

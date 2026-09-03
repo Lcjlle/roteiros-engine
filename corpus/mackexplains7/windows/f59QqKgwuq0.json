@@ -1,6 +1,6 @@
 {
   "video_id": "f59QqKgwuq0",
-  "generated_at": "2026-09-03T11:59:53.019127+00:00",
+  "generated_at": "2026-09-03T13:18:13.133115+00:00",
   "windows": [
     {
       "window_id": "f59QqKgwuq0:j0000",
@@ -51,33 +51,20 @@
       "video_id": "f59QqKgwuq0",
       "idx": 3,
       "sent_ids": [
-        "f59QqKgwuq0:s0005"
+        "f59QqKgwuq0:s0005",
+        "f59QqKgwuq0:s0006"
       ],
       "start_s": 32.615,
-      "end_s": 35.857,
-      "text": "Understanding that is the first genuinely necessary step.",
-      "n_words": 8,
-      "n_sentences": 1,
+      "end_s": 57.07,
+      "text": "Understanding that is the first genuinely necessary step. The actual picture, pieced together from archaeology, oral tradition, primary sources produced within these communities, and rapidly advancing modern research, is considerably richer, longer, more tragic, more triumphant, and more worth knowing than the version that typically ends up in a single school unit between Thanksgiving and winter break.",
+      "n_words": 57,
+      "n_sentences": 2,
       "pos_pct": 0.02314762242725337
     },
     {
       "window_id": "f59QqKgwuq0:j0004",
       "video_id": "f59QqKgwuq0",
       "idx": 4,
-      "sent_ids": [
-        "f59QqKgwuq0:s0006"
-      ],
-      "start_s": 36.377,
-      "end_s": 57.07,
-      "text": "The actual picture, pieced together from archaeology, oral tradition, primary sources produced within these communities, and rapidly advancing modern research, is considerably richer, longer, more tragic, more triumphant, and more worth knowing than the version that typically ends up in a single school unit between Thanksgiving and winter break.",
-      "n_words": 49,
-      "n_sentences": 1,
-      "pos_pct": 0.025817601135557134
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0005",
-      "video_id": "f59QqKgwuq0",
-      "idx": 5,
       "sent_ids": [
         "f59QqKgwuq0:s0007",
         "f59QqKgwuq0:s0008"
@@ -90,69 +77,56 @@
       "pos_pct": 0.04107026259758694
     },
     {
+      "window_id": "f59QqKgwuq0:j0005",
+      "video_id": "f59QqKgwuq0",
+      "idx": 5,
+      "sent_ids": [
+        "f59QqKgwuq0:s0009",
+        "f59QqKgwuq0:s0010"
+      ],
+      "start_s": 66.791,
+      "end_s": 83.076,
+      "text": "Every human being alive today, regardless of physical appearance or geographic location, traces their ancestry back to Africa. This matters enormously for understanding what comes next, because it means Black history isn't a chapter inserted into a broader human story.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.047403122782114976
+    },
+    {
       "window_id": "f59QqKgwuq0:j0006",
       "video_id": "f59QqKgwuq0",
       "idx": 6,
       "sent_ids": [
-        "f59QqKgwuq0:s0009"
+        "f59QqKgwuq0:s0011",
+        "f59QqKgwuq0:s0012",
+        "f59QqKgwuq0:s0013"
       ],
-      "start_s": 66.791,
-      "end_s": 74.694,
-      "text": "Every human being alive today, regardless of physical appearance or geographic location, traces their ancestry back to Africa.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.047403122782114976
+      "start_s": 83.677,
+      "end_s": 95.168,
+      "text": "It's the opening. Every civilization that followed anywhere on Earth is descended, in some fundamental sense, from populations that originated on this continent. That's not inspirational framing.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.0593875088715401
     },
     {
       "window_id": "f59QqKgwuq0:j0007",
       "video_id": "f59QqKgwuq0",
       "idx": 7,
       "sent_ids": [
-        "f59QqKgwuq0:s0010",
-        "f59QqKgwuq0:s0011"
+        "f59QqKgwuq0:s0014",
+        "f59QqKgwuq0:s0015",
+        "f59QqKgwuq0:s0016"
       ],
-      "start_s": 75.274,
-      "end_s": 84.377,
-      "text": "This matters enormously for understanding what comes next, because it means Black history isn't a chapter inserted into a broader human story. It's the opening.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.0534237047551455
+      "start_s": 95.649,
+      "end_s": 128.472,
+      "text": "That's the current scientific consensus, supported by genetics, paleoanthropology, and archaeology. For most of the past 100,000 years, African societies existed across an almost incomprehensible range of forms. Hunter-gatherer communities like the Sand",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.06788431511710433
     },
     {
       "window_id": "f59QqKgwuq0:j0008",
       "video_id": "f59QqKgwuq0",
       "idx": 8,
-      "sent_ids": [
-        "f59QqKgwuq0:s0012",
-        "f59QqKgwuq0:s0013",
-        "f59QqKgwuq0:s0014"
-      ],
-      "start_s": 84.957,
-      "end_s": 102.376,
-      "text": "Every civilization that followed anywhere on Earth is descended, in some fundamental sense, from populations that originated on this continent. That's not inspirational framing. That's the current scientific consensus, supported by genetics, paleoanthropology, and archaeology.",
-      "n_words": 35,
-      "n_sentences": 3,
-      "pos_pct": 0.06029595457771469
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0009",
-      "video_id": "f59QqKgwuq0",
-      "idx": 9,
-      "sent_ids": [
-        "f59QqKgwuq0:s0015",
-        "f59QqKgwuq0:s0016"
-      ],
-      "start_s": 103.277,
-      "end_s": 128.472,
-      "text": "For most of the past 100,000 years, African societies existed across an almost incomprehensible range of forms. Hunter-gatherer communities like the Sand",
-      "n_words": 22,
-      "n_sentences": 2,
-      "pos_pct": 0.07329808374733854
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0010",
-      "video_id": "f59QqKgwuq0",
-      "idx": 10,
       "sent_ids": [
         "f59QqKgwuq0:s0017"
       ],
@@ -164,93 +138,54 @@
       "pos_pct": 0.07889425124201561
     },
     {
+      "window_id": "f59QqKgwuq0:j0009",
+      "video_id": "f59QqKgwuq0",
+      "idx": 9,
+      "sent_ids": [
+        "f59QqKgwuq0:s0018",
+        "f59QqKgwuq0:s0019"
+      ],
+      "start_s": 129.453,
+      "end_s": 148.286,
+      "text": "Agricultural communities across the Sahel and Great Lakes regions developed complex systems of land management, crop cultivation, and animal husbandry long before external contact. And from roughly 3,000 years ago onward, a succession of large, powerful, sophisticated states emerged across the continent.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.09187579843860895
+    },
+    {
+      "window_id": "f59QqKgwuq0:j0010",
+      "video_id": "f59QqKgwuq0",
+      "idx": 10,
+      "sent_ids": [
+        "f59QqKgwuq0:s0020",
+        "f59QqKgwuq0:s0021"
+      ],
+      "start_s": 148.886,
+      "end_s": 167.871,
+      "text": "States whose scale and accomplishment genuinely surprised European visitors when contact eventually happened, and which still get systematically underrepresented in world history curricula. Let's talk about the empires specifically, because this is where the record is clearest and the gap between what happened and what gets taught is most striking.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.10566784953867991
+    },
+    {
       "window_id": "f59QqKgwuq0:j0011",
       "video_id": "f59QqKgwuq0",
       "idx": 11,
       "sent_ids": [
-        "f59QqKgwuq0:s0018"
+        "f59QqKgwuq0:s0022",
+        "f59QqKgwuq0:s0023"
       ],
-      "start_s": 129.453,
-      "end_s": 140.18,
-      "text": "Agricultural communities across the Sahel and Great Lakes regions developed complex systems of land management, crop cultivation, and animal husbandry long before external contact.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.09187579843860895
+      "start_s": 168.631,
+      "end_s": 188.612,
+      "text": "The Kingdom of Kush, centered in what's now Sudan, grew powerful enough to conquer Egypt, giving the ancient world a dynasty of pharaohs of Nubian origin whose monuments still stand. The Aksumite Kingdom in present-day Ethiopia became one of the four great powers of the ancient world, alongside Rome, Persia, and China.",
+      "n_words": 52,
+      "n_sentences": 2,
+      "pos_pct": 0.11968133427963094
     },
     {
       "window_id": "f59QqKgwuq0:j0012",
       "video_id": "f59QqKgwuq0",
       "idx": 12,
-      "sent_ids": [
-        "f59QqKgwuq0:s0019"
-      ],
-      "start_s": 141.001,
-      "end_s": 148.286,
-      "text": "And from roughly 3,000 years ago onward, a succession of large, powerful, sophisticated states emerged across the continent.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.10007168204400284
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0013",
-      "video_id": "f59QqKgwuq0",
-      "idx": 13,
-      "sent_ids": [
-        "f59QqKgwuq0:s0020"
-      ],
-      "start_s": 148.886,
-      "end_s": 159.349,
-      "text": "States whose scale and accomplishment genuinely surprised European visitors when contact eventually happened, and which still get systematically underrepresented in world history curricula.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.10566784953867991
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0014",
-      "video_id": "f59QqKgwuq0",
-      "idx": 14,
-      "sent_ids": [
-        "f59QqKgwuq0:s0021"
-      ],
-      "start_s": 160.129,
-      "end_s": 167.871,
-      "text": "Let's talk about the empires specifically, because this is where the record is clearest and the gap between what happened and what gets taught is most striking.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.11364726756564938
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0015",
-      "video_id": "f59QqKgwuq0",
-      "idx": 15,
-      "sent_ids": [
-        "f59QqKgwuq0:s0022"
-      ],
-      "start_s": 168.631,
-      "end_s": 179.683,
-      "text": "The Kingdom of Kush, centered in what's now Sudan, grew powerful enough to conquer Egypt, giving the ancient world a dynasty of pharaohs of Nubian origin whose monuments still stand.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.11968133427963094
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0016",
-      "video_id": "f59QqKgwuq0",
-      "idx": 16,
-      "sent_ids": [
-        "f59QqKgwuq0:s0023"
-      ],
-      "start_s": 180.523,
-      "end_s": 188.612,
-      "text": "The Aksumite Kingdom in present-day Ethiopia became one of the four great powers of the ancient world, alongside Rome, Persia, and China.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.12812136266855925
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0017",
-      "video_id": "f59QqKgwuq0",
-      "idx": 17,
       "sent_ids": [
         "f59QqKgwuq0:s0024"
       ],
@@ -262,9 +197,9 @@
       "pos_pct": 0.1342029808374734
     },
     {
-      "window_id": "f59QqKgwuq0:j0018",
+      "window_id": "f59QqKgwuq0:j0013",
       "video_id": "f59QqKgwuq0",
-      "idx": 18,
+      "idx": 13,
       "sent_ids": [
         "f59QqKgwuq0:s0025"
       ],
@@ -276,37 +211,24 @@
       "pos_pct": 0.14443222143364087
     },
     {
-      "window_id": "f59QqKgwuq0:j0019",
+      "window_id": "f59QqKgwuq0:j0014",
       "video_id": "f59QqKgwuq0",
-      "idx": 19,
+      "idx": 14,
       "sent_ids": [
-        "f59QqKgwuq0:s0026"
+        "f59QqKgwuq0:s0026",
+        "f59QqKgwuq0:s0027"
       ],
       "start_s": 220.779,
-      "end_s": 224.562,
-      "text": "The medieval West African empires deserve particular attention.",
-      "n_words": 8,
-      "n_sentences": 1,
+      "end_s": 241.576,
+      "text": "The medieval West African empires deserve particular attention. The Ghana Empire, the Mali Empire, and the Songhai Empire, in succession across roughly a thousand years, controlled the flow of gold and salt across the Sahara, generating wealth that made their rulers among the most powerful political figures in the known world.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.15669198012775018
     },
     {
-      "window_id": "f59QqKgwuq0:j0020",
+      "window_id": "f59QqKgwuq0:j0015",
       "video_id": "f59QqKgwuq0",
-      "idx": 20,
-      "sent_ids": [
-        "f59QqKgwuq0:s0027"
-      ],
-      "start_s": 225.163,
-      "end_s": 241.576,
-      "text": "The Ghana Empire, the Mali Empire, and the Songhai Empire, in succession across roughly a thousand years, controlled the flow of gold and salt across the Sahara, generating wealth that made their rulers among the most powerful political figures in the known world.",
-      "n_words": 43,
-      "n_sentences": 1,
-      "pos_pct": 0.15980340667139817
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0021",
-      "video_id": "f59QqKgwuq0",
-      "idx": 21,
+      "idx": 15,
       "sent_ids": [
         "f59QqKgwuq0:s0028"
       ],
@@ -318,9 +240,9 @@
       "pos_pct": 0.1722973740241306
     },
     {
-      "window_id": "f59QqKgwuq0:j0022",
+      "window_id": "f59QqKgwuq0:j0016",
       "video_id": "f59QqKgwuq0",
-      "idx": 22,
+      "idx": 16,
       "sent_ids": [
         "f59QqKgwuq0:s0029"
       ],
@@ -332,9 +254,9 @@
       "pos_pct": 0.1847444996451384
     },
     {
-      "window_id": "f59QqKgwuq0:j0023",
+      "window_id": "f59QqKgwuq0:j0017",
       "video_id": "f59QqKgwuq0",
-      "idx": 23,
+      "idx": 17,
       "sent_ids": [
         "f59QqKgwuq0:s0030",
         "f59QqKgwuq0:s0031"
@@ -347,136 +269,84 @@
       "pos_pct": 0.19649254790631654
     },
     {
-      "window_id": "f59QqKgwuq0:j0024",
+      "window_id": "f59QqKgwuq0:j0018",
       "video_id": "f59QqKgwuq0",
-      "idx": 24,
+      "idx": 18,
       "sent_ids": [
-        "f59QqKgwuq0:s0032"
+        "f59QqKgwuq0:s0032",
+        "f59QqKgwuq0:s0033"
       ],
       "start_s": 284.721,
-      "end_s": 292.924,
-      "text": "When the transatlantic slave trade began in earnest in the 15th century, the populations it targeted weren't culturally or politically primitive.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 304.758,
+      "text": "When the transatlantic slave trade began in earnest in the 15th century, the populations it targeted weren't culturally or politically primitive. They were members of sophisticated societies with their own histories, governance systems, religious traditions, artistic practices, and intellectual achievements.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.20207310149041874
     },
     {
-      "window_id": "f59QqKgwuq0:j0025",
+      "window_id": "f59QqKgwuq0:j0019",
       "video_id": "f59QqKgwuq0",
-      "idx": 25,
+      "idx": 19,
       "sent_ids": [
-        "f59QqKgwuq0:s0033"
-      ],
-      "start_s": 293.831,
-      "end_s": 304.758,
-      "text": "They were members of sophisticated societies with their own histories, governance systems, religious traditions, artistic practices, and intellectual achievements.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.2085386799148332
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0026",
-      "video_id": "f59QqKgwuq0",
-      "idx": 26,
-      "sent_ids": [
-        "f59QqKgwuq0:s0034"
+        "f59QqKgwuq0:s0034",
+        "f59QqKgwuq0:s0035"
       ],
       "start_s": 305.419,
-      "end_s": 311.703,
-      "text": "The violence of the slave trade was not a rescue operation or the beginning of civilization for the people it affected.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 320.244,
+      "text": "The violence of the slave trade was not a rescue operation or the beginning of civilization for the people it affected. It was the systematic destruction, at an almost incomprehensible scale, of civilizations that had been developing for thousands of years.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.21676295244854504
     },
     {
-      "window_id": "f59QqKgwuq0:j0027",
+      "window_id": "f59QqKgwuq0:j0020",
       "video_id": "f59QqKgwuq0",
-      "idx": 27,
+      "idx": 20,
       "sent_ids": [
-        "f59QqKgwuq0:s0035",
-        "f59QqKgwuq0:s0036"
-      ],
-      "start_s": 312.443,
-      "end_s": 325.325,
-      "text": "It was the systematic destruction, at an almost incomprehensible scale, of civilizations that had been developing for thousands of years. The numbers involved in the transatlantic trade are genuinely hard to absorb.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.22174804826117814
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0028",
-      "video_id": "f59QqKgwuq0",
-      "idx": 28,
-      "sent_ids": [
+        "f59QqKgwuq0:s0036",
         "f59QqKgwuq0:s0037"
       ],
-      "start_s": 326.085,
+      "start_s": 321.064,
       "end_s": 331.486,
-      "text": "Somewhere between 10 and 12 million Africans survived the ocean crossing to arrive in the Americas.",
-      "n_words": 16,
-      "n_sentences": 1,
-      "pos_pct": 0.231430092264017
+      "text": "The numbers involved in the transatlantic trade are genuinely hard to absorb. Somewhere between 10 and 12 million Africans survived the ocean crossing to arrive in the Americas.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.22786657203690563
     },
     {
-      "window_id": "f59QqKgwuq0:j0029",
+      "window_id": "f59QqKgwuq0:j0021",
       "video_id": "f59QqKgwuq0",
-      "idx": 29,
+      "idx": 21,
       "sent_ids": [
-        "f59QqKgwuq0:s0038"
+        "f59QqKgwuq0:s0038",
+        "f59QqKgwuq0:s0039"
       ],
       "start_s": 332.386,
-      "end_s": 341.448,
-      "text": "An unknown but substantial additional number died during capture, during the march to coastal trading ports, or aboard the ships themselves during the Middle Passage.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 353.455,
+      "text": "An unknown but substantial additional number died during capture, during the march to coastal trading ports, or aboard the ships themselves during the Middle Passage. This forced migration, spanning roughly 400 years from the late 1400s to the mid-1800s, represented the largest forced movement of human beings in history up to that point.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.23590205819730306
     },
     {
-      "window_id": "f59QqKgwuq0:j0030",
+      "window_id": "f59QqKgwuq0:j0022",
       "video_id": "f59QqKgwuq0",
-      "idx": 30,
+      "idx": 22,
       "sent_ids": [
-        "f59QqKgwuq0:s0039"
-      ],
-      "start_s": 342.468,
-      "end_s": 353.455,
-      "text": "This forced migration, spanning roughly 400 years from the late 1400s to the mid-1800s, represented the largest forced movement of human beings in history up to that point.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.24305748757984388
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0031",
-      "video_id": "f59QqKgwuq0",
-      "idx": 31,
-      "sent_ids": [
-        "f59QqKgwuq0:s0040"
+        "f59QqKgwuq0:s0040",
+        "f59QqKgwuq0:s0041"
       ],
       "start_s": 354.834,
-      "end_s": 363.983,
-      "text": "The communities, families, languages, and social structures it severed on the African side created gaps that reshaped the demography of entire regions.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 372.852,
+      "text": "The communities, families, languages, and social structures it severed on the African side created gaps that reshaped the demography of entire regions. The labor extracted from enslaved people in the Americas generated the agricultural surplus that fueled the industrial development of Europe and North America.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.25183392476933997
     },
     {
-      "window_id": "f59QqKgwuq0:j0032",
+      "window_id": "f59QqKgwuq0:j0023",
       "video_id": "f59QqKgwuq0",
-      "idx": 32,
-      "sent_ids": [
-        "f59QqKgwuq0:s0041"
-      ],
-      "start_s": 364.884,
-      "end_s": 372.852,
-      "text": "The labor extracted from enslaved people in the Americas generated the agricultural surplus that fueled the industrial development of Europe and North America.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.2589666430092264
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0033",
-      "video_id": "f59QqKgwuq0",
-      "idx": 33,
+      "idx": 23,
       "sent_ids": [
         "f59QqKgwuq0:s0042",
         "f59QqKgwuq0:s0043"
@@ -489,9 +359,9 @@
       "pos_pct": 0.26536550745209364
     },
     {
-      "window_id": "f59QqKgwuq0:j0034",
+      "window_id": "f59QqKgwuq0:j0024",
       "video_id": "f59QqKgwuq0",
-      "idx": 34,
+      "idx": 24,
       "sent_ids": [
         "f59QqKgwuq0:s0044"
       ],
@@ -503,9 +373,9 @@
       "pos_pct": 0.2748126330731015
     },
     {
-      "window_id": "f59QqKgwuq0:j0035",
+      "window_id": "f59QqKgwuq0:j0025",
       "video_id": "f59QqKgwuq0",
-      "idx": 35,
+      "idx": 25,
       "sent_ids": [
         "f59QqKgwuq0:s0045"
       ],
@@ -517,9 +387,9 @@
       "pos_pct": 0.28354932576295244
     },
     {
-      "window_id": "f59QqKgwuq0:j0036",
+      "window_id": "f59QqKgwuq0:j0026",
       "video_id": "f59QqKgwuq0",
-      "idx": 36,
+      "idx": 26,
       "sent_ids": [
         "f59QqKgwuq0:s0046"
       ],
@@ -531,9 +401,9 @@
       "pos_pct": 0.29641873669268987
     },
     {
-      "window_id": "f59QqKgwuq0:j0037",
+      "window_id": "f59QqKgwuq0:j0027",
       "video_id": "f59QqKgwuq0",
-      "idx": 37,
+      "idx": 27,
       "sent_ids": [
         "f59QqKgwuq0:s0047",
         "f59QqKgwuq0:s0048"
@@ -546,65 +416,39 @@
       "pos_pct": 0.32556635911994325
     },
     {
-      "window_id": "f59QqKgwuq0:j0038",
+      "window_id": "f59QqKgwuq0:j0028",
       "video_id": "f59QqKgwuq0",
-      "idx": 38,
+      "idx": 28,
       "sent_ids": [
-        "f59QqKgwuq0:s0049"
+        "f59QqKgwuq0:s0049",
+        "f59QqKgwuq0:s0050"
       ],
       "start_s": 473.745,
-      "end_s": 481.36,
-      "text": "Larger organized rebellions, including the Haitian Revolution of the 1790s, shook slave-owning societies to their foundations.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 488.759,
+      "text": "Larger organized rebellions, including the Haitian Revolution of the 1790s, shook slave-owning societies to their foundations. The Haitian Revolution deserves a moment on its own because it remains one of the most extraordinary political events in modern history.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.3362278211497516
     },
     {
-      "window_id": "f59QqKgwuq0:j0039",
+      "window_id": "f59QqKgwuq0:j0029",
       "video_id": "f59QqKgwuq0",
-      "idx": 39,
+      "idx": 29,
       "sent_ids": [
-        "f59QqKgwuq0:s0050"
-      ],
-      "start_s": 482.257,
-      "end_s": 488.759,
-      "text": "The Haitian Revolution deserves a moment on its own because it remains one of the most extraordinary political events in modern history.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.34226898509581266
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0040",
-      "video_id": "f59QqKgwuq0",
-      "idx": 40,
-      "sent_ids": [
-        "f59QqKgwuq0:s0051"
+        "f59QqKgwuq0:s0051",
+        "f59QqKgwuq0:s0052"
       ],
       "start_s": 489.499,
-      "end_s": 500.862,
-      "text": "A colony of enslaved people overthrew one of the most powerful military forces in the world, the army of Napoleon Bonaparte, and established the first free black republic in the Western Hemisphere in 1804.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 509.025,
+      "text": "A colony of enslaved people overthrew one of the most powerful military forces in the world, the army of Napoleon Bonaparte, and established the first free black republic in the Western Hemisphere in 1804. The response from slave-holding nations, including the United States, was decades of economic isolation and non-recognition.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.34740880056777856
     },
     {
-      "window_id": "f59QqKgwuq0:j0041",
+      "window_id": "f59QqKgwuq0:j0030",
       "video_id": "f59QqKgwuq0",
-      "idx": 41,
-      "sent_ids": [
-        "f59QqKgwuq0:s0052"
-      ],
-      "start_s": 501.843,
-      "end_s": 509.025,
-      "text": "The response from slave-holding nations, including the United States, was decades of economic isolation and non-recognition.",
-      "n_words": 16,
-      "n_sentences": 1,
-      "pos_pct": 0.3561696238466998
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0042",
-      "video_id": "f59QqKgwuq0",
-      "idx": 42,
+      "idx": 30,
       "sent_ids": [
         "f59QqKgwuq0:s0053"
       ],
@@ -616,9 +460,9 @@
       "pos_pct": 0.36199645138396025
     },
     {
-      "window_id": "f59QqKgwuq0:j0043",
+      "window_id": "f59QqKgwuq0:j0031",
       "video_id": "f59QqKgwuq0",
-      "idx": 43,
+      "idx": 31,
       "sent_ids": [
         "f59QqKgwuq0:s0054"
       ],
@@ -630,9 +474,9 @@
       "pos_pct": 0.37402129169623843
     },
     {
-      "window_id": "f59QqKgwuq0:j0044",
+      "window_id": "f59QqKgwuq0:j0032",
       "video_id": "f59QqKgwuq0",
-      "idx": 44,
+      "idx": 32,
       "sent_ids": [
         "f59QqKgwuq0:s0055"
       ],
@@ -644,9 +488,9 @@
       "pos_pct": 0.3852349183818311
     },
     {
-      "window_id": "f59QqKgwuq0:j0045",
+      "window_id": "f59QqKgwuq0:j0033",
       "video_id": "f59QqKgwuq0",
-      "idx": 45,
+      "idx": 33,
       "sent_ids": [
         "f59QqKgwuq0:s0056"
       ],
@@ -658,65 +502,39 @@
       "pos_pct": 0.39713697657913416
     },
     {
-      "window_id": "f59QqKgwuq0:j0046",
+      "window_id": "f59QqKgwuq0:j0034",
       "video_id": "f59QqKgwuq0",
-      "idx": 46,
+      "idx": 34,
       "sent_ids": [
-        "f59QqKgwuq0:s0057"
+        "f59QqKgwuq0:s0057",
+        "f59QqKgwuq0:s0058"
       ],
       "start_s": 583.372,
-      "end_s": 592.537,
-      "text": "The Jim Crow era that followed is often understood primarily through its legal and political dimensions, but its social and cultural dimensions are equally significant.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 601.002,
+      "text": "The Jim Crow era that followed is often understood primarily through its legal and political dimensions, but its social and cultural dimensions are equally significant. Black Americans in the late 19th and early 20th centuries built extraordinary institutions under conditions specifically designed to prevent it.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.4140326472675656
     },
     {
-      "window_id": "f59QqKgwuq0:j0047",
+      "window_id": "f59QqKgwuq0:j0035",
       "video_id": "f59QqKgwuq0",
-      "idx": 47,
+      "idx": 35,
       "sent_ids": [
-        "f59QqKgwuq0:s0058"
-      ],
-      "start_s": 593.217,
-      "end_s": 601.002,
-      "text": "Black Americans in the late 19th and early 20th centuries built extraordinary institutions under conditions specifically designed to prevent it.",
-      "n_words": 20,
-      "n_sentences": 1,
-      "pos_pct": 0.42101987224982257
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0048",
-      "video_id": "f59QqKgwuq0",
-      "idx": 48,
-      "sent_ids": [
-        "f59QqKgwuq0:s0059"
+        "f59QqKgwuq0:s0059",
+        "f59QqKgwuq0:s0060"
       ],
       "start_s": 601.742,
-      "end_s": 614.592,
-      "text": "Historically, Black colleges and universities educated generations of doctors, lawyers, teachers, scientists, and engineers when virtually every majority-white institution was legally or practically closed to them.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 620.536,
+      "text": "Historically, Black colleges and universities educated generations of doctors, lawyers, teachers, scientists, and engineers when virtually every majority-white institution was legally or practically closed to them. Black-owned newspapers like the Chicago Defender circulated nationally and shaped political opinion.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.4270702625975869
     },
     {
-      "window_id": "f59QqKgwuq0:j0049",
+      "window_id": "f59QqKgwuq0:j0036",
       "video_id": "f59QqKgwuq0",
-      "idx": 49,
-      "sent_ids": [
-        "f59QqKgwuq0:s0060"
-      ],
-      "start_s": 615.413,
-      "end_s": 620.536,
-      "text": "Black-owned newspapers like the Chicago Defender circulated nationally and shaped political opinion.",
-      "n_words": 12,
-      "n_sentences": 1,
-      "pos_pct": 0.43677288857345636
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0050",
-      "video_id": "f59QqKgwuq0",
-      "idx": 50,
+      "idx": 36,
       "sent_ids": [
         "f59QqKgwuq0:s0061"
       ],
@@ -728,9 +546,9 @@
       "pos_pct": 0.4409488999290277
     },
     {
-      "window_id": "f59QqKgwuq0:j0051",
+      "window_id": "f59QqKgwuq0:j0037",
       "video_id": "f59QqKgwuq0",
-      "idx": 51,
+      "idx": 37,
       "sent_ids": [
         "f59QqKgwuq0:s0062"
       ],
@@ -742,9 +560,9 @@
       "pos_pct": 0.45612562100780696
     },
     {
-      "window_id": "f59QqKgwuq0:j0052",
+      "window_id": "f59QqKgwuq0:j0038",
       "video_id": "f59QqKgwuq0",
-      "idx": 52,
+      "idx": 38,
       "sent_ids": [
         "f59QqKgwuq0:s0063"
       ],
@@ -756,108 +574,69 @@
       "pos_pct": 0.4623101490418737
     },
     {
-      "window_id": "f59QqKgwuq0:j0053",
+      "window_id": "f59QqKgwuq0:j0039",
       "video_id": "f59QqKgwuq0",
-      "idx": 53,
+      "idx": 39,
       "sent_ids": [
-        "f59QqKgwuq0:s0064"
+        "f59QqKgwuq0:s0064",
+        "f59QqKgwuq0:s0065"
       ],
       "start_s": 668.209,
-      "end_s": 680.579,
-      "text": "Ida B. Wells in the 1890s was conducting and publishing investigative journalism on lynching that combined meticulous factual documentation with moral clarity and political courage under genuine personal physical threat.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 691.704,
+      "text": "Ida B. Wells in the 1890s was conducting and publishing investigative journalism on lynching that combined meticulous factual documentation with moral clarity and political courage under genuine personal physical threat. W.E.B. Du Bois' concept of double consciousness, developed at the turn of the 20th century, remains one of the most durable and generative frameworks in American social thought.",
+      "n_words": 58,
+      "n_sentences": 2,
       "pos_pct": 0.47424343506032646
     },
     {
-      "window_id": "f59QqKgwuq0:j0054",
+      "window_id": "f59QqKgwuq0:j0040",
       "video_id": "f59QqKgwuq0",
-      "idx": 54,
+      "idx": 40,
       "sent_ids": [
-        "f59QqKgwuq0:s0065",
-        "f59QqKgwuq0:s0066"
-      ],
-      "start_s": 682.175,
-      "end_s": 694.146,
-      "text": "W.E.B. Du Bois' concept of double consciousness, developed at the turn of the 20th century, remains one of the most durable and generative frameworks in American social thought. These weren't minor figures.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.4841554293825408
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0055",
-      "video_id": "f59QqKgwuq0",
-      "idx": 55,
-      "sent_ids": [
+        "f59QqKgwuq0:s0066",
         "f59QqKgwuq0:s0067"
       ],
-      "start_s": 694.726,
+      "start_s": 692.745,
       "end_s": 707.478,
-      "text": "They were among the sharpest political and social minds of their respective eras, writing from within an experience that gave them particular insight into the actual operations of power, law, and social structure in American democracy.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.4930631653655074
+      "text": "These weren't minor figures. They were among the sharpest political and social minds of their respective eras, writing from within an experience that gave them particular insight into the actual operations of power, law, and social structure in American democracy.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.4916572036905607
     },
     {
-      "window_id": "f59QqKgwuq0:j0056",
+      "window_id": "f59QqKgwuq0:j0041",
       "video_id": "f59QqKgwuq0",
-      "idx": 56,
+      "idx": 41,
       "sent_ids": [
-        "f59QqKgwuq0:s0068"
+        "f59QqKgwuq0:s0068",
+        "f59QqKgwuq0:s0069"
       ],
       "start_s": 708.652,
-      "end_s": 715.435,
-      "text": "The 20th century brought enormous transformations across both the African diaspora and the African continent itself.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 728.101,
+      "text": "The 20th century brought enormous transformations across both the African diaspora and the African continent itself. In the United States, the civil rights movement of the 1950s and 1960s is frequently presented as a period of appeals to American conscience that succeeded because the country recognized its error.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.5029467707594039
     },
     {
-      "window_id": "f59QqKgwuq0:j0057",
+      "window_id": "f59QqKgwuq0:j0042",
       "video_id": "f59QqKgwuq0",
-      "idx": 57,
+      "idx": 42,
       "sent_ids": [
-        "f59QqKgwuq0:s0069"
-      ],
-      "start_s": 716.375,
-      "end_s": 728.101,
-      "text": "In the United States, the civil rights movement of the 1950s and 1960s is frequently presented as a period of appeals to American conscience that succeeded because the country recognized its error.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.5084279630943932
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0058",
-      "video_id": "f59QqKgwuq0",
-      "idx": 58,
-      "sent_ids": [
-        "f59QqKgwuq0:s0070"
+        "f59QqKgwuq0:s0070",
+        "f59QqKgwuq0:s0071"
       ],
       "start_s": 728.801,
-      "end_s": 732.843,
-      "text": "The reality is considerably more complicated and considerably more instructive.",
-      "n_words": 10,
-      "n_sentences": 1,
+      "end_s": 747.019,
+      "text": "The reality is considerably more complicated and considerably more instructive. The movement was strategically sophisticated, organizationally disciplined, and sustained over years by thousands of ordinary people who absorbed violence, economic retaliation, and personal risk in order to participate.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.5172469836763662
     },
     {
-      "window_id": "f59QqKgwuq0:j0059",
+      "window_id": "f59QqKgwuq0:j0043",
       "video_id": "f59QqKgwuq0",
-      "idx": 59,
-      "sent_ids": [
-        "f59QqKgwuq0:s0071"
-      ],
-      "start_s": 733.583,
-      "end_s": 747.019,
-      "text": "The movement was strategically sophisticated, organizationally disciplined, and sustained over years by thousands of ordinary people who absorbed violence, economic retaliation, and personal risk in order to participate.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.5206408800567779
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0060",
-      "video_id": "f59QqKgwuq0",
-      "idx": 60,
+      "idx": 43,
       "sent_ids": [
         "f59QqKgwuq0:s0072"
       ],
@@ -869,37 +648,24 @@
       "pos_pct": 0.5311781405251952
     },
     {
-      "window_id": "f59QqKgwuq0:j0061",
+      "window_id": "f59QqKgwuq0:j0044",
       "video_id": "f59QqKgwuq0",
-      "idx": 61,
+      "idx": 44,
       "sent_ids": [
-        "f59QqKgwuq0:s0073"
+        "f59QqKgwuq0:s0073",
+        "f59QqKgwuq0:s0074"
       ],
       "start_s": 770.134,
-      "end_s": 776.555,
-      "text": "Simultaneously across Africa, decolonization was transforming the political map of the entire continent.",
-      "n_words": 13,
-      "n_sentences": 1,
+      "end_s": 793.365,
+      "text": "Simultaneously across Africa, decolonization was transforming the political map of the entire continent. A handful of independent African states in 1945 became dozens by 1970, as European empires weakened by war and increasingly delegitimized by the new international language of self-determination released, usually reluctantly, their colonial territories.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.5465819730305181
     },
     {
-      "window_id": "f59QqKgwuq0:j0062",
+      "window_id": "f59QqKgwuq0:j0045",
       "video_id": "f59QqKgwuq0",
-      "idx": 62,
-      "sent_ids": [
-        "f59QqKgwuq0:s0074"
-      ],
-      "start_s": 777.335,
-      "end_s": 793.365,
-      "text": "A handful of independent African states in 1945 became dozens by 1970, as European empires weakened by war and increasingly delegitimized by the new international language of self-determination released, usually reluctantly, their colonial territories.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.5516926898509582
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0063",
-      "video_id": "f59QqKgwuq0",
-      "idx": 63,
+      "idx": 45,
       "sent_ids": [
         "f59QqKgwuq0:s0075"
       ],
@@ -911,93 +677,54 @@
       "pos_pct": 0.5640610361958835
     },
     {
-      "window_id": "f59QqKgwuq0:j0064",
+      "window_id": "f59QqKgwuq0:j0046",
       "video_id": "f59QqKgwuq0",
-      "idx": 64,
+      "idx": 46,
       "sent_ids": [
-        "f59QqKgwuq0:s0076"
+        "f59QqKgwuq0:s0076",
+        "f59QqKgwuq0:s0077"
       ],
       "start_s": 824.076,
-      "end_s": 827.958,
-      "text": "South Africa's experience runs somewhat parallel but extends further in time.",
-      "n_words": 11,
-      "n_sentences": 1,
+      "end_s": 848.987,
+      "text": "South Africa's experience runs somewhat parallel but extends further in time. Apartheid, the system of rigidly enforced racial segregation institutionalized in 1948, was among the most elaborately constructed systems of racial domination in modern history, maintaining white, minority political control through a combination of legal architecture, economic structure, and physical violence for nearly half a century.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.5848658623136976
     },
     {
-      "window_id": "f59QqKgwuq0:j0065",
+      "window_id": "f59QqKgwuq0:j0047",
       "video_id": "f59QqKgwuq0",
-      "idx": 65,
+      "idx": 47,
       "sent_ids": [
-        "f59QqKgwuq0:s0077"
-      ],
-      "start_s": 828.738,
-      "end_s": 848.987,
-      "text": "Apartheid, the system of rigidly enforced racial segregation institutionalized in 1948, was among the most elaborately constructed systems of racial domination in modern history, maintaining white, minority political control through a combination of legal architecture, economic structure, and physical violence for nearly half a century.",
-      "n_words": 45,
-      "n_sentences": 1,
-      "pos_pct": 0.5881745919091554
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0066",
-      "video_id": "f59QqKgwuq0",
-      "idx": 66,
-      "sent_ids": [
-        "f59QqKgwuq0:s0078"
+        "f59QqKgwuq0:s0078",
+        "f59QqKgwuq0:s0079"
       ],
       "start_s": 849.987,
-      "end_s": 859.192,
-      "text": "the African National Congress, founded in 1912, sustained organized resistance across decades of prohibition, exile, and imprisonment.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 874.54,
+      "text": "the African National Congress, founded in 1912, sustained organized resistance across decades of prohibition, exile, and imprisonment. Nelson Mandela's release from 27 years of imprisonment in 1990 and his election as South Africa's first democratically chosen president in 1994 represented one of the most significant political transitions of the 20th century.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.6032555003548615
     },
     {
-      "window_id": "f59QqKgwuq0:j0067",
+      "window_id": "f59QqKgwuq0:j0048",
       "video_id": "f59QqKgwuq0",
-      "idx": 67,
+      "idx": 48,
       "sent_ids": [
-        "f59QqKgwuq0:s0079"
-      ],
-      "start_s": 859.892,
-      "end_s": 874.54,
-      "text": "Nelson Mandela's release from 27 years of imprisonment in 1990 and his election as South Africa's first democratically chosen president in 1994 represented one of the most significant political transitions of the 20th century.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.6102853087295955
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0068",
-      "video_id": "f59QqKgwuq0",
-      "idx": 68,
-      "sent_ids": [
-        "f59QqKgwuq0:s0080"
+        "f59QqKgwuq0:s0080",
+        "f59QqKgwuq0:s0081"
       ],
       "start_s": 875.18,
-      "end_s": 883.524,
-      "text": "Occurring without the widespread violence that most observers expected, and which the comparative historical record suggested was almost inevitable.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 890.126,
+      "text": "Occurring without the widespread violence that most observers expected, and which the comparative historical record suggested was almost inevitable. Contemporary Black life globally exists within the full weight of this history without being reducible to it.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.6211355571327182
     },
     {
-      "window_id": "f59QqKgwuq0:j0069",
+      "window_id": "f59QqKgwuq0:j0049",
       "video_id": "f59QqKgwuq0",
-      "idx": 69,
-      "sent_ids": [
-        "f59QqKgwuq0:s0081"
-      ],
-      "start_s": 884.184,
-      "end_s": 890.126,
-      "text": "Contemporary Black life globally exists within the full weight of this history without being reducible to it.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.6275259048970901
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0070",
-      "video_id": "f59QqKgwuq0",
-      "idx": 70,
+      "idx": 49,
       "sent_ids": [
         "f59QqKgwuq0:s0082"
       ],
@@ -1009,9 +736,9 @@
       "pos_pct": 0.6322405961674947
     },
     {
-      "window_id": "f59QqKgwuq0:j0071",
+      "window_id": "f59QqKgwuq0:j0050",
       "video_id": "f59QqKgwuq0",
-      "idx": 71,
+      "idx": 50,
       "sent_ids": [
         "f59QqKgwuq0:s0083"
       ],
@@ -1023,9 +750,9 @@
       "pos_pct": 0.6432164655784245
     },
     {
-      "window_id": "f59QqKgwuq0:j0072",
+      "window_id": "f59QqKgwuq0:j0051",
       "video_id": "f59QqKgwuq0",
-      "idx": 72,
+      "idx": 51,
       "sent_ids": [
         "f59QqKgwuq0:s0084"
       ],
@@ -1037,9 +764,9 @@
       "pos_pct": 0.6552271114265437
     },
     {
-      "window_id": "f59QqKgwuq0:j0073",
+      "window_id": "f59QqKgwuq0:j0052",
       "video_id": "f59QqKgwuq0",
-      "idx": 73,
+      "idx": 52,
       "sent_ids": [
         "f59QqKgwuq0:s0085"
       ],
@@ -1051,93 +778,54 @@
       "pos_pct": 0.6675237757274664
     },
     {
-      "window_id": "f59QqKgwuq0:j0074",
+      "window_id": "f59QqKgwuq0:j0053",
       "video_id": "f59QqKgwuq0",
-      "idx": 74,
+      "idx": 53,
       "sent_ids": [
-        "f59QqKgwuq0:s0086"
+        "f59QqKgwuq0:s0086",
+        "f59QqKgwuq0:s0087"
       ],
       "start_s": 957.677,
-      "end_s": 964.904,
-      "text": "The enslaved people who maintained cultural practices across generations were not simply victims of historical forces beyond their understanding.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 976.514,
+      "text": "The enslaved people who maintained cultural practices across generations were not simply victims of historical forces beyond their understanding. They were people making choices about what to preserve, what to adapt, and how to maintain dignity and community under conditions specifically designed to make all of that as difficult as possible.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.6796855926188786
     },
     {
-      "window_id": "f59QqKgwuq0:j0075",
+      "window_id": "f59QqKgwuq0:j0054",
       "video_id": "f59QqKgwuq0",
-      "idx": 75,
+      "idx": 54,
       "sent_ids": [
-        "f59QqKgwuq0:s0087"
-      ],
-      "start_s": 965.404,
-      "end_s": 976.514,
-      "text": "They were people making choices about what to preserve, what to adapt, and how to maintain dignity and community under conditions specifically designed to make all of that as difficult as possible.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.6851696238466998
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0076",
-      "video_id": "f59QqKgwuq0",
-      "idx": 76,
-      "sent_ids": [
-        "f59QqKgwuq0:s0088"
+        "f59QqKgwuq0:s0088",
+        "f59QqKgwuq0:s0089"
       ],
       "start_s": 977.335,
-      "end_s": 987.48,
-      "text": "The intellectuals, organizers, artists, and politicians who appear throughout the story were not occasional, exceptional aberrations from a background of passivity.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 995.764,
+      "text": "The intellectuals, organizers, artists, and politicians who appear throughout the story were not occasional, exceptional aberrations from a background of passivity. They were the visible expressions of ongoing collective effort by communities that consistently produced extraordinary people in every generation.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.6936373314407381
     },
     {
-      "window_id": "f59QqKgwuq0:j0077",
+      "window_id": "f59QqKgwuq0:j0055",
       "video_id": "f59QqKgwuq0",
-      "idx": 77,
+      "idx": 55,
       "sent_ids": [
-        "f59QqKgwuq0:s0089"
-      ],
-      "start_s": 988.22,
-      "end_s": 995.764,
-      "text": "They were the visible expressions of ongoing collective effort by communities that consistently produced extraordinary people in every generation.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.7013626685592619
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0078",
-      "video_id": "f59QqKgwuq0",
-      "idx": 78,
-      "sent_ids": [
-        "f59QqKgwuq0:s0090"
+        "f59QqKgwuq0:s0090",
+        "f59QqKgwuq0:s0091"
       ],
       "start_s": 997.164,
-      "end_s": 1005.651,
-      "text": "Let's also bring in something that doesn't get nearly enough attention, the long history of African and African-descended people in regions outside the obvious focal points.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 1016.38,
+      "text": "Let's also bring in something that doesn't get nearly enough attention, the long history of African and African-descended people in regions outside the obvious focal points. There were Black communities in medieval Europe, soldiers, scholars, diplomats, and traders documented across Portuguese, Spanish, Italian, and British records.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.7077104329311569
     },
     {
-      "window_id": "f59QqKgwuq0:j0079",
+      "window_id": "f59QqKgwuq0:j0056",
       "video_id": "f59QqKgwuq0",
-      "idx": 79,
-      "sent_ids": [
-        "f59QqKgwuq0:s0091"
-      ],
-      "start_s": 1006.251,
-      "end_s": 1016.38,
-      "text": "There were Black communities in medieval Europe, soldiers, scholars, diplomats, and traders documented across Portuguese, Spanish, Italian, and British records.",
-      "n_words": 20,
-      "n_sentences": 1,
-      "pos_pct": 0.7141596877217885
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0080",
-      "video_id": "f59QqKgwuq0",
-      "idx": 80,
+      "idx": 56,
       "sent_ids": [
         "f59QqKgwuq0:s0092"
       ],
@@ -1149,37 +837,24 @@
       "pos_pct": 0.7220865862313698
     },
     {
-      "window_id": "f59QqKgwuq0:j0081",
+      "window_id": "f59QqKgwuq0:j0057",
       "video_id": "f59QqKgwuq0",
-      "idx": 81,
+      "idx": 57,
       "sent_ids": [
-        "f59QqKgwuq0:s0093"
+        "f59QqKgwuq0:s0093",
+        "f59QqKgwuq0:s0094"
       ],
       "start_s": 1035.038,
-      "end_s": 1047.586,
-      "text": "There were significant African and African-descended communities in medieval Persia, India, and across Southeast Asia, communities that developed distinct local identities while maintaining their own specific cultural inheritances.",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 1054.03,
+      "text": "There were significant African and African-descended communities in medieval Persia, India, and across Southeast Asia, communities that developed distinct local identities while maintaining their own specific cultural inheritances. The global dispersion of African-descended people predates the transatlantic slave trade by many centuries.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.7345904897090135
     },
     {
-      "window_id": "f59QqKgwuq0:j0082",
+      "window_id": "f59QqKgwuq0:j0058",
       "video_id": "f59QqKgwuq0",
-      "idx": 82,
-      "sent_ids": [
-        "f59QqKgwuq0:s0094"
-      ],
-      "start_s": 1048.386,
-      "end_s": 1054.03,
-      "text": "The global dispersion of African-descended people predates the transatlantic slave trade by many centuries.",
-      "n_words": 14,
-      "n_sentences": 1,
-      "pos_pct": 0.7440638750887154
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0083",
-      "video_id": "f59QqKgwuq0",
-      "idx": 83,
+      "idx": 58,
       "sent_ids": [
         "f59QqKgwuq0:s0095"
       ],
@@ -1191,65 +866,39 @@
       "pos_pct": 0.7483818310858765
     },
     {
-      "window_id": "f59QqKgwuq0:j0084",
+      "window_id": "f59QqKgwuq0:j0059",
       "video_id": "f59QqKgwuq0",
-      "idx": 84,
+      "idx": 59,
       "sent_ids": [
-        "f59QqKgwuq0:s0096"
+        "f59QqKgwuq0:s0096",
+        "f59QqKgwuq0:s0097"
       ],
       "start_s": 1073.483,
-      "end_s": 1082.429,
-      "text": "There's also a genuinely important dimension connected to the specific experience of Black women through history that too often gets subsumed into broader accounts.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 1097.649,
+      "text": "There's also a genuinely important dimension connected to the specific experience of Black women through history that too often gets subsumed into broader accounts. Enslaved black women faced the specific vulnerability of sexual exploitation layered on top of every other dimension of enslavement, a reality that shaped family structures, community dynamics, and political consciousness in particular ways.",
+      "n_words": 57,
+      "n_sentences": 2,
       "pos_pct": 0.7618757984386089
     },
     {
-      "window_id": "f59QqKgwuq0:j0085",
+      "window_id": "f59QqKgwuq0:j0060",
       "video_id": "f59QqKgwuq0",
-      "idx": 85,
+      "idx": 60,
       "sent_ids": [
-        "f59QqKgwuq0:s0097"
-      ],
-      "start_s": 1083.35,
-      "end_s": 1097.649,
-      "text": "Enslaved black women faced the specific vulnerability of sexual exploitation layered on top of every other dimension of enslavement, a reality that shaped family structures, community dynamics, and political consciousness in particular ways.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.7688786373314407
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0086",
-      "video_id": "f59QqKgwuq0",
-      "idx": 86,
-      "sent_ids": [
-        "f59QqKgwuq0:s0098"
-      ],
-      "start_s": 1098.883,
-      "end_s": 1115.642,
-      "text": "The women of the abolitionist movement, Harriet Tubman making some 19 missions back into slave territory to guide hundreds of people to freedom, Sojourner",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.779902767920511
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0087",
-      "video_id": "f59QqKgwuq0",
-      "idx": 87,
-      "sent_ids": [
+        "f59QqKgwuq0:s0098",
         "f59QqKgwuq0:s0099"
       ],
       "start_s": 1098.883,
       "end_s": 1115.642,
-      "text": "Truth navigating the intersections of race and gender with formidable rhetorical power, were not supporting, figures in a male-dominated story.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "text": "The women of the abolitionist movement, Harriet Tubman making some 19 missions back into slave territory to guide hundreds of people to freedom, Sojourner Truth navigating the intersections of race and gender with formidable rhetorical power, were not supporting, figures in a male-dominated story.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.779902767920511
     },
     {
-      "window_id": "f59QqKgwuq0:j0088",
+      "window_id": "f59QqKgwuq0:j0061",
       "video_id": "f59QqKgwuq0",
-      "idx": 88,
+      "idx": 61,
       "sent_ids": [
         "f59QqKgwuq0:s0100"
       ],
@@ -1261,9 +910,9 @@
       "pos_pct": 0.7923797019162526
     },
     {
-      "window_id": "f59QqKgwuq0:j0089",
+      "window_id": "f59QqKgwuq0:j0062",
       "video_id": "f59QqKgwuq0",
-      "idx": 89,
+      "idx": 62,
       "sent_ids": [
         "f59QqKgwuq0:s0101"
       ],
@@ -1275,80 +924,54 @@
       "pos_pct": 0.8016962384669978
     },
     {
-      "window_id": "f59QqKgwuq0:j0090",
+      "window_id": "f59QqKgwuq0:j0063",
       "video_id": "f59QqKgwuq0",
-      "idx": 90,
+      "idx": 63,
       "sent_ids": [
-        "f59QqKgwuq0:s0102"
+        "f59QqKgwuq0:s0102",
+        "f59QqKgwuq0:s0103"
       ],
       "start_s": 1146.055,
-      "end_s": 1155.064,
-      "text": "Recovering the full story of black history means recovering the full story of black women's experience within it, which is its own substantial, still-developing historical project.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 1159.549,
+      "text": "Recovering the full story of black history means recovering the full story of black women's experience within it, which is its own substantial, still-developing historical project. It's also worth saying something directly about how the arts function in this history.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.8133818310858766
     },
     {
-      "window_id": "f59QqKgwuq0:j0091",
+      "window_id": "f59QqKgwuq0:j0064",
       "video_id": "f59QqKgwuq0",
-      "idx": 91,
+      "idx": 64,
       "sent_ids": [
-        "f59QqKgwuq0:s0103",
-        "f59QqKgwuq0:s0104"
-      ],
-      "start_s": 1155.985,
-      "end_s": 1164.494,
-      "text": "It's also worth saying something directly about how the arts function in this history. Not as decoration or coping mechanism, but as genuine political and intellectual work.",
-      "n_words": 27,
-      "n_sentences": 2,
-      "pos_pct": 0.820429382540809
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0092",
-      "video_id": "f59QqKgwuq0",
-      "idx": 92,
-      "sent_ids": [
+        "f59QqKgwuq0:s0104",
         "f59QqKgwuq0:s0105"
       ],
-      "start_s": 1165.708,
+      "start_s": 1160.089,
       "end_s": 1180.338,
-      "text": "The development of the blues in the Mississippi Delta in the early 20th century, the creation of jazz in New Orleans, and then in the clubs of Chicago and New York, the emergence of soul and funk and hip-hop from specific communities in specific American cities,",
-      "n_words": 46,
-      "n_sentences": 1,
-      "pos_pct": 0.8273300212916963
+      "text": "Not as decoration or coping mechanism, but as genuine political and intellectual work. The development of the blues in the Mississippi Delta in the early 20th century, the creation of jazz in New Orleans, and then in the clubs of Chicago and New York, the emergence of soul and funk and hip-hop from specific communities in specific American cities,",
+      "n_words": 59,
+      "n_sentences": 2,
+      "pos_pct": 0.8233420865862313
     },
     {
-      "window_id": "f59QqKgwuq0:j0093",
+      "window_id": "f59QqKgwuq0:j0065",
       "video_id": "f59QqKgwuq0",
-      "idx": 93,
+      "idx": 65,
       "sent_ids": [
-        "f59QqKgwuq0:s0106"
+        "f59QqKgwuq0:s0106",
+        "f59QqKgwuq0:s0107"
       ],
       "start_s": 1181.238,
-      "end_s": 1184.999,
-      "text": "These weren't simply aesthetic achievements in a neutral cultural space.",
-      "n_words": 10,
-      "n_sentences": 1,
+      "end_s": 1199.904,
+      "text": "These weren't simply aesthetic achievements in a neutral cultural space. They were being created by communities whose basic humanity was being legally and socially contested, by artists who were frequently denied copyright protections and economic compensation for their work, even as that work was being commercially exploited on a massive scale.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.8383520227111427
     },
     {
-      "window_id": "f59QqKgwuq0:j0094",
+      "window_id": "f59QqKgwuq0:j0066",
       "video_id": "f59QqKgwuq0",
-      "idx": 94,
-      "sent_ids": [
-        "f59QqKgwuq0:s0107"
-      ],
-      "start_s": 1185.559,
-      "end_s": 1199.904,
-      "text": "They were being created by communities whose basic humanity was being legally and socially contested, by artists who were frequently denied copyright protections and economic compensation for their work, even as that work was being commercially exploited on a massive scale.",
-      "n_words": 41,
-      "n_sentences": 1,
-      "pos_pct": 0.8414187366926899
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0095",
-      "video_id": "f59QqKgwuq0",
-      "idx": 95,
+      "idx": 66,
       "sent_ids": [
         "f59QqKgwuq0:s0108"
       ],
@@ -1360,225 +983,160 @@
       "pos_pct": 0.8522384669978709
     },
     {
-      "window_id": "f59QqKgwuq0:j0096",
+      "window_id": "f59QqKgwuq0:j0067",
       "video_id": "f59QqKgwuq0",
-      "idx": 96,
+      "idx": 67,
       "sent_ids": [
-        "f59QqKgwuq0:s0109"
+        "f59QqKgwuq0:s0109",
+        "f59QqKgwuq0:s0110"
       ],
       "start_s": 1216.763,
-      "end_s": 1224.951,
-      "text": "understanding this doesn't diminish the music, it adds an entire dimension of meaning that the music itself already contains, for those who know the history to hear it.",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 1235.281,
+      "text": "understanding this doesn't diminish the music, it adds an entire dimension of meaning that the music itself already contains, for those who know the history to hear it. Let's bring in something genuinely important about the role of religion specifically in this history, because it runs through almost every dimension of what we've covered and rarely gets adequate treatment.",
+      "n_words": 59,
+      "n_sentences": 2,
       "pos_pct": 0.8635649396735273
     },
     {
-      "window_id": "f59QqKgwuq0:j0097",
+      "window_id": "f59QqKgwuq0:j0068",
       "video_id": "f59QqKgwuq0",
-      "idx": 97,
+      "idx": 68,
       "sent_ids": [
-        "f59QqKgwuq0:s0110"
-      ],
-      "start_s": 1225.852,
-      "end_s": 1235.281,
-      "text": "Let's bring in something genuinely important about the role of religion specifically in this history, because it runs through almost every dimension of what we've covered and rarely gets adequate treatment.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.8700156139105749
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0098",
-      "video_id": "f59QqKgwuq0",
-      "idx": 98,
-      "sent_ids": [
-        "f59QqKgwuq0:s0111"
+        "f59QqKgwuq0:s0111",
+        "f59QqKgwuq0:s0112"
       ],
       "start_s": 1236.122,
-      "end_s": 1251.206,
-      "text": "African religious traditions enormously varied across the continent were actively suppressed during the transatlantic slave trade and colonial period, often under explicit programs of Christian conversion that framed African spirituality as incompatible with civilization.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 1255.507,
+      "text": "African religious traditions enormously varied across the continent were actively suppressed during the transatlantic slave trade and colonial period, often under explicit programs of Christian conversion that framed African spirituality as incompatible with civilization. What actually happened in practice was considerably more complex.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.8773044712562101
     },
     {
-      "window_id": "f59QqKgwuq0:j0099",
+      "window_id": "f59QqKgwuq0:j0069",
       "video_id": "f59QqKgwuq0",
-      "idx": 99,
+      "idx": 69,
       "sent_ids": [
-        "f59QqKgwuq0:s0112",
-        "f59QqKgwuq0:s0113"
+        "f59QqKgwuq0:s0113",
+        "f59QqKgwuq0:s0114"
       ],
-      "start_s": 1252.206,
-      "end_s": 1265.469,
-      "text": "What actually happened in practice was considerably more complex. Enslaved people in the Americas created syncretic traditions, Vodou in Haiti, Candomblé in Brazil, Santeria in Cuba.",
-      "n_words": 26,
+      "start_s": 1256.067,
+      "end_s": 1277.511,
+      "text": "Enslaved people in the Americas created syncretic traditions, Vodou in Haiti, Candomblé in Brazil, Santeria in Cuba. that merged African spiritual frameworks with elements of Catholicism in ways that preserved African theological and cosmological content under the surface of formerly acceptable Christian practice.",
+      "n_words": 43,
       "n_sentences": 2,
-      "pos_pct": 0.8887196593328601
+      "pos_pct": 0.8914599006387509
     },
     {
-      "window_id": "f59QqKgwuq0:j0100",
+      "window_id": "f59QqKgwuq0:j0070",
       "video_id": "f59QqKgwuq0",
-      "idx": 100,
+      "idx": 70,
       "sent_ids": [
-        "f59QqKgwuq0:s0114",
-        "f59QqKgwuq0:s0115"
+        "f59QqKgwuq0:s0115",
+        "f59QqKgwuq0:s0116"
       ],
-      "start_s": 1266.309,
-      "end_s": 1280.892,
-      "text": "that merged African spiritual frameworks with elements of Catholicism in ways that preserved African theological and cosmological content under the surface of formerly acceptable Christian practice. These traditions weren't compromises or corruptions.",
-      "n_words": 32,
+      "start_s": 1278.412,
+      "end_s": 1289.394,
+      "text": "These traditions weren't compromises or corruptions. They were sophisticated theological adaptations that served simultaneously as spiritual practice, cultural preservation, and encoded resistance.",
+      "n_words": 22,
       "n_sentences": 2,
-      "pos_pct": 0.8987288857345634
+      "pos_pct": 0.9073186657203691
     },
     {
-      "window_id": "f59QqKgwuq0:j0101",
+      "window_id": "f59QqKgwuq0:j0071",
       "video_id": "f59QqKgwuq0",
-      "idx": 101,
+      "idx": 71,
       "sent_ids": [
-        "f59QqKgwuq0:s0116",
-        "f59QqKgwuq0:s0117"
-      ],
-      "start_s": 1281.472,
-      "end_s": 1295.055,
-      "text": "They were sophisticated theological adaptations that served simultaneously as spiritual practice, cultural preservation, and encoded resistance. And they have produced some of the richest, most complex religious traditions anywhere in the modern world.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.9094904187366927
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0102",
-      "video_id": "f59QqKgwuq0",
-      "idx": 102,
-      "sent_ids": [
+        "f59QqKgwuq0:s0117",
         "f59QqKgwuq0:s0118"
       ],
-      "start_s": 1296.574,
+      "start_s": 1290.074,
       "end_s": 1309.244,
-      "text": "The Christianity that Black Americans developed is itself its own distinct theological and liturgical tradition, shaped by the specific experience of being enslaved and excluded in a country that used Christian scripture to justify that enslavement.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.920208658623137
+      "text": "And they have produced some of the richest, most complex religious traditions anywhere in the modern world. The Christianity that Black Americans developed is itself its own distinct theological and liturgical tradition, shaped by the specific experience of being enslaved and excluded in a country that used Christian scripture to justify that enslavement.",
+      "n_words": 53,
+      "n_sentences": 2,
+      "pos_pct": 0.9155954577714692
     },
     {
-      "window_id": "f59QqKgwuq0:j0103",
+      "window_id": "f59QqKgwuq0:j0072",
       "video_id": "f59QqKgwuq0",
-      "idx": 103,
+      "idx": 72,
       "sent_ids": [
-        "f59QqKgwuq0:s0119"
+        "f59QqKgwuq0:s0119",
+        "f59QqKgwuq0:s0120"
       ],
       "start_s": 1310.263,
-      "end_s": 1314.366,
-      "text": "The Black church, as an institution, was not simply a religious organization.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 1328.278,
+      "text": "The Black church, as an institution, was not simply a religious organization. It was the primary institution of community life, political organizing, education, and collective identity for Black Americans across the entire period, from emancipation through the Civil Rights era and beyond.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.9299240596167494
     },
     {
-      "window_id": "f59QqKgwuq0:j0104",
+      "window_id": "f59QqKgwuq0:j0073",
       "video_id": "f59QqKgwuq0",
-      "idx": 104,
+      "idx": 73,
       "sent_ids": [
-        "f59QqKgwuq0:s0120"
-      ],
-      "start_s": 1315.027,
-      "end_s": 1328.278,
-      "text": "It was the primary institution of community life, political organizing, education, and collective identity for Black Americans across the entire period, from emancipation through the Civil Rights era and beyond.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.9333051809794181
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0105",
-      "video_id": "f59QqKgwuq0",
-      "idx": 105,
-      "sent_ids": [
-        "f59QqKgwuq0:s0121"
+        "f59QqKgwuq0:s0121",
+        "f59QqKgwuq0:s0122"
       ],
       "start_s": 1329.244,
-      "end_s": 1342.651,
-      "text": "The specific theology that emerged within it, emphasizing liberation, dignity, and the moral universe's long arc toward justice, was not simply imported wholesale from white American Protestantism.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 1352.116,
+      "text": "The specific theology that emerged within it, emphasizing liberation, dignity, and the moral universe's long arc toward justice, was not simply imported wholesale from white American Protestantism. It was developed from within a specific experience of suffering and resistance, and gave the civil rights movement much of its moral language and organizational infrastructure.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.9433953158268275
     },
     {
-      "window_id": "f59QqKgwuq0:j0106",
+      "window_id": "f59QqKgwuq0:j0074",
       "video_id": "f59QqKgwuq0",
-      "idx": 106,
+      "idx": 74,
       "sent_ids": [
-        "f59QqKgwuq0:s0122",
-        "f59QqKgwuq0:s0123"
-      ],
-      "start_s": 1343.452,
-      "end_s": 1354.538,
-      "text": "It was developed from within a specific experience of suffering and resistance, and gave the civil rights movement much of its moral language and organizational infrastructure. So what was black life like through history?",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.9534790631653655
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0107",
-      "video_id": "f59QqKgwuq0",
-      "idx": 107,
-      "sent_ids": [
+        "f59QqKgwuq0:s0123",
         "f59QqKgwuq0:s0124",
-        "f59QqKgwuq0:s0125",
-        "f59QqKgwuq0:s0126"
+        "f59QqKgwuq0:s0125"
       ],
-      "start_s": 1355.098,
-      "end_s": 1367.688,
-      "text": "It was ancient before it was anything else. It was powerful and prosperous and scholarly before it was dispossessed. It was resistant and creative and organizationally sophisticated throughout periods when resistance required genuine courage.",
-      "n_words": 34,
+      "start_s": 1352.517,
+      "end_s": 1360.843,
+      "text": "So what was black life like through history? It was ancient before it was anything else. It was powerful and prosperous and scholarly before it was dispossessed.",
+      "n_words": 27,
       "n_sentences": 3,
-      "pos_pct": 0.9617444996451384
+      "pos_pct": 0.9599127040454223
     },
     {
-      "window_id": "f59QqKgwuq0:j0108",
+      "window_id": "f59QqKgwuq0:j0075",
       "video_id": "f59QqKgwuq0",
-      "idx": 108,
+      "idx": 75,
       "sent_ids": [
+        "f59QqKgwuq0:s0126",
         "f59QqKgwuq0:s0127"
       ],
-      "start_s": 1368.109,
+      "start_s": 1361.223,
       "end_s": 1376.055,
-      "text": "It produced intellectual traditions of the first rank while being systematically excluded from the institutions that recognized and rewarded intellectual achievement.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.9709787083037614
+      "text": "It was resistant and creative and organizationally sophisticated throughout periods when resistance required genuine courage. It produced intellectual traditions of the first rank while being systematically excluded from the institutions that recognized and rewarded intellectual achievement.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.9660915542938254
     },
     {
-      "window_id": "f59QqKgwuq0:j0109",
+      "window_id": "f59QqKgwuq0:j0076",
       "video_id": "f59QqKgwuq0",
-      "idx": 109,
+      "idx": 76,
       "sent_ids": [
-        "f59QqKgwuq0:s0128"
+        "f59QqKgwuq0:s0128",
+        "f59QqKgwuq0:s0129"
       ],
       "start_s": 1376.736,
-      "end_s": 1384.042,
-      "text": "It built community institutions, artistic forms, and political organizations under conditions specifically designed to prevent it.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 1398.574,
+      "text": "It built community institutions, artistic forms, and political organizations under conditions specifically designed to prevent it. And it continues right now, across an extraordinary range of specific contexts, geographies, languages, and political realities, as one of the longest, most consequential, most genuinely global stories in the entire human record.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.9771014904187367
     },
     {
-      "window_id": "f59QqKgwuq0:j0110",
+      "window_id": "f59QqKgwuq0:j0077",
       "video_id": "f59QqKgwuq0",
-      "idx": 110,
-      "sent_ids": [
-        "f59QqKgwuq0:s0129"
-      ],
-      "start_s": 1384.762,
-      "end_s": 1398.574,
-      "text": "And it continues right now, across an extraordinary range of specific contexts, geographies, languages, and political realities, as one of the longest, most consequential, most genuinely global stories in the entire human record.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.9827977288857346
-    },
-    {
-      "window_id": "f59QqKgwuq0:j0111",
-      "video_id": "f59QqKgwuq0",
-      "idx": 111,
+      "idx": 77,
       "sent_ids": [
         "f59QqKgwuq0:s0130"
       ],

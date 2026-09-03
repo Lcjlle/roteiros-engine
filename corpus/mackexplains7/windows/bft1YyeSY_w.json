@@ -1,6 +1,6 @@
 {
   "video_id": "bft1YyeSY_w",
-  "generated_at": "2026-09-03T11:59:53.017440+00:00",
+  "generated_at": "2026-09-03T13:18:13.130783+00:00",
   "windows": [
     {
       "window_id": "bft1YyeSY_w:j0000",
@@ -82,13 +82,14 @@
       "video_id": "bft1YyeSY_w",
       "idx": 5,
       "sent_ids": [
-        "bft1YyeSY_w:s0010"
+        "bft1YyeSY_w:s0010",
+        "bft1YyeSY_w:s0011"
       ],
       "start_s": 63.768,
-      "end_s": 67.892,
-      "text": "This is not a rhetorical question designed to make you feel grateful for modern institutions.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 76.399,
+      "text": "This is not a rhetorical question designed to make you feel grateful for modern institutions. It's one of the most important practical problems ancient humans faced continuously across hundreds of thousands of years of existence, and they solved it.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.04077237851662404
     },
     {
@@ -96,47 +97,20 @@
       "video_id": "bft1YyeSY_w",
       "idx": 6,
       "sent_ids": [
-        "bft1YyeSY_w:s0011"
+        "bft1YyeSY_w:s0012",
+        "bft1YyeSY_w:s0013"
       ],
-      "start_s": 68.552,
-      "end_s": 76.399,
-      "text": "It's one of the most important practical problems ancient humans faced continuously across hundreds of thousands of years of existence, and they solved it.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.04383120204603581
+      "start_s": 76.959,
+      "end_s": 93.712,
+      "text": "Not with stone tablets, not with written law, not with any formal institution we would recognize as a justice system today. They solved it with something older, more flexible, more socially intelligent, and in some ways more genuinely egalitarian than anything that came after it.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.049206521739130434
     },
     {
       "window_id": "bft1YyeSY_w:j0007",
       "video_id": "bft1YyeSY_w",
       "idx": 7,
-      "sent_ids": [
-        "bft1YyeSY_w:s0012"
-      ],
-      "start_s": 76.959,
-      "end_s": 83.684,
-      "text": "Not with stone tablets, not with written law, not with any formal institution we would recognize as a justice system today.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.049206521739130434
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0008",
-      "video_id": "bft1YyeSY_w",
-      "idx": 8,
-      "sent_ids": [
-        "bft1YyeSY_w:s0013"
-      ],
-      "start_s": 84.505,
-      "end_s": 93.712,
-      "text": "They solved it with something older, more flexible, more socially intelligent, and in some ways more genuinely egalitarian than anything that came after it.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.054031329923273655
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0009",
-      "video_id": "bft1YyeSY_w",
-      "idx": 9,
       "sent_ids": [
         "bft1YyeSY_w:s0014",
         "bft1YyeSY_w:s0015"
@@ -149,9 +123,9 @@
       "pos_pct": 0.06035294117647059
     },
     {
-      "window_id": "bft1YyeSY_w:j0010",
+      "window_id": "bft1YyeSY_w:j0008",
       "video_id": "bft1YyeSY_w",
-      "idx": 10,
+      "idx": 8,
       "sent_ids": [
         "bft1YyeSY_w:s0016",
         "bft1YyeSY_w:s0017"
@@ -164,9 +138,9 @@
       "pos_pct": 0.06614961636828644
     },
     {
-      "window_id": "bft1YyeSY_w:j0011",
+      "window_id": "bft1YyeSY_w:j0009",
       "video_id": "bft1YyeSY_w",
-      "idx": 11,
+      "idx": 9,
       "sent_ids": [
         "bft1YyeSY_w:s0018",
         "bft1YyeSY_w:s0019"
@@ -179,37 +153,24 @@
       "pos_pct": 0.07248401534526853
     },
     {
-      "window_id": "bft1YyeSY_w:j0012",
+      "window_id": "bft1YyeSY_w:j0010",
       "video_id": "bft1YyeSY_w",
-      "idx": 12,
+      "idx": 10,
       "sent_ids": [
-        "bft1YyeSY_w:s0020"
+        "bft1YyeSY_w:s0020",
+        "bft1YyeSY_w:s0021"
       ],
       "start_s": 126.755,
-      "end_s": 132.64,
-      "text": "Let's go through exactly how it worked, and then what happened when civilization arrived and decided to formalize everything.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 144.616,
+      "text": "Let's go through exactly how it worked, and then what happened when civilization arrived and decided to formalize everything. First, you have to understand the social context of pre-agricultural life because the context changes everything about what punishment meant, how it operated, and why it took the specific forms it took.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.08104539641943734
     },
     {
-      "window_id": "bft1YyeSY_w:j0013",
+      "window_id": "bft1YyeSY_w:j0011",
       "video_id": "bft1YyeSY_w",
-      "idx": 13,
-      "sent_ids": [
-        "bft1YyeSY_w:s0021"
-      ],
-      "start_s": 133.788,
-      "end_s": 144.616,
-      "text": "First, you have to understand the social context of pre-agricultural life because the context changes everything about what punishment meant, how it operated, and why it took the specific forms it took.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.08554219948849105
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0014",
-      "video_id": "bft1YyeSY_w",
-      "idx": 14,
+      "idx": 11,
       "sent_ids": [
         "bft1YyeSY_w:s0022",
         "bft1YyeSY_w:s0023",
@@ -223,9 +184,9 @@
       "pos_pct": 0.09306713554987212
     },
     {
-      "window_id": "bft1YyeSY_w:j0015",
+      "window_id": "bft1YyeSY_w:j0012",
       "video_id": "bft1YyeSY_w",
-      "idx": 15,
+      "idx": 12,
       "sent_ids": [
         "bft1YyeSY_w:s0025"
       ],
@@ -237,9 +198,9 @@
       "pos_pct": 0.10427301790281329
     },
     {
-      "window_id": "bft1YyeSY_w:j0016",
+      "window_id": "bft1YyeSY_w:j0013",
       "video_id": "bft1YyeSY_w",
-      "idx": 16,
+      "idx": 13,
       "sent_ids": [
         "bft1YyeSY_w:s0026"
       ],
@@ -251,9 +212,9 @@
       "pos_pct": 0.11094053708439898
     },
     {
-      "window_id": "bft1YyeSY_w:j0017",
+      "window_id": "bft1YyeSY_w:j0014",
       "video_id": "bft1YyeSY_w",
-      "idx": 17,
+      "idx": 14,
       "sent_ids": [
         "bft1YyeSY_w:s0027",
         "bft1YyeSY_w:s0028",
@@ -267,37 +228,24 @@
       "pos_pct": 0.1217806905370844
     },
     {
-      "window_id": "bft1YyeSY_w:j0018",
+      "window_id": "bft1YyeSY_w:j0015",
       "video_id": "bft1YyeSY_w",
-      "idx": 18,
+      "idx": 15,
       "sent_ids": [
-        "bft1YyeSY_w:s0030"
+        "bft1YyeSY_w:s0030",
+        "bft1YyeSY_w:s0031"
       ],
       "start_s": 199.576,
-      "end_s": 205.283,
-      "text": "Your reputation was not merely socially important, it was existential in the most literal sense of the word.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 219.156,
+      "text": "Your reputation was not merely socially important, it was existential in the most literal sense of the word. Your survival, your access to shared resources, your ability to form alliances that would matter during illness or injury or conflict, your reproductive prospects, your ability to call on collective help when you were vulnerable.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.1276061381074169
     },
     {
-      "window_id": "bft1YyeSY_w:j0019",
+      "window_id": "bft1YyeSY_w:j0016",
       "video_id": "bft1YyeSY_w",
-      "idx": 19,
-      "sent_ids": [
-        "bft1YyeSY_w:s0031"
-      ],
-      "start_s": 205.823,
-      "end_s": 219.156,
-      "text": "Your survival, your access to shared resources, your ability to form alliances that would matter during illness or injury or conflict, your reproductive prospects, your ability to call on collective help when you were vulnerable.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.13160038363171356
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0020",
-      "video_id": "bft1YyeSY_w",
-      "idx": 20,
+      "idx": 16,
       "sent_ids": [
         "bft1YyeSY_w:s0032",
         "bft1YyeSY_w:s0033"
@@ -310,9 +258,9 @@
       "pos_pct": 0.14068350383631714
     },
     {
-      "window_id": "bft1YyeSY_w:j0021",
+      "window_id": "bft1YyeSY_w:j0017",
       "video_id": "bft1YyeSY_w",
-      "idx": 21,
+      "idx": 17,
       "sent_ids": [
         "bft1YyeSY_w:s0034"
       ],
@@ -324,9 +272,9 @@
       "pos_pct": 0.14719565217391303
     },
     {
-      "window_id": "bft1YyeSY_w:j0022",
+      "window_id": "bft1YyeSY_w:j0018",
       "video_id": "bft1YyeSY_w",
-      "idx": 22,
+      "idx": 18,
       "sent_ids": [
         "bft1YyeSY_w:s0035",
         "bft1YyeSY_w:s0036"
@@ -339,9 +287,9 @@
       "pos_pct": 0.15827493606138107
     },
     {
-      "window_id": "bft1YyeSY_w:j0023",
+      "window_id": "bft1YyeSY_w:j0019",
       "video_id": "bft1YyeSY_w",
-      "idx": 23,
+      "idx": 19,
       "sent_ids": [
         "bft1YyeSY_w:s0037"
       ],
@@ -353,9 +301,9 @@
       "pos_pct": 0.16492710997442456
     },
     {
-      "window_id": "bft1YyeSY_w:j0024",
+      "window_id": "bft1YyeSY_w:j0020",
       "video_id": "bft1YyeSY_w",
-      "idx": 24,
+      "idx": 20,
       "sent_ids": [
         "bft1YyeSY_w:s0038"
       ],
@@ -367,9 +315,9 @@
       "pos_pct": 0.17621355498721228
     },
     {
-      "window_id": "bft1YyeSY_w:j0025",
+      "window_id": "bft1YyeSY_w:j0021",
       "video_id": "bft1YyeSY_w",
-      "idx": 25,
+      "idx": 21,
       "sent_ids": [
         "bft1YyeSY_w:s0039",
         "bft1YyeSY_w:s0040"
@@ -382,9 +330,9 @@
       "pos_pct": 0.1869648337595908
     },
     {
-      "window_id": "bft1YyeSY_w:j0026",
+      "window_id": "bft1YyeSY_w:j0022",
       "video_id": "bft1YyeSY_w",
-      "idx": 26,
+      "idx": 22,
       "sent_ids": [
         "bft1YyeSY_w:s0041",
         "bft1YyeSY_w:s0042"
@@ -397,83 +345,70 @@
       "pos_pct": 0.198556905370844
     },
     {
-      "window_id": "bft1YyeSY_w:j0027",
+      "window_id": "bft1YyeSY_w:j0023",
       "video_id": "bft1YyeSY_w",
-      "idx": 27,
+      "idx": 23,
       "sent_ids": [
-        "bft1YyeSY_w:s0043"
+        "bft1YyeSY_w:s0043",
+        "bft1YyeSY_w:s0044"
       ],
       "start_s": 320.729,
-      "end_s": 332.396,
-      "text": "And they maintained that egalitarianism through a sophisticated, multi-stage system of social enforcement that operated without any formal institution, designated authority, or written rule of any kind.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 338.32,
+      "text": "And they maintained that egalitarianism through a sophisticated, multi-stage system of social enforcement that operated without any formal institution, designated authority, or written rule of any kind. Bohm called it the reverse dominance hierarchy, and the name captures something important.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.20506969309462914
     },
     {
-      "window_id": "bft1YyeSY_w:j0028",
+      "window_id": "bft1YyeSY_w:j0024",
       "video_id": "bft1YyeSY_w",
-      "idx": 28,
+      "idx": 24,
       "sent_ids": [
-        "bft1YyeSY_w:s0044",
-        "bft1YyeSY_w:s0045"
+        "bft1YyeSY_w:s0045",
+        "bft1YyeSY_w:s0046"
       ],
-      "start_s": 333.437,
-      "end_s": 345.465,
-      "text": "Bohm called it the reverse dominance hierarchy, and the name captures something important. In most primate societies, chimpanzees, gorillas, baboons, the powerful dominate the weak.",
-      "n_words": 25,
+      "start_s": 338.961,
+      "end_s": 350.669,
+      "text": "In most primate societies, chimpanzees, gorillas, baboons, the powerful dominate the weak. Alphas take the best food, the best mates, the best resting positions.",
+      "n_words": 24,
       "n_sentences": 2,
-      "pos_pct": 0.2131950127877238
+      "pos_pct": 0.21672698209718672
     },
     {
-      "window_id": "bft1YyeSY_w:j0029",
+      "window_id": "bft1YyeSY_w:j0025",
       "video_id": "bft1YyeSY_w",
-      "idx": 29,
+      "idx": 25,
       "sent_ids": [
-        "bft1YyeSY_w:s0046",
-        "bft1YyeSY_w:s0047"
-      ],
-      "start_s": 346.386,
-      "end_s": 359.795,
-      "text": "Alphas take the best food, the best mates, the best resting positions. Rank is established through strength, maintained through intimidation, and the bottom of the hierarchy submits because the top can credibly hurt it.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.2214744245524297
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0030",
-      "video_id": "bft1YyeSY_w",
-      "idx": 30,
-      "sent_ids": [
+        "bft1YyeSY_w:s0047",
         "bft1YyeSY_w:s0048",
-        "bft1YyeSY_w:s0049",
-        "bft1YyeSY_w:s0050"
+        "bft1YyeSY_w:s0049"
       ],
-      "start_s": 360.395,
-      "end_s": 372.426,
-      "text": "power flows downward. Hunter-gatherers flipped this entirely. In band societies, the collective—the group as a unified social entity—dominated the individual.",
-      "n_words": 20,
+      "start_s": 351.269,
+      "end_s": 364.859,
+      "text": "Rank is established through strength, maintained through intimidation, and the bottom of the hierarchy submits because the top can credibly hurt it. power flows downward. Hunter-gatherers flipped this entirely.",
+      "n_words": 29,
       "n_sentences": 3,
-      "pos_pct": 0.23043158567774935
+      "pos_pct": 0.224596547314578
     },
     {
-      "window_id": "bft1YyeSY_w:j0031",
+      "window_id": "bft1YyeSY_w:j0026",
       "video_id": "bft1YyeSY_w",
-      "idx": 31,
+      "idx": 26,
       "sent_ids": [
+        "bft1YyeSY_w:s0050",
         "bft1YyeSY_w:s0051"
       ],
-      "start_s": 373.087,
+      "start_s": 365.54,
       "end_s": 384.657,
-      "text": "If anyone started accumulating more than their share of food, more status than the group was comfortable with, more influence over decisions than a peer among equals was supposed to have, the group closed ranks against them.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.23854667519181585
+      "text": "In band societies, the collective—the group as a unified social entity—dominated the individual. If anyone started accumulating more than their share of food, more status than the group was comfortable with, more influence over decisions than a peer among equals was supposed to have, the group closed ranks against them.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.2337212276214834
     },
     {
-      "window_id": "bft1YyeSY_w:j0032",
+      "window_id": "bft1YyeSY_w:j0027",
       "video_id": "bft1YyeSY_w",
-      "idx": 32,
+      "idx": 27,
       "sent_ids": [
         "bft1YyeSY_w:s0052",
         "bft1YyeSY_w:s0053",
@@ -487,37 +422,24 @@
       "pos_pct": 0.24648209718670075
     },
     {
-      "window_id": "bft1YyeSY_w:j0033",
+      "window_id": "bft1YyeSY_w:j0028",
       "video_id": "bft1YyeSY_w",
-      "idx": 33,
+      "idx": 28,
       "sent_ids": [
-        "bft1YyeSY_w:s0055"
+        "bft1YyeSY_w:s0055",
+        "bft1YyeSY_w:s0056"
       ],
       "start_s": 399.821,
-      "end_s": 407.823,
-      "text": "Clear, consistent, documented stages, appearing with striking similarity across cultures that never had any contact with each other.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 416.952,
+      "text": "Clear, consistent, documented stages, appearing with striking similarity across cultures that never had any contact with each other. The first stage was gossip, and before you dismiss that as trivial, hear out what gossip actually does in this context, because it is doing serious work.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.25564002557544757
     },
     {
-      "window_id": "bft1YyeSY_w:j0034",
+      "window_id": "bft1YyeSY_w:j0029",
       "video_id": "bft1YyeSY_w",
-      "idx": 34,
-      "sent_ids": [
-        "bft1YyeSY_w:s0056"
-      ],
-      "start_s": 408.685,
-      "end_s": 416.952,
-      "text": "The first stage was gossip, and before you dismiss that as trivial, hear out what gossip actually does in this context, because it is doing serious work.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.26130754475703327
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0035",
-      "video_id": "bft1YyeSY_w",
-      "idx": 35,
+      "idx": 29,
       "sent_ids": [
         "bft1YyeSY_w:s0057",
         "bft1YyeSY_w:s0058"
@@ -530,9 +452,9 @@
       "pos_pct": 0.2671304347826087
     },
     {
-      "window_id": "bft1YyeSY_w:j0036",
+      "window_id": "bft1YyeSY_w:j0030",
       "video_id": "bft1YyeSY_w",
-      "idx": 36,
+      "idx": 30,
       "sent_ids": [
         "bft1YyeSY_w:s0059"
       ],
@@ -544,9 +466,9 @@
       "pos_pct": 0.2731841432225064
     },
     {
-      "window_id": "bft1YyeSY_w:j0037",
+      "window_id": "bft1YyeSY_w:j0031",
       "video_id": "bft1YyeSY_w",
-      "idx": 37,
+      "idx": 31,
       "sent_ids": [
         "bft1YyeSY_w:s0060",
         "bft1YyeSY_w:s0061"
@@ -559,9 +481,9 @@
       "pos_pct": 0.2852404092071611
     },
     {
-      "window_id": "bft1YyeSY_w:j0038",
+      "window_id": "bft1YyeSY_w:j0032",
       "video_id": "bft1YyeSY_w",
-      "idx": 38,
+      "idx": 32,
       "sent_ids": [
         "bft1YyeSY_w:s0062"
       ],
@@ -573,37 +495,24 @@
       "pos_pct": 0.29029283887468027
     },
     {
-      "window_id": "bft1YyeSY_w:j0039",
+      "window_id": "bft1YyeSY_w:j0033",
       "video_id": "bft1YyeSY_w",
-      "idx": 39,
+      "idx": 33,
       "sent_ids": [
-        "bft1YyeSY_w:s0063"
+        "bft1YyeSY_w:s0063",
+        "bft1YyeSY_w:s0064"
       ],
       "start_s": 471.46,
-      "end_s": 488.669,
-      "text": "Anthropological research on modern hunter-gatherer populations, the Tachkungsan of the Kalahari, the Hadza of Tanzania, the Jew slash Hwansi, multiple Aboriginal Australian groups, consistently finds gossip serving precisely this regulatory function.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 499.955,
+      "text": "Anthropological research on modern hunter-gatherer populations, the Tachkungsan of the Kalahari, the Hadza of Tanzania, the Jew slash Hwansi, multiple Aboriginal Australian groups, consistently finds gossip serving precisely this regulatory function. It is the early warning system, the community newsletter, the consensus building mechanism, and the social verdict delivery system all operating simultaneously in casual conversation.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.3014450127877238
     },
     {
-      "window_id": "bft1YyeSY_w:j0040",
+      "window_id": "bft1YyeSY_w:j0034",
       "video_id": "bft1YyeSY_w",
-      "idx": 40,
-      "sent_ids": [
-        "bft1YyeSY_w:s0064"
-      ],
-      "start_s": 489.349,
-      "end_s": 499.955,
-      "text": "It is the early warning system, the community newsletter, the consensus building mechanism, and the social verdict delivery system all operating simultaneously in casual conversation.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.3128829923273657
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0041",
-      "video_id": "bft1YyeSY_w",
-      "idx": 41,
+      "idx": 34,
       "sent_ids": [
         "bft1YyeSY_w:s0065"
       ],
@@ -615,9 +524,9 @@
       "pos_pct": 0.32026534526854217
     },
     {
-      "window_id": "bft1YyeSY_w:j0042",
+      "window_id": "bft1YyeSY_w:j0035",
       "video_id": "bft1YyeSY_w",
-      "idx": 42,
+      "idx": 35,
       "sent_ids": [
         "bft1YyeSY_w:s0066",
         "bft1YyeSY_w:s0067",
@@ -631,9 +540,9 @@
       "pos_pct": 0.3311246803069054
     },
     {
-      "window_id": "bft1YyeSY_w:j0043",
+      "window_id": "bft1YyeSY_w:j0036",
       "video_id": "bft1YyeSY_w",
-      "idx": 43,
+      "idx": 36,
       "sent_ids": [
         "bft1YyeSY_w:s0069",
         "bft1YyeSY_w:s0070",
@@ -647,52 +556,39 @@
       "pos_pct": 0.3382781329923274
     },
     {
-      "window_id": "bft1YyeSY_w:j0044",
+      "window_id": "bft1YyeSY_w:j0037",
       "video_id": "bft1YyeSY_w",
-      "idx": 44,
+      "idx": 37,
       "sent_ids": [
-        "bft1YyeSY_w:s0072"
+        "bft1YyeSY_w:s0072",
+        "bft1YyeSY_w:s0073"
       ],
       "start_s": 540.536,
-      "end_s": 551.301,
-      "text": "because they understand, without anyone spelling it out explicitly, what the next stages look like and what the end point of the process is if they don't correct course.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 554.203,
+      "text": "because they understand, without anyone spelling it out explicitly, what the next stages look like and what the end point of the process is if they don't correct course. This is deterrence without a criminal code.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.3456112531969309
     },
     {
-      "window_id": "bft1YyeSY_w:j0045",
+      "window_id": "bft1YyeSY_w:j0038",
       "video_id": "bft1YyeSY_w",
-      "idx": 45,
+      "idx": 38,
       "sent_ids": [
-        "bft1YyeSY_w:s0073",
-        "bft1YyeSY_w:s0074"
-      ],
-      "start_s": 551.902,
-      "end_s": 558.085,
-      "text": "This is deterrence without a criminal code. It's working through reputation mechanics that are older than language itself.",
-      "n_words": 18,
-      "n_sentences": 2,
-      "pos_pct": 0.35287851662404096
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0046",
-      "video_id": "bft1YyeSY_w",
-      "idx": 46,
-      "sent_ids": [
+        "bft1YyeSY_w:s0074",
         "bft1YyeSY_w:s0075"
       ],
-      "start_s": 558.885,
+      "start_s": 554.603,
       "end_s": 566.99,
-      "text": "If gossip failed to produce the necessary correction, the second stage was public criticism and ridicule delivered openly, in front of the entire group.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.3573433503836317
+      "text": "It's working through reputation mechanics that are older than language itself. If gossip failed to produce the necessary correction, the second stage was public criticism and ridicule delivered openly, in front of the entire group.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.3546054987212276
     },
     {
-      "window_id": "bft1YyeSY_w:j0047",
+      "window_id": "bft1YyeSY_w:j0039",
       "video_id": "bft1YyeSY_w",
-      "idx": 47,
+      "idx": 39,
       "sent_ids": [
         "bft1YyeSY_w:s0076",
         "bft1YyeSY_w:s0077"
@@ -705,9 +601,9 @@
       "pos_pct": 0.36304987212276213
     },
     {
-      "window_id": "bft1YyeSY_w:j0048",
+      "window_id": "bft1YyeSY_w:j0040",
       "video_id": "bft1YyeSY_w",
-      "idx": 48,
+      "idx": 40,
       "sent_ids": [
         "bft1YyeSY_w:s0078"
       ],
@@ -719,37 +615,24 @@
       "pos_pct": 0.36997250639386187
     },
     {
-      "window_id": "bft1YyeSY_w:j0049",
+      "window_id": "bft1YyeSY_w:j0041",
       "video_id": "bft1YyeSY_w",
-      "idx": 49,
+      "idx": 41,
       "sent_ids": [
-        "bft1YyeSY_w:s0079"
+        "bft1YyeSY_w:s0079",
+        "bft1YyeSY_w:s0080"
       ],
       "start_s": 592.411,
-      "end_s": 600.258,
-      "text": "The informal protection and goodwill the group normally extends to its members has been formally suspended for you, pending behavioral correction.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 608.951,
+      "text": "The informal protection and goodwill the group normally extends to its members has been formally suspended for you, pending behavioral correction. Your status is being publicly revised downward in a way that everyone witnesses, and that becomes part of the community's shared understanding of who you are.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.37877941176470586
     },
     {
-      "window_id": "bft1YyeSY_w:j0050",
+      "window_id": "bft1YyeSY_w:j0042",
       "video_id": "bft1YyeSY_w",
-      "idx": 50,
-      "sent_ids": [
-        "bft1YyeSY_w:s0080"
-      ],
-      "start_s": 600.999,
-      "end_s": 608.951,
-      "text": "Your status is being publicly revised downward in a way that everyone witnesses, and that becomes part of the community's shared understanding of who you are.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.3842704603580563
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0051",
-      "video_id": "bft1YyeSY_w",
-      "idx": 51,
+      "idx": 42,
       "sent_ids": [
         "bft1YyeSY_w:s0081"
       ],
@@ -761,9 +644,9 @@
       "pos_pct": 0.38981585677749364
     },
     {
-      "window_id": "bft1YyeSY_w:j0052",
+      "window_id": "bft1YyeSY_w:j0043",
       "video_id": "bft1YyeSY_w",
-      "idx": 52,
+      "idx": 43,
       "sent_ids": [
         "bft1YyeSY_w:s0082"
       ],
@@ -775,9 +658,9 @@
       "pos_pct": 0.3944648337595908
     },
     {
-      "window_id": "bft1YyeSY_w:j0053",
+      "window_id": "bft1YyeSY_w:j0044",
       "video_id": "bft1YyeSY_w",
-      "idx": 53,
+      "idx": 44,
       "sent_ids": [
         "bft1YyeSY_w:s0083",
         "bft1YyeSY_w:s0084",
@@ -791,80 +674,54 @@
       "pos_pct": 0.4097960358056266
     },
     {
-      "window_id": "bft1YyeSY_w:j0054",
+      "window_id": "bft1YyeSY_w:j0045",
       "video_id": "bft1YyeSY_w",
-      "idx": 54,
+      "idx": 45,
       "sent_ids": [
-        "bft1YyeSY_w:s0086"
+        "bft1YyeSY_w:s0086",
+        "bft1YyeSY_w:s0087"
       ],
       "start_s": 653.403,
-      "end_s": 664.489,
-      "text": "Communal practices designed with explicit intent to prevent any individual from accumulating more status, resources, or social authority than the community's egalitarian norms permitted.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 672.314,
+      "text": "Communal practices designed with explicit intent to prevent any individual from accumulating more status, resources, or social authority than the community's egalitarian norms permitted. In multiple documented hunter-gatherer cultures, a successful hunter was not expected to announce or celebrate his own achievement.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.41777685421994887
     },
     {
-      "window_id": "bft1YyeSY_w:j0055",
+      "window_id": "bft1YyeSY_w:j0046",
       "video_id": "bft1YyeSY_w",
-      "idx": 55,
+      "idx": 46,
       "sent_ids": [
-        "bft1YyeSY_w:s0087"
-      ],
-      "start_s": 665.27,
-      "end_s": 672.314,
-      "text": "In multiple documented hunter-gatherer cultures, a successful hunter was not expected to announce or celebrate his own achievement.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.4253644501278772
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0056",
-      "video_id": "bft1YyeSY_w",
-      "idx": 56,
-      "sent_ids": [
-        "bft1YyeSY_w:s0088"
+        "bft1YyeSY_w:s0088",
+        "bft1YyeSY_w:s0089"
       ],
       "start_s": 673.034,
-      "end_s": 681.841,
-      "text": "A man who returned to camp and loudly proclaimed that he had made a remarkable kill, that he had been especially skilled, that the group should recognize his contribution.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 688.807,
+      "text": "A man who returned to camp and loudly proclaimed that he had made a remarkable kill, that he had been especially skilled, that the group should recognize his contribution. That man was considered boorish, socially clumsy, and potentially dangerous in his apparent appetite for status.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.4303286445012788
     },
     {
-      "window_id": "bft1YyeSY_w:j0057",
+      "window_id": "bft1YyeSY_w:j0047",
       "video_id": "bft1YyeSY_w",
-      "idx": 57,
+      "idx": 47,
       "sent_ids": [
-        "bft1YyeSY_w:s0089",
-        "bft1YyeSY_w:s0090"
-      ],
-      "start_s": 682.502,
-      "end_s": 690.088,
-      "text": "That man was considered boorish, socially clumsy, and potentially dangerous in his apparent appetite for status. He would be mocked.",
-      "n_words": 20,
-      "n_sentences": 2,
-      "pos_pct": 0.43638235294117644
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0058",
-      "video_id": "bft1YyeSY_w",
-      "idx": 58,
-      "sent_ids": [
+        "bft1YyeSY_w:s0090",
         "bft1YyeSY_w:s0091"
       ],
-      "start_s": 690.789,
+      "start_s": 689.347,
       "end_s": 700.456,
-      "text": "The kill was real, the food was shared, everyone ate it, but the social credit was distributed collectively rather than concentrated in the individual who produced it.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.4416809462915601
+      "text": "He would be mocked. The kill was real, the food was shared, everyone ate it, but the social credit was distributed collectively rather than concentrated in the individual who produced it.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.4407589514066496
     },
     {
-      "window_id": "bft1YyeSY_w:j0059",
+      "window_id": "bft1YyeSY_w:j0048",
       "video_id": "bft1YyeSY_w",
-      "idx": 59,
+      "idx": 48,
       "sent_ids": [
         "bft1YyeSY_w:s0092"
       ],
@@ -876,9 +733,9 @@
       "pos_pct": 0.44839961636828646
     },
     {
-      "window_id": "bft1YyeSY_w:j0060",
+      "window_id": "bft1YyeSY_w:j0049",
       "video_id": "bft1YyeSY_w",
-      "idx": 60,
+      "idx": 49,
       "sent_ids": [
         "bft1YyeSY_w:s0093"
       ],
@@ -890,9 +747,9 @@
       "pos_pct": 0.453812020460358
     },
     {
-      "window_id": "bft1YyeSY_w:j0061",
+      "window_id": "bft1YyeSY_w:j0050",
       "video_id": "bft1YyeSY_w",
-      "idx": 61,
+      "idx": 50,
       "sent_ids": [
         "bft1YyeSY_w:s0094",
         "bft1YyeSY_w:s0095"
@@ -905,9 +762,9 @@
       "pos_pct": 0.464227621483376
     },
     {
-      "window_id": "bft1YyeSY_w:j0062",
+      "window_id": "bft1YyeSY_w:j0051",
       "video_id": "bft1YyeSY_w",
-      "idx": 62,
+      "idx": 51,
       "sent_ids": [
         "bft1YyeSY_w:s0096",
         "bft1YyeSY_w:s0097",
@@ -921,9 +778,9 @@
       "pos_pct": 0.4722538363171356
     },
     {
-      "window_id": "bft1YyeSY_w:j0063",
+      "window_id": "bft1YyeSY_w:j0052",
       "video_id": "bft1YyeSY_w",
-      "idx": 63,
+      "idx": 52,
       "sent_ids": [
         "bft1YyeSY_w:s0099",
         "bft1YyeSY_w:s0100"
@@ -936,9 +793,9 @@
       "pos_pct": 0.48148849104859337
     },
     {
-      "window_id": "bft1YyeSY_w:j0064",
+      "window_id": "bft1YyeSY_w:j0053",
       "video_id": "bft1YyeSY_w",
-      "idx": 64,
+      "idx": 53,
       "sent_ids": [
         "bft1YyeSY_w:s0101"
       ],
@@ -950,9 +807,9 @@
       "pos_pct": 0.4894264705882353
     },
     {
-      "window_id": "bft1YyeSY_w:j0065",
+      "window_id": "bft1YyeSY_w:j0054",
       "video_id": "bft1YyeSY_w",
-      "idx": 65,
+      "idx": 54,
       "sent_ids": [
         "bft1YyeSY_w:s0102",
         "bft1YyeSY_w:s0103"
@@ -965,53 +822,40 @@
       "pos_pct": 0.4981099744245524
     },
     {
-      "window_id": "bft1YyeSY_w:j0066",
+      "window_id": "bft1YyeSY_w:j0055",
       "video_id": "bft1YyeSY_w",
-      "idx": 66,
+      "idx": 55,
       "sent_ids": [
-        "bft1YyeSY_w:s0104"
+        "bft1YyeSY_w:s0104",
+        "bft1YyeSY_w:s0105"
       ],
       "start_s": 788.231,
-      "end_s": 792.275,
-      "text": "You couldn't defend yourself against predators during sleep without others watching.",
-      "n_words": 11,
-      "n_sentences": 1,
+      "end_s": 805.305,
+      "text": "You couldn't defend yourself against predators during sleep without others watching. You couldn't process large game, tend injuries, survive serious illness, carry infants, or maintain the hundred small cooperative tasks that group life made manageable and solo life made nearly impossible.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.5039840153452685
     },
     {
-      "window_id": "bft1YyeSY_w:j0067",
+      "window_id": "bft1YyeSY_w:j0056",
       "video_id": "bft1YyeSY_w",
-      "idx": 67,
+      "idx": 56,
       "sent_ids": [
-        "bft1YyeSY_w:s0105",
-        "bft1YyeSY_w:s0106"
-      ],
-      "start_s": 792.835,
-      "end_s": 807.427,
-      "text": "You couldn't process large game, tend injuries, survive serious illness, carry infants, or maintain the hundred small cooperative tasks that group life made manageable and solo life made nearly impossible. Exclusion from the band removed.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.5069277493606138
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0068",
-      "video_id": "bft1YyeSY_w",
-      "idx": 68,
-      "sent_ids": [
+        "bft1YyeSY_w:s0106",
         "bft1YyeSY_w:s0107",
         "bft1YyeSY_w:s0108"
       ],
-      "start_s": 807.847,
+      "start_s": 805.685,
       "end_s": 817.795,
-      "text": "the cooperative infrastructure that made individual survival viable in harsh environments. It exposed every vulnerability that group membership had been quietly shielding.",
-      "n_words": 22,
-      "n_sentences": 2,
-      "pos_pct": 0.5165262148337596
+      "text": "Exclusion from the band removed. the cooperative infrastructure that made individual survival viable in harsh environments. It exposed every vulnerability that group membership had been quietly shielding.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.5151438618925831
     },
     {
-      "window_id": "bft1YyeSY_w:j0069",
+      "window_id": "bft1YyeSY_w:j0057",
       "video_id": "bft1YyeSY_w",
-      "idx": 69,
+      "idx": 57,
       "sent_ids": [
         "bft1YyeSY_w:s0109",
         "bft1YyeSY_w:s0110"
@@ -1024,9 +868,9 @@
       "pos_pct": 0.5233989769820971
     },
     {
-      "window_id": "bft1YyeSY_w:j0070",
+      "window_id": "bft1YyeSY_w:j0058",
       "video_id": "bft1YyeSY_w",
-      "idx": 70,
+      "idx": 58,
       "sent_ids": [
         "bft1YyeSY_w:s0111"
       ],
@@ -1038,65 +882,39 @@
       "pos_pct": 0.531264705882353
     },
     {
-      "window_id": "bft1YyeSY_w:j0071",
+      "window_id": "bft1YyeSY_w:j0059",
       "video_id": "bft1YyeSY_w",
-      "idx": 71,
+      "idx": 59,
       "sent_ids": [
-        "bft1YyeSY_w:s0112"
+        "bft1YyeSY_w:s0112",
+        "bft1YyeSY_w:s0113"
       ],
       "start_s": 848.781,
-      "end_s": 851.162,
-      "text": "If behavior continued, the exclusion formalized.",
-      "n_words": 6,
-      "n_sentences": 1,
+      "end_s": 864.465,
+      "text": "If behavior continued, the exclusion formalized. In highly mobile groups, the community could simply move camp without the offender, a specific cruelty available only to people who move regularly and who control entirely whether any given individual knows where they've gone.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.5426988491048593
     },
     {
-      "window_id": "bft1YyeSY_w:j0072",
+      "window_id": "bft1YyeSY_w:j0060",
       "video_id": "bft1YyeSY_w",
-      "idx": 72,
+      "idx": 60,
       "sent_ids": [
-        "bft1YyeSY_w:s0113"
-      ],
-      "start_s": 851.682,
-      "end_s": 864.465,
-      "text": "In highly mobile groups, the community could simply move camp without the offender, a specific cruelty available only to people who move regularly and who control entirely whether any given individual knows where they've gone.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.5445537084398977
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0073",
-      "video_id": "bft1YyeSY_w",
-      "idx": 73,
-      "sent_ids": [
-        "bft1YyeSY_w:s0114"
+        "bft1YyeSY_w:s0114",
+        "bft1YyeSY_w:s0115"
       ],
       "start_s": 865.105,
-      "end_s": 875.248,
-      "text": "Cases documented across multiple ethnographic sources involve persistent bullies, chronic resource thieves, and individuals who repeatedly violated sexual boundaries within the group.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 892.21,
+      "text": "Cases documented across multiple ethnographic sources involve persistent bullies, chronic resource thieves, and individuals who repeatedly violated sexual boundaries within the group. For these people, when ostracism was fully applied, the outcomes documented in the ethnographic record were typically one of two things—behavioral correction, in which the person demonstrated genuine change, was cautiously reintegrated, and was watched carefully afterward.",
+      "n_words": 59,
+      "n_sentences": 2,
       "pos_pct": 0.553136189258312
     },
     {
-      "window_id": "bft1YyeSY_w:j0074",
+      "window_id": "bft1YyeSY_w:j0061",
       "video_id": "bft1YyeSY_w",
-      "idx": 74,
-      "sent_ids": [
-        "bft1YyeSY_w:s0115"
-      ],
-      "start_s": 876.235,
-      "end_s": 892.21,
-      "text": "For these people, when ostracism was fully applied, the outcomes documented in the ethnographic record were typically one of two things—behavioral correction, in which the person demonstrated genuine change, was cautiously reintegrated, and was watched carefully afterward.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.560252557544757
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0075",
-      "video_id": "bft1YyeSY_w",
-      "idx": 75,
+      "idx": 61,
       "sent_ids": [
         "bft1YyeSY_w:s0116",
         "bft1YyeSY_w:s0117"
@@ -1109,37 +927,24 @@
       "pos_pct": 0.5710428388746803
     },
     {
-      "window_id": "bft1YyeSY_w:j0076",
+      "window_id": "bft1YyeSY_w:j0062",
       "video_id": "bft1YyeSY_w",
-      "idx": 76,
+      "idx": 62,
       "sent_ids": [
-        "bft1YyeSY_w:s0118"
+        "bft1YyeSY_w:s0118",
+        "bft1YyeSY_w:s0119"
       ],
       "start_s": 903.755,
-      "end_s": 913.482,
-      "text": "Hunter-gatherer execution is one of the most consistently documented and most genuinely startling findings in the extensive ethnographic literature on band societies.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 929.695,
+      "text": "Hunter-gatherer execution is one of the most consistently documented and most genuinely startling findings in the extensive ethnographic literature on band societies. Bohm compiled execution cases from across dozens of hunter-gatherer cultures on multiple continents and found the practice not only widespread but structurally consistent in ways that reveal a coherent underlying logic rather than random violence.",
+      "n_words": 57,
+      "n_sentences": 2,
       "pos_pct": 0.5778484654731457
     },
     {
-      "window_id": "bft1YyeSY_w:j0077",
+      "window_id": "bft1YyeSY_w:j0063",
       "video_id": "bft1YyeSY_w",
-      "idx": 77,
-      "sent_ids": [
-        "bft1YyeSY_w:s0119"
-      ],
-      "start_s": 914.363,
-      "end_s": 929.695,
-      "text": "Bohm compiled execution cases from across dozens of hunter-gatherer cultures on multiple continents and found the practice not only widespread but structurally consistent in ways that reveal a coherent underlying logic rather than random violence.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.584631074168798
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0078",
-      "video_id": "bft1YyeSY_w",
-      "idx": 78,
+      "idx": 63,
       "sent_ids": [
         "bft1YyeSY_w:s0120"
       ],
@@ -1151,37 +956,24 @@
       "pos_pct": 0.5952557544757033
     },
     {
-      "window_id": "bft1YyeSY_w:j0079",
+      "window_id": "bft1YyeSY_w:j0064",
       "video_id": "bft1YyeSY_w",
-      "idx": 79,
+      "idx": 64,
       "sent_ids": [
-        "bft1YyeSY_w:s0121"
+        "bft1YyeSY_w:s0121",
+        "bft1YyeSY_w:s0122"
       ],
       "start_s": 945.941,
-      "end_s": 952.486,
-      "text": "not a designated authority figure acting on institutional mandate, not a chief exercising unilateral power.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 968.478,
+      "text": "not a designated authority figure acting on institutional mandate, not a chief exercising unilateral power. The entire adult community reaching consensus through exactly the same distributed deliberation process that characterized every earlier stage and then a small number of individuals, typically men, carrying out the act on behalf of everyone simultaneously.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.604821611253197
     },
     {
-      "window_id": "bft1YyeSY_w:j0080",
+      "window_id": "bft1YyeSY_w:j0065",
       "video_id": "bft1YyeSY_w",
-      "idx": 80,
-      "sent_ids": [
-        "bft1YyeSY_w:s0122"
-      ],
-      "start_s": 952.906,
-      "end_s": 968.478,
-      "text": "The entire adult community reaching consensus through exactly the same distributed deliberation process that characterized every earlier stage and then a small number of individuals, typically men, carrying out the act on behalf of everyone simultaneously.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.6092749360613811
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0081",
-      "video_id": "bft1YyeSY_w",
-      "idx": 81,
+      "idx": 65,
       "sent_ids": [
         "bft1YyeSY_w:s0123",
         "bft1YyeSY_w:s0124"
@@ -1194,9 +986,9 @@
       "pos_pct": 0.6197308184143223
     },
     {
-      "window_id": "bft1YyeSY_w:j0082",
+      "window_id": "bft1YyeSY_w:j0066",
       "video_id": "bft1YyeSY_w",
-      "idx": 82,
+      "idx": 66,
       "sent_ids": [
         "bft1YyeSY_w:s0125"
       ],
@@ -1208,37 +1000,24 @@
       "pos_pct": 0.6235818414322251
     },
     {
-      "window_id": "bft1YyeSY_w:j0083",
+      "window_id": "bft1YyeSY_w:j0067",
       "video_id": "bft1YyeSY_w",
-      "idx": 83,
+      "idx": 67,
       "sent_ids": [
-        "bft1YyeSY_w:s0126"
+        "bft1YyeSY_w:s0126",
+        "bft1YyeSY_w:s0127"
       ],
       "start_s": 984.887,
-      "end_s": 997.573,
-      "text": "A community that had collectively reached consensus that a member had become an intolerable threat to everyone and that had collectively decided to remove that threat was doing something categorically different from individual violence.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 1005.761,
+      "text": "A community that had collectively reached consensus that a member had become an intolerable threat to everyone and that had collectively decided to remove that threat was doing something categorically different from individual violence. The communal nature of the act removed it from the domain of personal grievance and placed it explicitly in the domain of social necessity.",
+      "n_words": 58,
+      "n_sentences": 2,
       "pos_pct": 0.6297231457800511
     },
     {
-      "window_id": "bft1YyeSY_w:j0084",
+      "window_id": "bft1YyeSY_w:j0068",
       "video_id": "bft1YyeSY_w",
-      "idx": 84,
-      "sent_ids": [
-        "bft1YyeSY_w:s0127"
-      ],
-      "start_s": 998.473,
-      "end_s": 1005.761,
-      "text": "The communal nature of the act removed it from the domain of personal grievance and placed it explicitly in the domain of social necessity.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.6384098465473146
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0085",
-      "video_id": "bft1YyeSY_w",
-      "idx": 85,
+      "idx": 68,
       "sent_ids": [
         "bft1YyeSY_w:s0128",
         "bft1YyeSY_w:s0129"
@@ -1251,37 +1030,24 @@
       "pos_pct": 0.6436278772378516
     },
     {
-      "window_id": "bft1YyeSY_w:j0086",
+      "window_id": "bft1YyeSY_w:j0069",
       "video_id": "bft1YyeSY_w",
-      "idx": 86,
+      "idx": 69,
       "sent_ids": [
-        "bft1YyeSY_w:s0130"
+        "bft1YyeSY_w:s0130",
+        "bft1YyeSY_w:s0131"
       ],
       "start_s": 1019.177,
-      "end_s": 1032.22,
-      "text": "Unprovoked and repeated serious violence against group members, serial killing within the band, predatory sexual behavior that the individual had demonstrated across multiple rounds of lesser intervention was not going to stop.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 1036.201,
+      "text": "Unprovoked and repeated serious violence against group members, serial killing within the band, predatory sexual behavior that the individual had demonstrated across multiple rounds of lesser intervention was not going to stop. The threshold was not a single act in the heat of conflict.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.6516476982097187
     },
     {
-      "window_id": "bft1YyeSY_w:j0087",
+      "window_id": "bft1YyeSY_w:j0070",
       "video_id": "bft1YyeSY_w",
-      "idx": 87,
-      "sent_ids": [
-        "bft1YyeSY_w:s0131"
-      ],
-      "start_s": 1032.82,
-      "end_s": 1036.201,
-      "text": "The threshold was not a single act in the heat of conflict.",
-      "n_words": 12,
-      "n_sentences": 1,
-      "pos_pct": 0.6603708439897698
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0088",
-      "video_id": "bft1YyeSY_w",
-      "idx": 88,
+      "idx": 70,
       "sent_ids": [
         "bft1YyeSY_w:s0132"
       ],
@@ -1293,9 +1059,9 @@
       "pos_pct": 0.6631214833759591
     },
     {
-      "window_id": "bft1YyeSY_w:j0089",
+      "window_id": "bft1YyeSY_w:j0071",
       "video_id": "bft1YyeSY_w",
-      "idx": 89,
+      "idx": 71,
       "sent_ids": [
         "bft1YyeSY_w:s0133",
         "bft1YyeSY_w:s0134",
@@ -1310,9 +1076,9 @@
       "pos_pct": 0.6754789002557545
     },
     {
-      "window_id": "bft1YyeSY_w:j0090",
+      "window_id": "bft1YyeSY_w:j0072",
       "video_id": "bft1YyeSY_w",
-      "idx": 90,
+      "idx": 72,
       "sent_ids": [
         "bft1YyeSY_w:s0137",
         "bft1YyeSY_w:s0138",
@@ -1327,9 +1093,9 @@
       "pos_pct": 0.6840006393861893
     },
     {
-      "window_id": "bft1YyeSY_w:j0091",
+      "window_id": "bft1YyeSY_w:j0073",
       "video_id": "bft1YyeSY_w",
-      "idx": 91,
+      "idx": 73,
       "sent_ids": [
         "bft1YyeSY_w:s0141",
         "bft1YyeSY_w:s0142",
@@ -1344,37 +1110,24 @@
       "pos_pct": 0.69181905370844
     },
     {
-      "window_id": "bft1YyeSY_w:j0092",
+      "window_id": "bft1YyeSY_w:j0074",
       "video_id": "bft1YyeSY_w",
-      "idx": 92,
+      "idx": 74,
       "sent_ids": [
-        "bft1YyeSY_w:s0145"
+        "bft1YyeSY_w:s0145",
+        "bft1YyeSY_w:s0146"
       ],
       "start_s": 1092.152,
-      "end_s": 1101.92,
-      "text": "The explicit goal is not personal revenge, but the restoration and maintenance of a functional, safe, cooperative social environment for everyone who depends on it.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 1109.855,
+      "text": "The explicit goal is not personal revenge, but the restoration and maintenance of a functional, safe, cooperative social environment for everyone who depends on it. Now fast forward several thousand years, because this is where the story takes a turn that complicates the simple narrative of human progress.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.698306905370844
     },
     {
-      "window_id": "bft1YyeSY_w:j0093",
+      "window_id": "bft1YyeSY_w:j0075",
       "video_id": "bft1YyeSY_w",
-      "idx": 93,
-      "sent_ids": [
-        "bft1YyeSY_w:s0146"
-      ],
-      "start_s": 1102.97,
-      "end_s": 1109.855,
-      "text": "Now fast forward several thousand years, because this is where the story takes a turn that complicates the simple narrative of human progress.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.7052237851662404
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0094",
-      "video_id": "bft1YyeSY_w",
-      "idx": 94,
+      "idx": 75,
       "sent_ids": [
         "bft1YyeSY_w:s0147",
         "bft1YyeSY_w:s0148",
@@ -1388,9 +1141,9 @@
       "pos_pct": 0.7100869565217391
     },
     {
-      "window_id": "bft1YyeSY_w:j0095",
+      "window_id": "bft1YyeSY_w:j0076",
       "video_id": "bft1YyeSY_w",
-      "idx": 95,
+      "idx": 76,
       "sent_ids": [
         "bft1YyeSY_w:s0150",
         "bft1YyeSY_w:s0151"
@@ -1403,69 +1156,56 @@
       "pos_pct": 0.7177512787723785
     },
     {
-      "window_id": "bft1YyeSY_w:j0096",
+      "window_id": "bft1YyeSY_w:j0077",
       "video_id": "bft1YyeSY_w",
-      "idx": 96,
+      "idx": 77,
       "sent_ids": [
-        "bft1YyeSY_w:s0152"
+        "bft1YyeSY_w:s0152",
+        "bft1YyeSY_w:s0153"
       ],
       "start_s": 1136.19,
-      "end_s": 1149.935,
-      "text": "The oldest physical law code that archaeologists have so far recovered is the Code of Ur-Nammu, written in ancient Sumer in Mesopotamia around 2100-2050 BCE, more than 4,000 years ago.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 1160.018,
+      "text": "The oldest physical law code that archaeologists have so far recovered is the Code of Ur-Nammu, written in ancient Sumer in Mesopotamia around 2100-2050 BCE, more than 4,000 years ago. It was inscribed on clay tablets in cuneiform script, organized in a logical IF-THEN structure that any modern lawmaker would immediately recognize.",
+      "n_words": 52,
+      "n_sentences": 2,
       "pos_pct": 0.7264641943734016
     },
     {
-      "window_id": "bft1YyeSY_w:j0097",
+      "window_id": "bft1YyeSY_w:j0078",
       "video_id": "bft1YyeSY_w",
-      "idx": 97,
+      "idx": 78,
       "sent_ids": [
-        "bft1YyeSY_w:s0153",
         "bft1YyeSY_w:s0154",
         "bft1YyeSY_w:s0155",
-        "bft1YyeSY_w:s0156"
+        "bft1YyeSY_w:s0156",
+        "bft1YyeSY_w:s0157"
       ],
-      "start_s": 1151.035,
-      "end_s": 1166.748,
-      "text": "It was inscribed on clay tablets in cuneiform script, organized in a logical IF-THEN structure that any modern lawmaker would immediately recognize. If a person commits offense X, the legal consequence is Y. Clean. Legible.",
-      "n_words": 35,
+      "start_s": 1160.478,
+      "end_s": 1167.729,
+      "text": "If a person commits offense X, the legal consequence is Y. Clean. Legible. Consistent.",
+      "n_words": 14,
       "n_sentences": 4,
-      "pos_pct": 0.7359558823529412
+      "pos_pct": 0.7419936061381075
     },
     {
-      "window_id": "bft1YyeSY_w:j0098",
+      "window_id": "bft1YyeSY_w:j0079",
       "video_id": "bft1YyeSY_w",
-      "idx": 98,
+      "idx": 79,
       "sent_ids": [
-        "bft1YyeSY_w:s0157",
-        "bft1YyeSY_w:s0158"
-      ],
-      "start_s": 1167.149,
-      "end_s": 1176.357,
-      "text": "Consistent. Written down so that it applied predictably to everyone, rather than being administered differently in every individual case by whoever happened to be in charge that day.",
-      "n_words": 28,
-      "n_sentences": 2,
-      "pos_pct": 0.7462589514066496
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0099",
-      "video_id": "bft1YyeSY_w",
-      "idx": 99,
-      "sent_ids": [
+        "bft1YyeSY_w:s0158",
         "bft1YyeSY_w:s0159"
       ],
-      "start_s": 1177.555,
+      "start_s": 1168.07,
       "end_s": 1185.842,
-      "text": "What's genuinely remarkable about Ur-Nammu's code, when you look at it closely, is the approach it took to physical harm between ordinary people.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.7529124040920716
+      "text": "Written down so that it applied predictably to everyone, rather than being administered differently in every individual case by whoever happened to be in charge that day. What's genuinely remarkable about Ur-Nammu's code, when you look at it closely, is the approach it took to physical harm between ordinary people.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.7468478260869564
     },
     {
-      "window_id": "bft1YyeSY_w:j0100",
+      "window_id": "bft1YyeSY_w:j0080",
       "video_id": "bft1YyeSY_w",
-      "idx": 100,
+      "idx": 80,
       "sent_ids": [
         "bft1YyeSY_w:s0160",
         "bft1YyeSY_w:s0161"
@@ -1478,9 +1218,9 @@
       "pos_pct": 0.7587992327365729
     },
     {
-      "window_id": "bft1YyeSY_w:j0101",
+      "window_id": "bft1YyeSY_w:j0081",
       "video_id": "bft1YyeSY_w",
-      "idx": 101,
+      "idx": 81,
       "sent_ids": [
         "bft1YyeSY_w:s0162",
         "bft1YyeSY_w:s0163"
@@ -1493,9 +1233,9 @@
       "pos_pct": 0.767962915601023
     },
     {
-      "window_id": "bft1YyeSY_w:j0102",
+      "window_id": "bft1YyeSY_w:j0082",
       "video_id": "bft1YyeSY_w",
-      "idx": 102,
+      "idx": 82,
       "sent_ids": [
         "bft1YyeSY_w:s0164",
         "bft1YyeSY_w:s0165"
@@ -1508,9 +1248,9 @@
       "pos_pct": 0.7745812020460358
     },
     {
-      "window_id": "bft1YyeSY_w:j0103",
+      "window_id": "bft1YyeSY_w:j0083",
       "video_id": "bft1YyeSY_w",
-      "idx": 103,
+      "idx": 83,
       "sent_ids": [
         "bft1YyeSY_w:s0166",
         "bft1YyeSY_w:s0167"
@@ -1523,9 +1263,9 @@
       "pos_pct": 0.7826048593350383
     },
     {
-      "window_id": "bft1YyeSY_w:j0104",
+      "window_id": "bft1YyeSY_w:j0084",
       "video_id": "bft1YyeSY_w",
-      "idx": 104,
+      "idx": 84,
       "sent_ids": [
         "bft1YyeSY_w:s0168"
       ],
@@ -1537,9 +1277,9 @@
       "pos_pct": 0.7917071611253197
     },
     {
-      "window_id": "bft1YyeSY_w:j0105",
+      "window_id": "bft1YyeSY_w:j0085",
       "video_id": "bft1YyeSY_w",
-      "idx": 105,
+      "idx": 85,
       "sent_ids": [
         "bft1YyeSY_w:s0169"
       ],
@@ -1551,9 +1291,9 @@
       "pos_pct": 0.7985127877237852
     },
     {
-      "window_id": "bft1YyeSY_w:j0106",
+      "window_id": "bft1YyeSY_w:j0086",
       "video_id": "bft1YyeSY_w",
-      "idx": 106,
+      "idx": 86,
       "sent_ids": [
         "bft1YyeSY_w:s0170",
         "bft1YyeSY_w:s0171"
@@ -1566,68 +1306,55 @@
       "pos_pct": 0.8095524296675193
     },
     {
-      "window_id": "bft1YyeSY_w:j0107",
+      "window_id": "bft1YyeSY_w:j0087",
       "video_id": "bft1YyeSY_w",
-      "idx": 107,
+      "idx": 87,
       "sent_ids": [
-        "bft1YyeSY_w:s0172"
+        "bft1YyeSY_w:s0172",
+        "bft1YyeSY_w:s0173"
       ],
       "start_s": 1280.292,
-      "end_s": 1292.603,
-      "text": "The principle is called lex talionis, the law of retaliation, and Hammurabi didn't invent the concept, but he elevated it to a formal prominence it had never previously achieved in written law.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 1298.781,
+      "text": "The principle is called lex talionis, the law of retaliation, and Hammurabi didn't invent the concept, but he elevated it to a formal prominence it had never previously achieved in written law. Under his code, the punishment was designed to mirror the crime physically and directly.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.8186010230179027
     },
     {
-      "window_id": "bft1YyeSY_w:j0108",
+      "window_id": "bft1YyeSY_w:j0088",
       "video_id": "bft1YyeSY_w",
-      "idx": 108,
+      "idx": 88,
       "sent_ids": [
-        "bft1YyeSY_w:s0173",
-        "bft1YyeSY_w:s0174"
-      ],
-      "start_s": 1294.137,
-      "end_s": 1305.748,
-      "text": "Under his code, the punishment was designed to mirror the crime physically and directly. If a builder constructed a house that collapsed and killed the owner's son, the builder's son would be executed.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.8274533248081841
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0109",
-      "video_id": "bft1YyeSY_w",
-      "idx": 109,
-      "sent_ids": [
+        "bft1YyeSY_w:s0174",
         "bft1YyeSY_w:s0175",
-        "bft1YyeSY_w:s0176",
-        "bft1YyeSY_w:s0177"
+        "bft1YyeSY_w:s0176"
       ],
-      "start_s": 1306.669,
-      "end_s": 1319.301,
-      "text": "Not the builder. His son. The logic of collective family accountability for individual crimes produced some of the code's most striking and, to modern eyes, most troubling provisions.",
-      "n_words": 28,
+      "start_s": 1299.882,
+      "end_s": 1308.951,
+      "text": "If a builder constructed a house that collapsed and killed the owner's son, the builder's son would be executed. Not the builder. His son.",
+      "n_words": 24,
       "n_sentences": 3,
-      "pos_pct": 0.8354661125319693
+      "pos_pct": 0.8311265984654732
     },
     {
-      "window_id": "bft1YyeSY_w:j0110",
+      "window_id": "bft1YyeSY_w:j0089",
       "video_id": "bft1YyeSY_w",
-      "idx": 110,
+      "idx": 89,
       "sent_ids": [
+        "bft1YyeSY_w:s0177",
         "bft1YyeSY_w:s0178"
       ],
-      "start_s": 1320.365,
+      "start_s": 1309.972,
       "end_s": 1334.736,
-      "text": "But the element of Hammurabi's code that most sharply distinguishes it from everything that came before, including the hunter-gatherer system Bohm documented, is its explicit, formal, built-in class stratification of punishment.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.8442231457800512
+      "text": "The logic of collective family accountability for individual crimes produced some of the code's most striking and, to modern eyes, most troubling provisions. But the element of Hammurabi's code that most sharply distinguishes it from everything that came before, including the hunter-gatherer system Bohm documented, is its explicit, formal, built-in class stratification of punishment.",
+      "n_words": 54,
+      "n_sentences": 2,
+      "pos_pct": 0.8375780051150895
     },
     {
-      "window_id": "bft1YyeSY_w:j0111",
+      "window_id": "bft1YyeSY_w:j0090",
       "video_id": "bft1YyeSY_w",
-      "idx": 111,
+      "idx": 90,
       "sent_ids": [
         "bft1YyeSY_w:s0179",
         "bft1YyeSY_w:s0180"
@@ -1640,9 +1367,9 @@
       "pos_pct": 0.8540006393861892
     },
     {
-      "window_id": "bft1YyeSY_w:j0112",
+      "window_id": "bft1YyeSY_w:j0091",
       "video_id": "bft1YyeSY_w",
-      "idx": 112,
+      "idx": 91,
       "sent_ids": [
         "bft1YyeSY_w:s0181",
         "bft1YyeSY_w:s0182",
@@ -1656,9 +1383,9 @@
       "pos_pct": 0.8607282608695652
     },
     {
-      "window_id": "bft1YyeSY_w:j0113",
+      "window_id": "bft1YyeSY_w:j0092",
       "video_id": "bft1YyeSY_w",
-      "idx": 113,
+      "idx": 92,
       "sent_ids": [
         "bft1YyeSY_w:s0184",
         "bft1YyeSY_w:s0185",
@@ -1673,9 +1400,9 @@
       "pos_pct": 0.8672659846547315
     },
     {
-      "window_id": "bft1YyeSY_w:j0114",
+      "window_id": "bft1YyeSY_w:j0093",
       "video_id": "bft1YyeSY_w",
-      "idx": 114,
+      "idx": 93,
       "sent_ids": [
         "bft1YyeSY_w:s0188"
       ],
@@ -1687,9 +1414,9 @@
       "pos_pct": 0.8788599744245524
     },
     {
-      "window_id": "bft1YyeSY_w:j0115",
+      "window_id": "bft1YyeSY_w:j0094",
       "video_id": "bft1YyeSY_w",
-      "idx": 115,
+      "idx": 94,
       "sent_ids": [
         "bft1YyeSY_w:s0189"
       ],
@@ -1701,9 +1428,9 @@
       "pos_pct": 0.8854884910485934
     },
     {
-      "window_id": "bft1YyeSY_w:j0116",
+      "window_id": "bft1YyeSY_w:j0095",
       "video_id": "bft1YyeSY_w",
-      "idx": 116,
+      "idx": 95,
       "sent_ids": [
         "bft1YyeSY_w:s0190"
       ],
@@ -1715,9 +1442,9 @@
       "pos_pct": 0.897900895140665
     },
     {
-      "window_id": "bft1YyeSY_w:j0117",
+      "window_id": "bft1YyeSY_w:j0096",
       "video_id": "bft1YyeSY_w",
-      "idx": 117,
+      "idx": 96,
       "sent_ids": [
         "bft1YyeSY_w:s0191",
         "bft1YyeSY_w:s0192"
@@ -1730,9 +1457,9 @@
       "pos_pct": 0.908121483375959
     },
     {
-      "window_id": "bft1YyeSY_w:j0118",
+      "window_id": "bft1YyeSY_w:j0097",
       "video_id": "bft1YyeSY_w",
-      "idx": 118,
+      "idx": 97,
       "sent_ids": [
         "bft1YyeSY_w:s0193",
         "bft1YyeSY_w:s0194"
@@ -1745,9 +1472,9 @@
       "pos_pct": 0.9139667519181586
     },
     {
-      "window_id": "bft1YyeSY_w:j0119",
+      "window_id": "bft1YyeSY_w:j0098",
       "video_id": "bft1YyeSY_w",
-      "idx": 119,
+      "idx": 98,
       "sent_ids": [
         "bft1YyeSY_w:s0195",
         "bft1YyeSY_w:s0196"
@@ -1760,9 +1487,9 @@
       "pos_pct": 0.9300831202046036
     },
     {
-      "window_id": "bft1YyeSY_w:j0120",
+      "window_id": "bft1YyeSY_w:j0099",
       "video_id": "bft1YyeSY_w",
-      "idx": 120,
+      "idx": 99,
       "sent_ids": [
         "bft1YyeSY_w:s0197",
         "bft1YyeSY_w:s0198",
@@ -1776,9 +1503,9 @@
       "pos_pct": 0.9356221227621484
     },
     {
-      "window_id": "bft1YyeSY_w:j0121",
+      "window_id": "bft1YyeSY_w:j0100",
       "video_id": "bft1YyeSY_w",
-      "idx": 121,
+      "idx": 100,
       "sent_ids": [
         "bft1YyeSY_w:s0200",
         "bft1YyeSY_w:s0201"
@@ -1791,9 +1518,9 @@
       "pos_pct": 0.9427730179028133
     },
     {
-      "window_id": "bft1YyeSY_w:j0122",
+      "window_id": "bft1YyeSY_w:j0101",
       "video_id": "bft1YyeSY_w",
-      "idx": 122,
+      "idx": 101,
       "sent_ids": [
         "bft1YyeSY_w:s0202",
         "bft1YyeSY_w:s0203"
@@ -1806,9 +1533,9 @@
       "pos_pct": 0.95153452685422
     },
     {
-      "window_id": "bft1YyeSY_w:j0123",
+      "window_id": "bft1YyeSY_w:j0102",
       "video_id": "bft1YyeSY_w",
-      "idx": 123,
+      "idx": 102,
       "sent_ids": [
         "bft1YyeSY_w:s0204",
         "bft1YyeSY_w:s0205"
@@ -1821,37 +1548,24 @@
       "pos_pct": 0.9602602301790282
     },
     {
-      "window_id": "bft1YyeSY_w:j0124",
+      "window_id": "bft1YyeSY_w:j0103",
       "video_id": "bft1YyeSY_w",
-      "idx": 124,
+      "idx": 103,
       "sent_ids": [
-        "bft1YyeSY_w:s0206"
+        "bft1YyeSY_w:s0206",
+        "bft1YyeSY_w:s0207"
       ],
       "start_s": 1511.915,
-      "end_s": 1516.218,
-      "text": "The ability to govern communities far too large for everyone to know everyone personally.",
-      "n_words": 14,
-      "n_sentences": 1,
+      "end_s": 1527.672,
+      "text": "The ability to govern communities far too large for everyone to know everyone personally. but it also introduced the formalization of social inequality into the structure of justice itself in a way that the hunter-gatherer system had been actively and consciously fighting against for most of human existence.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.9666975703324808
     },
     {
-      "window_id": "bft1YyeSY_w:j0125",
+      "window_id": "bft1YyeSY_w:j0104",
       "video_id": "bft1YyeSY_w",
-      "idx": 125,
-      "sent_ids": [
-        "bft1YyeSY_w:s0207"
-      ],
-      "start_s": 1517.029,
-      "end_s": 1527.672,
-      "text": "but it also introduced the formalization of social inequality into the structure of justice itself in a way that the hunter-gatherer system had been actively and consciously fighting against for most of human existence.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.9699673913043478
-    },
-    {
-      "window_id": "bft1YyeSY_w:j0126",
-      "video_id": "bft1YyeSY_w",
-      "idx": 126,
+      "idx": 104,
       "sent_ids": [
         "bft1YyeSY_w:s0208"
       ],
@@ -1863,9 +1577,9 @@
       "pos_pct": 0.9772589514066496
     },
     {
-      "window_id": "bft1YyeSY_w:j0127",
+      "window_id": "bft1YyeSY_w:j0105",
       "video_id": "bft1YyeSY_w",
-      "idx": 127,
+      "idx": 105,
       "sent_ids": [
         "bft1YyeSY_w:s0209",
         "bft1YyeSY_w:s0210"
@@ -1878,9 +1592,9 @@
       "pos_pct": 0.9861234015345268
     },
     {
-      "window_id": "bft1YyeSY_w:j0128",
+      "window_id": "bft1YyeSY_w:j0106",
       "video_id": "bft1YyeSY_w",
-      "idx": 128,
+      "idx": 106,
       "sent_ids": [
         "bft1YyeSY_w:s0211",
         "bft1YyeSY_w:s0212"

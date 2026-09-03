@@ -1,39 +1,26 @@
 {
   "video_id": "z1StpnRL4k4",
-  "generated_at": "2026-09-03T11:59:53.029703+00:00",
+  "generated_at": "2026-09-03T13:18:13.155009+00:00",
   "windows": [
     {
       "window_id": "z1StpnRL4k4:j0000",
       "video_id": "z1StpnRL4k4",
       "idx": 0,
       "sent_ids": [
-        "z1StpnRL4k4:s0000"
+        "z1StpnRL4k4:s0000",
+        "z1StpnRL4k4:s0001"
       ],
       "start_s": 0.051,
-      "end_s": 10.199,
-      "text": "In the 9th century, somewhere in the mountains of Sichuan or Shanxi province in China, a group of Taoist alchemists were trying to do something that had absolutely nothing to do with warfare.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 12.261,
+      "text": "In the 9th century, somewhere in the mountains of Sichuan or Shanxi province in China, a group of Taoist alchemists were trying to do something that had absolutely nothing to do with warfare. They were trying to live forever.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 3.9812646370023414e-05
     },
     {
       "window_id": "z1StpnRL4k4:j0001",
       "video_id": "z1StpnRL4k4",
       "idx": 1,
-      "sent_ids": [
-        "z1StpnRL4k4:s0001"
-      ],
-      "start_s": 10.62,
-      "end_s": 12.261,
-      "text": "They were trying to live forever.",
-      "n_words": 6,
-      "n_sentences": 1,
-      "pos_pct": 0.0082903981264637
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0002",
-      "video_id": "z1StpnRL4k4",
-      "idx": 2,
       "sent_ids": [
         "z1StpnRL4k4:s0002"
       ],
@@ -45,9 +32,9 @@
       "pos_pct": 0.00979000780640125
     },
     {
-      "window_id": "z1StpnRL4k4:j0003",
+      "window_id": "z1StpnRL4k4:j0002",
       "video_id": "z1StpnRL4k4",
-      "idx": 3,
+      "idx": 2,
       "sent_ids": [
         "z1StpnRL4k4:s0003",
         "z1StpnRL4k4:s0004",
@@ -61,37 +48,24 @@
       "pos_pct": 0.0212903981264637
     },
     {
-      "window_id": "z1StpnRL4k4:j0004",
+      "window_id": "z1StpnRL4k4:j0003",
       "video_id": "z1StpnRL4k4",
-      "idx": 4,
+      "idx": 3,
       "sent_ids": [
-        "z1StpnRL4k4:s0006"
+        "z1StpnRL4k4:s0006",
+        "z1StpnRL4k4:s0007"
       ],
       "start_s": 38.566,
-      "end_s": 47.357,
-      "text": "There are accounts of singed beards and burned down workshops scattered through the early historical record, which tells you everything you need to know about how that first encounter actually went.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 50.101,
+      "text": "There are accounts of singed beards and burned down workshops scattered through the early historical record, which tells you everything you need to know about how that first encounter actually went. Nobody in that room was trying to invent a weapon.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.03010616705698673
     },
     {
-      "window_id": "z1StpnRL4k4:j0005",
+      "window_id": "z1StpnRL4k4:j0004",
       "video_id": "z1StpnRL4k4",
-      "idx": 5,
-      "sent_ids": [
-        "z1StpnRL4k4:s0007"
-      ],
-      "start_s": 47.597,
-      "end_s": 50.101,
-      "text": "Nobody in that room was trying to invent a weapon.",
-      "n_words": 10,
-      "n_sentences": 1,
-      "pos_pct": 0.037156128024980487
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0006",
-      "video_id": "z1StpnRL4k4",
-      "idx": 6,
+      "idx": 4,
       "sent_ids": [
         "z1StpnRL4k4:s0008"
       ],
@@ -103,9 +77,9 @@
       "pos_pct": 0.03922014051522248
     },
     {
-      "window_id": "z1StpnRL4k4:j0007",
+      "window_id": "z1StpnRL4k4:j0005",
       "video_id": "z1StpnRL4k4",
-      "idx": 7,
+      "idx": 5,
       "sent_ids": [
         "z1StpnRL4k4:s0009"
       ],
@@ -117,9 +91,9 @@
       "pos_pct": 0.0488048399687744
     },
     {
-      "window_id": "z1StpnRL4k4:j0008",
+      "window_id": "z1StpnRL4k4:j0006",
       "video_id": "z1StpnRL4k4",
-      "idx": 8,
+      "idx": 6,
       "sent_ids": [
         "z1StpnRL4k4:s0010",
         "z1StpnRL4k4:s0011"
@@ -132,80 +106,54 @@
       "pos_pct": 0.061444184231069475
     },
     {
+      "window_id": "z1StpnRL4k4:j0007",
+      "video_id": "z1StpnRL4k4",
+      "idx": 7,
+      "sent_ids": [
+        "z1StpnRL4k4:s0012",
+        "z1StpnRL4k4:s0013"
+      ],
+      "start_s": 87.476,
+      "end_s": 102.648,
+      "text": "A siege that proved the new technology actually worked. Several centuries of careful refinement and a slow, steady migration of knowledge across an entire continent that eventually reshaped the balance of power on every inhabited landmass on Earth.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.06828727556596409
+    },
+    {
+      "window_id": "z1StpnRL4k4:j0008",
+      "video_id": "z1StpnRL4k4",
+      "idx": 8,
+      "sent_ids": [
+        "z1StpnRL4k4:s0014",
+        "z1StpnRL4k4:s0015"
+      ],
+      "start_s": 103.268,
+      "end_s": 120.638,
+      "text": "Let's start with what that early gunpowder mixture actually was, in the simplest possible terms, because understanding the basic chemistry helps explain why everything that followed happened the way it did. The mixture those alchemists stumbled onto combined potassium nitrate, known as saltpeter, with charcoal and sulfur.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.0806151444184231
+    },
+    {
       "window_id": "z1StpnRL4k4:j0009",
       "video_id": "z1StpnRL4k4",
       "idx": 9,
       "sent_ids": [
-        "z1StpnRL4k4:s0012"
+        "z1StpnRL4k4:s0016",
+        "z1StpnRL4k4:s0017"
       ],
-      "start_s": 87.476,
-      "end_s": 90.999,
-      "text": "A siege that proved the new technology actually worked.",
-      "n_words": 9,
-      "n_sentences": 1,
-      "pos_pct": 0.06828727556596409
+      "start_s": 120.838,
+      "end_s": 135.186,
+      "text": "in roughly a 75 to 15 to 10 ratio by weight. The saltpeter functioned as an oxidizer, meaning it released oxygen rapidly when heated, feeding an extremely fast combustion reaction that produced a sudden, violent expansion of gas.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.09433099141295861
     },
     {
       "window_id": "z1StpnRL4k4:j0010",
       "video_id": "z1StpnRL4k4",
       "idx": 10,
-      "sent_ids": [
-        "z1StpnRL4k4:s0013"
-      ],
-      "start_s": 91.339,
-      "end_s": 102.648,
-      "text": "Several centuries of careful refinement and a slow, steady migration of knowledge across an entire continent that eventually reshaped the balance of power on every inhabited landmass on Earth.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.07130288836846214
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0011",
-      "video_id": "z1StpnRL4k4",
-      "idx": 11,
-      "sent_ids": [
-        "z1StpnRL4k4:s0014"
-      ],
-      "start_s": 103.268,
-      "end_s": 113.874,
-      "text": "Let's start with what that early gunpowder mixture actually was, in the simplest possible terms, because understanding the basic chemistry helps explain why everything that followed happened the way it did.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.0806151444184231
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0012",
-      "video_id": "z1StpnRL4k4",
-      "idx": 12,
-      "sent_ids": [
-        "z1StpnRL4k4:s0015",
-        "z1StpnRL4k4:s0016"
-      ],
-      "start_s": 114.074,
-      "end_s": 124.36,
-      "text": "The mixture those alchemists stumbled onto combined potassium nitrate, known as saltpeter, with charcoal and sulfur. in roughly a 75 to 15 to 10 ratio by weight.",
-      "n_words": 27,
-      "n_sentences": 2,
-      "pos_pct": 0.08905074160811866
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0013",
-      "video_id": "z1StpnRL4k4",
-      "idx": 13,
-      "sent_ids": [
-        "z1StpnRL4k4:s0017"
-      ],
-      "start_s": 124.58,
-      "end_s": 135.186,
-      "text": "The saltpeter functioned as an oxidizer, meaning it released oxygen rapidly when heated, feeding an extremely fast combustion reaction that produced a sudden, violent expansion of gas.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.09725214676034348
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0014",
-      "video_id": "z1StpnRL4k4",
-      "idx": 14,
       "sent_ids": [
         "z1StpnRL4k4:s0018"
       ],
@@ -217,37 +165,24 @@
       "pos_pct": 0.10565651834504294
     },
     {
-      "window_id": "z1StpnRL4k4:j0015",
+      "window_id": "z1StpnRL4k4:j0011",
       "video_id": "z1StpnRL4k4",
-      "idx": 15,
+      "idx": 11,
       "sent_ids": [
-        "z1StpnRL4k4:s0019"
+        "z1StpnRL4k4:s0019",
+        "z1StpnRL4k4:s0020"
       ],
       "start_s": 149.074,
-      "end_s": 152.537,
-      "text": "In its earliest documented uses, gunpowder wasn't weaponized at all.",
-      "n_words": 10,
-      "n_sentences": 1,
+      "end_s": 166.53,
+      "text": "In its earliest documented uses, gunpowder wasn't weaponized at all. It was used for fireworks, smoke signals, and festival entertainment—exactly the kind of celebratory, decorative application you'd expect from something originally discovered by monks chasing immortality rather than military engineers chasing battlefield advantage.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.11637314597970337
     },
     {
-      "window_id": "z1StpnRL4k4:j0016",
+      "window_id": "z1StpnRL4k4:j0012",
       "video_id": "z1StpnRL4k4",
-      "idx": 16,
-      "sent_ids": [
-        "z1StpnRL4k4:s0020"
-      ],
-      "start_s": 152.757,
-      "end_s": 166.53,
-      "text": "It was used for fireworks, smoke signals, and festival entertainment—exactly the kind of celebratory, decorative application you'd expect from something originally discovered by monks chasing immortality rather than military engineers chasing battlefield advantage.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.11924824355971897
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0017",
-      "video_id": "z1StpnRL4k4",
-      "idx": 17,
+      "idx": 12,
       "sent_ids": [
         "z1StpnRL4k4:s0021"
       ],
@@ -259,96 +194,70 @@
       "pos_pct": 0.1301249024199844
     },
     {
-      "window_id": "z1StpnRL4k4:j0018",
+      "window_id": "z1StpnRL4k4:j0013",
       "video_id": "z1StpnRL4k4",
-      "idx": 18,
+      "idx": 13,
       "sent_ids": [
-        "z1StpnRL4k4:s0022"
+        "z1StpnRL4k4:s0022",
+        "z1StpnRL4k4:s0023"
       ],
       "start_s": 178.137,
-      "end_s": 183.861,
-      "text": "That changed once military commanders during the Song Dynasty got a look at what this volatile new substance could actually do.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 189.885,
+      "text": "That changed once military commanders during the Song Dynasty got a look at what this volatile new substance could actually do. Between the 10th and 12th centuries, Chinese engineers developed something called the huoqiang, or fire lance.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.1390608899297424
     },
     {
-      "window_id": "z1StpnRL4k4:j0019",
+      "window_id": "z1StpnRL4k4:j0014",
       "video_id": "z1StpnRL4k4",
-      "idx": 19,
+      "idx": 14,
       "sent_ids": [
-        "z1StpnRL4k4:s0023",
-        "z1StpnRL4k4:s0024"
-      ],
-      "start_s": 184.101,
-      "end_s": 193.526,
-      "text": "Between the 10th and 12th centuries, Chinese engineers developed something called the huoqiang, or fire lance. And the design was genuinely about as simple as a weapon could possibly be.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.14371662763466042
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0020",
-      "video_id": "z1StpnRL4k4",
-      "idx": 20,
-      "sent_ids": [
+        "z1StpnRL4k4:s0024",
         "z1StpnRL4k4:s0025"
       ],
-      "start_s": 193.666,
+      "start_s": 190.185,
       "end_s": 200.148,
-      "text": "Take a length of bamboo, strap it firmly to the end of a spear, pack the tube with gunpowder, and light it during close combat.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.15118345042935208
+      "text": "And the design was genuinely about as simple as a weapon could possibly be. Take a length of bamboo, strap it firmly to the end of a spear, pack the tube with gunpowder, and light it during close combat.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.14846604215456674
     },
     {
-      "window_id": "z1StpnRL4k4:j0021",
+      "window_id": "z1StpnRL4k4:j0015",
       "video_id": "z1StpnRL4k4",
-      "idx": 21,
+      "idx": 15,
       "sent_ids": [
-        "z1StpnRL4k4:s0026"
+        "z1StpnRL4k4:s0026",
+        "z1StpnRL4k4:s0027"
       ],
       "start_s": 200.268,
-      "end_s": 209.75,
-      "text": "The result was a polearm that spewed flame and burning debris directly at anyone within arm's reach, turning an ordinary spear into something considerably more terrifying to face in a melee.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 216.412,
+      "text": "The result was a polearm that spewed flame and burning debris directly at anyone within arm's reach, turning an ordinary spear into something considerably more terrifying to face in a melee. Defenders used fire lances during the Siege of Da'an in 1132 against attacking forces climbing their walls.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.15633723653395784
     },
     {
-      "window_id": "z1StpnRL4k4:j0022",
+      "window_id": "z1StpnRL4k4:j0016",
       "video_id": "z1StpnRL4k4",
-      "idx": 22,
+      "idx": 16,
       "sent_ids": [
-        "z1StpnRL4k4:s0027",
-        "z1StpnRL4k4:s0028"
-      ],
-      "start_s": 209.77,
-      "end_s": 219.953,
-      "text": "Defenders used fire lances during the Siege of Da'an in 1132 against attacking forces climbing their walls. And, by every account, the weapon worked exactly as intended.",
-      "n_words": 27,
-      "n_sentences": 2,
-      "pos_pct": 0.16375487900078065
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0023",
-      "video_id": "z1StpnRL4k4",
-      "idx": 23,
-      "sent_ids": [
+        "z1StpnRL4k4:s0028",
         "z1StpnRL4k4:s0029",
         "z1StpnRL4k4:s0030"
       ],
-      "start_s": 220.113,
+      "start_s": 216.632,
       "end_s": 227.12,
-      "text": "scorching, and disorienting attackers in a way conventional spears simply couldn't match. The psychological effect alone was significant.",
-      "n_words": 18,
-      "n_sentences": 2,
-      "pos_pct": 0.17182903981264636
+      "text": "And, by every account, the weapon worked exactly as intended. scorching, and disorienting attackers in a way conventional spears simply couldn't match. The psychological effect alone was significant.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.16911163153786105
     },
     {
-      "window_id": "z1StpnRL4k4:j0024",
+      "window_id": "z1StpnRL4k4:j0017",
       "video_id": "z1StpnRL4k4",
-      "idx": 24,
+      "idx": 17,
       "sent_ids": [
         "z1StpnRL4k4:s0031"
       ],
@@ -360,9 +269,9 @@
       "pos_pct": 0.17742388758782202
     },
     {
-      "window_id": "z1StpnRL4k4:j0025",
+      "window_id": "z1StpnRL4k4:j0018",
       "video_id": "z1StpnRL4k4",
-      "idx": 25,
+      "idx": 18,
       "sent_ids": [
         "z1StpnRL4k4:s0032"
       ],
@@ -374,9 +283,9 @@
       "pos_pct": 0.18814441842310695
     },
     {
-      "window_id": "z1StpnRL4k4:j0026",
+      "window_id": "z1StpnRL4k4:j0019",
       "video_id": "z1StpnRL4k4",
-      "idx": 26,
+      "idx": 19,
       "sent_ids": [
         "z1StpnRL4k4:s0033"
       ],
@@ -388,9 +297,9 @@
       "pos_pct": 0.1974231069476971
     },
     {
-      "window_id": "z1StpnRL4k4:j0027",
+      "window_id": "z1StpnRL4k4:j0020",
       "video_id": "z1StpnRL4k4",
-      "idx": 27,
+      "idx": 20,
       "sent_ids": [
         "z1StpnRL4k4:s0034",
         "z1StpnRL4k4:s0035"
@@ -403,37 +312,24 @@
       "pos_pct": 0.2080905542544887
     },
     {
-      "window_id": "z1StpnRL4k4:j0028",
+      "window_id": "z1StpnRL4k4:j0021",
       "video_id": "z1StpnRL4k4",
-      "idx": 28,
+      "idx": 21,
       "sent_ids": [
-        "z1StpnRL4k4:s0036"
+        "z1StpnRL4k4:s0036",
+        "z1StpnRL4k4:s0037"
       ],
       "start_s": 277.191,
-      "end_s": 281.515,
-      "text": "The foundational concept underlying every firearm that would eventually follow.",
-      "n_words": 10,
-      "n_sentences": 1,
+      "end_s": 295.787,
+      "text": "The foundational concept underlying every firearm that would eventually follow. The next major limitation was the bamboo itself, which simply couldn't handle the pressure that more powerful gunpowder charges generated without splitting or bursting apart in the user's own hands, occasionally injuring the very soldier wielding it.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.2163864168618267
     },
     {
-      "window_id": "z1StpnRL4k4:j0029",
+      "window_id": "z1StpnRL4k4:j0022",
       "video_id": "z1StpnRL4k4",
-      "idx": 29,
-      "sent_ids": [
-        "z1StpnRL4k4:s0037"
-      ],
-      "start_s": 281.835,
-      "end_s": 295.787,
-      "text": "The next major limitation was the bamboo itself, which simply couldn't handle the pressure that more powerful gunpowder charges generated without splitting or bursting apart in the user's own hands, occasionally injuring the very soldier wielding it.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.22001170960187352
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0030",
-      "video_id": "z1StpnRL4k4",
-      "idx": 30,
+      "idx": 22,
       "sent_ids": [
         "z1StpnRL4k4:s0038"
       ],
@@ -445,37 +341,24 @@
       "pos_pct": 0.2311530054644809
     },
     {
-      "window_id": "z1StpnRL4k4:j0031",
+      "window_id": "z1StpnRL4k4:j0023",
       "video_id": "z1StpnRL4k4",
-      "idx": 31,
+      "idx": 23,
       "sent_ids": [
-        "z1StpnRL4k4:s0039"
+        "z1StpnRL4k4:s0039",
+        "z1StpnRL4k4:s0040"
       ],
       "start_s": 313.443,
-      "end_s": 324.64,
-      "text": "By the 13th century, metal-barreled hand cannons were already in regular use across China, representing a genuine technological leap in both reliability and effectiveness compared to the earlier bamboo-based weapons.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 328.265,
+      "text": "By the 13th century, metal-barreled hand cannons were already in regular use across China, representing a genuine technological leap in both reliability and effectiveness compared to the earlier bamboo-based weapons. Chinese engineers also scaled the same basic concept upward.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.24468618266978923
     },
     {
-      "window_id": "z1StpnRL4k4:j0032",
+      "window_id": "z1StpnRL4k4:j0024",
       "video_id": "z1StpnRL4k4",
-      "idx": 32,
-      "sent_ids": [
-        "z1StpnRL4k4:s0040"
-      ],
-      "start_s": 324.94,
-      "end_s": 328.265,
-      "text": "Chinese engineers also scaled the same basic concept upward.",
-      "n_words": 9,
-      "n_sentences": 1,
-      "pos_pct": 0.25366120218579236
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0033",
-      "video_id": "z1StpnRL4k4",
-      "idx": 33,
+      "idx": 24,
       "sent_ids": [
         "z1StpnRL4k4:s0041"
       ],
@@ -487,9 +370,9 @@
       "pos_pct": 0.25636612021857924
     },
     {
-      "window_id": "z1StpnRL4k4:j0034",
+      "window_id": "z1StpnRL4k4:j0025",
       "video_id": "z1StpnRL4k4",
-      "idx": 34,
+      "idx": 25,
       "sent_ids": [
         "z1StpnRL4k4:s0042"
       ],
@@ -501,9 +384,9 @@
       "pos_pct": 0.26661592505854803
     },
     {
-      "window_id": "z1StpnRL4k4:j0035",
+      "window_id": "z1StpnRL4k4:j0026",
       "video_id": "z1StpnRL4k4",
-      "idx": 35,
+      "idx": 26,
       "sent_ids": [
         "z1StpnRL4k4:s0043"
       ],
@@ -515,9 +398,9 @@
       "pos_pct": 0.2753341139734582
     },
     {
-      "window_id": "z1StpnRL4k4:j0036",
+      "window_id": "z1StpnRL4k4:j0027",
       "video_id": "z1StpnRL4k4",
-      "idx": 36,
+      "idx": 27,
       "sent_ids": [
         "z1StpnRL4k4:s0044"
       ],
@@ -529,9 +412,9 @@
       "pos_pct": 0.286568306010929
     },
     {
-      "window_id": "z1StpnRL4k4:j0037",
+      "window_id": "z1StpnRL4k4:j0028",
       "video_id": "z1StpnRL4k4",
-      "idx": 37,
+      "idx": 28,
       "sent_ids": [
         "z1StpnRL4k4:s0045"
       ],
@@ -543,9 +426,9 @@
       "pos_pct": 0.29053708040593285
     },
     {
-      "window_id": "z1StpnRL4k4:j0038",
+      "window_id": "z1StpnRL4k4:j0029",
       "video_id": "z1StpnRL4k4",
-      "idx": 38,
+      "idx": 29,
       "sent_ids": [
         "z1StpnRL4k4:s0046",
         "z1StpnRL4k4:s0047"
@@ -558,37 +441,24 @@
       "pos_pct": 0.3047228727556597
     },
     {
-      "window_id": "z1StpnRL4k4:j0039",
+      "window_id": "z1StpnRL4k4:j0030",
       "video_id": "z1StpnRL4k4",
-      "idx": 39,
+      "idx": 30,
       "sent_ids": [
-        "z1StpnRL4k4:s0048"
+        "z1StpnRL4k4:s0048",
+        "z1StpnRL4k4:s0049"
       ],
       "start_s": 402.878,
-      "end_s": 414.745,
-      "text": "Gunpowder propelled projectiles that found use not just in China but eventually in Korea and India as well, traveling along separate but overlapping routes from the hand cannon's own path westward.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 420.769,
+      "text": "Gunpowder propelled projectiles that found use not just in China but eventually in Korea and India as well, traveling along separate but overlapping routes from the hand cannon's own path westward. These rocket weapons never fully disappeared the way the fire lance eventually did once true guns matured.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.3145027322404371
     },
     {
-      "window_id": "z1StpnRL4k4:j0040",
+      "window_id": "z1StpnRL4k4:j0031",
       "video_id": "z1StpnRL4k4",
-      "idx": 40,
-      "sent_ids": [
-        "z1StpnRL4k4:s0049"
-      ],
-      "start_s": 415.006,
-      "end_s": 420.769,
-      "text": "These rocket weapons never fully disappeared the way the fire lance eventually did once true guns matured.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.3239703356752537
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0041",
-      "video_id": "z1StpnRL4k4",
-      "idx": 41,
+      "idx": 31,
       "sent_ids": [
         "z1StpnRL4k4:s0050",
         "z1StpnRL4k4:s0051"
@@ -601,37 +471,24 @@
       "pos_pct": 0.32873458235753317
     },
     {
-      "window_id": "z1StpnRL4k4:j0042",
+      "window_id": "z1StpnRL4k4:j0032",
       "video_id": "z1StpnRL4k4",
-      "idx": 42,
+      "idx": 32,
       "sent_ids": [
-        "z1StpnRL4k4:s0052"
+        "z1StpnRL4k4:s0052",
+        "z1StpnRL4k4:s0053"
       ],
       "start_s": 433.78,
-      "end_s": 437.684,
-      "text": "The story of gunpowder, in other words, doesn't just lead to the gun.",
-      "n_words": 13,
-      "n_sentences": 1,
+      "end_s": 450.278,
+      "text": "The story of gunpowder, in other words, doesn't just lead to the gun. It branches with one path heading toward the firearm and an entirely separate path heading toward the rocket, both rooted in the same accidental discovery made by alchemists who wanted nothing to do with either outcome.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.3386260733801717
     },
     {
-      "window_id": "z1StpnRL4k4:j0043",
+      "window_id": "z1StpnRL4k4:j0033",
       "video_id": "z1StpnRL4k4",
-      "idx": 43,
-      "sent_ids": [
-        "z1StpnRL4k4:s0053"
-      ],
-      "start_s": 437.884,
-      "end_s": 450.278,
-      "text": "It branches with one path heading toward the firearm and an entirely separate path heading toward the rocket, both rooted in the same accidental discovery made by alchemists who wanted nothing to do with either outcome.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.34182982045277127
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0044",
-      "video_id": "z1StpnRL4k4",
-      "idx": 44,
+      "idx": 33,
       "sent_ids": [
         "z1StpnRL4k4:s0054"
       ],
@@ -643,9 +500,9 @@
       "pos_pct": 0.35170804059328653
     },
     {
-      "window_id": "z1StpnRL4k4:j0045",
+      "window_id": "z1StpnRL4k4:j0034",
       "video_id": "z1StpnRL4k4",
-      "idx": 45,
+      "idx": 34,
       "sent_ids": [
         "z1StpnRL4k4:s0055",
         "z1StpnRL4k4:s0056"
@@ -658,9 +515,9 @@
       "pos_pct": 0.36533021077283373
     },
     {
-      "window_id": "z1StpnRL4k4:j0046",
+      "window_id": "z1StpnRL4k4:j0035",
       "video_id": "z1StpnRL4k4",
-      "idx": 46,
+      "idx": 35,
       "sent_ids": [
         "z1StpnRL4k4:s0057"
       ],
@@ -672,9 +529,9 @@
       "pos_pct": 0.37262763466042154
     },
     {
-      "window_id": "z1StpnRL4k4:j0047",
+      "window_id": "z1StpnRL4k4:j0036",
       "video_id": "z1StpnRL4k4",
-      "idx": 47,
+      "idx": 36,
       "sent_ids": [
         "z1StpnRL4k4:s0058"
       ],
@@ -686,95 +543,69 @@
       "pos_pct": 0.383832162373146
     },
     {
-      "window_id": "z1StpnRL4k4:j0048",
+      "window_id": "z1StpnRL4k4:j0037",
       "video_id": "z1StpnRL4k4",
-      "idx": 48,
+      "idx": 37,
       "sent_ids": [
-        "z1StpnRL4k4:s0059"
+        "z1StpnRL4k4:s0059",
+        "z1StpnRL4k4:s0060"
       ],
       "start_s": 506.793,
-      "end_s": 517.996,
-      "text": "Once the technology reached Europe in the late 13th century, it landed in a political and military landscape that gunpowder weapons would, over the following centuries, completely and permanently transform.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 523.103,
+      "text": "Once the technology reached Europe in the late 13th century, it landed in a political and military landscape that gunpowder weapons would, over the following centuries, completely and permanently transform. eventually dismantling systems of feudal military power that had stood for hundreds of years.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.39562295081967214
     },
     {
-      "window_id": "z1StpnRL4k4:j0049",
+      "window_id": "z1StpnRL4k4:j0038",
       "video_id": "z1StpnRL4k4",
-      "idx": 49,
+      "idx": 38,
       "sent_ids": [
-        "z1StpnRL4k4:s0060",
-        "z1StpnRL4k4:s0061"
+        "z1StpnRL4k4:s0061",
+        "z1StpnRL4k4:s0062"
       ],
-      "start_s": 518.396,
-      "end_s": 525.026,
-      "text": "eventually dismantling systems of feudal military power that had stood for hundreds of years. The transformation wasn't instant.",
-      "n_words": 18,
+      "start_s": 523.384,
+      "end_s": 533.54,
+      "text": "The transformation wasn't instant. Early European hand cannons, much like their Chinese predecessors, were crude, slow to reload, and difficult to aim with any real precision.",
+      "n_words": 26,
       "n_sentences": 2,
-      "pos_pct": 0.4046807181889149
+      "pos_pct": 0.4085745511319282
     },
     {
-      "window_id": "z1StpnRL4k4:j0050",
+      "window_id": "z1StpnRL4k4:j0039",
       "video_id": "z1StpnRL4k4",
-      "idx": 50,
+      "idx": 39,
       "sent_ids": [
-        "z1StpnRL4k4:s0062",
-        "z1StpnRL4k4:s0063"
-      ],
-      "start_s": 525.167,
-      "end_s": 537.403,
-      "text": "Early European hand cannons, much like their Chinese predecessors, were crude, slow to reload, and difficult to aim with any real precision. Essentially, a small cannon mounted awkwardly on the end of a pole.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.4099664324746292
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0051",
-      "video_id": "z1StpnRL4k4",
-      "idx": 51,
-      "sent_ids": [
+        "z1StpnRL4k4:s0063",
         "z1StpnRL4k4:s0064"
       ],
-      "start_s": 537.843,
+      "start_s": 533.92,
       "end_s": 552.854,
-      "text": "You loaded powder and projectile into the open end, touched a smoldering ember or a length of slow-burning cord to a small touch hole, and hoped, with considerably more optimism than confidence, that the resulting explosion would actually send the projectile somewhere useful.",
-      "n_words": 43,
-      "n_sentences": 1,
-      "pos_pct": 0.41986182669789224
+      "text": "Essentially, a small cannon mounted awkwardly on the end of a pole. You loaded powder and projectile into the open end, touched a smoldering ember or a length of slow-burning cord to a small touch hole, and hoped, with considerably more optimism than confidence, that the resulting explosion would actually send the projectile somewhere useful.",
+      "n_words": 55,
+      "n_sentences": 2,
+      "pos_pct": 0.4167993754879
     },
     {
-      "window_id": "z1StpnRL4k4:j0052",
+      "window_id": "z1StpnRL4k4:j0040",
       "video_id": "z1StpnRL4k4",
-      "idx": 52,
+      "idx": 40,
       "sent_ids": [
-        "z1StpnRL4k4:s0065"
+        "z1StpnRL4k4:s0065",
+        "z1StpnRL4k4:s0066"
       ],
       "start_s": 553.695,
-      "end_s": 561.441,
-      "text": "But even in this primitive form, the weapon carried a psychological and practical impact that traditional melee weapons simply couldn't match.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 567.165,
+      "text": "But even in this primitive form, the weapon carried a psychological and practical impact that traditional melee weapons simply couldn't match. Castle walls that had withstood traditional siege equipment for generations began falling to cannon fire.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.43223653395784545
     },
     {
-      "window_id": "z1StpnRL4k4:j0053",
+      "window_id": "z1StpnRL4k4:j0041",
       "video_id": "z1StpnRL4k4",
-      "idx": 53,
-      "sent_ids": [
-        "z1StpnRL4k4:s0066"
-      ],
-      "start_s": 561.601,
-      "end_s": 567.165,
-      "text": "Castle walls that had withstood traditional siege equipment for generations began falling to cannon fire.",
-      "n_words": 15,
-      "n_sentences": 1,
-      "pos_pct": 0.43840827478532396
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0054",
-      "video_id": "z1StpnRL4k4",
-      "idx": 54,
+      "idx": 41,
       "sent_ids": [
         "z1StpnRL4k4:s0067"
       ],
@@ -786,9 +617,9 @@
       "pos_pct": 0.44336065573770495
     },
     {
-      "window_id": "z1StpnRL4k4:j0055",
+      "window_id": "z1StpnRL4k4:j0042",
       "video_id": "z1StpnRL4k4",
-      "idx": 55,
+      "idx": 42,
       "sent_ids": [
         "z1StpnRL4k4:s0068"
       ],
@@ -800,9 +631,9 @@
       "pos_pct": 0.45526619828259174
     },
     {
-      "window_id": "z1StpnRL4k4:j0056",
+      "window_id": "z1StpnRL4k4:j0043",
       "video_id": "z1StpnRL4k4",
-      "idx": 56,
+      "idx": 43,
       "sent_ids": [
         "z1StpnRL4k4:s0069",
         "z1StpnRL4k4:s0070"
@@ -815,9 +646,9 @@
       "pos_pct": 0.4691873536299766
     },
     {
-      "window_id": "z1StpnRL4k4:j0057",
+      "window_id": "z1StpnRL4k4:j0044",
       "video_id": "z1StpnRL4k4",
-      "idx": 57,
+      "idx": 44,
       "sent_ids": [
         "z1StpnRL4k4:s0071"
       ],
@@ -829,9 +660,9 @@
       "pos_pct": 0.47492193598750976
     },
     {
-      "window_id": "z1StpnRL4k4:j0058",
+      "window_id": "z1StpnRL4k4:j0045",
       "video_id": "z1StpnRL4k4",
-      "idx": 58,
+      "idx": 45,
       "sent_ids": [
         "z1StpnRL4k4:s0072"
       ],
@@ -843,9 +674,9 @@
       "pos_pct": 0.48737548790007806
     },
     {
-      "window_id": "z1StpnRL4k4:j0059",
+      "window_id": "z1StpnRL4k4:j0046",
       "video_id": "z1StpnRL4k4",
-      "idx": 59,
+      "idx": 46,
       "sent_ids": [
         "z1StpnRL4k4:s0073"
       ],
@@ -857,65 +688,39 @@
       "pos_pct": 0.49819984387197497
     },
     {
-      "window_id": "z1StpnRL4k4:j0060",
+      "window_id": "z1StpnRL4k4:j0047",
       "video_id": "z1StpnRL4k4",
-      "idx": 60,
+      "idx": 47,
       "sent_ids": [
-        "z1StpnRL4k4:s0074"
+        "z1StpnRL4k4:s0074",
+        "z1StpnRL4k4:s0075"
       ],
       "start_s": 652.258,
-      "end_s": 658.139,
-      "text": "The next genuinely important leap came in the late 15th century, with the invention of the matchlock mechanism.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 667.37,
+      "text": "The next genuinely important leap came in the late 15th century, with the invention of the matchlock mechanism. And this single development is what finally turned gunpowder weapons from clumsy novelties into the backbone of organized infantry warfare across the continent.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.5091787665886027
     },
     {
-      "window_id": "z1StpnRL4k4:j0061",
+      "window_id": "z1StpnRL4k4:j0048",
       "video_id": "z1StpnRL4k4",
-      "idx": 61,
+      "idx": 48,
       "sent_ids": [
-        "z1StpnRL4k4:s0075"
-      ],
-      "start_s": 658.839,
-      "end_s": 667.37,
-      "text": "And this single development is what finally turned gunpowder weapons from clumsy novelties into the backbone of organized infantry warfare across the continent.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.5143161592505855
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0062",
-      "video_id": "z1StpnRL4k4",
-      "idx": 62,
-      "sent_ids": [
-        "z1StpnRL4k4:s0076"
+        "z1StpnRL4k4:s0076",
+        "z1StpnRL4k4:s0077"
       ],
       "start_s": 668.191,
-      "end_s": 675.059,
-      "text": "The fundamental problem with earlier hand cannons was that actually firing one required two hands and considerable coordination.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 687.723,
+      "text": "The fundamental problem with earlier hand cannons was that actually firing one required two hands and considerable coordination. one hand to steady the weapon, the other to apply a burning ember or cord directly to the touch hole at exactly the right moment, all while trying to actually aim at a moving target on a chaotic battlefield.",
+      "n_words": 57,
+      "n_sentences": 2,
       "pos_pct": 0.5216167056986729
     },
     {
-      "window_id": "z1StpnRL4k4:j0063",
+      "window_id": "z1StpnRL4k4:j0049",
       "video_id": "z1StpnRL4k4",
-      "idx": 63,
-      "sent_ids": [
-        "z1StpnRL4k4:s0077"
-      ],
-      "start_s": 675.76,
-      "end_s": 687.723,
-      "text": "one hand to steady the weapon, the other to apply a burning ember or cord directly to the touch hole at exactly the right moment, all while trying to actually aim at a moving target on a chaotic battlefield.",
-      "n_words": 39,
-      "n_sentences": 1,
-      "pos_pct": 0.5275253708040594
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0064",
-      "video_id": "z1StpnRL4k4",
-      "idx": 64,
+      "idx": 49,
       "sent_ids": [
         "z1StpnRL4k4:s0078"
       ],
@@ -927,9 +732,9 @@
       "pos_pct": 0.5374730679156909
     },
     {
-      "window_id": "z1StpnRL4k4:j0065",
+      "window_id": "z1StpnRL4k4:j0050",
       "video_id": "z1StpnRL4k4",
-      "idx": 65,
+      "idx": 50,
       "sent_ids": [
         "z1StpnRL4k4:s0079"
       ],
@@ -941,9 +746,9 @@
       "pos_pct": 0.5447814207650273
     },
     {
-      "window_id": "z1StpnRL4k4:j0066",
+      "window_id": "z1StpnRL4k4:j0051",
       "video_id": "z1StpnRL4k4",
-      "idx": 66,
+      "idx": 51,
       "sent_ids": [
         "z1StpnRL4k4:s0080"
       ],
@@ -955,9 +760,9 @@
       "pos_pct": 0.5546307572209211
     },
     {
-      "window_id": "z1StpnRL4k4:j0067",
+      "window_id": "z1StpnRL4k4:j0052",
       "video_id": "z1StpnRL4k4",
-      "idx": 67,
+      "idx": 52,
       "sent_ids": [
         "z1StpnRL4k4:s0081"
       ],
@@ -969,9 +774,9 @@
       "pos_pct": 0.5581951600312256
     },
     {
-      "window_id": "z1StpnRL4k4:j0068",
+      "window_id": "z1StpnRL4k4:j0053",
       "video_id": "z1StpnRL4k4",
-      "idx": 68,
+      "idx": 53,
       "sent_ids": [
         "z1StpnRL4k4:s0082"
       ],
@@ -983,9 +788,9 @@
       "pos_pct": 0.5709071038251367
     },
     {
-      "window_id": "z1StpnRL4k4:j0069",
+      "window_id": "z1StpnRL4k4:j0054",
       "video_id": "z1StpnRL4k4",
-      "idx": 69,
+      "idx": 54,
       "sent_ids": [
         "z1StpnRL4k4:s0083"
       ],
@@ -997,37 +802,24 @@
       "pos_pct": 0.5815495706479313
     },
     {
-      "window_id": "z1StpnRL4k4:j0070",
+      "window_id": "z1StpnRL4k4:j0055",
       "video_id": "z1StpnRL4k4",
-      "idx": 70,
+      "idx": 55,
       "sent_ids": [
-        "z1StpnRL4k4:s0084"
+        "z1StpnRL4k4:s0084",
+        "z1StpnRL4k4:s0085"
       ],
       "start_s": 767.523,
-      "end_s": 771.706,
-      "text": "In 1543, Portuguese traders introduced matchlock technology to Japan.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 786.277,
+      "text": "In 1543, Portuguese traders introduced matchlock technology to Japan. where local gunsmiths refined the design so thoroughly that Japanese matchlocks, known as tanegashima, came to be regarded as some of the finest crafted firearms anywhere in the world during that period, prized for their precision and craftsmanship even by European observers.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.5991592505854801
     },
     {
-      "window_id": "z1StpnRL4k4:j0071",
+      "window_id": "z1StpnRL4k4:j0056",
       "video_id": "z1StpnRL4k4",
-      "idx": 71,
-      "sent_ids": [
-        "z1StpnRL4k4:s0085"
-      ],
-      "start_s": 771.866,
-      "end_s": 786.277,
-      "text": "where local gunsmiths refined the design so thoroughly that Japanese matchlocks, known as tanegashima, came to be regarded as some of the finest crafted firearms anywhere in the world during that period, prized for their precision and craftsmanship even by European observers.",
-      "n_words": 42,
-      "n_sentences": 1,
-      "pos_pct": 0.6025495706479312
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0072",
-      "video_id": "z1StpnRL4k4",
-      "idx": 72,
+      "idx": 56,
       "sent_ids": [
         "z1StpnRL4k4:s0086"
       ],
@@ -1039,80 +831,54 @@
       "pos_pct": 0.6140335675253707
     },
     {
-      "window_id": "z1StpnRL4k4:j0073",
+      "window_id": "z1StpnRL4k4:j0057",
       "video_id": "z1StpnRL4k4",
-      "idx": 73,
+      "idx": 57,
       "sent_ids": [
-        "z1StpnRL4k4:s0087"
+        "z1StpnRL4k4:s0087",
+        "z1StpnRL4k4:s0088"
       ],
       "start_s": 797.846,
-      "end_s": 809.416,
-      "text": "specifically to counter ongoing Mongol incursions along its northern frontier, a genuinely strange and fitting historical loop for a technology that began as a failed immortality potion in that same general region.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 816.142,
+      "text": "specifically to counter ongoing Mongol incursions along its northern frontier, a genuinely strange and fitting historical loop for a technology that began as a failed immortality potion in that same general region. Matchlock muskets eventually became heavy, powerful enough to need a forked rest just to support the barrel while aiming.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.6228306010928962
     },
     {
-      "window_id": "z1StpnRL4k4:j0074",
+      "window_id": "z1StpnRL4k4:j0058",
       "video_id": "z1StpnRL4k4",
-      "idx": 74,
+      "idx": 58,
       "sent_ids": [
-        "z1StpnRL4k4:s0088"
-      ],
-      "start_s": 809.616,
-      "end_s": 816.142,
-      "text": "Matchlock muskets eventually became heavy, powerful enough to need a forked rest just to support the barrel while aiming.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.6320187353629977
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0075",
-      "video_id": "z1StpnRL4k4",
-      "idx": 75,
-      "sent_ids": [
-        "z1StpnRL4k4:s0089"
+        "z1StpnRL4k4:s0089",
+        "z1StpnRL4k4:s0090"
       ],
       "start_s": 816.642,
-      "end_s": 827.413,
-      "text": "weighing as much as 25 pounds in some configurations, but capable of punching through plate armor at ranges that made traditional swords and pikes increasingly irrelevant on an open battlefield.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 838.245,
+      "text": "weighing as much as 25 pounds in some configurations, but capable of punching through plate armor at ranges that made traditional swords and pikes increasingly irrelevant on an open battlefield. Because reloading and firing a matchlock took considerable time, and because the weapon left the user briefly vulnerable during that process, musketeers typically required protection from melee attacks.",
+      "n_words": 58,
+      "n_sentences": 2,
       "pos_pct": 0.6375035128805621
     },
     {
-      "window_id": "z1StpnRL4k4:j0076",
+      "window_id": "z1StpnRL4k4:j0059",
       "video_id": "z1StpnRL4k4",
-      "idx": 76,
+      "idx": 59,
       "sent_ids": [
-        "z1StpnRL4k4:s0090",
-        "z1StpnRL4k4:s0091"
-      ],
-      "start_s": 827.514,
-      "end_s": 841.268,
-      "text": "Because reloading and firing a matchlock took considerable time, and because the weapon left the user briefly vulnerable during that process, musketeers typically required protection from melee attacks. usually provided by pikemen standing alongside them.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.6459906323185012
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0077",
-      "video_id": "z1StpnRL4k4",
-      "idx": 77,
-      "sent_ids": [
+        "z1StpnRL4k4:s0091",
         "z1StpnRL4k4:s0092"
       ],
-      "start_s": 841.368,
+      "start_s": 838.685,
       "end_s": 860.229,
-      "text": "This combination of pikes and shot came to dominate European battlefields from the 16th into the early 17th century, an elaborate, carefully choreographed tactical system requiring extensive training to coordinate effectively, with musketeers firing from behind or between rows of pikemen in tightly organized formations.",
-      "n_words": 45,
-      "n_sentences": 1,
-      "pos_pct": 0.6568056206088994
+      "text": "usually provided by pikemen standing alongside them. This combination of pikes and shot came to dominate European battlefields from the 16th into the early 17th century, an elaborate, carefully choreographed tactical system requiring extensive training to coordinate effectively, with musketeers firing from behind or between rows of pikemen in tightly organized formations.",
+      "n_words": 52,
+      "n_sentences": 2,
+      "pos_pct": 0.6547111631537861
     },
     {
-      "window_id": "z1StpnRL4k4:j0078",
+      "window_id": "z1StpnRL4k4:j0060",
       "video_id": "z1StpnRL4k4",
-      "idx": 78,
+      "idx": 60,
       "sent_ids": [
         "z1StpnRL4k4:s0093"
       ],
@@ -1124,65 +890,39 @@
       "pos_pct": 0.6717166276346604
     },
     {
-      "window_id": "z1StpnRL4k4:j0079",
+      "window_id": "z1StpnRL4k4:j0061",
       "video_id": "z1StpnRL4k4",
-      "idx": 79,
+      "idx": 61,
       "sent_ids": [
-        "z1StpnRL4k4:s0094"
+        "z1StpnRL4k4:s0094",
+        "z1StpnRL4k4:s0095"
       ],
       "start_s": 879.637,
-      "end_s": 885.36,
-      "text": "The matchlock had one obvious, persistent weakness that everyone using it understood immediately.",
-      "n_words": 13,
-      "n_sentences": 1,
+      "end_s": 899.642,
+      "text": "The matchlock had one obvious, persistent weakness that everyone using it understood immediately. It required an open, slow-burning flame at all times, which made it nearly useless in wet weather, gave away a soldier's position in darkness, and required constant management of burning cord even when nothing was happening on the battlefield at all.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.68667993754879
     },
     {
-      "window_id": "z1StpnRL4k4:j0080",
+      "window_id": "z1StpnRL4k4:j0062",
       "video_id": "z1StpnRL4k4",
-      "idx": 80,
+      "idx": 62,
       "sent_ids": [
-        "z1StpnRL4k4:s0095"
-      ],
-      "start_s": 886.248,
-      "end_s": 899.642,
-      "text": "It required an open, slow-burning flame at all times, which made it nearly useless in wet weather, gave away a soldier's position in darkness, and required constant management of burning cord even when nothing was happening on the battlefield at all.",
-      "n_words": 41,
-      "n_sentences": 1,
-      "pos_pct": 0.6918407494145199
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0081",
-      "video_id": "z1StpnRL4k4",
-      "idx": 81,
-      "sent_ids": [
-        "z1StpnRL4k4:s0096"
+        "z1StpnRL4k4:s0096",
+        "z1StpnRL4k4:s0097"
       ],
       "start_s": 899.762,
-      "end_s": 904.486,
-      "text": "The solution arrived gradually, through several intermediate steps worth understanding.",
-      "n_words": 10,
-      "n_sentences": 1,
+      "end_s": 916.954,
+      "text": "The solution arrived gradually, through several intermediate steps worth understanding. The wheel lock, developed in the early 16th century, used a spring-loaded wheel spinning rapidly against a piece of pyrite to generate sparks, eliminating the need for a constantly burning match entirely.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.7023903200624512
     },
     {
-      "window_id": "z1StpnRL4k4:j0082",
+      "window_id": "z1StpnRL4k4:j0063",
       "video_id": "z1StpnRL4k4",
-      "idx": 82,
-      "sent_ids": [
-        "z1StpnRL4k4:s0097"
-      ],
-      "start_s": 904.587,
-      "end_s": 916.954,
-      "text": "The wheel lock, developed in the early 16th century, used a spring-loaded wheel spinning rapidly against a piece of pyrite to generate sparks, eliminating the need for a constantly burning match entirely.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.7061569086651054
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0083",
-      "video_id": "z1StpnRL4k4",
-      "idx": 83,
+      "idx": 63,
       "sent_ids": [
         "z1StpnRL4k4:s0098"
       ],
@@ -1194,9 +934,9 @@
       "pos_pct": 0.7164519906323185
     },
     {
-      "window_id": "z1StpnRL4k4:j0084",
+      "window_id": "z1StpnRL4k4:j0064",
       "video_id": "z1StpnRL4k4",
-      "idx": 84,
+      "idx": 64,
       "sent_ids": [
         "z1StpnRL4k4:s0099"
       ],
@@ -1208,9 +948,9 @@
       "pos_pct": 0.7306190476190476
     },
     {
-      "window_id": "z1StpnRL4k4:j0085",
+      "window_id": "z1StpnRL4k4:j0065",
       "video_id": "z1StpnRL4k4",
-      "idx": 85,
+      "idx": 65,
       "sent_ids": [
         "z1StpnRL4k4:s0100",
         "z1StpnRL4k4:s0101"
@@ -1223,9 +963,9 @@
       "pos_pct": 0.7454035909445745
     },
     {
-      "window_id": "z1StpnRL4k4:j0086",
+      "window_id": "z1StpnRL4k4:j0066",
       "video_id": "z1StpnRL4k4",
-      "idx": 86,
+      "idx": 66,
       "sent_ids": [
         "z1StpnRL4k4:s0102"
       ],
@@ -1237,9 +977,9 @@
       "pos_pct": 0.7551092896174864
     },
     {
-      "window_id": "z1StpnRL4k4:j0087",
+      "window_id": "z1StpnRL4k4:j0067",
       "video_id": "z1StpnRL4k4",
-      "idx": 87,
+      "idx": 67,
       "sent_ids": [
         "z1StpnRL4k4:s0103"
       ],
@@ -1251,9 +991,9 @@
       "pos_pct": 0.7640569867291178
     },
     {
-      "window_id": "z1StpnRL4k4:j0088",
+      "window_id": "z1StpnRL4k4:j0068",
       "video_id": "z1StpnRL4k4",
-      "idx": 88,
+      "idx": 68,
       "sent_ids": [
         "z1StpnRL4k4:s0104"
       ],
@@ -1265,9 +1005,9 @@
       "pos_pct": 0.7741303669008587
     },
     {
-      "window_id": "z1StpnRL4k4:j0089",
+      "window_id": "z1StpnRL4k4:j0069",
       "video_id": "z1StpnRL4k4",
-      "idx": 89,
+      "idx": 69,
       "sent_ids": [
         "z1StpnRL4k4:s0105"
       ],
@@ -1279,9 +1019,9 @@
       "pos_pct": 0.7851092896174864
     },
     {
-      "window_id": "z1StpnRL4k4:j0090",
+      "window_id": "z1StpnRL4k4:j0070",
       "video_id": "z1StpnRL4k4",
-      "idx": 90,
+      "idx": 70,
       "sent_ids": [
         "z1StpnRL4k4:s0106"
       ],
@@ -1293,37 +1033,24 @@
       "pos_pct": 0.8008602654176425
     },
     {
-      "window_id": "z1StpnRL4k4:j0091",
+      "window_id": "z1StpnRL4k4:j0071",
       "video_id": "z1StpnRL4k4",
-      "idx": 91,
+      "idx": 71,
       "sent_ids": [
-        "z1StpnRL4k4:s0107"
+        "z1StpnRL4k4:s0107",
+        "z1StpnRL4k4:s0108"
       ],
       "start_s": 1046.455,
-      "end_s": 1057.743,
-      "text": "This seemingly small change meant a soldier could fix a bayonet to his musket and still fire it normally, combining ranged firepower and close combat capability in a single weapon for the first time.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 1060.045,
+      "text": "This seemingly small change meant a soldier could fix a bayonet to his musket and still fire it normally, combining ranged firepower and close combat capability in a single weapon for the first time. The practical effect was enormous.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.8169047619047618
     },
     {
-      "window_id": "z1StpnRL4k4:j0092",
+      "window_id": "z1StpnRL4k4:j0072",
       "video_id": "z1StpnRL4k4",
-      "idx": 92,
-      "sent_ids": [
-        "z1StpnRL4k4:s0108"
-      ],
-      "start_s": 1058.544,
-      "end_s": 1060.045,
-      "text": "The practical effect was enormous.",
-      "n_words": 5,
-      "n_sentences": 1,
-      "pos_pct": 0.8263419203747073
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0093",
-      "video_id": "z1StpnRL4k4",
-      "idx": 93,
+      "idx": 72,
       "sent_ids": [
         "z1StpnRL4k4:s0109"
       ],
@@ -1335,9 +1062,9 @@
       "pos_pct": 0.8280140515222482
     },
     {
-      "window_id": "z1StpnRL4k4:j0094",
+      "window_id": "z1StpnRL4k4:j0073",
       "video_id": "z1StpnRL4k4",
-      "idx": 94,
+      "idx": 73,
       "sent_ids": [
         "z1StpnRL4k4:s0110"
       ],
@@ -1349,9 +1076,9 @@
       "pos_pct": 0.8384223263075722
     },
     {
-      "window_id": "z1StpnRL4k4:j0095",
+      "window_id": "z1StpnRL4k4:j0074",
       "video_id": "z1StpnRL4k4",
-      "idx": 95,
+      "idx": 74,
       "sent_ids": [
         "z1StpnRL4k4:s0111"
       ],
@@ -1363,9 +1090,9 @@
       "pos_pct": 0.8567728337236534
     },
     {
-      "window_id": "z1StpnRL4k4:j0096",
+      "window_id": "z1StpnRL4k4:j0075",
       "video_id": "z1StpnRL4k4",
-      "idx": 96,
+      "idx": 75,
       "sent_ids": [
         "z1StpnRL4k4:s0112"
       ],
@@ -1377,37 +1104,24 @@
       "pos_pct": 0.8672529274004684
     },
     {
-      "window_id": "z1StpnRL4k4:j0097",
+      "window_id": "z1StpnRL4k4:j0076",
       "video_id": "z1StpnRL4k4",
-      "idx": 97,
+      "idx": 76,
       "sent_ids": [
-        "z1StpnRL4k4:s0113"
+        "z1StpnRL4k4:s0113",
+        "z1StpnRL4k4:s0114"
       ],
       "start_s": 1130.499,
-      "end_s": 1144.444,
-      "text": "This final ignition innovation rendered every previous mechanism, matchlock, wheel lock, and flintlock alike, essentially obsolete within a few decades, and it marked the last major milestone in the centuries-long chain of refinements.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 1148.585,
+      "text": "This final ignition innovation rendered every previous mechanism, matchlock, wheel lock, and flintlock alike, essentially obsolete within a few decades, and it marked the last major milestone in the centuries-long chain of refinements. that had begun with monks chasing immortality in 9th century China.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.8825128805620609
     },
     {
-      "window_id": "z1StpnRL4k4:j0098",
+      "window_id": "z1StpnRL4k4:j0077",
       "video_id": "z1StpnRL4k4",
-      "idx": 98,
-      "sent_ids": [
-        "z1StpnRL4k4:s0114"
-      ],
-      "start_s": 1144.604,
-      "end_s": 1148.585,
-      "text": "that had begun with monks chasing immortality in 9th century China.",
-      "n_words": 11,
-      "n_sentences": 1,
-      "pos_pct": 0.8935238095238096
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0099",
-      "video_id": "z1StpnRL4k4",
-      "idx": 99,
+      "idx": 77,
       "sent_ids": [
         "z1StpnRL4k4:s0115"
       ],
@@ -1419,80 +1133,54 @@
       "pos_pct": 0.8967564402810304
     },
     {
-      "window_id": "z1StpnRL4k4:j0100",
+      "window_id": "z1StpnRL4k4:j0078",
       "video_id": "z1StpnRL4k4",
-      "idx": 100,
+      "idx": 78,
       "sent_ids": [
-        "z1StpnRL4k4:s0116"
+        "z1StpnRL4k4:s0116",
+        "z1StpnRL4k4:s0117"
       ],
       "start_s": 1165.289,
-      "end_s": 1174.211,
-      "text": "Looking back across this entire arc, from a Taoist alchemy lab in 9th century China to flintlock muskets dominating European battlefields nearly 8 centuries later,",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 1183.798,
+      "text": "Looking back across this entire arc, from a Taoist alchemy lab in 9th century China to flintlock muskets dominating European battlefields nearly 8 centuries later, The story of how humans invented guns is really a story about accident, accumulation, and migration happening together over an enormous span of time.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.9096713505074161
     },
     {
-      "window_id": "z1StpnRL4k4:j0101",
+      "window_id": "z1StpnRL4k4:j0079",
       "video_id": "z1StpnRL4k4",
-      "idx": 101,
+      "idx": 79,
       "sent_ids": [
-        "z1StpnRL4k4:s0117",
-        "z1StpnRL4k4:s0118"
-      ],
-      "start_s": 1174.851,
-      "end_s": 1187.621,
-      "text": "The story of how humans invented guns is really a story about accident, accumulation, and migration happening together over an enormous span of time. Nobody set out, on day one, to invent the firearm.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.9171358313817332
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0102",
-      "video_id": "z1StpnRL4k4",
-      "idx": 102,
-      "sent_ids": [
+        "z1StpnRL4k4:s0118",
         "z1StpnRL4k4:s0119"
       ],
-      "start_s": 1187.721,
+      "start_s": 1183.938,
       "end_s": 1195.047,
-      "text": "A group of monks looking for immortality stumbled onto an explosive chemical reaction and very nearly burned their own beards off in the process.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.9271826697892271
+      "text": "Nobody set out, on day one, to invent the firearm. A group of monks looking for immortality stumbled onto an explosive chemical reaction and very nearly burned their own beards off in the process.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.9242295081967213
     },
     {
-      "window_id": "z1StpnRL4k4:j0103",
+      "window_id": "z1StpnRL4k4:j0080",
       "video_id": "z1StpnRL4k4",
-      "idx": 103,
+      "idx": 80,
       "sent_ids": [
-        "z1StpnRL4k4:s0120"
+        "z1StpnRL4k4:s0120",
+        "z1StpnRL4k4:s0121"
       ],
       "start_s": 1195.347,
-      "end_s": 1200.231,
-      "text": "Military engineers watching that explosive reaction gradually realized its violence could be channeled.",
-      "n_words": 13,
-      "n_sentences": 1,
+      "end_s": 1215.614,
+      "text": "Military engineers watching that explosive reaction gradually realized its violence could be channeled. First through a tube strapped to a spear, then through a cast bronze cylinder, then through increasingly sophisticated mechanical systems designed to ignite that same basic chemical reaction more reliably, more quickly, and with less risk to the person holding the weapon.",
+      "n_words": 55,
+      "n_sentences": 2,
       "pos_pct": 0.9331358313817331
     },
     {
-      "window_id": "z1StpnRL4k4:j0104",
+      "window_id": "z1StpnRL4k4:j0081",
       "video_id": "z1StpnRL4k4",
-      "idx": 104,
-      "sent_ids": [
-        "z1StpnRL4k4:s0121"
-      ],
-      "start_s": 1200.531,
-      "end_s": 1215.614,
-      "text": "First through a tube strapped to a spear, then through a cast bronze cylinder, then through increasingly sophisticated mechanical systems designed to ignite that same basic chemical reaction more reliably, more quickly, and with less risk to the person holding the weapon.",
-      "n_words": 42,
-      "n_sentences": 1,
-      "pos_pct": 0.9371826697892272
-    },
-    {
-      "window_id": "z1StpnRL4k4:j0105",
-      "video_id": "z1StpnRL4k4",
-      "idx": 105,
+      "idx": 81,
       "sent_ids": [
         "z1StpnRL4k4:s0122"
       ],
@@ -1504,9 +1192,9 @@
       "pos_pct": 0.949504293520687
     },
     {
-      "window_id": "z1StpnRL4k4:j0106",
+      "window_id": "z1StpnRL4k4:j0082",
       "video_id": "z1StpnRL4k4",
-      "idx": 106,
+      "idx": 82,
       "sent_ids": [
         "z1StpnRL4k4:s0123"
       ],
@@ -1518,9 +1206,9 @@
       "pos_pct": 0.9609718969555036
     },
     {
-      "window_id": "z1StpnRL4k4:j0107",
+      "window_id": "z1StpnRL4k4:j0083",
       "video_id": "z1StpnRL4k4",
-      "idx": 107,
+      "idx": 83,
       "sent_ids": [
         "z1StpnRL4k4:s0124"
       ],
@@ -1532,9 +1220,9 @@
       "pos_pct": 0.9640343481654958
     },
     {
-      "window_id": "z1StpnRL4k4:j0108",
+      "window_id": "z1StpnRL4k4:j0084",
       "video_id": "z1StpnRL4k4",
-      "idx": 108,
+      "idx": 84,
       "sent_ids": [
         "z1StpnRL4k4:s0125"
       ],

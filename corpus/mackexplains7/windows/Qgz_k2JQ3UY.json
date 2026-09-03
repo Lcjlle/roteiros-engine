@@ -1,6 +1,6 @@
 {
   "video_id": "Qgz_k2JQ3UY",
-  "generated_at": "2026-09-03T11:59:53.014074+00:00",
+  "generated_at": "2026-09-03T13:18:13.125546+00:00",
   "windows": [
     {
       "window_id": "Qgz_k2JQ3UY:j0000",
@@ -229,13 +229,14 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 14,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0040"
+        "Qgz_k2JQ3UY:s0040",
+        "Qgz_k2JQ3UY:s0041"
       ],
       "start_s": 136.224,
-      "end_s": 142.146,
-      "text": "We found jewelry made from shells, from teeth, from carefully perforated stones strung together as necklaces.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 153.27,
+      "text": "We found jewelry made from shells, from teeth, from carefully perforated stones strung together as necklaces. we found evidence of people traveling hundreds of miles, on foot, across landscapes with no roads, no maps, no Uber, just to trade pigments for body paint.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.0992163146394756
     },
     {
@@ -243,77 +244,50 @@
       "video_id": "Qgz_k2JQ3UY",
       "idx": 15,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0041"
+        "Qgz_k2JQ3UY:s0042",
+        "Qgz_k2JQ3UY:s0043"
       ],
-      "start_s": 142.866,
-      "end_s": 153.27,
-      "text": "we found evidence of people traveling hundreds of miles, on foot, across landscapes with no roads, no maps, no Uber, just to trade pigments for body paint.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.10405389657683906
+      "start_s": 154.31,
+      "end_s": 168.395,
+      "text": "We found graves where elderly people who had survived decades with crippling physical disabilities were buried with care, with ceremony, sometimes surrounded by flowers. That's not the behavior of a species spending every waking moment in survival panic.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.11238892935178442
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0016",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 16,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0042"
+        "Qgz_k2JQ3UY:s0044",
+        "Qgz_k2JQ3UY:s0045"
       ],
-      "start_s": 154.31,
-      "end_s": 163.313,
-      "text": "We found graves where elderly people who had survived decades with crippling physical disabilities were buried with care, with ceremony, sometimes surrounded by flowers.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.11238892935178442
+      "start_s": 168.955,
+      "end_s": 176.953,
+      "text": "That's the behavior of a species that had time on their hands. a lot of it, and was doing genuinely interesting things with that time.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.12305535324107794
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0017",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 17,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0043",
-        "Qgz_k2JQ3UY:s0044"
+        "Qgz_k2JQ3UY:s0046",
+        "Qgz_k2JQ3UY:s0047"
       ],
-      "start_s": 163.933,
-      "end_s": 172.156,
-      "text": "That's not the behavior of a species spending every waking moment in survival panic. That's the behavior of a species that had time on their hands.",
-      "n_words": 26,
+      "start_s": 177.633,
+      "end_s": 189.736,
+      "text": "The survival horror narrative isn't just inaccurate, it's almost the opposite of the truth. In the 1960s, an anthropologist named Marshall Sollins did something that was considered fairly radical at the time.",
+      "n_words": 32,
       "n_sentences": 2,
-      "pos_pct": 0.11939766933721777
+      "pos_pct": 0.12937581937363438
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0018",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 18,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0045",
-        "Qgz_k2JQ3UY:s0046"
-      ],
-      "start_s": 173.012,
-      "end_s": 182.734,
-      "text": "a lot of it, and was doing genuinely interesting things with that time. The survival horror narrative isn't just inaccurate, it's almost the opposite of the truth.",
-      "n_words": 27,
-      "n_sentences": 2,
-      "pos_pct": 0.12601019664967225
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0019",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 19,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0047"
-      ],
-      "start_s": 183.715,
-      "end_s": 189.736,
-      "text": "In the 1960s, an anthropologist named Marshall Sollins did something that was considered fairly radical at the time.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.1338055353241078
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0020",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 20,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0048"
       ],
@@ -325,9 +299,9 @@
       "pos_pct": 0.1386569555717407
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0021",
+      "window_id": "Qgz_k2JQ3UY:j0019",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 21,
+      "idx": 19,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0049"
       ],
@@ -339,9 +313,9 @@
       "pos_pct": 0.14751565914056808
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0022",
+      "window_id": "Qgz_k2JQ3UY:j0020",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 22,
+      "idx": 20,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0050",
         "Qgz_k2JQ3UY:s0051"
@@ -354,9 +328,9 @@
       "pos_pct": 0.1618150036416606
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0023",
+      "window_id": "Qgz_k2JQ3UY:j0021",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 23,
+      "idx": 21,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0052",
         "Qgz_k2JQ3UY:s0053"
@@ -369,9 +343,9 @@
       "pos_pct": 0.17143845593590676
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0024",
+      "window_id": "Qgz_k2JQ3UY:j0022",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 24,
+      "idx": 22,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0054",
         "Qgz_k2JQ3UY:s0055"
@@ -384,39 +358,39 @@
       "pos_pct": 0.17547705753823745
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0025",
+      "window_id": "Qgz_k2JQ3UY:j0023",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 25,
+      "idx": 23,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0056"
+        "Qgz_k2JQ3UY:s0056",
+        "Qgz_k2JQ3UY:s0057"
       ],
       "start_s": 257.748,
-      "end_s": 265.994,
-      "text": "Not because they had a lot of stuff, they had almost nothing in terms of material possessions, and deliberately so because everything you own is something you have to carry.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 272.76,
+      "text": "Not because they had a lot of stuff, they had almost nothing in terms of material possessions, and deliberately so because everything you own is something you have to carry. But because they had the one thing that every modern human is desperately chasing and almost never successfully catches.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.18772614712308813
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0026",
+      "window_id": "Qgz_k2JQ3UY:j0024",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 26,
+      "idx": 24,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0057",
         "Qgz_k2JQ3UY:s0058",
         "Qgz_k2JQ3UY:s0059"
       ],
-      "start_s": 266.695,
+      "start_s": 273.42,
       "end_s": 279.185,
-      "text": "But because they had the one thing that every modern human is desperately chasing and almost never successfully catches. Time. Abundant, unscheduled, unmonetized, genuinely free time.",
-      "n_words": 26,
-      "n_sentences": 3,
-      "pos_pct": 0.19424253459577567
+      "text": "Time. Abundant, unscheduled, unmonetized, genuinely free time.",
+      "n_words": 7,
+      "n_sentences": 2,
+      "pos_pct": 0.19914056809905317
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0027",
+      "window_id": "Qgz_k2JQ3UY:j0025",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 27,
+      "idx": 25,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0060"
       ],
@@ -428,146 +402,120 @@
       "pos_pct": 0.20371813546977421
     },
     {
+      "window_id": "Qgz_k2JQ3UY:j0026",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 26,
+      "sent_ids": [
+        "Qgz_k2JQ3UY:s0061",
+        "Qgz_k2JQ3UY:s0062"
+      ],
+      "start_s": 299.467,
+      "end_s": 312.915,
+      "text": "And most of that leisure is spent staring at a screen consuming content algorithmically optimized to make them anxious enough to keep watching. We are working more hours, with more stress, with less rest, than people who are hunting animals with sticks.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.2181114348142753
+    },
+    {
+      "window_id": "Qgz_k2JQ3UY:j0027",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 27,
+      "sent_ids": [
+        "Qgz_k2JQ3UY:s0063",
+        "Qgz_k2JQ3UY:s0064",
+        "Qgz_k2JQ3UY:s0065",
+        "Qgz_k2JQ3UY:s0066"
+      ],
+      "start_s": 313.516,
+      "end_s": 321.41,
+      "text": "Let that sit with you for a second. Let's break it down. Because this is where the story gets genuinely extraordinary. They talked.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.22834377276037876
+    },
+    {
       "window_id": "Qgz_k2JQ3UY:j0028",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 28,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0061"
+        "Qgz_k2JQ3UY:s0067",
+        "Qgz_k2JQ3UY:s0068"
       ],
-      "start_s": 299.467,
-      "end_s": 306.531,
-      "text": "And most of that leisure is spent staring at a screen consuming content algorithmically optimized to make them anxious enough to keep watching.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.2181114348142753
+      "start_s": 322.13,
+      "end_s": 336.914,
+      "text": "Constantly and expertly. If you could go back in time and observe a group of hunter-gatherers sitting around a fire in the late afternoon, the most striking thing wouldn't be the fire, or the animal skins, or the stone tools, or the absence of Wi-Fi.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.2346176256372906
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0029",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 29,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0062",
-        "Qgz_k2JQ3UY:s0063",
-        "Qgz_k2JQ3UY:s0064"
+        "Qgz_k2JQ3UY:s0069",
+        "Qgz_k2JQ3UY:s0070"
       ],
-      "start_s": 307.052,
-      "end_s": 316.848,
-      "text": "We are working more hours, with more stress, with less rest, than people who are hunting animals with sticks. Let that sit with you for a second. Let's break it down.",
-      "n_words": 31,
-      "n_sentences": 3,
-      "pos_pct": 0.22363583394027678
+      "start_s": 337.634,
+      "end_s": 355.63,
+      "text": "it would be the conversation, because ancient humans were relentless, dedicated, passionate talkers. Anthropological studies of modern hunter-gatherer groups have consistently shown that a massive portion of their non-work time, potentially 60-70% of all social time, was spent in conversation.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.24590968681718864
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0030",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 30,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0065",
-        "Qgz_k2JQ3UY:s0066",
-        "Qgz_k2JQ3UY:s0067"
+        "Qgz_k2JQ3UY:s0071",
+        "Qgz_k2JQ3UY:s0072",
+        "Qgz_k2JQ3UY:s0073",
+        "Qgz_k2JQ3UY:s0074"
       ],
-      "start_s": 317.549,
-      "end_s": 323.71,
-      "text": "Because this is where the story gets genuinely extraordinary. They talked. Constantly and expertly.",
-      "n_words": 14,
-      "n_sentences": 3,
-      "pos_pct": 0.2312811361981063
+      "start_s": 356.19,
+      "end_s": 365.677,
+      "text": "And not just tactical conversation. Not just, the mammoth migration patterns this season seem different. Or, I think the river runs south from here. They gossiped.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.2594246176256373
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0031",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 31,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0068"
+        "Qgz_k2JQ3UY:s0075",
+        "Qgz_k2JQ3UY:s0076",
+        "Qgz_k2JQ3UY:s0077",
+        "Qgz_k2JQ3UY:s0078"
       ],
-      "start_s": 324.49,
-      "end_s": 336.914,
-      "text": "If you could go back in time and observe a group of hunter-gatherers sitting around a fire in the late afternoon, the most striking thing wouldn't be the fire, or the animal skins, or the stone tools, or the absence of Wi-Fi.",
-      "n_words": 42,
-      "n_sentences": 1,
-      "pos_pct": 0.23633648943918428
+      "start_s": 365.917,
+      "end_s": 370.16,
+      "text": "They told jokes. They argued. They flirted. They complained about each other.",
+      "n_words": 12,
+      "n_sentences": 4,
+      "pos_pct": 0.26650910415149304
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0032",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 32,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0069"
+        "Qgz_k2JQ3UY:s0079",
+        "Qgz_k2JQ3UY:s0080"
       ],
-      "start_s": 337.634,
-      "end_s": 343.579,
-      "text": "it would be the conversation, because ancient humans were relentless, dedicated, passionate talkers.",
-      "n_words": 13,
-      "n_sentences": 1,
-      "pos_pct": 0.24590968681718864
+      "start_s": 370.48,
+      "end_s": 375.984,
+      "text": "They shared stories about things that happened years ago. They speculated about things they couldn't explain.",
+      "n_words": 16,
+      "n_sentences": 2,
+      "pos_pct": 0.2698324836125273
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0033",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 33,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0070",
-        "Qgz_k2JQ3UY:s0071"
-      ],
-      "start_s": 344.2,
-      "end_s": 357.951,
-      "text": "Anthropological studies of modern hunter-gatherer groups have consistently shown that a massive portion of their non-work time, potentially 60-70% of all social time, was spent in conversation. And not just tactical conversation.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.25069191551347414
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0034",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 34,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0072",
-        "Qgz_k2JQ3UY:s0073",
-        "Qgz_k2JQ3UY:s0074",
-        "Qgz_k2JQ3UY:s0075"
-      ],
-      "start_s": 358.231,
-      "end_s": 366.757,
-      "text": "Not just, the mammoth migration patterns this season seem different. Or, I think the river runs south from here. They gossiped. They told jokes.",
-      "n_words": 24,
-      "n_sentences": 4,
-      "pos_pct": 0.2609111434814275
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0035",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 35,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0076",
-        "Qgz_k2JQ3UY:s0077",
-        "Qgz_k2JQ3UY:s0078",
-        "Qgz_k2JQ3UY:s0079"
-      ],
-      "start_s": 367.077,
-      "end_s": 373.142,
-      "text": "They argued. They flirted. They complained about each other. They shared stories about things that happened years ago.",
-      "n_words": 18,
-      "n_sentences": 4,
-      "pos_pct": 0.26735396941005096
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0036",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 36,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0080"
-      ],
-      "start_s": 373.642,
-      "end_s": 375.984,
-      "text": "They speculated about things they couldn't explain.",
-      "n_words": 7,
-      "n_sentences": 1,
-      "pos_pct": 0.27213546977421704
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0037",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 37,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0081"
       ],
@@ -579,9 +527,9 @@
       "pos_pct": 0.27443845593590677
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0038",
+      "window_id": "Qgz_k2JQ3UY:j0034",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 38,
+      "idx": 34,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0082",
         "Qgz_k2JQ3UY:s0083",
@@ -595,9 +543,9 @@
       "pos_pct": 0.292598689002185
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0039",
+      "window_id": "Qgz_k2JQ3UY:j0035",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 39,
+      "idx": 35,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0085",
         "Qgz_k2JQ3UY:s0086"
@@ -610,9 +558,9 @@
       "pos_pct": 0.3011238164603059
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0040",
+      "window_id": "Qgz_k2JQ3UY:j0036",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 40,
+      "idx": 36,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0087",
         "Qgz_k2JQ3UY:s0088"
@@ -625,9 +573,9 @@
       "pos_pct": 0.30638528769118717
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0041",
+      "window_id": "Qgz_k2JQ3UY:j0037",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 41,
+      "idx": 37,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0089"
       ],
@@ -639,9 +587,9 @@
       "pos_pct": 0.31422505462490896
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0042",
+      "window_id": "Qgz_k2JQ3UY:j0038",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 42,
+      "idx": 38,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0090"
       ],
@@ -653,9 +601,9 @@
       "pos_pct": 0.31821704297159503
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0043",
+      "window_id": "Qgz_k2JQ3UY:j0039",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 43,
+      "idx": 39,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0091",
         "Qgz_k2JQ3UY:s0092"
@@ -668,9 +616,9 @@
       "pos_pct": 0.32858994901675165
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0044",
+      "window_id": "Qgz_k2JQ3UY:j0040",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 44,
+      "idx": 40,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0093",
         "Qgz_k2JQ3UY:s0094",
@@ -684,9 +632,9 @@
       "pos_pct": 0.33539475600873997
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0045",
+      "window_id": "Qgz_k2JQ3UY:j0041",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 45,
+      "idx": 41,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0096",
         "Qgz_k2JQ3UY:s0097",
@@ -701,9 +649,9 @@
       "pos_pct": 0.343877640203933
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0046",
+      "window_id": "Qgz_k2JQ3UY:j0042",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 46,
+      "idx": 42,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0100",
         "Qgz_k2JQ3UY:s0101"
@@ -716,9 +664,9 @@
       "pos_pct": 0.35460524399126003
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0047",
+      "window_id": "Qgz_k2JQ3UY:j0043",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 47,
+      "idx": 43,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0102",
         "Qgz_k2JQ3UY:s0103"
@@ -731,9 +679,9 @@
       "pos_pct": 0.364006554989075
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0048",
+      "window_id": "Qgz_k2JQ3UY:j0044",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 48,
+      "idx": 44,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0104",
         "Qgz_k2JQ3UY:s0105",
@@ -748,9 +696,9 @@
       "pos_pct": 0.3718040786598689
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0049",
+      "window_id": "Qgz_k2JQ3UY:j0045",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 49,
+      "idx": 45,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0108",
         "Qgz_k2JQ3UY:s0109",
@@ -765,9 +713,9 @@
       "pos_pct": 0.3805214857975237
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0050",
+      "window_id": "Qgz_k2JQ3UY:j0046",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 50,
+      "idx": 46,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0112",
         "Qgz_k2JQ3UY:s0113"
@@ -780,9 +728,9 @@
       "pos_pct": 0.3853714493809177
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0051",
+      "window_id": "Qgz_k2JQ3UY:j0047",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 51,
+      "idx": 47,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0114",
         "Qgz_k2JQ3UY:s0115"
@@ -795,9 +743,9 @@
       "pos_pct": 0.39496358339402765
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0052",
+      "window_id": "Qgz_k2JQ3UY:j0048",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 52,
+      "idx": 48,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0116"
       ],
@@ -809,9 +757,9 @@
       "pos_pct": 0.4046576839038602
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0053",
+      "window_id": "Qgz_k2JQ3UY:j0049",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 53,
+      "idx": 49,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0117",
         "Qgz_k2JQ3UY:s0118"
@@ -824,82 +772,69 @@
       "pos_pct": 0.41711216314639477
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0054",
+      "window_id": "Qgz_k2JQ3UY:j0050",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 54,
+      "idx": 50,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0119"
+        "Qgz_k2JQ3UY:s0119",
+        "Qgz_k2JQ3UY:s0120"
       ],
       "start_s": 576.499,
-      "end_s": 585.687,
-      "text": "If you sometimes wake up at 2am, lie there for an hour feeling oddly alert and calm, and wonder what's wrong with you, the answer is potentially nothing.",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 589.57,
+      "text": "If you sometimes wake up at 2am, lie there for an hour feeling oddly alert and calm, and wonder what's wrong with you, the answer is potentially nothing. Your body is doing what human bodies did for hundreds of thousands of years.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.4198827385287691
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0055",
+      "window_id": "Qgz_k2JQ3UY:j0051",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 55,
+      "idx": 51,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0120"
-      ],
-      "start_s": 586.307,
-      "end_s": 589.57,
-      "text": "Your body is doing what human bodies did for hundreds of thousands of years.",
-      "n_words": 14,
-      "n_sentences": 1,
-      "pos_pct": 0.4270262199563001
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0056",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 56,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0121"
+        "Qgz_k2JQ3UY:s0121",
+        "Qgz_k2JQ3UY:s0122"
       ],
       "start_s": 590.01,
-      "end_s": 597.917,
-      "text": "You're just missing the campfire, the low voices of your family nearby, and the absolute spectacular darkness of a world without electric lights.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 604.562,
+      "text": "You're just missing the campfire, the low voices of your family nearby, and the absolute spectacular darkness of a world without electric lights. One of the most persistent misunderstandings about prehistoric humans is the idea that they were technologically rudimentary.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.42972323379461036
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0057",
+      "window_id": "Qgz_k2JQ3UY:j0052",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 57,
+      "idx": 52,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0122",
-        "Qgz_k2JQ3UY:s0123"
+        "Qgz_k2JQ3UY:s0123",
+        "Qgz_k2JQ3UY:s0124"
       ],
-      "start_s": 599.038,
-      "end_s": 608.304,
-      "text": "One of the most persistent misunderstandings about prehistoric humans is the idea that they were technologically rudimentary. That stone age implies something crude and simple.",
-      "n_words": 25,
+      "start_s": 605.262,
+      "end_s": 614.769,
+      "text": "That stone age implies something crude and simple. But the craftsmanship required to produce their tools, their clothing, their shelter, and their art was not simple.",
+      "n_words": 26,
       "n_sentences": 2,
-      "pos_pct": 0.4362986161689731
+      "pos_pct": 0.4408317552804078
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0058",
+      "window_id": "Qgz_k2JQ3UY:j0053",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 58,
+      "idx": 53,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0124",
         "Qgz_k2JQ3UY:s0125",
         "Qgz_k2JQ3UY:s0126"
       ],
-      "start_s": 608.805,
+      "start_s": 615.189,
       "end_s": 620.973,
-      "text": "But the craftsmanship required to produce their tools, their clothing, their shelter, and their art was not simple. It was demanding, practiced, skilled work that took years to master. Take stone napping.",
-      "n_words": 32,
-      "n_sentences": 3,
-      "pos_pct": 0.44341223597960666
+      "text": "It was demanding, practiced, skilled work that took years to master. Take stone napping.",
+      "n_words": 14,
+      "n_sentences": 2,
+      "pos_pct": 0.4480619082301529
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0059",
+      "window_id": "Qgz_k2JQ3UY:j0054",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 59,
+      "idx": 54,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0127",
         "Qgz_k2JQ3UY:s0128",
@@ -913,9 +848,9 @@
       "pos_pct": 0.45255134741442093
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0060",
+      "window_id": "Qgz_k2JQ3UY:j0055",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 60,
+      "idx": 55,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0130",
         "Qgz_k2JQ3UY:s0131",
@@ -929,9 +864,9 @@
       "pos_pct": 0.4611478514202476
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0061",
+      "window_id": "Qgz_k2JQ3UY:j0056",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 61,
+      "idx": 56,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0133",
         "Qgz_k2JQ3UY:s0134"
@@ -944,157 +879,131 @@
       "pos_pct": 0.471332847778587
     },
     {
+      "window_id": "Qgz_k2JQ3UY:j0057",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 57,
+      "sent_ids": [
+        "Qgz_k2JQ3UY:s0135",
+        "Qgz_k2JQ3UY:s0136"
+      ],
+      "start_s": 659.651,
+      "end_s": 672.781,
+      "text": "Then there's clothing production in cold climates, which was an enormous undertaking. Preparing animal hides to be worn required scraping them clean, treating them to prevent hardening and decay, and then stitching them into garments using bone needles.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.48044501092498176
+    },
+    {
+      "window_id": "Qgz_k2JQ3UY:j0058",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 58,
+      "sent_ids": [
+        "Qgz_k2JQ3UY:s0137",
+        "Qgz_k2JQ3UY:s0138"
+      ],
+      "start_s": 673.582,
+      "end_s": 684.947,
+      "text": "We have found needles made of bone dating back 50,000 years or more. Needles with eyes that someone sat down and carefully drilled through a tiny piece of bone using stone tools because they wanted to sew.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.4905914056809905
+    },
+    {
+      "window_id": "Qgz_k2JQ3UY:j0059",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 59,
+      "sent_ids": [
+        "Qgz_k2JQ3UY:s0139",
+        "Qgz_k2JQ3UY:s0140",
+        "Qgz_k2JQ3UY:s0141"
+      ],
+      "start_s": 685.628,
+      "end_s": 694.072,
+      "text": "Because the quality of their stitching mattered to them. Because they cared. And then there's the art, which should make every single person stop and feel something.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.49936489439184273
+    },
+    {
+      "window_id": "Qgz_k2JQ3UY:j0060",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 60,
+      "sent_ids": [
+        "Qgz_k2JQ3UY:s0142",
+        "Qgz_k2JQ3UY:s0143",
+        "Qgz_k2JQ3UY:s0144"
+      ],
+      "start_s": 694.892,
+      "end_s": 705.94,
+      "text": "The cave paintings at Lascaux in France were made approximately 17,000 years ago. The ones at Chauvet-Pont-d'Arc are potentially 36,000 years old. These are not crude scribbles.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.5061121631463948
+    },
+    {
+      "window_id": "Qgz_k2JQ3UY:j0061",
+      "video_id": "Qgz_k2JQ3UY",
+      "idx": 61,
+      "sent_ids": [
+        "Qgz_k2JQ3UY:s0145",
+        "Qgz_k2JQ3UY:s0146"
+      ],
+      "start_s": 706.501,
+      "end_s": 717.969,
+      "text": "These are sophisticated, dynamic, compositionally thoughtful representations of animals. Horses mid-gallop, bison turning their heads, charging rhinoceroses, lions hunting in packs.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.5145673707210487
+    },
+    {
       "window_id": "Qgz_k2JQ3UY:j0062",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 62,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0135"
+        "Qgz_k2JQ3UY:s0147",
+        "Qgz_k2JQ3UY:s0148"
       ],
-      "start_s": 659.651,
-      "end_s": 663.454,
-      "text": "Then there's clothing production in cold climates, which was an enormous undertaking.",
-      "n_words": 12,
-      "n_sentences": 1,
-      "pos_pct": 0.48044501092498176
+      "start_s": 718.75,
+      "end_s": 734.811,
+      "text": "They demonstrate an understanding of movement, of perspective, of light and shadow that genuinely astonishes contemporary artists and illustrators who study them. Some of the artists use the natural curves and protrusions of the cave walls to give their animals three-dimensional form.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.5234887108521485
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0063",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 63,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0136"
+        "Qgz_k2JQ3UY:s0149",
+        "Qgz_k2JQ3UY:s0150"
       ],
-      "start_s": 663.854,
-      "end_s": 672.781,
-      "text": "Preparing animal hides to be worn required scraping them clean, treating them to prevent hardening and decay, and then stitching them into garments using bone needles.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.4835061908230153
+      "start_s": 735.091,
+      "end_s": 747.935,
+      "text": "so that when viewed by flickering firelight, the only light available to them, the horses and bison and aurochs would appear to breathe, to shift, to move. They built cinematic illusion into stone walls in the dark 36,000 years ago.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.5353903860160233
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0064",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 64,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0137"
+        "Qgz_k2JQ3UY:s0151",
+        "Qgz_k2JQ3UY:s0152"
       ],
-      "start_s": 673.582,
-      "end_s": 677.244,
-      "text": "We have found needles made of bone dating back 50,000 years or more.",
-      "n_words": 13,
-      "n_sentences": 1,
-      "pos_pct": 0.4905914056809905
+      "start_s": 748.535,
+      "end_s": 751.176,
+      "text": "That is not primitive. That is breathtaking.",
+      "n_words": 7,
+      "n_sentences": 2,
+      "pos_pct": 0.5451820830298616
     },
     {
       "window_id": "Qgz_k2JQ3UY:j0065",
       "video_id": "Qgz_k2JQ3UY",
       "idx": 65,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0138",
-        "Qgz_k2JQ3UY:s0139"
-      ],
-      "start_s": 678.184,
-      "end_s": 687.869,
-      "text": "Needles with eyes that someone sat down and carefully drilled through a tiny piece of bone using stone tools because they wanted to sew. Because the quality of their stitching mattered to them.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.4939431900946831
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0066",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 66,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0140",
-        "Qgz_k2JQ3UY:s0141",
-        "Qgz_k2JQ3UY:s0142"
-      ],
-      "start_s": 688.629,
-      "end_s": 699.255,
-      "text": "Because they cared. And then there's the art, which should make every single person stop and feel something. The cave paintings at Lascaux in France were made approximately 17,000 years ago.",
-      "n_words": 31,
-      "n_sentences": 3,
-      "pos_pct": 0.5015506190823016
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0067",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 67,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0143",
-        "Qgz_k2JQ3UY:s0144",
-        "Qgz_k2JQ3UY:s0145",
-        "Qgz_k2JQ3UY:s0146"
-      ],
-      "start_s": 700.116,
-      "end_s": 717.969,
-      "text": "The ones at Chauvet-Pont-d'Arc are potentially 36,000 years old. These are not crude scribbles. These are sophisticated, dynamic, compositionally thoughtful representations of animals. Horses mid-gallop, bison turning their heads, charging rhinoceroses, lions hunting in packs.",
-      "n_words": 35,
-      "n_sentences": 4,
-      "pos_pct": 0.5099169701383831
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0068",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 68,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0147"
-      ],
-      "start_s": 718.75,
-      "end_s": 728.463,
-      "text": "They demonstrate an understanding of movement, of perspective, of light and shadow that genuinely astonishes contemporary artists and illustrators who study them.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.5234887108521485
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0069",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 69,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0148"
-      ],
-      "start_s": 729.103,
-      "end_s": 734.811,
-      "text": "Some of the artists use the natural curves and protrusions of the cave walls to give their animals three-dimensional form.",
-      "n_words": 20,
-      "n_sentences": 1,
-      "pos_pct": 0.5310291332847779
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0070",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 70,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0149"
-      ],
-      "start_s": 735.091,
-      "end_s": 743.173,
-      "text": "so that when viewed by flickering firelight, the only light available to them, the horses and bison and aurochs would appear to breathe, to shift, to move.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.5353903860160233
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0071",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 71,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0150",
-        "Qgz_k2JQ3UY:s0151",
-        "Qgz_k2JQ3UY:s0152"
-      ],
-      "start_s": 743.653,
-      "end_s": 751.176,
-      "text": "They built cinematic illusion into stone walls in the dark 36,000 years ago. That is not primitive. That is breathtaking.",
-      "n_words": 20,
-      "n_sentences": 3,
-      "pos_pct": 0.5416263656227239
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0072",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 72,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0153"
       ],
@@ -1106,9 +1015,9 @@
       "pos_pct": 0.5473532410779315
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0073",
+      "window_id": "Qgz_k2JQ3UY:j0066",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 73,
+      "idx": 66,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0154",
         "Qgz_k2JQ3UY:s0155",
@@ -1123,9 +1032,9 @@
       "pos_pct": 0.5611391114348142
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0074",
+      "window_id": "Qgz_k2JQ3UY:j0067",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 74,
+      "idx": 67,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0158",
         "Qgz_k2JQ3UY:s0159"
@@ -1138,9 +1047,9 @@
       "pos_pct": 0.5670415149308085
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0075",
+      "window_id": "Qgz_k2JQ3UY:j0068",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 75,
+      "idx": 68,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0160",
         "Qgz_k2JQ3UY:s0161"
@@ -1153,37 +1062,24 @@
       "pos_pct": 0.5720116533139111
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0076",
+      "window_id": "Qgz_k2JQ3UY:j0069",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 76,
+      "idx": 69,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0162"
+        "Qgz_k2JQ3UY:s0162",
+        "Qgz_k2JQ3UY:s0163"
       ],
       "start_s": 799.409,
-      "end_s": 815.427,
-      "text": "The Royal Game of Ur, found in ancient Mesopotamia, dates to around 2500 BCE, and its rules have been partially reconstructed from a Babylonian clay tablet, but organized games almost certainly predate any civilization.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 829.257,
+      "text": "The Royal Game of Ur, found in ancient Mesopotamia, dates to around 2500 BCE, and its rules have been partially reconstructed from a Babylonian clay tablet, but organized games almost certainly predate any civilization. Children in every hunter-gatherer society ever studied engage in rich, complex play, mimicking adult skills, inventing rules and games, competing, cooperating, negotiating.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.5822352512745812
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0077",
+      "window_id": "Qgz_k2JQ3UY:j0070",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 77,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0163"
-      ],
-      "start_s": 816.408,
-      "end_s": 829.257,
-      "text": "Children in every hunter-gatherer society ever studied engage in rich, complex play, mimicking adult skills, inventing rules and games, competing, cooperating, negotiating.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.5946161689730517
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0078",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 78,
+      "idx": 70,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0164",
         "Qgz_k2JQ3UY:s0165"
@@ -1196,9 +1092,9 @@
       "pos_pct": 0.6043241077931537
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0079",
+      "window_id": "Qgz_k2JQ3UY:j0071",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 79,
+      "idx": 71,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0166"
       ],
@@ -1210,9 +1106,9 @@
       "pos_pct": 0.6154756008739986
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0080",
+      "window_id": "Qgz_k2JQ3UY:j0072",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 80,
+      "idx": 72,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0167",
         "Qgz_k2JQ3UY:s0168"
@@ -1225,9 +1121,9 @@
       "pos_pct": 0.6244989075018208
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0081",
+      "window_id": "Qgz_k2JQ3UY:j0073",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 81,
+      "idx": 73,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0169",
         "Qgz_k2JQ3UY:s0170",
@@ -1241,9 +1137,9 @@
       "pos_pct": 0.634265841223598
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0082",
+      "window_id": "Qgz_k2JQ3UY:j0074",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 82,
+      "idx": 74,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0172",
         "Qgz_k2JQ3UY:s0173",
@@ -1258,9 +1154,9 @@
       "pos_pct": 0.644067006554989
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0083",
+      "window_id": "Qgz_k2JQ3UY:j0075",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 83,
+      "idx": 75,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0176",
         "Qgz_k2JQ3UY:s0177"
@@ -1273,9 +1169,9 @@
       "pos_pct": 0.6515906773488711
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0084",
+      "window_id": "Qgz_k2JQ3UY:j0076",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 84,
+      "idx": 76,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0178",
         "Qgz_k2JQ3UY:s0179",
@@ -1289,9 +1185,9 @@
       "pos_pct": 0.6584413692643846
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0085",
+      "window_id": "Qgz_k2JQ3UY:j0077",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 85,
+      "idx": 77,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0181",
         "Qgz_k2JQ3UY:s0182",
@@ -1305,9 +1201,9 @@
       "pos_pct": 0.6679701383831027
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0086",
+      "window_id": "Qgz_k2JQ3UY:j0078",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 86,
+      "idx": 78,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0184"
       ],
@@ -1319,9 +1215,9 @@
       "pos_pct": 0.6710451565914057
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0087",
+      "window_id": "Qgz_k2JQ3UY:j0079",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 87,
+      "idx": 79,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0185",
         "Qgz_k2JQ3UY:s0186",
@@ -1335,65 +1231,39 @@
       "pos_pct": 0.6823576110706482
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0088",
+      "window_id": "Qgz_k2JQ3UY:j0080",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 88,
+      "idx": 80,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0188"
+        "Qgz_k2JQ3UY:s0188",
+        "Qgz_k2JQ3UY:s0189"
       ],
       "start_s": 945.222,
-      "end_s": 950.085,
-      "text": "He would have been, by any ruthless calculus of pure survival efficiency, a liability.",
-      "n_words": 14,
-      "n_sentences": 1,
+      "end_s": 958.629,
+      "text": "He would have been, by any ruthless calculus of pure survival efficiency, a liability. and yet his group fed him, protected him, and kept him alive for years, not because they had to, because they chose to.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.688435542607429
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0089",
+      "window_id": "Qgz_k2JQ3UY:j0081",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 89,
+      "idx": 81,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0189"
-      ],
-      "start_s": 950.525,
-      "end_s": 958.629,
-      "text": "and yet his group fed him, protected him, and kept him alive for years, not because they had to, because they chose to.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.6922978878368536
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0090",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 90,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0190"
+        "Qgz_k2JQ3UY:s0190",
+        "Qgz_k2JQ3UY:s0191"
       ],
       "start_s": 959.009,
-      "end_s": 968.133,
-      "text": "We found the skull of a child with Down syndrome who lived in what is now Spain and died approximately 500,000 years ago, having survived to around eight years of age.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 979.518,
+      "text": "We found the skull of a child with Down syndrome who lived in what is now Spain and died approximately 500,000 years ago, having survived to around eight years of age. The level of care required to keep a child with significant developmental disabilities alive in that environment for eight years goes enormously beyond what simple survival instinct would demand.",
+      "n_words": 60,
+      "n_sentences": 2,
       "pos_pct": 0.6984770575382374
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0091",
+      "window_id": "Qgz_k2JQ3UY:j0082",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 91,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0191"
-      ],
-      "start_s": 968.913,
-      "end_s": 979.518,
-      "text": "The level of care required to keep a child with significant developmental disabilities alive in that environment for eight years goes enormously beyond what simple survival instinct would demand.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.7056904588492353
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0092",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 92,
+      "idx": 82,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0192",
         "Qgz_k2JQ3UY:s0193"
@@ -1406,56 +1276,56 @@
       "pos_pct": 0.7142155863073562
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0093",
+      "window_id": "Qgz_k2JQ3UY:j0083",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 93,
+      "idx": 83,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0194"
+        "Qgz_k2JQ3UY:s0194",
+        "Qgz_k2JQ3UY:s0195"
       ],
       "start_s": 987.323,
-      "end_s": 997.111,
-      "text": "Healed, which means the person survived long enough for the bone to knit back together, which means they were fed and protected during weeks or months of incapacitation.",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 1001.614,
+      "text": "Healed, which means the person survived long enough for the bone to knit back together, which means they were fed and protected during weeks or months of incapacitation. Someone sat with them, brought them food, kept the fire going.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.7190990531682447
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0094",
+      "window_id": "Qgz_k2JQ3UY:j0084",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 94,
+      "idx": 84,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0195",
         "Qgz_k2JQ3UY:s0196",
         "Qgz_k2JQ3UY:s0197",
-        "Qgz_k2JQ3UY:s0198"
+        "Qgz_k2JQ3UY:s0198",
+        "Qgz_k2JQ3UY:s0199"
       ],
-      "start_s": 997.711,
-      "end_s": 1010.179,
-      "text": "Someone sat with them, brought them food, kept the fire going. Ancient humans buried their dead with intention. with arrangement, with grave goods, with a parent's ceremony. They mourned.",
-      "n_words": 29,
+      "start_s": 1002.175,
+      "end_s": 1011.219,
+      "text": "Ancient humans buried their dead with intention. with arrangement, with grave goods, with a parent's ceremony. They mourned. They remembered.",
+      "n_words": 20,
       "n_sentences": 4,
-      "pos_pct": 0.7266649672250546
+      "pos_pct": 0.7299162418062636
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0095",
+      "window_id": "Qgz_k2JQ3UY:j0085",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 95,
+      "idx": 85,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0199",
         "Qgz_k2JQ3UY:s0200",
         "Qgz_k2JQ3UY:s0201"
       ],
-      "start_s": 1010.579,
+      "start_s": 1011.779,
       "end_s": 1018.202,
-      "text": "They remembered. They marked the end of a life as something that mattered. The bones of ancient people don't tell a story of brutal indifference.",
-      "n_words": 25,
-      "n_sentences": 3,
-      "pos_pct": 0.7360371449380917
+      "text": "They marked the end of a life as something that mattered. The bones of ancient people don't tell a story of brutal indifference.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.7369111434814275
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0096",
+      "window_id": "Qgz_k2JQ3UY:j0086",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 96,
+      "idx": 86,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0202"
       ],
@@ -1467,9 +1337,9 @@
       "pos_pct": 0.7423160961398398
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0097",
+      "window_id": "Qgz_k2JQ3UY:j0087",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 97,
+      "idx": 87,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0203",
         "Qgz_k2JQ3UY:s0204"
@@ -1482,9 +1352,9 @@
       "pos_pct": 0.7498055353241078
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0098",
+      "window_id": "Qgz_k2JQ3UY:j0088",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 98,
+      "idx": 88,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0205"
       ],
@@ -1496,9 +1366,9 @@
       "pos_pct": 0.7524865258557902
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0099",
+      "window_id": "Qgz_k2JQ3UY:j0089",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 99,
+      "idx": 89,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0206"
       ],
@@ -1510,37 +1380,24 @@
       "pos_pct": 0.7588827385287691
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0100",
+      "window_id": "Qgz_k2JQ3UY:j0090",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 100,
+      "idx": 90,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0207"
+        "Qgz_k2JQ3UY:s0207",
+        "Qgz_k2JQ3UY:s0208"
       ],
       "start_s": 1058.237,
-      "end_s": 1062.4,
-      "text": "It's called persistence hunting, and it is exactly what it sounds like.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 1074.808,
+      "text": "It's called persistence hunting, and it is exactly what it sounds like. You find an animal, something large, a kudu, a wildebeest, a deer, and then you follow it, not sprinting after it, not trying to outrun it, because you can't outrun a wildebeest in a sprint.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.7707479970866716
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0101",
+      "window_id": "Qgz_k2JQ3UY:j0091",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 101,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0208"
-      ],
-      "start_s": 1062.98,
-      "end_s": 1074.808,
-      "text": "You find an animal, something large, a kudu, a wildebeest, a deer, and then you follow it, not sprinting after it, not trying to outrun it, because you can't outrun a wildebeest in a sprint.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.7742024763292061
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0102",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 102,
+      "idx": 91,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0209",
         "Qgz_k2JQ3UY:s0210",
@@ -1554,37 +1411,24 @@
       "pos_pct": 0.7830801165331391
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0103",
+      "window_id": "Qgz_k2JQ3UY:j0092",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 103,
+      "idx": 92,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0212"
+        "Qgz_k2JQ3UY:s0212",
+        "Qgz_k2JQ3UY:s0213"
       ],
       "start_s": 1084.255,
-      "end_s": 1094.899,
-      "text": "Every time it tries to rest because most four-legged animals cool down by panting, and panting requires them to stop moving, you appear again on the horizon, and it panics and runs again.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 1100.962,
+      "text": "Every time it tries to rest because most four-legged animals cool down by panting, and panting requires them to stop moving, you appear again on the horizon, and it panics and runs again. And you follow, again, for five hours, eight hours, sometimes longer.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.7896977421704298
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0104",
+      "window_id": "Qgz_k2JQ3UY:j0093",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 104,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0213"
-      ],
-      "start_s": 1095.72,
-      "end_s": 1100.962,
-      "text": "And you follow, again, for five hours, eight hours, sometimes longer.",
-      "n_words": 11,
-      "n_sentences": 1,
-      "pos_pct": 0.7980480699198835
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0105",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 105,
+      "idx": 93,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0214",
         "Qgz_k2JQ3UY:s0215"
@@ -1597,37 +1441,24 @@
       "pos_pct": 0.8024777858703568
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0106",
+      "window_id": "Qgz_k2JQ3UY:j0094",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 106,
+      "idx": 94,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0216"
+        "Qgz_k2JQ3UY:s0216",
+        "Qgz_k2JQ3UY:s0217"
       ],
       "start_s": 1116.256,
-      "end_s": 1126.265,
-      "text": "We are one of the only mammals on earth that primarily cools our bodies through perspiration rather than panting, which means we can sustain movement in heat that incapacitates almost everything else.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 1135.17,
+      "text": "We are one of the only mammals on earth that primarily cools our bodies through perspiration rather than panting, which means we can sustain movement in heat that incapacitates almost everything else. Our peculiar, hairless, sweating, flat-footed, large-buttocked bodies were specifically shaped by evolution for long-distance running in hot conditions.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.8130050983248361
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0107",
+      "window_id": "Qgz_k2JQ3UY:j0095",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 107,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0217"
-      ],
-      "start_s": 1127.266,
-      "end_s": 1135.17,
-      "text": "Our peculiar, hairless, sweating, flat-footed, large-buttocked bodies were specifically shaped by evolution for long-distance running in hot conditions.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.8210240349599418
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0108",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 108,
+      "idx": 95,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0218",
         "Qgz_k2JQ3UY:s0219",
@@ -1642,9 +1473,9 @@
       "pos_pct": 0.8272323379461034
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0109",
+      "window_id": "Qgz_k2JQ3UY:j0096",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 109,
+      "idx": 96,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0222",
         "Qgz_k2JQ3UY:s0223",
@@ -1659,9 +1490,9 @@
       "pos_pct": 0.8362687545520756
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0110",
+      "window_id": "Qgz_k2JQ3UY:j0097",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 110,
+      "idx": 97,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0226",
         "Qgz_k2JQ3UY:s0227",
@@ -1675,9 +1506,9 @@
       "pos_pct": 0.8432796795338675
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0111",
+      "window_id": "Qgz_k2JQ3UY:j0098",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 111,
+      "idx": 98,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0229",
         "Qgz_k2JQ3UY:s0230"
@@ -1690,37 +1521,24 @@
       "pos_pct": 0.8508040786598688
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0112",
+      "window_id": "Qgz_k2JQ3UY:j0099",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 112,
+      "idx": 99,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0231"
+        "Qgz_k2JQ3UY:s0231",
+        "Qgz_k2JQ3UY:s0232"
       ],
       "start_s": 1175.28,
-      "end_s": 1185.145,
-      "text": "We were built, from the bones outward, to be endurance predators, long-distance pursuit hunters, the most improbable and effective ones on Earth.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 1197.932,
+      "text": "We were built, from the bones outward, to be endurance predators, long-distance pursuit hunters, the most improbable and effective ones on Earth. When you run a half-marathon and question your life choices around mile 9, you are using hardware engineered over millions of years of evolution, specifically to chase large animals across open landscapes in the heat of midday.",
+      "n_words": 59,
+      "n_sentences": 2,
       "pos_pct": 0.8559941733430444
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0113",
+      "window_id": "Qgz_k2JQ3UY:j0100",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 113,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0232"
-      ],
-      "start_s": 1185.825,
-      "end_s": 1197.932,
-      "text": "When you run a half-marathon and question your life choices around mile 9, you are using hardware engineered over millions of years of evolution, specifically to chase large animals across open landscapes in the heat of midday.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.8636744355426075
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0114",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 114,
+      "idx": 100,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0233",
         "Qgz_k2JQ3UY:s0234",
@@ -1735,9 +1553,9 @@
       "pos_pct": 0.8731769847050256
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0115",
+      "window_id": "Qgz_k2JQ3UY:j0101",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 115,
+      "idx": 101,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0237",
         "Qgz_k2JQ3UY:s0238",
@@ -1752,9 +1570,9 @@
       "pos_pct": 0.8795069191551348
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0116",
+      "window_id": "Qgz_k2JQ3UY:j0102",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 116,
+      "idx": 102,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0241",
         "Qgz_k2JQ3UY:s0242",
@@ -1768,9 +1586,9 @@
       "pos_pct": 0.8877392571012381
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0117",
+      "window_id": "Qgz_k2JQ3UY:j0103",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 117,
+      "idx": 103,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0244"
       ],
@@ -1782,130 +1600,104 @@
       "pos_pct": 0.8923729060451566
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0118",
+      "window_id": "Qgz_k2JQ3UY:j0104",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 118,
+      "idx": 104,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0245"
+        "Qgz_k2JQ3UY:s0245",
+        "Qgz_k2JQ3UY:s0246"
       ],
       "start_s": 1237.335,
-      "end_s": 1250.563,
-      "text": "This network is associated with daydreaming, self-reflection, creative thought, emotional processing, and what researchers call mental time travel, the ability to simulate past events and imagine future scenarios.",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 1254.864,
+      "text": "This network is associated with daydreaming, self-reflection, creative thought, emotional processing, and what researchers call mental time travel, the ability to simulate past events and imagine future scenarios. It's extraordinarily important for psychological health and for creativity.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.901190823015295
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0119",
+      "window_id": "Qgz_k2JQ3UY:j0105",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 119,
+      "idx": 105,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0246",
         "Qgz_k2JQ3UY:s0247",
         "Qgz_k2JQ3UY:s0248",
-        "Qgz_k2JQ3UY:s0249"
+        "Qgz_k2JQ3UY:s0249",
+        "Qgz_k2JQ3UY:s0250"
       ],
-      "start_s": 1251.283,
-      "end_s": 1264.626,
-      "text": "It's extraordinarily important for psychological health and for creativity. And here's the problem. The default mode network requires genuine cognitive rest to activate properly. Your brain has to actually stop processing external stimulation.",
-      "n_words": 33,
+      "start_s": 1255.344,
+      "end_s": 1268.647,
+      "text": "And here's the problem. The default mode network requires genuine cognitive rest to activate properly. Your brain has to actually stop processing external stimulation. But modern humans fill essentially every quiet moment with input.",
+      "n_words": 34,
       "n_sentences": 4,
-      "pos_pct": 0.9113495994173342
+      "pos_pct": 0.9143073561544064
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0120",
+      "window_id": "Qgz_k2JQ3UY:j0106",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 120,
+      "idx": 106,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0250",
         "Qgz_k2JQ3UY:s0251",
         "Qgz_k2JQ3UY:s0252",
-        "Qgz_k2JQ3UY:s0253"
+        "Qgz_k2JQ3UY:s0253",
+        "Qgz_k2JQ3UY:s0254"
       ],
-      "start_s": 1265.066,
-      "end_s": 1271.748,
-      "text": "But modern humans fill essentially every quiet moment with input. A podcast. A scroll. Something to watch.",
-      "n_words": 17,
+      "start_s": 1269.007,
+      "end_s": 1273.008,
+      "text": "A podcast. A scroll. Something to watch. Something to read.",
+      "n_words": 10,
       "n_sentences": 4,
-      "pos_pct": 0.921388201019665
+      "pos_pct": 0.9242585579024035
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0121",
+      "window_id": "Qgz_k2JQ3UY:j0107",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 121,
+      "idx": 107,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0254",
         "Qgz_k2JQ3UY:s0255",
         "Qgz_k2JQ3UY:s0256",
         "Qgz_k2JQ3UY:s0257"
       ],
-      "start_s": 1272.248,
+      "start_s": 1273.589,
       "end_s": 1286.553,
-      "text": "Something to read. A notification to check. We have collectively, accidentally engineered an environment in which genuine cognitive rest is almost impossible to achieve without deliberate effort. Ancient humans didn't have this problem.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.9266190823015296
+      "text": "A notification to check. We have collectively, accidentally engineered an environment in which genuine cognitive rest is almost impossible to achieve without deliberate effort. Ancient humans didn't have this problem.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.9275957756737072
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0122",
+      "window_id": "Qgz_k2JQ3UY:j0108",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 122,
+      "idx": 108,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0258"
+        "Qgz_k2JQ3UY:s0258",
+        "Qgz_k2JQ3UY:s0259"
       ],
       "start_s": 1287.053,
-      "end_s": 1296.038,
-      "text": "Sitting by a fire after dark, watching the flames, not doing anything in particular, letting thoughts arise and dissolve without any agenda, this was normal.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 1299.881,
+      "text": "Sitting by a fire after dark, watching the flames, not doing anything in particular, letting thoughts arise and dissolve without any agenda, this was normal. It was the default evening activity for most of human history.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.9374020393299345
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0123",
+      "window_id": "Qgz_k2JQ3UY:j0109",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 123,
+      "idx": 109,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0259"
-      ],
-      "start_s": 1296.699,
-      "end_s": 1299.881,
-      "text": "It was the default evening activity for most of human history.",
-      "n_words": 11,
-      "n_sentences": 1,
-      "pos_pct": 0.9444275309541151
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0124",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 124,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0260"
+        "Qgz_k2JQ3UY:s0260",
+        "Qgz_k2JQ3UY:s0261"
       ],
       "start_s": 1300.761,
-      "end_s": 1310.982,
-      "text": "And it probably had profound benefits for mental health, emotional regulation, creative processing, and the kind of unconscious problem-solving that the brain does when you give it space.",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 1324.381,
+      "text": "And it probably had profound benefits for mental health, emotional regulation, creative processing, and the kind of unconscious problem-solving that the brain does when you give it space. There's a reason so many of humanity's great leaps, in art, in philosophy, in mathematics, in technology, seem to cluster in periods and places of relative stillness and contemplation.",
+      "n_words": 57,
+      "n_sentences": 2,
       "pos_pct": 0.9473860160233066
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0125",
+      "window_id": "Qgz_k2JQ3UY:j0110",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 125,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0261"
-      ],
-      "start_s": 1312.234,
-      "end_s": 1324.381,
-      "text": "There's a reason so many of humanity's great leaps, in art, in philosophy, in mathematics, in technology, seem to cluster in periods and places of relative stillness and contemplation.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.9557421704297159
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0126",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 126,
+      "idx": 110,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0262",
         "Qgz_k2JQ3UY:s0263"
@@ -1918,37 +1710,24 @@
       "pos_pct": 0.965040786598689
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0127",
+      "window_id": "Qgz_k2JQ3UY:j0111",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 127,
+      "idx": 111,
       "sent_ids": [
-        "Qgz_k2JQ3UY:s0264"
+        "Qgz_k2JQ3UY:s0264",
+        "Qgz_k2JQ3UY:s0265"
       ],
       "start_s": 1335.066,
-      "end_s": 1343.952,
-      "text": "They were sitting with their own thoughts for hours every single day, noticing things, making connections, asking questions that had no obvious answers.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 1353.9,
+      "text": "They were sitting with their own thoughts for hours every single day, noticing things, making connections, asking questions that had no obvious answers. The stories they told around the fire about those questions, about why the stars moved, about where the dead went, about what the animals meant, about how the world was made.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.9723714493809177
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0128",
+      "window_id": "Qgz_k2JQ3UY:j0112",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 128,
-      "sent_ids": [
-        "Qgz_k2JQ3UY:s0265"
-      ],
-      "start_s": 1344.612,
-      "end_s": 1353.9,
-      "text": "The stories they told around the fire about those questions, about why the stars moved, about where the dead went, about what the animals meant, about how the world was made.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.9793241077931537
-    },
-    {
-      "window_id": "Qgz_k2JQ3UY:j0129",
-      "video_id": "Qgz_k2JQ3UY",
-      "idx": 129,
+      "idx": 112,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0266",
         "Qgz_k2JQ3UY:s0267",
@@ -1963,9 +1742,9 @@
       "pos_pct": 0.9864967225054625
     },
     {
-      "window_id": "Qgz_k2JQ3UY:j0130",
+      "window_id": "Qgz_k2JQ3UY:j0113",
       "video_id": "Qgz_k2JQ3UY",
-      "idx": 130,
+      "idx": 113,
       "sent_ids": [
         "Qgz_k2JQ3UY:s0270",
         "Qgz_k2JQ3UY:s0271"

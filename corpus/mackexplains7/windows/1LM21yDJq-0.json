@@ -1,6 +1,6 @@
 {
   "video_id": "1LM21yDJq-0",
-  "generated_at": "2026-09-03T11:59:53.001317+00:00",
+  "generated_at": "2026-09-03T13:18:13.107147+00:00",
   "windows": [
     {
       "window_id": "1LM21yDJq-0:j0000",
@@ -232,33 +232,20 @@
       "video_id": "1LM21yDJq-0",
       "idx": 14,
       "sent_ids": [
-        "1LM21yDJq-0:s0043"
+        "1LM21yDJq-0:s0043",
+        "1LM21yDJq-0:s0044"
       ],
       "start_s": 161.803,
-      "end_s": 166.688,
-      "text": "The sequence of events, the narrative of what happened, goes somewhere else entirely.",
-      "n_words": 13,
-      "n_sentences": 1,
+      "end_s": 182.415,
+      "text": "The sequence of events, the narrative of what happened, goes somewhere else entirely. For you to have a retrievable autobiographical memory, memory of the I-was-there-and-this-happened-to-me variety, all of those pieces need to be linked together and consolidated into a stable, accessible package.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.12650742767787335
     },
     {
       "window_id": "1LM21yDJq-0:j0015",
       "video_id": "1LM21yDJq-0",
       "idx": 15,
-      "sent_ids": [
-        "1LM21yDJq-0:s0044"
-      ],
-      "start_s": 167.769,
-      "end_s": 182.415,
-      "text": "For you to have a retrievable autobiographical memory, memory of the I-was-there-and-this-happened-to-me variety, all of those pieces need to be linked together and consolidated into a stable, accessible package.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.13117200938232995
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0016",
-      "video_id": "1LM21yDJq-0",
-      "idx": 16,
       "sent_ids": [
         "1LM21yDJq-0:s0045",
         "1LM21yDJq-0:s0046"
@@ -271,37 +258,24 @@
       "pos_pct": 0.14357701329163408
     },
     {
-      "window_id": "1LM21yDJq-0:j0017",
+      "window_id": "1LM21yDJq-0:j0016",
       "video_id": "1LM21yDJq-0",
-      "idx": 17,
+      "idx": 16,
       "sent_ids": [
-        "1LM21yDJq-0:s0047"
+        "1LM21yDJq-0:s0047",
+        "1LM21yDJq-0:s0048"
       ],
       "start_s": 191.878,
-      "end_s": 199.38,
-      "text": "It's the region that binds the scattered pieces of an experience into a coherent whole and files it somewhere you can later retrieve.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 210.843,
+      "text": "It's the region that binds the scattered pieces of an experience into a coherent whole and files it somewhere you can later retrieve. Without hippocampal involvement, you might process an experience, you might even be affected by it emotionally, but you won't have a conscious narrative memory of it that you can deliberately recall.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.15002189210320563
     },
     {
-      "window_id": "1LM21yDJq-0:j0018",
+      "window_id": "1LM21yDJq-0:j0017",
       "video_id": "1LM21yDJq-0",
-      "idx": 18,
-      "sent_ids": [
-        "1LM21yDJq-0:s0048"
-      ],
-      "start_s": 200.279,
-      "end_s": 210.843,
-      "text": "Without hippocampal involvement, you might process an experience, you might even be affected by it emotionally, but you won't have a conscious narrative memory of it that you can deliberately recall.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.1565903049257232
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0019",
-      "video_id": "1LM21yDJq-0",
-      "idx": 19,
+      "idx": 17,
       "sent_ids": [
         "1LM21yDJq-0:s0049",
         "1LM21yDJq-0:s0050"
@@ -314,81 +288,55 @@
       "pos_pct": 0.16528772478498827
     },
     {
+      "window_id": "1LM21yDJq-0:j0018",
+      "video_id": "1LM21yDJq-0",
+      "idx": 18,
+      "sent_ids": [
+        "1LM21yDJq-0:s0051",
+        "1LM21yDJq-0:s0052"
+      ],
+      "start_s": 223.353,
+      "end_s": 240.472,
+      "text": "The neurons are there, but the connections between them, the dense, complex network of links that allows efficient memory encoding and retrieval, hasn't formed yet. The hippocampus undergoes significant development through the first two to three years of life, and in some regions continues developing well into adolescence.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.1746309616888194
+    },
+    {
+      "window_id": "1LM21yDJq-0:j0019",
+      "video_id": "1LM21yDJq-0",
+      "idx": 19,
+      "sent_ids": [
+        "1LM21yDJq-0:s0053",
+        "1LM21yDJq-0:s0054"
+      ],
+      "start_s": 241.253,
+      "end_s": 255.286,
+      "text": "A baby experiencing something beautiful or frightening or joyful is like trying to record a video on a camera that doesn't have a memory card yet. The lens is working, the processor is running, but there's nowhere for the footage to go, so the memories don't form in the first place.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.18862627052384676
+    },
+    {
       "window_id": "1LM21yDJq-0:j0020",
       "video_id": "1LM21yDJq-0",
       "idx": 20,
       "sent_ids": [
-        "1LM21yDJq-0:s0051"
+        "1LM21yDJq-0:s0055",
+        "1LM21yDJq-0:s0056",
+        "1LM21yDJq-0:s0057"
       ],
-      "start_s": 223.353,
-      "end_s": 232.144,
-      "text": "The neurons are there, but the connections between them, the dense, complex network of links that allows efficient memory encoding and retrieval, hasn't formed yet.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.1746309616888194
+      "start_s": 256.087,
+      "end_s": 263.19,
+      "text": "Not in the retrievable, narrative sense. Not the kind you can pull up 30 years later and play back. That's the first part of the answer.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.2002243940578577
     },
     {
       "window_id": "1LM21yDJq-0:j0021",
       "video_id": "1LM21yDJq-0",
       "idx": 21,
-      "sent_ids": [
-        "1LM21yDJq-0:s0052"
-      ],
-      "start_s": 232.905,
-      "end_s": 240.472,
-      "text": "The hippocampus undergoes significant development through the first two to three years of life, and in some regions continues developing well into adolescence.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.1820992963252541
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0022",
-      "video_id": "1LM21yDJq-0",
-      "idx": 22,
-      "sent_ids": [
-        "1LM21yDJq-0:s0053"
-      ],
-      "start_s": 241.253,
-      "end_s": 248.34,
-      "text": "A baby experiencing something beautiful or frightening or joyful is like trying to record a video on a camera that doesn't have a memory card yet.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.18862627052384676
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0023",
-      "video_id": "1LM21yDJq-0",
-      "idx": 23,
-      "sent_ids": [
-        "1LM21yDJq-0:s0054",
-        "1LM21yDJq-0:s0055"
-      ],
-      "start_s": 248.88,
-      "end_s": 258.348,
-      "text": "The lens is working, the processor is running, but there's nowhere for the footage to go, so the memories don't form in the first place. Not in the retrievable, narrative sense.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.19458952306489444
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0024",
-      "video_id": "1LM21yDJq-0",
-      "idx": 24,
-      "sent_ids": [
-        "1LM21yDJq-0:s0056",
-        "1LM21yDJq-0:s0057"
-      ],
-      "start_s": 258.888,
-      "end_s": 263.19,
-      "text": "Not the kind you can pull up 30 years later and play back. That's the first part of the answer.",
-      "n_words": 20,
-      "n_sentences": 2,
-      "pos_pct": 0.2024143862392494
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0025",
-      "video_id": "1LM21yDJq-0",
-      "idx": 25,
       "sent_ids": [
         "1LM21yDJq-0:s0058"
       ],
@@ -400,9 +348,9 @@
       "pos_pct": 0.2061845191555903
     },
     {
-      "window_id": "1LM21yDJq-0:j0026",
+      "window_id": "1LM21yDJq-0:j0022",
       "video_id": "1LM21yDJq-0",
-      "idx": 26,
+      "idx": 22,
       "sent_ids": [
         "1LM21yDJq-0:s0059",
         "1LM21yDJq-0:s0060",
@@ -416,9 +364,9 @@
       "pos_pct": 0.215226739640344
     },
     {
-      "window_id": "1LM21yDJq-0:j0027",
+      "window_id": "1LM21yDJq-0:j0023",
       "video_id": "1LM21yDJq-0",
-      "idx": 27,
+      "idx": 23,
       "sent_ids": [
         "1LM21yDJq-0:s0062",
         "1LM21yDJq-0:s0063",
@@ -432,9 +380,9 @@
       "pos_pct": 0.22225566849100858
     },
     {
-      "window_id": "1LM21yDJq-0:j0028",
+      "window_id": "1LM21yDJq-0:j0024",
       "video_id": "1LM21yDJq-0",
-      "idx": 28,
+      "idx": 24,
       "sent_ids": [
         "1LM21yDJq-0:s0065",
         "1LM21yDJq-0:s0066",
@@ -448,85 +396,72 @@
       "pos_pct": 0.23005082095387022
     },
     {
-      "window_id": "1LM21yDJq-0:j0029",
+      "window_id": "1LM21yDJq-0:j0025",
       "video_id": "1LM21yDJq-0",
-      "idx": 29,
+      "idx": 25,
       "sent_ids": [
-        "1LM21yDJq-0:s0068"
+        "1LM21yDJq-0:s0068",
+        "1LM21yDJq-0:s0069"
       ],
       "start_s": 308.893,
-      "end_s": 318.862,
-      "text": "The infant brain is generating new hippocampal neurons at a rate that simply doesn't happen in adults, and all of those new neurons need to be integrated into the existing network.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 324.467,
+      "text": "The infant brain is generating new hippocampal neurons at a rate that simply doesn't happen in adults, and all of those new neurons need to be integrated into the existing network. They need to find their place, form connections, wire themselves into the system.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.24151133698201718
     },
     {
-      "window_id": "1LM21yDJq-0:j0030",
+      "window_id": "1LM21yDJq-0:j0026",
       "video_id": "1LM21yDJq-0",
-      "idx": 30,
+      "idx": 26,
       "sent_ids": [
-        "1LM21yDJq-0:s0069",
         "1LM21yDJq-0:s0070",
         "1LM21yDJq-0:s0071",
-        "1LM21yDJq-0:s0072"
+        "1LM21yDJq-0:s0072",
+        "1LM21yDJq-0:s0073"
       ],
-      "start_s": 319.323,
-      "end_s": 332.894,
-      "text": "They need to find their place, form connections, wire themselves into the system. That integration process is disruptive. It destabilizes existing connections. It essentially rewires the filing system.",
-      "n_words": 28,
+      "start_s": 325.268,
+      "end_s": 334.155,
+      "text": "That integration process is disruptive. It destabilizes existing connections. It essentially rewires the filing system. Think of it like this.",
+      "n_words": 20,
       "n_sentences": 4,
-      "pos_pct": 0.24966614542611412
+      "pos_pct": 0.2543143080531665
     },
     {
-      "window_id": "1LM21yDJq-0:j0031",
+      "window_id": "1LM21yDJq-0:j0027",
       "video_id": "1LM21yDJq-0",
-      "idx": 31,
+      "idx": 27,
       "sent_ids": [
-        "1LM21yDJq-0:s0073",
-        "1LM21yDJq-0:s0074"
+        "1LM21yDJq-0:s0074",
+        "1LM21yDJq-0:s0075"
       ],
-      "start_s": 333.415,
-      "end_s": 343.343,
-      "text": "Think of it like this. Imagine you have a library, not a big organized library, a young chaotic one that's adding hundreds of new shelves every single day.",
-      "n_words": 28,
+      "start_s": 334.535,
+      "end_s": 347.104,
+      "text": "Imagine you have a library, not a big organized library, a young chaotic one that's adding hundreds of new shelves every single day. Books are being added faster than they can be properly catalogued.",
+      "n_words": 34,
       "n_sentences": 2,
-      "pos_pct": 0.26068412822517595
+      "pos_pct": 0.2615598123534011
     },
     {
-      "window_id": "1LM21yDJq-0:j0032",
+      "window_id": "1LM21yDJq-0:j0028",
       "video_id": "1LM21yDJq-0",
-      "idx": 32,
+      "idx": 28,
       "sent_ids": [
-        "1LM21yDJq-0:s0075",
-        "1LM21yDJq-0:s0076"
-      ],
-      "start_s": 344.063,
-      "end_s": 350.785,
-      "text": "Books are being added faster than they can be properly catalogued. The organization system keeps changing as new sections are built.",
-      "n_words": 21,
-      "n_sentences": 2,
-      "pos_pct": 0.26900938232994526
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0033",
-      "video_id": "1LM21yDJq-0",
-      "idx": 33,
-      "sent_ids": [
+        "1LM21yDJq-0:s0076",
         "1LM21yDJq-0:s0077",
         "1LM21yDJq-0:s0078"
       ],
-      "start_s": 351.445,
+      "start_s": 347.584,
       "end_s": 358.787,
-      "text": "Old books don't necessarily stay where you put them because the shelves themselves keep moving. That's your hippocampus in the first few years of life.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.2747810789679437
+      "text": "The organization system keeps changing as new sections are built. Old books don't necessarily stay where you put them because the shelves themselves keep moving. That's your hippocampus in the first few years of life.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.27176231430805314
     },
     {
-      "window_id": "1LM21yDJq-0:j0034",
+      "window_id": "1LM21yDJq-0:j0029",
       "video_id": "1LM21yDJq-0",
-      "idx": 34,
+      "idx": 29,
       "sent_ids": [
         "1LM21yDJq-0:s0079"
       ],
@@ -538,37 +473,24 @@
       "pos_pct": 0.2809601250977326
     },
     {
-      "window_id": "1LM21yDJq-0:j0035",
+      "window_id": "1LM21yDJq-0:j0030",
       "video_id": "1LM21yDJq-0",
-      "idx": 35,
+      "idx": 30,
       "sent_ids": [
-        "1LM21yDJq-0:s0080"
+        "1LM21yDJq-0:s0080",
+        "1LM21yDJq-0:s0081"
       ],
       "start_s": 375.155,
-      "end_s": 379.796,
-      "text": "Rapid neurogenesis trades away memory consolidation in exchange for learning capacity.",
-      "n_words": 11,
-      "n_sentences": 1,
+      "end_s": 388.439,
+      "text": "Rapid neurogenesis trades away memory consolidation in exchange for learning capacity. The infant brain is optimized for absorbing new information at maximum speed, not for filing it away in a form that will be accessible decades later.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.29331899921813914
     },
     {
-      "window_id": "1LM21yDJq-0:j0036",
+      "window_id": "1LM21yDJq-0:j0031",
       "video_id": "1LM21yDJq-0",
-      "idx": 36,
-      "sent_ids": [
-        "1LM21yDJq-0:s0081"
-      ],
-      "start_s": 380.277,
-      "end_s": 388.439,
-      "text": "The infant brain is optimized for absorbing new information at maximum speed, not for filing it away in a form that will be accessible decades later.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.2973236903831118
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0037",
-      "video_id": "1LM21yDJq-0",
-      "idx": 37,
+      "idx": 31,
       "sent_ids": [
         "1LM21yDJq-0:s0082",
         "1LM21yDJq-0:s0083",
@@ -582,9 +504,9 @@
       "pos_pct": 0.30400234558248634
     },
     {
-      "window_id": "1LM21yDJq-0:j0038",
+      "window_id": "1LM21yDJq-0:j0032",
       "video_id": "1LM21yDJq-0",
-      "idx": 38,
+      "idx": 32,
       "sent_ids": [
         "1LM21yDJq-0:s0085",
         "1LM21yDJq-0:s0086",
@@ -598,9 +520,9 @@
       "pos_pct": 0.3130883502736513
     },
     {
-      "window_id": "1LM21yDJq-0:j0039",
+      "window_id": "1LM21yDJq-0:j0033",
       "video_id": "1LM21yDJq-0",
-      "idx": 39,
+      "idx": 33,
       "sent_ids": [
         "1LM21yDJq-0:s0088",
         "1LM21yDJq-0:s0089"
@@ -613,9 +535,9 @@
       "pos_pct": 0.3188014073494918
     },
     {
-      "window_id": "1LM21yDJq-0:j0040",
+      "window_id": "1LM21yDJq-0:j0034",
       "video_id": "1LM21yDJq-0",
-      "idx": 40,
+      "idx": 34,
       "sent_ids": [
         "1LM21yDJq-0:s0090"
       ],
@@ -627,9 +549,9 @@
       "pos_pct": 0.3295269741985926
     },
     {
-      "window_id": "1LM21yDJq-0:j0041",
+      "window_id": "1LM21yDJq-0:j0035",
       "video_id": "1LM21yDJq-0",
-      "idx": 41,
+      "idx": 35,
       "sent_ids": [
         "1LM21yDJq-0:s0091",
         "1LM21yDJq-0:s0092"
@@ -642,9 +564,9 @@
       "pos_pct": 0.3427036747458952
     },
     {
-      "window_id": "1LM21yDJq-0:j0042",
+      "window_id": "1LM21yDJq-0:j0036",
       "video_id": "1LM21yDJq-0",
-      "idx": 42,
+      "idx": 36,
       "sent_ids": [
         "1LM21yDJq-0:s0093",
         "1LM21yDJq-0:s0094",
@@ -659,9 +581,9 @@
       "pos_pct": 0.3508850664581704
     },
     {
-      "window_id": "1LM21yDJq-0:j0043",
+      "window_id": "1LM21yDJq-0:j0037",
       "video_id": "1LM21yDJq-0",
-      "idx": 43,
+      "idx": 37,
       "sent_ids": [
         "1LM21yDJq-0:s0097",
         "1LM21yDJq-0:s0098",
@@ -675,9 +597,9 @@
       "pos_pct": 0.3622759968725567
     },
     {
-      "window_id": "1LM21yDJq-0:j0044",
+      "window_id": "1LM21yDJq-0:j0038",
       "video_id": "1LM21yDJq-0",
-      "idx": 44,
+      "idx": 38,
       "sent_ids": [
         "1LM21yDJq-0:s0100",
         "1LM21yDJq-0:s0101"
@@ -690,9 +612,9 @@
       "pos_pct": 0.37440422204847534
     },
     {
-      "window_id": "1LM21yDJq-0:j0045",
+      "window_id": "1LM21yDJq-0:j0039",
       "video_id": "1LM21yDJq-0",
-      "idx": 45,
+      "idx": 39,
       "sent_ids": [
         "1LM21yDJq-0:s0102",
         "1LM21yDJq-0:s0103"
@@ -705,65 +627,39 @@
       "pos_pct": 0.37936278342455043
     },
     {
-      "window_id": "1LM21yDJq-0:j0046",
+      "window_id": "1LM21yDJq-0:j0040",
       "video_id": "1LM21yDJq-0",
-      "idx": 46,
+      "idx": 40,
       "sent_ids": [
-        "1LM21yDJq-0:s0104"
+        "1LM21yDJq-0:s0104",
+        "1LM21yDJq-0:s0105"
       ],
       "start_s": 496.334,
-      "end_s": 501.66,
-      "text": "Children who develop language later also tend to have later onset of autobiographical memory.",
-      "n_words": 14,
-      "n_sentences": 1,
+      "end_s": 509.588,
+      "text": "Children who develop language later also tend to have later onset of autobiographical memory. Bilingual children often have the clearest early memories in the language they were using at the time, even if they rarely use that language as adults.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.38806411258795936
     },
     {
-      "window_id": "1LM21yDJq-0:j0047",
+      "window_id": "1LM21yDJq-0:j0041",
       "video_id": "1LM21yDJq-0",
-      "idx": 47,
+      "idx": 41,
       "sent_ids": [
-        "1LM21yDJq-0:s0105"
-      ],
-      "start_s": 502.62,
-      "end_s": 509.588,
-      "text": "Bilingual children often have the clearest early memories in the language they were using at the time, even if they rarely use that language as adults.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.39297888975762313
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0048",
-      "video_id": "1LM21yDJq-0",
-      "idx": 48,
-      "sent_ids": [
-        "1LM21yDJq-0:s0106"
+        "1LM21yDJq-0:s0106",
+        "1LM21yDJq-0:s0107"
       ],
       "start_s": 510.569,
-      "end_s": 517.336,
-      "text": "People who learned sign language as their first language show the same infantile amnesia patterns as hearing children who learned spoken language.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 523.28,
+      "text": "People who learned sign language as their first language show the same infantile amnesia patterns as hearing children who learned spoken language. suggesting that it's not spoken language specifically, but language as a cognitive system that matters.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.3991939014855356
     },
     {
-      "window_id": "1LM21yDJq-0:j0049",
+      "window_id": "1LM21yDJq-0:j0042",
       "video_id": "1LM21yDJq-0",
-      "idx": 49,
-      "sent_ids": [
-        "1LM21yDJq-0:s0107"
-      ],
-      "start_s": 517.916,
-      "end_s": 523.28,
-      "text": "suggesting that it's not spoken language specifically, but language as a cognitive system that matters.",
-      "n_words": 15,
-      "n_sentences": 1,
-      "pos_pct": 0.404938232994527
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0050",
-      "video_id": "1LM21yDJq-0",
-      "idx": 50,
+      "idx": 42,
       "sent_ids": [
         "1LM21yDJq-0:s0108",
         "1LM21yDJq-0:s0109"
@@ -776,9 +672,9 @@
       "pos_pct": 0.40968021892103207
     },
     {
-      "window_id": "1LM21yDJq-0:j0051",
+      "window_id": "1LM21yDJq-0:j0043",
       "video_id": "1LM21yDJq-0",
-      "idx": 51,
+      "idx": 43,
       "sent_ids": [
         "1LM21yDJq-0:s0110",
         "1LM21yDJq-0:s0111",
@@ -792,9 +688,9 @@
       "pos_pct": 0.41658092259577795
     },
     {
-      "window_id": "1LM21yDJq-0:j0052",
+      "window_id": "1LM21yDJq-0:j0044",
       "video_id": "1LM21yDJq-0",
-      "idx": 52,
+      "idx": 44,
       "sent_ids": [
         "1LM21yDJq-0:s0113",
         "1LM21yDJq-0:s0114",
@@ -808,9 +704,9 @@
       "pos_pct": 0.4282705238467553
     },
     {
-      "window_id": "1LM21yDJq-0:j0053",
+      "window_id": "1LM21yDJq-0:j0045",
       "video_id": "1LM21yDJq-0",
-      "idx": 53,
+      "idx": 45,
       "sent_ids": [
         "1LM21yDJq-0:s0116",
         "1LM21yDJq-0:s0117"
@@ -823,37 +719,24 @@
       "pos_pct": 0.43839562157935885
     },
     {
-      "window_id": "1LM21yDJq-0:j0054",
+      "window_id": "1LM21yDJq-0:j0046",
       "video_id": "1LM21yDJq-0",
-      "idx": 54,
+      "idx": 46,
       "sent_ids": [
-        "1LM21yDJq-0:s0118"
+        "1LM21yDJq-0:s0118",
+        "1LM21yDJq-0:s0119"
       ],
       "start_s": 571.334,
-      "end_s": 577.777,
-      "text": "Everything that happened in those years left traces, deep structural traces that influence who you are right now.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 592.284,
+      "text": "Everything that happened in those years left traces, deep structural traces that influence who you are right now. The attachment patterns you formed with your caregivers in the first year of life, whether you learned that the world was safe and responsive or unpredictable and unreliable, are encoded not as memories, but as implicit expectations.",
+      "n_words": 55,
+      "n_sentences": 2,
       "pos_pct": 0.4467036747458952
     },
     {
-      "window_id": "1LM21yDJq-0:j0055",
+      "window_id": "1LM21yDJq-0:j0047",
       "video_id": "1LM21yDJq-0",
-      "idx": 55,
-      "sent_ids": [
-        "1LM21yDJq-0:s0119"
-      ],
-      "start_s": 578.577,
-      "end_s": 592.284,
-      "text": "The attachment patterns you formed with your caregivers in the first year of life, whether you learned that the world was safe and responsive or unpredictable and unreliable, are encoded not as memories, but as implicit expectations.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.4523666927286943
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0056",
-      "video_id": "1LM21yDJq-0",
-      "idx": 56,
+      "idx": 47,
       "sent_ids": [
         "1LM21yDJq-0:s0120",
         "1LM21yDJq-0:s0121",
@@ -867,9 +750,9 @@
       "pos_pct": 0.4636473807662236
     },
     {
-      "window_id": "1LM21yDJq-0:j0057",
+      "window_id": "1LM21yDJq-0:j0048",
       "video_id": "1LM21yDJq-0",
-      "idx": 57,
+      "idx": 48,
       "sent_ids": [
         "1LM21yDJq-0:s0123",
         "1LM21yDJq-0:s0124",
@@ -883,9 +766,9 @@
       "pos_pct": 0.4748991399530883
     },
     {
-      "window_id": "1LM21yDJq-0:j0058",
+      "window_id": "1LM21yDJq-0:j0049",
       "video_id": "1LM21yDJq-0",
-      "idx": 58,
+      "idx": 49,
       "sent_ids": [
         "1LM21yDJq-0:s0126",
         "1LM21yDJq-0:s0127",
@@ -899,9 +782,9 @@
       "pos_pct": 0.48148709929632527
     },
     {
-      "window_id": "1LM21yDJq-0:j0059",
+      "window_id": "1LM21yDJq-0:j0050",
       "video_id": "1LM21yDJq-0",
-      "idx": 59,
+      "idx": 50,
       "sent_ids": [
         "1LM21yDJq-0:s0129",
         "1LM21yDJq-0:s0130"
@@ -914,9 +797,9 @@
       "pos_pct": 0.48937372947615326
     },
     {
-      "window_id": "1LM21yDJq-0:j0060",
+      "window_id": "1LM21yDJq-0:j0051",
       "video_id": "1LM21yDJq-0",
-      "idx": 60,
+      "idx": 51,
       "sent_ids": [
         "1LM21yDJq-0:s0131",
         "1LM21yDJq-0:s0132"
@@ -929,9 +812,9 @@
       "pos_pct": 0.49530492572322127
     },
     {
-      "window_id": "1LM21yDJq-0:j0061",
+      "window_id": "1LM21yDJq-0:j0052",
       "video_id": "1LM21yDJq-0",
-      "idx": 61,
+      "idx": 52,
       "sent_ids": [
         "1LM21yDJq-0:s0133",
         "1LM21yDJq-0:s0134"
@@ -944,84 +827,71 @@
       "pos_pct": 0.5034261141516809
     },
     {
-      "window_id": "1LM21yDJq-0:j0062",
+      "window_id": "1LM21yDJq-0:j0053",
       "video_id": "1LM21yDJq-0",
-      "idx": 62,
+      "idx": 53,
       "sent_ids": [
-        "1LM21yDJq-0:s0135"
+        "1LM21yDJq-0:s0135",
+        "1LM21yDJq-0:s0136"
       ],
       "start_s": 654.047,
-      "end_s": 657.128,
-      "text": "Explicit memory is the kind you can consciously access and describe.",
-      "n_words": 11,
-      "n_sentences": 1,
+      "end_s": 666.253,
+      "text": "Explicit memory is the kind you can consciously access and describe. Implicit memory is the kind that lives in your body, your emotional reactions, your automatic assumptions about how relationships work, and whether you deserve to be cared for.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.5113737294761532
     },
     {
-      "window_id": "1LM21yDJq-0:j0063",
+      "window_id": "1LM21yDJq-0:j0054",
       "video_id": "1LM21yDJq-0",
-      "idx": 63,
+      "idx": 54,
       "sent_ids": [
-        "1LM21yDJq-0:s0136",
-        "1LM21yDJq-0:s0137"
-      ],
-      "start_s": 657.889,
-      "end_s": 669.915,
-      "text": "Implicit memory is the kind that lives in your body, your emotional reactions, your automatic assumptions about how relationships work, and whether you deserve to be cared for. infantile amnesia erases your explicit memories.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.5143776387802971
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0064",
-      "video_id": "1LM21yDJq-0",
-      "idx": 64,
-      "sent_ids": [
+        "1LM21yDJq-0:s0137",
         "1LM21yDJq-0:s0138",
         "1LM21yDJq-0:s0139",
-        "1LM21yDJq-0:s0140",
-        "1LM21yDJq-0:s0141"
+        "1LM21yDJq-0:s0140"
       ],
-      "start_s": 670.435,
-      "end_s": 680.0,
-      "text": "It leaves your implicit memories completely intact. You forgot the experiences. You kept the lessons. The problem is, you can't examine lessons you don't know you learned.",
-      "n_words": 27,
+      "start_s": 667.273,
+      "end_s": 676.118,
+      "text": "infantile amnesia erases your explicit memories. It leaves your implicit memories completely intact. You forgot the experiences. You kept the lessons.",
+      "n_words": 21,
       "n_sentences": 4,
-      "pos_pct": 0.5241868647380766
+      "pos_pct": 0.5217146207974981
     },
     {
-      "window_id": "1LM21yDJq-0:j0065",
+      "window_id": "1LM21yDJq-0:j0055",
       "video_id": "1LM21yDJq-0",
-      "idx": 65,
+      "idx": 55,
       "sent_ids": [
-        "1LM21yDJq-0:s0142",
-        "1LM21yDJq-0:s0143"
+        "1LM21yDJq-0:s0141",
+        "1LM21yDJq-0:s0142"
       ],
-      "start_s": 680.361,
-      "end_s": 688.484,
-      "text": "You just act on them and wonder why you respond to certain situations the way you do. Now let's talk about the fake ones, because here's where it gets uncomfortable.",
-      "n_words": 30,
+      "start_s": 676.538,
+      "end_s": 684.123,
+      "text": "The problem is, you can't examine lessons you don't know you learned. You just act on them and wonder why you respond to certain situations the way you do.",
+      "n_words": 29,
       "n_sentences": 2,
-      "pos_pct": 0.5319476153244722
+      "pos_pct": 0.5289585613760751
     },
     {
-      "window_id": "1LM21yDJq-0:j0066",
+      "window_id": "1LM21yDJq-0:j0056",
       "video_id": "1LM21yDJq-0",
-      "idx": 66,
+      "idx": 56,
       "sent_ids": [
+        "1LM21yDJq-0:s0143",
         "1LM21yDJq-0:s0144"
       ],
-      "start_s": 689.084,
+      "start_s": 684.823,
       "end_s": 704.809,
-      "text": "Some of the earliest memories you think you have are probably not real, not distorted, not exaggerated, actually fabricated, constructed by your brain from photographs, stories, and repeated tellings, and then filed as if they were genuine experiential memories.",
-      "n_words": 39,
-      "n_sentences": 1,
-      "pos_pct": 0.5387677873338546
+      "text": "Now let's talk about the fake ones, because here's where it gets uncomfortable. Some of the earliest memories you think you have are probably not real, not distorted, not exaggerated, actually fabricated, constructed by your brain from photographs, stories, and repeated tellings, and then filed as if they were genuine experiential memories.",
+      "n_words": 52,
+      "n_sentences": 2,
+      "pos_pct": 0.535436278342455
     },
     {
-      "window_id": "1LM21yDJq-0:j0067",
+      "window_id": "1LM21yDJq-0:j0057",
       "video_id": "1LM21yDJq-0",
-      "idx": 67,
+      "idx": 57,
       "sent_ids": [
         "1LM21yDJq-0:s0145",
         "1LM21yDJq-0:s0146",
@@ -1035,9 +905,9 @@
       "pos_pct": 0.5515942142298671
     },
     {
-      "window_id": "1LM21yDJq-0:j0068",
+      "window_id": "1LM21yDJq-0:j0058",
       "video_id": "1LM21yDJq-0",
-      "idx": 68,
+      "idx": 58,
       "sent_ids": [
         "1LM21yDJq-0:s0148",
         "1LM21yDJq-0:s0149",
@@ -1051,9 +921,9 @@
       "pos_pct": 0.5599468334636435
     },
     {
-      "window_id": "1LM21yDJq-0:j0069",
+      "window_id": "1LM21yDJq-0:j0059",
       "video_id": "1LM21yDJq-0",
-      "idx": 69,
+      "idx": 59,
       "sent_ids": [
         "1LM21yDJq-0:s0151",
         "1LM21yDJq-0:s0152"
@@ -1066,9 +936,9 @@
       "pos_pct": 0.5670476935105552
     },
     {
-      "window_id": "1LM21yDJq-0:j0070",
+      "window_id": "1LM21yDJq-0:j0060",
       "video_id": "1LM21yDJq-0",
-      "idx": 70,
+      "idx": 60,
       "sent_ids": [
         "1LM21yDJq-0:s0153",
         "1LM21yDJq-0:s0154"
@@ -1081,52 +951,39 @@
       "pos_pct": 0.5751493354182955
     },
     {
-      "window_id": "1LM21yDJq-0:j0071",
+      "window_id": "1LM21yDJq-0:j0061",
       "video_id": "1LM21yDJq-0",
-      "idx": 71,
+      "idx": 61,
       "sent_ids": [
-        "1LM21yDJq-0:s0155"
+        "1LM21yDJq-0:s0155",
+        "1LM21yDJq-0:s0156"
       ],
       "start_s": 739.259,
-      "end_s": 748.906,
-      "text": "You'd describe it as a memory if someone asked, but what you're actually accessing is a reconstruction built from external information, not a genuine trace of the original experience.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 759.682,
+      "text": "You'd describe it as a memory if someone asked, but what you're actually accessing is a reconstruction built from external information, not a genuine trace of the original experience. researchers have demonstrated that entirely false memories of events that never happened at all can be implanted in people through repeated suggestion and social reinforcement.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.5779976544175137
     },
     {
-      "window_id": "1LM21yDJq-0:j0072",
+      "window_id": "1LM21yDJq-0:j0062",
       "video_id": "1LM21yDJq-0",
-      "idx": 72,
+      "idx": 62,
       "sent_ids": [
-        "1LM21yDJq-0:s0156",
-        "1LM21yDJq-0:s0157"
-      ],
-      "start_s": 750.275,
-      "end_s": 764.046,
-      "text": "researchers have demonstrated that entirely false memories of events that never happened at all can be implanted in people through repeated suggestion and social reinforcement. And those false memories are experientially indistinguishable from real ones.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.5866106333072713
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0073",
-      "video_id": "1LM21yDJq-0",
-      "idx": 73,
-      "sent_ids": [
+        "1LM21yDJq-0:s0157",
         "1LM21yDJq-0:s0158"
       ],
-      "start_s": 764.966,
+      "start_s": 760.002,
       "end_s": 773.613,
-      "text": "If that's possible with fabricated events, the capacity for genuine experiences to be reconstructed and misfiled as direct memories is even more plausible.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.5980969507427678
+      "text": "And those false memories are experientially indistinguishable from real ones. If that's possible with fabricated events, the capacity for genuine experiences to be reconstructed and misfiled as direct memories is even more plausible.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.5942157935887412
     },
     {
-      "window_id": "1LM21yDJq-0:j0074",
+      "window_id": "1LM21yDJq-0:j0063",
       "video_id": "1LM21yDJq-0",
-      "idx": 74,
+      "idx": 63,
       "sent_ids": [
         "1LM21yDJq-0:s0159",
         "1LM21yDJq-0:s0160",
@@ -1140,9 +997,9 @@
       "pos_pct": 0.6053580922595778
     },
     {
-      "window_id": "1LM21yDJq-0:j0075",
+      "window_id": "1LM21yDJq-0:j0064",
       "video_id": "1LM21yDJq-0",
-      "idx": 75,
+      "idx": 64,
       "sent_ids": [
         "1LM21yDJq-0:s0162",
         "1LM21yDJq-0:s0163",
@@ -1156,37 +1013,24 @@
       "pos_pct": 0.6140930414386239
     },
     {
-      "window_id": "1LM21yDJq-0:j0076",
+      "window_id": "1LM21yDJq-0:j0065",
       "video_id": "1LM21yDJq-0",
-      "idx": 76,
+      "idx": 65,
       "sent_ids": [
-        "1LM21yDJq-0:s0165"
+        "1LM21yDJq-0:s0165",
+        "1LM21yDJq-0:s0166"
       ],
       "start_s": 798.174,
-      "end_s": 801.176,
-      "text": "And that uncertainty is not comfortable, but it's important.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 812.703,
+      "text": "And that uncertainty is not comfortable, but it's important. Your memory of your own earliest life is, at least partly, a story other people told you about yourself that you eventually absorbed as your own, which raises a strange philosophical question.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.6240609851446443
     },
     {
-      "window_id": "1LM21yDJq-0:j0077",
+      "window_id": "1LM21yDJq-0:j0066",
       "video_id": "1LM21yDJq-0",
-      "idx": 77,
-      "sent_ids": [
-        "1LM21yDJq-0:s0166"
-      ],
-      "start_s": 802.056,
-      "end_s": 812.703,
-      "text": "Your memory of your own earliest life is, at least partly, a story other people told you about yourself that you eventually absorbed as your own, which raises a strange philosophical question.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.6270961688819391
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0078",
-      "video_id": "1LM21yDJq-0",
-      "idx": 78,
+      "idx": 66,
       "sent_ids": [
         "1LM21yDJq-0:s0167",
         "1LM21yDJq-0:s0168"
@@ -1199,9 +1043,9 @@
       "pos_pct": 0.636061767005473
     },
     {
-      "window_id": "1LM21yDJq-0:j0079",
+      "window_id": "1LM21yDJq-0:j0067",
       "video_id": "1LM21yDJq-0",
-      "idx": 79,
+      "idx": 67,
       "sent_ids": [
         "1LM21yDJq-0:s0169",
         "1LM21yDJq-0:s0170"
@@ -1214,9 +1058,9 @@
       "pos_pct": 0.6458631743549648
     },
     {
-      "window_id": "1LM21yDJq-0:j0080",
+      "window_id": "1LM21yDJq-0:j0068",
       "video_id": "1LM21yDJq-0",
-      "idx": 80,
+      "idx": 68,
       "sent_ids": [
         "1LM21yDJq-0:s0171",
         "1LM21yDJq-0:s0172",
@@ -1230,9 +1074,9 @@
       "pos_pct": 0.6544870992963253
     },
     {
-      "window_id": "1LM21yDJq-0:j0081",
+      "window_id": "1LM21yDJq-0:j0069",
       "video_id": "1LM21yDJq-0",
-      "idx": 81,
+      "idx": 69,
       "sent_ids": [
         "1LM21yDJq-0:s0174",
         "1LM21yDJq-0:s0175",
@@ -1247,9 +1091,9 @@
       "pos_pct": 0.6613526192337764
     },
     {
-      "window_id": "1LM21yDJq-0:j0082",
+      "window_id": "1LM21yDJq-0:j0070",
       "video_id": "1LM21yDJq-0",
-      "idx": 82,
+      "idx": 70,
       "sent_ids": [
         "1LM21yDJq-0:s0178",
         "1LM21yDJq-0:s0179"
@@ -1262,9 +1106,9 @@
       "pos_pct": 0.668113369820172
     },
     {
-      "window_id": "1LM21yDJq-0:j0083",
+      "window_id": "1LM21yDJq-0:j0071",
       "video_id": "1LM21yDJq-0",
-      "idx": 83,
+      "idx": 71,
       "sent_ids": [
         "1LM21yDJq-0:s0180",
         "1LM21yDJq-0:s0181",
@@ -1278,9 +1122,9 @@
       "pos_pct": 0.673278342455043
     },
     {
-      "window_id": "1LM21yDJq-0:j0084",
+      "window_id": "1LM21yDJq-0:j0072",
       "video_id": "1LM21yDJq-0",
-      "idx": 84,
+      "idx": 72,
       "sent_ids": [
         "1LM21yDJq-0:s0183"
       ],
@@ -1292,37 +1136,24 @@
       "pos_pct": 0.6822611415168099
     },
     {
-      "window_id": "1LM21yDJq-0:j0085",
+      "window_id": "1LM21yDJq-0:j0073",
       "video_id": "1LM21yDJq-0",
-      "idx": 85,
+      "idx": 73,
       "sent_ids": [
-        "1LM21yDJq-0:s0184"
+        "1LM21yDJq-0:s0184",
+        "1LM21yDJq-0:s0185"
       ],
       "start_s": 895.064,
-      "end_s": 900.367,
-      "text": "In cultures where parents frequently say things like, remember when we went to the beach last summer, what did you see?",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 908.972,
+      "text": "In cultures where parents frequently say things like, remember when we went to the beach last summer, what did you see? Where memory is actively rehearsed and socially reinforced, children develop earlier and more detailed autobiographical memories.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.6998154808444097
     },
     {
-      "window_id": "1LM21yDJq-0:j0086",
+      "window_id": "1LM21yDJq-0:j0074",
       "video_id": "1LM21yDJq-0",
-      "idx": 86,
-      "sent_ids": [
-        "1LM21yDJq-0:s0185"
-      ],
-      "start_s": 901.449,
-      "end_s": 908.972,
-      "text": "Where memory is actively rehearsed and socially reinforced, children develop earlier and more detailed autobiographical memories.",
-      "n_words": 16,
-      "n_sentences": 1,
-      "pos_pct": 0.7048076622361219
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0087",
-      "video_id": "1LM21yDJq-0",
-      "idx": 87,
+      "idx": 74,
       "sent_ids": [
         "1LM21yDJq-0:s0186",
         "1LM21yDJq-0:s0187"
@@ -1335,9 +1166,9 @@
       "pos_pct": 0.7114409695074276
     },
     {
-      "window_id": "1LM21yDJq-0:j0088",
+      "window_id": "1LM21yDJq-0:j0075",
       "video_id": "1LM21yDJq-0",
-      "idx": 88,
+      "idx": 75,
       "sent_ids": [
         "1LM21yDJq-0:s0188",
         "1LM21yDJq-0:s0189"
@@ -1350,98 +1181,72 @@
       "pos_pct": 0.7203111806098514
     },
     {
-      "window_id": "1LM21yDJq-0:j0089",
+      "window_id": "1LM21yDJq-0:j0076",
       "video_id": "1LM21yDJq-0",
-      "idx": 89,
+      "idx": 76,
       "sent_ids": [
-        "1LM21yDJq-0:s0190"
+        "1LM21yDJq-0:s0190",
+        "1LM21yDJq-0:s0191"
       ],
       "start_s": 930.753,
-      "end_s": 936.137,
-      "text": "Studies have found that on average, women report earlier and more emotionally detailed childhood memories than men.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 945.944,
+      "text": "Studies have found that on average, women report earlier and more emotionally detailed childhood memories than men. Whether this is biological, or a product of different socialization patterns around emotional expression and narrative, or some combination of both, is still debated.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.7277193119624707
     },
     {
-      "window_id": "1LM21yDJq-0:j0090",
+      "window_id": "1LM21yDJq-0:j0077",
       "video_id": "1LM21yDJq-0",
-      "idx": 90,
+      "idx": 77,
       "sent_ids": [
-        "1LM21yDJq-0:s0191",
-        "1LM21yDJq-0:s0192"
-      ],
-      "start_s": 937.058,
-      "end_s": 947.506,
-      "text": "Whether this is biological, or a product of different socialization patterns around emotional expression and narrative, or some combination of both, is still debated. And then there's stress.",
-      "n_words": 28,
-      "n_sentences": 2,
-      "pos_pct": 0.7326489444878812
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0091",
-      "video_id": "1LM21yDJq-0",
-      "idx": 91,
-      "sent_ids": [
+        "1LM21yDJq-0:s0192",
         "1LM21yDJq-0:s0193",
         "1LM21yDJq-0:s0194"
       ],
-      "start_s": 948.406,
+      "start_s": 946.765,
       "end_s": 963.123,
-      "text": "Significant emotional experiences, particularly frightening ones, sometimes leave traces that other memories don't. The amygdala, the brain's emotional alarm system, is active and functional much earlier in development than the hippocampus.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.7415215011727913
+      "text": "And then there's stress. Significant emotional experiences, particularly frightening ones, sometimes leave traces that other memories don't. The amygdala, the brain's emotional alarm system, is active and functional much earlier in development than the hippocampus.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.7402384675527756
     },
     {
-      "window_id": "1LM21yDJq-0:j0092",
+      "window_id": "1LM21yDJq-0:j0078",
       "video_id": "1LM21yDJq-0",
-      "idx": 92,
+      "idx": 78,
       "sent_ids": [
-        "1LM21yDJq-0:s0195"
+        "1LM21yDJq-0:s0195",
+        "1LM21yDJq-0:s0196"
       ],
       "start_s": 964.043,
-      "end_s": 973.749,
-      "text": "Fear responses, intense emotional moments, can sometimes leave residues that surface later, as feelings or physical reactions without any accompanying narrative memory.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 982.855,
+      "text": "Fear responses, intense emotional moments, can sometimes leave residues that surface later, as feelings or physical reactions without any accompanying narrative memory. You might become inexplicably anxious in a hospital, or feel an unaccountable sense of safety at the smell of a specific food without knowing why.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.7537474589523065
     },
     {
-      "window_id": "1LM21yDJq-0:j0093",
+      "window_id": "1LM21yDJq-0:j0079",
       "video_id": "1LM21yDJq-0",
-      "idx": 93,
+      "idx": 79,
       "sent_ids": [
-        "1LM21yDJq-0:s0196",
-        "1LM21yDJq-0:s0197"
-      ],
-      "start_s": 974.97,
-      "end_s": 988.434,
-      "text": "You might become inexplicably anxious in a hospital, or feel an unaccountable sense of safety at the smell of a specific food without knowing why. The emotion remembered the experience, even when the story didn't.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.7622908522283034
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0094",
-      "video_id": "1LM21yDJq-0",
-      "idx": 94,
-      "sent_ids": [
+        "1LM21yDJq-0:s0197",
         "1LM21yDJq-0:s0198",
         "1LM21yDJq-0:s0199",
         "1LM21yDJq-0:s0200"
       ],
-      "start_s": 989.857,
+      "start_s": 984.288,
       "end_s": 996.427,
-      "text": "Here's something that doesn't get discussed nearly enough in all of this. Sleep. Memory consolidation.",
-      "n_words": 15,
-      "n_sentences": 3,
-      "pos_pct": 0.7739304143862392
+      "text": "The emotion remembered the experience, even when the story didn't. Here's something that doesn't get discussed nearly enough in all of this. Sleep. Memory consolidation.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.7695762314308053
     },
     {
-      "window_id": "1LM21yDJq-0:j0095",
+      "window_id": "1LM21yDJq-0:j0080",
       "video_id": "1LM21yDJq-0",
-      "idx": 95,
+      "idx": 80,
       "sent_ids": [
         "1LM21yDJq-0:s0201"
       ],
@@ -1453,9 +1258,9 @@
       "pos_pct": 0.7802111024237686
     },
     {
-      "window_id": "1LM21yDJq-0:j0096",
+      "window_id": "1LM21yDJq-0:j0081",
       "video_id": "1LM21yDJq-0",
-      "idx": 96,
+      "idx": 81,
       "sent_ids": [
         "1LM21yDJq-0:s0202",
         "1LM21yDJq-0:s0203",
@@ -1469,9 +1274,9 @@
       "pos_pct": 0.7948381548084441
     },
     {
-      "window_id": "1LM21yDJq-0:j0097",
+      "window_id": "1LM21yDJq-0:j0082",
       "video_id": "1LM21yDJq-0",
-      "idx": 97,
+      "idx": 82,
       "sent_ids": [
         "1LM21yDJq-0:s0205",
         "1LM21yDJq-0:s0206"
@@ -1484,37 +1289,24 @@
       "pos_pct": 0.8020359655981236
     },
     {
-      "window_id": "1LM21yDJq-0:j0098",
+      "window_id": "1LM21yDJq-0:j0083",
       "video_id": "1LM21yDJq-0",
-      "idx": 98,
+      "idx": 83,
       "sent_ids": [
-        "1LM21yDJq-0:s0207"
+        "1LM21yDJq-0:s0207",
+        "1LM21yDJq-0:s0208"
       ],
       "start_s": 1038.191,
-      "end_s": 1040.012,
-      "text": "It turns out that might be wrong.",
-      "n_words": 7,
-      "n_sentences": 1,
+      "end_s": 1053.527,
+      "text": "It turns out that might be wrong. Some researchers now believe that the enormous amounts of active sleep in infancy serve a specific developmental function, not storing discrete memories, but consolidating the foundational patterns that underlie learning.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.8117208756841282
     },
     {
-      "window_id": "1LM21yDJq-0:j0099",
+      "window_id": "1LM21yDJq-0:j0084",
       "video_id": "1LM21yDJq-0",
-      "idx": 99,
-      "sent_ids": [
-        "1LM21yDJq-0:s0208"
-      ],
-      "start_s": 1041.568,
-      "end_s": 1053.527,
-      "text": "Some researchers now believe that the enormous amounts of active sleep in infancy serve a specific developmental function, not storing discrete memories, but consolidating the foundational patterns that underlie learning.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.8143612197028929
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0100",
-      "video_id": "1LM21yDJq-0",
-      "idx": 100,
+      "idx": 84,
       "sent_ids": [
         "1LM21yDJq-0:s0209",
         "1LM21yDJq-0:s0210"
@@ -1527,37 +1319,24 @@
       "pos_pct": 0.8244784988272088
     },
     {
-      "window_id": "1LM21yDJq-0:j0101",
+      "window_id": "1LM21yDJq-0:j0085",
       "video_id": "1LM21yDJq-0",
-      "idx": 101,
+      "idx": 85,
       "sent_ids": [
-        "1LM21yDJq-0:s0211"
+        "1LM21yDJq-0:s0211",
+        "1LM21yDJq-0:s0212"
       ],
       "start_s": 1066.919,
-      "end_s": 1071.603,
-      "text": "The infant sleeping for 18 hours is building the operating system that everything else will run on.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 1085.088,
+      "text": "The infant sleeping for 18 hours is building the operating system that everything else will run on. not saving individual files, installing the software, and one implication of this is that the experiences happening during those awake hours aren't being stored as memories precisely because they're being used for something more fundamental.",
+      "n_words": 52,
+      "n_sentences": 2,
       "pos_pct": 0.8341821735731041
     },
     {
-      "window_id": "1LM21yDJq-0:j0102",
+      "window_id": "1LM21yDJq-0:j0086",
       "video_id": "1LM21yDJq-0",
-      "idx": 102,
-      "sent_ids": [
-        "1LM21yDJq-0:s0212"
-      ],
-      "start_s": 1072.384,
-      "end_s": 1085.088,
-      "text": "not saving individual files, installing the software, and one implication of this is that the experiences happening during those awake hours aren't being stored as memories precisely because they're being used for something more fundamental.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.8384550430023456
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0103",
-      "video_id": "1LM21yDJq-0",
-      "idx": 103,
+      "idx": 86,
       "sent_ids": [
         "1LM21yDJq-0:s0213",
         "1LM21yDJq-0:s0214"
@@ -1570,37 +1349,24 @@
       "pos_pct": 0.8486692728694293
     },
     {
-      "window_id": "1LM21yDJq-0:j0104",
+      "window_id": "1LM21yDJq-0:j0087",
       "video_id": "1LM21yDJq-0",
-      "idx": 104,
+      "idx": 87,
       "sent_ids": [
-        "1LM21yDJq-0:s0215"
+        "1LM21yDJq-0:s0215",
+        "1LM21yDJq-0:s0216"
       ],
       "start_s": 1094.591,
-      "end_s": 1101.994,
-      "text": "You don't remember learning that objects are solid and permanent, but you know it, instantly and effortlessly, every moment of your life.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 1111.397,
+      "text": "You don't remember learning that objects are solid and permanent, but you know it, instantly and effortlessly, every moment of your life. You don't remember learning to read faces and voices for emotional meaning, but you do it automatically, thousands of times a day, without any conscious effort.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.855817826426896
     },
     {
-      "window_id": "1LM21yDJq-0:j0105",
+      "window_id": "1LM21yDJq-0:j0088",
       "video_id": "1LM21yDJq-0",
-      "idx": 105,
-      "sent_ids": [
-        "1LM21yDJq-0:s0216"
-      ],
-      "start_s": 1102.474,
-      "end_s": 1111.397,
-      "text": "You don't remember learning to read faces and voices for emotional meaning, but you do it automatically, thousands of times a day, without any conscious effort.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.8619812353401094
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0106",
-      "video_id": "1LM21yDJq-0",
-      "idx": 106,
+      "idx": 88,
       "sent_ids": [
         "1LM21yDJq-0:s0217",
         "1LM21yDJq-0:s0218",
@@ -1614,9 +1380,9 @@
       "pos_pct": 0.8692087568412823
     },
     {
-      "window_id": "1LM21yDJq-0:j0107",
+      "window_id": "1LM21yDJq-0:j0089",
       "video_id": "1LM21yDJq-0",
-      "idx": 107,
+      "idx": 89,
       "sent_ids": [
         "1LM21yDJq-0:s0220",
         "1LM21yDJq-0:s0221"
@@ -1629,9 +1395,9 @@
       "pos_pct": 0.8767951524628617
     },
     {
-      "window_id": "1LM21yDJq-0:j0108",
+      "window_id": "1LM21yDJq-0:j0090",
       "video_id": "1LM21yDJq-0",
-      "idx": 108,
+      "idx": 90,
       "sent_ids": [
         "1LM21yDJq-0:s0222",
         "1LM21yDJq-0:s0223"
@@ -1644,9 +1410,9 @@
       "pos_pct": 0.8826911649726349
     },
     {
-      "window_id": "1LM21yDJq-0:j0109",
+      "window_id": "1LM21yDJq-0:j0091",
       "video_id": "1LM21yDJq-0",
-      "idx": 109,
+      "idx": 91,
       "sent_ids": [
         "1LM21yDJq-0:s0224"
       ],
@@ -1658,9 +1424,9 @@
       "pos_pct": 0.8913721657544957
     },
     {
-      "window_id": "1LM21yDJq-0:j0110",
+      "window_id": "1LM21yDJq-0:j0092",
       "video_id": "1LM21yDJq-0",
-      "idx": 110,
+      "idx": 92,
       "sent_ids": [
         "1LM21yDJq-0:s0225",
         "1LM21yDJq-0:s0226"
@@ -1673,9 +1439,9 @@
       "pos_pct": 0.9049397967161844
     },
     {
-      "window_id": "1LM21yDJq-0:j0111",
+      "window_id": "1LM21yDJq-0:j0093",
       "video_id": "1LM21yDJq-0",
-      "idx": 111,
+      "idx": 93,
       "sent_ids": [
         "1LM21yDJq-0:s0227",
         "1LM21yDJq-0:s0228"
@@ -1688,9 +1454,9 @@
       "pos_pct": 0.9122650508209539
     },
     {
-      "window_id": "1LM21yDJq-0:j0112",
+      "window_id": "1LM21yDJq-0:j0094",
       "video_id": "1LM21yDJq-0",
-      "idx": 112,
+      "idx": 94,
       "sent_ids": [
         "1LM21yDJq-0:s0229",
         "1LM21yDJq-0:s0230",
@@ -1704,9 +1470,9 @@
       "pos_pct": 0.9189007036747459
     },
     {
-      "window_id": "1LM21yDJq-0:j0113",
+      "window_id": "1LM21yDJq-0:j0095",
       "video_id": "1LM21yDJq-0",
-      "idx": 113,
+      "idx": 95,
       "sent_ids": [
         "1LM21yDJq-0:s0232",
         "1LM21yDJq-0:s0233",
@@ -1720,69 +1486,56 @@
       "pos_pct": 0.9283534010946052
     },
     {
-      "window_id": "1LM21yDJq-0:j0114",
+      "window_id": "1LM21yDJq-0:j0096",
       "video_id": "1LM21yDJq-0",
-      "idx": 114,
+      "idx": 96,
       "sent_ids": [
-        "1LM21yDJq-0:s0235"
+        "1LM21yDJq-0:s0235",
+        "1LM21yDJq-0:s0236"
       ],
       "start_s": 1198.407,
-      "end_s": 1206.989,
-      "text": "The implicit patterns can be changed, not by remembering because there's nothing to remember, but by new experiences that update the old calibrations.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 1215.682,
+      "text": "The implicit patterns can be changed, not by remembering because there's nothing to remember, but by new experiences that update the old calibrations. therapy, safe relationships, consistent new evidence that the world is different from what your three-month-old self concluded it was.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.9369874902267396
     },
     {
-      "window_id": "1LM21yDJq-0:j0115",
+      "window_id": "1LM21yDJq-0:j0097",
       "video_id": "1LM21yDJq-0",
-      "idx": 115,
+      "idx": 97,
       "sent_ids": [
-        "1LM21yDJq-0:s0236",
         "1LM21yDJq-0:s0237",
-        "1LM21yDJq-0:s0238"
-      ],
-      "start_s": 1207.689,
-      "end_s": 1222.512,
-      "text": "therapy, safe relationships, consistent new evidence that the world is different from what your three-month-old self concluded it was. The brain is plastic. The early patterns are influential, but they're not destiny.",
-      "n_words": 32,
-      "n_sentences": 3,
-      "pos_pct": 0.9442447224394058
-    },
-    {
-      "window_id": "1LM21yDJq-0:j0116",
-      "video_id": "1LM21yDJq-0",
-      "idx": 116,
-      "sent_ids": [
+        "1LM21yDJq-0:s0238",
         "1LM21yDJq-0:s0239",
-        "1LM21yDJq-0:s0240",
-        "1LM21yDJq-0:s0241"
+        "1LM21yDJq-0:s0240"
       ],
-      "start_s": 1223.093,
-      "end_s": 1234.758,
-      "text": "They're just the starting position. And here's the last thing worth considering. Every generation is shaped by experiences they can't remember, passed down from caregivers who were shaped by experiences they couldn't remember either.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.9562885066458171
+      "start_s": 1216.383,
+      "end_s": 1226.694,
+      "text": "The brain is plastic. The early patterns are influential, but they're not destiny. They're just the starting position. And here's the last thing worth considering.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.9510422204847537
     },
     {
-      "window_id": "1LM21yDJq-0:j0117",
+      "window_id": "1LM21yDJq-0:j0098",
       "video_id": "1LM21yDJq-0",
-      "idx": 117,
+      "idx": 98,
       "sent_ids": [
+        "1LM21yDJq-0:s0241",
         "1LM21yDJq-0:s0242"
       ],
-      "start_s": 1235.218,
+      "start_s": 1227.155,
       "end_s": 1239.58,
-      "text": "The implicit emotional inheritance moves through families across generations.",
-      "n_words": 9,
-      "n_sentences": 1,
-      "pos_pct": 0.9657685691946835
+      "text": "Every generation is shaped by experiences they can't remember, passed down from caregivers who were shaped by experiences they couldn't remember either. The implicit emotional inheritance moves through families across generations.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.9594644253322908
     },
     {
-      "window_id": "1LM21yDJq-0:j0118",
+      "window_id": "1LM21yDJq-0:j0099",
       "video_id": "1LM21yDJq-0",
-      "idx": 118,
+      "idx": 99,
       "sent_ids": [
         "1LM21yDJq-0:s0243"
       ],
@@ -1794,9 +1547,9 @@
       "pos_pct": 0.9696637998436278
     },
     {
-      "window_id": "1LM21yDJq-0:j0119",
+      "window_id": "1LM21yDJq-0:j0100",
       "video_id": "1LM21yDJq-0",
-      "idx": 119,
+      "idx": 100,
       "sent_ids": [
         "1LM21yDJq-0:s0244"
       ],
@@ -1808,9 +1561,9 @@
       "pos_pct": 0.9776575449569976
     },
     {
-      "window_id": "1LM21yDJq-0:j0120",
+      "window_id": "1LM21yDJq-0:j0101",
       "video_id": "1LM21yDJq-0",
-      "idx": 120,
+      "idx": 101,
       "sent_ids": [
         "1LM21yDJq-0:s0245",
         "1LM21yDJq-0:s0246",
@@ -1824,9 +1577,9 @@
       "pos_pct": 0.9879663799843628
     },
     {
-      "window_id": "1LM21yDJq-0:j0121",
+      "window_id": "1LM21yDJq-0:j0102",
       "video_id": "1LM21yDJq-0",
-      "idx": 121,
+      "idx": 102,
       "sent_ids": [
         "1LM21yDJq-0:s0248"
       ],

@@ -1,6 +1,6 @@
 {
   "video_id": "MMycNJ05f8M",
-  "generated_at": "2026-09-03T11:59:53.011111+00:00",
+  "generated_at": "2026-09-03T13:18:13.121136+00:00",
   "windows": [
     {
       "window_id": "MMycNJ05f8M:j0000",
@@ -38,13 +38,14 @@
       "video_id": "MMycNJ05f8M",
       "idx": 2,
       "sent_ids": [
-        "MMycNJ05f8M:s0005"
+        "MMycNJ05f8M:s0005",
+        "MMycNJ05f8M:s0006"
       ],
       "start_s": 20.574,
-      "end_s": 30.037,
-      "text": "Thousands of years later, an ordinary human can drink milk as an adult, live where the air should make them dangerously ill, or stay underwater long enough to make a swimming instructor nervous.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 34.739,
+      "text": "Thousands of years later, an ordinary human can drink milk as an adult, live where the air should make them dangerously ill, or stay underwater long enough to make a swimming instructor nervous. Some of these changes are happening so recently that the people carrying them live among us now.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.012972257250945777
     },
     {
@@ -52,34 +53,20 @@
       "video_id": "MMycNJ05f8M",
       "idx": 3,
       "sent_ids": [
-        "MMycNJ05f8M:s0006",
-        "MMycNJ05f8M:s0007"
+        "MMycNJ05f8M:s0007",
+        "MMycNJ05f8M:s0008"
       ],
-      "start_s": 30.717,
-      "end_s": 38.08,
-      "text": "Some of these changes are happening so recently that the people carrying them live among us now. One population has spleens unusually suited to diving.",
-      "n_words": 25,
+      "start_s": 35.339,
+      "end_s": 44.122,
+      "text": "One population has spleens unusually suited to diving. Another inherited an ancient fragment of DNA that prevents high-altitude blood from becoming dangerously thick.",
+      "n_words": 23,
       "n_sentences": 2,
-      "pos_pct": 0.019367591424968474
+      "pos_pct": 0.02228184110970996
     },
     {
       "window_id": "MMycNJ05f8M:j0004",
       "video_id": "MMycNJ05f8M",
       "idx": 4,
-      "sent_ids": [
-        "MMycNJ05f8M:s0008"
-      ],
-      "start_s": 38.42,
-      "end_s": 44.122,
-      "text": "Another inherited an ancient fragment of DNA that prevents high-altitude blood from becoming dangerously thick.",
-      "n_words": 15,
-      "n_sentences": 1,
-      "pos_pct": 0.024224464060529634
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0005",
-      "video_id": "MMycNJ05f8M",
-      "idx": 5,
       "sent_ids": [
         "MMycNJ05f8M:s0009"
       ],
@@ -91,116 +78,103 @@
       "pos_pct": 0.028450189155107188
     },
     {
+      "window_id": "MMycNJ05f8M:j0005",
+      "video_id": "MMycNJ05f8M",
+      "idx": 5,
+      "sent_ids": [
+        "MMycNJ05f8M:s0010",
+        "MMycNJ05f8M:s0011"
+      ],
+      "start_s": 58.312,
+      "end_s": 74.223,
+      "text": "And in modern populations, natural selection may be acting on traits nobody would put in a superhero film—the timing of reproduction, metabolism, and how efficiently a person survives the biological consequences of their own diet. The strange part is not that humans are still evolving.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.03676670870113493
+    },
+    {
       "window_id": "MMycNJ05f8M:j0006",
       "video_id": "MMycNJ05f8M",
       "idx": 6,
       "sent_ids": [
-        "MMycNJ05f8M:s0010"
+        "MMycNJ05f8M:s0012",
+        "MMycNJ05f8M:s0013",
+        "MMycNJ05f8M:s0014"
       ],
-      "start_s": 58.312,
-      "end_s": 70.602,
-      "text": "And in modern populations, natural selection may be acting on traits nobody would put in a superhero film—the timing of reproduction, metabolism, and how efficiently a person survives the biological consequences of their own diet.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.03676670870113493
+      "start_s": 74.664,
+      "end_s": 85.154,
+      "text": "The strange part is what counts as an upgrade. Evolution does not aim towards stronger, smarter, taller, or more attractive humans. It has no image of the future.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.04707692307692308
     },
     {
       "window_id": "MMycNJ05f8M:j0007",
       "video_id": "MMycNJ05f8M",
       "idx": 7,
       "sent_ids": [
-        "MMycNJ05f8M:s0011",
-        "MMycNJ05f8M:s0012",
-        "MMycNJ05f8M:s0013"
+        "MMycNJ05f8M:s0015",
+        "MMycNJ05f8M:s0016"
       ],
-      "start_s": 71.641,
-      "end_s": 82.932,
-      "text": "The strange part is not that humans are still evolving. The strange part is what counts as an upgrade. Evolution does not aim towards stronger, smarter, taller, or more attractive humans.",
-      "n_words": 31,
-      "n_sentences": 3,
-      "pos_pct": 0.04517087011349307
+      "start_s": 85.514,
+      "end_s": 95.703,
+      "text": "It changes populations whenever inherited differences affect who reproduces and how many descendants those people leave. Survival matters only because surviving usually helps reproduction.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.05391803278688524
     },
     {
       "window_id": "MMycNJ05f8M:j0008",
       "video_id": "MMycNJ05f8M",
       "idx": 8,
       "sent_ids": [
-        "MMycNJ05f8M:s0014",
-        "MMycNJ05f8M:s0015",
-        "MMycNJ05f8M:s0016"
+        "MMycNJ05f8M:s0017",
+        "MMycNJ05f8M:s0018"
       ],
-      "start_s": 83.672,
-      "end_s": 95.703,
-      "text": "It has no image of the future. It changes populations whenever inherited differences affect who reproduces and how many descendants those people leave. Survival matters only because surviving usually helps reproduction.",
-      "n_words": 31,
-      "n_sentences": 3,
-      "pos_pct": 0.05275662042875157
+      "start_s": 96.564,
+      "end_s": 110.833,
+      "text": "A genetic variant that keeps someone healthy until age 90 but prevents them from having children is an evolutionary dead end. A variant that causes trouble at 60 but helps its carrier survive infection and reproduce at 20 may spread enthusiastically.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.06088524590163934
     },
     {
       "window_id": "MMycNJ05f8M:j0009",
       "video_id": "MMycNJ05f8M",
       "idx": 9,
       "sent_ids": [
-        "MMycNJ05f8M:s0017"
+        "MMycNJ05f8M:s0019",
+        "MMycNJ05f8M:s0020",
+        "MMycNJ05f8M:s0021"
       ],
-      "start_s": 96.564,
-      "end_s": 102.968,
-      "text": "A genetic variant that keeps someone healthy until age 90 but prevents them from having children is an evolutionary dead end.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.06088524590163934
+      "start_s": 111.854,
+      "end_s": 121.66,
+      "text": "Natural selection has the planning horizon of a distracted teenager. This also means a person cannot evolve during life. Someone who trains at high altitude may produce more red blood cells.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.07052585119798234
     },
     {
       "window_id": "MMycNJ05f8M:j0010",
       "video_id": "MMycNJ05f8M",
       "idx": 10,
       "sent_ids": [
-        "MMycNJ05f8M:s0018",
-        "MMycNJ05f8M:s0019"
+        "MMycNJ05f8M:s0022",
+        "MMycNJ05f8M:s0023",
+        "MMycNJ05f8M:s0024",
+        "MMycNJ05f8M:s0025"
       ],
-      "start_s": 103.809,
-      "end_s": 114.996,
-      "text": "A variant that causes trouble at 60 but helps its carrier survive infection and reproduce at 20 may spread enthusiastically. Natural selection has the planning horizon of a distracted teenager.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.06545334174022699
+      "start_s": 122.6,
+      "end_s": 136.98,
+      "text": "A diver may develop a stronger diving response. A bodybuilder may acquire shoulders that require sideways movement through doors. Those are changes within one body. Evolution requires inherited variants changing in frequency across generations.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.0773013871374527
     },
     {
       "window_id": "MMycNJ05f8M:j0011",
       "video_id": "MMycNJ05f8M",
       "idx": 11,
-      "sent_ids": [
-        "MMycNJ05f8M:s0020",
-        "MMycNJ05f8M:s0021",
-        "MMycNJ05f8M:s0022"
-      ],
-      "start_s": 115.516,
-      "end_s": 124.822,
-      "text": "This also means a person cannot evolve during life. Someone who trains at high altitude may produce more red blood cells. A diver may develop a stronger diving response.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.07283480453972258
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0012",
-      "video_id": "MMycNJ05f8M",
-      "idx": 12,
-      "sent_ids": [
-        "MMycNJ05f8M:s0023",
-        "MMycNJ05f8M:s0024",
-        "MMycNJ05f8M:s0025"
-      ],
-      "start_s": 125.827,
-      "end_s": 136.98,
-      "text": "A bodybuilder may acquire shoulders that require sideways movement through doors. Those are changes within one body. Evolution requires inherited variants changing in frequency across generations.",
-      "n_words": 26,
-      "n_sentences": 3,
-      "pos_pct": 0.07933606557377049
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0013",
-      "video_id": "MMycNJ05f8M",
-      "idx": 13,
       "sent_ids": [
         "MMycNJ05f8M:s0026",
         "MMycNJ05f8M:s0027",
@@ -214,9 +188,9 @@
       "pos_pct": 0.08669672131147542
     },
     {
-      "window_id": "MMycNJ05f8M:j0014",
+      "window_id": "MMycNJ05f8M:j0012",
       "video_id": "MMycNJ05f8M",
-      "idx": 14,
+      "idx": 12,
       "sent_ids": [
         "MMycNJ05f8M:s0029",
         "MMycNJ05f8M:s0030",
@@ -230,9 +204,9 @@
       "pos_pct": 0.09203467843631778
     },
     {
-      "window_id": "MMycNJ05f8M:j0015",
+      "window_id": "MMycNJ05f8M:j0013",
       "video_id": "MMycNJ05f8M",
-      "idx": 15,
+      "idx": 13,
       "sent_ids": [
         "MMycNJ05f8M:s0032",
         "MMycNJ05f8M:s0033",
@@ -247,9 +221,9 @@
       "pos_pct": 0.09935435056746532
     },
     {
-      "window_id": "MMycNJ05f8M:j0016",
+      "window_id": "MMycNJ05f8M:j0014",
       "video_id": "MMycNJ05f8M",
-      "idx": 16,
+      "idx": 14,
       "sent_ids": [
         "MMycNJ05f8M:s0036",
         "MMycNJ05f8M:s0037",
@@ -264,37 +238,24 @@
       "pos_pct": 0.10748234552332914
     },
     {
-      "window_id": "MMycNJ05f8M:j0017",
+      "window_id": "MMycNJ05f8M:j0015",
       "video_id": "MMycNJ05f8M",
-      "idx": 17,
+      "idx": 15,
       "sent_ids": [
-        "MMycNJ05f8M:s0040"
+        "MMycNJ05f8M:s0040",
+        "MMycNJ05f8M:s0041"
       ],
       "start_s": 183.887,
-      "end_s": 193.352,
-      "text": "Drinking enough fresh milk could then deliver lactose to gut bacteria, which respond with gas, cramps, diarrhea, and a remarkably fast review of the decision.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 205.24,
+      "text": "Drinking enough fresh milk could then deliver lactose to gut bacteria, which respond with gas, cramps, diarrhea, and a remarkably fast review of the decision. But after some human groups began herding cattle, sheep, goats, and camels, milk became a rich supply of water, calories, fat, protein, and minerals.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.11594388398486759
     },
     {
-      "window_id": "MMycNJ05f8M:j0018",
+      "window_id": "MMycNJ05f8M:j0016",
       "video_id": "MMycNJ05f8M",
-      "idx": 18,
-      "sent_ids": [
-        "MMycNJ05f8M:s0041"
-      ],
-      "start_s": 194.553,
-      "end_s": 205.24,
-      "text": "But after some human groups began herding cattle, sheep, goats, and camels, milk became a rich supply of water, calories, fat, protein, and minerals.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.12266897856242118
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0019",
-      "video_id": "MMycNJ05f8M",
-      "idx": 19,
+      "idx": 16,
       "sent_ids": [
         "MMycNJ05f8M:s0042",
         "MMycNJ05f8M:s0043"
@@ -307,9 +268,9 @@
       "pos_pct": 0.13039281210592685
     },
     {
-      "window_id": "MMycNJ05f8M:j0020",
+      "window_id": "MMycNJ05f8M:j0017",
       "video_id": "MMycNJ05f8M",
-      "idx": 20,
+      "idx": 17,
       "sent_ids": [
         "MMycNJ05f8M:s0044",
         "MMycNJ05f8M:s0045",
@@ -324,9 +285,9 @@
       "pos_pct": 0.13478310214375788
     },
     {
-      "window_id": "MMycNJ05f8M:j0021",
+      "window_id": "MMycNJ05f8M:j0018",
       "video_id": "MMycNJ05f8M",
-      "idx": 21,
+      "idx": 18,
       "sent_ids": [
         "MMycNJ05f8M:s0048",
         "MMycNJ05f8M:s0049",
@@ -341,9 +302,9 @@
       "pos_pct": 0.14290857503152585
     },
     {
-      "window_id": "MMycNJ05f8M:j0022",
+      "window_id": "MMycNJ05f8M:j0019",
       "video_id": "MMycNJ05f8M",
-      "idx": 22,
+      "idx": 19,
       "sent_ids": [
         "MMycNJ05f8M:s0052",
         "MMycNJ05f8M:s0053",
@@ -357,9 +318,9 @@
       "pos_pct": 0.15109709962168977
     },
     {
-      "window_id": "MMycNJ05f8M:j0023",
+      "window_id": "MMycNJ05f8M:j0020",
       "video_id": "MMycNJ05f8M",
-      "idx": 23,
+      "idx": 20,
       "sent_ids": [
         "MMycNJ05f8M:s0055",
         "MMycNJ05f8M:s0056"
@@ -372,9 +333,9 @@
       "pos_pct": 0.15933291298865068
     },
     {
-      "window_id": "MMycNJ05f8M:j0024",
+      "window_id": "MMycNJ05f8M:j0021",
       "video_id": "MMycNJ05f8M",
-      "idx": 24,
+      "idx": 21,
       "sent_ids": [
         "MMycNJ05f8M:s0057",
         "MMycNJ05f8M:s0058",
@@ -388,9 +349,9 @@
       "pos_pct": 0.16623518284993694
     },
     {
-      "window_id": "MMycNJ05f8M:j0025",
+      "window_id": "MMycNJ05f8M:j0022",
       "video_id": "MMycNJ05f8M",
-      "idx": 25,
+      "idx": 22,
       "sent_ids": [
         "MMycNJ05f8M:s0060",
         "MMycNJ05f8M:s0061"
@@ -403,9 +364,9 @@
       "pos_pct": 0.17611475409836064
     },
     {
-      "window_id": "MMycNJ05f8M:j0026",
+      "window_id": "MMycNJ05f8M:j0023",
       "video_id": "MMycNJ05f8M",
-      "idx": 26,
+      "idx": 23,
       "sent_ids": [
         "MMycNJ05f8M:s0062",
         "MMycNJ05f8M:s0063"
@@ -418,9 +379,9 @@
       "pos_pct": 0.1836355611601513
     },
     {
-      "window_id": "MMycNJ05f8M:j0027",
+      "window_id": "MMycNJ05f8M:j0024",
       "video_id": "MMycNJ05f8M",
-      "idx": 27,
+      "idx": 24,
       "sent_ids": [
         "MMycNJ05f8M:s0064",
         "MMycNJ05f8M:s0065"
@@ -433,9 +394,9 @@
       "pos_pct": 0.19296595208070616
     },
     {
-      "window_id": "MMycNJ05f8M:j0028",
+      "window_id": "MMycNJ05f8M:j0025",
       "video_id": "MMycNJ05f8M",
-      "idx": 28,
+      "idx": 25,
       "sent_ids": [
         "MMycNJ05f8M:s0066",
         "MMycNJ05f8M:s0067"
@@ -448,9 +409,9 @@
       "pos_pct": 0.1995674653215637
     },
     {
-      "window_id": "MMycNJ05f8M:j0029",
+      "window_id": "MMycNJ05f8M:j0026",
       "video_id": "MMycNJ05f8M",
-      "idx": 29,
+      "idx": 26,
       "sent_ids": [
         "MMycNJ05f8M:s0068",
         "MMycNJ05f8M:s0069",
@@ -464,9 +425,9 @@
       "pos_pct": 0.20856179066834804
     },
     {
-      "window_id": "MMycNJ05f8M:j0030",
+      "window_id": "MMycNJ05f8M:j0027",
       "video_id": "MMycNJ05f8M",
-      "idx": 30,
+      "idx": 27,
       "sent_ids": [
         "MMycNJ05f8M:s0071",
         "MMycNJ05f8M:s0072",
@@ -481,9 +442,9 @@
       "pos_pct": 0.21644577553593947
     },
     {
-      "window_id": "MMycNJ05f8M:j0031",
+      "window_id": "MMycNJ05f8M:j0028",
       "video_id": "MMycNJ05f8M",
-      "idx": 31,
+      "idx": 28,
       "sent_ids": [
         "MMycNJ05f8M:s0075",
         "MMycNJ05f8M:s0076"
@@ -496,9 +457,9 @@
       "pos_pct": 0.22608007566204286
     },
     {
-      "window_id": "MMycNJ05f8M:j0032",
+      "window_id": "MMycNJ05f8M:j0029",
       "video_id": "MMycNJ05f8M",
-      "idx": 32,
+      "idx": 29,
       "sent_ids": [
         "MMycNJ05f8M:s0077",
         "MMycNJ05f8M:s0078"
@@ -511,9 +472,9 @@
       "pos_pct": 0.23403720050441362
     },
     {
-      "window_id": "MMycNJ05f8M:j0033",
+      "window_id": "MMycNJ05f8M:j0030",
       "video_id": "MMycNJ05f8M",
-      "idx": 33,
+      "idx": 30,
       "sent_ids": [
         "MMycNJ05f8M:s0079",
         "MMycNJ05f8M:s0080"
@@ -526,9 +487,9 @@
       "pos_pct": 0.24338839848675914
     },
     {
-      "window_id": "MMycNJ05f8M:j0034",
+      "window_id": "MMycNJ05f8M:j0031",
       "video_id": "MMycNJ05f8M",
-      "idx": 34,
+      "idx": 31,
       "sent_ids": [
         "MMycNJ05f8M:s0081",
         "MMycNJ05f8M:s0082"
@@ -541,37 +502,24 @@
       "pos_pct": 0.25414754098360653
     },
     {
-      "window_id": "MMycNJ05f8M:j0035",
+      "window_id": "MMycNJ05f8M:j0032",
       "video_id": "MMycNJ05f8M",
-      "idx": 35,
+      "idx": 32,
       "sent_ids": [
-        "MMycNJ05f8M:s0083"
+        "MMycNJ05f8M:s0083",
+        "MMycNJ05f8M:s0084"
       ],
       "start_s": 410.861,
-      "end_s": 418.029,
-      "text": "Tens of thousands of years ago, ancestors of some modern humans interbred with an archaic human group related to Neanderthals.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 430.522,
+      "text": "Tens of thousands of years ago, ancestors of some modern humans interbred with an archaic human group related to Neanderthals. Most Denisovan DNA became diluted or removed over time, but a Denisovan-like stretch containing a useful ePas1 haplotype became common among Tibetans because natural selection preserved it.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.2590548549810845
     },
     {
-      "window_id": "MMycNJ05f8M:j0036",
+      "window_id": "MMycNJ05f8M:j0033",
       "video_id": "MMycNJ05f8M",
-      "idx": 36,
-      "sent_ids": [
-        "MMycNJ05f8M:s0084"
-      ],
-      "start_s": 418.809,
-      "end_s": 430.522,
-      "text": "Most Denisovan DNA became diluted or removed over time, but a Denisovan-like stretch containing a useful ePas1 haplotype became common among Tibetans because natural selection preserved it.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.26406620428751576
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0037",
-      "video_id": "MMycNJ05f8M",
-      "idx": 37,
+      "idx": 33,
       "sent_ids": [
         "MMycNJ05f8M:s0085",
         "MMycNJ05f8M:s0086",
@@ -585,9 +533,9 @@
       "pos_pct": 0.2718045397225725
     },
     {
-      "window_id": "MMycNJ05f8M:j0038",
+      "window_id": "MMycNJ05f8M:j0034",
       "video_id": "MMycNJ05f8M",
-      "idx": 38,
+      "idx": 34,
       "sent_ids": [
         "MMycNJ05f8M:s0088",
         "MMycNJ05f8M:s0089"
@@ -600,9 +548,9 @@
       "pos_pct": 0.27902332912988653
     },
     {
-      "window_id": "MMycNJ05f8M:j0039",
+      "window_id": "MMycNJ05f8M:j0035",
       "video_id": "MMycNJ05f8M",
-      "idx": 39,
+      "idx": 35,
       "sent_ids": [
         "MMycNJ05f8M:s0090",
         "MMycNJ05f8M:s0091",
@@ -617,9 +565,9 @@
       "pos_pct": 0.2896664564943254
     },
     {
-      "window_id": "MMycNJ05f8M:j0040",
+      "window_id": "MMycNJ05f8M:j0036",
       "video_id": "MMycNJ05f8M",
-      "idx": 40,
+      "idx": 36,
       "sent_ids": [
         "MMycNJ05f8M:s0094",
         "MMycNJ05f8M:s0095",
@@ -634,9 +582,9 @@
       "pos_pct": 0.297438209331652
     },
     {
-      "window_id": "MMycNJ05f8M:j0041",
+      "window_id": "MMycNJ05f8M:j0037",
       "video_id": "MMycNJ05f8M",
-      "idx": 41,
+      "idx": 37,
       "sent_ids": [
         "MMycNJ05f8M:s0098",
         "MMycNJ05f8M:s0099"
@@ -649,9 +597,9 @@
       "pos_pct": 0.3066986128625473
     },
     {
-      "window_id": "MMycNJ05f8M:j0042",
+      "window_id": "MMycNJ05f8M:j0038",
       "video_id": "MMycNJ05f8M",
-      "idx": 42,
+      "idx": 38,
       "sent_ids": [
         "MMycNJ05f8M:s0100",
         "MMycNJ05f8M:s0101"
@@ -664,9 +612,9 @@
       "pos_pct": 0.3131204287515763
     },
     {
-      "window_id": "MMycNJ05f8M:j0043",
+      "window_id": "MMycNJ05f8M:j0039",
       "video_id": "MMycNJ05f8M",
-      "idx": 43,
+      "idx": 39,
       "sent_ids": [
         "MMycNJ05f8M:s0102",
         "MMycNJ05f8M:s0103"
@@ -679,9 +627,9 @@
       "pos_pct": 0.32267276166456493
     },
     {
-      "window_id": "MMycNJ05f8M:j0044",
+      "window_id": "MMycNJ05f8M:j0040",
       "video_id": "MMycNJ05f8M",
-      "idx": 44,
+      "idx": 40,
       "sent_ids": [
         "MMycNJ05f8M:s0104",
         "MMycNJ05f8M:s0105",
@@ -695,9 +643,9 @@
       "pos_pct": 0.3286916771752837
     },
     {
-      "window_id": "MMycNJ05f8M:j0045",
+      "window_id": "MMycNJ05f8M:j0041",
       "video_id": "MMycNJ05f8M",
-      "idx": 45,
+      "idx": 41,
       "sent_ids": [
         "MMycNJ05f8M:s0107",
         "MMycNJ05f8M:s0108",
@@ -711,68 +659,55 @@
       "pos_pct": 0.33531336696090797
     },
     {
-      "window_id": "MMycNJ05f8M:j0046",
+      "window_id": "MMycNJ05f8M:j0042",
       "video_id": "MMycNJ05f8M",
-      "idx": 46,
+      "idx": 42,
       "sent_ids": [
-        "MMycNJ05f8M:s0110"
+        "MMycNJ05f8M:s0110",
+        "MMycNJ05f8M:s0111"
       ],
       "start_s": 542.869,
-      "end_s": 549.01,
-      "text": "That suggested an inherited population level difference rather than a result found only in experienced divers.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 560.45,
+      "text": "That suggested an inherited population level difference rather than a result found only in experienced divers. Genetic analysis identified signs of selection near several genes, most notably PDE10A, which may affect spleen size through thyroid hormone pathways.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.3422881462799496
     },
     {
-      "window_id": "MMycNJ05f8M:j0047",
+      "window_id": "MMycNJ05f8M:j0043",
       "video_id": "MMycNJ05f8M",
-      "idx": 47,
+      "idx": 43,
       "sent_ids": [
-        "MMycNJ05f8M:s0111",
-        "MMycNJ05f8M:s0112"
+        "MMycNJ05f8M:s0112",
+        "MMycNJ05f8M:s0113"
       ],
-      "start_s": 550.418,
-      "end_s": 564.918,
-      "text": "Genetic analysis identified signs of selection near several genes, most notably PDE10A, which may affect spleen size through thyroid hormone pathways. The evidence is compelling, but not a final blueprint.",
-      "n_words": 30,
+      "start_s": 561.516,
+      "end_s": 572.764,
+      "text": "The evidence is compelling, but not a final blueprint. The study involved a limited sample, the trait is complex, and scientists are still working out the exact causal chain.",
+      "n_words": 29,
       "n_sentences": 2,
-      "pos_pct": 0.34704791929382095
+      "pos_pct": 0.3540453972257251
     },
     {
-      "window_id": "MMycNJ05f8M:j0048",
+      "window_id": "MMycNJ05f8M:j0044",
       "video_id": "MMycNJ05f8M",
-      "idx": 48,
+      "idx": 44,
       "sent_ids": [
-        "MMycNJ05f8M:s0113",
         "MMycNJ05f8M:s0114",
-        "MMycNJ05f8M:s0115"
-      ],
-      "start_s": 565.399,
-      "end_s": 578.008,
-      "text": "The study involved a limited sample, the trait is complex, and scientists are still working out the exact causal chain. It would be careless to call the Bajau aquatic humans. They cannot breathe underwater.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.3564936948297604
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0049",
-      "video_id": "MMycNJ05f8M",
-      "idx": 49,
-      "sent_ids": [
+        "MMycNJ05f8M:s0115",
         "MMycNJ05f8M:s0116"
       ],
-      "start_s": 578.328,
+      "start_s": 573.444,
       "end_s": 585.173,
-      "text": "They remain limited by oxygen, pressure, cold, and the universal human tendency to become alarmed when the lungs request air.",
-      "n_words": 20,
-      "n_sentences": 1,
-      "pos_pct": 0.36464564943253464
+      "text": "It would be careless to call the Bajau aquatic humans. They cannot breathe underwater. They remain limited by oxygen, pressure, cold, and the universal human tendency to become alarmed when the lungs request air.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.36156620428751574
     },
     {
-      "window_id": "MMycNJ05f8M:j0050",
+      "window_id": "MMycNJ05f8M:j0045",
       "video_id": "MMycNJ05f8M",
-      "idx": 50,
+      "idx": 45,
       "sent_ids": [
         "MMycNJ05f8M:s0117",
         "MMycNJ05f8M:s0118"
@@ -785,9 +720,9 @@
       "pos_pct": 0.3693776796973518
     },
     {
-      "window_id": "MMycNJ05f8M:j0051",
+      "window_id": "MMycNJ05f8M:j0046",
       "video_id": "MMycNJ05f8M",
-      "idx": 51,
+      "idx": 46,
       "sent_ids": [
         "MMycNJ05f8M:s0119",
         "MMycNJ05f8M:s0120"
@@ -800,98 +735,72 @@
       "pos_pct": 0.3758997477931904
     },
     {
-      "window_id": "MMycNJ05f8M:j0052",
+      "window_id": "MMycNJ05f8M:j0047",
       "video_id": "MMycNJ05f8M",
-      "idx": 52,
+      "idx": 47,
       "sent_ids": [
-        "MMycNJ05f8M:s0121"
+        "MMycNJ05f8M:s0121",
+        "MMycNJ05f8M:s0122"
       ],
       "start_s": 601.739,
-      "end_s": 610.782,
-      "text": "By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 617.547,
+      "text": "By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans. 10 modules, 3 plus hours of content covering everything we never talk about on YouTube.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.379406683480454
     },
     {
-      "window_id": "MMycNJ05f8M:j0053",
+      "window_id": "MMycNJ05f8M:j0048",
       "video_id": "MMycNJ05f8M",
-      "idx": 53,
+      "idx": 48,
       "sent_ids": [
-        "MMycNJ05f8M:s0122",
         "MMycNJ05f8M:s0123",
-        "MMycNJ05f8M:s0124"
-      ],
-      "start_s": 611.462,
-      "end_s": 625.233,
-      "text": "10 modules, 3 plus hours of content covering everything we never talk about on YouTube. What they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.3855372005044136
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0054",
-      "video_id": "MMycNJ05f8M",
-      "idx": 54,
-      "sent_ids": [
+        "MMycNJ05f8M:s0124",
         "MMycNJ05f8M:s0125",
-        "MMycNJ05f8M:s0126",
-        "MMycNJ05f8M:s0127",
-        "MMycNJ05f8M:s0128"
+        "MMycNJ05f8M:s0126"
       ],
-      "start_s": 625.794,
-      "end_s": 632.719,
-      "text": "Link in the description. See you inside. Food has been equally creative. Humans digest starch using amylase.",
-      "n_words": 17,
+      "start_s": 618.007,
+      "end_s": 628.076,
+      "text": "What they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included. Link in the description. See you inside.",
+      "n_words": 25,
       "n_sentences": 4,
-      "pos_pct": 0.39457377049180326
+      "pos_pct": 0.3896639344262295
     },
     {
-      "window_id": "MMycNJ05f8M:j0055",
+      "window_id": "MMycNJ05f8M:j0049",
       "video_id": "MMycNJ05f8M",
-      "idx": 55,
+      "idx": 49,
       "sent_ids": [
+        "MMycNJ05f8M:s0127",
+        "MMycNJ05f8M:s0128",
         "MMycNJ05f8M:s0129"
       ],
-      "start_s": 633.7,
+      "start_s": 628.676,
       "end_s": 641.747,
-      "text": "Salivary amylase begins breaking starch apart in the mouth, which is why a plain cracker held on the tongue gradually tastes sweeter.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.3995586380832283
+      "text": "Food has been equally creative. Humans digest starch using amylase. Salivary amylase begins breaking starch apart in the mouth, which is why a plain cracker held on the tongue gradually tastes sweeter.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.39639092055485503
     },
     {
-      "window_id": "MMycNJ05f8M:j0056",
+      "window_id": "MMycNJ05f8M:j0050",
       "video_id": "MMycNJ05f8M",
-      "idx": 56,
+      "idx": 50,
       "sent_ids": [
-        "MMycNJ05f8M:s0130"
+        "MMycNJ05f8M:s0130",
+        "MMycNJ05f8M:s0131"
       ],
       "start_s": 642.768,
-      "end_s": 649.673,
-      "text": "The gene AMY1 encodes this enzyme, but people do not all carry the same number of copies.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 660.402,
+      "text": "The gene AMY1 encodes this enzyme, but people do not all carry the same number of copies. Populations with long histories of starch-rich diets often have higher average AMY, one copy numbers than populations with traditionally lower starch diets.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.40527616645649434
     },
     {
-      "window_id": "MMycNJ05f8M:j0057",
+      "window_id": "MMycNJ05f8M:j0051",
       "video_id": "MMycNJ05f8M",
-      "idx": 57,
-      "sent_ids": [
-        "MMycNJ05f8M:s0131"
-      ],
-      "start_s": 650.554,
-      "end_s": 660.402,
-      "text": "Populations with long histories of starch-rich diets often have higher average AMY, one copy numbers than populations with traditionally lower starch diets.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.4101853720050441
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0058",
-      "video_id": "MMycNJ05f8M",
-      "idx": 58,
+      "idx": 51,
       "sent_ids": [
         "MMycNJ05f8M:s0132",
         "MMycNJ05f8M:s0133",
@@ -905,9 +814,9 @@
       "pos_pct": 0.41715510718789406
     },
     {
-      "window_id": "MMycNJ05f8M:j0059",
+      "window_id": "MMycNJ05f8M:j0052",
       "video_id": "MMycNJ05f8M",
-      "idx": 59,
+      "idx": 52,
       "sent_ids": [
         "MMycNJ05f8M:s0135",
         "MMycNJ05f8M:s0136",
@@ -921,9 +830,9 @@
       "pos_pct": 0.4257017654476671
     },
     {
-      "window_id": "MMycNJ05f8M:j0060",
+      "window_id": "MMycNJ05f8M:j0053",
       "video_id": "MMycNJ05f8M",
-      "idx": 60,
+      "idx": 53,
       "sent_ids": [
         "MMycNJ05f8M:s0138",
         "MMycNJ05f8M:s0139"
@@ -936,9 +845,9 @@
       "pos_pct": 0.43494955863808327
     },
     {
-      "window_id": "MMycNJ05f8M:j0061",
+      "window_id": "MMycNJ05f8M:j0054",
       "video_id": "MMycNJ05f8M",
-      "idx": 61,
+      "idx": 54,
       "sent_ids": [
         "MMycNJ05f8M:s0140",
         "MMycNJ05f8M:s0141"
@@ -951,9 +860,9 @@
       "pos_pct": 0.44155863808322826
     },
     {
-      "window_id": "MMycNJ05f8M:j0062",
+      "window_id": "MMycNJ05f8M:j0055",
       "video_id": "MMycNJ05f8M",
-      "idx": 62,
+      "idx": 55,
       "sent_ids": [
         "MMycNJ05f8M:s0142",
         "MMycNJ05f8M:s0143",
@@ -967,40 +876,40 @@
       "pos_pct": 0.44706052963430015
     },
     {
-      "window_id": "MMycNJ05f8M:j0063",
+      "window_id": "MMycNJ05f8M:j0056",
       "video_id": "MMycNJ05f8M",
-      "idx": 63,
+      "idx": 56,
       "sent_ids": [
-        "MMycNJ05f8M:s0145"
+        "MMycNJ05f8M:s0145",
+        "MMycNJ05f8M:s0146"
       ],
       "start_s": 727.232,
-      "end_s": 739.902,
-      "text": "An adaptation shaped by one traditional food environment may behave differently when surrounded by refined carbohydrates, seed oils, processed meat, and beverages whose main ecological niche is the convenience store.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 743.045,
+      "text": "An adaptation shaped by one traditional food environment may behave differently when surrounded by refined carbohydrates, seed oils, processed meat, and beverages whose main ecological niche is the convenience store. Evolution tunes bodies to yesterday's menu.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.4585321563682219
     },
     {
-      "window_id": "MMycNJ05f8M:j0064",
+      "window_id": "MMycNJ05f8M:j0057",
       "video_id": "MMycNJ05f8M",
-      "idx": 64,
+      "idx": 57,
       "sent_ids": [
-        "MMycNJ05f8M:s0146",
         "MMycNJ05f8M:s0147",
         "MMycNJ05f8M:s0148",
         "MMycNJ05f8M:s0149"
       ],
-      "start_s": 740.783,
+      "start_s": 743.845,
       "end_s": 753.033,
-      "text": "Evolution tunes bodies to yesterday's menu. Globalization changes the menu before the genes can read it. Disease produces even stranger traits because pathogens do not merely create an environment. They fight back.",
-      "n_words": 32,
-      "n_sentences": 4,
-      "pos_pct": 0.46707629255989913
+      "text": "Globalization changes the menu before the genes can read it. Disease produces even stranger traits because pathogens do not merely create an environment. They fight back.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.4690069356872636
     },
     {
-      "window_id": "MMycNJ05f8M:j0065",
+      "window_id": "MMycNJ05f8M:j0058",
       "video_id": "MMycNJ05f8M",
-      "idx": 65,
+      "idx": 58,
       "sent_ids": [
         "MMycNJ05f8M:s0150",
         "MMycNJ05f8M:s0151"
@@ -1013,9 +922,9 @@
       "pos_pct": 0.4755220680958386
     },
     {
-      "window_id": "MMycNJ05f8M:j0066",
+      "window_id": "MMycNJ05f8M:j0059",
       "video_id": "MMycNJ05f8M",
-      "idx": 66,
+      "idx": 59,
       "sent_ids": [
         "MMycNJ05f8M:s0152",
         "MMycNJ05f8M:s0153"
@@ -1028,53 +937,40 @@
       "pos_pct": 0.4846424968474149
     },
     {
-      "window_id": "MMycNJ05f8M:j0067",
+      "window_id": "MMycNJ05f8M:j0060",
       "video_id": "MMycNJ05f8M",
-      "idx": 67,
+      "idx": 60,
       "sent_ids": [
-        "MMycNJ05f8M:s0154"
+        "MMycNJ05f8M:s0154",
+        "MMycNJ05f8M:s0155"
       ],
       "start_s": 780.512,
-      "end_s": 791.92,
-      "text": "A person who inherits two copies can develop sickle cell disease, in which red cells become distorted, blood vessels are blocked, organs are damaged, and life can be shortened without effective care.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 797.284,
+      "text": "A person who inherits two copies can develop sickle cell disease, in which red cells become distorted, blood vessels are blocked, organs are damaged, and life can be shortened without effective care. The same variant can be protective or devastating depending on whether it arrives once or twice.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.4921261034047919
     },
     {
-      "window_id": "MMycNJ05f8M:j0068",
+      "window_id": "MMycNJ05f8M:j0061",
       "video_id": "MMycNJ05f8M",
-      "idx": 68,
+      "idx": 61,
       "sent_ids": [
-        "MMycNJ05f8M:s0155",
         "MMycNJ05f8M:s0156",
-        "MMycNJ05f8M:s0157"
-      ],
-      "start_s": 792.441,
-      "end_s": 802.207,
-      "text": "The same variant can be protective or devastating depending on whether it arrives once or twice. Natural selection did not repair this contradiction. It maintained it.",
-      "n_words": 26,
-      "n_sentences": 3,
-      "pos_pct": 0.4996475409836066
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0069",
-      "video_id": "MMycNJ05f8M",
-      "idx": 69,
-      "sent_ids": [
+        "MMycNJ05f8M:s0157",
         "MMycNJ05f8M:s0158"
       ],
-      "start_s": 802.627,
+      "start_s": 798.345,
       "end_s": 808.43,
-      "text": "Where malaria killed many children, people with one copy were more likely to survive and reproduce than people with none.",
-      "n_words": 20,
-      "n_sentences": 1,
-      "pos_pct": 0.5060699873896595
+      "text": "Natural selection did not repair this contradiction. It maintained it. Where malaria killed many children, people with one copy were more likely to survive and reproduce than people with none.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.5033701134930644
     },
     {
-      "window_id": "MMycNJ05f8M:j0070",
+      "window_id": "MMycNJ05f8M:j0062",
       "video_id": "MMycNJ05f8M",
-      "idx": 70,
+      "idx": 62,
       "sent_ids": [
         "MMycNJ05f8M:s0159",
         "MMycNJ05f8M:s0160"
@@ -1087,9 +983,9 @@
       "pos_pct": 0.5102717528373266
     },
     {
-      "window_id": "MMycNJ05f8M:j0071",
+      "window_id": "MMycNJ05f8M:j0063",
       "video_id": "MMycNJ05f8M",
-      "idx": 71,
+      "idx": 63,
       "sent_ids": [
         "MMycNJ05f8M:s0161",
         "MMycNJ05f8M:s0162",
@@ -1103,9 +999,9 @@
       "pos_pct": 0.5190025220680958
     },
     {
-      "window_id": "MMycNJ05f8M:j0072",
+      "window_id": "MMycNJ05f8M:j0064",
       "video_id": "MMycNJ05f8M",
-      "idx": 72,
+      "idx": 64,
       "sent_ids": [
         "MMycNJ05f8M:s0164",
         "MMycNJ05f8M:s0165"
@@ -1118,9 +1014,9 @@
       "pos_pct": 0.5281027742749055
     },
     {
-      "window_id": "MMycNJ05f8M:j0073",
+      "window_id": "MMycNJ05f8M:j0065",
       "video_id": "MMycNJ05f8M",
-      "idx": 73,
+      "idx": 65,
       "sent_ids": [
         "MMycNJ05f8M:s0166",
         "MMycNJ05f8M:s0167",
@@ -1135,9 +1031,9 @@
       "pos_pct": 0.5372244640605296
     },
     {
-      "window_id": "MMycNJ05f8M:j0074",
+      "window_id": "MMycNJ05f8M:j0066",
       "video_id": "MMycNJ05f8M",
-      "idx": 74,
+      "idx": 66,
       "sent_ids": [
         "MMycNJ05f8M:s0170",
         "MMycNJ05f8M:s0171"
@@ -1150,9 +1046,9 @@
       "pos_pct": 0.5422200504413619
     },
     {
-      "window_id": "MMycNJ05f8M:j0075",
+      "window_id": "MMycNJ05f8M:j0067",
       "video_id": "MMycNJ05f8M",
-      "idx": 75,
+      "idx": 67,
       "sent_ids": [
         "MMycNJ05f8M:s0172",
         "MMycNJ05f8M:s0173"
@@ -1165,37 +1061,24 @@
       "pos_pct": 0.5486778058007566
     },
     {
-      "window_id": "MMycNJ05f8M:j0076",
+      "window_id": "MMycNJ05f8M:j0068",
       "video_id": "MMycNJ05f8M",
-      "idx": 76,
+      "idx": 68,
       "sent_ids": [
-        "MMycNJ05f8M:s0174"
+        "MMycNJ05f8M:s0174",
+        "MMycNJ05f8M:s0175"
       ],
       "start_s": 879.752,
-      "end_s": 889.242,
-      "text": "Variants of APOL, one found primarily in people with recent African ancestry, can kill forms of the parasites that cause African sleeping sickness.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 903.872,
+      "text": "Variants of APOL, one found primarily in people with recent African ancestry, can kill forms of the parasites that cause African sleeping sickness. These variants likely spread because they improved defense against a lethal infection, but carrying two high-risk APOL, one variant greatly increases susceptibility to several forms of kidney disease.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.5546986128625473
     },
     {
-      "window_id": "MMycNJ05f8M:j0077",
+      "window_id": "MMycNJ05f8M:j0069",
       "video_id": "MMycNJ05f8M",
-      "idx": 77,
-      "sent_ids": [
-        "MMycNJ05f8M:s0175"
-      ],
-      "start_s": 890.832,
-      "end_s": 903.872,
-      "text": "These variants likely spread because they improved defense against a lethal infection, but carrying two high-risk APOL, one variant greatly increases susceptibility to several forms of kidney disease.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.5616847414880202
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0078",
-      "video_id": "MMycNJ05f8M",
-      "idx": 78,
+      "idx": 69,
       "sent_ids": [
         "MMycNJ05f8M:s0176",
         "MMycNJ05f8M:s0177"
@@ -1208,9 +1091,9 @@
       "pos_pct": 0.5707238335435056
     },
     {
-      "window_id": "MMycNJ05f8M:j0079",
+      "window_id": "MMycNJ05f8M:j0070",
       "video_id": "MMycNJ05f8M",
-      "idx": 79,
+      "idx": 70,
       "sent_ids": [
         "MMycNJ05f8M:s0178",
         "MMycNJ05f8M:s0179"
@@ -1223,9 +1106,9 @@
       "pos_pct": 0.5751015132408575
     },
     {
-      "window_id": "MMycNJ05f8M:j0080",
+      "window_id": "MMycNJ05f8M:j0071",
       "video_id": "MMycNJ05f8M",
-      "idx": 80,
+      "idx": 71,
       "sent_ids": [
         "MMycNJ05f8M:s0180",
         "MMycNJ05f8M:s0181"
@@ -1238,37 +1121,24 @@
       "pos_pct": 0.5834022698612862
     },
     {
-      "window_id": "MMycNJ05f8M:j0081",
+      "window_id": "MMycNJ05f8M:j0072",
       "video_id": "MMycNJ05f8M",
-      "idx": 81,
+      "idx": 72,
       "sent_ids": [
-        "MMycNJ05f8M:s0182"
+        "MMycNJ05f8M:s0182",
+        "MMycNJ05f8M:s0183"
       ],
       "start_s": 935.88,
-      "end_s": 946.806,
-      "text": "Ancient DNA recovered from people who lived before, during, and after the pandemic has identified a strong candidate for selection near ERAP2, an immune gene.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 955.93,
+      "text": "Ancient DNA recovered from people who lived before, during, and after the pandemic has identified a strong candidate for selection near ERAP2, an immune gene. A version associated with producing full-length ERAP2 appears to have helped immune cells control Yersinia pestis more effectively.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.5900882723833544
     },
     {
-      "window_id": "MMycNJ05f8M:j0082",
+      "window_id": "MMycNJ05f8M:j0073",
       "video_id": "MMycNJ05f8M",
-      "idx": 82,
-      "sent_ids": [
-        "MMycNJ05f8M:s0183"
-      ],
-      "start_s": 947.846,
-      "end_s": 955.93,
-      "text": "A version associated with producing full-length ERAP2 appears to have helped immune cells control Yersinia pestis more effectively.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.5976330390920555
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0083",
-      "video_id": "MMycNJ05f8M",
-      "idx": 83,
+      "idx": 73,
       "sent_ids": [
         "MMycNJ05f8M:s0184",
         "MMycNJ05f8M:s0185",
@@ -1282,231 +1152,218 @@
       "pos_pct": 0.6034590163934427
     },
     {
+      "window_id": "MMycNJ05f8M:j0074",
+      "video_id": "MMycNJ05f8M",
+      "idx": 74,
+      "sent_ids": [
+        "MMycNJ05f8M:s0187",
+        "MMycNJ05f8M:s0188"
+      ],
+      "start_s": 973.036,
+      "end_s": 990.851,
+      "text": "Variants linked to stronger defense against plague are also associated today with increased risk of inflammatory or autoimmune diseases, including Crohn's disease. The immune system evolved during a period when failing to attack could mean being dead by Thursday.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.613515762925599
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0075",
+      "video_id": "MMycNJ05f8M",
+      "idx": 75,
+      "sent_ids": [
+        "MMycNJ05f8M:s0189",
+        "MMycNJ05f8M:s0190",
+        "MMycNJ05f8M:s0191",
+        "MMycNJ05f8M:s0192"
+      ],
+      "start_s": 992.391,
+      "end_s": 1006.574,
+      "text": "Modern descendants sometimes pay because it attacks on days when nothing required medieval intensity. This reveals the pattern behind many recent human traits. Selection rarely gives a free improvement. It shifts risk.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.6257194199243379
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0076",
+      "video_id": "MMycNJ05f8M",
+      "idx": 76,
+      "sent_ids": [
+        "MMycNJ05f8M:s0193",
+        "MMycNJ05f8M:s0194",
+        "MMycNJ05f8M:s0195"
+      ],
+      "start_s": 1007.514,
+      "end_s": 1019.005,
+      "text": "More clotting can stop bleeding and cause clots. More inflammation can defeat infection and attack the body. More red blood cells can carry oxygen and thicken blood.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.6352547288776798
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0077",
+      "video_id": "MMycNJ05f8M",
+      "idx": 77,
+      "sent_ids": [
+        "MMycNJ05f8M:s0196",
+        "MMycNJ05f8M:s0197",
+        "MMycNJ05f8M:s0198",
+        "MMycNJ05f8M:s0199"
+      ],
+      "start_s": 1020.606,
+      "end_s": 1035.51,
+      "text": "A larger spleen can support diving, but is not useful enough to spread everywhere. The trait survives when the local benefit outweighs the local cost. Then humans change the locality. Medicine removes diseases.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.6435094577553594
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0078",
+      "video_id": "MMycNJ05f8M",
+      "idx": 78,
+      "sent_ids": [
+        "MMycNJ05f8M:s0200",
+        "MMycNJ05f8M:s0201",
+        "MMycNJ05f8M:s0202",
+        "MMycNJ05f8M:s0203"
+      ],
+      "start_s": 1036.551,
+      "end_s": 1048.053,
+      "text": "Migration moves variants into new environments. Refrigeration transforms diets. Antibiotics alter survival. Caesarean delivery changes which births can succeed.",
+      "n_words": 19,
+      "n_sentences": 4,
+      "pos_pct": 0.6535630517023959
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0079",
+      "video_id": "MMycNJ05f8M",
+      "idx": 79,
+      "sent_ids": [
+        "MMycNJ05f8M:s0204",
+        "MMycNJ05f8M:s0205",
+        "MMycNJ05f8M:s0206",
+        "MMycNJ05f8M:s0207"
+      ],
+      "start_s": 1049.113,
+      "end_s": 1061.077,
+      "text": "Contraception separates mating from reproduction. Global travel mixes populations that were once partly isolated. These technologies do not end evolution. They rewrite the selective pressures.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.661483606557377
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0080",
+      "video_id": "MMycNJ05f8M",
+      "idx": 80,
+      "sent_ids": [
+        "MMycNJ05f8M:s0208",
+        "MMycNJ05f8M:s0209",
+        "MMycNJ05f8M:s0210"
+      ],
+      "start_s": 1061.957,
+      "end_s": 1073.561,
+      "text": "Consider childbirth. The human pelvis must allow efficient walking while also passing a baby with a very large head. Birth is therefore an unusually difficult compromise.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.6695819672131148
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0081",
+      "video_id": "MMycNJ05f8M",
+      "idx": 81,
+      "sent_ids": [
+        "MMycNJ05f8M:s0211",
+        "MMycNJ05f8M:s0212"
+      ],
+      "start_s": 1074.809,
+      "end_s": 1092.985,
+      "text": "Cesarean delivery allows mothers and babies to survive cases of obstructed labor that might once have been fatal. Some researchers have proposed that this could relax selection against combinations of narrow maternal pelvises and large newborn size, slowly increasing the frequency of difficult births.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.6776853720050441
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0082",
+      "video_id": "MMycNJ05f8M",
+      "idx": 82,
+      "sent_ids": [
+        "MMycNJ05f8M:s0213",
+        "MMycNJ05f8M:s0214"
+      ],
+      "start_s": 1094.627,
+      "end_s": 1101.697,
+      "text": "The logic is plausible. the evidence that this is already producing a major inherited anatomical change is limited.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.6901809583858763
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0083",
+      "video_id": "MMycNJ05f8M",
+      "idx": 83,
+      "sent_ids": [
+        "MMycNJ05f8M:s0215",
+        "MMycNJ05f8M:s0216"
+      ],
+      "start_s": 1102.478,
+      "end_s": 1118.285,
+      "text": "C-section rates are heavily shaped by access to hospitals, medical policy, economics, maternal age, previous surgery, and clinical preference. A rise in procedures is not automatically a rise in genes for large babies.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.6951311475409836
+    },
+    {
       "window_id": "MMycNJ05f8M:j0084",
       "video_id": "MMycNJ05f8M",
       "idx": 84,
       "sent_ids": [
-        "MMycNJ05f8M:s0187"
+        "MMycNJ05f8M:s0217",
+        "MMycNJ05f8M:s0218",
+        "MMycNJ05f8M:s0219",
+        "MMycNJ05f8M:s0220"
       ],
-      "start_s": 973.036,
-      "end_s": 983.602,
-      "text": "Variants linked to stronger defense against plague are also associated today with increased risk of inflammatory or autoimmune diseases, including Crohn's disease.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.613515762925599
+      "start_s": 1118.966,
+      "end_s": 1133.531,
+      "text": "This is where claims about humans evolving right now often go wrong. A trait can become more common without evolution. Average height can rise because nutrition improves. Earlier puberty can result from energy availability.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.7055271122320302
     },
     {
       "window_id": "MMycNJ05f8M:j0085",
       "video_id": "MMycNJ05f8M",
       "idx": 85,
       "sent_ids": [
-        "MMycNJ05f8M:s0188",
-        "MMycNJ05f8M:s0189"
+        "MMycNJ05f8M:s0221",
+        "MMycNJ05f8M:s0222",
+        "MMycNJ05f8M:s0223"
       ],
-      "start_s": 985.21,
-      "end_s": 998.072,
-      "text": "The immune system evolved during a period when failing to attack could mean being dead by Thursday. Modern descendants sometimes pay because it attacks on days when nothing required medieval intensity.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.6211916771752838
+      "start_s": 1134.272,
+      "end_s": 1147.43,
+      "text": "Nearsightedness can explode because children spend more time indoors and doing close work. Obesity can increase because food and activity change. None of those trends proves that allele frequencies shifted.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.7151778058007566
     },
     {
       "window_id": "MMycNJ05f8M:j0086",
       "video_id": "MMycNJ05f8M",
       "idx": 86,
       "sent_ids": [
-        "MMycNJ05f8M:s0190",
-        "MMycNJ05f8M:s0191",
-        "MMycNJ05f8M:s0192",
-        "MMycNJ05f8M:s0193"
+        "MMycNJ05f8M:s0224",
+        "MMycNJ05f8M:s0225",
+        "MMycNJ05f8M:s0226"
       ],
-      "start_s": 998.752,
-      "end_s": 1010.014,
-      "text": "This reveals the pattern behind many recent human traits. Selection rarely gives a free improvement. It shifts risk. More clotting can stop bleeding and cause clots.",
-      "n_words": 26,
-      "n_sentences": 4,
-      "pos_pct": 0.6297301387137453
+      "start_s": 1147.77,
+      "end_s": 1156.735,
+      "text": "The body develops in response to its environment. Genes are only part of the conversation. Even the famous extra artery deserves caution.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.723688524590164
     },
     {
       "window_id": "MMycNJ05f8M:j0087",
       "video_id": "MMycNJ05f8M",
       "idx": 87,
-      "sent_ids": [
-        "MMycNJ05f8M:s0194",
-        "MMycNJ05f8M:s0195",
-        "MMycNJ05f8M:s0196"
-      ],
-      "start_s": 1010.714,
-      "end_s": 1025.067,
-      "text": "More inflammation can defeat infection and attack the body. More red blood cells can carry oxygen and thicken blood. A larger spleen can support diving, but is not useful enough to spread everywhere.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.6372723833543507
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0088",
-      "video_id": "MMycNJ05f8M",
-      "idx": 88,
-      "sent_ids": [
-        "MMycNJ05f8M:s0197",
-        "MMycNJ05f8M:s0198",
-        "MMycNJ05f8M:s0199",
-        "MMycNJ05f8M:s0200"
-      ],
-      "start_s": 1026.627,
-      "end_s": 1038.911,
-      "text": "The trait survives when the local benefit outweighs the local cost. Then humans change the locality. Medicine removes diseases. Migration moves variants into new environments.",
-      "n_words": 25,
-      "n_sentences": 4,
-      "pos_pct": 0.6473058007566204
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0089",
-      "video_id": "MMycNJ05f8M",
-      "idx": 89,
-      "sent_ids": [
-        "MMycNJ05f8M:s0201",
-        "MMycNJ05f8M:s0202",
-        "MMycNJ05f8M:s0203",
-        "MMycNJ05f8M:s0204"
-      ],
-      "start_s": 1039.471,
-      "end_s": 1051.714,
-      "text": "Refrigeration transforms diets. Antibiotics alter survival. Caesarean delivery changes which births can succeed. Contraception separates mating from reproduction.",
-      "n_words": 18,
-      "n_sentences": 4,
-      "pos_pct": 0.6554041614123581
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0090",
-      "video_id": "MMycNJ05f8M",
-      "idx": 90,
-      "sent_ids": [
-        "MMycNJ05f8M:s0205",
-        "MMycNJ05f8M:s0206",
-        "MMycNJ05f8M:s0207",
-        "MMycNJ05f8M:s0208"
-      ],
-      "start_s": 1052.434,
-      "end_s": 1062.958,
-      "text": "Global travel mixes populations that were once partly isolated. These technologies do not end evolution. They rewrite the selective pressures. Consider childbirth.",
-      "n_words": 22,
-      "n_sentences": 4,
-      "pos_pct": 0.663577553593947
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0091",
-      "video_id": "MMycNJ05f8M",
-      "idx": 91,
-      "sent_ids": [
-        "MMycNJ05f8M:s0209",
-        "MMycNJ05f8M:s0210"
-      ],
-      "start_s": 1063.958,
-      "end_s": 1073.561,
-      "text": "The human pelvis must allow efficient walking while also passing a baby with a very large head. Birth is therefore an unusually difficult compromise.",
-      "n_words": 24,
-      "n_sentences": 2,
-      "pos_pct": 0.6708436317780581
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0092",
-      "video_id": "MMycNJ05f8M",
-      "idx": 92,
-      "sent_ids": [
-        "MMycNJ05f8M:s0211"
-      ],
-      "start_s": 1074.809,
-      "end_s": 1080.774,
-      "text": "Cesarean delivery allows mothers and babies to survive cases of obstructed labor that might once have been fatal.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.6776853720050441
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0093",
-      "video_id": "MMycNJ05f8M",
-      "idx": 93,
-      "sent_ids": [
-        "MMycNJ05f8M:s0212",
-        "MMycNJ05f8M:s0213"
-      ],
-      "start_s": 1082.136,
-      "end_s": 1095.768,
-      "text": "Some researchers have proposed that this could relax selection against combinations of narrow maternal pelvises and large newborn size, slowly increasing the frequency of difficult births. The logic is plausible.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.6823051702395965
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0094",
-      "video_id": "MMycNJ05f8M",
-      "idx": 94,
-      "sent_ids": [
-        "MMycNJ05f8M:s0214",
-        "MMycNJ05f8M:s0215"
-      ],
-      "start_s": 1096.575,
-      "end_s": 1113.063,
-      "text": "the evidence that this is already producing a major inherited anatomical change is limited. C-section rates are heavily shaped by access to hospitals, medical policy, economics, maternal age, previous surgery, and clinical preference.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.6914092055485498
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0095",
-      "video_id": "MMycNJ05f8M",
-      "idx": 95,
-      "sent_ids": [
-        "MMycNJ05f8M:s0216",
-        "MMycNJ05f8M:s0217",
-        "MMycNJ05f8M:s0218"
-      ],
-      "start_s": 1114.143,
-      "end_s": 1126.729,
-      "text": "A rise in procedures is not automatically a rise in genes for large babies. This is where claims about humans evolving right now often go wrong. A trait can become more common without evolution.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.7024861286254729
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0096",
-      "video_id": "MMycNJ05f8M",
-      "idx": 96,
-      "sent_ids": [
-        "MMycNJ05f8M:s0219",
-        "MMycNJ05f8M:s0220",
-        "MMycNJ05f8M:s0221",
-        "MMycNJ05f8M:s0222"
-      ],
-      "start_s": 1127.729,
-      "end_s": 1143.115,
-      "text": "Average height can rise because nutrition improves. Earlier puberty can result from energy availability. Nearsightedness can explode because children spend more time indoors and doing close work. Obesity can increase because food and activity change.",
-      "n_words": 35,
-      "n_sentences": 4,
-      "pos_pct": 0.7110523329129886
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0097",
-      "video_id": "MMycNJ05f8M",
-      "idx": 97,
-      "sent_ids": [
-        "MMycNJ05f8M:s0223",
-        "MMycNJ05f8M:s0224",
-        "MMycNJ05f8M:s0225",
-        "MMycNJ05f8M:s0226"
-      ],
-      "start_s": 1144.348,
-      "end_s": 1156.735,
-      "text": "None of those trends proves that allele frequencies shifted. The body develops in response to its environment. Genes are only part of the conversation. Even the famous extra artery deserves caution.",
-      "n_words": 31,
-      "n_sentences": 4,
-      "pos_pct": 0.721530895334174
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0098",
-      "video_id": "MMycNJ05f8M",
-      "idx": 98,
       "sent_ids": [
         "MMycNJ05f8M:s0227",
         "MMycNJ05f8M:s0228"
@@ -1519,193 +1376,193 @@
       "pos_pct": 0.7301021437578815
     },
     {
+      "window_id": "MMycNJ05f8M:j0088",
+      "video_id": "MMycNJ05f8M",
+      "idx": 88,
+      "sent_ids": [
+        "MMycNJ05f8M:s0229",
+        "MMycNJ05f8M:s0230"
+      ],
+      "start_s": 1169.908,
+      "end_s": 1184.795,
+      "text": "A study comparing anatomical reports found that persistent median arteries were recorded far more often in people born in the late 20th century than in those born in the late 19th century. The authors proposed microevolution as one possibility.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.7376469104665825
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0089",
+      "video_id": "MMycNJ05f8M",
+      "idx": 89,
+      "sent_ids": [
+        "MMycNJ05f8M:s0231",
+        "MMycNJ05f8M:s0232",
+        "MMycNJ05f8M:s0233"
+      ],
+      "start_s": 1185.295,
+      "end_s": 1195.522,
+      "text": "Headlines soon announced that humans were growing a new artery. But an increasing anatomical frequency does not reveal the cause. Genetic variants may contribute.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.7473486759142497
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0090",
+      "video_id": "MMycNJ05f8M",
+      "idx": 90,
+      "sent_ids": [
+        "MMycNJ05f8M:s0234",
+        "MMycNJ05f8M:s0235"
+      ],
+      "start_s": 1195.922,
+      "end_s": 1216.465,
+      "text": "So might maternal health, prenatal conditions, sampling differences, detection methods, ancestry, or bias in the cadavers studied. Until inheritance and changing gene frequencies are demonstrated, the artery is a fascinating trend, not proof that evolution has installed bonus plumbing.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.7540491803278688
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0091",
+      "video_id": "MMycNJ05f8M",
+      "idx": 91,
+      "sent_ids": [
+        "MMycNJ05f8M:s0236",
+        "MMycNJ05f8M:s0237"
+      ],
+      "start_s": 1216.966,
+      "end_s": 1226.893,
+      "text": "And it is not always a bonus. A persistent median artery may improve blood supply, but it can also compress the median nerve and contribute to carpal tunnel symptoms.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.7673177805800756
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0092",
+      "video_id": "MMycNJ05f8M",
+      "idx": 92,
+      "sent_ids": [
+        "MMycNJ05f8M:s0238",
+        "MMycNJ05f8M:s0239",
+        "MMycNJ05f8M:s0240"
+      ],
+      "start_s": 1227.594,
+      "end_s": 1241.307,
+      "text": "Evolution apparently remains committed to adding features without checking cable management. The most difficult traits to study are not single mutations with obvious effects. They are polygenic traits influenced by thousands of variants.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.7740189155107188
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0093",
+      "video_id": "MMycNJ05f8M",
+      "idx": 93,
+      "sent_ids": [
+        "MMycNJ05f8M:s0241",
+        "MMycNJ05f8M:s0242"
+      ],
+      "start_s": 1241.928,
+      "end_s": 1254.797,
+      "text": "Height, age, at first birth, body mass, disease risk, behavior, and fertility. Modern genetic studies can compare these variants with the number of children people have.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.7830567465321564
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0094",
+      "video_id": "MMycNJ05f8M",
+      "idx": 94,
+      "sent_ids": [
+        "MMycNJ05f8M:s0243",
+        "MMycNJ05f8M:s0244"
+      ],
+      "start_s": 1255.698,
+      "end_s": 1271.594,
+      "text": "Some find evidence that selection is acting on reproductive timing and other traits in contemporary populations. Historical records from a French-Canadian island population even suggested genetic change toward earlier age at first reproduction across roughly 140 years.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.7917389659520808
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0095",
+      "video_id": "MMycNJ05f8M",
+      "idx": 95,
+      "sent_ids": [
+        "MMycNJ05f8M:s0245",
+        "MMycNJ05f8M:s0246"
+      ],
+      "start_s": 1273.336,
+      "end_s": 1288.333,
+      "text": "but interpreting modern selection is extremely difficult. A genetic variant associated with education may affect fertility indirectly through income, family planning, social expectations, or the age at which people form partnerships.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.802860025220681
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0096",
+      "video_id": "MMycNJ05f8M",
+      "idx": 96,
+      "sent_ids": [
+        "MMycNJ05f8M:s0247",
+        "MMycNJ05f8M:s0248"
+      ],
+      "start_s": 1289.114,
+      "end_s": 1304.648,
+      "text": "Those environments can change within one generation. A statistical association between a polygenic score and number of children does not mean evolution has a simple preference for intelligence, height, or any other headline-friendly characteristic.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.8128083228247163
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0097",
+      "video_id": "MMycNJ05f8M",
+      "idx": 97,
+      "sent_ids": [
+        "MMycNJ05f8M:s0249",
+        "MMycNJ05f8M:s0250",
+        "MMycNJ05f8M:s0251",
+        "MMycNJ05f8M:s0252"
+      ],
+      "start_s": 1305.685,
+      "end_s": 1316.374,
+      "text": "Genes influence environments. Environments influence reproduction. Parents pass down culture as well as DNA. People choose partners non-randomly.",
+      "n_words": 18,
+      "n_sentences": 4,
+      "pos_pct": 0.8232566204287516
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0098",
+      "video_id": "MMycNJ05f8M",
+      "idx": 98,
+      "sent_ids": [
+        "MMycNJ05f8M:s0253",
+        "MMycNJ05f8M:s0254"
+      ],
+      "start_s": 1317.054,
+      "end_s": 1327.122,
+      "text": "Then researchers arrive with spreadsheets and discover that humanity has hidden the causal arrow under several other arrows. What can be said confidently is simpler.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.8304249684741488
+    },
+    {
       "window_id": "MMycNJ05f8M:j0099",
       "video_id": "MMycNJ05f8M",
       "idx": 99,
       "sent_ids": [
-        "MMycNJ05f8M:s0229"
+        "MMycNJ05f8M:s0255",
+        "MMycNJ05f8M:s0256"
       ],
-      "start_s": 1169.908,
-      "end_s": 1180.673,
-      "text": "A study comparing anatomical reports found that persistent median arteries were recorded far more often in people born in the late 20th century than in those born in the late 19th century.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.7376469104665825
+      "start_s": 1327.843,
+      "end_s": 1338.867,
+      "text": "As long as inherited differences affect reproductive success, humans will evolve. Modern medicine allows some people with once-fatal genetic conditions to survive and have children.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.8372276166456495
     },
     {
       "window_id": "MMycNJ05f8M:j0100",
       "video_id": "MMycNJ05f8M",
       "idx": 100,
-      "sent_ids": [
-        "MMycNJ05f8M:s0230",
-        "MMycNJ05f8M:s0231",
-        "MMycNJ05f8M:s0232",
-        "MMycNJ05f8M:s0233"
-      ],
-      "start_s": 1181.573,
-      "end_s": 1195.522,
-      "text": "The authors proposed microevolution as one possibility. Headlines soon announced that humans were growing a new artery. But an increasing anatomical frequency does not reveal the cause. Genetic variants may contribute.",
-      "n_words": 31,
-      "n_sentences": 4,
-      "pos_pct": 0.7450018915510719
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0101",
-      "video_id": "MMycNJ05f8M",
-      "idx": 101,
-      "sent_ids": [
-        "MMycNJ05f8M:s0234"
-      ],
-      "start_s": 1195.922,
-      "end_s": 1205.768,
-      "text": "So might maternal health, prenatal conditions, sampling differences, detection methods, ancestry, or bias in the cadavers studied.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.7540491803278688
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0102",
-      "video_id": "MMycNJ05f8M",
-      "idx": 102,
-      "sent_ids": [
-        "MMycNJ05f8M:s0235",
-        "MMycNJ05f8M:s0236"
-      ],
-      "start_s": 1207.298,
-      "end_s": 1218.587,
-      "text": "Until inheritance and changing gene frequencies are demonstrated, the artery is a fascinating trend, not proof that evolution has installed bonus plumbing. And it is not always a bonus.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.7612219419924338
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0103",
-      "video_id": "MMycNJ05f8M",
-      "idx": 103,
-      "sent_ids": [
-        "MMycNJ05f8M:s0237",
-        "MMycNJ05f8M:s0238"
-      ],
-      "start_s": 1218.827,
-      "end_s": 1232.298,
-      "text": "A persistent median artery may improve blood supply, but it can also compress the median nerve and contribute to carpal tunnel symptoms. Evolution apparently remains committed to adding features without checking cable management.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.7684911727616646
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0104",
-      "video_id": "MMycNJ05f8M",
-      "idx": 104,
-      "sent_ids": [
-        "MMycNJ05f8M:s0239",
-        "MMycNJ05f8M:s0240",
-        "MMycNJ05f8M:s0241"
-      ],
-      "start_s": 1233.038,
-      "end_s": 1249.356,
-      "text": "The most difficult traits to study are not single mutations with obvious effects. They are polygenic traits influenced by thousands of variants. Height, age, at first birth, body mass, disease risk, behavior, and fertility.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.7774514501891551
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0105",
-      "video_id": "MMycNJ05f8M",
-      "idx": 105,
-      "sent_ids": [
-        "MMycNJ05f8M:s0242",
-        "MMycNJ05f8M:s0243"
-      ],
-      "start_s": 1250.413,
-      "end_s": 1261.945,
-      "text": "Modern genetic studies can compare these variants with the number of children people have. Some find evidence that selection is acting on reproductive timing and other traits in contemporary populations.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.788406683480454
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0106",
-      "video_id": "MMycNJ05f8M",
-      "idx": 106,
-      "sent_ids": [
-        "MMycNJ05f8M:s0244",
-        "MMycNJ05f8M:s0245"
-      ],
-      "start_s": 1262.665,
-      "end_s": 1276.34,
-      "text": "Historical records from a French-Canadian island population even suggested genetic change toward earlier age at first reproduction across roughly 140 years. but interpreting modern selection is extremely difficult.",
-      "n_words": 28,
-      "n_sentences": 2,
-      "pos_pct": 0.7961317780580075
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0107",
-      "video_id": "MMycNJ05f8M",
-      "idx": 107,
-      "sent_ids": [
-        "MMycNJ05f8M:s0246",
-        "MMycNJ05f8M:s0247"
-      ],
-      "start_s": 1276.96,
-      "end_s": 1291.837,
-      "text": "A genetic variant associated with education may affect fertility indirectly through income, family planning, social expectations, or the age at which people form partnerships. Those environments can change within one generation.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.8051450189155107
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0108",
-      "video_id": "MMycNJ05f8M",
-      "idx": 108,
-      "sent_ids": [
-        "MMycNJ05f8M:s0248",
-        "MMycNJ05f8M:s0249",
-        "MMycNJ05f8M:s0250"
-      ],
-      "start_s": 1292.682,
-      "end_s": 1310.029,
-      "text": "A statistical association between a polygenic score and number of children does not mean evolution has a simple preference for intelligence, height, or any other headline-friendly characteristic. Genes influence environments. Environments influence reproduction.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.8150580075662043
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0109",
-      "video_id": "MMycNJ05f8M",
-      "idx": 109,
-      "sent_ids": [
-        "MMycNJ05f8M:s0251",
-        "MMycNJ05f8M:s0252",
-        "MMycNJ05f8M:s0253"
-      ],
-      "start_s": 1310.589,
-      "end_s": 1323.72,
-      "text": "Parents pass down culture as well as DNA. People choose partners non-randomly. Then researchers arrive with spreadsheets and discover that humanity has hidden the causal arrow under several other arrows.",
-      "n_words": 30,
-      "n_sentences": 3,
-      "pos_pct": 0.8263486759142497
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0110",
-      "video_id": "MMycNJ05f8M",
-      "idx": 110,
-      "sent_ids": [
-        "MMycNJ05f8M:s0254",
-        "MMycNJ05f8M:s0255",
-        "MMycNJ05f8M:s0256"
-      ],
-      "start_s": 1324.52,
-      "end_s": 1338.867,
-      "text": "What can be said confidently is simpler. As long as inherited differences affect reproductive success, humans will evolve. Modern medicine allows some people with once-fatal genetic conditions to survive and have children.",
-      "n_words": 32,
-      "n_sentences": 3,
-      "pos_pct": 0.8351324085750315
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0111",
-      "video_id": "MMycNJ05f8M",
-      "idx": 111,
       "sent_ids": [
         "MMycNJ05f8M:s0257",
         "MMycNJ05f8M:s0258"
@@ -1718,57 +1575,57 @@
       "pos_pct": 0.8446834804539722
     },
     {
-      "window_id": "MMycNJ05f8M:j0112",
+      "window_id": "MMycNJ05f8M:j0101",
       "video_id": "MMycNJ05f8M",
-      "idx": 112,
+      "idx": 101,
       "sent_ids": [
-        "MMycNJ05f8M:s0259"
+        "MMycNJ05f8M:s0259",
+        "MMycNJ05f8M:s0260"
       ],
       "start_s": 1347.233,
-      "end_s": 1357.26,
-      "text": "Novel pathogens, pollution, delayed reproduction, changing diets, urban density, heat, and social structures that affect who has children.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 1367.614,
+      "text": "Novel pathogens, pollution, delayed reproduction, changing diets, urban density, heat, and social structures that affect who has children. Climate change may eventually favor variants influencing heat tolerance, kidney function, water balance, or resistance to emerging disease.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.8494533417402269
     },
     {
-      "window_id": "MMycNJ05f8M:j0113",
+      "window_id": "MMycNJ05f8M:j0102",
       "video_id": "MMycNJ05f8M",
-      "idx": 113,
+      "idx": 102,
       "sent_ids": [
-        "MMycNJ05f8M:s0260",
         "MMycNJ05f8M:s0261",
         "MMycNJ05f8M:s0262",
-        "MMycNJ05f8M:s0263"
+        "MMycNJ05f8M:s0263",
+        "MMycNJ05f8M:s0264"
       ],
-      "start_s": 1358.292,
-      "end_s": 1375.955,
-      "text": "Climate change may eventually favor variants influencing heat tolerance, kidney function, water balance, or resistance to emerging disease. But predicting the winner is nearly impossible. Air conditioning changes heat exposure. Medicine changes survival.",
-      "n_words": 33,
+      "start_s": 1368.874,
+      "end_s": 1377.656,
+      "text": "But predicting the winner is nearly impossible. Air conditioning changes heat exposure. Medicine changes survival. Migration moves genes.",
+      "n_words": 18,
       "n_sentences": 4,
-      "pos_pct": 0.8564262295081967
+      "pos_pct": 0.8630983606557378
     },
     {
-      "window_id": "MMycNJ05f8M:j0114",
+      "window_id": "MMycNJ05f8M:j0103",
       "video_id": "MMycNJ05f8M",
-      "idx": 114,
+      "idx": 103,
       "sent_ids": [
-        "MMycNJ05f8M:s0264",
         "MMycNJ05f8M:s0265",
         "MMycNJ05f8M:s0266",
         "MMycNJ05f8M:s0267"
       ],
-      "start_s": 1376.395,
+      "start_s": 1378.436,
       "end_s": 1392.319,
-      "text": "Migration moves genes. A useful biological adaptation may spread too slowly to matter before technology transforms the environment again. Culture now evolves faster than anatomy. That may itself be the dominant human adaptation.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.8678404791929382
+      "text": "A useful biological adaptation may spread too slowly to matter before technology transforms the environment again. Culture now evolves faster than anatomy. That may itself be the dominant human adaptation.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.8691273644388398
     },
     {
-      "window_id": "MMycNJ05f8M:j0115",
+      "window_id": "MMycNJ05f8M:j0104",
       "video_id": "MMycNJ05f8M",
-      "idx": 115,
+      "idx": 104,
       "sent_ids": [
         "MMycNJ05f8M:s0268",
         "MMycNJ05f8M:s0269",
@@ -1783,9 +1640,9 @@
       "pos_pct": 0.8783354350567465
     },
     {
-      "window_id": "MMycNJ05f8M:j0116",
+      "window_id": "MMycNJ05f8M:j0105",
       "video_id": "MMycNJ05f8M",
-      "idx": 116,
+      "idx": 105,
       "sent_ids": [
         "MMycNJ05f8M:s0272",
         "MMycNJ05f8M:s0273",
@@ -1799,9 +1656,9 @@
       "pos_pct": 0.8847055485498109
     },
     {
-      "window_id": "MMycNJ05f8M:j0117",
+      "window_id": "MMycNJ05f8M:j0106",
       "video_id": "MMycNJ05f8M",
-      "idx": 117,
+      "idx": 106,
       "sent_ids": [
         "MMycNJ05f8M:s0275",
         "MMycNJ05f8M:s0276",
@@ -1816,9 +1673,9 @@
       "pos_pct": 0.8942944514501893
     },
     {
-      "window_id": "MMycNJ05f8M:j0118",
+      "window_id": "MMycNJ05f8M:j0107",
       "video_id": "MMycNJ05f8M",
-      "idx": 118,
+      "idx": 107,
       "sent_ids": [
         "MMycNJ05f8M:s0279",
         "MMycNJ05f8M:s0280",
@@ -1833,9 +1690,9 @@
       "pos_pct": 0.9026866330390921
     },
     {
-      "window_id": "MMycNJ05f8M:j0119",
+      "window_id": "MMycNJ05f8M:j0108",
       "video_id": "MMycNJ05f8M",
-      "idx": 119,
+      "idx": 108,
       "sent_ids": [
         "MMycNJ05f8M:s0283",
         "MMycNJ05f8M:s0284"
@@ -1848,172 +1705,159 @@
       "pos_pct": 0.9097742749054225
     },
     {
-      "window_id": "MMycNJ05f8M:j0120",
+      "window_id": "MMycNJ05f8M:j0109",
       "video_id": "MMycNJ05f8M",
-      "idx": 120,
+      "idx": 109,
       "sent_ids": [
-        "MMycNJ05f8M:s0285"
+        "MMycNJ05f8M:s0285",
+        "MMycNJ05f8M:s0286"
       ],
       "start_s": 1456.31,
-      "end_s": 1468.477,
-      "text": "Genetic engineering may eventually make some changes intentional, but edited inheritance would be design, not the blind process that produced lactase persistence or high-altitude adaptation.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 1473.477,
+      "text": "Genetic engineering may eventually make some changes intentional, but edited inheritance would be design, not the blind process that produced lactase persistence or high-altitude adaptation. The humans evolving now are not prototypes for a superior species.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.9182282471626734
     },
     {
-      "window_id": "MMycNJ05f8M:j0121",
+      "window_id": "MMycNJ05f8M:j0110",
       "video_id": "MMycNJ05f8M",
-      "idx": 121,
+      "idx": 110,
       "sent_ids": [
-        "MMycNJ05f8M:s0286",
-        "MMycNJ05f8M:s0287"
+        "MMycNJ05f8M:s0287",
+        "MMycNJ05f8M:s0288"
       ],
-      "start_s": 1469.293,
-      "end_s": 1478.361,
-      "text": "The humans evolving now are not prototypes for a superior species. They are evidence that evolution works with whatever problem is currently expensive enough.",
-      "n_words": 24,
+      "start_s": 1474.037,
+      "end_s": 1485.027,
+      "text": "They are evidence that evolution works with whatever problem is currently expensive enough. For herders, that problem may have been extracting nutrition from milk during hunger and disease.",
+      "n_words": 28,
       "n_sentences": 2,
-      "pos_pct": 0.9264142496847414
+      "pos_pct": 0.9294054224464061
     },
     {
-      "window_id": "MMycNJ05f8M:j0122",
+      "window_id": "MMycNJ05f8M:j0111",
       "video_id": "MMycNJ05f8M",
-      "idx": 122,
+      "idx": 111,
       "sent_ids": [
-        "MMycNJ05f8M:s0288",
-        "MMycNJ05f8M:s0289"
+        "MMycNJ05f8M:s0289",
+        "MMycNJ05f8M:s0290"
       ],
-      "start_s": 1479.562,
-      "end_s": 1490.171,
-      "text": "For herders, that problem may have been extracting nutrition from milk during hunger and disease. For Tibetan Highlanders, it was carrying oxygen without turning blood into sludge.",
-      "n_words": 27,
-      "n_sentences": 2,
-      "pos_pct": 0.932889029003783
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0123",
-      "video_id": "MMycNJ05f8M",
-      "idx": 123,
-      "sent_ids": [
-        "MMycNJ05f8M:s0290",
-        "MMycNJ05f8M:s0291"
-      ],
-      "start_s": 1491.078,
-      "end_s": 1501.364,
-      "text": "For Bajau divers, it was stretching the time between one breath and the next. For starch-eating populations, it was beginning digestion before food reached the stomach.",
+      "start_s": 1486.068,
+      "end_s": 1495.501,
+      "text": "For Tibetan Highlanders, it was carrying oxygen without turning blood into sludge. For Bajau divers, it was stretching the time between one breath and the next.",
       "n_words": 26,
       "n_sentences": 2,
-      "pos_pct": 0.9401500630517023
+      "pos_pct": 0.9369911727616645
     },
     {
-      "window_id": "MMycNJ05f8M:j0124",
+      "window_id": "MMycNJ05f8M:j0112",
       "video_id": "MMycNJ05f8M",
-      "idx": 124,
+      "idx": 112,
       "sent_ids": [
-        "MMycNJ05f8M:s0292",
-        "MMycNJ05f8M:s0293"
+        "MMycNJ05f8M:s0291",
+        "MMycNJ05f8M:s0292"
       ],
-      "start_s": 1502.125,
-      "end_s": 1514.372,
-      "text": "For communities facing malaria, plague, or sleeping sickness, it was surviving a parasite even when the defense created another illness. For modern humans, the strongest pressure may not yet be visible.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.9471153846153846
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0125",
-      "video_id": "MMycNJ05f8M",
-      "idx": 125,
-      "sent_ids": [
-        "MMycNJ05f8M:s0294",
-        "MMycNJ05f8M:s0295"
-      ],
-      "start_s": 1514.952,
-      "end_s": 1525.894,
-      "text": "It may be a new infection, reproductive pattern, diet, climate, or technology that changes which inherited differences matter. The trait may already exist as a rare variant in someone alive today.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.955203026481715
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0126",
-      "video_id": "MMycNJ05f8M",
-      "idx": 126,
-      "sent_ids": [
-        "MMycNJ05f8M:s0296",
-        "MMycNJ05f8M:s0297",
-        "MMycNJ05f8M:s0298"
-      ],
-      "start_s": 1526.434,
-      "end_s": 1536.296,
-      "text": "Nothing about that person will glow. They may never know. But if their descendants consistently survive or reproduce more successfully under tomorrow's conditions, the variant will spread.",
-      "n_words": 27,
-      "n_sentences": 3,
-      "pos_pct": 0.9624426229508196
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0127",
-      "video_id": "MMycNJ05f8M",
-      "idx": 127,
-      "sent_ids": [
-        "MMycNJ05f8M:s0299",
-        "MMycNJ05f8M:s0300",
-        "MMycNJ05f8M:s0301"
-      ],
-      "start_s": 1537.496,
-      "end_s": 1549.139,
-      "text": "Centuries later, scientists may examine our DNA and identify the moment selection began. they may call the trait an adaptation. We would have called it an odd family feature.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.9694174022698614
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0128",
-      "video_id": "MMycNJ05f8M",
-      "idx": 128,
-      "sent_ids": [
-        "MMycNJ05f8M:s0302",
-        "MMycNJ05f8M:s0303",
-        "MMycNJ05f8M:s0304"
-      ],
-      "start_s": 1549.841,
-      "end_s": 1558.043,
-      "text": "That is what human evolution looks like while it is happening. Not a march toward perfection. Not a species waiting to unlock telepathy.",
-      "n_words": 23,
-      "n_sentences": 3,
-      "pos_pct": 0.9772011349306431
-    },
-    {
-      "window_id": "MMycNJ05f8M:j0129",
-      "video_id": "MMycNJ05f8M",
-      "idx": 129,
-      "sent_ids": [
-        "MMycNJ05f8M:s0305",
-        "MMycNJ05f8M:s0306"
-      ],
-      "start_s": 1558.583,
-      "end_s": 1573.133,
-      "text": "Just milk-drinking adults, mountain populations with restrained blood responses, divers carrying extra oxygen and enlarged spleens, and immune systems still billing us for wars fought by our ancestors. Everyone is a compromise.",
+      "start_s": 1496.221,
+      "end_s": 1510.109,
+      "text": "For starch-eating populations, it was beginning digestion before food reached the stomach. For communities facing malaria, plague, or sleeping sickness, it was surviving a parasite even when the defense created another illness.",
       "n_words": 32,
       "n_sentences": 2,
-      "pos_pct": 0.9827131147540984
+      "pos_pct": 0.9433928121059268
     },
     {
-      "window_id": "MMycNJ05f8M:j0130",
+      "window_id": "MMycNJ05f8M:j0113",
       "video_id": "MMycNJ05f8M",
-      "idx": 130,
+      "idx": 113,
       "sent_ids": [
+        "MMycNJ05f8M:s0293",
+        "MMycNJ05f8M:s0294"
+      ],
+      "start_s": 1510.87,
+      "end_s": 1521.453,
+      "text": "For modern humans, the strongest pressure may not yet be visible. It may be a new infection, reproductive pattern, diet, climate, or technology that changes which inherited differences matter.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.9526292559899117
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0114",
+      "video_id": "MMycNJ05f8M",
+      "idx": 114,
+      "sent_ids": [
+        "MMycNJ05f8M:s0295",
+        "MMycNJ05f8M:s0296",
+        "MMycNJ05f8M:s0297"
+      ],
+      "start_s": 1522.013,
+      "end_s": 1529.235,
+      "text": "The trait may already exist as a rare variant in someone alive today. Nothing about that person will glow. They may never know.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.959655107187894
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0115",
+      "video_id": "MMycNJ05f8M",
+      "idx": 115,
+      "sent_ids": [
+        "MMycNJ05f8M:s0298",
+        "MMycNJ05f8M:s0299"
+      ],
+      "start_s": 1529.755,
+      "end_s": 1542.777,
+      "text": "But if their descendants consistently survive or reproduce more successfully under tomorrow's conditions, the variant will spread. Centuries later, scientists may examine our DNA and identify the moment selection began.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.9645365699873897
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0116",
+      "video_id": "MMycNJ05f8M",
+      "idx": 116,
+      "sent_ids": [
+        "MMycNJ05f8M:s0300",
+        "MMycNJ05f8M:s0301",
+        "MMycNJ05f8M:s0302",
+        "MMycNJ05f8M:s0303"
+      ],
+      "start_s": 1544.009,
+      "end_s": 1555.221,
+      "text": "they may call the trait an adaptation. We would have called it an odd family feature. That is what human evolution looks like while it is happening. Not a march toward perfection.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.9735239596469105
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0117",
+      "video_id": "MMycNJ05f8M",
+      "idx": 117,
+      "sent_ids": [
+        "MMycNJ05f8M:s0304",
+        "MMycNJ05f8M:s0305"
+      ],
+      "start_s": 1555.862,
+      "end_s": 1571.132,
+      "text": "Not a species waiting to unlock telepathy. Just milk-drinking adults, mountain populations with restrained blood responses, divers carrying extra oxygen and enlarged spleens, and immune systems still billing us for wars fought by our ancestors.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.9809974779319042
+    },
+    {
+      "window_id": "MMycNJ05f8M:j0118",
+      "video_id": "MMycNJ05f8M",
+      "idx": 118,
+      "sent_ids": [
+        "MMycNJ05f8M:s0306",
         "MMycNJ05f8M:s0307",
         "MMycNJ05f8M:s0308",
         "MMycNJ05f8M:s0309"
       ],
-      "start_s": 1573.834,
+      "start_s": 1571.952,
       "end_s": 1583.2,
-      "text": "Everyone solved a local problem. And somewhere in the human population right now, another strange solution has probably begun. Evolution simply has not told us which one yet.",
-      "n_words": 28,
-      "n_sentences": 3,
-      "pos_pct": 0.992329129886507
+      "text": "Everyone is a compromise. Everyone solved a local problem. And somewhere in the human population right now, another strange solution has probably begun. Evolution simply has not told us which one yet.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.9911424968474148
     }
   ]
 }

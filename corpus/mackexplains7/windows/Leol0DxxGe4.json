@@ -1,6 +1,6 @@
 {
   "video_id": "Leol0DxxGe4",
-  "generated_at": "2026-09-03T11:59:53.009937+00:00",
+  "generated_at": "2026-09-03T13:18:13.119345+00:00",
   "windows": [
     {
       "window_id": "Leol0DxxGe4:j0000",
@@ -217,13 +217,14 @@
       "video_id": "Leol0DxxGe4",
       "idx": 13,
       "sent_ids": [
-        "Leol0DxxGe4:s0041"
+        "Leol0DxxGe4:s0041",
+        "Leol0DxxGe4:s0042"
       ],
       "start_s": 149.677,
-      "end_s": 161.399,
-      "text": "There are dozens of verified accounts, not anecdotes from random people on social media, but documented, studied, peer-reviewed cases—squash—of wild dolphins actively seeking help from human divers.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 165.3,
+      "text": "There are dozens of verified accounts, not anecdotes from random people on social media, but documented, studied, peer-reviewed cases—squash—of wild dolphins actively seeking help from human divers. One of the most famous happened off the coast of Hawaii in 2013.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.1251479933110368
     },
     {
@@ -231,51 +232,37 @@
       "video_id": "Leol0DxxGe4",
       "idx": 14,
       "sent_ids": [
-        "Leol0DxxGe4:s0042",
-        "Leol0DxxGe4:s0043"
+        "Leol0DxxGe4:s0043",
+        "Leol0DxxGe4:s0044"
       ],
-      "start_s": 162.18,
-      "end_s": 170.441,
-      "text": "One of the most famous happened off the coast of Hawaii in 2013. A wild bottlenose dolphin approached a group of divers during a night dive.",
-      "n_words": 26,
+      "start_s": 166.581,
+      "end_s": 177.683,
+      "text": "A wild bottlenose dolphin approached a group of divers during a night dive. The dolphin had a fishing hook embedded in its pectoral fin, with a long line wrapped around it, severely limiting its movement.",
+      "n_words": 35,
       "n_sentences": 2,
-      "pos_pct": 0.13560200668896322
+      "pos_pct": 0.13928177257525082
     },
     {
       "window_id": "Leol0DxxGe4:j0015",
       "video_id": "Leol0DxxGe4",
       "idx": 15,
       "sent_ids": [
-        "Leol0DxxGe4:s0044",
         "Leol0DxxGe4:s0045",
         "Leol0DxxGe4:s0046",
-        "Leol0DxxGe4:s0047"
+        "Leol0DxxGe4:s0047",
+        "Leol0DxxGe4:s0048"
       ],
-      "start_s": 170.941,
-      "end_s": 182.924,
-      "text": "The dolphin had a fishing hook embedded in its pectoral fin, with a long line wrapped around it, severely limiting its movement. And here's what gets you. The dolphin didn't panic. It didn't flee.",
-      "n_words": 34,
+      "start_s": 178.283,
+      "end_s": 189.746,
+      "text": "And here's what gets you. The dolphin didn't panic. It didn't flee. It swam directly to one specific diver, Keller Leros, and held still while he worked on removing the hook.",
+      "n_words": 31,
       "n_sentences": 4,
-      "pos_pct": 0.14292725752508362
+      "pos_pct": 0.14906605351170568
     },
     {
       "window_id": "Leol0DxxGe4:j0016",
       "video_id": "Leol0DxxGe4",
       "idx": 16,
-      "sent_ids": [
-        "Leol0DxxGe4:s0048"
-      ],
-      "start_s": 183.584,
-      "end_s": 189.746,
-      "text": "It swam directly to one specific diver, Keller Leros, and held still while he worked on removing the hook.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.15349832775919733
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0017",
-      "video_id": "Leol0DxxGe4",
-      "idx": 17,
       "sent_ids": [
         "Leol0DxxGe4:s0049",
         "Leol0DxxGe4:s0050"
@@ -288,9 +275,9 @@
       "pos_pct": 0.15926923076923077
     },
     {
-      "window_id": "Leol0DxxGe4:j0018",
+      "window_id": "Leol0DxxGe4:j0017",
       "video_id": "Leol0DxxGe4",
-      "idx": 18,
+      "idx": 17,
       "sent_ids": [
         "Leol0DxxGe4:s0051",
         "Leol0DxxGe4:s0052",
@@ -304,9 +291,9 @@
       "pos_pct": 0.1687458193979933
     },
     {
-      "window_id": "Leol0DxxGe4:j0019",
+      "window_id": "Leol0DxxGe4:j0018",
       "video_id": "Leol0DxxGe4",
-      "idx": 19,
+      "idx": 18,
       "sent_ids": [
         "Leol0DxxGe4:s0054",
         "Leol0DxxGe4:s0055",
@@ -320,9 +307,9 @@
       "pos_pct": 0.1782633779264214
     },
     {
-      "window_id": "Leol0DxxGe4:j0020",
+      "window_id": "Leol0DxxGe4:j0019",
       "video_id": "Leol0DxxGe4",
-      "idx": 20,
+      "idx": 19,
       "sent_ids": [
         "Leol0DxxGe4:s0057",
         "Leol0DxxGe4:s0058",
@@ -337,9 +324,9 @@
       "pos_pct": 0.18301505016722408
     },
     {
-      "window_id": "Leol0DxxGe4:j0021",
+      "window_id": "Leol0DxxGe4:j0020",
       "video_id": "Leol0DxxGe4",
-      "idx": 21,
+      "idx": 20,
       "sent_ids": [
         "Leol0DxxGe4:s0061",
         "Leol0DxxGe4:s0062",
@@ -354,9 +341,9 @@
       "pos_pct": 0.19116555183946488
     },
     {
-      "window_id": "Leol0DxxGe4:j0022",
+      "window_id": "Leol0DxxGe4:j0021",
       "video_id": "Leol0DxxGe4",
-      "idx": 22,
+      "idx": 21,
       "sent_ids": [
         "Leol0DxxGe4:s0065",
         "Leol0DxxGe4:s0066",
@@ -370,9 +357,9 @@
       "pos_pct": 0.200185618729097
     },
     {
-      "window_id": "Leol0DxxGe4:j0023",
+      "window_id": "Leol0DxxGe4:j0022",
       "video_id": "Leol0DxxGe4",
-      "idx": 23,
+      "idx": 22,
       "sent_ids": [
         "Leol0DxxGe4:s0068",
         "Leol0DxxGe4:s0069",
@@ -386,9 +373,9 @@
       "pos_pct": 0.2090200668896321
     },
     {
-      "window_id": "Leol0DxxGe4:j0024",
+      "window_id": "Leol0DxxGe4:j0023",
       "video_id": "Leol0DxxGe4",
-      "idx": 24,
+      "idx": 23,
       "sent_ids": [
         "Leol0DxxGe4:s0071",
         "Leol0DxxGe4:s0072",
@@ -402,37 +389,24 @@
       "pos_pct": 0.21528929765886287
     },
     {
-      "window_id": "Leol0DxxGe4:j0025",
+      "window_id": "Leol0DxxGe4:j0024",
       "video_id": "Leol0DxxGe4",
-      "idx": 25,
+      "idx": 24,
       "sent_ids": [
-        "Leol0DxxGe4:s0074"
+        "Leol0DxxGe4:s0074",
+        "Leol0DxxGe4:s0075"
       ],
       "start_s": 273.694,
-      "end_s": 285.185,
-      "text": "Researchers at the University of Washington conducted experiments where they wore specific masks while trapping crows, and then continued walking around campus wearing neutral masks or the trapping mask at different times.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 291.151,
+      "text": "Researchers at the University of Washington conducted experiments where they wore specific masks while trapping crows, and then continued walking around campus wearing neutral masks or the trapping mask at different times. The crows didn't just remember the threatening face, they recruited other crows to mob that face.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.22884113712374585
     },
     {
-      "window_id": "Leol0DxxGe4:j0026",
+      "window_id": "Leol0DxxGe4:j0025",
       "video_id": "Leol0DxxGe4",
-      "idx": 26,
-      "sent_ids": [
-        "Leol0DxxGe4:s0075"
-      ],
-      "start_s": 286.287,
-      "end_s": 291.151,
-      "text": "The crows didn't just remember the threatening face, they recruited other crows to mob that face.",
-      "n_words": 16,
-      "n_sentences": 1,
-      "pos_pct": 0.2393704013377926
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0027",
-      "video_id": "Leol0DxxGe4",
-      "idx": 27,
+      "idx": 25,
       "sent_ids": [
         "Leol0DxxGe4:s0076",
         "Leol0DxxGe4:s0077",
@@ -447,9 +421,9 @@
       "pos_pct": 0.24402341137123743
     },
     {
-      "window_id": "Leol0DxxGe4:j0028",
+      "window_id": "Leol0DxxGe4:j0026",
       "video_id": "Leol0DxxGe4",
-      "idx": 28,
+      "idx": 26,
       "sent_ids": [
         "Leol0DxxGe4:s0080",
         "Leol0DxxGe4:s0081",
@@ -464,9 +438,9 @@
       "pos_pct": 0.2549824414715719
     },
     {
-      "window_id": "Leol0DxxGe4:j0029",
+      "window_id": "Leol0DxxGe4:j0027",
       "video_id": "Leol0DxxGe4",
-      "idx": 29,
+      "idx": 27,
       "sent_ids": [
         "Leol0DxxGe4:s0084",
         "Leol0DxxGe4:s0085",
@@ -480,9 +454,9 @@
       "pos_pct": 0.26323160535117057
     },
     {
-      "window_id": "Leol0DxxGe4:j0030",
+      "window_id": "Leol0DxxGe4:j0028",
       "video_id": "Leol0DxxGe4",
-      "idx": 30,
+      "idx": 28,
       "sent_ids": [
         "Leol0DxxGe4:s0087",
         "Leol0DxxGe4:s0088"
@@ -495,65 +469,39 @@
       "pos_pct": 0.27377675585284283
     },
     {
-      "window_id": "Leol0DxxGe4:j0031",
+      "window_id": "Leol0DxxGe4:j0029",
       "video_id": "Leol0DxxGe4",
-      "idx": 31,
+      "idx": 29,
       "sent_ids": [
-        "Leol0DxxGe4:s0089"
+        "Leol0DxxGe4:s0089",
+        "Leol0DxxGe4:s0090"
       ],
       "start_s": 336.806,
-      "end_s": 347.877,
-      "text": "If a crow is freed from a trap by a human, is it capable of associating that experience, that specific individual, that specific action, with something net positive?",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 352.742,
+      "text": "If a crow is freed from a trap by a human, is it capable of associating that experience, that specific individual, that specific action, with something net positive? Based on everything we know about corvid cognition, the answer appears to be yes.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.28161036789297655
     },
     {
-      "window_id": "Leol0DxxGe4:j0032",
+      "window_id": "Leol0DxxGe4:j0030",
       "video_id": "Leol0DxxGe4",
-      "idx": 32,
+      "idx": 30,
       "sent_ids": [
-        "Leol0DxxGe4:s0090"
-      ],
-      "start_s": 349.078,
-      "end_s": 352.742,
-      "text": "Based on everything we know about corvid cognition, the answer appears to be yes.",
-      "n_words": 14,
-      "n_sentences": 1,
-      "pos_pct": 0.29187123745819393
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0033",
-      "video_id": "Leol0DxxGe4",
-      "idx": 33,
-      "sent_ids": [
-        "Leol0DxxGe4:s0091"
+        "Leol0DxxGe4:s0091",
+        "Leol0DxxGe4:s0092"
       ],
       "start_s": 353.402,
-      "end_s": 363.35,
-      "text": "not in the reflective, language-mediated way a human processes an experience, but in a deep, encoded, behaviorally real way that absolutely shapes what happens next.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 372.577,
+      "text": "not in the reflective, language-mediated way a human processes an experience, but in a deep, encoded, behaviorally real way that absolutely shapes what happens next. Which means when a crow lets you help it, really lets you, stays calm, looks at you, doesn't immediately flee, it might be running a calculation.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.29548662207357856
     },
     {
-      "window_id": "Leol0DxxGe4:j0034",
+      "window_id": "Leol0DxxGe4:j0031",
       "video_id": "Leol0DxxGe4",
-      "idx": 34,
-      "sent_ids": [
-        "Leol0DxxGe4:s0092"
-      ],
-      "start_s": 363.51,
-      "end_s": 372.577,
-      "text": "Which means when a crow lets you help it, really lets you, stays calm, looks at you, doesn't immediately flee, it might be running a calculation.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.303938127090301
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0035",
-      "video_id": "Leol0DxxGe4",
-      "idx": 35,
+      "idx": 31,
       "sent_ids": [
         "Leol0DxxGe4:s0093",
         "Leol0DxxGe4:s0094"
@@ -566,9 +514,9 @@
       "pos_pct": 0.31207107023411373
     },
     {
-      "window_id": "Leol0DxxGe4:j0036",
+      "window_id": "Leol0DxxGe4:j0032",
       "video_id": "Leol0DxxGe4",
-      "idx": 36,
+      "idx": 32,
       "sent_ids": [
         "Leol0DxxGe4:s0095",
         "Leol0DxxGe4:s0096",
@@ -583,9 +531,9 @@
       "pos_pct": 0.3222123745819398
     },
     {
-      "window_id": "Leol0DxxGe4:j0037",
+      "window_id": "Leol0DxxGe4:j0033",
       "video_id": "Leol0DxxGe4",
-      "idx": 37,
+      "idx": 33,
       "sent_ids": [
         "Leol0DxxGe4:s0099",
         "Leol0DxxGe4:s0100",
@@ -599,37 +547,24 @@
       "pos_pct": 0.3305969899665552
     },
     {
-      "window_id": "Leol0DxxGe4:j0038",
+      "window_id": "Leol0DxxGe4:j0034",
       "video_id": "Leol0DxxGe4",
-      "idx": 38,
+      "idx": 34,
       "sent_ids": [
-        "Leol0DxxGe4:s0102"
+        "Leol0DxxGe4:s0102",
+        "Leol0DxxGe4:s0103"
       ],
       "start_s": 407.366,
-      "end_s": 410.53,
-      "text": "But here's where it gets complicated and fascinating.",
-      "n_words": 8,
-      "n_sentences": 1,
+      "end_s": 424.777,
+      "text": "But here's where it gets complicated and fascinating. Researchers studying animal cognition have identified something called prosocial behavior, helping behaviors that extend beyond narrow self-interest, and it appears across species in ways that suggest something deeper is going on beneath the surface.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.3406070234113712
     },
     {
-      "window_id": "Leol0DxxGe4:j0039",
+      "window_id": "Leol0DxxGe4:j0035",
       "video_id": "Leol0DxxGe4",
-      "idx": 39,
-      "sent_ids": [
-        "Leol0DxxGe4:s0103"
-      ],
-      "start_s": 411.645,
-      "end_s": 424.777,
-      "text": "Researchers studying animal cognition have identified something called prosocial behavior, helping behaviors that extend beyond narrow self-interest, and it appears across species in ways that suggest something deeper is going on beneath the surface.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.3441847826086956
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0040",
-      "video_id": "Leol0DxxGe4",
-      "idx": 40,
+      "idx": 35,
       "sent_ids": [
         "Leol0DxxGe4:s0104"
       ],
@@ -641,9 +576,9 @@
       "pos_pct": 0.35544983277591974
     },
     {
-      "window_id": "Leol0DxxGe4:j0041",
+      "window_id": "Leol0DxxGe4:j0036",
       "video_id": "Leol0DxxGe4",
-      "idx": 41,
+      "idx": 36,
       "sent_ids": [
         "Leol0DxxGe4:s0105"
       ],
@@ -655,9 +590,9 @@
       "pos_pct": 0.3647391304347826
     },
     {
-      "window_id": "Leol0DxxGe4:j0042",
+      "window_id": "Leol0DxxGe4:j0037",
       "video_id": "Leol0DxxGe4",
-      "idx": 42,
+      "idx": 37,
       "sent_ids": [
         "Leol0DxxGe4:s0106",
         "Leol0DxxGe4:s0107"
@@ -670,9 +605,9 @@
       "pos_pct": 0.37542725752508366
     },
     {
-      "window_id": "Leol0DxxGe4:j0043",
+      "window_id": "Leol0DxxGe4:j0038",
       "video_id": "Leol0DxxGe4",
-      "idx": 43,
+      "idx": 38,
       "sent_ids": [
         "Leol0DxxGe4:s0108",
         "Leol0DxxGe4:s0109",
@@ -687,9 +622,9 @@
       "pos_pct": 0.3858319397993311
     },
     {
-      "window_id": "Leol0DxxGe4:j0044",
+      "window_id": "Leol0DxxGe4:j0039",
       "video_id": "Leol0DxxGe4",
-      "idx": 44,
+      "idx": 39,
       "sent_ids": [
         "Leol0DxxGe4:s0112",
         "Leol0DxxGe4:s0113",
@@ -704,9 +639,9 @@
       "pos_pct": 0.39858110367892974
     },
     {
-      "window_id": "Leol0DxxGe4:j0045",
+      "window_id": "Leol0DxxGe4:j0040",
       "video_id": "Leol0DxxGe4",
-      "idx": 45,
+      "idx": 40,
       "sent_ids": [
         "Leol0DxxGe4:s0116",
         "Leol0DxxGe4:s0117",
@@ -720,97 +655,71 @@
       "pos_pct": 0.4098921404682274
     },
     {
-      "window_id": "Leol0DxxGe4:j0046",
+      "window_id": "Leol0DxxGe4:j0041",
       "video_id": "Leol0DxxGe4",
-      "idx": 46,
+      "idx": 41,
       "sent_ids": [
-        "Leol0DxxGe4:s0119"
+        "Leol0DxxGe4:s0119",
+        "Leol0DxxGe4:s0120"
       ],
       "start_s": 500.762,
-      "end_s": 509.231,
-      "text": "Researchers in Japan conducted a series of experiments with wild-born Capuchin monkeys, small, highly intelligent primates frequently used in cognition research.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 515.737,
+      "text": "Researchers in Japan conducted a series of experiments with wild-born Capuchin monkeys, small, highly intelligent primates frequently used in cognition research. They designed scenarios where a human would either actively help or actively obstruct a monkey's attempt to reach food.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.41869732441471574
     },
     {
-      "window_id": "Leol0DxxGe4:j0047",
+      "window_id": "Leol0DxxGe4:j0042",
       "video_id": "Leol0DxxGe4",
-      "idx": 47,
+      "idx": 42,
       "sent_ids": [
-        "Leol0DxxGe4:s0120",
         "Leol0DxxGe4:s0121",
-        "Leol0DxxGe4:s0122"
-      ],
-      "start_s": 509.671,
-      "end_s": 520.021,
-      "text": "They designed scenarios where a human would either actively help or actively obstruct a monkey's attempt to reach food. The monkeys could observe these scenarios from a neutral position. They were just watching.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.4261463210702341
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0048",
-      "video_id": "Leol0DxxGe4",
-      "idx": 48,
-      "sent_ids": [
+        "Leol0DxxGe4:s0122",
         "Leol0DxxGe4:s0123",
-        "Leol0DxxGe4:s0124",
-        "Leol0DxxGe4:s0125"
+        "Leol0DxxGe4:s0124"
       ],
-      "start_s": 520.201,
-      "end_s": 528.668,
-      "text": "And then they were given a choice. Accept food from the helpful human or from the obstructive one. Overwhelmingly and consistently, the monkeys chose food from the helpful individual.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.4349506688963211
+      "start_s": 516.257,
+      "end_s": 524.665,
+      "text": "The monkeys could observe these scenarios from a neutral position. They were just watching. And then they were given a choice. Accept food from the helpful human or from the obstructive one.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.43165301003344475
     },
     {
-      "window_id": "Leol0DxxGe4:j0049",
+      "window_id": "Leol0DxxGe4:j0043",
       "video_id": "Leol0DxxGe4",
-      "idx": 49,
+      "idx": 43,
       "sent_ids": [
+        "Leol0DxxGe4:s0125",
         "Leol0DxxGe4:s0126"
       ],
-      "start_s": 528.728,
+      "start_s": 524.905,
       "end_s": 530.33,
-      "text": "But here's the part that really matters.",
-      "n_words": 7,
-      "n_sentences": 1,
-      "pos_pct": 0.44208026755852836
+      "text": "Overwhelmingly and consistently, the monkeys chose food from the helpful individual. But here's the part that really matters.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.438883779264214
     },
     {
-      "window_id": "Leol0DxxGe4:j0050",
+      "window_id": "Leol0DxxGe4:j0044",
       "video_id": "Leol0DxxGe4",
-      "idx": 50,
+      "idx": 44,
       "sent_ids": [
-        "Leol0DxxGe4:s0127"
+        "Leol0DxxGe4:s0127",
+        "Leol0DxxGe4:s0128"
       ],
       "start_s": 530.59,
-      "end_s": 542.636,
-      "text": "When the monkeys observed a human being obstructive or unkind to a completely different third party, not themselves, not anyone they knew, just some other individual, they still subsequently rejected food from that human.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 548.819,
+      "text": "When the monkeys observed a human being obstructive or unkind to a completely different third party, not themselves, not anyone they knew, just some other individual, they still subsequently rejected food from that human. They didn't just track whether someone was good or bad to them personally, they tracked whether someone was good or bad in general.",
+      "n_words": 57,
+      "n_sentences": 2,
       "pos_pct": 0.44363712374581943
     },
     {
-      "window_id": "Leol0DxxGe4:j0051",
+      "window_id": "Leol0DxxGe4:j0045",
       "video_id": "Leol0DxxGe4",
-      "idx": 51,
-      "sent_ids": [
-        "Leol0DxxGe4:s0128"
-      ],
-      "start_s": 542.796,
-      "end_s": 548.819,
-      "text": "They didn't just track whether someone was good or bad to them personally, they tracked whether someone was good or bad in general.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.4538428093645485
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0052",
-      "video_id": "Leol0DxxGe4",
-      "idx": 52,
+      "idx": 45,
       "sent_ids": [
         "Leol0DxxGe4:s0129",
         "Leol0DxxGe4:s0130"
@@ -823,9 +732,9 @@
       "pos_pct": 0.45897909698996653
     },
     {
-      "window_id": "Leol0DxxGe4:j0053",
+      "window_id": "Leol0DxxGe4:j0046",
       "video_id": "Leol0DxxGe4",
-      "idx": 53,
+      "idx": 46,
       "sent_ids": [
         "Leol0DxxGe4:s0131",
         "Leol0DxxGe4:s0132"
@@ -838,9 +747,9 @@
       "pos_pct": 0.4657048494983277
     },
     {
-      "window_id": "Leol0DxxGe4:j0054",
+      "window_id": "Leol0DxxGe4:j0047",
       "video_id": "Leol0DxxGe4",
-      "idx": 54,
+      "idx": 47,
       "sent_ids": [
         "Leol0DxxGe4:s0133",
         "Leol0DxxGe4:s0134"
@@ -853,9 +762,9 @@
       "pos_pct": 0.4746923076923077
     },
     {
-      "window_id": "Leol0DxxGe4:j0055",
+      "window_id": "Leol0DxxGe4:j0048",
       "video_id": "Leol0DxxGe4",
-      "idx": 55,
+      "idx": 48,
       "sent_ids": [
         "Leol0DxxGe4:s0135",
         "Leol0DxxGe4:s0136"
@@ -868,9 +777,9 @@
       "pos_pct": 0.48297742474916383
     },
     {
-      "window_id": "Leol0DxxGe4:j0056",
+      "window_id": "Leol0DxxGe4:j0049",
       "video_id": "Leol0DxxGe4",
-      "idx": 56,
+      "idx": 49,
       "sent_ids": [
         "Leol0DxxGe4:s0137",
         "Leol0DxxGe4:s0138"
@@ -883,9 +792,9 @@
       "pos_pct": 0.49236622073578595
     },
     {
-      "window_id": "Leol0DxxGe4:j0057",
+      "window_id": "Leol0DxxGe4:j0050",
       "video_id": "Leol0DxxGe4",
-      "idx": 57,
+      "idx": 50,
       "sent_ids": [
         "Leol0DxxGe4:s0139",
         "Leol0DxxGe4:s0140",
@@ -899,37 +808,24 @@
       "pos_pct": 0.5030936454849498
     },
     {
-      "window_id": "Leol0DxxGe4:j0058",
+      "window_id": "Leol0DxxGe4:j0051",
       "video_id": "Leol0DxxGe4",
-      "idx": 58,
+      "idx": 51,
       "sent_ids": [
-        "Leol0DxxGe4:s0142"
+        "Leol0DxxGe4:s0142",
+        "Leol0DxxGe4:s0143"
       ],
       "start_s": 609.967,
-      "end_s": 618.134,
-      "text": "This is genuinely important because it means we have to be very careful about interpreting an animal's stillness as understanding or acceptance.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 625.541,
+      "text": "This is genuinely important because it means we have to be very careful about interpreting an animal's stillness as understanding or acceptance. Wildlife rehabilitators, the people who literally dedicate their careers to this work, are acutely aware of the difference.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.5100058528428093
     },
     {
-      "window_id": "Leol0DxxGe4:j0059",
+      "window_id": "Leol0DxxGe4:j0052",
       "video_id": "Leol0DxxGe4",
-      "idx": 59,
-      "sent_ids": [
-        "Leol0DxxGe4:s0143"
-      ],
-      "start_s": 619.115,
-      "end_s": 625.541,
-      "text": "Wildlife rehabilitators, the people who literally dedicate their careers to this work, are acutely aware of the difference.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.5176546822742475
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0060",
-      "video_id": "Leol0DxxGe4",
-      "idx": 60,
+      "idx": 52,
       "sent_ids": [
         "Leol0DxxGe4:s0144",
         "Leol0DxxGe4:s0145"
@@ -942,9 +838,9 @@
       "pos_pct": 0.5233285953177257
     },
     {
-      "window_id": "Leol0DxxGe4:j0061",
+      "window_id": "Leol0DxxGe4:j0053",
       "video_id": "Leol0DxxGe4",
-      "idx": 61,
+      "idx": 53,
       "sent_ids": [
         "Leol0DxxGe4:s0146",
         "Leol0DxxGe4:s0147",
@@ -959,9 +855,9 @@
       "pos_pct": 0.5326321070234113
     },
     {
-      "window_id": "Leol0DxxGe4:j0062",
+      "window_id": "Leol0DxxGe4:j0054",
       "video_id": "Leol0DxxGe4",
-      "idx": 62,
+      "idx": 54,
       "sent_ids": [
         "Leol0DxxGe4:s0150",
         "Leol0DxxGe4:s0151"
@@ -974,9 +870,9 @@
       "pos_pct": 0.542502508361204
     },
     {
-      "window_id": "Leol0DxxGe4:j0063",
+      "window_id": "Leol0DxxGe4:j0055",
       "video_id": "Leol0DxxGe4",
-      "idx": 63,
+      "idx": 55,
       "sent_ids": [
         "Leol0DxxGe4:s0152",
         "Leol0DxxGe4:s0153",
@@ -991,9 +887,9 @@
       "pos_pct": 0.5506839464882943
     },
     {
-      "window_id": "Leol0DxxGe4:j0064",
+      "window_id": "Leol0DxxGe4:j0056",
       "video_id": "Leol0DxxGe4",
-      "idx": 64,
+      "idx": 56,
       "sent_ids": [
         "Leol0DxxGe4:s0156",
         "Leol0DxxGe4:s0157",
@@ -1008,9 +904,9 @@
       "pos_pct": 0.5579122073578595
     },
     {
-      "window_id": "Leol0DxxGe4:j0065",
+      "window_id": "Leol0DxxGe4:j0057",
       "video_id": "Leol0DxxGe4",
-      "idx": 65,
+      "idx": 57,
       "sent_ids": [
         "Leol0DxxGe4:s0160",
         "Leol0DxxGe4:s0161",
@@ -1024,9 +920,9 @@
       "pos_pct": 0.5607725752508361
     },
     {
-      "window_id": "Leol0DxxGe4:j0066",
+      "window_id": "Leol0DxxGe4:j0058",
       "video_id": "Leol0DxxGe4",
-      "idx": 66,
+      "idx": 58,
       "sent_ids": [
         "Leol0DxxGe4:s0163",
         "Leol0DxxGe4:s0164"
@@ -1039,9 +935,9 @@
       "pos_pct": 0.5690551839464884
     },
     {
-      "window_id": "Leol0DxxGe4:j0067",
+      "window_id": "Leol0DxxGe4:j0059",
       "video_id": "Leol0DxxGe4",
-      "idx": 67,
+      "idx": 59,
       "sent_ids": [
         "Leol0DxxGe4:s0165",
         "Leol0DxxGe4:s0166",
@@ -1055,9 +951,9 @@
       "pos_pct": 0.5792633779264214
     },
     {
-      "window_id": "Leol0DxxGe4:j0068",
+      "window_id": "Leol0DxxGe4:j0060",
       "video_id": "Leol0DxxGe4",
-      "idx": 68,
+      "idx": 60,
       "sent_ids": [
         "Leol0DxxGe4:s0168",
         "Leol0DxxGe4:s0169",
@@ -1072,197 +968,184 @@
       "pos_pct": 0.5898260869565217
     },
     {
+      "window_id": "Leol0DxxGe4:j0061",
+      "video_id": "Leol0DxxGe4",
+      "idx": 61,
+      "sent_ids": [
+        "Leol0DxxGe4:s0172",
+        "Leol0DxxGe4:s0173"
+      ],
+      "start_s": 714.719,
+      "end_s": 734.404,
+      "text": "The divers, tiny relative to the animal, completely vulnerable, swam around this creature methodically, working with specialized knives to cut through thick lines without injuring the whale further. The whale held still, a 50-foot, 50-ton animal that could have ended every diver present with a single involuntary movement.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.5975911371237459
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0062",
+      "video_id": "Leol0DxxGe4",
+      "idx": 62,
+      "sent_ids": [
+        "Leol0DxxGe4:s0174",
+        "Leol0DxxGe4:s0175"
+      ],
+      "start_s": 735.064,
+      "end_s": 744.906,
+      "text": "That could have panicked and caused catastrophic injury to itself and the entire team. It held still for over an hour as strangers worked all around its body.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.6146020066889631
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0063",
+      "video_id": "Leol0DxxGe4",
+      "idx": 63,
+      "sent_ids": [
+        "Leol0DxxGe4:s0176",
+        "Leol0DxxGe4:s0177",
+        "Leol0DxxGe4:s0178",
+        "Leol0DxxGe4:s0179"
+      ],
+      "start_s": 745.346,
+      "end_s": 759.79,
+      "text": "And then, when the last line was finally cut, the whale didn't just disappear into the deep. It circled back. It approached each diver individually, slowly, deliberately. One diver described being nudged gently, firmly.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.6231989966555184
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0064",
+      "video_id": "Leol0DxxGe4",
+      "idx": 64,
+      "sent_ids": [
+        "Leol0DxxGe4:s0180",
+        "Leol0DxxGe4:s0181",
+        "Leol0DxxGe4:s0182"
+      ],
+      "start_s": 760.01,
+      "end_s": 769.753,
+      "text": "Contact that felt intentional rather than accidental. Another said the whale positioned itself so that its eye was level with his face. and just stayed there, looking.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.6354598662207358
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0065",
+      "video_id": "Leol0DxxGe4",
+      "idx": 65,
+      "sent_ids": [
+        "Leol0DxxGe4:s0183",
+        "Leol0DxxGe4:s0184",
+        "Leol0DxxGe4:s0185"
+      ],
+      "start_s": 770.033,
+      "end_s": 780.677,
+      "text": "Eye contact with an animal whose eye is the size of a grapefruit. Marine biologists have discussed this encounter in depth. Was the whale simply recalibrating its position after being restricted for hours?",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.6438403010033444
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0066",
+      "video_id": "Leol0DxxGe4",
+      "idx": 66,
+      "sent_ids": [
+        "Leol0DxxGe4:s0186",
+        "Leol0DxxGe4:s0187",
+        "Leol0DxxGe4:s0188",
+        "Leol0DxxGe4:s0189"
+      ],
+      "start_s": 780.957,
+      "end_s": 790.721,
+      "text": "Was it investigating these strange neoprene-covered objects that had been swarming it? Possibly. Those are legitimate hypotheses. But here's what's harder to explain away.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.6529740802675585
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0067",
+      "video_id": "Leol0DxxGe4",
+      "idx": 67,
+      "sent_ids": [
+        "Leol0DxxGe4:s0190",
+        "Leol0DxxGe4:s0191",
+        "Leol0DxxGe4:s0192",
+        "Leol0DxxGe4:s0193"
+      ],
+      "start_s": 790.881,
+      "end_s": 802.187,
+      "text": "The whale distinguished between divers. It approached each one specifically. It did not behave uniformly toward the water around it. It behaved differently toward the individuals who had been working on freeing it.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.6612717391304348
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0068",
+      "video_id": "Leol0DxxGe4",
+      "idx": 68,
+      "sent_ids": [
+        "Leol0DxxGe4:s0194",
+        "Leol0DxxGe4:s0195",
+        "Leol0DxxGe4:s0196"
+      ],
+      "start_s": 802.447,
+      "end_s": 812.613,
+      "text": "That is not random post-stress behavior. That suggests something, some form of registration, some form of recognition, of what had just happened. And who had caused it?",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.6709423076923077
+    },
+    {
       "window_id": "Leol0DxxGe4:j0069",
       "video_id": "Leol0DxxGe4",
       "idx": 69,
       "sent_ids": [
-        "Leol0DxxGe4:s0172"
+        "Leol0DxxGe4:s0197",
+        "Leol0DxxGe4:s0198"
       ],
-      "start_s": 714.719,
-      "end_s": 725.922,
-      "text": "The divers, tiny relative to the animal, completely vulnerable, swam around this creature methodically, working with specialized knives to cut through thick lines without injuring the whale further.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.5975911371237459
+      "start_s": 813.073,
+      "end_s": 824.38,
+      "text": "Let's zoom all the way out now and ask the evolutionary question. Because it's the one that really ties everything together, why would wild animals have any capacity to recognize helping behavior from humans?",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.679826923076923
     },
     {
       "window_id": "Leol0DxxGe4:j0070",
       "video_id": "Leol0DxxGe4",
       "idx": 70,
       "sent_ids": [
-        "Leol0DxxGe4:s0173",
-        "Leol0DxxGe4:s0174"
+        "Leol0DxxGe4:s0199",
+        "Leol0DxxGe4:s0200"
       ],
-      "start_s": 726.622,
-      "end_s": 739.345,
-      "text": "The whale held still, a 50-foot, 50-ton animal that could have ended every diver present with a single involuntary movement. That could have panicked and caused catastrophic injury to itself and the entire team.",
-      "n_words": 34,
+      "start_s": 824.64,
+      "end_s": 834.768,
+      "text": "Evolutionarily, it's almost paradoxical. For the vast majority of our shared history, a human approaching a wild animal meant one of a very small number of things, and none of them were good.",
+      "n_words": 33,
       "n_sentences": 2,
-      "pos_pct": 0.6075434782608695
+      "pos_pct": 0.6894983277591973
     },
     {
       "window_id": "Leol0DxxGe4:j0071",
       "video_id": "Leol0DxxGe4",
       "idx": 71,
       "sent_ids": [
-        "Leol0DxxGe4:s0175",
-        "Leol0DxxGe4:s0176",
-        "Leol0DxxGe4:s0177"
+        "Leol0DxxGe4:s0201",
+        "Leol0DxxGe4:s0202",
+        "Leol0DxxGe4:s0203"
       ],
-      "start_s": 739.985,
-      "end_s": 751.648,
-      "text": "It held still for over an hour as strangers worked all around its body. And then, when the last line was finally cut, the whale didn't just disappear into the deep. It circled back.",
-      "n_words": 34,
+      "start_s": 834.928,
+      "end_s": 842.553,
+      "text": "Predation, trapping, capture. The instinct to flee from humans is ancient and deeply wired. So where does this openness come from?",
+      "n_words": 21,
       "n_sentences": 3,
-      "pos_pct": 0.6187165551839465
+      "pos_pct": 0.6981003344481606
     },
     {
       "window_id": "Leol0DxxGe4:j0072",
       "video_id": "Leol0DxxGe4",
       "idx": 72,
-      "sent_ids": [
-        "Leol0DxxGe4:s0178",
-        "Leol0DxxGe4:s0179",
-        "Leol0DxxGe4:s0180"
-      ],
-      "start_s": 752.528,
-      "end_s": 763.211,
-      "text": "It approached each diver individually, slowly, deliberately. One diver described being nudged gently, firmly. Contact that felt intentional rather than accidental.",
-      "n_words": 21,
-      "n_sentences": 3,
-      "pos_pct": 0.6292040133779264
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0073",
-      "video_id": "Leol0DxxGe4",
-      "idx": 73,
-      "sent_ids": [
-        "Leol0DxxGe4:s0181",
-        "Leol0DxxGe4:s0182",
-        "Leol0DxxGe4:s0183"
-      ],
-      "start_s": 763.451,
-      "end_s": 773.414,
-      "text": "Another said the whale positioned itself so that its eye was level with his face. and just stayed there, looking. Eye contact with an animal whose eye is the size of a grapefruit.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.6383369565217392
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0074",
-      "video_id": "Leol0DxxGe4",
-      "idx": 74,
-      "sent_ids": [
-        "Leol0DxxGe4:s0184",
-        "Leol0DxxGe4:s0185",
-        "Leol0DxxGe4:s0186",
-        "Leol0DxxGe4:s0187"
-      ],
-      "start_s": 773.594,
-      "end_s": 786.659,
-      "text": "Marine biologists have discussed this encounter in depth. Was the whale simply recalibrating its position after being restricted for hours? Was it investigating these strange neoprene-covered objects that had been swarming it? Possibly.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.6468177257525084
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0075",
-      "video_id": "Leol0DxxGe4",
-      "idx": 75,
-      "sent_ids": [
-        "Leol0DxxGe4:s0188",
-        "Leol0DxxGe4:s0189",
-        "Leol0DxxGe4:s0190",
-        "Leol0DxxGe4:s0191"
-      ],
-      "start_s": 786.84,
-      "end_s": 795.043,
-      "text": "Those are legitimate hypotheses. But here's what's harder to explain away. The whale distinguished between divers. It approached each one specifically.",
-      "n_words": 21,
-      "n_sentences": 4,
-      "pos_pct": 0.6578929765886288
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0076",
-      "video_id": "Leol0DxxGe4",
-      "idx": 76,
-      "sent_ids": [
-        "Leol0DxxGe4:s0192",
-        "Leol0DxxGe4:s0193",
-        "Leol0DxxGe4:s0194"
-      ],
-      "start_s": 795.503,
-      "end_s": 804.889,
-      "text": "It did not behave uniformly toward the water around it. It behaved differently toward the individuals who had been working on freeing it. That is not random post-stress behavior.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.6651362876254181
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0077",
-      "video_id": "Leol0DxxGe4",
-      "idx": 77,
-      "sent_ids": [
-        "Leol0DxxGe4:s0195",
-        "Leol0DxxGe4:s0196",
-        "Leol0DxxGe4:s0197"
-      ],
-      "start_s": 805.429,
-      "end_s": 816.695,
-      "text": "That suggests something, some form of registration, some form of recognition, of what had just happened. And who had caused it? Let's zoom all the way out now and ask the evolutionary question.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.673435618729097
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0078",
-      "video_id": "Leol0DxxGe4",
-      "idx": 78,
-      "sent_ids": [
-        "Leol0DxxGe4:s0198",
-        "Leol0DxxGe4:s0199"
-      ],
-      "start_s": 816.815,
-      "end_s": 826.942,
-      "text": "Because it's the one that really ties everything together, why would wild animals have any capacity to recognize helping behavior from humans? Evolutionarily, it's almost paradoxical.",
-      "n_words": 26,
-      "n_sentences": 2,
-      "pos_pct": 0.6829556856187291
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0079",
-      "video_id": "Leol0DxxGe4",
-      "idx": 79,
-      "sent_ids": [
-        "Leol0DxxGe4:s0200",
-        "Leol0DxxGe4:s0201"
-      ],
-      "start_s": 826.982,
-      "end_s": 836.949,
-      "text": "For the vast majority of our shared history, a human approaching a wild animal meant one of a very small number of things, and none of them were good. Predation, trapping, capture.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.6914565217391304
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0080",
-      "video_id": "Leol0DxxGe4",
-      "idx": 80,
-      "sent_ids": [
-        "Leol0DxxGe4:s0202",
-        "Leol0DxxGe4:s0203"
-      ],
-      "start_s": 837.069,
-      "end_s": 842.553,
-      "text": "The instinct to flee from humans is ancient and deeply wired. So where does this openness come from?",
-      "n_words": 18,
-      "n_sentences": 2,
-      "pos_pct": 0.6998904682274247
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0081",
-      "video_id": "Leol0DxxGe4",
-      "idx": 81,
       "sent_ids": [
         "Leol0DxxGe4:s0204",
         "Leol0DxxGe4:s0205"
@@ -1275,9 +1158,9 @@
       "pos_pct": 0.7047767558528428
     },
     {
-      "window_id": "Leol0DxxGe4:j0082",
+      "window_id": "Leol0DxxGe4:j0073",
       "video_id": "Leol0DxxGe4",
-      "idx": 82,
+      "idx": 73,
       "sent_ids": [
         "Leol0DxxGe4:s0206",
         "Leol0DxxGe4:s0207",
@@ -1291,9 +1174,9 @@
       "pos_pct": 0.7168545150501672
     },
     {
-      "window_id": "Leol0DxxGe4:j0083",
+      "window_id": "Leol0DxxGe4:j0074",
       "video_id": "Leol0DxxGe4",
-      "idx": 83,
+      "idx": 74,
       "sent_ids": [
         "Leol0DxxGe4:s0209",
         "Leol0DxxGe4:s0210"
@@ -1306,178 +1189,165 @@
       "pos_pct": 0.7271931438127089
     },
     {
+      "window_id": "Leol0DxxGe4:j0075",
+      "video_id": "Leol0DxxGe4",
+      "idx": 75,
+      "sent_ids": [
+        "Leol0DxxGe4:s0211",
+        "Leol0DxxGe4:s0212"
+      ],
+      "start_s": 884.258,
+      "end_s": 901.652,
+      "text": "That tool works on creatures the animal was never specifically evolved alongside because the underlying behaviors—approach without threat posture, slow movements, vocalizations that don't signal aggression, read the same way regardless of species. A dolphin reading a diver's body language isn't doing something miraculous.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.7393461538461539
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0076",
+      "video_id": "Leol0DxxGe4",
+      "idx": 76,
+      "sent_ids": [
+        "Leol0DxxGe4:s0213",
+        "Leol0DxxGe4:s0214"
+      ],
+      "start_s": 901.872,
+      "end_s": 918.226,
+      "text": "It's doing something very ordinary, reading social cues and applying it to an unusual subject, which leads to an idea that is simultaneously simple and profound. Wild animals might understand human kindness not because they know what a human is, but because they know what kindness looks like.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.7540735785953177
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0077",
+      "video_id": "Leol0DxxGe4",
+      "idx": 77,
+      "sent_ids": [
+        "Leol0DxxGe4:s0215",
+        "Leol0DxxGe4:s0216",
+        "Leol0DxxGe4:s0217",
+        "Leol0DxxGe4:s0218"
+      ],
+      "start_s": 918.666,
+      "end_s": 924.052,
+      "text": "Period. In anyone. In anything. The signal is the signal, regardless of the body it comes from.",
+      "n_words": 17,
+      "n_sentences": 4,
+      "pos_pct": 0.7681153846153846
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0078",
+      "video_id": "Leol0DxxGe4",
+      "idx": 78,
+      "sent_ids": [
+        "Leol0DxxGe4:s0219",
+        "Leol0DxxGe4:s0220",
+        "Leol0DxxGe4:s0221"
+      ],
+      "start_s": 924.372,
+      "end_s": 930.98,
+      "text": "Now I want to spend some time on something that the feel-good compilation videos never mention. The failures. The limits.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.772886287625418
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0079",
+      "video_id": "Leol0DxxGe4",
+      "idx": 79,
+      "sent_ids": [
+        "Leol0DxxGe4:s0222",
+        "Leol0DxxGe4:s0223"
+      ],
+      "start_s": 931.28,
+      "end_s": 944.648,
+      "text": "the cases where it doesn't work, because they're just as scientifically important and they tell us something real about how complex this picture actually is. Wildlife rehabilitators will tell you plainly, some animals never relax in human care.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.7786622073578595
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0080",
+      "video_id": "Leol0DxxGe4",
+      "idx": 80,
+      "sent_ids": [
+        "Leol0DxxGe4:s0224",
+        "Leol0DxxGe4:s0225",
+        "Leol0DxxGe4:s0226"
+      ],
+      "start_s": 944.808,
+      "end_s": 952.092,
+      "text": "Ever. They remain at maximum threat response from intake to release. they never show any behavioral sign of registering the help being given.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.7899732441471572
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0081",
+      "video_id": "Leol0DxxGe4",
+      "idx": 81,
+      "sent_ids": [
+        "Leol0DxxGe4:s0227",
+        "Leol0DxxGe4:s0228"
+      ],
+      "start_s": 952.252,
+      "end_s": 961.818,
+      "text": "They explode out of the carrier on release day without a backward glance, and that is exactly right and good. That is a wild animal doing precisely what it should do.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.7961973244147157
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0082",
+      "video_id": "Leol0DxxGe4",
+      "idx": 82,
+      "sent_ids": [
+        "Leol0DxxGe4:s0229",
+        "Leol0DxxGe4:s0230",
+        "Leol0DxxGe4:s0231"
+      ],
+      "start_s": 962.139,
+      "end_s": 974.587,
+      "text": "Is that because those animals lack the cognitive architecture to recognize helping intent? Is it because the trauma of capture overwhelmed any capacity for nuanced processing? Is it simply individual variation?",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.8044640468227425
+    },
+    {
+      "window_id": "Leol0DxxGe4:j0083",
+      "video_id": "Leol0DxxGe4",
+      "idx": 83,
+      "sent_ids": [
+        "Leol0DxxGe4:s0232",
+        "Leol0DxxGe4:s0233",
+        "Leol0DxxGe4:s0234"
+      ],
+      "start_s": 974.967,
+      "end_s": 984.294,
+      "text": "The same kind of variation that makes some humans naturally trusting and others naturally guarded? We genuinely do not know. And anyone who tells you they do is oversimplifying.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.8151897993311037
+    },
+    {
       "window_id": "Leol0DxxGe4:j0084",
       "video_id": "Leol0DxxGe4",
       "idx": 84,
       "sent_ids": [
-        "Leol0DxxGe4:s0211"
+        "Leol0DxxGe4:s0235",
+        "Leol0DxxGe4:s0236"
       ],
-      "start_s": 884.258,
-      "end_s": 897.65,
-      "text": "That tool works on creatures the animal was never specifically evolved alongside because the underlying behaviors—approach without threat posture, slow movements, vocalizations that don't signal aggression, read the same way regardless of species.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.7393461538461539
+      "start_s": 984.515,
+      "end_s": 989.859,
+      "text": "There's also a darker complication that rehabilitators lose sleep over. Some animals become too comfortable.",
+      "n_words": 15,
+      "n_sentences": 2,
+      "pos_pct": 0.823173076923077
     },
     {
       "window_id": "Leol0DxxGe4:j0085",
       "video_id": "Leol0DxxGe4",
       "idx": 85,
-      "sent_ids": [
-        "Leol0DxxGe4:s0212"
-      ],
-      "start_s": 897.93,
-      "end_s": 901.652,
-      "text": "A dolphin reading a diver's body language isn't doing something miraculous.",
-      "n_words": 11,
-      "n_sentences": 1,
-      "pos_pct": 0.7507775919732441
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0086",
-      "video_id": "Leol0DxxGe4",
-      "idx": 86,
-      "sent_ids": [
-        "Leol0DxxGe4:s0213"
-      ],
-      "start_s": 901.872,
-      "end_s": 911.158,
-      "text": "It's doing something very ordinary, reading social cues and applying it to an unusual subject, which leads to an idea that is simultaneously simple and profound.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.7540735785953177
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0087",
-      "video_id": "Leol0DxxGe4",
-      "idx": 87,
-      "sent_ids": [
-        "Leol0DxxGe4:s0214",
-        "Leol0DxxGe4:s0215",
-        "Leol0DxxGe4:s0216",
-        "Leol0DxxGe4:s0217"
-      ],
-      "start_s": 911.438,
-      "end_s": 920.668,
-      "text": "Wild animals might understand human kindness not because they know what a human is, but because they know what kindness looks like. Period. In anyone. In anything.",
-      "n_words": 27,
-      "n_sentences": 4,
-      "pos_pct": 0.762071906354515
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0088",
-      "video_id": "Leol0DxxGe4",
-      "idx": 88,
-      "sent_ids": [
-        "Leol0DxxGe4:s0218",
-        "Leol0DxxGe4:s0219",
-        "Leol0DxxGe4:s0220",
-        "Leol0DxxGe4:s0221"
-      ],
-      "start_s": 920.989,
-      "end_s": 930.98,
-      "text": "The signal is the signal, regardless of the body it comes from. Now I want to spend some time on something that the feel-good compilation videos never mention. The failures. The limits.",
-      "n_words": 32,
-      "n_sentences": 4,
-      "pos_pct": 0.7700576923076924
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0089",
-      "video_id": "Leol0DxxGe4",
-      "idx": 89,
-      "sent_ids": [
-        "Leol0DxxGe4:s0222"
-      ],
-      "start_s": 931.28,
-      "end_s": 939.225,
-      "text": "the cases where it doesn't work, because they're just as scientifically important and they tell us something real about how complex this picture actually is.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.7786622073578595
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0090",
-      "video_id": "Leol0DxxGe4",
-      "idx": 90,
-      "sent_ids": [
-        "Leol0DxxGe4:s0223",
-        "Leol0DxxGe4:s0224",
-        "Leol0DxxGe4:s0225"
-      ],
-      "start_s": 939.565,
-      "end_s": 948.41,
-      "text": "Wildlife rehabilitators will tell you plainly, some animals never relax in human care. Ever. They remain at maximum threat response from intake to release.",
-      "n_words": 24,
-      "n_sentences": 3,
-      "pos_pct": 0.7855894648829432
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0091",
-      "video_id": "Leol0DxxGe4",
-      "idx": 91,
-      "sent_ids": [
-        "Leol0DxxGe4:s0226",
-        "Leol0DxxGe4:s0227"
-      ],
-      "start_s": 948.85,
-      "end_s": 958.616,
-      "text": "they never show any behavioral sign of registering the help being given. They explode out of the carrier on release day without a backward glance, and that is exactly right and good.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.7933528428093646
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0092",
-      "video_id": "Leol0DxxGe4",
-      "idx": 92,
-      "sent_ids": [
-        "Leol0DxxGe4:s0228",
-        "Leol0DxxGe4:s0229"
-      ],
-      "start_s": 958.957,
-      "end_s": 966.862,
-      "text": "That is a wild animal doing precisely what it should do. Is that because those animals lack the cognitive architecture to recognize helping intent?",
-      "n_words": 24,
-      "n_sentences": 2,
-      "pos_pct": 0.8018035117056856
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0093",
-      "video_id": "Leol0DxxGe4",
-      "idx": 93,
-      "sent_ids": [
-        "Leol0DxxGe4:s0230",
-        "Leol0DxxGe4:s0231",
-        "Leol0DxxGe4:s0232"
-      ],
-      "start_s": 967.142,
-      "end_s": 979.791,
-      "text": "Is it because the trauma of capture overwhelmed any capacity for nuanced processing? Is it simply individual variation? The same kind of variation that makes some humans naturally trusting and others naturally guarded?",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.8086471571906355
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0094",
-      "video_id": "Leol0DxxGe4",
-      "idx": 94,
-      "sent_ids": [
-        "Leol0DxxGe4:s0233",
-        "Leol0DxxGe4:s0234",
-        "Leol0DxxGe4:s0235",
-        "Leol0DxxGe4:s0236"
-      ],
-      "start_s": 979.971,
-      "end_s": 989.859,
-      "text": "We genuinely do not know. And anyone who tells you they do is oversimplifying. There's also a darker complication that rehabilitators lose sleep over. Some animals become too comfortable.",
-      "n_words": 29,
-      "n_sentences": 4,
-      "pos_pct": 0.819373745819398
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0095",
-      "video_id": "Leol0DxxGe4",
-      "idx": 95,
       "sent_ids": [
         "Leol0DxxGe4:s0237"
       ],
@@ -1489,9 +1359,9 @@
       "pos_pct": 0.8280091973244147
     },
     {
-      "window_id": "Leol0DxxGe4:j0096",
+      "window_id": "Leol0DxxGe4:j0086",
       "video_id": "Leol0DxxGe4",
-      "idx": 96,
+      "idx": 86,
       "sent_ids": [
         "Leol0DxxGe4:s0238"
       ],
@@ -1503,9 +1373,9 @@
       "pos_pct": 0.8399247491638796
     },
     {
-      "window_id": "Leol0DxxGe4:j0097",
+      "window_id": "Leol0DxxGe4:j0087",
       "video_id": "Leol0DxxGe4",
-      "idx": 97,
+      "idx": 87,
       "sent_ids": [
         "Leol0DxxGe4:s0239",
         "Leol0DxxGe4:s0240"
@@ -1518,9 +1388,9 @@
       "pos_pct": 0.8522750836120402
     },
     {
-      "window_id": "Leol0DxxGe4:j0098",
+      "window_id": "Leol0DxxGe4:j0088",
       "video_id": "Leol0DxxGe4",
-      "idx": 98,
+      "idx": 88,
       "sent_ids": [
         "Leol0DxxGe4:s0241",
         "Leol0DxxGe4:s0242"
@@ -1533,9 +1403,9 @@
       "pos_pct": 0.8589172240802676
     },
     {
-      "window_id": "Leol0DxxGe4:j0099",
+      "window_id": "Leol0DxxGe4:j0089",
       "video_id": "Leol0DxxGe4",
-      "idx": 99,
+      "idx": 89,
       "sent_ids": [
         "Leol0DxxGe4:s0243"
       ],
@@ -1547,9 +1417,9 @@
       "pos_pct": 0.8660785953177257
     },
     {
-      "window_id": "Leol0DxxGe4:j0100",
+      "window_id": "Leol0DxxGe4:j0090",
       "video_id": "Leol0DxxGe4",
-      "idx": 100,
+      "idx": 90,
       "sent_ids": [
         "Leol0DxxGe4:s0244"
       ],
@@ -1561,37 +1431,24 @@
       "pos_pct": 0.8791680602006688
     },
     {
-      "window_id": "Leol0DxxGe4:j0101",
+      "window_id": "Leol0DxxGe4:j0091",
       "video_id": "Leol0DxxGe4",
-      "idx": 101,
+      "idx": 91,
       "sent_ids": [
-        "Leol0DxxGe4:s0245"
+        "Leol0DxxGe4:s0245",
+        "Leol0DxxGe4:s0246"
       ],
       "start_s": 1066.259,
-      "end_s": 1071.783,
-      "text": "And the science, imperfect and unfinished as it always is, points in a direction that is genuinely astonishing.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 1086.412,
+      "text": "And the science, imperfect and unfinished as it always is, points in a direction that is genuinely astonishing. It might be true, not universally, not with every animal in every situation, not in a way that maps cleanly onto human emotional categories or cinematic rescue narratives, but in a real, measurable, reproducible, behaviorally observable way.",
+      "n_words": 55,
+      "n_sentences": 2,
       "pos_pct": 0.8915209030100335
     },
     {
-      "window_id": "Leol0DxxGe4:j0102",
+      "window_id": "Leol0DxxGe4:j0092",
       "video_id": "Leol0DxxGe4",
-      "idx": 102,
-      "sent_ids": [
-        "Leol0DxxGe4:s0246"
-      ],
-      "start_s": 1071.943,
-      "end_s": 1086.412,
-      "text": "It might be true, not universally, not with every animal in every situation, not in a way that maps cleanly onto human emotional categories or cinematic rescue narratives, but in a real, measurable, reproducible, behaviorally observable way.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.8962734113712374
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0103",
-      "video_id": "Leol0DxxGe4",
-      "idx": 103,
+      "idx": 92,
       "sent_ids": [
         "Leol0DxxGe4:s0247",
         "Leol0DxxGe4:s0248",
@@ -1605,9 +1462,9 @@
       "pos_pct": 0.9085719063545151
     },
     {
-      "window_id": "Leol0DxxGe4:j0104",
+      "window_id": "Leol0DxxGe4:j0093",
       "video_id": "Leol0DxxGe4",
-      "idx": 104,
+      "idx": 93,
       "sent_ids": [
         "Leol0DxxGe4:s0250",
         "Leol0DxxGe4:s0251",
@@ -1621,9 +1478,9 @@
       "pos_pct": 0.9182282608695652
     },
     {
-      "window_id": "Leol0DxxGe4:j0105",
+      "window_id": "Leol0DxxGe4:j0094",
       "video_id": "Leol0DxxGe4",
-      "idx": 105,
+      "idx": 94,
       "sent_ids": [
         "Leol0DxxGe4:s0253",
         "Leol0DxxGe4:s0254",
@@ -1638,9 +1495,9 @@
       "pos_pct": 0.9273160535117057
     },
     {
-      "window_id": "Leol0DxxGe4:j0106",
+      "window_id": "Leol0DxxGe4:j0095",
       "video_id": "Leol0DxxGe4",
-      "idx": 106,
+      "idx": 95,
       "sent_ids": [
         "Leol0DxxGe4:s0257",
         "Leol0DxxGe4:s0258",
@@ -1654,9 +1511,9 @@
       "pos_pct": 0.9352809364548496
     },
     {
-      "window_id": "Leol0DxxGe4:j0107",
+      "window_id": "Leol0DxxGe4:j0096",
       "video_id": "Leol0DxxGe4",
-      "idx": 107,
+      "idx": 96,
       "sent_ids": [
         "Leol0DxxGe4:s0260",
         "Leol0DxxGe4:s0261",
@@ -1670,9 +1527,9 @@
       "pos_pct": 0.9429590301003344
     },
     {
-      "window_id": "Leol0DxxGe4:j0108",
+      "window_id": "Leol0DxxGe4:j0097",
       "video_id": "Leol0DxxGe4",
-      "idx": 108,
+      "idx": 97,
       "sent_ids": [
         "Leol0DxxGe4:s0263"
       ],
@@ -1684,9 +1541,9 @@
       "pos_pct": 0.9520777591973244
     },
     {
-      "window_id": "Leol0DxxGe4:j0109",
+      "window_id": "Leol0DxxGe4:j0098",
       "video_id": "Leol0DxxGe4",
-      "idx": 109,
+      "idx": 98,
       "sent_ids": [
         "Leol0DxxGe4:s0264"
       ],
@@ -1698,9 +1555,9 @@
       "pos_pct": 0.9654966555183946
     },
     {
-      "window_id": "Leol0DxxGe4:j0110",
+      "window_id": "Leol0DxxGe4:j0099",
       "video_id": "Leol0DxxGe4",
-      "idx": 110,
+      "idx": 99,
       "sent_ids": [
         "Leol0DxxGe4:s0265",
         "Leol0DxxGe4:s0266",
@@ -1715,37 +1572,24 @@
       "pos_pct": 0.9795158862876254
     },
     {
-      "window_id": "Leol0DxxGe4:j0111",
+      "window_id": "Leol0DxxGe4:j0100",
       "video_id": "Leol0DxxGe4",
-      "idx": 111,
+      "idx": 100,
       "sent_ids": [
-        "Leol0DxxGe4:s0269"
+        "Leol0DxxGe4:s0269",
+        "Leol0DxxGe4:s0270"
       ],
       "start_s": 1178.484,
-      "end_s": 1181.425,
-      "text": "In species whose cognition we are only beginning to understand.",
-      "n_words": 10,
-      "n_sentences": 1,
+      "end_s": 1191.261,
+      "text": "In species whose cognition we are only beginning to understand. And somewhere out there, a crow is watching, running a facial recognition algorithm it built entirely by itself, from experience, for free, filing you in a mental folder.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.9853545150501671
     },
     {
-      "window_id": "Leol0DxxGe4:j0112",
+      "window_id": "Leol0DxxGe4:j0101",
       "video_id": "Leol0DxxGe4",
-      "idx": 112,
-      "sent_ids": [
-        "Leol0DxxGe4:s0270"
-      ],
-      "start_s": 1181.645,
-      "end_s": 1191.261,
-      "text": "And somewhere out there, a crow is watching, running a facial recognition algorithm it built entirely by itself, from experience, for free, filing you in a mental folder.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.987997491638796
-    },
-    {
-      "window_id": "Leol0DxxGe4:j0113",
-      "video_id": "Leol0DxxGe4",
-      "idx": 113,
+      "idx": 101,
       "sent_ids": [
         "Leol0DxxGe4:s0271"
       ],

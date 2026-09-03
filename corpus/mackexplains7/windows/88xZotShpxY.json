@@ -1,6 +1,6 @@
 {
   "video_id": "88xZotShpxY",
-  "generated_at": "2026-09-03T11:59:53.006401+00:00",
+  "generated_at": "2026-09-03T13:18:13.114553+00:00",
   "windows": [
     {
       "window_id": "88xZotShpxY:j0000",
@@ -23,13 +23,14 @@
       "video_id": "88xZotShpxY",
       "idx": 1,
       "sent_ids": [
-        "88xZotShpxY:s0003"
+        "88xZotShpxY:s0003",
+        "88xZotShpxY:s0004"
       ],
       "start_s": 13.237,
-      "end_s": 21.141,
-      "text": "They can tell you facts for hours, in beautiful exhausting detail, while the adults around them smile politely and quietly wonder if something is wrong.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 27.804,
+      "text": "They can tell you facts for hours, in beautiful exhausting detail, while the adults around them smile politely and quietly wonder if something is wrong. There's a person in an office who notices the one error in the spreadsheet that 40 other people scrolled right past.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.01102164862614488
     },
     {
@@ -37,167 +38,114 @@
       "video_id": "88xZotShpxY",
       "idx": 2,
       "sent_ids": [
-        "88xZotShpxY:s0004"
+        "88xZotShpxY:s0005",
+        "88xZotShpxY:s0006"
       ],
-      "start_s": 22.001,
-      "end_s": 27.804,
-      "text": "There's a person in an office who notices the one error in the spreadsheet that 40 other people scrolled right past.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.018318900915903415
+      "start_s": 28.384,
+      "end_s": 41.583,
+      "text": "There's someone in a meeting who says the blunt, true thing nobody else was willing to say, and the room goes awkward, and afterward, someone mutters that they lack social skills. We have a whole vocabulary for these people.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.023633638634471273
     },
     {
       "window_id": "88xZotShpxY:j0003",
       "video_id": "88xZotShpxY",
       "idx": 3,
       "sent_ids": [
-        "88xZotShpxY:s0005"
+        "88xZotShpxY:s0007",
+        "88xZotShpxY:s0008",
+        "88xZotShpxY:s0009",
+        "88xZotShpxY:s0010"
       ],
-      "start_s": 28.384,
-      "end_s": 38.53,
-      "text": "There's someone in a meeting who says the blunt, true thing nobody else was willing to say, and the room goes awkward, and afterward, someone mutters that they lack social skills.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.023633638634471273
+      "start_s": 42.003,
+      "end_s": 52.488,
+      "text": "We call them odd, intense, too much. Not a team player. We've built a world that treats their way of thinking as a glitch to be smoothed out. But here's the thing.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.034973355537052456
     },
     {
       "window_id": "88xZotShpxY:j0004",
       "video_id": "88xZotShpxY",
       "idx": 4,
       "sent_ids": [
-        "88xZotShpxY:s0006",
-        "88xZotShpxY:s0007",
-        "88xZotShpxY:s0008"
+        "88xZotShpxY:s0011",
+        "88xZotShpxY:s0012"
       ],
-      "start_s": 39.342,
-      "end_s": 47.265,
-      "text": "We have a whole vocabulary for these people. We call them odd, intense, too much. Not a team player.",
-      "n_words": 19,
-      "n_sentences": 3,
-      "pos_pct": 0.032757701915070776
+      "start_s": 53.108,
+      "end_s": 70.198,
+      "text": "Rewind the clock far enough, past the offices, past the schools, past the entire modern machine that decides what a normal brain looks like. And that exact same mind, the one we now label as disordered, might have been one of the most valuable members of the entire tribe.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.044219816819317234
     },
     {
       "window_id": "88xZotShpxY:j0005",
       "video_id": "88xZotShpxY",
       "idx": 5,
       "sent_ids": [
-        "88xZotShpxY:s0009",
-        "88xZotShpxY:s0010"
+        "88xZotShpxY:s0013",
+        "88xZotShpxY:s0014",
+        "88xZotShpxY:s0015",
+        "88xZotShpxY:s0016"
       ],
-      "start_s": 47.846,
-      "end_s": 52.488,
-      "text": "We've built a world that treats their way of thinking as a glitch to be smoothed out. But here's the thing.",
-      "n_words": 21,
-      "n_sentences": 2,
-      "pos_pct": 0.039838467943380515
+      "start_s": 70.918,
+      "end_s": 79.72,
+      "text": "Not tolerated. Not pitied. Needed. The kid who memorizes every detail about animals becomes the tracker nobody can match.",
+      "n_words": 19,
+      "n_sentences": 4,
+      "pos_pct": 0.05904912572855954
     },
     {
       "window_id": "88xZotShpxY:j0006",
       "video_id": "88xZotShpxY",
       "idx": 6,
       "sent_ids": [
-        "88xZotShpxY:s0011"
+        "88xZotShpxY:s0017",
+        "88xZotShpxY:s0018"
       ],
-      "start_s": 53.108,
-      "end_s": 61.932,
-      "text": "Rewind the clock far enough, past the offices, past the schools, past the entire modern machine that decides what a normal brain looks like.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.044219816819317234
+      "start_s": 80.4,
+      "end_s": 90.582,
+      "text": "The person who notices the tiny anomaly becomes the one who spots the danger first. The blunt truth-teller becomes the one everyone trusts precisely because they cannot lie.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.06694421315570359
     },
     {
       "window_id": "88xZotShpxY:j0007",
       "video_id": "88xZotShpxY",
       "idx": 7,
       "sent_ids": [
-        "88xZotShpxY:s0012",
-        "88xZotShpxY:s0013",
-        "88xZotShpxY:s0014",
-        "88xZotShpxY:s0015"
+        "88xZotShpxY:s0019",
+        "88xZotShpxY:s0020"
       ],
-      "start_s": 63.096,
-      "end_s": 74.358,
-      "text": "And that exact same mind, the one we now label as disordered, might have been one of the most valuable members of the entire tribe. Not tolerated. Not pitied. Needed.",
-      "n_words": 30,
-      "n_sentences": 4,
-      "pos_pct": 0.052536219816819316
+      "start_s": 91.182,
+      "end_s": 98.144,
+      "text": "So the real question isn't, what's wrong with the autistic brain? The real question is, what if there was never anything wrong with it at all?",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.07592173189009159
     },
     {
       "window_id": "88xZotShpxY:j0008",
       "video_id": "88xZotShpxY",
       "idx": 8,
       "sent_ids": [
-        "88xZotShpxY:s0016",
-        "88xZotShpxY:s0017"
+        "88xZotShpxY:s0021",
+        "88xZotShpxY:s0022"
       ],
-      "start_s": 75.159,
-      "end_s": 84.541,
-      "text": "The kid who memorizes every detail about animals becomes the tracker nobody can match. The person who notices the tiny anomaly becomes the one who spots the danger first.",
-      "n_words": 29,
+      "start_s": 98.464,
+      "end_s": 113.887,
+      "text": "What if autistic traits weren't a malfunction the ancient world would have discarded, but a vital part of how human tribes actually survived and thrived? Stick around, because by the end of this, the entire idea of normal is going to look a lot smaller than it did a minute ago.",
+      "n_words": 51,
       "n_sentences": 2,
-      "pos_pct": 0.06258034970857619
+      "pos_pct": 0.081985012489592
     },
     {
       "window_id": "88xZotShpxY:j0009",
       "video_id": "88xZotShpxY",
       "idx": 9,
-      "sent_ids": [
-        "88xZotShpxY:s0018",
-        "88xZotShpxY:s0019"
-      ],
-      "start_s": 85.181,
-      "end_s": 94.123,
-      "text": "The blunt truth-teller becomes the one everyone trusts precisely because they cannot lie. So the real question isn't, what's wrong with the autistic brain?",
-      "n_words": 24,
-      "n_sentences": 2,
-      "pos_pct": 0.07092506244796003
-    },
-    {
-      "window_id": "88xZotShpxY:j0010",
-      "video_id": "88xZotShpxY",
-      "idx": 10,
-      "sent_ids": [
-        "88xZotShpxY:s0020"
-      ],
-      "start_s": 94.463,
-      "end_s": 98.144,
-      "text": "The real question is, what if there was never anything wrong with it at all?",
-      "n_words": 15,
-      "n_sentences": 1,
-      "pos_pct": 0.07865362198168192
-    },
-    {
-      "window_id": "88xZotShpxY:j0011",
-      "video_id": "88xZotShpxY",
-      "idx": 11,
-      "sent_ids": [
-        "88xZotShpxY:s0021"
-      ],
-      "start_s": 98.464,
-      "end_s": 106.325,
-      "text": "What if autistic traits weren't a malfunction the ancient world would have discarded, but a vital part of how human tribes actually survived and thrived?",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.081985012489592
-    },
-    {
-      "window_id": "88xZotShpxY:j0012",
-      "video_id": "88xZotShpxY",
-      "idx": 12,
-      "sent_ids": [
-        "88xZotShpxY:s0022"
-      ],
-      "start_s": 107.326,
-      "end_s": 113.887,
-      "text": "Stick around, because by the end of this, the entire idea of normal is going to look a lot smaller than it did a minute ago.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.08936386344712739
-    },
-    {
-      "window_id": "88xZotShpxY:j0013",
-      "video_id": "88xZotShpxY",
-      "idx": 13,
       "sent_ids": [
         "88xZotShpxY:s0023",
         "88xZotShpxY:s0024"
@@ -210,37 +158,24 @@
       "pos_pct": 0.09554288093255621
     },
     {
-      "window_id": "88xZotShpxY:j0014",
+      "window_id": "88xZotShpxY:j0010",
       "video_id": "88xZotShpxY",
-      "idx": 14,
+      "idx": 10,
       "sent_ids": [
-        "88xZotShpxY:s0025"
+        "88xZotShpxY:s0025",
+        "88xZotShpxY:s0026"
       ],
       "start_s": 121.723,
-      "end_s": 133.393,
-      "text": "Autism is a modern disorder, a product of the modern world, maybe even caused by it somehow, and certainly a kind of mind that would never have made it in the brutal, unforgiving past.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 136.085,
+      "text": "Autism is a modern disorder, a product of the modern world, maybe even caused by it somehow, and certainly a kind of mind that would never have made it in the brutal, unforgiving past. The logic seems intuitive.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.10135137385512073
     },
     {
-      "window_id": "88xZotShpxY:j0015",
+      "window_id": "88xZotShpxY:j0011",
       "video_id": "88xZotShpxY",
-      "idx": 15,
-      "sent_ids": [
-        "88xZotShpxY:s0026"
-      ],
-      "start_s": 134.764,
-      "end_s": 136.085,
-      "text": "The logic seems intuitive.",
-      "n_words": 4,
-      "n_sentences": 1,
-      "pos_pct": 0.11220982514571191
-    },
-    {
-      "window_id": "88xZotShpxY:j0016",
-      "video_id": "88xZotShpxY",
-      "idx": 16,
+      "idx": 11,
       "sent_ids": [
         "88xZotShpxY:s0027"
       ],
@@ -252,9 +187,9 @@
       "pos_pct": 0.11399333888426312
     },
     {
-      "window_id": "88xZotShpxY:j0017",
+      "window_id": "88xZotShpxY:j0012",
       "video_id": "88xZotShpxY",
-      "idx": 17,
+      "idx": 12,
       "sent_ids": [
         "88xZotShpxY:s0028",
         "88xZotShpxY:s0029",
@@ -269,9 +204,9 @@
       "pos_pct": 0.12554621149042466
     },
     {
-      "window_id": "88xZotShpxY:j0018",
+      "window_id": "88xZotShpxY:j0013",
       "video_id": "88xZotShpxY",
-      "idx": 18,
+      "idx": 13,
       "sent_ids": [
         "88xZotShpxY:s0032",
         "88xZotShpxY:s0033",
@@ -285,9 +220,9 @@
       "pos_pct": 0.13646627810158202
     },
     {
-      "window_id": "88xZotShpxY:j0019",
+      "window_id": "88xZotShpxY:j0014",
       "video_id": "88xZotShpxY",
-      "idx": 19,
+      "idx": 14,
       "sent_ids": [
         "88xZotShpxY:s0035"
       ],
@@ -299,9 +234,9 @@
       "pos_pct": 0.14505328892589509
     },
     {
-      "window_id": "88xZotShpxY:j0020",
+      "window_id": "88xZotShpxY:j0015",
       "video_id": "88xZotShpxY",
-      "idx": 20,
+      "idx": 15,
       "sent_ids": [
         "88xZotShpxY:s0036",
         "88xZotShpxY:s0037"
@@ -314,9 +249,9 @@
       "pos_pct": 0.15553122398001665
     },
     {
-      "window_id": "88xZotShpxY:j0021",
+      "window_id": "88xZotShpxY:j0016",
       "video_id": "88xZotShpxY",
-      "idx": 21,
+      "idx": 16,
       "sent_ids": [
         "88xZotShpxY:s0038",
         "88xZotShpxY:s0039"
@@ -329,9 +264,9 @@
       "pos_pct": 0.1651698584512906
     },
     {
-      "window_id": "88xZotShpxY:j0022",
+      "window_id": "88xZotShpxY:j0017",
       "video_id": "88xZotShpxY",
-      "idx": 22,
+      "idx": 17,
       "sent_ids": [
         "88xZotShpxY:s0040"
       ],
@@ -343,37 +278,24 @@
       "pos_pct": 0.1704338051623647
     },
     {
-      "window_id": "88xZotShpxY:j0023",
+      "window_id": "88xZotShpxY:j0018",
       "video_id": "88xZotShpxY",
-      "idx": 23,
+      "idx": 18,
       "sent_ids": [
-        "88xZotShpxY:s0041"
+        "88xZotShpxY:s0041",
+        "88xZotShpxY:s0042"
       ],
       "start_s": 215.575,
-      "end_s": 225.259,
-      "text": "And once you look at a tribe through that lens, as an ecosystem of different minds, each doing a different job, the autistic mind doesn't look like an outsider who somehow snuck in.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 228.861,
+      "text": "And once you look at a tribe through that lens, as an ecosystem of different minds, each doing a different job, the autistic mind doesn't look like an outsider who somehow snuck in. It looks like a specialist the system was practically built to include.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.179496253122398
     },
     {
-      "window_id": "88xZotShpxY:j0024",
+      "window_id": "88xZotShpxY:j0019",
       "video_id": "88xZotShpxY",
-      "idx": 24,
-      "sent_ids": [
-        "88xZotShpxY:s0042"
-      ],
-      "start_s": 225.699,
-      "end_s": 228.861,
-      "text": "It looks like a specialist the system was practically built to include.",
-      "n_words": 12,
-      "n_sentences": 1,
-      "pos_pct": 0.18792589508742716
-    },
-    {
-      "window_id": "88xZotShpxY:j0025",
-      "video_id": "88xZotShpxY",
-      "idx": 25,
+      "idx": 19,
       "sent_ids": [
         "88xZotShpxY:s0043",
         "88xZotShpxY:s0044"
@@ -386,9 +308,9 @@
       "pos_pct": 0.1908751040799334
     },
     {
-      "window_id": "88xZotShpxY:j0026",
+      "window_id": "88xZotShpxY:j0020",
       "video_id": "88xZotShpxY",
-      "idx": 26,
+      "idx": 20,
       "sent_ids": [
         "88xZotShpxY:s0045",
         "88xZotShpxY:s0046",
@@ -403,9 +325,9 @@
       "pos_pct": 0.19749042464612823
     },
     {
-      "window_id": "88xZotShpxY:j0027",
+      "window_id": "88xZotShpxY:j0021",
       "video_id": "88xZotShpxY",
-      "idx": 27,
+      "idx": 21,
       "sent_ids": [
         "88xZotShpxY:s0049",
         "88xZotShpxY:s0050"
@@ -418,9 +340,9 @@
       "pos_pct": 0.20690507910074937
     },
     {
-      "window_id": "88xZotShpxY:j0028",
+      "window_id": "88xZotShpxY:j0022",
       "video_id": "88xZotShpxY",
-      "idx": 28,
+      "idx": 22,
       "sent_ids": [
         "88xZotShpxY:s0051",
         "88xZotShpxY:s0052"
@@ -433,9 +355,9 @@
       "pos_pct": 0.21237052456286426
     },
     {
-      "window_id": "88xZotShpxY:j0029",
+      "window_id": "88xZotShpxY:j0023",
       "video_id": "88xZotShpxY",
-      "idx": 29,
+      "idx": 23,
       "sent_ids": [
         "88xZotShpxY:s0053",
         "88xZotShpxY:s0054"
@@ -448,37 +370,24 @@
       "pos_pct": 0.22026810990840964
     },
     {
-      "window_id": "88xZotShpxY:j0030",
+      "window_id": "88xZotShpxY:j0024",
       "video_id": "88xZotShpxY",
-      "idx": 30,
+      "idx": 24,
       "sent_ids": [
-        "88xZotShpxY:s0055"
+        "88xZotShpxY:s0055",
+        "88xZotShpxY:s0056"
       ],
       "start_s": 278.849,
-      "end_s": 282.771,
-      "text": "The behavior of the weather, the stars, the seasons.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 292.145,
+      "text": "The behavior of the weather, the stars, the seasons. How to read a track in the dirt and know not just what animal made it, but how big it was, how fast it was moving, and how long ago it passed.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.23218068276436302
     },
     {
-      "window_id": "88xZotShpxY:j0031",
+      "window_id": "88xZotShpxY:j0025",
       "video_id": "88xZotShpxY",
-      "idx": 31,
-      "sent_ids": [
-        "88xZotShpxY:s0056"
-      ],
-      "start_s": 284.344,
-      "end_s": 292.145,
-      "text": "How to read a track in the dirt and know not just what animal made it, but how big it was, how fast it was moving, and how long ago it passed.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.23675603663613654
-    },
-    {
-      "window_id": "88xZotShpxY:j0032",
-      "video_id": "88xZotShpxY",
-      "idx": 32,
+      "idx": 25,
       "sent_ids": [
         "88xZotShpxY:s0057",
         "88xZotShpxY:s0058"
@@ -491,113 +400,100 @@
       "pos_pct": 0.24396835970024977
     },
     {
-      "window_id": "88xZotShpxY:j0033",
+      "window_id": "88xZotShpxY:j0026",
       "video_id": "88xZotShpxY",
-      "idx": 33,
+      "idx": 26,
       "sent_ids": [
-        "88xZotShpxY:s0059"
+        "88xZotShpxY:s0059",
+        "88xZotShpxY:s0060"
       ],
       "start_s": 301.727,
-      "end_s": 311.489,
-      "text": "Now imagine the mind that's built to lock onto one subject and absorb it with relentless, obsessive, joyful intensity, accumulating detail far beyond what anyone else would bother with.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 314.379,
+      "text": "Now imagine the mind that's built to lock onto one subject and absorb it with relentless, obsessive, joyful intensity, accumulating detail far beyond what anyone else would bother with. That's not a flaw in a survival context.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.25122980849292254
     },
     {
-      "window_id": "88xZotShpxY:j0034",
+      "window_id": "88xZotShpxY:j0027",
       "video_id": "88xZotShpxY",
-      "idx": 34,
+      "idx": 27,
       "sent_ids": [
-        "88xZotShpxY:s0060",
         "88xZotShpxY:s0061",
         "88xZotShpxY:s0062",
         "88xZotShpxY:s0063"
       ],
-      "start_s": 312.458,
+      "start_s": 315.119,
       "end_s": 322.963,
-      "text": "That's not a flaw in a survival context. That's the perfect mind to become the tribe's living library. The one who knows every plant. The one who understands the animals better than anyone.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.26016486261448796
+      "text": "That's the perfect mind to become the tribe's living library. The one who knows every plant. The one who understands the animals better than anyone.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.26238051623646963
     },
     {
-      "window_id": "88xZotShpxY:j0035",
+      "window_id": "88xZotShpxY:j0028",
       "video_id": "88xZotShpxY",
-      "idx": 35,
+      "idx": 28,
       "sent_ids": [
-        "88xZotShpxY:s0064"
+        "88xZotShpxY:s0064",
+        "88xZotShpxY:s0065"
       ],
       "start_s": 323.364,
-      "end_s": 330.107,
-      "text": "The one who has spent 10,000 hours of fascinated, focused attention mastering a domain that keeps everyone alive.",
-      "n_words": 18,
-      "n_sentences": 1,
+      "end_s": 339.352,
+      "text": "The one who has spent 10,000 hours of fascinated, focused attention mastering a domain that keeps everyone alive. While the social generalists were busy managing relationships and politics, which matters too, the specialist was building the deep expertise the whole group depended on.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.26924562864279766
     },
     {
-      "window_id": "88xZotShpxY:j0036",
+      "window_id": "88xZotShpxY:j0029",
       "video_id": "88xZotShpxY",
-      "idx": 36,
+      "idx": 29,
       "sent_ids": [
-        "88xZotShpxY:s0065"
-      ],
-      "start_s": 330.787,
-      "end_s": 339.352,
-      "text": "While the social generalists were busy managing relationships and politics, which matters too, the specialist was building the deep expertise the whole group depended on.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.2754263114071607
-    },
-    {
-      "window_id": "88xZotShpxY:j0037",
-      "video_id": "88xZotShpxY",
-      "idx": 37,
-      "sent_ids": [
-        "88xZotShpxY:s0066"
+        "88xZotShpxY:s0066",
+        "88xZotShpxY:s0067"
       ],
       "start_s": 340.192,
-      "end_s": 346.94,
-      "text": "The obsessive interest we try to medicate out of kids today is the exact engine that produces a master.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 353.187,
+      "text": "The obsessive interest we try to medicate out of kids today is the exact engine that produces a master. A tribe with no one like that is a tribe that knows a little about everything and a lot about nothing.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.28325728559533725
     },
     {
-      "window_id": "88xZotShpxY:j0038",
+      "window_id": "88xZotShpxY:j0030",
       "video_id": "88xZotShpxY",
-      "idx": 38,
+      "idx": 30,
       "sent_ids": [
-        "88xZotShpxY:s0067",
-        "88xZotShpxY:s0068"
+        "88xZotShpxY:s0068",
+        "88xZotShpxY:s0069"
       ],
-      "start_s": 347.641,
-      "end_s": 356.41,
-      "text": "A tribe with no one like that is a tribe that knows a little about everything and a lot about nothing. And in the wild, a little knowledge gets you killed.",
-      "n_words": 31,
+      "start_s": 353.547,
+      "end_s": 360.78,
+      "text": "And in the wild, a little knowledge gets you killed. Next, attention to detail and pattern recognition.",
+      "n_words": 17,
       "n_sentences": 2,
-      "pos_pct": 0.28945961698584516
+      "pos_pct": 0.29437718567860116
     },
     {
-      "window_id": "88xZotShpxY:j0039",
+      "window_id": "88xZotShpxY:j0031",
       "video_id": "88xZotShpxY",
-      "idx": 39,
+      "idx": 31,
       "sent_ids": [
-        "88xZotShpxY:s0069",
         "88xZotShpxY:s0070",
         "88xZotShpxY:s0071"
       ],
-      "start_s": 357.358,
+      "start_s": 361.26,
       "end_s": 371.646,
-      "text": "Next, attention to detail and pattern recognition. The ability to notice the tiny thing, the small change, the detail everyone else's brain smooths over and ignores. In modern life, this can feel like a curse.",
-      "n_words": 35,
-      "n_sentences": 3,
-      "pos_pct": 0.2975503746877602
+      "text": "The ability to notice the tiny thing, the small change, the detail everyone else's brain smooths over and ignores. In modern life, this can feel like a curse.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.3007993338884263
     },
     {
-      "window_id": "88xZotShpxY:j0040",
+      "window_id": "88xZotShpxY:j0032",
       "video_id": "88xZotShpxY",
-      "idx": 40,
+      "idx": 32,
       "sent_ids": [
         "88xZotShpxY:s0072",
         "88xZotShpxY:s0073"
@@ -610,9 +506,9 @@
       "pos_pct": 0.3098975853455454
     },
     {
-      "window_id": "88xZotShpxY:j0041",
+      "window_id": "88xZotShpxY:j0033",
       "video_id": "88xZotShpxY",
-      "idx": 41,
+      "idx": 33,
       "sent_ids": [
         "88xZotShpxY:s0074",
         "88xZotShpxY:s0075",
@@ -626,9 +522,9 @@
       "pos_pct": 0.3201623646960866
     },
     {
-      "window_id": "88xZotShpxY:j0042",
+      "window_id": "88xZotShpxY:j0034",
       "video_id": "88xZotShpxY",
-      "idx": 42,
+      "idx": 34,
       "sent_ids": [
         "88xZotShpxY:s0077",
         "88xZotShpxY:s0078"
@@ -641,9 +537,9 @@
       "pos_pct": 0.3292647793505412
     },
     {
-      "window_id": "88xZotShpxY:j0043",
+      "window_id": "88xZotShpxY:j0035",
       "video_id": "88xZotShpxY",
-      "idx": 43,
+      "idx": 35,
       "sent_ids": [
         "88xZotShpxY:s0079",
         "88xZotShpxY:s0080",
@@ -657,9 +553,9 @@
       "pos_pct": 0.33868442964196505
     },
     {
-      "window_id": "88xZotShpxY:j0044",
+      "window_id": "88xZotShpxY:j0036",
       "video_id": "88xZotShpxY",
-      "idx": 44,
+      "idx": 36,
       "sent_ids": [
         "88xZotShpxY:s0082",
         "88xZotShpxY:s0083"
@@ -672,9 +568,9 @@
       "pos_pct": 0.34880183180682767
     },
     {
-      "window_id": "88xZotShpxY:j0045",
+      "window_id": "88xZotShpxY:j0037",
       "video_id": "88xZotShpxY",
-      "idx": 45,
+      "idx": 37,
       "sent_ids": [
         "88xZotShpxY:s0084",
         "88xZotShpxY:s0085",
@@ -689,9 +585,9 @@
       "pos_pct": 0.3566827643630308
     },
     {
-      "window_id": "88xZotShpxY:j0046",
+      "window_id": "88xZotShpxY:j0038",
       "video_id": "88xZotShpxY",
-      "idx": 46,
+      "idx": 38,
       "sent_ids": [
         "88xZotShpxY:s0088",
         "88xZotShpxY:s0089",
@@ -705,9 +601,9 @@
       "pos_pct": 0.36637718567860117
     },
     {
-      "window_id": "88xZotShpxY:j0047",
+      "window_id": "88xZotShpxY:j0039",
       "video_id": "88xZotShpxY",
-      "idx": 47,
+      "idx": 39,
       "sent_ids": [
         "88xZotShpxY:s0091",
         "88xZotShpxY:s0092"
@@ -720,198 +616,133 @@
       "pos_pct": 0.37636636136552876
     },
     {
-      "window_id": "88xZotShpxY:j0048",
+      "window_id": "88xZotShpxY:j0040",
       "video_id": "88xZotShpxY",
-      "idx": 48,
+      "idx": 40,
       "sent_ids": [
-        "88xZotShpxY:s0093"
+        "88xZotShpxY:s0093",
+        "88xZotShpxY:s0094"
       ],
       "start_s": 466.543,
-      "end_s": 471.645,
-      "text": "A complex physical system mastered through patient, precise, repeatable technique.",
-      "n_words": 10,
-      "n_sentences": 1,
+      "end_s": 485.595,
+      "text": "A complex physical system mastered through patient, precise, repeatable technique. The mind that loves to understand systems, that delights in getting the method exactly right and repeating it perfectly, is the mind that produces the best tools, and that refines the technique, and that passes it down without it degrading.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.3884621149042465
     },
     {
-      "window_id": "88xZotShpxY:j0049",
+      "window_id": "88xZotShpxY:j0041",
       "video_id": "88xZotShpxY",
-      "idx": 49,
+      "idx": 41,
       "sent_ids": [
-        "88xZotShpxY:s0094"
-      ],
-      "start_s": 473.246,
-      "end_s": 485.595,
-      "text": "The mind that loves to understand systems, that delights in getting the method exactly right and repeating it perfectly, is the mind that produces the best tools, and that refines the technique, and that passes it down without it degrading.",
-      "n_words": 40,
-      "n_sentences": 1,
-      "pos_pct": 0.39404329725228976
-    },
-    {
-      "window_id": "88xZotShpxY:j0050",
-      "video_id": "88xZotShpxY",
-      "idx": 50,
-      "sent_ids": [
-        "88xZotShpxY:s0095"
+        "88xZotShpxY:s0095",
+        "88xZotShpxY:s0096"
       ],
       "start_s": 486.436,
-      "end_s": 494.922,
-      "text": "Some researchers have pointed out that the great leaps in human toolmaking and technology required exactly this kind of focused, systemizing, detail-obsessed cognition.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 502.73,
+      "text": "Some researchers have pointed out that the great leaps in human toolmaking and technology required exactly this kind of focused, systemizing, detail-obsessed cognition. And have argued that the inclusion of these minds in our ancestral groups may line up with periods where human innovation and culture genuinely took off.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.4050258118234804
     },
     {
-      "window_id": "88xZotShpxY:j0051",
+      "window_id": "88xZotShpxY:j0042",
       "video_id": "88xZotShpxY",
-      "idx": 51,
+      "idx": 42,
       "sent_ids": [
-        "88xZotShpxY:s0096"
-      ],
-      "start_s": 495.622,
-      "end_s": 502.73,
-      "text": "And have argued that the inclusion of these minds in our ancestral groups may line up with periods where human innovation and culture genuinely took off.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.41267443796835973
-    },
-    {
-      "window_id": "88xZotShpxY:j0052",
-      "video_id": "88xZotShpxY",
-      "idx": 52,
-      "sent_ids": [
-        "88xZotShpxY:s0097"
+        "88xZotShpxY:s0097",
+        "88xZotShpxY:s0098"
       ],
       "start_s": 503.391,
-      "end_s": 507.615,
-      "text": "The specialist mind may have helped build the actual technology that made us who we are.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 514.303,
+      "text": "The specialist mind may have helped build the actual technology that made us who we are. Now here's a trait that people rarely think of as an advantage, but in the right light it's one of the most beautiful.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.4191432139883431
     },
     {
-      "window_id": "88xZotShpxY:j0053",
+      "window_id": "88xZotShpxY:j0043",
       "video_id": "88xZotShpxY",
-      "idx": 53,
+      "idx": 43,
       "sent_ids": [
-        "88xZotShpxY:s0098",
         "88xZotShpxY:s0099",
         "88xZotShpxY:s0100",
-        "88xZotShpxY:s0101"
+        "88xZotShpxY:s0101",
+        "88xZotShpxY:s0102"
       ],
-      "start_s": 508.617,
-      "end_s": 522.202,
-      "text": "Now here's a trait that people rarely think of as an advantage, but in the right light it's one of the most beautiful. Honesty. Many autistic people are strikingly, sometimes inconveniently, honest. Direct.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.4234945878434638
-    },
-    {
-      "window_id": "88xZotShpxY:j0054",
-      "video_id": "88xZotShpxY",
-      "idx": 54,
-      "sent_ids": [
-        "88xZotShpxY:s0102",
-        "88xZotShpxY:s0103"
-      ],
-      "start_s": 522.942,
-      "end_s": 534.311,
-      "text": "Bad at and uninterested in social deception, the little white lies and manipulations and political games that neurotypical social life runs on. In the modern world, this gets read as a deficit.",
+      "start_s": 514.803,
+      "end_s": 531.268,
+      "text": "Honesty. Many autistic people are strikingly, sometimes inconveniently, honest. Direct. Bad at and uninterested in social deception, the little white lies and manipulations and political games that neurotypical social life runs on.",
       "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.43542214820982517
+      "n_sentences": 4,
+      "pos_pct": 0.4286452955870108
     },
     {
-      "window_id": "88xZotShpxY:j0055",
+      "window_id": "88xZotShpxY:j0044",
       "video_id": "88xZotShpxY",
-      "idx": 55,
+      "idx": 44,
       "sent_ids": [
+        "88xZotShpxY:s0103",
         "88xZotShpxY:s0104",
         "88xZotShpxY:s0105",
         "88xZotShpxY:s0106"
       ],
-      "start_s": 534.711,
+      "start_s": 532.108,
       "end_s": 538.496,
-      "text": "They don't get social cues. They're too blunt. But flip it around.",
-      "n_words": 12,
-      "n_sentences": 3,
-      "pos_pct": 0.44522148209825146
+      "text": "In the modern world, this gets read as a deficit. They don't get social cues. They're too blunt. But flip it around.",
+      "n_words": 22,
+      "n_sentences": 4,
+      "pos_pct": 0.44305412156536217
     },
     {
-      "window_id": "88xZotShpxY:j0056",
+      "window_id": "88xZotShpxY:j0045",
       "video_id": "88xZotShpxY",
-      "idx": 56,
+      "idx": 45,
       "sent_ids": [
-        "88xZotShpxY:s0107"
+        "88xZotShpxY:s0107",
+        "88xZotShpxY:s0108"
       ],
       "start_s": 539.337,
-      "end_s": 546.346,
-      "text": "In a small tribe where everyone depends on everyone else, where your survival is tied to whether you can trust the people around you, who do you want?",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 550.088,
+      "text": "In a small tribe where everyone depends on everyone else, where your survival is tied to whether you can trust the people around you, who do you want? You want the person who cannot and will not lie to you.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.44907327227310573
     },
     {
-      "window_id": "88xZotShpxY:j0057",
+      "window_id": "88xZotShpxY:j0046",
       "video_id": "88xZotShpxY",
-      "idx": 57,
+      "idx": 46,
       "sent_ids": [
-        "88xZotShpxY:s0108",
-        "88xZotShpxY:s0109"
-      ],
-      "start_s": 547.067,
-      "end_s": 552.649,
-      "text": "You want the person who cannot and will not lie to you. The person whose word is rock solid.",
-      "n_words": 19,
-      "n_sentences": 2,
-      "pos_pct": 0.45550957535387177
-    },
-    {
-      "window_id": "88xZotShpxY:j0058",
-      "video_id": "88xZotShpxY",
-      "idx": 58,
-      "sent_ids": [
+        "88xZotShpxY:s0109",
         "88xZotShpxY:s0110"
       ],
-      "start_s": 553.049,
+      "start_s": 550.628,
       "end_s": 559.792,
-      "text": "The person who isn't running an angle, isn't playing politics, isn't manipulating the group for their own advantage.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.4604904246461282
+      "text": "The person whose word is rock solid. The person who isn't running an angle, isn't playing politics, isn't manipulating the group for their own advantage.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.45847460449625316
     },
     {
-      "window_id": "88xZotShpxY:j0059",
+      "window_id": "88xZotShpxY:j0047",
       "video_id": "88xZotShpxY",
-      "idx": 59,
+      "idx": 47,
       "sent_ids": [
-        "88xZotShpxY:s0111"
+        "88xZotShpxY:s0111",
+        "88xZotShpxY:s0112"
       ],
       "start_s": 560.252,
-      "end_s": 568.595,
-      "text": "There's a real argument that this kind of reliable, transparent honesty was deeply valuable in groups that ran on trust and cooperation.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 577.106,
+      "text": "There's a real argument that this kind of reliable, transparent honesty was deeply valuable in groups that ran on trust and cooperation. that the person who genuinely couldn't deceive you was, in a profound way, the safest person to have at your side.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.4664879267277269
     },
     {
-      "window_id": "88xZotShpxY:j0060",
+      "window_id": "88xZotShpxY:j0048",
       "video_id": "88xZotShpxY",
-      "idx": 60,
-      "sent_ids": [
-        "88xZotShpxY:s0112"
-      ],
-      "start_s": 569.335,
-      "end_s": 577.106,
-      "text": "that the person who genuinely couldn't deceive you was, in a profound way, the safest person to have at your side.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.4740507910074938
-    },
-    {
-      "window_id": "88xZotShpxY:j0061",
-      "video_id": "88xZotShpxY",
-      "idx": 61,
+      "idx": 48,
       "sent_ids": [
         "88xZotShpxY:s0113",
         "88xZotShpxY:s0114"
@@ -924,52 +755,39 @@
       "pos_pct": 0.481579517069109
     },
     {
-      "window_id": "88xZotShpxY:j0062",
+      "window_id": "88xZotShpxY:j0049",
       "video_id": "88xZotShpxY",
-      "idx": 62,
+      "idx": 49,
       "sent_ids": [
-        "88xZotShpxY:s0115"
+        "88xZotShpxY:s0115",
+        "88xZotShpxY:s0116"
       ],
       "start_s": 590.006,
-      "end_s": 598.613,
-      "text": "A lot of autistic cognition is less swayed by what the group thinks, less pulled along by social conformity, less likely to just go with the crowd.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 604.637,
+      "text": "A lot of autistic cognition is less swayed by what the group thinks, less pulled along by social conformity, less likely to just go with the crowd. In the modern world, we call this being difficult, not reading the room, refusing to get with the program.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.49126228143213985
     },
     {
-      "window_id": "88xZotShpxY:j0063",
+      "window_id": "88xZotShpxY:j0050",
       "video_id": "88xZotShpxY",
-      "idx": 63,
+      "idx": 50,
       "sent_ids": [
-        "88xZotShpxY:s0116",
-        "88xZotShpxY:s0117"
-      ],
-      "start_s": 599.473,
-      "end_s": 607.319,
-      "text": "In the modern world, we call this being difficult, not reading the room, refusing to get with the program. But think about what groupthink actually does.",
-      "n_words": 26,
-      "n_sentences": 2,
-      "pos_pct": 0.49914487926727724
-    },
-    {
-      "window_id": "88xZotShpxY:j0064",
-      "video_id": "88xZotShpxY",
-      "idx": 64,
-      "sent_ids": [
+        "88xZotShpxY:s0117",
         "88xZotShpxY:s0118"
       ],
-      "start_s": 608.26,
+      "start_s": 605.138,
       "end_s": 621.41,
-      "text": "When a whole group of socially tuned people all start believing the same thing, all feeding off each other's certainty, all swept up in the same wave, they can march together, confidently, off a cliff.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.5064612822647794
+      "text": "But think about what groupthink actually does. When a whole group of socially tuned people all start believing the same thing, all feeding off each other's certainty, all swept up in the same wave, they can march together, confidently, off a cliff.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.5038617818484596
     },
     {
-      "window_id": "88xZotShpxY:j0065",
+      "window_id": "88xZotShpxY:j0051",
       "video_id": "88xZotShpxY",
-      "idx": 65,
+      "idx": 51,
       "sent_ids": [
         "88xZotShpxY:s0119",
         "88xZotShpxY:s0120",
@@ -984,9 +802,9 @@
       "pos_pct": 0.5178934221482099
     },
     {
-      "window_id": "88xZotShpxY:j0066",
+      "window_id": "88xZotShpxY:j0052",
       "video_id": "88xZotShpxY",
-      "idx": 66,
+      "idx": 52,
       "sent_ids": [
         "88xZotShpxY:s0123",
         "88xZotShpxY:s0124"
@@ -999,9 +817,9 @@
       "pos_pct": 0.5290591174021648
     },
     {
-      "window_id": "88xZotShpxY:j0067",
+      "window_id": "88xZotShpxY:j0053",
       "video_id": "88xZotShpxY",
-      "idx": 67,
+      "idx": 53,
       "sent_ids": [
         "88xZotShpxY:s0125"
       ],
@@ -1013,9 +831,9 @@
       "pos_pct": 0.5387077435470442
     },
     {
-      "window_id": "88xZotShpxY:j0068",
+      "window_id": "88xZotShpxY:j0054",
       "video_id": "88xZotShpxY",
-      "idx": 68,
+      "idx": 54,
       "sent_ids": [
         "88xZotShpxY:s0126",
         "88xZotShpxY:s0127"
@@ -1028,9 +846,9 @@
       "pos_pct": 0.5494171523730225
     },
     {
-      "window_id": "88xZotShpxY:j0069",
+      "window_id": "88xZotShpxY:j0055",
       "video_id": "88xZotShpxY",
-      "idx": 69,
+      "idx": 55,
       "sent_ids": [
         "88xZotShpxY:s0128",
         "88xZotShpxY:s0129"
@@ -1043,37 +861,24 @@
       "pos_pct": 0.5587635303913406
     },
     {
-      "window_id": "88xZotShpxY:j0070",
+      "window_id": "88xZotShpxY:j0056",
       "video_id": "88xZotShpxY",
-      "idx": 70,
+      "idx": 56,
       "sent_ids": [
-        "88xZotShpxY:s0130"
+        "88xZotShpxY:s0130",
+        "88xZotShpxY:s0131"
       ],
       "start_s": 679.639,
-      "end_s": 687.523,
-      "text": "In a modern environment full of fluorescent lights and traffic noise and crowded rooms, this is often genuinely painful and exhausting, and that's real.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 692.909,
+      "text": "In a modern environment full of fluorescent lights and traffic noise and crowded rooms, this is often genuinely painful and exhausting, and that's real. But that same heightened sensitivity in the right setting is acute perception.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.565894254787677
     },
     {
-      "window_id": "88xZotShpxY:j0071",
+      "window_id": "88xZotShpxY:j0057",
       "video_id": "88xZotShpxY",
-      "idx": 71,
-      "sent_ids": [
-        "88xZotShpxY:s0131"
-      ],
-      "start_s": 688.203,
-      "end_s": 692.909,
-      "text": "But that same heightened sensitivity in the right setting is acute perception.",
-      "n_words": 12,
-      "n_sentences": 1,
-      "pos_pct": 0.5730249791840133
-    },
-    {
-      "window_id": "88xZotShpxY:j0072",
-      "video_id": "88xZotShpxY",
-      "idx": 72,
+      "idx": 57,
       "sent_ids": [
         "88xZotShpxY:s0132"
       ],
@@ -1085,37 +890,24 @@
       "pos_pct": 0.5776103247293922
     },
     {
-      "window_id": "88xZotShpxY:j0073",
+      "window_id": "88xZotShpxY:j0058",
       "video_id": "88xZotShpxY",
-      "idx": 73,
+      "idx": 58,
       "sent_ids": [
-        "88xZotShpxY:s0133"
+        "88xZotShpxY:s0133",
+        "88xZotShpxY:s0134"
       ],
       "start_s": 706.747,
-      "end_s": 715.895,
-      "text": "In a world where noticing the predator a few seconds sooner was the difference between life and death, a finely tuned sensory system was a sentinel's gift.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 724.302,
+      "text": "In a world where noticing the predator a few seconds sooner was the difference between life and death, a finely tuned sensory system was a sentinel's gift. The same sensitivity that makes a modern shopping mall unbearable might have made someone the early warning system for the whole group out on the open land.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.5884654454621149
     },
     {
-      "window_id": "88xZotShpxY:j0074",
+      "window_id": "88xZotShpxY:j0059",
       "video_id": "88xZotShpxY",
-      "idx": 74,
-      "sent_ids": [
-        "88xZotShpxY:s0134"
-      ],
-      "start_s": 716.656,
-      "end_s": 724.302,
-      "text": "The same sensitivity that makes a modern shopping mall unbearable might have made someone the early warning system for the whole group out on the open land.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.5967160699417152
-    },
-    {
-      "window_id": "88xZotShpxY:j0075",
-      "video_id": "88xZotShpxY",
-      "idx": 75,
+      "idx": 59,
       "sent_ids": [
         "88xZotShpxY:s0135",
         "88xZotShpxY:s0136"
@@ -1128,270 +920,231 @@
       "pos_pct": 0.6035828476269776
     },
     {
-      "window_id": "88xZotShpxY:j0076",
+      "window_id": "88xZotShpxY:j0060",
       "video_id": "88xZotShpxY",
-      "idx": 76,
+      "idx": 60,
       "sent_ids": [
-        "88xZotShpxY:s0137"
+        "88xZotShpxY:s0137",
+        "88xZotShpxY:s0138"
       ],
       "start_s": 739.639,
-      "end_s": 748.912,
-      "text": "But consider, a huge amount of ancient survival knowledge was procedural and ritual, the precise sequence for preparing a food so it isn't toxic.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 755.8,
+      "text": "But consider, a huge amount of ancient survival knowledge was procedural and ritual, the precise sequence for preparing a food so it isn't toxic. the exact method for making the tool, building the shelter, performing the ritual that holds the group together.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.6158526228143214
     },
     {
-      "window_id": "88xZotShpxY:j0077",
+      "window_id": "88xZotShpxY:j0061",
       "video_id": "88xZotShpxY",
-      "idx": 77,
+      "idx": 61,
       "sent_ids": [
-        "88xZotShpxY:s0138"
-      ],
-      "start_s": 749.533,
-      "end_s": 755.8,
-      "text": "the exact method for making the tool, building the shelter, performing the ritual that holds the group together.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.6240907577019151
-    },
-    {
-      "window_id": "88xZotShpxY:j0078",
-      "video_id": "88xZotShpxY",
-      "idx": 78,
-      "sent_ids": [
-        "88xZotShpxY:s0139"
+        "88xZotShpxY:s0139",
+        "88xZotShpxY:s0140"
       ],
       "start_s": 756.301,
-      "end_s": 765.992,
-      "text": "These things had to be preserved and transmitted accurately, generation after generation, with no writing, no books, nothing but human memory and practice.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 770.859,
+      "text": "These things had to be preserved and transmitted accurately, generation after generation, with no writing, no books, nothing but human memory and practice. Who's going to preserve the precise method without it slowly drifting and degrading?",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.6297260616153206
     },
     {
-      "window_id": "88xZotShpxY:j0079",
+      "window_id": "88xZotShpxY:j0062",
       "video_id": "88xZotShpxY",
-      "idx": 79,
+      "idx": 62,
       "sent_ids": [
-        "88xZotShpxY:s0140"
-      ],
-      "start_s": 766.613,
-      "end_s": 770.859,
-      "text": "Who's going to preserve the precise method without it slowly drifting and degrading?",
-      "n_words": 13,
-      "n_sentences": 1,
-      "pos_pct": 0.6383122398001666
-    },
-    {
-      "window_id": "88xZotShpxY:j0080",
-      "video_id": "88xZotShpxY",
-      "idx": 80,
-      "sent_ids": [
-        "88xZotShpxY:s0141"
+        "88xZotShpxY:s0141",
+        "88xZotShpxY:s0142"
       ],
       "start_s": 771.259,
-      "end_s": 781.172,
-      "text": "The mind that values doing it exactly right every time, that resists casual change, that treats the correct procedure as something to be honored and kept intact.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 788.456,
+      "text": "The mind that values doing it exactly right every time, that resists casual change, that treats the correct procedure as something to be honored and kept intact. The person who needs the routine to stay the same is the person who keeps the life-saving method from getting corrupted over time.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.642180682764363
     },
     {
-      "window_id": "88xZotShpxY:j0081",
+      "window_id": "88xZotShpxY:j0063",
       "video_id": "88xZotShpxY",
-      "idx": 81,
+      "idx": 63,
       "sent_ids": [
-        "88xZotShpxY:s0142",
-        "88xZotShpxY:s0143"
-      ],
-      "start_s": 781.993,
-      "end_s": 793.898,
-      "text": "The person who needs the routine to stay the same is the person who keeps the life-saving method from getting corrupted over time. Reliability isn't a small thing when the recipe, done wrong, is poison.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.6511182348043297
-    },
-    {
-      "window_id": "88xZotShpxY:j0082",
-      "video_id": "88xZotShpxY",
-      "idx": 82,
-      "sent_ids": [
+        "88xZotShpxY:s0143",
         "88xZotShpxY:s0144",
-        "88xZotShpxY:s0145",
-        "88xZotShpxY:s0146",
-        "88xZotShpxY:s0147"
+        "88xZotShpxY:s0145"
       ],
-      "start_s": 794.438,
-      "end_s": 807.445,
-      "text": "So step back and look at the whole inventory. The deep specialist who masters one vital domain. The detail catcher who spots danger and opportunity first. The systemizer who builds and refines the technology.",
-      "n_words": 34,
-      "n_sentences": 4,
-      "pos_pct": 0.6614804329725229
-    },
-    {
-      "window_id": "88xZotShpxY:j0083",
-      "video_id": "88xZotShpxY",
-      "idx": 83,
-      "sent_ids": [
-        "88xZotShpxY:s0148",
-        "88xZotShpxY:s0149",
-        "88xZotShpxY:s0150",
-        "88xZotShpxY:s0151"
-      ],
-      "start_s": 807.926,
-      "end_s": 819.233,
-      "text": "The honest one everyone can trust. The independent thinker who resists the deadly pull of groupthink. The sensory sentinel. The faithful keeper of the methods that must not be lost.",
-      "n_words": 30,
-      "n_sentences": 4,
-      "pos_pct": 0.6727110741049126
-    },
-    {
-      "window_id": "88xZotShpxY:j0084",
-      "video_id": "88xZotShpxY",
-      "idx": 84,
-      "sent_ids": [
-        "88xZotShpxY:s0152",
-        "88xZotShpxY:s0153",
-        "88xZotShpxY:s0154",
-        "88xZotShpxY:s0155"
-      ],
-      "start_s": 819.773,
-      "end_s": 833.876,
-      "text": "That is not a list of deficits. That is a list of roles. Essential, complementary, irreplaceable roles in a functioning human group. The autistic mind, this light isn't a broken version of the social generalist.",
-      "n_words": 35,
-      "n_sentences": 4,
-      "pos_pct": 0.6825753538717736
-    },
-    {
-      "window_id": "88xZotShpxY:j0085",
-      "video_id": "88xZotShpxY",
-      "idx": 85,
-      "sent_ids": [
-        "88xZotShpxY:s0156",
-        "88xZotShpxY:s0157"
-      ],
-      "start_s": 834.477,
-      "end_s": 844.902,
-      "text": "It's a different specialist entirely, doing jobs the generalist simply cannot do. And this is the heart of the complementary cognition idea, and it's genuinely beautiful once it clicks.",
+      "start_s": 789.156,
+      "end_s": 800.421,
+      "text": "Reliability isn't a small thing when the recipe, done wrong, is poison. So step back and look at the whole inventory. The deep specialist who masters one vital domain.",
       "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.6948184845961698
-    },
-    {
-      "window_id": "88xZotShpxY:j0086",
-      "video_id": "88xZotShpxY",
-      "idx": 86,
-      "sent_ids": [
-        "88xZotShpxY:s0158",
-        "88xZotShpxY:s0159",
-        "88xZotShpxY:s0160",
-        "88xZotShpxY:s0161"
-      ],
-      "start_s": 845.543,
-      "end_s": 857.752,
-      "text": "A successful tribe wasn't a collection of identical people. It was an ecosystem. It needed the socially gifted networkers who held relationships together and smoothed conflict. Absolutely, those people were vital.",
-      "n_words": 31,
-      "n_sentences": 4,
-      "pos_pct": 0.7040324729392173
-    },
-    {
-      "window_id": "88xZotShpxY:j0087",
-      "video_id": "88xZotShpxY",
-      "idx": 87,
-      "sent_ids": [
-        "88xZotShpxY:s0162",
-        "88xZotShpxY:s0163",
-        "88xZotShpxY:s0164",
-        "88xZotShpxY:s0165"
-      ],
-      "start_s": 858.133,
-      "end_s": 864.798,
-      "text": "But it also needed the specialists. The detail people. The deep focus experts. The truth tellers.",
-      "n_words": 16,
-      "n_sentences": 4,
-      "pos_pct": 0.7145154038301416
-    },
-    {
-      "window_id": "88xZotShpxY:j0088",
-      "video_id": "88xZotShpxY",
-      "idx": 88,
-      "sent_ids": [
-        "88xZotShpxY:s0166",
-        "88xZotShpxY:s0167",
-        "88xZotShpxY:s0168"
-      ],
-      "start_s": 865.379,
-      "end_s": 876.522,
-      "text": "The ones who saw the world differently. The social generalist. and the focused specialist weren't rivals where one was normal and the other was broken.",
-      "n_words": 25,
       "n_sentences": 3,
-      "pos_pct": 0.720548709408826
+      "pos_pct": 0.657082431307244
     },
     {
-      "window_id": "88xZotShpxY:j0089",
+      "window_id": "88xZotShpxY:j0064",
       "video_id": "88xZotShpxY",
-      "idx": 89,
+      "idx": 64,
       "sent_ids": [
-        "88xZotShpxY:s0169",
-        "88xZotShpxY:s0170",
-        "88xZotShpxY:s0171"
+        "88xZotShpxY:s0146",
+        "88xZotShpxY:s0147",
+        "88xZotShpxY:s0148",
+        "88xZotShpxY:s0149"
       ],
-      "start_s": 877.583,
-      "end_s": 888.912,
-      "text": "They were two halves of a whole, each covering for the other's blind spots. The generalist kept the group bonded. The specialist kept the group alive with expertise no one else would bother to acquire.",
+      "start_s": 801.001,
+      "end_s": 814.049,
+      "text": "The detail catcher who spots danger and opportunity first. The systemizer who builds and refines the technology. The honest one everyone can trust. The independent thinker who resists the deadly pull of groupthink.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.6669450457951707
+    },
+    {
+      "window_id": "88xZotShpxY:j0065",
+      "video_id": "88xZotShpxY",
+      "idx": 65,
+      "sent_ids": [
+        "88xZotShpxY:s0150",
+        "88xZotShpxY:s0151",
+        "88xZotShpxY:s0152",
+        "88xZotShpxY:s0153"
+      ],
+      "start_s": 814.63,
+      "end_s": 823.454,
+      "text": "The sensory sentinel. The faithful keeper of the methods that must not be lost. That is not a list of deficits. That is a list of roles.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.678293089092423
+    },
+    {
+      "window_id": "88xZotShpxY:j0066",
+      "video_id": "88xZotShpxY",
+      "idx": 66,
+      "sent_ids": [
+        "88xZotShpxY:s0154",
+        "88xZotShpxY:s0155",
+        "88xZotShpxY:s0156"
+      ],
+      "start_s": 823.874,
+      "end_s": 839.378,
+      "text": "Essential, complementary, irreplaceable roles in a functioning human group. The autistic mind, this light isn't a broken version of the social generalist. It's a different specialist entirely, doing jobs the generalist simply cannot do.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.6859900083263947
+    },
+    {
+      "window_id": "88xZotShpxY:j0067",
+      "video_id": "88xZotShpxY",
+      "idx": 67,
+      "sent_ids": [
+        "88xZotShpxY:s0157",
+        "88xZotShpxY:s0158",
+        "88xZotShpxY:s0159"
+      ],
+      "start_s": 840.118,
+      "end_s": 849.906,
+      "text": "And this is the heart of the complementary cognition idea, and it's genuinely beautiful once it clicks. A successful tribe wasn't a collection of identical people. It was an ecosystem.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.6995154038301415
+    },
+    {
+      "window_id": "88xZotShpxY:j0068",
+      "video_id": "88xZotShpxY",
+      "idx": 68,
+      "sent_ids": [
+        "88xZotShpxY:s0160",
+        "88xZotShpxY:s0161",
+        "88xZotShpxY:s0162",
+        "88xZotShpxY:s0163"
+      ],
+      "start_s": 850.246,
+      "end_s": 861.516,
+      "text": "It needed the socially gifted networkers who held relationships together and smoothed conflict. Absolutely, those people were vital. But it also needed the specialists. The detail people.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.7079483763530391
+    },
+    {
+      "window_id": "88xZotShpxY:j0069",
+      "video_id": "88xZotShpxY",
+      "idx": 69,
+      "sent_ids": [
+        "88xZotShpxY:s0164",
+        "88xZotShpxY:s0165",
+        "88xZotShpxY:s0166",
+        "88xZotShpxY:s0167"
+      ],
+      "start_s": 861.956,
+      "end_s": 869.382,
+      "text": "The deep focus experts. The truth tellers. The ones who saw the world differently. The social generalist.",
+      "n_words": 17,
+      "n_sentences": 4,
+      "pos_pct": 0.7176985845129059
+    },
+    {
+      "window_id": "88xZotShpxY:j0070",
+      "video_id": "88xZotShpxY",
+      "idx": 70,
+      "sent_ids": [
+        "88xZotShpxY:s0168",
+        "88xZotShpxY:s0169",
+        "88xZotShpxY:s0170"
+      ],
+      "start_s": 870.097,
+      "end_s": 884.008,
+      "text": "and the focused specialist weren't rivals where one was normal and the other was broken. They were two halves of a whole, each covering for the other's blind spots. The generalist kept the group bonded.",
       "n_words": 35,
       "n_sentences": 3,
-      "pos_pct": 0.7307102414654454
+      "pos_pct": 0.7244771024146545
     },
     {
-      "window_id": "88xZotShpxY:j0090",
+      "window_id": "88xZotShpxY:j0071",
       "video_id": "88xZotShpxY",
-      "idx": 90,
+      "idx": 71,
       "sent_ids": [
-        "88xZotShpxY:s0172",
-        "88xZotShpxY:s0173"
+        "88xZotShpxY:s0171",
+        "88xZotShpxY:s0172"
       ],
-      "start_s": 889.825,
-      "end_s": 897.43,
-      "text": "Take either one out and the tribe is weaker. You don't get a thriving, innovating, surviving human group out of social butterflies alone.",
-      "n_words": 23,
+      "start_s": 884.668,
+      "end_s": 892.427,
+      "text": "The specialist kept the group alive with expertise no one else would bother to acquire. Take either one out and the tribe is weaker.",
+      "n_words": 24,
       "n_sentences": 2,
-      "pos_pct": 0.7409034138218152
+      "pos_pct": 0.7366094920899251
     },
     {
-      "window_id": "88xZotShpxY:j0091",
+      "window_id": "88xZotShpxY:j0072",
       "video_id": "88xZotShpxY",
-      "idx": 91,
+      "idx": 72,
       "sent_ids": [
-        "88xZotShpxY:s0174",
-        "88xZotShpxY:s0175"
+        "88xZotShpxY:s0173",
+        "88xZotShpxY:s0174"
       ],
-      "start_s": 897.93,
-      "end_s": 907.476,
-      "text": "You need the people who go deep, who notice, who question, who master. You need it, in other words, exactly the kind of mind we now spend so much energy trying to fix.",
-      "n_words": 33,
+      "start_s": 893.107,
+      "end_s": 902.133,
+      "text": "You don't get a thriving, innovating, surviving human group out of social butterflies alone. You need the people who go deep, who notice, who question, who master.",
+      "n_words": 27,
       "n_sentences": 2,
-      "pos_pct": 0.7476519567027476
+      "pos_pct": 0.7436361365528725
     },
     {
-      "window_id": "88xZotShpxY:j0092",
+      "window_id": "88xZotShpxY:j0073",
       "video_id": "88xZotShpxY",
-      "idx": 92,
+      "idx": 73,
       "sent_ids": [
+        "88xZotShpxY:s0175",
         "88xZotShpxY:s0176"
       ],
-      "start_s": 908.637,
+      "start_s": 902.513,
       "end_s": 915.684,
-      "text": "Now, and this is essential, so I'm going to slow all the way down here, because the wrong takeaway from this is genuinely harmful.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.7565670274771024
+      "text": "You need it, in other words, exactly the kind of mind we now spend so much energy trying to fix. Now, and this is essential, so I'm going to slow all the way down here, because the wrong takeaway from this is genuinely harmful.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.7514679433805163
     },
     {
-      "window_id": "88xZotShpxY:j0093",
+      "window_id": "88xZotShpxY:j0074",
       "video_id": "88xZotShpxY",
-      "idx": 93,
+      "idx": 74,
       "sent_ids": [
         "88xZotShpxY:s0177",
         "88xZotShpxY:s0178"
@@ -1404,9 +1157,9 @@
       "pos_pct": 0.7629517069109075
     },
     {
-      "window_id": "88xZotShpxY:j0094",
+      "window_id": "88xZotShpxY:j0075",
       "video_id": "88xZotShpxY",
-      "idx": 94,
+      "idx": 75,
       "sent_ids": [
         "88xZotShpxY:s0179",
         "88xZotShpxY:s0180"
@@ -1419,37 +1172,24 @@
       "pos_pct": 0.7722697751873439
     },
     {
-      "window_id": "88xZotShpxY:j0095",
+      "window_id": "88xZotShpxY:j0076",
       "video_id": "88xZotShpxY",
-      "idx": 95,
+      "idx": 76,
       "sent_ids": [
-        "88xZotShpxY:s0181"
+        "88xZotShpxY:s0181",
+        "88xZotShpxY:s0182"
       ],
       "start_s": 939.205,
-      "end_s": 942.067,
-      "text": "For others, autism comes with profound challenges.",
-      "n_words": 7,
-      "n_sentences": 1,
+      "end_s": 955.237,
+      "text": "For others, autism comes with profound challenges. Being nonverbal, needing significant daily support, struggling with things the world makes no accommodation for, facing real and painful difficulty that no amount of romantic prehistoric storytelling makes okay.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.7820191507077435
     },
     {
-      "window_id": "88xZotShpxY:j0096",
+      "window_id": "88xZotShpxY:j0077",
       "video_id": "88xZotShpxY",
-      "idx": 96,
-      "sent_ids": [
-        "88xZotShpxY:s0182"
-      ],
-      "start_s": 942.648,
-      "end_s": 955.237,
-      "text": "Being nonverbal, needing significant daily support, struggling with things the world makes no accommodation for, facing real and painful difficulty that no amount of romantic prehistoric storytelling makes okay.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.7848859283930059
-    },
-    {
-      "window_id": "88xZotShpxY:j0097",
-      "video_id": "88xZotShpxY",
-      "idx": 97,
+      "idx": 77,
       "sent_ids": [
         "88xZotShpxY:s0183"
       ],
@@ -1461,9 +1201,9 @@
       "pos_pct": 0.7961348875936719
     },
     {
-      "window_id": "88xZotShpxY:j0098",
+      "window_id": "88xZotShpxY:j0078",
       "video_id": "88xZotShpxY",
-      "idx": 98,
+      "idx": 78,
       "sent_ids": [
         "88xZotShpxY:s0184",
         "88xZotShpxY:s0185"
@@ -1476,9 +1216,9 @@
       "pos_pct": 0.8050990840965861
     },
     {
-      "window_id": "88xZotShpxY:j0099",
+      "window_id": "88xZotShpxY:j0079",
       "video_id": "88xZotShpxY",
-      "idx": 99,
+      "idx": 79,
       "sent_ids": [
         "88xZotShpxY:s0186",
         "88xZotShpxY:s0187"
@@ -1491,9 +1231,9 @@
       "pos_pct": 0.8118309741881765
     },
     {
-      "window_id": "88xZotShpxY:j0100",
+      "window_id": "88xZotShpxY:j0080",
       "video_id": "88xZotShpxY",
-      "idx": 100,
+      "idx": 80,
       "sent_ids": [
         "88xZotShpxY:s0188",
         "88xZotShpxY:s0189",
@@ -1507,9 +1247,9 @@
       "pos_pct": 0.8198101582014987
     },
     {
-      "window_id": "88xZotShpxY:j0101",
+      "window_id": "88xZotShpxY:j0081",
       "video_id": "88xZotShpxY",
-      "idx": 101,
+      "idx": 81,
       "sent_ids": [
         "88xZotShpxY:s0191",
         "88xZotShpxY:s0192",
@@ -1524,9 +1264,9 @@
       "pos_pct": 0.8319583680266445
     },
     {
-      "window_id": "88xZotShpxY:j0102",
+      "window_id": "88xZotShpxY:j0082",
       "video_id": "88xZotShpxY",
-      "idx": 102,
+      "idx": 82,
       "sent_ids": [
         "88xZotShpxY:s0195",
         "88xZotShpxY:s0196"
@@ -1539,37 +1279,24 @@
       "pos_pct": 0.8421232306411324
     },
     {
-      "window_id": "88xZotShpxY:j0103",
+      "window_id": "88xZotShpxY:j0083",
       "video_id": "88xZotShpxY",
-      "idx": 103,
+      "idx": 83,
       "sent_ids": [
-        "88xZotShpxY:s0197"
+        "88xZotShpxY:s0197",
+        "88xZotShpxY:s0198"
       ],
       "start_s": 1016.052,
-      "end_s": 1026.137,
-      "text": "It leaves us with a reframe that's worth carrying around, whether this is about you, or your kid, or your friend, or someone you've quietly judged as too much.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 1030.628,
+      "text": "It leaves us with a reframe that's worth carrying around, whether this is about you, or your kid, or your friend, or someone you've quietly judged as too much. The autistic mind didn't suddenly appear as a modern defect.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.8460049958368027
     },
     {
-      "window_id": "88xZotShpxY:j0104",
+      "window_id": "88xZotShpxY:j0084",
       "video_id": "88xZotShpxY",
-      "idx": 104,
-      "sent_ids": [
-        "88xZotShpxY:s0198"
-      ],
-      "start_s": 1027.185,
-      "end_s": 1030.628,
-      "text": "The autistic mind didn't suddenly appear as a modern defect.",
-      "n_words": 10,
-      "n_sentences": 1,
-      "pos_pct": 0.8552747710241465
-    },
-    {
-      "window_id": "88xZotShpxY:j0105",
-      "video_id": "88xZotShpxY",
-      "idx": 105,
+      "idx": 84,
       "sent_ids": [
         "88xZotShpxY:s0199"
       ],
@@ -1581,9 +1308,9 @@
       "pos_pct": 0.8586752706078268
     },
     {
-      "window_id": "88xZotShpxY:j0106",
+      "window_id": "88xZotShpxY:j0085",
       "video_id": "88xZotShpxY",
-      "idx": 106,
+      "idx": 85,
       "sent_ids": [
         "88xZotShpxY:s0200"
       ],
@@ -1595,9 +1322,9 @@
       "pos_pct": 0.871143213988343
     },
     {
-      "window_id": "88xZotShpxY:j0107",
+      "window_id": "88xZotShpxY:j0086",
       "video_id": "88xZotShpxY",
-      "idx": 107,
+      "idx": 86,
       "sent_ids": [
         "88xZotShpxY:s0201"
       ],
@@ -1609,9 +1336,9 @@
       "pos_pct": 0.8744754371357202
     },
     {
-      "window_id": "88xZotShpxY:j0108",
+      "window_id": "88xZotShpxY:j0087",
       "video_id": "88xZotShpxY",
-      "idx": 108,
+      "idx": 87,
       "sent_ids": [
         "88xZotShpxY:s0202",
         "88xZotShpxY:s0203"
@@ -1624,9 +1351,9 @@
       "pos_pct": 0.8909883430474604
     },
     {
-      "window_id": "88xZotShpxY:j0109",
+      "window_id": "88xZotShpxY:j0088",
       "video_id": "88xZotShpxY",
-      "idx": 109,
+      "idx": 88,
       "sent_ids": [
         "88xZotShpxY:s0204",
         "88xZotShpxY:s0205"
@@ -1639,9 +1366,9 @@
       "pos_pct": 0.899038301415487
     },
     {
-      "window_id": "88xZotShpxY:j0110",
+      "window_id": "88xZotShpxY:j0089",
       "video_id": "88xZotShpxY",
-      "idx": 110,
+      "idx": 89,
       "sent_ids": [
         "88xZotShpxY:s0206"
       ],
@@ -1653,9 +1380,9 @@
       "pos_pct": 0.9066044962531224
     },
     {
-      "window_id": "88xZotShpxY:j0111",
+      "window_id": "88xZotShpxY:j0090",
       "video_id": "88xZotShpxY",
-      "idx": 111,
+      "idx": 90,
       "sent_ids": [
         "88xZotShpxY:s0207"
       ],
@@ -1667,9 +1394,9 @@
       "pos_pct": 0.9136494587843463
     },
     {
-      "window_id": "88xZotShpxY:j0112",
+      "window_id": "88xZotShpxY:j0091",
       "video_id": "88xZotShpxY",
-      "idx": 112,
+      "idx": 91,
       "sent_ids": [
         "88xZotShpxY:s0208"
       ],
@@ -1681,9 +1408,9 @@
       "pos_pct": 0.9269100749375521
     },
     {
-      "window_id": "88xZotShpxY:j0113",
+      "window_id": "88xZotShpxY:j0092",
       "video_id": "88xZotShpxY",
-      "idx": 113,
+      "idx": 92,
       "sent_ids": [
         "88xZotShpxY:s0209",
         "88xZotShpxY:s0210",
@@ -1697,9 +1424,9 @@
       "pos_pct": 0.9381515403830142
     },
     {
-      "window_id": "88xZotShpxY:j0114",
+      "window_id": "88xZotShpxY:j0093",
       "video_id": "88xZotShpxY",
-      "idx": 114,
+      "idx": 93,
       "sent_ids": [
         "88xZotShpxY:s0212",
         "88xZotShpxY:s0213",
@@ -1713,9 +1440,9 @@
       "pos_pct": 0.9440649458784346
     },
     {
-      "window_id": "88xZotShpxY:j0115",
+      "window_id": "88xZotShpxY:j0094",
       "video_id": "88xZotShpxY",
-      "idx": 115,
+      "idx": 94,
       "sent_ids": [
         "88xZotShpxY:s0215",
         "88xZotShpxY:s0216"
@@ -1728,9 +1455,9 @@
       "pos_pct": 0.9513771856786012
     },
     {
-      "window_id": "88xZotShpxY:j0116",
+      "window_id": "88xZotShpxY:j0095",
       "video_id": "88xZotShpxY",
-      "idx": 116,
+      "idx": 95,
       "sent_ids": [
         "88xZotShpxY:s0217",
         "88xZotShpxY:s0218"
@@ -1743,9 +1470,9 @@
       "pos_pct": 0.9583896752706079
     },
     {
-      "window_id": "88xZotShpxY:j0117",
+      "window_id": "88xZotShpxY:j0096",
       "video_id": "88xZotShpxY",
-      "idx": 117,
+      "idx": 96,
       "sent_ids": [
         "88xZotShpxY:s0219",
         "88xZotShpxY:s0220"
@@ -1758,9 +1485,9 @@
       "pos_pct": 0.9637368859283931
     },
     {
-      "window_id": "88xZotShpxY:j0118",
+      "window_id": "88xZotShpxY:j0097",
       "video_id": "88xZotShpxY",
-      "idx": 118,
+      "idx": 97,
       "sent_ids": [
         "88xZotShpxY:s0221",
         "88xZotShpxY:s0222"
@@ -1773,9 +1500,9 @@
       "pos_pct": 0.9721174021648625
     },
     {
-      "window_id": "88xZotShpxY:j0119",
+      "window_id": "88xZotShpxY:j0098",
       "video_id": "88xZotShpxY",
-      "idx": 119,
+      "idx": 98,
       "sent_ids": [
         "88xZotShpxY:s0223",
         "88xZotShpxY:s0224",
@@ -1789,9 +1516,9 @@
       "pos_pct": 0.982203164029975
     },
     {
-      "window_id": "88xZotShpxY:j0120",
+      "window_id": "88xZotShpxY:j0099",
       "video_id": "88xZotShpxY",
-      "idx": 120,
+      "idx": 99,
       "sent_ids": [
         "88xZotShpxY:s0226",
         "88xZotShpxY:s0227"

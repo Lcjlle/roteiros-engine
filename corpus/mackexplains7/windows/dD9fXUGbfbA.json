@@ -1,6 +1,6 @@
 {
   "video_id": "dD9fXUGbfbA",
-  "generated_at": "2026-09-03T11:59:53.018358+00:00",
+  "generated_at": "2026-09-03T13:18:13.132083+00:00",
   "windows": [
     {
       "window_id": "dD9fXUGbfbA:j0000",
@@ -53,13 +53,14 @@
       "video_id": "dD9fXUGbfbA",
       "idx": 3,
       "sent_ids": [
-        "dD9fXUGbfbA:s0007"
+        "dD9fXUGbfbA:s0007",
+        "dD9fXUGbfbA:s0008"
       ],
       "start_s": 26.6,
-      "end_s": 37.362,
-      "text": "Why do animals, creatures that have claws, venom, horns, speed, and sometimes the ability to literally detach their own tail, why are they terrified of us?",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 42.363,
+      "text": "Why do animals, creatures that have claws, venom, horns, speed, and sometimes the ability to literally detach their own tail, why are they terrified of us? Of soft, slow, mostly hairless apes who get winded climbing two flights of stairs.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.024116047144152313
     },
     {
@@ -67,67 +68,53 @@
       "video_id": "dD9fXUGbfbA",
       "idx": 4,
       "sent_ids": [
-        "dD9fXUGbfbA:s0008",
-        "dD9fXUGbfbA:s0009"
+        "dD9fXUGbfbA:s0009",
+        "dD9fXUGbfbA:s0010",
+        "dD9fXUGbfbA:s0011"
       ],
-      "start_s": 37.882,
-      "end_s": 44.824,
-      "text": "Of soft, slow, mostly hairless apes who get winded climbing two flights of stairs. The answer goes way deeper than you think.",
-      "n_words": 22,
-      "n_sentences": 2,
-      "pos_pct": 0.034344514959202176
+      "start_s": 42.843,
+      "end_s": 52.309,
+      "text": "The answer goes way deeper than you think. And honestly, once you understand it, you'll never look at a spooked squirrel the same way again. Let's start from the very beginning.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.038842248413417955
     },
     {
       "window_id": "dD9fXUGbfbA:j0005",
       "video_id": "dD9fXUGbfbA",
       "idx": 5,
       "sent_ids": [
-        "dD9fXUGbfbA:s0010",
-        "dD9fXUGbfbA:s0011",
-        "dD9fXUGbfbA:s0012"
+        "dD9fXUGbfbA:s0012",
+        "dD9fXUGbfbA:s0013",
+        "dD9fXUGbfbA:s0014"
       ],
-      "start_s": 45.205,
-      "end_s": 55.391,
-      "text": "And honestly, once you understand it, you'll never look at a spooked squirrel the same way again. Let's start from the very beginning. Here's something that should probably make you feel a little uncomfortable.",
+      "start_s": 52.65,
+      "end_s": 63.237,
+      "text": "Here's something that should probably make you feel a little uncomfortable. The fear that animals have of humans didn't start last century. It didn't start when humans invented guns or agriculture or even fire.",
       "n_words": 34,
       "n_sentences": 3,
-      "pos_pct": 0.04098368087035358
+      "pos_pct": 0.047733454215775156
     },
     {
       "window_id": "dD9fXUGbfbA:j0006",
       "video_id": "dD9fXUGbfbA",
       "idx": 6,
       "sent_ids": [
-        "dD9fXUGbfbA:s0013",
-        "dD9fXUGbfbA:s0014",
-        "dD9fXUGbfbA:s0015"
+        "dD9fXUGbfbA:s0015",
+        "dD9fXUGbfbA:s0016",
+        "dD9fXUGbfbA:s0017"
       ],
-      "start_s": 55.732,
-      "end_s": 65.499,
-      "text": "The fear that animals have of humans didn't start last century. It didn't start when humans invented guns or agriculture or even fire. It started millions of years ago.",
-      "n_words": 29,
+      "start_s": 64.037,
+      "end_s": 72.367,
+      "text": "It started millions of years ago. Scientists have a term for it, the landscape of fear. It's the idea that prey animals don't just respond to predators when they're right in front of them.",
+      "n_words": 34,
       "n_sentences": 3,
-      "pos_pct": 0.05052765185856754
+      "pos_pct": 0.05805711695376247
     },
     {
       "window_id": "dD9fXUGbfbA:j0007",
       "video_id": "dD9fXUGbfbA",
       "idx": 7,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0016",
-        "dD9fXUGbfbA:s0017"
-      ],
-      "start_s": 65.919,
-      "end_s": 72.367,
-      "text": "Scientists have a term for it, the landscape of fear. It's the idea that prey animals don't just respond to predators when they're right in front of them.",
-      "n_words": 28,
-      "n_sentences": 2,
-      "pos_pct": 0.059763372620126924
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0008",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 8,
       "sent_ids": [
         "dD9fXUGbfbA:s0018",
         "dD9fXUGbfbA:s0019"
@@ -140,9 +127,9 @@
       "pos_pct": 0.0660453309156845
     },
     {
-      "window_id": "dD9fXUGbfbA:j0009",
+      "window_id": "dD9fXUGbfbA:j0008",
       "video_id": "dD9fXUGbfbA",
-      "idx": 9,
+      "idx": 8,
       "sent_ids": [
         "dD9fXUGbfbA:s0020",
         "dD9fXUGbfbA:s0021",
@@ -157,9 +144,9 @@
       "pos_pct": 0.07577606527651859
     },
     {
-      "window_id": "dD9fXUGbfbA:j0010",
+      "window_id": "dD9fXUGbfbA:j0009",
       "video_id": "dD9fXUGbfbA",
-      "idx": 10,
+      "idx": 9,
       "sent_ids": [
         "dD9fXUGbfbA:s0024",
         "dD9fXUGbfbA:s0025",
@@ -174,54 +161,41 @@
       "pos_pct": 0.08350226654578422
     },
     {
+      "window_id": "dD9fXUGbfbA:j0010",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 10,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0028",
+        "dD9fXUGbfbA:s0029"
+      ],
+      "start_s": 100.824,
+      "end_s": 111.226,
+      "text": "Until the animal collapsed from exhaustion. If you were a gazelle and you saw a weird bipedal creature in the distance jogging at a medium pace, that was genuinely one of the most horrifying things you could witness.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.09140888485947415
+    },
+    {
       "window_id": "dD9fXUGbfbA:j0011",
       "video_id": "dD9fXUGbfbA",
       "idx": 11,
       "sent_ids": [
-        "dD9fXUGbfbA:s0028"
+        "dD9fXUGbfbA:s0030",
+        "dD9fXUGbfbA:s0031",
+        "dD9fXUGbfbA:s0032",
+        "dD9fXUGbfbA:s0033"
       ],
-      "start_s": 100.824,
-      "end_s": 102.664,
-      "text": "Until the animal collapsed from exhaustion.",
-      "n_words": 6,
-      "n_sentences": 1,
-      "pos_pct": 0.09140888485947415
+      "start_s": 111.606,
+      "end_s": 126.033,
+      "text": "So, animals learned. Not individually, but generationally. The ones that didn't run from human-shaped silhouettes got eaten. The ones that did run survived, reproduced, and passed that wariness on to their offspring.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.10118404351767905
     },
     {
       "window_id": "dD9fXUGbfbA:j0012",
       "video_id": "dD9fXUGbfbA",
       "idx": 12,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0029",
-        "dD9fXUGbfbA:s0030"
-      ],
-      "start_s": 103.085,
-      "end_s": 112.987,
-      "text": "If you were a gazelle and you saw a weird bipedal creature in the distance jogging at a medium pace, that was genuinely one of the most horrifying things you could witness. So, animals learned.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.0934587488667271
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0013",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 13,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0031",
-        "dD9fXUGbfbA:s0032",
-        "dD9fXUGbfbA:s0033"
-      ],
-      "start_s": 113.327,
-      "end_s": 126.033,
-      "text": "Not individually, but generationally. The ones that didn't run from human-shaped silhouettes got eaten. The ones that did run survived, reproduced, and passed that wariness on to their offspring.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.10274433363553943
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0014",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 14,
       "sent_ids": [
         "dD9fXUGbfbA:s0034",
         "dD9fXUGbfbA:s0035",
@@ -236,9 +210,9 @@
       "pos_pct": 0.11448141432456935
     },
     {
-      "window_id": "dD9fXUGbfbA:j0015",
+      "window_id": "dD9fXUGbfbA:j0013",
       "video_id": "dD9fXUGbfbA",
-      "idx": 15,
+      "idx": 13,
       "sent_ids": [
         "dD9fXUGbfbA:s0038",
         "dD9fXUGbfbA:s0039"
@@ -251,9 +225,9 @@
       "pos_pct": 0.12679873073436085
     },
     {
-      "window_id": "dD9fXUGbfbA:j0016",
+      "window_id": "dD9fXUGbfbA:j0014",
       "video_id": "dD9fXUGbfbA",
-      "idx": 16,
+      "idx": 14,
       "sent_ids": [
         "dD9fXUGbfbA:s0040",
         "dD9fXUGbfbA:s0041",
@@ -268,9 +242,9 @@
       "pos_pct": 0.1375049864007253
     },
     {
-      "window_id": "dD9fXUGbfbA:j0017",
+      "window_id": "dD9fXUGbfbA:j0015",
       "video_id": "dD9fXUGbfbA",
-      "idx": 17,
+      "idx": 15,
       "sent_ids": [
         "dD9fXUGbfbA:s0044",
         "dD9fXUGbfbA:s0045",
@@ -285,9 +259,9 @@
       "pos_pct": 0.14794288304623754
     },
     {
-      "window_id": "dD9fXUGbfbA:j0018",
+      "window_id": "dD9fXUGbfbA:j0016",
       "video_id": "dD9fXUGbfbA",
-      "idx": 18,
+      "idx": 16,
       "sent_ids": [
         "dD9fXUGbfbA:s0048",
         "dD9fXUGbfbA:s0049"
@@ -300,74 +274,74 @@
       "pos_pct": 0.15567815049864006
     },
     {
+      "window_id": "dD9fXUGbfbA:j0017",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 17,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0050",
+        "dD9fXUGbfbA:s0051"
+      ],
+      "start_s": 177.898,
+      "end_s": 192.327,
+      "text": "Bobcats, deer, skunks, possums, they all bolted faster and harder from human voices than from any other threat. Some predators, animals that don't have natural enemies, still responded with the same panic response to human sounds.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.16128558476881233
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0018",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 18,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0052",
+        "dD9fXUGbfbA:s0053",
+        "dD9fXUGbfbA:s0054",
+        "dD9fXUGbfbA:s0055"
+      ],
+      "start_s": 192.507,
+      "end_s": 197.83,
+      "text": "Think about that. A mountain lion. An apex predator. An animal that kills deer for breakfast.",
+      "n_words": 16,
+      "n_sentences": 4,
+      "pos_pct": 0.17453037171350863
+    },
+    {
       "window_id": "dD9fXUGbfbA:j0019",
       "video_id": "dD9fXUGbfbA",
       "idx": 19,
       "sent_ids": [
-        "dD9fXUGbfbA:s0050"
+        "dD9fXUGbfbA:s0056",
+        "dD9fXUGbfbA:s0057",
+        "dD9fXUGbfbA:s0058",
+        "dD9fXUGbfbA:s0059"
       ],
-      "start_s": 177.898,
-      "end_s": 185.663,
-      "text": "Bobcats, deer, skunks, possums, they all bolted faster and harder from human voices than from any other threat.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.16128558476881233
+      "start_s": 198.331,
+      "end_s": 208.417,
+      "text": "Running away from the sound of someone chatting about their weekend plans. Why? Because even apex predators have a historical memory of humans being dangerous. We hunted them too.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.17981051677243878
     },
     {
       "window_id": "dD9fXUGbfbA:j0020",
       "video_id": "dD9fXUGbfbA",
       "idx": 20,
       "sent_ids": [
-        "dD9fXUGbfbA:s0051",
-        "dD9fXUGbfbA:s0052",
-        "dD9fXUGbfbA:s0053",
-        "dD9fXUGbfbA:s0054"
+        "dD9fXUGbfbA:s0060",
+        "dD9fXUGbfbA:s0061",
+        "dD9fXUGbfbA:s0062"
       ],
-      "start_s": 186.283,
-      "end_s": 195.749,
-      "text": "Some predators, animals that don't have natural enemies, still responded with the same panic response to human sounds. Think about that. A mountain lion. An apex predator.",
-      "n_words": 27,
-      "n_sentences": 4,
-      "pos_pct": 0.16888757932910245
+      "start_s": 208.657,
+      "end_s": 217.123,
+      "text": "We pushed them out of habitats. We killed them when they got too close to livestock. Over time, even the top of the food chain learned, humans equals threat.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.1891722574796011
     },
     {
       "window_id": "dD9fXUGbfbA:j0021",
       "video_id": "dD9fXUGbfbA",
       "idx": 21,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0055",
-        "dD9fXUGbfbA:s0056",
-        "dD9fXUGbfbA:s0057",
-        "dD9fXUGbfbA:s0058"
-      ],
-      "start_s": 196.049,
-      "end_s": 206.836,
-      "text": "An animal that kills deer for breakfast. Running away from the sound of someone chatting about their weekend plans. Why? Because even apex predators have a historical memory of humans being dangerous.",
-      "n_words": 32,
-      "n_sentences": 4,
-      "pos_pct": 0.17774161378059838
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0022",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 22,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0059",
-        "dD9fXUGbfbA:s0060",
-        "dD9fXUGbfbA:s0061",
-        "dD9fXUGbfbA:s0062"
-      ],
-      "start_s": 207.557,
-      "end_s": 217.123,
-      "text": "We hunted them too. We pushed them out of habitats. We killed them when they got too close to livestock. Over time, even the top of the food chain learned, humans equals threat.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.18817497733454214
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0023",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 23,
       "sent_ids": [
         "dD9fXUGbfbA:s0063",
         "dD9fXUGbfbA:s0064",
@@ -382,9 +356,9 @@
       "pos_pct": 0.19701087941976428
     },
     {
-      "window_id": "dD9fXUGbfbA:j0024",
+      "window_id": "dD9fXUGbfbA:j0022",
       "video_id": "dD9fXUGbfbA",
-      "idx": 24,
+      "idx": 22,
       "sent_ids": [
         "dD9fXUGbfbA:s0067",
         "dD9fXUGbfbA:s0068",
@@ -399,9 +373,9 @@
       "pos_pct": 0.20809247506799639
     },
     {
-      "window_id": "dD9fXUGbfbA:j0025",
+      "window_id": "dD9fXUGbfbA:j0023",
       "video_id": "dD9fXUGbfbA",
-      "idx": 25,
+      "idx": 23,
       "sent_ids": [
         "dD9fXUGbfbA:s0071",
         "dD9fXUGbfbA:s0072"
@@ -414,9 +388,9 @@
       "pos_pct": 0.2159628286491387
     },
     {
-      "window_id": "dD9fXUGbfbA:j0026",
+      "window_id": "dD9fXUGbfbA:j0024",
       "video_id": "dD9fXUGbfbA",
-      "idx": 26,
+      "idx": 24,
       "sent_ids": [
         "dD9fXUGbfbA:s0073",
         "dD9fXUGbfbA:s0074",
@@ -430,9 +404,9 @@
       "pos_pct": 0.22411332728921124
     },
     {
-      "window_id": "dD9fXUGbfbA:j0027",
+      "window_id": "dD9fXUGbfbA:j0025",
       "video_id": "dD9fXUGbfbA",
-      "idx": 27,
+      "idx": 25,
       "sent_ids": [
         "dD9fXUGbfbA:s0076",
         "dD9fXUGbfbA:s0077",
@@ -447,9 +421,9 @@
       "pos_pct": 0.2316482320942883
     },
     {
-      "window_id": "dD9fXUGbfbA:j0028",
+      "window_id": "dD9fXUGbfbA:j0026",
       "video_id": "dD9fXUGbfbA",
-      "idx": 28,
+      "idx": 26,
       "sent_ids": [
         "dD9fXUGbfbA:s0080",
         "dD9fXUGbfbA:s0081",
@@ -463,9 +437,9 @@
       "pos_pct": 0.24177062556663645
     },
     {
-      "window_id": "dD9fXUGbfbA:j0029",
+      "window_id": "dD9fXUGbfbA:j0027",
       "video_id": "dD9fXUGbfbA",
-      "idx": 29,
+      "idx": 27,
       "sent_ids": [
         "dD9fXUGbfbA:s0083",
         "dD9fXUGbfbA:s0084"
@@ -478,9 +452,9 @@
       "pos_pct": 0.2508032638259293
     },
     {
-      "window_id": "dD9fXUGbfbA:j0030",
+      "window_id": "dD9fXUGbfbA:j0028",
       "video_id": "dD9fXUGbfbA",
-      "idx": 30,
+      "idx": 28,
       "sent_ids": [
         "dD9fXUGbfbA:s0085",
         "dD9fXUGbfbA:s0086",
@@ -494,114 +468,101 @@
       "pos_pct": 0.258675430643699
     },
     {
+      "window_id": "dD9fXUGbfbA:j0029",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 29,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0088",
+        "dD9fXUGbfbA:s0089"
+      ],
+      "start_s": 298.305,
+      "end_s": 310.595,
+      "text": "Animals have specific calibrated responses for each category, but humans don't fit neatly into any category. We smell weird, we move weirdly, we make strange noises, and then sometimes we feed birds in a park for 20 minutes.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.2704487760652765
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0030",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 30,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0090",
+        "dD9fXUGbfbA:s0091",
+        "dD9fXUGbfbA:s0092",
+        "dD9fXUGbfbA:s0093"
+      ],
+      "start_s": 311.156,
+      "end_s": 320.664,
+      "text": "We break the algorithm. And that's deeply, deeply unsettling to an animal brain. But wait, what about animals that aren't scared of us? Good question.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.2820997280145059
+    },
+    {
       "window_id": "dD9fXUGbfbA:j0031",
       "video_id": "dD9fXUGbfbA",
       "idx": 31,
       "sent_ids": [
-        "dD9fXUGbfbA:s0088"
+        "dD9fXUGbfbA:s0094",
+        "dD9fXUGbfbA:s0095"
       ],
-      "start_s": 298.305,
-      "end_s": 304.45,
-      "text": "Animals have specific calibrated responses for each category, but humans don't fit neatly into any category.",
-      "n_words": 16,
-      "n_sentences": 1,
-      "pos_pct": 0.2704487760652765
+      "start_s": 320.804,
+      "end_s": 329.112,
+      "text": "Because you've definitely seen pigeons in a city square that would rather die than move out of your way. You've seen raccoons that look you dead in the eyes while eating your garbage.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.2908467815049864
     },
     {
       "window_id": "dD9fXUGbfbA:j0032",
       "video_id": "dD9fXUGbfbA",
       "idx": 32,
       "sent_ids": [
-        "dD9fXUGbfbA:s0089",
-        "dD9fXUGbfbA:s0090",
-        "dD9fXUGbfbA:s0091"
+        "dD9fXUGbfbA:s0096",
+        "dD9fXUGbfbA:s0097"
       ],
-      "start_s": 304.63,
-      "end_s": 316.46,
-      "text": "We smell weird, we move weirdly, we make strange noises, and then sometimes we feed birds in a park for 20 minutes. We break the algorithm. And that's deeply, deeply unsettling to an animal brain.",
-      "n_words": 35,
-      "n_sentences": 3,
-      "pos_pct": 0.27618313689936536
+      "start_s": 329.632,
+      "end_s": 343.033,
+      "text": "Seagulls that will steal a chip directly from your hand and maintain eye contact the entire time to assert dominance. So what's going on there, this is called habituation, and it's one of the most important concepts in animal behavior.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.29885040797824114
     },
     {
       "window_id": "dD9fXUGbfbA:j0033",
       "video_id": "dD9fXUGbfbA",
       "idx": 33,
       "sent_ids": [
-        "dD9fXUGbfbA:s0092",
-        "dD9fXUGbfbA:s0093",
-        "dD9fXUGbfbA:s0094"
+        "dD9fXUGbfbA:s0098",
+        "dD9fXUGbfbA:s0099"
       ],
-      "start_s": 316.761,
-      "end_s": 325.288,
-      "text": "But wait, what about animals that aren't scared of us? Good question. Because you've definitely seen pigeons in a city square that would rather die than move out of your way.",
-      "n_words": 31,
-      "n_sentences": 3,
-      "pos_pct": 0.287181323662738
+      "start_s": 343.734,
+      "end_s": 358.222,
+      "text": "When animals are repeatedly exposed to a stimulus, humans in this case, without experiencing negative consequences, they gradually reduce their fear response. It's basically the brain saying, this thing keeps showing up and nothing bad happens.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.3116355394378966
     },
     {
       "window_id": "dD9fXUGbfbA:j0034",
       "video_id": "dD9fXUGbfbA",
       "idx": 34,
       "sent_ids": [
-        "dD9fXUGbfbA:s0095",
-        "dD9fXUGbfbA:s0096"
+        "dD9fXUGbfbA:s0100",
+        "dD9fXUGbfbA:s0101"
       ],
-      "start_s": 325.609,
-      "end_s": 336.599,
-      "text": "You've seen raccoons that look you dead in the eyes while eating your garbage. Seagulls that will steal a chip directly from your hand and maintain eye contact the entire time to assert dominance.",
-      "n_words": 34,
+      "start_s": 358.802,
+      "end_s": 365.206,
+      "text": "I'm wasting energy being scared of it, downgrading the threat level. Urban animals go through this process over generations.",
+      "n_words": 19,
       "n_sentences": 2,
-      "pos_pct": 0.2952030825022665
+      "pos_pct": 0.3252964641885766
     },
     {
       "window_id": "dD9fXUGbfbA:j0035",
       "video_id": "dD9fXUGbfbA",
       "idx": 35,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0097"
-      ],
-      "start_s": 336.97,
-      "end_s": 343.033,
-      "text": "So what's going on there, this is called habituation, and it's one of the most important concepts in animal behavior.",
-      "n_words": 20,
-      "n_sentences": 1,
-      "pos_pct": 0.3055031731640979
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0036",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 36,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0098"
-      ],
-      "start_s": 343.734,
-      "end_s": 352.959,
-      "text": "When animals are repeatedly exposed to a stimulus, humans in this case, without experiencing negative consequences, they gradually reduce their fear response.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.3116355394378966
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0037",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 37,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0099",
-        "dD9fXUGbfbA:s0100",
-        "dD9fXUGbfbA:s0101"
-      ],
-      "start_s": 353.639,
-      "end_s": 365.206,
-      "text": "It's basically the brain saying, this thing keeps showing up and nothing bad happens. I'm wasting energy being scared of it, downgrading the threat level. Urban animals go through this process over generations.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.3206155938349955
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0038",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 38,
       "sent_ids": [
         "dD9fXUGbfbA:s0102",
         "dD9fXUGbfbA:s0103"
@@ -614,9 +575,9 @@
       "pos_pct": 0.33150135992747054
     },
     {
-      "window_id": "dD9fXUGbfbA:j0039",
+      "window_id": "dD9fXUGbfbA:j0036",
       "video_id": "dD9fXUGbfbA",
-      "idx": 39,
+      "idx": 36,
       "sent_ids": [
         "dD9fXUGbfbA:s0104",
         "dD9fXUGbfbA:s0105"
@@ -629,9 +590,9 @@
       "pos_pct": 0.34195194922937444
     },
     {
-      "window_id": "dD9fXUGbfbA:j0040",
+      "window_id": "dD9fXUGbfbA:j0037",
       "video_id": "dD9fXUGbfbA",
-      "idx": 40,
+      "idx": 37,
       "sent_ids": [
         "dD9fXUGbfbA:s0106",
         "dD9fXUGbfbA:s0107",
@@ -645,9 +606,9 @@
       "pos_pct": 0.3502248413417951
     },
     {
-      "window_id": "dD9fXUGbfbA:j0041",
+      "window_id": "dD9fXUGbfbA:j0038",
       "video_id": "dD9fXUGbfbA",
-      "idx": 41,
+      "idx": 38,
       "sent_ids": [
         "dD9fXUGbfbA:s0109",
         "dD9fXUGbfbA:s0110"
@@ -660,9 +621,9 @@
       "pos_pct": 0.3592620126926564
     },
     {
-      "window_id": "dD9fXUGbfbA:j0042",
+      "window_id": "dD9fXUGbfbA:j0039",
       "video_id": "dD9fXUGbfbA",
-      "idx": 42,
+      "idx": 39,
       "sent_ids": [
         "dD9fXUGbfbA:s0111",
         "dD9fXUGbfbA:s0112"
@@ -675,9 +636,9 @@
       "pos_pct": 0.36617679057116953
     },
     {
-      "window_id": "dD9fXUGbfbA:j0043",
+      "window_id": "dD9fXUGbfbA:j0040",
       "video_id": "dD9fXUGbfbA",
-      "idx": 43,
+      "idx": 40,
       "sent_ids": [
         "dD9fXUGbfbA:s0113",
         "dD9fXUGbfbA:s0114"
@@ -690,99 +651,86 @@
       "pos_pct": 0.3744705349048051
     },
     {
+      "window_id": "dD9fXUGbfbA:j0041",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 41,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0115",
+        "dD9fXUGbfbA:s0116"
+      ],
+      "start_s": 421.61,
+      "end_s": 434.881,
+      "text": "On islands and in areas where humans have never been, or where humans have been absent for long periods, animals show almost no fear response at all. The Galapagos Islands are probably the most famous example.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.3822393472348142
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0042",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 42,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0117",
+        "dD9fXUGbfbA:s0118"
+      ],
+      "start_s": 435.361,
+      "end_s": 441.005,
+      "text": "When Darwin arrived there in the 1830s, he was baffled. The animals just didn't move.",
+      "n_words": 15,
+      "n_sentences": 2,
+      "pos_pct": 0.39470625566636447
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0043",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 43,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0119",
+        "dD9fXUGbfbA:s0120"
+      ],
+      "start_s": 441.445,
+      "end_s": 454.314,
+      "text": "He wrote in his journal about sitting next to birds that didn't fly away, pushing iguanas into the sea and watching them calmly swim back and sit next to him again. Marine iguanas, blue-footed boobies, giant tortoises, none of them ran.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.40022212148685404
+    },
+    {
       "window_id": "dD9fXUGbfbA:j0044",
       "video_id": "dD9fXUGbfbA",
       "idx": 44,
       "sent_ids": [
-        "dD9fXUGbfbA:s0115"
+        "dD9fXUGbfbA:s0121",
+        "dD9fXUGbfbA:s0122",
+        "dD9fXUGbfbA:s0123",
+        "dD9fXUGbfbA:s0124"
       ],
-      "start_s": 421.61,
-      "end_s": 431.478,
-      "text": "On islands and in areas where humans have never been, or where humans have been absent for long periods, animals show almost no fear response at all.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.3822393472348142
+      "start_s": 454.735,
+      "end_s": 465.301,
+      "text": "None of them cared. The same thing happens in parts of Antarctica. Penguins have essentially zero fear of humans. They'll walk straight up to researchers, inspect their equipment, occasionally try to steal things.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.4122710788757933
     },
     {
       "window_id": "dD9fXUGbfbA:j0045",
       "video_id": "dD9fXUGbfbA",
       "idx": 45,
       "sent_ids": [
-        "dD9fXUGbfbA:s0116",
-        "dD9fXUGbfbA:s0117",
-        "dD9fXUGbfbA:s0118"
+        "dD9fXUGbfbA:s0125",
+        "dD9fXUGbfbA:s0126"
       ],
-      "start_s": 431.739,
-      "end_s": 441.005,
-      "text": "The Galapagos Islands are probably the most famous example. When Darwin arrived there in the 1830s, he was baffled. The animals just didn't move.",
-      "n_words": 24,
-      "n_sentences": 3,
-      "pos_pct": 0.3914224841341795
+      "start_s": 465.721,
+      "end_s": 478.369,
+      "text": "Scientists doing fieldwork have to fight off curious penguins who are fascinated by their cameras and backpacks. And in marine reserves where fishing has been banned for decades, fish populations start losing their fear of divers.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.42223118766999096
     },
     {
       "window_id": "dD9fXUGbfbA:j0046",
       "video_id": "dD9fXUGbfbA",
       "idx": 46,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0119"
-      ],
-      "start_s": 441.445,
-      "end_s": 448.891,
-      "text": "He wrote in his journal about sitting next to birds that didn't fly away, pushing iguanas into the sea and watching them calmly swim back and sit next to him again.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.40022212148685404
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0047",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 47,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0120",
-        "dD9fXUGbfbA:s0121",
-        "dD9fXUGbfbA:s0122",
-        "dD9fXUGbfbA:s0123"
-      ],
-      "start_s": 449.511,
-      "end_s": 460.118,
-      "text": "Marine iguanas, blue-footed boobies, giant tortoises, none of them ran. None of them cared. The same thing happens in parts of Antarctica. Penguins have essentially zero fear of humans.",
-      "n_words": 29,
-      "n_sentences": 4,
-      "pos_pct": 0.4075349048050771
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0048",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 48,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0124",
-        "dD9fXUGbfbA:s0125"
-      ],
-      "start_s": 460.699,
-      "end_s": 471.545,
-      "text": "They'll walk straight up to researchers, inspect their equipment, occasionally try to steal things. Scientists doing fieldwork have to fight off curious penguins who are fascinated by their cameras and backpacks.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.4176781504986401
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0049",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 49,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0126"
-      ],
-      "start_s": 472.125,
-      "end_s": 478.369,
-      "text": "And in marine reserves where fishing has been banned for decades, fish populations start losing their fear of divers.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.4280371713508613
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0050",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 50,
       "sent_ids": [
         "dD9fXUGbfbA:s0127",
         "dD9fXUGbfbA:s0128",
@@ -796,37 +744,24 @@
       "pos_pct": 0.43453218495013596
     },
     {
-      "window_id": "dD9fXUGbfbA:j0051",
+      "window_id": "dD9fXUGbfbA:j0047",
       "video_id": "dD9fXUGbfbA",
-      "idx": 51,
+      "idx": 47,
       "sent_ids": [
-        "dD9fXUGbfbA:s0130"
+        "dD9fXUGbfbA:s0130",
+        "dD9fXUGbfbA:s0131"
       ],
       "start_s": 492.158,
-      "end_s": 493.579,
-      "text": "It's installed through experience.",
-      "n_words": 4,
-      "n_sentences": 1,
+      "end_s": 508.473,
+      "text": "It's installed through experience. When humans stop being a threat, either because they were never there or because hunting stopped, the fear dissolves, sometimes within just a few generations, which means the fear isn't about us specifically.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.4461994560290118
     },
     {
-      "window_id": "dD9fXUGbfbA:j0052",
+      "window_id": "dD9fXUGbfbA:j0048",
       "video_id": "dD9fXUGbfbA",
-      "idx": 52,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0131"
-      ],
-      "start_s": 494.4,
-      "end_s": 508.473,
-      "text": "When humans stop being a threat, either because they were never there or because hunting stopped, the fear dissolves, sometimes within just a few generations, which means the fear isn't about us specifically.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.4482320942883046
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0053",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 53,
+      "idx": 48,
       "sent_ids": [
         "dD9fXUGbfbA:s0132",
         "dD9fXUGbfbA:s0133",
@@ -840,9 +775,9 @@
       "pos_pct": 0.4614079782411605
     },
     {
-      "window_id": "dD9fXUGbfbA:j0054",
+      "window_id": "dD9fXUGbfbA:j0049",
       "video_id": "dD9fXUGbfbA",
-      "idx": 54,
+      "idx": 49,
       "sent_ids": [
         "dD9fXUGbfbA:s0135",
         "dD9fXUGbfbA:s0136",
@@ -856,9 +791,9 @@
       "pos_pct": 0.47354125113327294
     },
     {
-      "window_id": "dD9fXUGbfbA:j0055",
+      "window_id": "dD9fXUGbfbA:j0050",
       "video_id": "dD9fXUGbfbA",
-      "idx": 55,
+      "idx": 50,
       "sent_ids": [
         "dD9fXUGbfbA:s0138",
         "dD9fXUGbfbA:s0139",
@@ -873,9 +808,9 @@
       "pos_pct": 0.4870716228467815
     },
     {
-      "window_id": "dD9fXUGbfbA:j0056",
+      "window_id": "dD9fXUGbfbA:j0051",
       "video_id": "dD9fXUGbfbA",
-      "idx": 56,
+      "idx": 51,
       "sent_ids": [
         "dD9fXUGbfbA:s0142",
         "dD9fXUGbfbA:s0143",
@@ -890,9 +825,9 @@
       "pos_pct": 0.5001477787851315
     },
     {
-      "window_id": "dD9fXUGbfbA:j0057",
+      "window_id": "dD9fXUGbfbA:j0052",
       "video_id": "dD9fXUGbfbA",
-      "idx": 57,
+      "idx": 52,
       "sent_ids": [
         "dD9fXUGbfbA:s0146",
         "dD9fXUGbfbA:s0147"
@@ -905,9 +840,9 @@
       "pos_pct": 0.5086736174070716
     },
     {
-      "window_id": "dD9fXUGbfbA:j0058",
+      "window_id": "dD9fXUGbfbA:j0053",
       "video_id": "dD9fXUGbfbA",
-      "idx": 58,
+      "idx": 53,
       "sent_ids": [
         "dD9fXUGbfbA:s0148",
         "dD9fXUGbfbA:s0149",
@@ -922,9 +857,9 @@
       "pos_pct": 0.5196672710788758
     },
     {
-      "window_id": "dD9fXUGbfbA:j0059",
+      "window_id": "dD9fXUGbfbA:j0054",
       "video_id": "dD9fXUGbfbA",
-      "idx": 59,
+      "idx": 54,
       "sent_ids": [
         "dD9fXUGbfbA:s0152",
         "dD9fXUGbfbA:s0153",
@@ -938,9 +873,9 @@
       "pos_pct": 0.5320163191296464
     },
     {
-      "window_id": "dD9fXUGbfbA:j0060",
+      "window_id": "dD9fXUGbfbA:j0055",
       "video_id": "dD9fXUGbfbA",
-      "idx": 60,
+      "idx": 55,
       "sent_ids": [
         "dD9fXUGbfbA:s0155",
         "dD9fXUGbfbA:s0156"
@@ -953,9 +888,9 @@
       "pos_pct": 0.5428721668177697
     },
     {
-      "window_id": "dD9fXUGbfbA:j0061",
+      "window_id": "dD9fXUGbfbA:j0056",
       "video_id": "dD9fXUGbfbA",
-      "idx": 61,
+      "idx": 56,
       "sent_ids": [
         "dD9fXUGbfbA:s0157",
         "dD9fXUGbfbA:s0158",
@@ -969,9 +904,9 @@
       "pos_pct": 0.5531940163191297
     },
     {
-      "window_id": "dD9fXUGbfbA:j0062",
+      "window_id": "dD9fXUGbfbA:j0057",
       "video_id": "dD9fXUGbfbA",
-      "idx": 62,
+      "idx": 57,
       "sent_ids": [
         "dD9fXUGbfbA:s0160",
         "dD9fXUGbfbA:s0161",
@@ -985,9 +920,9 @@
       "pos_pct": 0.5635158658204895
     },
     {
-      "window_id": "dD9fXUGbfbA:j0063",
+      "window_id": "dD9fXUGbfbA:j0058",
       "video_id": "dD9fXUGbfbA",
-      "idx": 63,
+      "idx": 58,
       "sent_ids": [
         "dD9fXUGbfbA:s0163",
         "dD9fXUGbfbA:s0164"
@@ -1000,9 +935,9 @@
       "pos_pct": 0.5723699002719854
     },
     {
-      "window_id": "dD9fXUGbfbA:j0064",
+      "window_id": "dD9fXUGbfbA:j0059",
       "video_id": "dD9fXUGbfbA",
-      "idx": 64,
+      "idx": 59,
       "sent_ids": [
         "dD9fXUGbfbA:s0165",
         "dD9fXUGbfbA:s0166"
@@ -1015,117 +950,104 @@
       "pos_pct": 0.5801559383499547
     },
     {
+      "window_id": "dD9fXUGbfbA:j0060",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 60,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0167",
+        "dD9fXUGbfbA:s0168"
+      ],
+      "start_s": 654.345,
+      "end_s": 668.635,
+      "text": "Even if you strip all of that away and just talk about natural human body odor, the signal is still powerful and distinctive. Predator urine is commonly used as a deterrent in wildlife management because animals read scent as a primary threat signal.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.5932411604714416
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0061",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 61,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0169",
+        "dD9fXUGbfbA:s0170"
+      ],
+      "start_s": 669.496,
+      "end_s": 683.203,
+      "text": "Human scent has been shown to trigger similar responses. When researchers left scent strips soaked in human sweat near wildlife cameras, the reduction in animal activity was comparable to leaving strips soaked in mountain lion urine.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.6069773345421577
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0062",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 62,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0171",
+        "dD9fXUGbfbA:s0172"
+      ],
+      "start_s": 683.483,
+      "end_s": 692.147,
+      "text": "Let that sink in. You, existing, giving off the odor of being alive, are roughly as scary to local wildlife as a mountain lion.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.6196582048957389
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0063",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 63,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0173",
+        "dD9fXUGbfbA:s0174",
+        "dD9fXUGbfbA:s0175",
+        "dD9fXUGbfbA:s0176"
+      ],
+      "start_s": 692.707,
+      "end_s": 701.091,
+      "text": "Some of you are already aware of this and use it as a personality trait. That's fine. Why some animals attack, instead of running now? Fair question.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.6280208522212148
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0064",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 64,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0177",
+        "dD9fXUGbfbA:s0178",
+        "dD9fXUGbfbA:s0179",
+        "dD9fXUGbfbA:s0180"
+      ],
+      "start_s": 701.292,
+      "end_s": 710.277,
+      "text": "If animals are so scared of us, why do some of them attack? And the answer here is almost always the same. They're not attacking out of aggression. They're attacking out of desperation.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.635804170444243
+    },
+    {
       "window_id": "dD9fXUGbfbA:j0065",
       "video_id": "dD9fXUGbfbA",
       "idx": 65,
       "sent_ids": [
-        "dD9fXUGbfbA:s0167"
+        "dD9fXUGbfbA:s0181",
+        "dD9fXUGbfbA:s0182",
+        "dD9fXUGbfbA:s0183"
       ],
-      "start_s": 654.345,
-      "end_s": 660.71,
-      "text": "Even if you strip all of that away and just talk about natural human body odor, the signal is still powerful and distinctive.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.5932411604714416
+      "start_s": 710.597,
+      "end_s": 722.023,
+      "text": "The vast majority of dangerous animal encounters happen in one of three scenarios. First, the animal feels cornered and has no escape route. Second, the animal is a mother protecting offspring.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.6442402538531278
     },
     {
       "window_id": "dD9fXUGbfbA:j0066",
       "video_id": "dD9fXUGbfbA",
       "idx": 66,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0168",
-        "dD9fXUGbfbA:s0169"
-      ],
-      "start_s": 661.61,
-      "end_s": 672.258,
-      "text": "Predator urine is commonly used as a deterrent in wildlife management because animals read scent as a primary threat signal. Human scent has been shown to trigger similar responses.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.5998277425203989
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0067",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 67,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0170",
-        "dD9fXUGbfbA:s0171"
-      ],
-      "start_s": 673.038,
-      "end_s": 684.564,
-      "text": "When researchers left scent strips soaked in human sweat near wildlife cameras, the reduction in animal activity was comparable to leaving strips soaked in mountain lion urine. Let that sink in.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.6101885766092475
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0068",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 68,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0172",
-        "dD9fXUGbfbA:s0173"
-      ],
-      "start_s": 685.144,
-      "end_s": 696.129,
-      "text": "You, existing, giving off the odor of being alive, are roughly as scary to local wildlife as a mountain lion. Some of you are already aware of this and use it as a personality trait.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.6211640979147779
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0069",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 69,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0174",
-        "dD9fXUGbfbA:s0175",
-        "dD9fXUGbfbA:s0176",
-        "dD9fXUGbfbA:s0177"
-      ],
-      "start_s": 696.529,
-      "end_s": 704.093,
-      "text": "That's fine. Why some animals attack, instead of running now? Fair question. If animals are so scared of us, why do some of them attack?",
-      "n_words": 25,
-      "n_sentences": 4,
-      "pos_pct": 0.6314859474161378
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0070",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 70,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0178",
-        "dD9fXUGbfbA:s0179",
-        "dD9fXUGbfbA:s0180",
-        "dD9fXUGbfbA:s0181"
-      ],
-      "start_s": 704.433,
-      "end_s": 714.959,
-      "text": "And the answer here is almost always the same. They're not attacking out of aggression. They're attacking out of desperation. The vast majority of dangerous animal encounters happen in one of three scenarios.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.638651858567543
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0071",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 71,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0182",
-        "dD9fXUGbfbA:s0183"
-      ],
-      "start_s": 715.28,
-      "end_s": 722.023,
-      "text": "First, the animal feels cornered and has no escape route. Second, the animal is a mother protecting offspring.",
-      "n_words": 18,
-      "n_sentences": 2,
-      "pos_pct": 0.6484859474161377
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0072",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 72,
       "sent_ids": [
         "dD9fXUGbfbA:s0184",
         "dD9fXUGbfbA:s0185",
@@ -1139,9 +1061,9 @@
       "pos_pct": 0.6548359020852221
     },
     {
-      "window_id": "dD9fXUGbfbA:j0073",
+      "window_id": "dD9fXUGbfbA:j0067",
       "video_id": "dD9fXUGbfbA",
-      "idx": 73,
+      "idx": 67,
       "sent_ids": [
         "dD9fXUGbfbA:s0187",
         "dD9fXUGbfbA:s0188",
@@ -1155,9 +1077,9 @@
       "pos_pct": 0.6672810516772438
     },
     {
-      "window_id": "dD9fXUGbfbA:j0074",
+      "window_id": "dD9fXUGbfbA:j0068",
       "video_id": "dD9fXUGbfbA",
-      "idx": 74,
+      "idx": 68,
       "sent_ids": [
         "dD9fXUGbfbA:s0190",
         "dD9fXUGbfbA:s0191"
@@ -1170,9 +1092,9 @@
       "pos_pct": 0.675064369900272
     },
     {
-      "window_id": "dD9fXUGbfbA:j0075",
+      "window_id": "dD9fXUGbfbA:j0069",
       "video_id": "dD9fXUGbfbA",
-      "idx": 75,
+      "idx": 69,
       "sent_ids": [
         "dD9fXUGbfbA:s0192",
         "dD9fXUGbfbA:s0193",
@@ -1186,9 +1108,9 @@
       "pos_pct": 0.6861495920217588
     },
     {
-      "window_id": "dD9fXUGbfbA:j0076",
+      "window_id": "dD9fXUGbfbA:j0070",
       "video_id": "dD9fXUGbfbA",
-      "idx": 76,
+      "idx": 70,
       "sent_ids": [
         "dD9fXUGbfbA:s0195",
         "dD9fXUGbfbA:s0196"
@@ -1201,9 +1123,9 @@
       "pos_pct": 0.6972429737080689
     },
     {
-      "window_id": "dD9fXUGbfbA:j0077",
+      "window_id": "dD9fXUGbfbA:j0071",
       "video_id": "dD9fXUGbfbA",
-      "idx": 77,
+      "idx": 71,
       "sent_ids": [
         "dD9fXUGbfbA:s0197"
       ],
@@ -1215,9 +1137,9 @@
       "pos_pct": 0.7019446962828649
     },
     {
-      "window_id": "dD9fXUGbfbA:j0078",
+      "window_id": "dD9fXUGbfbA:j0072",
       "video_id": "dD9fXUGbfbA",
-      "idx": 78,
+      "idx": 72,
       "sent_ids": [
         "dD9fXUGbfbA:s0198",
         "dD9fXUGbfbA:s0199",
@@ -1232,9 +1154,9 @@
       "pos_pct": 0.7152819582955576
     },
     {
-      "window_id": "dD9fXUGbfbA:j0079",
+      "window_id": "dD9fXUGbfbA:j0073",
       "video_id": "dD9fXUGbfbA",
-      "idx": 79,
+      "idx": 73,
       "sent_ids": [
         "dD9fXUGbfbA:s0202",
         "dD9fXUGbfbA:s0203",
@@ -1249,148 +1171,122 @@
       "pos_pct": 0.7248993653671804
     },
     {
+      "window_id": "dD9fXUGbfbA:j0074",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 74,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0206",
+        "dD9fXUGbfbA:s0207"
+      ],
+      "start_s": 809.188,
+      "end_s": 826.355,
+      "text": "Historical accounts from Pacific exploration describe sailors walking up to birds that had never seen humans before and picking them up. Early accounts of the dodo, famously extinct now, largely because of this, describe an animal so utterly fearless of humans that hunting them required almost no effort.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.7336246600181323
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0075",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 75,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0208",
+        "dD9fXUGbfbA:s0209",
+        "dD9fXUGbfbA:s0210",
+        "dD9fXUGbfbA:s0211"
+      ],
+      "start_s": 826.935,
+      "end_s": 833.938,
+      "text": "they would walk toward the hunters. The sailors thought they were stupid. They weren't stupid. They just hadn't been taught to be afraid yet.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.7497144152311876
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0076",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 76,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0212",
+        "dD9fXUGbfbA:s0213",
+        "dD9fXUGbfbA:s0214"
+      ],
+      "start_s": 834.398,
+      "end_s": 846.783,
+      "text": "The same pattern shows up in modern contexts. When researchers reach remote populations, certain isolated insect species, deep sea creatures brought up for the first time. The fear response is absent or minimal.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.7564805077062556
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0077",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 77,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0215",
+        "dD9fXUGbfbA:s0216"
+      ],
+      "start_s": 847.023,
+      "end_s": 857.531,
+      "text": "And this gives us a window into what the world looked like before we became such an overwhelming presence. Not a world without danger, but a world where the danger didn't walk upright and didn't come from everywhere at once.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.7679265639165911
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0078",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 78,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0217",
+        "dD9fXUGbfbA:s0218",
+        "dD9fXUGbfbA:s0219",
+        "dD9fXUGbfbA:s0220"
+      ],
+      "start_s": 858.031,
+      "end_s": 868.366,
+      "text": "The evolutionary arms race. Here's the uncomfortable philosophical corner we end up in when you push this far enough. The fear that animals have of us isn't a mistake. It's accurate.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.7779066183136899
+    },
+    {
+      "window_id": "dD9fXUGbfbA:j0079",
+      "video_id": "dD9fXUGbfbA",
+      "idx": 79,
+      "sent_ids": [
+        "dD9fXUGbfbA:s0221",
+        "dD9fXUGbfbA:s0222",
+        "dD9fXUGbfbA:s0223",
+        "dD9fXUGbfbA:s0224"
+      ],
+      "start_s": 868.746,
+      "end_s": 880.595,
+      "text": "It's a correct read of the situation. Humans have caused the extinction of hundreds of species. We've hunted populations to collapse. We've transformed or destroyed more than half of all natural habitat on Earth.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.7876210335448776
+    },
+    {
       "window_id": "dD9fXUGbfbA:j0080",
       "video_id": "dD9fXUGbfbA",
       "idx": 80,
       "sent_ids": [
-        "dD9fXUGbfbA:s0206"
+        "dD9fXUGbfbA:s0225",
+        "dD9fXUGbfbA:s0226",
+        "dD9fXUGbfbA:s0227"
       ],
-      "start_s": 809.188,
-      "end_s": 815.951,
-      "text": "Historical accounts from Pacific exploration describe sailors walking up to birds that had never seen humans before and picking them up.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.7336246600181323
+      "start_s": 881.316,
+      "end_s": 889.442,
+      "text": "We've altered the global climate. The animals that are scared of us are, statistically speaking, making the right call. But here's the twist.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.7990172257479602
     },
     {
       "window_id": "dD9fXUGbfbA:j0081",
       "video_id": "dD9fXUGbfbA",
       "idx": 81,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0207",
-        "dD9fXUGbfbA:s0208"
-      ],
-      "start_s": 816.151,
-      "end_s": 828.236,
-      "text": "Early accounts of the dodo, famously extinct now, largely because of this, describe an animal so utterly fearless of humans that hunting them required almost no effort. they would walk toward the hunters.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.7399374433363554
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0082",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 82,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0209",
-        "dD9fXUGbfbA:s0210",
-        "dD9fXUGbfbA:s0211",
-        "dD9fXUGbfbA:s0212"
-      ],
-      "start_s": 828.756,
-      "end_s": 836.559,
-      "text": "The sailors thought they were stupid. They weren't stupid. They just hadn't been taught to be afraid yet. The same pattern shows up in modern contexts.",
-      "n_words": 26,
-      "n_sentences": 4,
-      "pos_pct": 0.751365367180417
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0083",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 83,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0213",
-        "dD9fXUGbfbA:s0214"
-      ],
-      "start_s": 836.839,
-      "end_s": 846.783,
-      "text": "When researchers reach remote populations, certain isolated insect species, deep sea creatures brought up for the first time. The fear response is absent or minimal.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.7586935630099728
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0084",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 84,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0215"
-      ],
-      "start_s": 847.023,
-      "end_s": 851.685,
-      "text": "And this gives us a window into what the world looked like before we became such an overwhelming presence.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.7679265639165911
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0085",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 85,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0216",
-        "dD9fXUGbfbA:s0217"
-      ],
-      "start_s": 852.305,
-      "end_s": 859.573,
-      "text": "Not a world without danger, but a world where the danger didn't walk upright and didn't come from everywhere at once. The evolutionary arms race.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.7727153218495013
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0086",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 86,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0218",
-        "dD9fXUGbfbA:s0219",
-        "dD9fXUGbfbA:s0220",
-        "dD9fXUGbfbA:s0221"
-      ],
-      "start_s": 860.073,
-      "end_s": 870.407,
-      "text": "Here's the uncomfortable philosophical corner we end up in when you push this far enough. The fear that animals have of us isn't a mistake. It's accurate. It's a correct read of the situation.",
-      "n_words": 34,
-      "n_sentences": 4,
-      "pos_pct": 0.7797579329102448
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0087",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 87,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0222",
-        "dD9fXUGbfbA:s0223",
-        "dD9fXUGbfbA:s0224",
-        "dD9fXUGbfbA:s0225"
-      ],
-      "start_s": 870.808,
-      "end_s": 882.897,
-      "text": "Humans have caused the extinction of hundreds of species. We've hunted populations to collapse. We've transformed or destroyed more than half of all natural habitat on Earth. We've altered the global climate.",
-      "n_words": 32,
-      "n_sentences": 4,
-      "pos_pct": 0.7894904805077062
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0088",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 88,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0226",
-        "dD9fXUGbfbA:s0227"
-      ],
-      "start_s": 883.258,
-      "end_s": 889.442,
-      "text": "The animals that are scared of us are, statistically speaking, making the right call. But here's the twist.",
-      "n_words": 18,
-      "n_sentences": 2,
-      "pos_pct": 0.800777878513146
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0089",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 89,
       "sent_ids": [
         "dD9fXUGbfbA:s0228",
         "dD9fXUGbfbA:s0229"
@@ -1403,9 +1299,9 @@
       "pos_pct": 0.8070924750679963
     },
     {
-      "window_id": "dD9fXUGbfbA:j0090",
+      "window_id": "dD9fXUGbfbA:j0082",
       "video_id": "dD9fXUGbfbA",
-      "idx": 90,
+      "idx": 82,
       "sent_ids": [
         "dD9fXUGbfbA:s0230",
         "dD9fXUGbfbA:s0231"
@@ -1418,9 +1314,9 @@
       "pos_pct": 0.8164224841341795
     },
     {
-      "window_id": "dD9fXUGbfbA:j0091",
+      "window_id": "dD9fXUGbfbA:j0083",
       "video_id": "dD9fXUGbfbA",
-      "idx": 91,
+      "idx": 83,
       "sent_ids": [
         "dD9fXUGbfbA:s0232",
         "dD9fXUGbfbA:s0233",
@@ -1434,9 +1330,9 @@
       "pos_pct": 0.8248785131459656
     },
     {
-      "window_id": "dD9fXUGbfbA:j0092",
+      "window_id": "dD9fXUGbfbA:j0084",
       "video_id": "dD9fXUGbfbA",
-      "idx": 92,
+      "idx": 84,
       "sent_ids": [
         "dD9fXUGbfbA:s0235",
         "dD9fXUGbfbA:s0236"
@@ -1449,9 +1345,9 @@
       "pos_pct": 0.8327697189483227
     },
     {
-      "window_id": "dD9fXUGbfbA:j0093",
+      "window_id": "dD9fXUGbfbA:j0085",
       "video_id": "dD9fXUGbfbA",
-      "idx": 93,
+      "idx": 85,
       "sent_ids": [
         "dD9fXUGbfbA:s0237",
         "dD9fXUGbfbA:s0238",
@@ -1465,37 +1361,24 @@
       "pos_pct": 0.8430199456029012
     },
     {
-      "window_id": "dD9fXUGbfbA:j0094",
+      "window_id": "dD9fXUGbfbA:j0086",
       "video_id": "dD9fXUGbfbA",
-      "idx": 94,
+      "idx": 86,
       "sent_ids": [
-        "dD9fXUGbfbA:s0240"
+        "dD9fXUGbfbA:s0240",
+        "dD9fXUGbfbA:s0241"
       ],
       "start_s": 938.359,
-      "end_s": 944.524,
-      "text": "But let's end on something a little more hopeful, because this is genuinely one of the most interesting things happening in wildlife science right now.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 958.014,
+      "text": "But let's end on something a little more hopeful, because this is genuinely one of the most interesting things happening in wildlife science right now. Researchers are increasingly finding that given the right conditions, consistent non-threatening human presence, food stability, reduced hunting pressure, animals can and do re-habituate to humans within surprisingly short time frames.",
+      "n_words": 55,
+      "n_sentences": 2,
       "pos_pct": 0.8507334542157752
     },
     {
-      "window_id": "dD9fXUGbfbA:j0095",
+      "window_id": "dD9fXUGbfbA:j0087",
       "video_id": "dD9fXUGbfbA",
-      "idx": 95,
-      "sent_ids": [
-        "dD9fXUGbfbA:s0241"
-      ],
-      "start_s": 944.824,
-      "end_s": 958.014,
-      "text": "Researchers are increasingly finding that given the right conditions, consistent non-threatening human presence, food stability, reduced hunting pressure, animals can and do re-habituate to humans within surprisingly short time frames.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.8565947416137806
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0096",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 96,
+      "idx": 87,
       "sent_ids": [
         "dD9fXUGbfbA:s0242"
       ],
@@ -1507,9 +1390,9 @@
       "pos_pct": 0.8687352674524026
     },
     {
-      "window_id": "dD9fXUGbfbA:j0097",
+      "window_id": "dD9fXUGbfbA:j0088",
       "video_id": "dD9fXUGbfbA",
-      "idx": 97,
+      "idx": 88,
       "sent_ids": [
         "dD9fXUGbfbA:s0243",
         "dD9fXUGbfbA:s0244",
@@ -1524,9 +1407,9 @@
       "pos_pct": 0.8839582955575702
     },
     {
-      "window_id": "dD9fXUGbfbA:j0098",
+      "window_id": "dD9fXUGbfbA:j0089",
       "video_id": "dD9fXUGbfbA",
-      "idx": 98,
+      "idx": 89,
       "sent_ids": [
         "dD9fXUGbfbA:s0247",
         "dD9fXUGbfbA:s0248",
@@ -1541,9 +1424,9 @@
       "pos_pct": 0.8945358114233908
     },
     {
-      "window_id": "dD9fXUGbfbA:j0099",
+      "window_id": "dD9fXUGbfbA:j0090",
       "video_id": "dD9fXUGbfbA",
-      "idx": 99,
+      "idx": 90,
       "sent_ids": [
         "dD9fXUGbfbA:s0251",
         "dD9fXUGbfbA:s0252",
@@ -1558,9 +1441,9 @@
       "pos_pct": 0.8989446962828649
     },
     {
-      "window_id": "dD9fXUGbfbA:j0100",
+      "window_id": "dD9fXUGbfbA:j0091",
       "video_id": "dD9fXUGbfbA",
-      "idx": 100,
+      "idx": 91,
       "sent_ids": [
         "dD9fXUGbfbA:s0255",
         "dD9fXUGbfbA:s0256",
@@ -1574,9 +1457,9 @@
       "pos_pct": 0.9146627379873074
     },
     {
-      "window_id": "dD9fXUGbfbA:j0101",
+      "window_id": "dD9fXUGbfbA:j0092",
       "video_id": "dD9fXUGbfbA",
-      "idx": 101,
+      "idx": 92,
       "sent_ids": [
         "dD9fXUGbfbA:s0258",
         "dD9fXUGbfbA:s0259"
@@ -1589,9 +1472,9 @@
       "pos_pct": 0.9256446056210336
     },
     {
-      "window_id": "dD9fXUGbfbA:j0102",
+      "window_id": "dD9fXUGbfbA:j0093",
       "video_id": "dD9fXUGbfbA",
-      "idx": 102,
+      "idx": 93,
       "sent_ids": [
         "dD9fXUGbfbA:s0260",
         "dD9fXUGbfbA:s0261",
@@ -1605,9 +1488,9 @@
       "pos_pct": 0.9357098821396191
     },
     {
-      "window_id": "dD9fXUGbfbA:j0103",
+      "window_id": "dD9fXUGbfbA:j0094",
       "video_id": "dD9fXUGbfbA",
-      "idx": 103,
+      "idx": 94,
       "sent_ids": [
         "dD9fXUGbfbA:s0263",
         "dD9fXUGbfbA:s0264",
@@ -1621,9 +1504,9 @@
       "pos_pct": 0.9468821396192204
     },
     {
-      "window_id": "dD9fXUGbfbA:j0104",
+      "window_id": "dD9fXUGbfbA:j0095",
       "video_id": "dD9fXUGbfbA",
-      "idx": 104,
+      "idx": 95,
       "sent_ids": [
         "dD9fXUGbfbA:s0266",
         "dD9fXUGbfbA:s0267"
@@ -1636,53 +1519,40 @@
       "pos_pct": 0.9573490480507706
     },
     {
-      "window_id": "dD9fXUGbfbA:j0105",
+      "window_id": "dD9fXUGbfbA:j0096",
       "video_id": "dD9fXUGbfbA",
-      "idx": 105,
+      "idx": 96,
       "sent_ids": [
-        "dD9fXUGbfbA:s0268"
+        "dD9fXUGbfbA:s0268",
+        "dD9fXUGbfbA:s0269"
       ],
       "start_s": 1062.338,
-      "end_s": 1072.543,
-      "text": "That same intelligence that made us so frightening, the creativity, the adaptability, the sheer capability, is also what allows us to choose differently.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 1077.485,
+      "text": "That same intelligence that made us so frightening, the creativity, the adaptability, the sheer capability, is also what allows us to choose differently. The animals that live in places where humans are reliably safe don't run.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.9631350861287398
     },
     {
-      "window_id": "dD9fXUGbfbA:j0106",
+      "window_id": "dD9fXUGbfbA:j0097",
       "video_id": "dD9fXUGbfbA",
-      "idx": 106,
+      "idx": 97,
       "sent_ids": [
-        "dD9fXUGbfbA:s0269",
-        "dD9fXUGbfbA:s0270"
-      ],
-      "start_s": 1073.283,
-      "end_s": 1079.126,
-      "text": "The animals that live in places where humans are reliably safe don't run. They don't hide.",
-      "n_words": 16,
-      "n_sentences": 2,
-      "pos_pct": 0.973058023572076
-    },
-    {
-      "window_id": "dD9fXUGbfbA:j0107",
-      "video_id": "dD9fXUGbfbA",
-      "idx": 107,
-      "sent_ids": [
+        "dD9fXUGbfbA:s0270",
         "dD9fXUGbfbA:s0271",
         "dD9fXUGbfbA:s0272"
       ],
-      "start_s": 1079.526,
+      "start_s": 1078.025,
       "end_s": 1088.99,
-      "text": "They live out in the open, in the daylight, going about their lives without dedicating enormous amounts of energy to constant vigilance. That version of the world exists.",
-      "n_words": 28,
-      "n_sentences": 2,
-      "pos_pct": 0.9787180417044425
+      "text": "They don't hide. They live out in the open, in the daylight, going about their lives without dedicating enormous amounts of energy to constant vigilance. That version of the world exists.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.977357207615594
     },
     {
-      "window_id": "dD9fXUGbfbA:j0108",
+      "window_id": "dD9fXUGbfbA:j0098",
       "video_id": "dD9fXUGbfbA",
-      "idx": 108,
+      "idx": 98,
       "sent_ids": [
         "dD9fXUGbfbA:s0273",
         "dD9fXUGbfbA:s0274",
@@ -1697,9 +1567,9 @@
       "pos_pct": 0.9875339981867634
     },
     {
-      "window_id": "dD9fXUGbfbA:j0109",
+      "window_id": "dD9fXUGbfbA:j0099",
       "video_id": "dD9fXUGbfbA",
-      "idx": 109,
+      "idx": 99,
       "sent_ids": [
         "dD9fXUGbfbA:s0277"
       ],

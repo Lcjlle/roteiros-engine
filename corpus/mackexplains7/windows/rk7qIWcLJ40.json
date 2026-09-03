@@ -1,39 +1,26 @@
 {
   "video_id": "rk7qIWcLJ40",
-  "generated_at": "2026-09-03T11:59:53.024708+00:00",
+  "generated_at": "2026-09-03T13:18:13.142540+00:00",
   "windows": [
     {
       "window_id": "rk7qIWcLJ40:j0000",
       "video_id": "rk7qIWcLJ40",
       "idx": 0,
       "sent_ids": [
-        "rk7qIWcLJ40:s0000"
+        "rk7qIWcLJ40:s0000",
+        "rk7qIWcLJ40:s0001"
       ],
       "start_s": 0.071,
-      "end_s": 11.502,
-      "text": "You wake up, your throat is on fire, your nose is running like a broken faucet, you drag yourself to the medicine cabinet, grab some ibuprofen, maybe a decongestant, and you're mostly functional by noon.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 13.624,
+      "text": "You wake up, your throat is on fire, your nose is running like a broken faucet, you drag yourself to the medicine cabinet, grab some ibuprofen, maybe a decongestant, and you're mostly functional by noon. Now, imagine none of that exists.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 5.5425448868071813e-05
     },
     {
       "window_id": "rk7qIWcLJ40:j0001",
       "video_id": "rk7qIWcLJ40",
       "idx": 1,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0001"
-      ],
-      "start_s": 11.662,
-      "end_s": 13.624,
-      "text": "Now, imagine none of that exists.",
-      "n_words": 6,
-      "n_sentences": 1,
-      "pos_pct": 0.009103825136612023
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0002",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 2,
       "sent_ids": [
         "rk7qIWcLJ40:s0002",
         "rk7qIWcLJ40:s0003"
@@ -46,9 +33,9 @@
       "pos_pct": 0.01091647150663544
     },
     {
-      "window_id": "rk7qIWcLJ40:j0003",
+      "window_id": "rk7qIWcLJ40:j0002",
       "video_id": "rk7qIWcLJ40",
-      "idx": 3,
+      "idx": 2,
       "sent_ids": [
         "rk7qIWcLJ40:s0004",
         "rk7qIWcLJ40:s0005"
@@ -61,9 +48,9 @@
       "pos_pct": 0.02046448087431694
     },
     {
-      "window_id": "rk7qIWcLJ40:j0004",
+      "window_id": "rk7qIWcLJ40:j0003",
       "video_id": "rk7qIWcLJ40",
-      "idx": 4,
+      "idx": 3,
       "sent_ids": [
         "rk7qIWcLJ40:s0006"
       ],
@@ -75,9 +62,9 @@
       "pos_pct": 0.024682279469164715
     },
     {
-      "window_id": "rk7qIWcLJ40:j0005",
+      "window_id": "rk7qIWcLJ40:j0004",
       "video_id": "rk7qIWcLJ40",
-      "idx": 5,
+      "idx": 4,
       "sent_ids": [
         "rk7qIWcLJ40:s0007",
         "rk7qIWcLJ40:s0008",
@@ -91,9 +78,9 @@
       "pos_pct": 0.03580483996877439
     },
     {
-      "window_id": "rk7qIWcLJ40:j0006",
+      "window_id": "rk7qIWcLJ40:j0005",
       "video_id": "rk7qIWcLJ40",
-      "idx": 6,
+      "idx": 5,
       "sent_ids": [
         "rk7qIWcLJ40:s0010",
         "rk7qIWcLJ40:s0011",
@@ -108,9 +95,9 @@
       "pos_pct": 0.04200702576112412
     },
     {
-      "window_id": "rk7qIWcLJ40:j0007",
+      "window_id": "rk7qIWcLJ40:j0006",
       "video_id": "rk7qIWcLJ40",
-      "idx": 7,
+      "idx": 6,
       "sent_ids": [
         "rk7qIWcLJ40:s0014",
         "rk7qIWcLJ40:s0015"
@@ -123,9 +110,9 @@
       "pos_pct": 0.05108430913348946
     },
     {
-      "window_id": "rk7qIWcLJ40:j0008",
+      "window_id": "rk7qIWcLJ40:j0007",
       "video_id": "rk7qIWcLJ40",
-      "idx": 8,
+      "idx": 7,
       "sent_ids": [
         "rk7qIWcLJ40:s0016",
         "rk7qIWcLJ40:s0017"
@@ -138,9 +125,9 @@
       "pos_pct": 0.057224824355971905
     },
     {
-      "window_id": "rk7qIWcLJ40:j0009",
+      "window_id": "rk7qIWcLJ40:j0008",
       "video_id": "rk7qIWcLJ40",
-      "idx": 9,
+      "idx": 8,
       "sent_ids": [
         "rk7qIWcLJ40:s0018",
         "rk7qIWcLJ40:s0019"
@@ -153,9 +140,9 @@
       "pos_pct": 0.063256049960968
     },
     {
-      "window_id": "rk7qIWcLJ40:j0010",
+      "window_id": "rk7qIWcLJ40:j0009",
       "video_id": "rk7qIWcLJ40",
-      "idx": 10,
+      "idx": 9,
       "sent_ids": [
         "rk7qIWcLJ40:s0020",
         "rk7qIWcLJ40:s0021"
@@ -168,9 +155,9 @@
       "pos_pct": 0.06939422326307573
     },
     {
-      "window_id": "rk7qIWcLJ40:j0011",
+      "window_id": "rk7qIWcLJ40:j0010",
       "video_id": "rk7qIWcLJ40",
-      "idx": 11,
+      "idx": 10,
       "sent_ids": [
         "rk7qIWcLJ40:s0022",
         "rk7qIWcLJ40:s0023"
@@ -183,9 +170,9 @@
       "pos_pct": 0.07925058548009367
     },
     {
-      "window_id": "rk7qIWcLJ40:j0012",
+      "window_id": "rk7qIWcLJ40:j0011",
       "video_id": "rk7qIWcLJ40",
-      "idx": 12,
+      "idx": 11,
       "sent_ids": [
         "rk7qIWcLJ40:s0024",
         "rk7qIWcLJ40:s0025",
@@ -199,131 +186,105 @@
       "pos_pct": 0.0877697111631538
     },
     {
+      "window_id": "rk7qIWcLJ40:j0012",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 12,
+      "sent_ids": [
+        "rk7qIWcLJ40:s0027",
+        "rk7qIWcLJ40:s0028"
+      ],
+      "start_s": 121.183,
+      "end_s": 134.779,
+      "text": "This is legitimate pharmacology with a prehistory stretching back at least 60,000 years, and we have the archaeological evidence to prove it. In 1960, a Neanderthal burial site was discovered in a cave in Iraq called Shanidar.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.09460031225604996
+    },
+    {
       "window_id": "rk7qIWcLJ40:j0013",
       "video_id": "rk7qIWcLJ40",
       "idx": 13,
       "sent_ids": [
-        "rk7qIWcLJ40:s0027"
+        "rk7qIWcLJ40:s0029",
+        "rk7qIWcLJ40:s0030",
+        "rk7qIWcLJ40:s0031",
+        "rk7qIWcLJ40:s0032"
       ],
-      "start_s": 121.183,
-      "end_s": 129.453,
-      "text": "This is legitimate pharmacology with a prehistory stretching back at least 60,000 years, and we have the archaeological evidence to prove it.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.09460031225604996
+      "start_s": 135.3,
+      "end_s": 150.282,
+      "text": "Inside the grave, researchers found enormous concentrations of pollen from multiple plant species, yarrow, ground sole, ephedra, and others. The leading interpretation? These weren't random weeds that blew in. They were deliberately placed.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.10562060889929743
     },
     {
       "window_id": "rk7qIWcLJ40:j0014",
       "video_id": "rk7qIWcLJ40",
       "idx": 14,
       "sent_ids": [
-        "rk7qIWcLJ40:s0028",
-        "rk7qIWcLJ40:s0029"
+        "rk7qIWcLJ40:s0033",
+        "rk7qIWcLJ40:s0034",
+        "rk7qIWcLJ40:s0035",
+        "rk7qIWcLJ40:s0036"
       ],
-      "start_s": 129.553,
-      "end_s": 144.473,
-      "text": "In 1960, a Neanderthal burial site was discovered in a cave in Iraq called Shanidar. Inside the grave, researchers found enormous concentrations of pollen from multiple plant species, yarrow, ground sole, ephedra, and others.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.10113427010148321
+      "start_s": 150.642,
+      "end_s": 161.149,
+      "text": "And here's the kicker. Several of those exact plants are still used in herbal medicine today. Some have been clinically studied and shown to have genuine medicinal properties. Neanderthals.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.11759718969555034
     },
     {
       "window_id": "rk7qIWcLJ40:j0015",
       "video_id": "rk7qIWcLJ40",
       "idx": 15,
       "sent_ids": [
-        "rk7qIWcLJ40:s0030",
-        "rk7qIWcLJ40:s0031",
-        "rk7qIWcLJ40:s0032",
-        "rk7qIWcLJ40:s0033"
+        "rk7qIWcLJ40:s0037",
+        "rk7qIWcLJ40:s0038",
+        "rk7qIWcLJ40:s0039",
+        "rk7qIWcLJ40:s0040"
       ],
-      "start_s": 144.754,
-      "end_s": 151.523,
-      "text": "The leading interpretation? These weren't random weeds that blew in. They were deliberately placed. And here's the kicker.",
-      "n_words": 18,
+      "start_s": 161.489,
+      "end_s": 171.855,
+      "text": "Doing herbal medicine. Before modern humans even showed up in that part of the world. Let that sink in for a second. Once modern humans arrived on the scene, plant-based medicine exploded in sophistication.",
+      "n_words": 34,
       "n_sentences": 4,
-      "pos_pct": 0.11300078064012489
+      "pos_pct": 0.1260647931303669
     },
     {
       "window_id": "rk7qIWcLJ40:j0016",
       "video_id": "rk7qIWcLJ40",
       "idx": 16,
       "sent_ids": [
-        "rk7qIWcLJ40:s0034",
-        "rk7qIWcLJ40:s0035",
-        "rk7qIWcLJ40:s0036",
-        "rk7qIWcLJ40:s0037"
+        "rk7qIWcLJ40:s0041",
+        "rk7qIWcLJ40:s0042"
       ],
-      "start_s": 152.183,
-      "end_s": 162.61,
-      "text": "Several of those exact plants are still used in herbal medicine today. Some have been clinically studied and shown to have genuine medicinal properties. Neanderthals. Doing herbal medicine.",
-      "n_words": 28,
-      "n_sentences": 4,
-      "pos_pct": 0.11880015612802497
+      "start_s": 172.135,
+      "end_s": 189.347,
+      "text": "Willow bark, which contains salicin, the compound that aspirin is based on, was used across ancient Egypt, Greece, China, and indigenous North America to treat pain and fever, independently, on completely separate continents. Because people noticed, chew this bark, pain goes down.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.13437548790007806
     },
     {
       "window_id": "rk7qIWcLJ40:j0017",
       "video_id": "rk7qIWcLJ40",
       "idx": 17,
       "sent_ids": [
-        "rk7qIWcLJ40:s0038",
-        "rk7qIWcLJ40:s0039",
-        "rk7qIWcLJ40:s0040"
+        "rk7qIWcLJ40:s0043",
+        "rk7qIWcLJ40:s0044"
       ],
-      "start_s": 162.67,
-      "end_s": 171.855,
-      "text": "Before modern humans even showed up in that part of the world. Let that sink in for a second. Once modern humans arrived on the scene, plant-based medicine exploded in sophistication.",
-      "n_words": 31,
-      "n_sentences": 3,
-      "pos_pct": 0.12698672911787665
+      "start_s": 189.608,
+      "end_s": 201.136,
+      "text": "Simple cause and effect repeated millions of times over thousands of years. Garlic was used as an antibiotic by ancient Egyptians and has actually been shown in modern studies to have real antimicrobial properties.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.14801561280249806
     },
     {
       "window_id": "rk7qIWcLJ40:j0018",
       "video_id": "rk7qIWcLJ40",
       "idx": 18,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0041"
-      ],
-      "start_s": 172.135,
-      "end_s": 186.425,
-      "text": "Willow bark, which contains salicin, the compound that aspirin is based on, was used across ancient Egypt, Greece, China, and indigenous North America to treat pain and fever, independently, on completely separate continents.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.13437548790007806
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0019",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 19,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0042",
-        "rk7qIWcLJ40:s0043"
-      ],
-      "start_s": 186.666,
-      "end_s": 193.951,
-      "text": "Because people noticed, chew this bark, pain goes down. Simple cause and effect repeated millions of times over thousands of years.",
-      "n_words": 21,
-      "n_sentences": 2,
-      "pos_pct": 0.14571896955503513
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0020",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 20,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0044"
-      ],
-      "start_s": 194.011,
-      "end_s": 201.136,
-      "text": "Garlic was used as an antibiotic by ancient Egyptians and has actually been shown in modern studies to have real antimicrobial properties.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.1514527712724434
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0021",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 21,
       "sent_ids": [
         "rk7qIWcLJ40:s0045",
         "rk7qIWcLJ40:s0046"
@@ -336,9 +297,9 @@
       "pos_pct": 0.15720218579234974
     },
     {
-      "window_id": "rk7qIWcLJ40:j0022",
+      "window_id": "rk7qIWcLJ40:j0019",
       "video_id": "rk7qIWcLJ40",
-      "idx": 22,
+      "idx": 19,
       "sent_ids": [
         "rk7qIWcLJ40:s0047",
         "rk7qIWcLJ40:s0048",
@@ -353,9 +314,9 @@
       "pos_pct": 0.1668430913348946
     },
     {
-      "window_id": "rk7qIWcLJ40:j0023",
+      "window_id": "rk7qIWcLJ40:j0020",
       "video_id": "rk7qIWcLJ40",
-      "idx": 23,
+      "idx": 20,
       "sent_ids": [
         "rk7qIWcLJ40:s0051",
         "rk7qIWcLJ40:s0052",
@@ -369,9 +330,9 @@
       "pos_pct": 0.1751256830601093
     },
     {
-      "window_id": "rk7qIWcLJ40:j0024",
+      "window_id": "rk7qIWcLJ40:j0021",
       "video_id": "rk7qIWcLJ40",
-      "idx": 24,
+      "idx": 21,
       "sent_ids": [
         "rk7qIWcLJ40:s0054",
         "rk7qIWcLJ40:s0055",
@@ -385,9 +346,9 @@
       "pos_pct": 0.18395628415300547
     },
     {
-      "window_id": "rk7qIWcLJ40:j0025",
+      "window_id": "rk7qIWcLJ40:j0022",
       "video_id": "rk7qIWcLJ40",
-      "idx": 25,
+      "idx": 22,
       "sent_ids": [
         "rk7qIWcLJ40:s0057",
         "rk7qIWcLJ40:s0058",
@@ -402,9 +363,9 @@
       "pos_pct": 0.1923177205308353
     },
     {
-      "window_id": "rk7qIWcLJ40:j0026",
+      "window_id": "rk7qIWcLJ40:j0023",
       "video_id": "rk7qIWcLJ40",
-      "idx": 26,
+      "idx": 23,
       "sent_ids": [
         "rk7qIWcLJ40:s0061",
         "rk7qIWcLJ40:s0062",
@@ -419,9 +380,9 @@
       "pos_pct": 0.20188134270101485
     },
     {
-      "window_id": "rk7qIWcLJ40:j0027",
+      "window_id": "rk7qIWcLJ40:j0024",
       "video_id": "rk7qIWcLJ40",
-      "idx": 27,
+      "idx": 24,
       "sent_ids": [
         "rk7qIWcLJ40:s0065",
         "rk7qIWcLJ40:s0066"
@@ -434,9 +395,9 @@
       "pos_pct": 0.20814754098360655
     },
     {
-      "window_id": "rk7qIWcLJ40:j0028",
+      "window_id": "rk7qIWcLJ40:j0025",
       "video_id": "rk7qIWcLJ40",
-      "idx": 28,
+      "idx": 25,
       "sent_ids": [
         "rk7qIWcLJ40:s0067",
         "rk7qIWcLJ40:s0068",
@@ -451,9 +412,9 @@
       "pos_pct": 0.21753317720530838
     },
     {
-      "window_id": "rk7qIWcLJ40:j0029",
+      "window_id": "rk7qIWcLJ40:j0026",
       "video_id": "rk7qIWcLJ40",
-      "idx": 29,
+      "idx": 26,
       "sent_ids": [
         "rk7qIWcLJ40:s0071",
         "rk7qIWcLJ40:s0072",
@@ -467,9 +428,9 @@
       "pos_pct": 0.22268696330991414
     },
     {
-      "window_id": "rk7qIWcLJ40:j0030",
+      "window_id": "rk7qIWcLJ40:j0027",
       "video_id": "rk7qIWcLJ40",
-      "idx": 30,
+      "idx": 27,
       "sent_ids": [
         "rk7qIWcLJ40:s0074",
         "rk7qIWcLJ40:s0075",
@@ -483,9 +444,9 @@
       "pos_pct": 0.23286338797814207
     },
     {
-      "window_id": "rk7qIWcLJ40:j0031",
+      "window_id": "rk7qIWcLJ40:j0028",
       "video_id": "rk7qIWcLJ40",
-      "idx": 31,
+      "idx": 28,
       "sent_ids": [
         "rk7qIWcLJ40:s0077",
         "rk7qIWcLJ40:s0078",
@@ -500,9 +461,9 @@
       "pos_pct": 0.23984777517564404
     },
     {
-      "window_id": "rk7qIWcLJ40:j0032",
+      "window_id": "rk7qIWcLJ40:j0029",
       "video_id": "rk7qIWcLJ40",
-      "idx": 32,
+      "idx": 29,
       "sent_ids": [
         "rk7qIWcLJ40:s0081",
         "rk7qIWcLJ40:s0082"
@@ -515,132 +476,119 @@
       "pos_pct": 0.2489718969555035
     },
     {
+      "window_id": "rk7qIWcLJ40:j0030",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 30,
+      "sent_ids": [
+        "rk7qIWcLJ40:s0083",
+        "rk7qIWcLJ40:s0084"
+      ],
+      "start_s": 321.515,
+      "end_s": 339.708,
+      "text": "Maggot therapy, where fly larvae are applied to infected wounds to eat away dead and infected tissue, was used by indigenous Australians, Mayan people in Central America, and military surgeons throughout history. And it is still used today in modern hospitals for wounds that don't respond to antibiotics.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.25098750975800155
+    },
+    {
+      "window_id": "rk7qIWcLJ40:j0031",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 31,
+      "sent_ids": [
+        "rk7qIWcLJ40:s0085",
+        "rk7qIWcLJ40:s0086",
+        "rk7qIWcLJ40:s0087",
+        "rk7qIWcLJ40:s0088"
+      ],
+      "start_s": 340.008,
+      "end_s": 351.077,
+      "text": "Maggots only eat dead tissue. They leave healthy tissue alone. They're actually remarkable little wound-cleaning machines. Ancient people discovered this not because they were weird, but because they were observant.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.265423887587822
+    },
+    {
+      "window_id": "rk7qIWcLJ40:j0032",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 32,
+      "sent_ids": [
+        "rk7qIWcLJ40:s0089",
+        "rk7qIWcLJ40:s0090",
+        "rk7qIWcLJ40:s0091"
+      ],
+      "start_s": 351.277,
+      "end_s": 359.825,
+      "text": "They noticed that wounds with maggots sometimes healed better than wounds without. Instead of screaming and running away, they filed that information away. And then there's spider webs.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.27422092115534735
+    },
+    {
       "window_id": "rk7qIWcLJ40:j0033",
       "video_id": "rk7qIWcLJ40",
       "idx": 33,
       "sent_ids": [
-        "rk7qIWcLJ40:s0083"
+        "rk7qIWcLJ40:s0092",
+        "rk7qIWcLJ40:s0093"
       ],
-      "start_s": 321.515,
-      "end_s": 334.484,
-      "text": "Maggot therapy, where fly larvae are applied to infected wounds to eat away dead and infected tissue, was used by indigenous Australians, Mayan people in Central America, and military surgeons throughout history.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.25098750975800155
+      "start_s": 360.145,
+      "end_s": 374.995,
+      "text": "Multiple ancient cultures—Greeks, Celts, Native Americans—applied spider webs directly to wounds to stop bleeding. This sounds insane, but spider silk contains vitamin K, which plays a role in blood clotting, and has some antimicrobial properties.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.281143637782982
     },
     {
       "window_id": "rk7qIWcLJ40:j0034",
       "video_id": "rk7qIWcLJ40",
       "idx": 34,
       "sent_ids": [
-        "rk7qIWcLJ40:s0084",
-        "rk7qIWcLJ40:s0085",
-        "rk7qIWcLJ40:s0086",
-        "rk7qIWcLJ40:s0087"
+        "rk7qIWcLJ40:s0094",
+        "rk7qIWcLJ40:s0095",
+        "rk7qIWcLJ40:s0096"
       ],
-      "start_s": 334.584,
-      "end_s": 346.874,
-      "text": "And it is still used today in modern hospitals for wounds that don't respond to antibiotics. Maggots only eat dead tissue. They leave healthy tissue alone. They're actually remarkable little wound-cleaning machines.",
+      "start_s": 375.235,
+      "end_s": 386.502,
+      "text": "Modern researchers have actually investigated spider silk as a biomaterial for wound closure. Once again, ancient people stumbled onto something real. Honestly, it's more science than most people give them credit for.",
       "n_words": 32,
-      "n_sentences": 4,
-      "pos_pct": 0.26118969555035126
+      "n_sentences": 3,
+      "pos_pct": 0.29292349726775957
     },
     {
       "window_id": "rk7qIWcLJ40:j0035",
       "video_id": "rk7qIWcLJ40",
       "idx": 35,
       "sent_ids": [
-        "rk7qIWcLJ40:s0088",
-        "rk7qIWcLJ40:s0089"
+        "rk7qIWcLJ40:s0097",
+        "rk7qIWcLJ40:s0098"
       ],
-      "start_s": 347.074,
-      "end_s": 354.981,
-      "text": "Ancient people discovered this not because they were weird, but because they were observant. They noticed that wounds with maggots sometimes healed better than wounds without.",
-      "n_words": 26,
+      "start_s": 386.923,
+      "end_s": 398.112,
+      "text": "Here's where things start to get genuinely jaw-dropping. We have archaeological evidence of trepanation, the practice of drilling or scraping a hole in the skull, dating back over 9,000 years.",
+      "n_words": 30,
       "n_sentences": 2,
-      "pos_pct": 0.27093989071038255
+      "pos_pct": 0.30204761904761906
     },
     {
       "window_id": "rk7qIWcLJ40:j0036",
       "video_id": "rk7qIWcLJ40",
       "idx": 36,
       "sent_ids": [
-        "rk7qIWcLJ40:s0090",
-        "rk7qIWcLJ40:s0091",
-        "rk7qIWcLJ40:s0092"
+        "rk7qIWcLJ40:s0099",
+        "rk7qIWcLJ40:s0100",
+        "rk7qIWcLJ40:s0101"
       ],
-      "start_s": 355.141,
-      "end_s": 367.09,
-      "text": "Instead of screaming and running away, they filed that information away. And then there's spider webs. Multiple ancient cultures—Greeks, Celts, Native Americans—applied spider webs directly to wounds to stop bleeding.",
-      "n_words": 30,
+      "start_s": 398.392,
+      "end_s": 407.84,
+      "text": "And before you ask, yes, patients survived. We know this because the bones show signs of healing around the hole. meaning the patient didn't just immediately die on the operating table.",
+      "n_words": 31,
       "n_sentences": 3,
-      "pos_pct": 0.27723731459797035
+      "pos_pct": 0.3110007806401249
     },
     {
       "window_id": "rk7qIWcLJ40:j0037",
       "video_id": "rk7qIWcLJ40",
       "idx": 37,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0093",
-        "rk7qIWcLJ40:s0094"
-      ],
-      "start_s": 367.29,
-      "end_s": 380.538,
-      "text": "This sounds insane, but spider silk contains vitamin K, which plays a role in blood clotting, and has some antimicrobial properties. Modern researchers have actually investigated spider silk as a biomaterial for wound closure.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.28672131147540986
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0038",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 38,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0095",
-        "rk7qIWcLJ40:s0096",
-        "rk7qIWcLJ40:s0097"
-      ],
-      "start_s": 380.658,
-      "end_s": 389.945,
-      "text": "Once again, ancient people stumbled onto something real. Honestly, it's more science than most people give them credit for. Here's where things start to get genuinely jaw-dropping.",
-      "n_words": 27,
-      "n_sentences": 3,
-      "pos_pct": 0.2971569086651054
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0039",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 39,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0098",
-        "rk7qIWcLJ40:s0099"
-      ],
-      "start_s": 390.085,
-      "end_s": 400.954,
-      "text": "We have archaeological evidence of trepanation, the practice of drilling or scraping a hole in the skull, dating back over 9,000 years. And before you ask, yes, patients survived.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.3045160031225605
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0040",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 40,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0100",
-        "rk7qIWcLJ40:s0101"
-      ],
-      "start_s": 401.154,
-      "end_s": 407.84,
-      "text": "We know this because the bones show signs of healing around the hole. meaning the patient didn't just immediately die on the operating table.",
-      "n_words": 24,
-      "n_sentences": 2,
-      "pos_pct": 0.31315690866510537
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0041",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 41,
       "sent_ids": [
         "rk7qIWcLJ40:s0102",
         "rk7qIWcLJ40:s0103"
@@ -653,9 +601,9 @@
       "pos_pct": 0.3185480093676815
     },
     {
-      "window_id": "rk7qIWcLJ40:j0042",
+      "window_id": "rk7qIWcLJ40:j0038",
       "video_id": "rk7qIWcLJ40",
-      "idx": 42,
+      "idx": 38,
       "sent_ids": [
         "rk7qIWcLJ40:s0104",
         "rk7qIWcLJ40:s0105"
@@ -668,9 +616,9 @@
       "pos_pct": 0.32501717408274783
     },
     {
-      "window_id": "rk7qIWcLJ40:j0043",
+      "window_id": "rk7qIWcLJ40:j0039",
       "video_id": "rk7qIWcLJ40",
-      "idx": 43,
+      "idx": 39,
       "sent_ids": [
         "rk7qIWcLJ40:s0106",
         "rk7qIWcLJ40:s0107"
@@ -683,9 +631,9 @@
       "pos_pct": 0.3354551131928181
     },
     {
-      "window_id": "rk7qIWcLJ40:j0044",
+      "window_id": "rk7qIWcLJ40:j0040",
       "video_id": "rk7qIWcLJ40",
-      "idx": 44,
+      "idx": 40,
       "sent_ids": [
         "rk7qIWcLJ40:s0108",
         "rk7qIWcLJ40:s0109"
@@ -698,111 +646,85 @@
       "pos_pct": 0.3397345823575332
     },
     {
+      "window_id": "rk7qIWcLJ40:j0041",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 41,
+      "sent_ids": [
+        "rk7qIWcLJ40:s0110",
+        "rk7qIWcLJ40:s0111"
+      ],
+      "start_s": 444.324,
+      "end_s": 461.134,
+      "text": "A skeleton found in France dating to around 7,000 years ago shows a forearm amputation with clear signs of bone regrowth, meaning the patient survived long enough for the stump to begin healing. That required not just the surgical act, but post-operative care, wound management, keeping infection out, feeding and supporting a recovering patient.",
+      "n_words": 54,
+      "n_sentences": 2,
+      "pos_pct": 0.34685714285714286
+    },
+    {
+      "window_id": "rk7qIWcLJ40:j0042",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 42,
+      "sent_ids": [
+        "rk7qIWcLJ40:s0112",
+        "rk7qIWcLJ40:s0113"
+      ],
+      "start_s": 461.254,
+      "end_s": 464.777,
+      "text": "That's not a lucky accident. That's a functioning medical support system.",
+      "n_words": 11,
+      "n_sentences": 2,
+      "pos_pct": 0.36007338017174084
+    },
+    {
+      "window_id": "rk7qIWcLJ40:j0043",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 43,
+      "sent_ids": [
+        "rk7qIWcLJ40:s0114",
+        "rk7qIWcLJ40:s0115"
+      ],
+      "start_s": 464.977,
+      "end_s": 484.252,
+      "text": "To put that in perspective, effective antiseptic practice in modern medicine only became standard in the 1860s, when Joseph Lister figured out that maybe doctors should wash their hands before operating. For context, hospitals in the 1840s had higher mortality rates than battlefield surgeries because the conditions were so unsanitary.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.3629797033567525
+    },
+    {
+      "window_id": "rk7qIWcLJ40:j0044",
+      "video_id": "rk7qIWcLJ40",
+      "idx": 44,
+      "sent_ids": [
+        "rk7qIWcLJ40:s0116",
+        "rk7qIWcLJ40:s0117"
+      ],
+      "start_s": 484.412,
+      "end_s": 499.947,
+      "text": "The infection risk from a 19th century hospital was sometimes worse than just staying home and hoping for the best. Ancient Trepanation surgeons, working outdoors in fresh air with clean stone tools, may have accidentally had better sterility conditions than 19th century European surgeons.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.3781514441842311
+    },
+    {
       "window_id": "rk7qIWcLJ40:j0045",
       "video_id": "rk7qIWcLJ40",
       "idx": 45,
       "sent_ids": [
-        "rk7qIWcLJ40:s0110"
+        "rk7qIWcLJ40:s0118",
+        "rk7qIWcLJ40:s0119",
+        "rk7qIWcLJ40:s0120"
       ],
-      "start_s": 444.324,
-      "end_s": 453.628,
-      "text": "A skeleton found in France dating to around 7,000 years ago shows a forearm amputation with clear signs of bone regrowth, meaning the patient survived long enough for the stump to begin healing.",
+      "start_s": 500.127,
+      "end_s": 509.157,
+      "text": "The universe has a dark sense of humor. Now here's something that doesn't get talked about enough when people ask this question. Ancient humans didn't just survive because of the medicine they used.",
       "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.34685714285714286
+      "n_sentences": 3,
+      "pos_pct": 0.3904192037470726
     },
     {
       "window_id": "rk7qIWcLJ40:j0046",
       "video_id": "rk7qIWcLJ40",
       "idx": 46,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0111",
-        "rk7qIWcLJ40:s0112",
-        "rk7qIWcLJ40:s0113"
-      ],
-      "start_s": 453.748,
-      "end_s": 464.777,
-      "text": "That required not just the surgical act, but post-operative care, wound management, keeping infection out, feeding and supporting a recovering patient. That's not a lucky accident. That's a functioning medical support system.",
-      "n_words": 32,
-      "n_sentences": 3,
-      "pos_pct": 0.35421389539422327
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0047",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 47,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0114"
-      ],
-      "start_s": 464.977,
-      "end_s": 476.085,
-      "text": "To put that in perspective, effective antiseptic practice in modern medicine only became standard in the 1860s, when Joseph Lister figured out that maybe doctors should wash their hands before operating.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.3629797033567525
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0048",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 48,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0115"
-      ],
-      "start_s": 476.266,
-      "end_s": 484.252,
-      "text": "For context, hospitals in the 1840s had higher mortality rates than battlefield surgeries because the conditions were so unsanitary.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.371792349726776
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0049",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 49,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0116"
-      ],
-      "start_s": 484.412,
-      "end_s": 490.018,
-      "text": "The infection risk from a 19th century hospital was sometimes worse than just staying home and hoping for the best.",
-      "n_words": 20,
-      "n_sentences": 1,
-      "pos_pct": 0.3781514441842311
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0050",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 50,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0117",
-        "rk7qIWcLJ40:s0118"
-      ],
-      "start_s": 490.278,
-      "end_s": 501.908,
-      "text": "Ancient Trepanation surgeons, working outdoors in fresh air with clean stone tools, may have accidentally had better sterility conditions than 19th century European surgeons. The universe has a dark sense of humor.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.38273067915690867
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0051",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 51,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0119",
-        "rk7qIWcLJ40:s0120"
-      ],
-      "start_s": 502.069,
-      "end_s": 509.157,
-      "text": "Now here's something that doesn't get talked about enough when people ask this question. Ancient humans didn't just survive because of the medicine they used.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.3919352068696331
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0052",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 52,
       "sent_ids": [
         "rk7qIWcLJ40:s0121",
         "rk7qIWcLJ40:s0122",
@@ -816,9 +738,9 @@
       "pos_pct": 0.3975776736924278
     },
     {
-      "window_id": "rk7qIWcLJ40:j0053",
+      "window_id": "rk7qIWcLJ40:j0047",
       "video_id": "rk7qIWcLJ40",
-      "idx": 53,
+      "idx": 47,
       "sent_ids": [
         "rk7qIWcLJ40:s0124",
         "rk7qIWcLJ40:s0125",
@@ -832,9 +754,9 @@
       "pos_pct": 0.4062084309133489
     },
     {
-      "window_id": "rk7qIWcLJ40:j0054",
+      "window_id": "rk7qIWcLJ40:j0048",
       "video_id": "rk7qIWcLJ40",
-      "idx": 54,
+      "idx": 48,
       "sent_ids": [
         "rk7qIWcLJ40:s0127",
         "rk7qIWcLJ40:s0128"
@@ -847,53 +769,40 @@
       "pos_pct": 0.4160663544106167
     },
     {
-      "window_id": "rk7qIWcLJ40:j0055",
+      "window_id": "rk7qIWcLJ40:j0049",
       "video_id": "rk7qIWcLJ40",
-      "idx": 55,
+      "idx": 49,
       "sent_ids": [
-        "rk7qIWcLJ40:s0129"
+        "rk7qIWcLJ40:s0129",
+        "rk7qIWcLJ40:s0130"
       ],
       "start_s": 541.286,
-      "end_s": 548.693,
-      "text": "When a disease swept through a community repeatedly over generations, the people who were genetically more resistant to it tended to survive and reproduce more.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 553.958,
+      "text": "When a disease swept through a community repeatedly over generations, the people who were genetically more resistant to it tended to survive and reproduce more. Over time, the population became, on average, more resistant to that particular disease.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.42254957064793125
     },
     {
-      "window_id": "rk7qIWcLJ40:j0056",
+      "window_id": "rk7qIWcLJ40:j0050",
       "video_id": "rk7qIWcLJ40",
-      "idx": 56,
+      "idx": 50,
       "sent_ids": [
-        "rk7qIWcLJ40:s0130",
         "rk7qIWcLJ40:s0131",
-        "rk7qIWcLJ40:s0132"
-      ],
-      "start_s": 548.993,
-      "end_s": 558.683,
-      "text": "Over time, the population became, on average, more resistant to that particular disease. It was brutal, slow, and involved an enormous amount of death. But it worked.",
-      "n_words": 27,
-      "n_sentences": 3,
-      "pos_pct": 0.4285659640905543
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0057",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 57,
-      "sent_ids": [
+        "rk7qIWcLJ40:s0132",
         "rk7qIWcLJ40:s0133"
       ],
-      "start_s": 558.903,
+      "start_s": 554.218,
       "end_s": 565.389,
-      "text": "This is partly why the arrival of Europeans in the Americas was so catastrophically devastating to indigenous populations.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.4363021077283373
+      "text": "It was brutal, slow, and involved an enormous amount of death. But it worked. This is partly why the arrival of Europeans in the Americas was so catastrophically devastating to indigenous populations.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.43264480874316935
     },
     {
-      "window_id": "rk7qIWcLJ40:j0058",
+      "window_id": "rk7qIWcLJ40:j0051",
       "video_id": "rk7qIWcLJ40",
-      "idx": 58,
+      "idx": 51,
       "sent_ids": [
         "rk7qIWcLJ40:s0134",
         "rk7qIWcLJ40:s0135"
@@ -906,9 +815,9 @@
       "pos_pct": 0.44153708040593287
     },
     {
-      "window_id": "rk7qIWcLJ40:j0059",
+      "window_id": "rk7qIWcLJ40:j0052",
       "video_id": "rk7qIWcLJ40",
-      "idx": 59,
+      "idx": 52,
       "sent_ids": [
         "rk7qIWcLJ40:s0136",
         "rk7qIWcLJ40:s0137"
@@ -921,9 +830,9 @@
       "pos_pct": 0.4542076502732241
     },
     {
-      "window_id": "rk7qIWcLJ40:j0060",
+      "window_id": "rk7qIWcLJ40:j0053",
       "video_id": "rk7qIWcLJ40",
-      "idx": 60,
+      "idx": 53,
       "sent_ids": [
         "rk7qIWcLJ40:s0138",
         "rk7qIWcLJ40:s0139"
@@ -936,9 +845,9 @@
       "pos_pct": 0.46291100702576116
     },
     {
-      "window_id": "rk7qIWcLJ40:j0061",
+      "window_id": "rk7qIWcLJ40:j0054",
       "video_id": "rk7qIWcLJ40",
-      "idx": 61,
+      "idx": 54,
       "sent_ids": [
         "rk7qIWcLJ40:s0140",
         "rk7qIWcLJ40:s0141",
@@ -952,9 +861,9 @@
       "pos_pct": 0.46908274785323967
     },
     {
-      "window_id": "rk7qIWcLJ40:j0062",
+      "window_id": "rk7qIWcLJ40:j0055",
       "video_id": "rk7qIWcLJ40",
-      "idx": 62,
+      "idx": 55,
       "sent_ids": [
         "rk7qIWcLJ40:s0143",
         "rk7qIWcLJ40:s0144"
@@ -967,9 +876,9 @@
       "pos_pct": 0.4798462138953942
     },
     {
-      "window_id": "rk7qIWcLJ40:j0063",
+      "window_id": "rk7qIWcLJ40:j0056",
       "video_id": "rk7qIWcLJ40",
-      "idx": 63,
+      "idx": 56,
       "sent_ids": [
         "rk7qIWcLJ40:s0145",
         "rk7qIWcLJ40:s0146",
@@ -984,9 +893,9 @@
       "pos_pct": 0.48956206088992976
     },
     {
-      "window_id": "rk7qIWcLJ40:j0064",
+      "window_id": "rk7qIWcLJ40:j0057",
       "video_id": "rk7qIWcLJ40",
-      "idx": 64,
+      "idx": 57,
       "sent_ids": [
         "rk7qIWcLJ40:s0149",
         "rk7qIWcLJ40:s0150",
@@ -1000,37 +909,24 @@
       "pos_pct": 0.5003395784543325
     },
     {
-      "window_id": "rk7qIWcLJ40:j0065",
+      "window_id": "rk7qIWcLJ40:j0058",
       "video_id": "rk7qIWcLJ40",
-      "idx": 65,
+      "idx": 58,
       "sent_ids": [
-        "rk7qIWcLJ40:s0152"
+        "rk7qIWcLJ40:s0152",
+        "rk7qIWcLJ40:s0153"
       ],
       "start_s": 651.721,
-      "end_s": 659.627,
-      "text": "Recent studies comparing the gut microbiomes of modern hunter-gatherer populations to industrialized populations find striking differences.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 671.937,
+      "text": "Recent studies comparing the gut microbiomes of modern hunter-gatherer populations to industrialized populations find striking differences. The hunter-gatherers have dramatically higher microbial diversity, and higher microbial diversity is consistently associated with better immune function, lower rates of autoimmune disease, and better metabolic health.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.50875956284153
     },
     {
-      "window_id": "rk7qIWcLJ40:j0066",
+      "window_id": "rk7qIWcLJ40:j0059",
       "video_id": "rk7qIWcLJ40",
-      "idx": 66,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0153"
-      ],
-      "start_s": 659.887,
-      "end_s": 671.937,
-      "text": "The hunter-gatherers have dramatically higher microbial diversity, and higher microbial diversity is consistently associated with better immune function, lower rates of autoimmune disease, and better metabolic health.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.5151342701014832
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0067",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 67,
+      "idx": 59,
       "sent_ids": [
         "rk7qIWcLJ40:s0154"
       ],
@@ -1042,9 +938,9 @@
       "pos_pct": 0.5249000780640125
     },
     {
-      "window_id": "rk7qIWcLJ40:j0068",
+      "window_id": "rk7qIWcLJ40:j0060",
       "video_id": "rk7qIWcLJ40",
-      "idx": 68,
+      "idx": 60,
       "sent_ids": [
         "rk7qIWcLJ40:s0155",
         "rk7qIWcLJ40:s0156"
@@ -1057,9 +953,9 @@
       "pos_pct": 0.5405495706479313
     },
     {
-      "window_id": "rk7qIWcLJ40:j0069",
+      "window_id": "rk7qIWcLJ40:j0061",
       "video_id": "rk7qIWcLJ40",
-      "idx": 69,
+      "idx": 61,
       "sent_ids": [
         "rk7qIWcLJ40:s0157",
         "rk7qIWcLJ40:s0158",
@@ -1073,9 +969,9 @@
       "pos_pct": 0.5473294301327088
     },
     {
-      "window_id": "rk7qIWcLJ40:j0070",
+      "window_id": "rk7qIWcLJ40:j0062",
       "video_id": "rk7qIWcLJ40",
-      "idx": 70,
+      "idx": 62,
       "sent_ids": [
         "rk7qIWcLJ40:s0160",
         "rk7qIWcLJ40:s0161",
@@ -1090,9 +986,9 @@
       "pos_pct": 0.5560312256049961
     },
     {
-      "window_id": "rk7qIWcLJ40:j0071",
+      "window_id": "rk7qIWcLJ40:j0063",
       "video_id": "rk7qIWcLJ40",
-      "idx": 71,
+      "idx": 63,
       "sent_ids": [
         "rk7qIWcLJ40:s0164",
         "rk7qIWcLJ40:s0165",
@@ -1106,54 +1002,41 @@
       "pos_pct": 0.5652029664324746
     },
     {
-      "window_id": "rk7qIWcLJ40:j0072",
+      "window_id": "rk7qIWcLJ40:j0064",
       "video_id": "rk7qIWcLJ40",
-      "idx": 72,
+      "idx": 64,
       "sent_ids": [
-        "rk7qIWcLJ40:s0167"
+        "rk7qIWcLJ40:s0167",
+        "rk7qIWcLJ40:s0168"
       ],
       "start_s": 735.274,
-      "end_s": 738.556,
-      "text": "It's one of the weirder and more fascinating corners of human biology.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 748.96,
+      "text": "It's one of the weirder and more fascinating corners of human biology. Ancient healers, shamans, medicine women and men, witch doctors, whatever name you want to use across different cultures, understood this even if they didn't have the language for it.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.573984387197502
     },
     {
-      "window_id": "rk7qIWcLJ40:j0073",
+      "window_id": "rk7qIWcLJ40:j0065",
       "video_id": "rk7qIWcLJ40",
-      "idx": 73,
+      "idx": 65,
       "sent_ids": [
-        "rk7qIWcLJ40:s0168",
-        "rk7qIWcLJ40:s0169"
-      ],
-      "start_s": 739.417,
-      "end_s": 751.741,
-      "text": "Ancient healers, shamans, medicine women and men, witch doctors, whatever name you want to use across different cultures, understood this even if they didn't have the language for it. The ritual surrounding treatment mattered.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.5772185792349727
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0074",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 74,
-      "sent_ids": [
+        "rk7qIWcLJ40:s0169",
         "rk7qIWcLJ40:s0170",
         "rk7qIWcLJ40:s0171",
         "rk7qIWcLJ40:s0172"
       ],
-      "start_s": 752.021,
+      "start_s": 749.54,
       "end_s": 759.883,
-      "text": "The confidence of the healer mattered. The community support mattered. The belief that something was being done mattered.",
-      "n_words": 18,
-      "n_sentences": 3,
-      "pos_pct": 0.5870577673692428
+      "text": "The ritual surrounding treatment mattered. The confidence of the healer mattered. The community support mattered. The belief that something was being done mattered.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.5851209992193599
     },
     {
-      "window_id": "rk7qIWcLJ40:j0075",
+      "window_id": "rk7qIWcLJ40:j0066",
       "video_id": "rk7qIWcLJ40",
-      "idx": 75,
+      "idx": 66,
       "sent_ids": [
         "rk7qIWcLJ40:s0173",
         "rk7qIWcLJ40:s0174"
@@ -1166,9 +1049,9 @@
       "pos_pct": 0.5937728337236534
     },
     {
-      "window_id": "rk7qIWcLJ40:j0076",
+      "window_id": "rk7qIWcLJ40:j0067",
       "video_id": "rk7qIWcLJ40",
-      "idx": 76,
+      "idx": 67,
       "sent_ids": [
         "rk7qIWcLJ40:s0175",
         "rk7qIWcLJ40:s0176",
@@ -1183,9 +1066,9 @@
       "pos_pct": 0.6040483996877439
     },
     {
-      "window_id": "rk7qIWcLJ40:j0077",
+      "window_id": "rk7qIWcLJ40:j0068",
       "video_id": "rk7qIWcLJ40",
-      "idx": 77,
+      "idx": 68,
       "sent_ids": [
         "rk7qIWcLJ40:s0179",
         "rk7qIWcLJ40:s0180",
@@ -1200,9 +1083,9 @@
       "pos_pct": 0.6119968774395004
     },
     {
-      "window_id": "rk7qIWcLJ40:j0078",
+      "window_id": "rk7qIWcLJ40:j0069",
       "video_id": "rk7qIWcLJ40",
-      "idx": 78,
+      "idx": 69,
       "sent_ids": [
         "rk7qIWcLJ40:s0183",
         "rk7qIWcLJ40:s0184",
@@ -1217,9 +1100,9 @@
       "pos_pct": 0.6235714285714286
     },
     {
-      "window_id": "rk7qIWcLJ40:j0079",
+      "window_id": "rk7qIWcLJ40:j0070",
       "video_id": "rk7qIWcLJ40",
-      "idx": 79,
+      "idx": 70,
       "sent_ids": [
         "rk7qIWcLJ40:s0187",
         "rk7qIWcLJ40:s0188",
@@ -1233,9 +1116,9 @@
       "pos_pct": 0.6317111631537861
     },
     {
-      "window_id": "rk7qIWcLJ40:j0080",
+      "window_id": "rk7qIWcLJ40:j0071",
       "video_id": "rk7qIWcLJ40",
-      "idx": 80,
+      "idx": 71,
       "sent_ids": [
         "rk7qIWcLJ40:s0190",
         "rk7qIWcLJ40:s0191",
@@ -1250,9 +1133,9 @@
       "pos_pct": 0.6409867291178767
     },
     {
-      "window_id": "rk7qIWcLJ40:j0081",
+      "window_id": "rk7qIWcLJ40:j0072",
       "video_id": "rk7qIWcLJ40",
-      "idx": 81,
+      "idx": 72,
       "sent_ids": [
         "rk7qIWcLJ40:s0194",
         "rk7qIWcLJ40:s0195",
@@ -1266,9 +1149,9 @@
       "pos_pct": 0.6526424668227947
     },
     {
-      "window_id": "rk7qIWcLJ40:j0082",
+      "window_id": "rk7qIWcLJ40:j0073",
       "video_id": "rk7qIWcLJ40",
-      "idx": 82,
+      "idx": 73,
       "sent_ids": [
         "rk7qIWcLJ40:s0197",
         "rk7qIWcLJ40:s0198",
@@ -1282,9 +1165,9 @@
       "pos_pct": 0.6627314597970335
     },
     {
-      "window_id": "rk7qIWcLJ40:j0083",
+      "window_id": "rk7qIWcLJ40:j0074",
       "video_id": "rk7qIWcLJ40",
-      "idx": 83,
+      "idx": 74,
       "sent_ids": [
         "rk7qIWcLJ40:s0200",
         "rk7qIWcLJ40:s0201",
@@ -1298,101 +1181,88 @@
       "pos_pct": 0.6748220140515222
     },
     {
-      "window_id": "rk7qIWcLJ40:j0084",
+      "window_id": "rk7qIWcLJ40:j0075",
       "video_id": "rk7qIWcLJ40",
-      "idx": 84,
+      "idx": 75,
       "sent_ids": [
-        "rk7qIWcLJ40:s0203"
+        "rk7qIWcLJ40:s0203",
+        "rk7qIWcLJ40:s0204"
       ],
       "start_s": 873.455,
-      "end_s": 879.578,
-      "text": "In many ancient populations, somewhere between 25% and 50% of children died before reaching adulthood.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 888.762,
+      "text": "In many ancient populations, somewhere between 25% and 50% of children died before reaching adulthood. Life expectancy numbers from ancient times look terrible, often averaging 30 to 35 years, but this is heavily skewed by those childhood deaths.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.6818540202966433
     },
     {
-      "window_id": "rk7qIWcLJ40:j0085",
+      "window_id": "rk7qIWcLJ40:j0076",
       "video_id": "rk7qIWcLJ40",
-      "idx": 85,
+      "idx": 76,
       "sent_ids": [
-        "rk7qIWcLJ40:s0204"
-      ],
-      "start_s": 880.558,
-      "end_s": 888.762,
-      "text": "Life expectancy numbers from ancient times look terrible, often averaging 30 to 35 years, but this is heavily skewed by those childhood deaths.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.6873989071038251
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0086",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 86,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0205"
+        "rk7qIWcLJ40:s0205",
+        "rk7qIWcLJ40:s0206"
       ],
       "start_s": 889.322,
-      "end_s": 896.409,
-      "text": "If you survived childhood and didn't die in violence or childbirth, you could easily live into your 50s, 60s, or even 70s.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 907.54,
+      "text": "If you survived childhood and didn't die in violence or childbirth, you could easily live into your 50s, 60s, or even 70s. There's archaeological evidence of ancient humans living with severe arthritis, with healed fractures, with evidence of significant injury, living with these conditions for decades.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.69424043715847
     },
     {
-      "window_id": "rk7qIWcLJ40:j0087",
+      "window_id": "rk7qIWcLJ40:j0077",
       "video_id": "rk7qIWcLJ40",
-      "idx": 87,
+      "idx": 77,
       "sent_ids": [
-        "rk7qIWcLJ40:s0206",
         "rk7qIWcLJ40:s0207",
-        "rk7qIWcLJ40:s0208"
+        "rk7qIWcLJ40:s0208",
+        "rk7qIWcLJ40:s0209"
       ],
-      "start_s": 897.01,
-      "end_s": 911.273,
-      "text": "There's archaeological evidence of ancient humans living with severe arthritis, with healed fractures, with evidence of significant injury, living with these conditions for decades. Old age existed. It just wasn't guaranteed.",
-      "n_words": 31,
+      "start_s": 908.431,
+      "end_s": 914.074,
+      "text": "Old age existed. It just wasn't guaranteed. And here's perhaps the most sobering thought.",
+      "n_words": 14,
       "n_sentences": 3,
-      "pos_pct": 0.7002419984387197
+      "pos_pct": 0.7091576893052303
     },
     {
-      "window_id": "rk7qIWcLJ40:j0088",
+      "window_id": "rk7qIWcLJ40:j0078",
       "video_id": "rk7qIWcLJ40",
-      "idx": 88,
+      "idx": 78,
       "sent_ids": [
-        "rk7qIWcLJ40:s0209",
         "rk7qIWcLJ40:s0210",
         "rk7qIWcLJ40:s0211",
-        "rk7qIWcLJ40:s0212"
+        "rk7qIWcLJ40:s0212",
+        "rk7qIWcLJ40:s0213"
       ],
-      "start_s": 911.693,
-      "end_s": 924.801,
-      "text": "And here's perhaps the most sobering thought. Many of the diseases that killed people in the ancient world still kill people today in parts of the world without access to modern medicine. Malaria. Tuberculosis.",
-      "n_words": 34,
+      "start_s": 914.695,
+      "end_s": 925.921,
+      "text": "Many of the diseases that killed people in the ancient world still kill people today in parts of the world without access to modern medicine. Malaria. Tuberculosis. Cholera.",
+      "n_words": 28,
       "n_sentences": 4,
-      "pos_pct": 0.7117041373926619
+      "pos_pct": 0.714047619047619
     },
     {
-      "window_id": "rk7qIWcLJ40:j0089",
+      "window_id": "rk7qIWcLJ40:j0079",
       "video_id": "rk7qIWcLJ40",
-      "idx": 89,
+      "idx": 79,
       "sent_ids": [
-        "rk7qIWcLJ40:s0213",
         "rk7qIWcLJ40:s0214",
         "rk7qIWcLJ40:s0215",
         "rk7qIWcLJ40:s0216"
       ],
-      "start_s": 925.401,
+      "start_s": 926.302,
       "end_s": 937.009,
-      "text": "Cholera. Diarrheal diseases in children. These aren't exotic, ancient problems. They're ongoing realities for hundreds of millions of people right now who lack what you probably have within five miles of where you're sitting.",
-      "n_words": 34,
-      "n_sentences": 4,
-      "pos_pct": 0.7224051522248243
+      "text": "Diarrheal diseases in children. These aren't exotic, ancient problems. They're ongoing realities for hundreds of millions of people right now who lack what you probably have within five miles of where you're sitting.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.7231085089773615
     },
     {
-      "window_id": "rk7qIWcLJ40:j0090",
+      "window_id": "rk7qIWcLJ40:j0080",
       "video_id": "rk7qIWcLJ40",
-      "idx": 90,
+      "idx": 80,
       "sent_ids": [
         "rk7qIWcLJ40:s0217",
         "rk7qIWcLJ40:s0218"
@@ -1405,37 +1275,24 @@
       "pos_pct": 0.7319508196721312
     },
     {
-      "window_id": "rk7qIWcLJ40:j0091",
+      "window_id": "rk7qIWcLJ40:j0081",
       "video_id": "rk7qIWcLJ40",
-      "idx": 91,
+      "idx": 81,
       "sent_ids": [
-        "rk7qIWcLJ40:s0219"
+        "rk7qIWcLJ40:s0219",
+        "rk7qIWcLJ40:s0220"
       ],
       "start_s": 942.933,
-      "end_s": 953.84,
-      "text": "The fact that a routine infection that would have killed someone in 1850 is now solved by a five-day course of pills is genuinely extraordinary, and we have collectively stopped being amazed by it.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 959.665,
+      "text": "The fact that a routine infection that would have killed someone in 1850 is now solved by a five-day course of pills is genuinely extraordinary, and we have collectively stopped being amazed by it. Let's spend a moment on some specific ancient medical traditions because they deserve more than a footnote.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.7360913348946135
     },
     {
-      "window_id": "rk7qIWcLJ40:j0092",
+      "window_id": "rk7qIWcLJ40:j0082",
       "video_id": "rk7qIWcLJ40",
-      "idx": 92,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0220"
-      ],
-      "start_s": 954.56,
-      "end_s": 959.665,
-      "text": "Let's spend a moment on some specific ancient medical traditions because they deserve more than a footnote.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.745167837626854
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0093",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 93,
+      "idx": 82,
       "sent_ids": [
         "rk7qIWcLJ40:s0221",
         "rk7qIWcLJ40:s0222"
@@ -1448,9 +1305,9 @@
       "pos_pct": 0.7497002341920375
     },
     {
-      "window_id": "rk7qIWcLJ40:j0094",
+      "window_id": "rk7qIWcLJ40:j0083",
       "video_id": "rk7qIWcLJ40",
-      "idx": 94,
+      "idx": 83,
       "sent_ids": [
         "rk7qIWcLJ40:s0223",
         "rk7qIWcLJ40:s0224"
@@ -1463,9 +1320,9 @@
       "pos_pct": 0.7634207650273224
     },
     {
-      "window_id": "rk7qIWcLJ40:j0095",
+      "window_id": "rk7qIWcLJ40:j0084",
       "video_id": "rk7qIWcLJ40",
-      "idx": 95,
+      "idx": 84,
       "sent_ids": [
         "rk7qIWcLJ40:s0225",
         "rk7qIWcLJ40:s0226"
@@ -1478,37 +1335,24 @@
       "pos_pct": 0.7737650273224044
     },
     {
-      "window_id": "rk7qIWcLJ40:j0096",
+      "window_id": "rk7qIWcLJ40:j0085",
       "video_id": "rk7qIWcLJ40",
-      "idx": 96,
+      "idx": 85,
       "sent_ids": [
-        "rk7qIWcLJ40:s0227"
+        "rk7qIWcLJ40:s0227",
+        "rk7qIWcLJ40:s0228"
       ],
       "start_s": 1005.244,
-      "end_s": 1015.026,
-      "text": "But the point is the sophistication of the system, the centuries of careful observation, the detailed mapping of the body, the complex pharmacopoeia of herbal combinations.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 1027.869,
+      "text": "But the point is the sophistication of the system, the centuries of careful observation, the detailed mapping of the body, the complex pharmacopoeia of herbal combinations. Ayurvedic medicine from the Indian subcontinent identified medicinal properties of hundreds of plants, developed surgical techniques, and produced texts describing diseases and their treatments in remarkable detail.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.7847338017174083
     },
     {
-      "window_id": "rk7qIWcLJ40:j0097",
+      "window_id": "rk7qIWcLJ40:j0086",
       "video_id": "rk7qIWcLJ40",
-      "idx": 97,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0228"
-      ],
-      "start_s": 1015.466,
-      "end_s": 1027.869,
-      "text": "Ayurvedic medicine from the Indian subcontinent identified medicinal properties of hundreds of plants, developed surgical techniques, and produced texts describing diseases and their treatments in remarkable detail.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.7927135050741608
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0098",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 98,
+      "idx": 86,
       "sent_ids": [
         "rk7qIWcLJ40:s0229"
       ],
@@ -1520,9 +1364,9 @@
       "pos_pct": 0.802848555815769
     },
     {
-      "window_id": "rk7qIWcLJ40:j0099",
+      "window_id": "rk7qIWcLJ40:j0087",
       "video_id": "rk7qIWcLJ40",
-      "idx": 99,
+      "idx": 87,
       "sent_ids": [
         "rk7qIWcLJ40:s0230",
         "rk7qIWcLJ40:s0231",
@@ -1536,9 +1380,9 @@
       "pos_pct": 0.8162388758782202
     },
     {
-      "window_id": "rk7qIWcLJ40:j0100",
+      "window_id": "rk7qIWcLJ40:j0088",
       "video_id": "rk7qIWcLJ40",
-      "idx": 100,
+      "idx": 88,
       "sent_ids": [
         "rk7qIWcLJ40:s0233"
       ],
@@ -1550,37 +1394,24 @@
       "pos_pct": 0.8273481654957066
     },
     {
-      "window_id": "rk7qIWcLJ40:j0101",
+      "window_id": "rk7qIWcLJ40:j0089",
       "video_id": "rk7qIWcLJ40",
-      "idx": 101,
+      "idx": 89,
       "sent_ids": [
-        "rk7qIWcLJ40:s0234"
+        "rk7qIWcLJ40:s0234",
+        "rk7qIWcLJ40:s0235"
       ],
       "start_s": 1070.257,
-      "end_s": 1084.982,
-      "text": "And in Mesopotamia, the oldest known medical texts, clay tablets from ancient Sumer, over 4,000 years old, list specific plant-based treatments for specific symptoms in a format that is recognizably clinical, not prayers, prescriptions.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 1090.445,
+      "text": "And in Mesopotamia, the oldest known medical texts, clay tablets from ancient Sumer, over 4,000 years old, list specific plant-based treatments for specific symptoms in a format that is recognizably clinical, not prayers, prescriptions. If you have this symptom, use this plant, prepared in this way, administered at this time.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.8354855581576893
     },
     {
-      "window_id": "rk7qIWcLJ40:j0102",
+      "window_id": "rk7qIWcLJ40:j0090",
       "video_id": "rk7qIWcLJ40",
-      "idx": 102,
-      "sent_ids": [
-        "rk7qIWcLJ40:s0235"
-      ],
-      "start_s": 1085.262,
-      "end_s": 1090.445,
-      "text": "If you have this symptom, use this plant, prepared in this way, administered at this time.",
-      "n_words": 16,
-      "n_sentences": 1,
-      "pos_pct": 0.8471990632318501
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0103",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 103,
+      "idx": 90,
       "sent_ids": [
         "rk7qIWcLJ40:s0236",
         "rk7qIWcLJ40:s0237"
@@ -1593,9 +1424,9 @@
       "pos_pct": 0.8515573770491803
     },
     {
-      "window_id": "rk7qIWcLJ40:j0104",
+      "window_id": "rk7qIWcLJ40:j0091",
       "video_id": "rk7qIWcLJ40",
-      "idx": 104,
+      "idx": 91,
       "sent_ids": [
         "rk7qIWcLJ40:s0238",
         "rk7qIWcLJ40:s0239"
@@ -1608,9 +1439,9 @@
       "pos_pct": 0.8612279469164714
     },
     {
-      "window_id": "rk7qIWcLJ40:j0105",
+      "window_id": "rk7qIWcLJ40:j0092",
       "video_id": "rk7qIWcLJ40",
-      "idx": 105,
+      "idx": 92,
       "sent_ids": [
         "rk7qIWcLJ40:s0240",
         "rk7qIWcLJ40:s0241"
@@ -1623,9 +1454,9 @@
       "pos_pct": 0.868696330991413
     },
     {
-      "window_id": "rk7qIWcLJ40:j0106",
+      "window_id": "rk7qIWcLJ40:j0093",
       "video_id": "rk7qIWcLJ40",
-      "idx": 106,
+      "idx": 93,
       "sent_ids": [
         "rk7qIWcLJ40:s0242",
         "rk7qIWcLJ40:s0243"
@@ -1638,9 +1469,9 @@
       "pos_pct": 0.8767259953161592
     },
     {
-      "window_id": "rk7qIWcLJ40:j0107",
+      "window_id": "rk7qIWcLJ40:j0094",
       "video_id": "rk7qIWcLJ40",
-      "idx": 107,
+      "idx": 94,
       "sent_ids": [
         "rk7qIWcLJ40:s0244",
         "rk7qIWcLJ40:s0245",
@@ -1654,9 +1485,9 @@
       "pos_pct": 0.8860062451209991
     },
     {
-      "window_id": "rk7qIWcLJ40:j0108",
+      "window_id": "rk7qIWcLJ40:j0095",
       "video_id": "rk7qIWcLJ40",
-      "idx": 108,
+      "idx": 95,
       "sent_ids": [
         "rk7qIWcLJ40:s0247",
         "rk7qIWcLJ40:s0248"
@@ -1669,54 +1500,41 @@
       "pos_pct": 0.8960983606557378
     },
     {
-      "window_id": "rk7qIWcLJ40:j0109",
+      "window_id": "rk7qIWcLJ40:j0096",
       "video_id": "rk7qIWcLJ40",
-      "idx": 109,
+      "idx": 96,
       "sent_ids": [
-        "rk7qIWcLJ40:s0249"
+        "rk7qIWcLJ40:s0249",
+        "rk7qIWcLJ40:s0250"
       ],
       "start_s": 1155.807,
-      "end_s": 1162.072,
-      "text": "We are deeply biologically social creatures, and social support has measurable effects on health and survival.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 1169.919,
+      "text": "We are deeply biologically social creatures, and social support has measurable effects on health and survival. Ancient humans lived in tight-knit communities where the sick were cared for, the weak were protected, the elderly were valued for their knowledge.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.9022693208430913
     },
     {
-      "window_id": "rk7qIWcLJ40:j0110",
+      "window_id": "rk7qIWcLJ40:j0097",
       "video_id": "rk7qIWcLJ40",
-      "idx": 110,
+      "idx": 97,
       "sent_ids": [
-        "rk7qIWcLJ40:s0250",
-        "rk7qIWcLJ40:s0251"
-      ],
-      "start_s": 1162.573,
-      "end_s": 1172.921,
-      "text": "Ancient humans lived in tight-knit communities where the sick were cared for, the weak were protected, the elderly were valued for their knowledge. The community was itself a medical institution.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.9075511319281812
-    },
-    {
-      "window_id": "rk7qIWcLJ40:j0111",
-      "video_id": "rk7qIWcLJ40",
-      "idx": 111,
-      "sent_ids": [
+        "rk7qIWcLJ40:s0251",
         "rk7qIWcLJ40:s0252",
         "rk7qIWcLJ40:s0253",
         "rk7qIWcLJ40:s0254"
       ],
-      "start_s": 1173.281,
+      "start_s": 1170.519,
       "end_s": 1184.973,
-      "text": "Modern research on loneliness consistently finds it to be one of the most powerful risk factors for early death, comparable to smoking. Social isolation kills. Social connection heals.",
-      "n_words": 28,
-      "n_sentences": 3,
-      "pos_pct": 0.9159102263856361
+      "text": "The community was itself a medical institution. Modern research on loneliness consistently finds it to be one of the most powerful risk factors for early death, comparable to smoking. Social isolation kills. Social connection heals.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.9137540983606557
     },
     {
-      "window_id": "rk7qIWcLJ40:j0112",
+      "window_id": "rk7qIWcLJ40:j0098",
       "video_id": "rk7qIWcLJ40",
-      "idx": 112,
+      "idx": 98,
       "sent_ids": [
         "rk7qIWcLJ40:s0255",
         "rk7qIWcLJ40:s0256",
@@ -1730,9 +1548,9 @@
       "pos_pct": 0.925662763466042
     },
     {
-      "window_id": "rk7qIWcLJ40:j0113",
+      "window_id": "rk7qIWcLJ40:j0099",
       "video_id": "rk7qIWcLJ40",
-      "idx": 113,
+      "idx": 99,
       "sent_ids": [
         "rk7qIWcLJ40:s0258",
         "rk7qIWcLJ40:s0259"
@@ -1745,9 +1563,9 @@
       "pos_pct": 0.9364535519125683
     },
     {
-      "window_id": "rk7qIWcLJ40:j0114",
+      "window_id": "rk7qIWcLJ40:j0100",
       "video_id": "rk7qIWcLJ40",
-      "idx": 114,
+      "idx": 100,
       "sent_ids": [
         "rk7qIWcLJ40:s0260",
         "rk7qIWcLJ40:s0261",
@@ -1761,9 +1579,9 @@
       "pos_pct": 0.9455066354410616
     },
     {
-      "window_id": "rk7qIWcLJ40:j0115",
+      "window_id": "rk7qIWcLJ40:j0101",
       "video_id": "rk7qIWcLJ40",
-      "idx": 115,
+      "idx": 101,
       "sent_ids": [
         "rk7qIWcLJ40:s0263",
         "rk7qIWcLJ40:s0264"
@@ -1776,9 +1594,9 @@
       "pos_pct": 0.9545245901639345
     },
     {
-      "window_id": "rk7qIWcLJ40:j0116",
+      "window_id": "rk7qIWcLJ40:j0102",
       "video_id": "rk7qIWcLJ40",
-      "idx": 116,
+      "idx": 102,
       "sent_ids": [
         "rk7qIWcLJ40:s0265",
         "rk7qIWcLJ40:s0266",
@@ -1792,9 +1610,9 @@
       "pos_pct": 0.9626307572209213
     },
     {
-      "window_id": "rk7qIWcLJ40:j0117",
+      "window_id": "rk7qIWcLJ40:j0103",
       "video_id": "rk7qIWcLJ40",
-      "idx": 117,
+      "idx": 103,
       "sent_ids": [
         "rk7qIWcLJ40:s0268",
         "rk7qIWcLJ40:s0269"
@@ -1807,9 +1625,9 @@
       "pos_pct": 0.9703629976580797
     },
     {
-      "window_id": "rk7qIWcLJ40:j0118",
+      "window_id": "rk7qIWcLJ40:j0104",
       "video_id": "rk7qIWcLJ40",
-      "idx": 118,
+      "idx": 104,
       "sent_ids": [
         "rk7qIWcLJ40:s0270"
       ],
@@ -1821,9 +1639,9 @@
       "pos_pct": 0.9779953161592505
     },
     {
-      "window_id": "rk7qIWcLJ40:j0119",
+      "window_id": "rk7qIWcLJ40:j0105",
       "video_id": "rk7qIWcLJ40",
-      "idx": 119,
+      "idx": 105,
       "sent_ids": [
         "rk7qIWcLJ40:s0271",
         "rk7qIWcLJ40:s0272"

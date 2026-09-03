@@ -1,6 +1,6 @@
 {
   "video_id": "McXn53SKXYg",
-  "generated_at": "2026-09-03T11:59:53.011984+00:00",
+  "generated_at": "2026-09-03T13:18:13.122564+00:00",
   "windows": [
     {
       "window_id": "McXn53SKXYg:j0000",
@@ -21,33 +21,20 @@
       "video_id": "McXn53SKXYg",
       "idx": 1,
       "sent_ids": [
-        "McXn53SKXYg:s0001"
+        "McXn53SKXYg:s0001",
+        "McXn53SKXYg:s0002"
       ],
       "start_s": 29.064,
-      "end_s": 38.05,
-      "text": "no GPS, no combustion engine, no modern understanding of currents, weather systems, or celestial navigation written down in any textbook.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 50.838,
+      "text": "no GPS, no combustion engine, no modern understanding of currents, weather systems, or celestial navigation written down in any textbook. Just raw, accumulated human ingenuity applied consistently, generation after generation, until our species had quietly spread itself across nearly the entire habitable surface of the planet.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.018714745653573728
     },
     {
       "window_id": "McXn53SKXYg:j0002",
       "video_id": "McXn53SKXYg",
       "idx": 2,
-      "sent_ids": [
-        "McXn53SKXYg:s0002"
-      ],
-      "start_s": 38.85,
-      "end_s": 50.838,
-      "text": "Just raw, accumulated human ingenuity applied consistently, generation after generation, until our species had quietly spread itself across nearly the entire habitable surface of the planet.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.025016097875080492
-    },
-    {
-      "window_id": "McXn53SKXYg:j0003",
-      "video_id": "McXn53SKXYg",
-      "idx": 3,
       "sent_ids": [
         "McXn53SKXYg:s0003",
         "McXn53SKXYg:s0004",
@@ -61,9 +48,9 @@
       "pos_pct": 0.0331216999356085
     },
     {
-      "window_id": "McXn53SKXYg:j0004",
+      "window_id": "McXn53SKXYg:j0003",
       "video_id": "McXn53SKXYg",
-      "idx": 4,
+      "idx": 3,
       "sent_ids": [
         "McXn53SKXYg:s0006",
         "McXn53SKXYg:s0007"
@@ -76,9 +63,9 @@
       "pos_pct": 0.0424539600772698
     },
     {
-      "window_id": "McXn53SKXYg:j0005",
+      "window_id": "McXn53SKXYg:j0004",
       "video_id": "McXn53SKXYg",
-      "idx": 5,
+      "idx": 4,
       "sent_ids": [
         "McXn53SKXYg:s0008"
       ],
@@ -90,9 +77,9 @@
       "pos_pct": 0.05103541532517707
     },
     {
-      "window_id": "McXn53SKXYg:j0006",
+      "window_id": "McXn53SKXYg:j0005",
       "video_id": "McXn53SKXYg",
-      "idx": 6,
+      "idx": 5,
       "sent_ids": [
         "McXn53SKXYg:s0009"
       ],
@@ -104,9 +91,9 @@
       "pos_pct": 0.06152736638763684
     },
     {
-      "window_id": "McXn53SKXYg:j0007",
+      "window_id": "McXn53SKXYg:j0006",
       "video_id": "McXn53SKXYg",
-      "idx": 7,
+      "idx": 6,
       "sent_ids": [
         "McXn53SKXYg:s0010"
       ],
@@ -118,37 +105,24 @@
       "pos_pct": 0.07012491951062459
     },
     {
-      "window_id": "McXn53SKXYg:j0008",
+      "window_id": "McXn53SKXYg:j0007",
       "video_id": "McXn53SKXYg",
-      "idx": 8,
+      "idx": 7,
       "sent_ids": [
-        "McXn53SKXYg:s0011"
+        "McXn53SKXYg:s0011",
+        "McXn53SKXYg:s0012"
       ],
       "start_s": 131.459,
-      "end_s": 142.185,
-      "text": "Let's bring up something genuinely fascinating regarding the actual physical capability ancient humans possessed for this kind of sustained movement, because we touched on persistence hunting in a previous video,",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 147.226,
+      "text": "Let's bring up something genuinely fascinating regarding the actual physical capability ancient humans possessed for this kind of sustained movement, because we touched on persistence hunting in a previous video, And that exact same underlying physiology applies directly here, too.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.08464842240824211
     },
     {
-      "window_id": "McXn53SKXYg:j0009",
+      "window_id": "McXn53SKXYg:j0008",
       "video_id": "McXn53SKXYg",
-      "idx": 9,
-      "sent_ids": [
-        "McXn53SKXYg:s0012"
-      ],
-      "start_s": 142.845,
-      "end_s": 147.226,
-      "text": "And that exact same underlying physiology applies directly here, too.",
-      "n_words": 10,
-      "n_sentences": 1,
-      "pos_pct": 0.09198003863490019
-    },
-    {
-      "window_id": "McXn53SKXYg:j0010",
-      "video_id": "McXn53SKXYg",
-      "idx": 10,
+      "idx": 8,
       "sent_ids": [
         "McXn53SKXYg:s0013"
       ],
@@ -160,9 +134,9 @@
       "pos_pct": 0.0953683193818416
     },
     {
-      "window_id": "McXn53SKXYg:j0011",
+      "window_id": "McXn53SKXYg:j0009",
       "video_id": "McXn53SKXYg",
-      "idx": 11,
+      "idx": 9,
       "sent_ids": [
         "McXn53SKXYg:s0014"
       ],
@@ -174,52 +148,39 @@
       "pos_pct": 0.10581519639407598
     },
     {
-      "window_id": "McXn53SKXYg:j0012",
+      "window_id": "McXn53SKXYg:j0010",
       "video_id": "McXn53SKXYg",
-      "idx": 12,
+      "idx": 10,
       "sent_ids": [
-        "McXn53SKXYg:s0015"
+        "McXn53SKXYg:s0015",
+        "McXn53SKXYg:s0016"
       ],
       "start_s": 180.063,
-      "end_s": 190.714,
-      "text": "It represented a fairly normal, sustainable, daily travel capacity for populations whose bodies and lifestyles were consistently conditioned for exactly this kind of activity from childhood onward.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 197.441,
+      "text": "It represented a fairly normal, sustainable, daily travel capacity for populations whose bodies and lifestyles were consistently conditioned for exactly this kind of activity from childhood onward. Now let's bring in something that probably deserves more credit than it usually gets in popular conversations about ancient migration.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.11594526722472633
     },
     {
-      "window_id": "McXn53SKXYg:j0013",
+      "window_id": "McXn53SKXYg:j0011",
       "video_id": "McXn53SKXYg",
-      "idx": 13,
+      "idx": 11,
       "sent_ids": [
-        "McXn53SKXYg:s0016",
-        "McXn53SKXYg:s0017"
-      ],
-      "start_s": 191.215,
-      "end_s": 200.705,
-      "text": "Now let's bring in something that probably deserves more credit than it usually gets in popular conversations about ancient migration. Environmental knowledge and tracking skill.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.12312620734063104
-    },
-    {
-      "window_id": "McXn53SKXYg:j0014",
-      "video_id": "McXn53SKXYg",
-      "idx": 14,
-      "sent_ids": [
+        "McXn53SKXYg:s0017",
         "McXn53SKXYg:s0018"
       ],
-      "start_s": 201.919,
+      "start_s": 198.042,
       "end_s": 221.402,
-      "text": "Successfully traveling across unfamiliar terrain, without getting lost, without running out of water, and without walking directly into genuinely dangerous conditions required an enormous, accumulated body of practical environmental knowledge, reading landscape features, understanding how to locate water sources by observing vegetation patterns or animal behavior.",
-      "n_words": 46,
-      "n_sentences": 1,
-      "pos_pct": 0.1300186735350934
+      "text": "Environmental knowledge and tracking skill. Successfully traveling across unfamiliar terrain, without getting lost, without running out of water, and without walking directly into genuinely dangerous conditions required an enormous, accumulated body of practical environmental knowledge, reading landscape features, understanding how to locate water sources by observing vegetation patterns or animal behavior.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.12752221506761108
     },
     {
-      "window_id": "McXn53SKXYg:j0015",
+      "window_id": "McXn53SKXYg:j0012",
       "video_id": "McXn53SKXYg",
-      "idx": 15,
+      "idx": 12,
       "sent_ids": [
         "McXn53SKXYg:s0019",
         "McXn53SKXYg:s0020"
@@ -232,37 +193,24 @@
       "pos_pct": 0.14300257566001287
     },
     {
-      "window_id": "McXn53SKXYg:j0016",
+      "window_id": "McXn53SKXYg:j0013",
       "video_id": "McXn53SKXYg",
-      "idx": 16,
+      "idx": 13,
       "sent_ids": [
-        "McXn53SKXYg:s0021"
+        "McXn53SKXYg:s0021",
+        "McXn53SKXYg:s0022"
       ],
       "start_s": 230.427,
-      "end_s": 242.673,
-      "text": "It represented generations of accumulated observation, passed down through oral tradition, that allowed ancient travelers to navigate genuinely unfamiliar territory with considerably more confidence in safety than a modern person.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 247.015,
+      "text": "It represented generations of accumulated observation, passed down through oral tradition, that allowed ancient travelers to navigate genuinely unfamiliar territory with considerably more confidence in safety than a modern person. Dropped into the same environment with zero preparation, would likely manage.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.148375402446877
     },
     {
-      "window_id": "McXn53SKXYg:j0017",
+      "window_id": "McXn53SKXYg:j0014",
       "video_id": "McXn53SKXYg",
-      "idx": 17,
-      "sent_ids": [
-        "McXn53SKXYg:s0022"
-      ],
-      "start_s": 243.333,
-      "end_s": 247.015,
-      "text": "Dropped into the same environment with zero preparation, would likely manage.",
-      "n_words": 11,
-      "n_sentences": 1,
-      "pos_pct": 0.15668576947842885
-    },
-    {
-      "window_id": "McXn53SKXYg:j0018",
-      "video_id": "McXn53SKXYg",
-      "idx": 18,
+      "idx": 14,
       "sent_ids": [
         "McXn53SKXYg:s0023"
       ],
@@ -274,9 +222,9 @@
       "pos_pct": 0.1593786220218931
     },
     {
-      "window_id": "McXn53SKXYg:j0019",
+      "window_id": "McXn53SKXYg:j0015",
       "video_id": "McXn53SKXYg",
-      "idx": 19,
+      "idx": 15,
       "sent_ids": [
         "McXn53SKXYg:s0024"
       ],
@@ -288,52 +236,39 @@
       "pos_pct": 0.1671841596909208
     },
     {
-      "window_id": "McXn53SKXYg:j0020",
+      "window_id": "McXn53SKXYg:j0016",
       "video_id": "McXn53SKXYg",
-      "idx": 20,
+      "idx": 16,
       "sent_ids": [
-        "McXn53SKXYg:s0025"
+        "McXn53SKXYg:s0025",
+        "McXn53SKXYg:s0026"
       ],
       "start_s": 274.6,
-      "end_s": 284.152,
-      "text": "A body of water that, during certain periods of lower sea level connected to ice age climate cycles, would have been considerably narrower and more crossable than it is today.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 292.581,
+      "text": "A body of water that, during certain periods of lower sea level connected to ice age climate cycles, would have been considerably narrower and more crossable than it is today. This detail matters enormously, because it highlights something genuinely important running throughout this entire topic.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.17681905988409533
     },
     {
-      "window_id": "McXn53SKXYg:j0021",
+      "window_id": "McXn53SKXYg:j0017",
       "video_id": "McXn53SKXYg",
-      "idx": 21,
+      "idx": 17,
       "sent_ids": [
-        "McXn53SKXYg:s0026",
-        "McXn53SKXYg:s0027"
-      ],
-      "start_s": 285.033,
-      "end_s": 298.668,
-      "text": "This detail matters enormously, because it highlights something genuinely important running throughout this entire topic. Ancient human migration wasn't purely a story of pure willpower and physical endurance.",
-      "n_words": 28,
-      "n_sentences": 2,
-      "pos_pct": 0.18353702511268513
-    },
-    {
-      "window_id": "McXn53SKXYg:j0022",
-      "video_id": "McXn53SKXYg",
-      "idx": 22,
-      "sent_ids": [
+        "McXn53SKXYg:s0027",
         "McXn53SKXYg:s0028"
       ],
-      "start_s": 299.228,
+      "start_s": 293.262,
       "end_s": 315.722,
-      "text": "It was also a story of ancient humans taking direct advantage of favorable environmental conditions, narrower water crossings during specific climate periods, land bridges exposed during glacial maximums that simply aren't available under modern sea level and climate conditions.",
-      "n_words": 39,
-      "n_sentences": 1,
-      "pos_pct": 0.192677398583387
+      "text": "Ancient human migration wasn't purely a story of pure willpower and physical endurance. It was also a story of ancient humans taking direct advantage of favorable environmental conditions, narrower water crossings during specific climate periods, land bridges exposed during glacial maximums that simply aren't available under modern sea level and climate conditions.",
+      "n_words": 52,
+      "n_sentences": 2,
+      "pos_pct": 0.18883580167417902
     },
     {
-      "window_id": "McXn53SKXYg:j0023",
+      "window_id": "McXn53SKXYg:j0018",
       "video_id": "McXn53SKXYg",
-      "idx": 23,
+      "idx": 18,
       "sent_ids": [
         "McXn53SKXYg:s0029"
       ],
@@ -345,9 +280,9 @@
       "pos_pct": 0.20349130714745653
     },
     {
-      "window_id": "McXn53SKXYg:j0024",
+      "window_id": "McXn53SKXYg:j0019",
       "video_id": "McXn53SKXYg",
-      "idx": 24,
+      "idx": 19,
       "sent_ids": [
         "McXn53SKXYg:s0030"
       ],
@@ -359,37 +294,24 @@
       "pos_pct": 0.20975402446877012
     },
     {
-      "window_id": "McXn53SKXYg:j0025",
+      "window_id": "McXn53SKXYg:j0020",
       "video_id": "McXn53SKXYg",
-      "idx": 25,
+      "idx": 20,
       "sent_ids": [
-        "McXn53SKXYg:s0031"
+        "McXn53SKXYg:s0031",
+        "McXn53SKXYg:s0032"
       ],
       "start_s": 342.297,
-      "end_s": 347.98,
-      "text": "This land bridge allowed ancient human populations to walk directly from Asia into the Americas.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 365.605,
+      "text": "This land bridge allowed ancient human populations to walk directly from Asia into the Americas. without requiring any boats or sophisticated water-crossing technology at all, simply by following game animals and gradually expanding eastward across what was, at the time, perfectly ordinary, walkable land, rather than the open ocean separating these two continents today.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.2204101738570509
     },
     {
-      "window_id": "McXn53SKXYg:j0026",
+      "window_id": "McXn53SKXYg:j0021",
       "video_id": "McXn53SKXYg",
-      "idx": 26,
-      "sent_ids": [
-        "McXn53SKXYg:s0032"
-      ],
-      "start_s": 348.4,
-      "end_s": 365.605,
-      "text": "without requiring any boats or sophisticated water-crossing technology at all, simply by following game animals and gradually expanding eastward across what was, at the time, perfectly ordinary, walkable land, rather than the open ocean separating these two continents today.",
-      "n_words": 39,
-      "n_sentences": 1,
-      "pos_pct": 0.22433998712169992
-    },
-    {
-      "window_id": "McXn53SKXYg:j0027",
-      "video_id": "McXn53SKXYg",
-      "idx": 27,
+      "idx": 21,
       "sent_ids": [
         "McXn53SKXYg:s0033"
       ],
@@ -401,9 +323,9 @@
       "pos_pct": 0.23574050225370252
     },
     {
-      "window_id": "McXn53SKXYg:j0028",
+      "window_id": "McXn53SKXYg:j0022",
       "video_id": "McXn53SKXYg",
-      "idx": 28,
+      "idx": 22,
       "sent_ids": [
         "McXn53SKXYg:s0034"
       ],
@@ -415,108 +337,69 @@
       "pos_pct": 0.24610431423052156
     },
     {
-      "window_id": "McXn53SKXYg:j0029",
+      "window_id": "McXn53SKXYg:j0023",
       "video_id": "McXn53SKXYg",
-      "idx": 29,
+      "idx": 23,
       "sent_ids": [
-        "McXn53SKXYg:s0035"
+        "McXn53SKXYg:s0035",
+        "McXn53SKXYg:s0036"
       ],
       "start_s": 398.992,
-      "end_s": 403.055,
-      "text": "Because at that specific point in history, it wasn't ocean at all.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 420.185,
+      "text": "Because at that specific point in history, it wasn't ocean at all. Let's bring up something genuinely remarkable regarding Pacific Island colonization now, because this represents a completely different category of ancient travel challenge, one that absolutely did require sophisticated, deliberate maritime technology rather than simply walking across exposed land.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.2569169349645847
     },
     {
-      "window_id": "McXn53SKXYg:j0030",
+      "window_id": "McXn53SKXYg:j0024",
       "video_id": "McXn53SKXYg",
-      "idx": 30,
+      "idx": 24,
       "sent_ids": [
-        "McXn53SKXYg:s0036"
-      ],
-      "start_s": 403.895,
-      "end_s": 420.185,
-      "text": "Let's bring up something genuinely remarkable regarding Pacific Island colonization now, because this represents a completely different category of ancient travel challenge, one that absolutely did require sophisticated, deliberate maritime technology rather than simply walking across exposed land.",
-      "n_words": 38,
-      "n_sentences": 1,
-      "pos_pct": 0.2600740502253702
-    },
-    {
-      "window_id": "McXn53SKXYg:j0031",
-      "video_id": "McXn53SKXYg",
-      "idx": 31,
-      "sent_ids": [
-        "McXn53SKXYg:s0037"
+        "McXn53SKXYg:s0037",
+        "McXn53SKXYg:s0038"
       ],
       "start_s": 420.445,
-      "end_s": 430.391,
-      "text": "Polynesian voyagers successfully colonized an enormous range of remote Pacific Islands, separated from each other and from any mainland by genuinely vast stretches of open ocean.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 442.817,
+      "text": "Polynesian voyagers successfully colonized an enormous range of remote Pacific Islands, separated from each other and from any mainland by genuinely vast stretches of open ocean. using double-hulled outrigger canoes capable of carrying entire founding populations, along with the plants, animals, and supplies necessary to actually establish a sustainable new settlement upon arrival.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.27073084352865423
     },
     {
-      "window_id": "McXn53SKXYg:j0032",
+      "window_id": "McXn53SKXYg:j0025",
       "video_id": "McXn53SKXYg",
-      "idx": 32,
+      "idx": 25,
       "sent_ids": [
-        "McXn53SKXYg:s0038",
-        "McXn53SKXYg:s0039"
-      ],
-      "start_s": 431.111,
-      "end_s": 444.518,
-      "text": "using double-hulled outrigger canoes capable of carrying entire founding populations, along with the plants, animals, and supplies necessary to actually establish a sustainable new settlement upon arrival. This wasn't accidental drifting.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.2775988409529942
-    },
-    {
-      "window_id": "McXn53SKXYg:j0033",
-      "video_id": "McXn53SKXYg",
-      "idx": 33,
-      "sent_ids": [
+        "McXn53SKXYg:s0039",
         "McXn53SKXYg:s0040"
       ],
-      "start_s": 445.058,
+      "start_s": 443.017,
       "end_s": 457.345,
-      "text": "Archaeological and genetic evidence, along with the deliberate inclusion of breeding populations of specific plants and animals aboard these voyaging canoes, strongly indicates intentional planned colonization voyages.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.2865795235028976
+      "text": "This wasn't accidental drifting. Archaeological and genetic evidence, along with the deliberate inclusion of breeding populations of specific plants and animals aboard these voyaging canoes, strongly indicates intentional planned colonization voyages.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.28526529298132647
     },
     {
-      "window_id": "McXn53SKXYg:j0034",
+      "window_id": "McXn53SKXYg:j0026",
       "video_id": "McXn53SKXYg",
-      "idx": 34,
+      "idx": 26,
       "sent_ids": [
-        "McXn53SKXYg:s0041"
+        "McXn53SKXYg:s0041",
+        "McXn53SKXYg:s0042"
       ],
       "start_s": 458.125,
-      "end_s": 464.468,
-      "text": "undertaken by people who fully expected to find land, and intended to establish a permanent settlement once they did.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 477.453,
+      "text": "undertaken by people who fully expected to find land, and intended to establish a permanent settlement once they did. Now let's bring up the genuinely impressive navigation methods that made this kind of open ocean voyaging possible in the first place, because this represents one of the most sophisticated bodies of practical scientific knowledge developed anywhere in the ancient world.",
+      "n_words": 60,
+      "n_sentences": 2,
       "pos_pct": 0.2949935608499678
     },
     {
-      "window_id": "McXn53SKXYg:j0035",
+      "window_id": "McXn53SKXYg:j0027",
       "video_id": "McXn53SKXYg",
-      "idx": 35,
-      "sent_ids": [
-        "McXn53SKXYg:s0042"
-      ],
-      "start_s": 464.828,
-      "end_s": 477.453,
-      "text": "Now let's bring up the genuinely impressive navigation methods that made this kind of open ocean voyaging possible in the first place, because this represents one of the most sophisticated bodies of practical scientific knowledge developed anywhere in the ancient world.",
-      "n_words": 41,
-      "n_sentences": 1,
-      "pos_pct": 0.2993097231165486
-    },
-    {
-      "window_id": "McXn53SKXYg:j0036",
-      "video_id": "McXn53SKXYg",
-      "idx": 36,
+      "idx": 27,
       "sent_ids": [
         "McXn53SKXYg:s0043"
       ],
@@ -528,37 +411,24 @@
       "pos_pct": 0.30772247263361235
     },
     {
-      "window_id": "McXn53SKXYg:j0037",
+      "window_id": "McXn53SKXYg:j0028",
       "video_id": "McXn53SKXYg",
-      "idx": 37,
+      "idx": 28,
       "sent_ids": [
-        "McXn53SKXYg:s0044"
+        "McXn53SKXYg:s0044",
+        "McXn53SKXYg:s0045"
       ],
       "start_s": 502.301,
-      "end_s": 511.623,
-      "text": "allowing skilled navigators to successfully cross hundreds or even thousands of miles of open ocean without any written charts or modern navigation instruments whatsoever.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 528.648,
+      "text": "allowing skilled navigators to successfully cross hundreds or even thousands of miles of open ocean without any written charts or modern navigation instruments whatsoever. This deserves genuine, considerable respect, because successfully navigating open ocean using purely observational, memorized techniques represents a level of accumulated practical scientific sophistication that's genuinely difficult to fully appreciate from a modern perspective.",
+      "n_words": 57,
+      "n_sentences": 2,
       "pos_pct": 0.32343915003219575
     },
     {
-      "window_id": "McXn53SKXYg:j0038",
+      "window_id": "McXn53SKXYg:j0029",
       "video_id": "McXn53SKXYg",
-      "idx": 38,
-      "sent_ids": [
-        "McXn53SKXYg:s0045"
-      ],
-      "start_s": 512.224,
-      "end_s": 528.648,
-      "text": "This deserves genuine, considerable respect, because successfully navigating open ocean using purely observational, memorized techniques represents a level of accumulated practical scientific sophistication that's genuinely difficult to fully appreciate from a modern perspective.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.32982871860914365
-    },
-    {
-      "window_id": "McXn53SKXYg:j0039",
-      "video_id": "McXn53SKXYg",
-      "idx": 39,
+      "idx": 29,
       "sent_ids": [
         "McXn53SKXYg:s0046"
       ],
@@ -570,9 +440,9 @@
       "pos_pct": 0.3408293625241468
     },
     {
-      "window_id": "McXn53SKXYg:j0040",
+      "window_id": "McXn53SKXYg:j0030",
       "video_id": "McXn53SKXYg",
-      "idx": 40,
+      "idx": 30,
       "sent_ids": [
         "McXn53SKXYg:s0047"
       ],
@@ -584,37 +454,24 @@
       "pos_pct": 0.34432002575660015
     },
     {
-      "window_id": "McXn53SKXYg:j0041",
+      "window_id": "McXn53SKXYg:j0031",
       "video_id": "McXn53SKXYg",
-      "idx": 41,
+      "idx": 31,
       "sent_ids": [
-        "McXn53SKXYg:s0048"
+        "McXn53SKXYg:s0048",
+        "McXn53SKXYg:s0049"
       ],
       "start_s": 559.896,
-      "end_s": 575.408,
-      "text": "Let's bring up something genuinely important regarding boat technology more broadly, because Polynesian outrigger canoes represent just one specific regional example within a considerably broader, independently developed body of ancient watercraft technology.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 585.137,
+      "text": "Let's bring up something genuinely important regarding boat technology more broadly, because Polynesian outrigger canoes represent just one specific regional example within a considerably broader, independently developed body of ancient watercraft technology. Different ancient cultures, facing different specific water-crossing challenges, developed genuinely distinct boat designs suited to their particular environment and travel needs.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.36052543464262715
     },
     {
-      "window_id": "McXn53SKXYg:j0042",
+      "window_id": "McXn53SKXYg:j0032",
       "video_id": "McXn53SKXYg",
-      "idx": 42,
-      "sent_ids": [
-        "McXn53SKXYg:s0049"
-      ],
-      "start_s": 576.168,
-      "end_s": 585.137,
-      "text": "Different ancient cultures, facing different specific water-crossing challenges, developed genuinely distinct boat designs suited to their particular environment and travel needs.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.3710032195750161
-    },
-    {
-      "window_id": "McXn53SKXYg:j0043",
-      "video_id": "McXn53SKXYg",
-      "idx": 43,
+      "idx": 32,
       "sent_ids": [
         "McXn53SKXYg:s0050"
       ],
@@ -626,9 +483,9 @@
       "pos_pct": 0.3771648422408242
     },
     {
-      "window_id": "McXn53SKXYg:j0044",
+      "window_id": "McXn53SKXYg:j0033",
       "video_id": "McXn53SKXYg",
-      "idx": 44,
+      "idx": 33,
       "sent_ids": [
         "McXn53SKXYg:s0051",
         "McXn53SKXYg:s0052"
@@ -641,37 +498,24 @@
       "pos_pct": 0.39112298776561494
     },
     {
-      "window_id": "McXn53SKXYg:j0045",
+      "window_id": "McXn53SKXYg:j0034",
       "video_id": "McXn53SKXYg",
-      "idx": 45,
+      "idx": 34,
       "sent_ids": [
-        "McXn53SKXYg:s0053"
+        "McXn53SKXYg:s0053",
+        "McXn53SKXYg:s0054"
       ],
       "start_s": 619.742,
-      "end_s": 631.634,
-      "text": "it represented countless independently developed regional solutions, each one specifically optimized for the particular materials, water conditions, and travel requirements of that specific local environment.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 639.666,
+      "text": "it represented countless independently developed regional solutions, each one specifically optimized for the particular materials, water conditions, and travel requirements of that specific local environment. Now let's address something genuinely interesting connecting this entire topic to the deep, prehistoric human migration into Australia specifically.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.3990611719253058
     },
     {
-      "window_id": "McXn53SKXYg:j0046",
+      "window_id": "McXn53SKXYg:j0035",
       "video_id": "McXn53SKXYg",
-      "idx": 46,
-      "sent_ids": [
-        "McXn53SKXYg:s0054"
-      ],
-      "start_s": 632.38,
-      "end_s": 639.666,
-      "text": "Now let's address something genuinely interesting connecting this entire topic to the deep, prehistoric human migration into Australia specifically.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.40719896973599484
-    },
-    {
-      "window_id": "McXn53SKXYg:j0047",
-      "video_id": "McXn53SKXYg",
-      "idx": 47,
+      "idx": 35,
       "sent_ids": [
         "McXn53SKXYg:s0055"
       ],
@@ -683,9 +527,9 @@
       "pos_pct": 0.41213522215067616
     },
     {
-      "window_id": "McXn53SKXYg:j0048",
+      "window_id": "McXn53SKXYg:j0036",
       "video_id": "McXn53SKXYg",
-      "idx": 48,
+      "idx": 36,
       "sent_ids": [
         "McXn53SKXYg:s0056"
       ],
@@ -697,9 +541,9 @@
       "pos_pct": 0.4184636188023181
     },
     {
-      "window_id": "McXn53SKXYg:j0049",
+      "window_id": "McXn53SKXYg:j0037",
       "video_id": "McXn53SKXYg",
-      "idx": 49,
+      "idx": 37,
       "sent_ids": [
         "McXn53SKXYg:s0057"
       ],
@@ -711,65 +555,39 @@
       "pos_pct": 0.42840309079201544
     },
     {
-      "window_id": "McXn53SKXYg:j0050",
+      "window_id": "McXn53SKXYg:j0038",
       "video_id": "McXn53SKXYg",
-      "idx": 50,
+      "idx": 38,
       "sent_ids": [
-        "McXn53SKXYg:s0058"
+        "McXn53SKXYg:s0058",
+        "McXn53SKXYg:s0059"
       ],
       "start_s": 685.714,
-      "end_s": 691.035,
-      "text": "This represents a genuinely fascinating, still actively debated mystery within archaeology,",
-      "n_words": 11,
-      "n_sentences": 1,
+      "end_s": 705.876,
+      "text": "This represents a genuinely fascinating, still actively debated mystery within archaeology, Exactly what kind of watercraft these early travelers used and exactly how sophisticated their navigation and planning actually was remains considerably less well understood compared to the more extensively documented Polynesian voyaging tradition.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.4415415325177077
     },
     {
-      "window_id": "McXn53SKXYg:j0051",
+      "window_id": "McXn53SKXYg:j0039",
       "video_id": "McXn53SKXYg",
-      "idx": 51,
+      "idx": 39,
       "sent_ids": [
-        "McXn53SKXYg:s0059"
-      ],
-      "start_s": 691.675,
-      "end_s": 705.876,
-      "text": "Exactly what kind of watercraft these early travelers used and exactly how sophisticated their navigation and planning actually was remains considerably less well understood compared to the more extensively documented Polynesian voyaging tradition.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.4453799098518995
-    },
-    {
-      "window_id": "McXn53SKXYg:j0052",
-      "video_id": "McXn53SKXYg",
-      "idx": 52,
-      "sent_ids": [
-        "McXn53SKXYg:s0060"
+        "McXn53SKXYg:s0060",
+        "McXn53SKXYg:s0061"
       ],
       "start_s": 706.537,
-      "end_s": 709.518,
-      "text": "But the basic fact itself is genuinely undeniable.",
-      "n_words": 8,
-      "n_sentences": 1,
+      "end_s": 730.905,
+      "text": "But the basic fact itself is genuinely undeniable. Ancient humans reached Australia by deliberately crossing open water tens of thousands of years before any other documented evidence of sophisticated ancient maritime travel anywhere else in the world, suggesting humans were experimenting with water-crossing technology considerably earlier and considerably more successfully than popular historical narratives typically give them credit for.",
+      "n_words": 59,
+      "n_sentences": 2,
       "pos_pct": 0.4549497746297489
     },
     {
-      "window_id": "McXn53SKXYg:j0053",
+      "window_id": "McXn53SKXYg:j0040",
       "video_id": "McXn53SKXYg",
-      "idx": 53,
-      "sent_ids": [
-        "McXn53SKXYg:s0061"
-      ],
-      "start_s": 709.918,
-      "end_s": 730.905,
-      "text": "Ancient humans reached Australia by deliberately crossing open water tens of thousands of years before any other documented evidence of sophisticated ancient maritime travel anywhere else in the world, suggesting humans were experimenting with water-crossing technology considerably earlier and considerably more successfully than popular historical narratives typically give them credit for.",
-      "n_words": 51,
-      "n_sentences": 1,
-      "pos_pct": 0.45712685125563424
-    },
-    {
-      "window_id": "McXn53SKXYg:j0054",
-      "video_id": "McXn53SKXYg",
-      "idx": 54,
+      "idx": 40,
       "sent_ids": [
         "McXn53SKXYg:s0062"
       ],
@@ -781,9 +599,9 @@
       "pos_pct": 0.4710270444301352
     },
     {
-      "window_id": "McXn53SKXYg:j0055",
+      "window_id": "McXn53SKXYg:j0041",
       "video_id": "McXn53SKXYg",
-      "idx": 55,
+      "idx": 41,
       "sent_ids": [
         "McXn53SKXYg:s0063"
       ],
@@ -795,65 +613,39 @@
       "pos_pct": 0.48216999356084994
     },
     {
-      "window_id": "McXn53SKXYg:j0056",
+      "window_id": "McXn53SKXYg:j0042",
       "video_id": "McXn53SKXYg",
-      "idx": 56,
+      "idx": 42,
       "sent_ids": [
-        "McXn53SKXYg:s0064"
+        "McXn53SKXYg:s0064",
+        "McXn53SKXYg:s0065"
       ],
       "start_s": 771.561,
-      "end_s": 777.627,
-      "text": "This technological development connects directly to something we discussed in a previous video regarding animal domestication.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 792.042,
+      "text": "This technological development connects directly to something we discussed in a previous video regarding animal domestication. The same underlying domestication process that eventually gave us dogs and various livestock species also fundamentally reshaped how far and how efficiently ancient humans could actually travel once specific animal species had been successfully tamed and bred.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.49681970379909857
     },
     {
-      "window_id": "McXn53SKXYg:j0057",
+      "window_id": "McXn53SKXYg:j0043",
       "video_id": "McXn53SKXYg",
-      "idx": 57,
+      "idx": 43,
       "sent_ids": [
-        "McXn53SKXYg:s0065"
-      ],
-      "start_s": 778.068,
-      "end_s": 792.042,
-      "text": "The same underlying domestication process that eventually gave us dogs and various livestock species also fundamentally reshaped how far and how efficiently ancient humans could actually travel once specific animal species had been successfully tamed and bred.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.5010096587250483
-    },
-    {
-      "window_id": "McXn53SKXYg:j0058",
-      "video_id": "McXn53SKXYg",
-      "idx": 58,
-      "sent_ids": [
-        "McXn53SKXYg:s0066"
+        "McXn53SKXYg:s0066",
+        "McXn53SKXYg:s0067"
       ],
       "start_s": 792.042,
-      "end_s": 793.843,
-      "text": "bred, for exactly this purpose.",
-      "n_words": 5,
-      "n_sentences": 1,
+      "end_s": 808.592,
+      "text": "bred, for exactly this purpose. Now let's bring up something genuinely fascinating regarding camels specifically, because they deserve particular recognition for how dramatically they transformed travel and trade across some of the planet's most genuinely hostile, difficult-to-traverse terrain.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.5100077269800386
     },
     {
-      "window_id": "McXn53SKXYg:j0059",
+      "window_id": "McXn53SKXYg:j0044",
       "video_id": "McXn53SKXYg",
-      "idx": 59,
-      "sent_ids": [
-        "McXn53SKXYg:s0067"
-      ],
-      "start_s": 794.443,
-      "end_s": 808.592,
-      "text": "Now let's bring up something genuinely fascinating regarding camels specifically, because they deserve particular recognition for how dramatically they transformed travel and trade across some of the planet's most genuinely hostile, difficult-to-traverse terrain.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.5115537669027688
-    },
-    {
-      "window_id": "McXn53SKXYg:j0060",
-      "video_id": "McXn53SKXYg",
-      "idx": 60,
+      "idx": 44,
       "sent_ids": [
         "McXn53SKXYg:s0068"
       ],
@@ -865,9 +657,9 @@
       "pos_pct": 0.52103799098519
     },
     {
-      "window_id": "McXn53SKXYg:j0061",
+      "window_id": "McXn53SKXYg:j0045",
       "video_id": "McXn53SKXYg",
-      "idx": 61,
+      "idx": 45,
       "sent_ids": [
         "McXn53SKXYg:s0069"
       ],
@@ -879,9 +671,9 @@
       "pos_pct": 0.5233702511268512
     },
     {
-      "window_id": "McXn53SKXYg:j0062",
+      "window_id": "McXn53SKXYg:j0046",
       "video_id": "McXn53SKXYg",
-      "idx": 62,
+      "idx": 46,
       "sent_ids": [
         "McXn53SKXYg:s0070"
       ],
@@ -893,9 +685,9 @@
       "pos_pct": 0.5369549259497746
     },
     {
-      "window_id": "McXn53SKXYg:j0063",
+      "window_id": "McXn53SKXYg:j0047",
       "video_id": "McXn53SKXYg",
-      "idx": 63,
+      "idx": 47,
       "sent_ids": [
         "McXn53SKXYg:s0071",
         "McXn53SKXYg:s0072",
@@ -909,37 +701,24 @@
       "pos_pct": 0.5550489375402446
     },
     {
-      "window_id": "McXn53SKXYg:j0064",
+      "window_id": "McXn53SKXYg:j0048",
       "video_id": "McXn53SKXYg",
-      "idx": 64,
+      "idx": 48,
       "sent_ids": [
-        "McXn53SKXYg:s0074"
+        "McXn53SKXYg:s0074",
+        "McXn53SKXYg:s0075"
       ],
       "start_s": 874.935,
-      "end_s": 879.937,
-      "text": "The deliberate, repeated movement of goods and materials across genuinely vast distances.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 889.52,
+      "text": "The deliberate, repeated movement of goods and materials across genuinely vast distances. Connecting communities that never had any direct, permanent contact with each other, but still managed to exchange goods through a chain of intermediary trading relationships.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.5633837733419188
     },
     {
-      "window_id": "McXn53SKXYg:j0065",
+      "window_id": "McXn53SKXYg:j0049",
       "video_id": "McXn53SKXYg",
-      "idx": 65,
-      "sent_ids": [
-        "McXn53SKXYg:s0075"
-      ],
-      "start_s": 880.397,
-      "end_s": 889.52,
-      "text": "Connecting communities that never had any direct, permanent contact with each other, but still managed to exchange goods through a chain of intermediary trading relationships.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.5669008370895042
-    },
-    {
-      "window_id": "McXn53SKXYg:j0066",
-      "video_id": "McXn53SKXYg",
-      "idx": 66,
+      "idx": 49,
       "sent_ids": [
         "McXn53SKXYg:s0076"
       ],
@@ -951,9 +730,9 @@
       "pos_pct": 0.5732517707662589
     },
     {
-      "window_id": "McXn53SKXYg:j0067",
+      "window_id": "McXn53SKXYg:j0050",
       "video_id": "McXn53SKXYg",
-      "idx": 67,
+      "idx": 50,
       "sent_ids": [
         "McXn53SKXYg:s0077"
       ],
@@ -965,9 +744,9 @@
       "pos_pct": 0.5925151320025757
     },
     {
-      "window_id": "McXn53SKXYg:j0068",
+      "window_id": "McXn53SKXYg:j0051",
       "video_id": "McXn53SKXYg",
-      "idx": 68,
+      "idx": 51,
       "sent_ids": [
         "McXn53SKXYg:s0078"
       ],
@@ -979,9 +758,9 @@
       "pos_pct": 0.6048750804893754
     },
     {
-      "window_id": "McXn53SKXYg:j0069",
+      "window_id": "McXn53SKXYg:j0052",
       "video_id": "McXn53SKXYg",
-      "idx": 69,
+      "idx": 52,
       "sent_ids": [
         "McXn53SKXYg:s0079",
         "McXn53SKXYg:s0080"
@@ -994,37 +773,24 @@
       "pos_pct": 0.618213779781069
     },
     {
-      "window_id": "McXn53SKXYg:j0070",
+      "window_id": "McXn53SKXYg:j0053",
       "video_id": "McXn53SKXYg",
-      "idx": 70,
+      "idx": 53,
       "sent_ids": [
-        "McXn53SKXYg:s0081"
+        "McXn53SKXYg:s0081",
+        "McXn53SKXYg:s0082"
       ],
       "start_s": 975.577,
-      "end_s": 982.724,
-      "text": "Let's bring up something genuinely important regarding how ancient humans handled the considerable uncertainty and risk involved in this kind of travel, too.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 995.415,
+      "text": "Let's bring up something genuinely important regarding how ancient humans handled the considerable uncertainty and risk involved in this kind of travel, too. Because, much like several other topics we've covered throughout this entire series, it's worth being honest about the genuine danger involved rather than presenting ancient migration as some kind of smooth, low-risk undertaking.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.6281886670959433
     },
     {
-      "window_id": "McXn53SKXYg:j0071",
+      "window_id": "McXn53SKXYg:j0054",
       "video_id": "McXn53SKXYg",
-      "idx": 71,
-      "sent_ids": [
-        "McXn53SKXYg:s0082"
-      ],
-      "start_s": 983.184,
-      "end_s": 995.415,
-      "text": "Because, much like several other topics we've covered throughout this entire series, it's worth being honest about the genuine danger involved rather than presenting ancient migration as some kind of smooth, low-risk undertaking.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.6330869285254346
-    },
-    {
-      "window_id": "McXn53SKXYg:j0072",
-      "video_id": "McXn53SKXYg",
-      "idx": 72,
+      "idx": 54,
       "sent_ids": [
         "McXn53SKXYg:s0083"
       ],
@@ -1036,93 +802,54 @@
       "pos_pct": 0.6415685769478429
     },
     {
-      "window_id": "McXn53SKXYg:j0073",
+      "window_id": "McXn53SKXYg:j0055",
       "video_id": "McXn53SKXYg",
-      "idx": 73,
+      "idx": 55,
       "sent_ids": [
-        "McXn53SKXYg:s0084"
+        "McXn53SKXYg:s0084",
+        "McXn53SKXYg:s0085"
       ],
       "start_s": 1014.71,
-      "end_s": 1022.592,
-      "text": "The fact that ancient humans successfully colonized nearly every habitable continent on the planet doesn't mean every individual attempt succeeded.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 1037.776,
+      "text": "The fact that ancient humans successfully colonized nearly every habitable continent on the planet doesn't mean every individual attempt succeeded. It almost certainly means a considerable number of migration attempts failed entirely, sometimes catastrophically, while the surviving successful migrations are the ones that left behind the archaeological and genetic evidence we're now able to study and piece together.",
+      "n_words": 58,
+      "n_sentences": 2,
       "pos_pct": 0.653386992916935
     },
     {
-      "window_id": "McXn53SKXYg:j0074",
+      "window_id": "McXn53SKXYg:j0056",
       "video_id": "McXn53SKXYg",
-      "idx": 74,
+      "idx": 56,
       "sent_ids": [
-        "McXn53SKXYg:s0085"
-      ],
-      "start_s": 1022.972,
-      "end_s": 1037.776,
-      "text": "It almost certainly means a considerable number of migration attempts failed entirely, sometimes catastrophically, while the surviving successful migrations are the ones that left behind the archaeological and genetic evidence we're now able to study and piece together.",
-      "n_words": 38,
-      "n_sentences": 1,
-      "pos_pct": 0.6587070186735351
-    },
-    {
-      "window_id": "McXn53SKXYg:j0075",
-      "video_id": "McXn53SKXYg",
-      "idx": 75,
-      "sent_ids": [
-        "McXn53SKXYg:s0086"
+        "McXn53SKXYg:s0086",
+        "McXn53SKXYg:s0087"
       ],
       "start_s": 1038.436,
-      "end_s": 1044.139,
-      "text": "Let's also bring up something genuinely interesting connecting this entire topic to seasonal timing specifically.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 1059.586,
+      "text": "Let's also bring up something genuinely interesting connecting this entire topic to seasonal timing specifically. Because successful long-distance travel, particularly across challenging terrain or open water, almost certainly required careful attention to seasonal weather patterns and timing, rather than simply departing whenever the idea happened to occur to a given group.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.6686645202833226
     },
     {
-      "window_id": "McXn53SKXYg:j0076",
+      "window_id": "McXn53SKXYg:j0057",
       "video_id": "McXn53SKXYg",
-      "idx": 76,
+      "idx": 57,
       "sent_ids": [
-        "McXn53SKXYg:s0087"
-      ],
-      "start_s": 1044.639,
-      "end_s": 1059.586,
-      "text": "Because successful long-distance travel, particularly across challenging terrain or open water, almost certainly required careful attention to seasonal weather patterns and timing, rather than simply departing whenever the idea happened to occur to a given group.",
-      "n_words": 36,
-      "n_sentences": 1,
-      "pos_pct": 0.6726587250482936
-    },
-    {
-      "window_id": "McXn53SKXYg:j0077",
-      "video_id": "McXn53SKXYg",
-      "idx": 77,
-      "sent_ids": [
-        "McXn53SKXYg:s0088"
+        "McXn53SKXYg:s0088",
+        "McXn53SKXYg:s0089"
       ],
       "start_s": 1060.246,
-      "end_s": 1073.028,
-      "text": "Polynesian voyaging in particular shows evidence of careful seasonal planning, taking advantage of specific, predictable wind and current patterns during particular times of year to maximize the chances of a successful voyage.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 1082.31,
+      "text": "Polynesian voyaging in particular shows evidence of careful seasonal planning, taking advantage of specific, predictable wind and current patterns during particular times of year to maximize the chances of a successful voyage. Exactly the kind of detailed, accumulated environmental knowledge we discussed earlier as being absolutely essential to successful ancient travel more broadly.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.6827083065035416
     },
     {
-      "window_id": "McXn53SKXYg:j0078",
+      "window_id": "McXn53SKXYg:j0058",
       "video_id": "McXn53SKXYg",
-      "idx": 78,
-      "sent_ids": [
-        "McXn53SKXYg:s0089"
-      ],
-      "start_s": 1073.588,
-      "end_s": 1082.31,
-      "text": "Exactly the kind of detailed, accumulated environmental knowledge we discussed earlier as being absolutely essential to successful ancient travel more broadly.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.6912994204764971
-    },
-    {
-      "window_id": "McXn53SKXYg:j0079",
-      "video_id": "McXn53SKXYg",
-      "idx": 79,
+      "idx": 58,
       "sent_ids": [
         "McXn53SKXYg:s0090",
         "McXn53SKXYg:s0091"
@@ -1135,37 +862,24 @@
       "pos_pct": 0.6972247263361236
     },
     {
-      "window_id": "McXn53SKXYg:j0080",
+      "window_id": "McXn53SKXYg:j0059",
       "video_id": "McXn53SKXYg",
-      "idx": 80,
+      "idx": 59,
       "sent_ids": [
-        "McXn53SKXYg:s0092"
+        "McXn53SKXYg:s0092",
+        "McXn53SKXYg:s0093"
       ],
       "start_s": 1098.299,
-      "end_s": 1102.221,
-      "text": "rivers provided a reliable, predictable water source for travelers.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 1120.988,
+      "text": "rivers provided a reliable, predictable water source for travelers. Frequently offered considerably easier terrain to follow compared to dense forest or rugged mountain terrain immediately surrounding them, and once watercraft technology developed sufficiently, allowed travelers to cover considerably more distance with considerably less physical exertion than walking the equivalent distance overland.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.707211204121056
     },
     {
-      "window_id": "McXn53SKXYg:j0081",
+      "window_id": "McXn53SKXYg:j0060",
       "video_id": "McXn53SKXYg",
-      "idx": 81,
-      "sent_ids": [
-        "McXn53SKXYg:s0093"
-      ],
-      "start_s": 1102.861,
-      "end_s": 1120.988,
-      "text": "Frequently offered considerably easier terrain to follow compared to dense forest or rugged mountain terrain immediately surrounding them, and once watercraft technology developed sufficiently, allowed travelers to cover considerably more distance with considerably less physical exertion than walking the equivalent distance overland.",
-      "n_words": 42,
-      "n_sentences": 1,
-      "pos_pct": 0.7101487443657438
-    },
-    {
-      "window_id": "McXn53SKXYg:j0082",
-      "video_id": "McXn53SKXYg",
-      "idx": 82,
+      "idx": 60,
       "sent_ids": [
         "McXn53SKXYg:s0094"
       ],
@@ -1177,9 +891,9 @@
       "pos_pct": 0.7222073406310366
     },
     {
-      "window_id": "McXn53SKXYg:j0083",
+      "window_id": "McXn53SKXYg:j0061",
       "video_id": "McXn53SKXYg",
-      "idx": 83,
+      "idx": 61,
       "sent_ids": [
         "McXn53SKXYg:s0095"
       ],
@@ -1191,9 +905,9 @@
       "pos_pct": 0.7300019317450096
     },
     {
-      "window_id": "McXn53SKXYg:j0084",
+      "window_id": "McXn53SKXYg:j0062",
       "video_id": "McXn53SKXYg",
-      "idx": 84,
+      "idx": 62,
       "sent_ids": [
         "McXn53SKXYg:s0096"
       ],
@@ -1205,9 +919,9 @@
       "pos_pct": 0.7403477141017386
     },
     {
-      "window_id": "McXn53SKXYg:j0085",
+      "window_id": "McXn53SKXYg:j0063",
       "video_id": "McXn53SKXYg",
-      "idx": 85,
+      "idx": 63,
       "sent_ids": [
         "McXn53SKXYg:s0097"
       ],
@@ -1219,9 +933,9 @@
       "pos_pct": 0.7512041210560205
     },
     {
-      "window_id": "McXn53SKXYg:j0086",
+      "window_id": "McXn53SKXYg:j0064",
       "video_id": "McXn53SKXYg",
-      "idx": 86,
+      "idx": 64,
       "sent_ids": [
         "McXn53SKXYg:s0098"
       ],
@@ -1233,9 +947,9 @@
       "pos_pct": 0.7656020605280103
     },
     {
-      "window_id": "McXn53SKXYg:j0087",
+      "window_id": "McXn53SKXYg:j0065",
       "video_id": "McXn53SKXYg",
-      "idx": 87,
+      "idx": 65,
       "sent_ids": [
         "McXn53SKXYg:s0099"
       ],
@@ -1247,9 +961,9 @@
       "pos_pct": 0.7803026400515132
     },
     {
-      "window_id": "McXn53SKXYg:j0088",
+      "window_id": "McXn53SKXYg:j0066",
       "video_id": "McXn53SKXYg",
-      "idx": 88,
+      "idx": 66,
       "sent_ids": [
         "McXn53SKXYg:s0100"
       ],
@@ -1261,9 +975,9 @@
       "pos_pct": 0.7927855763039279
     },
     {
-      "window_id": "McXn53SKXYg:j0089",
+      "window_id": "McXn53SKXYg:j0067",
       "video_id": "McXn53SKXYg",
-      "idx": 89,
+      "idx": 67,
       "sent_ids": [
         "McXn53SKXYg:s0101"
       ],
@@ -1275,9 +989,9 @@
       "pos_pct": 0.8031410173857051
     },
     {
-      "window_id": "McXn53SKXYg:j0090",
+      "window_id": "McXn53SKXYg:j0068",
       "video_id": "McXn53SKXYg",
-      "idx": 90,
+      "idx": 68,
       "sent_ids": [
         "McXn53SKXYg:s0102"
       ],
@@ -1289,9 +1003,9 @@
       "pos_pct": 0.8145994848679975
     },
     {
-      "window_id": "McXn53SKXYg:j0091",
+      "window_id": "McXn53SKXYg:j0069",
       "video_id": "McXn53SKXYg",
-      "idx": 91,
+      "idx": 69,
       "sent_ids": [
         "McXn53SKXYg:s0103"
       ],
@@ -1303,9 +1017,9 @@
       "pos_pct": 0.8211461687057309
     },
     {
-      "window_id": "McXn53SKXYg:j0092",
+      "window_id": "McXn53SKXYg:j0070",
       "video_id": "McXn53SKXYg",
-      "idx": 92,
+      "idx": 70,
       "sent_ids": [
         "McXn53SKXYg:s0104"
       ],
@@ -1317,9 +1031,9 @@
       "pos_pct": 0.8343708950418545
     },
     {
-      "window_id": "McXn53SKXYg:j0093",
+      "window_id": "McXn53SKXYg:j0071",
       "video_id": "McXn53SKXYg",
-      "idx": 93,
+      "idx": 71,
       "sent_ids": [
         "McXn53SKXYg:s0105"
       ],
@@ -1331,9 +1045,9 @@
       "pos_pct": 0.8518493238892466
     },
     {
-      "window_id": "McXn53SKXYg:j0094",
+      "window_id": "McXn53SKXYg:j0072",
       "video_id": "McXn53SKXYg",
-      "idx": 94,
+      "idx": 72,
       "sent_ids": [
         "McXn53SKXYg:s0106"
       ],
@@ -1345,9 +1059,9 @@
       "pos_pct": 0.8712356728911783
     },
     {
-      "window_id": "McXn53SKXYg:j0095",
+      "window_id": "McXn53SKXYg:j0073",
       "video_id": "McXn53SKXYg",
-      "idx": 95,
+      "idx": 73,
       "sent_ids": [
         "McXn53SKXYg:s0107"
       ],
@@ -1359,9 +1073,9 @@
       "pos_pct": 0.8824739214423696
     },
     {
-      "window_id": "McXn53SKXYg:j0096",
+      "window_id": "McXn53SKXYg:j0074",
       "video_id": "McXn53SKXYg",
-      "idx": 96,
+      "idx": 74,
       "sent_ids": [
         "McXn53SKXYg:s0108"
       ],
@@ -1373,37 +1087,24 @@
       "pos_pct": 0.8866213779781069
     },
     {
-      "window_id": "McXn53SKXYg:j0097",
+      "window_id": "McXn53SKXYg:j0075",
       "video_id": "McXn53SKXYg",
-      "idx": 97,
+      "idx": 75,
       "sent_ids": [
-        "McXn53SKXYg:s0109"
+        "McXn53SKXYg:s0109",
+        "McXn53SKXYg:s0110"
       ],
       "start_s": 1399.507,
-      "end_s": 1406.193,
-      "text": "This represents one of the most genuinely impressive, if frequently underappreciated, aspects of ancient human achievement.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 1415.16,
+      "text": "This represents one of the most genuinely impressive, if frequently underappreciated, aspects of ancient human achievement. An entire body of practical, hard-won scientific and navigational knowledge built collectively and incrementally across an enormous span of human history.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.9011635544108179
     },
     {
-      "window_id": "McXn53SKXYg:j0098",
+      "window_id": "McXn53SKXYg:j0076",
       "video_id": "McXn53SKXYg",
-      "idx": 98,
-      "sent_ids": [
-        "McXn53SKXYg:s0110"
-      ],
-      "start_s": 1406.633,
-      "end_s": 1415.16,
-      "text": "An entire body of practical, hard-won scientific and navigational knowledge built collectively and incrementally across an enormous span of human history.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.9057520927237604
-    },
-    {
-      "window_id": "McXn53SKXYg:j0099",
-      "video_id": "McXn53SKXYg",
-      "idx": 99,
+      "idx": 76,
       "sent_ids": [
         "McXn53SKXYg:s0111",
         "McXn53SKXYg:s0112"
@@ -1416,82 +1117,69 @@
       "pos_pct": 0.9115518351577593
     },
     {
-      "window_id": "McXn53SKXYg:j0100",
+      "window_id": "McXn53SKXYg:j0077",
       "video_id": "McXn53SKXYg",
-      "idx": 100,
+      "idx": 77,
       "sent_ids": [
-        "McXn53SKXYg:s0113"
+        "McXn53SKXYg:s0113",
+        "McXn53SKXYg:s0114"
       ],
       "start_s": 1427.969,
-      "end_s": 1439.097,
-      "text": "Based on everything we've covered throughout this entire video, the honest, complete answer comes down to a genuinely impressive combination of factors working together across an enormous span of time.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 1449.787,
+      "text": "Based on everything we've covered throughout this entire video, the honest, complete answer comes down to a genuinely impressive combination of factors working together across an enormous span of time. slow, generational migration patterns following resources and gradually pushing outward into new territory, rather than single, heroic, individual journeys.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.9194906632324533
     },
     {
-      "window_id": "McXn53SKXYg:j0101",
+      "window_id": "McXn53SKXYg:j0078",
       "video_id": "McXn53SKXYg",
-      "idx": 101,
+      "idx": 78,
       "sent_ids": [
-        "McXn53SKXYg:s0114",
-        "McXn53SKXYg:s0115"
+        "McXn53SKXYg:s0115",
+        "McXn53SKXYg:s0116"
       ],
-      "start_s": 1439.898,
-      "end_s": 1454.772,
-      "text": "slow, generational migration patterns following resources and gradually pushing outward into new territory, rather than single, heroic, individual journeys. A human body genuinely well-suited for sustained, long-distance walking.",
-      "n_words": 28,
+      "start_s": 1450.689,
+      "end_s": 1463.98,
+      "text": "A human body genuinely well-suited for sustained, long-distance walking. An enormous, accumulated body of practical environmental knowledge passed down through generations, allowing safe navigation of unfamiliar terrain.",
+      "n_words": 27,
       "n_sentences": 2,
-      "pos_pct": 0.9271719253058596
+      "pos_pct": 0.9341204121056021
     },
     {
-      "window_id": "McXn53SKXYg:j0102",
+      "window_id": "McXn53SKXYg:j0079",
       "video_id": "McXn53SKXYg",
-      "idx": 102,
+      "idx": 79,
       "sent_ids": [
-        "McXn53SKXYg:s0116",
-        "McXn53SKXYg:s0117"
+        "McXn53SKXYg:s0117",
+        "McXn53SKXYg:s0118"
       ],
-      "start_s": 1455.353,
-      "end_s": 1471.807,
-      "text": "An enormous, accumulated body of practical environmental knowledge passed down through generations, allowing safe navigation of unfamiliar terrain. Strategic advantage taken from temporary climate-driven geographic features like exposed land bridges during glacial periods.",
-      "n_words": 33,
+      "start_s": 1464.821,
+      "end_s": 1483.277,
+      "text": "Strategic advantage taken from temporary climate-driven geographic features like exposed land bridges during glacial periods. Genuinely sophisticated, independently developed boat technology and navigation systems, allowing deliberate, planned colonization of even the most remote Pacific islands.",
+      "n_words": 35,
       "n_sentences": 2,
-      "pos_pct": 0.9371236316806182
+      "pos_pct": 0.9432202189311011
     },
     {
-      "window_id": "McXn53SKXYg:j0103",
+      "window_id": "McXn53SKXYg:j0080",
       "video_id": "McXn53SKXYg",
-      "idx": 103,
+      "idx": 80,
       "sent_ids": [
-        "McXn53SKXYg:s0118",
-        "McXn53SKXYg:s0119"
-      ],
-      "start_s": 1472.767,
-      "end_s": 1488.822,
-      "text": "Genuinely sophisticated, independently developed boat technology and navigation systems, allowing deliberate, planned colonization of even the most remote Pacific islands. The domestication of pack animals dramatically expanding overland travel capacity and speed.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.9483367675466838
-    },
-    {
-      "window_id": "McXn53SKXYg:j0104",
-      "video_id": "McXn53SKXYg",
-      "idx": 104,
-      "sent_ids": [
+        "McXn53SKXYg:s0119",
         "McXn53SKXYg:s0120"
       ],
-      "start_s": 1489.602,
+      "start_s": 1484.017,
       "end_s": 1498.806,
-      "text": "and extensive interconnected trade networks demonstrating that ancient communities were considerably more connected considerably earlier than popular historical imagination typically assumes.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.9591770766258855
+      "text": "The domestication of pack animals dramatically expanding overland travel capacity and speed. and extensive interconnected trade networks demonstrating that ancient communities were considerably more connected considerably earlier than popular historical imagination typically assumes.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.9555808113329041
     },
     {
-      "window_id": "McXn53SKXYg:j0105",
+      "window_id": "McXn53SKXYg:j0081",
       "video_id": "McXn53SKXYg",
-      "idx": 105,
+      "idx": 81,
       "sent_ids": [
         "McXn53SKXYg:s0121"
       ],
@@ -1503,9 +1191,9 @@
       "pos_pct": 0.9655415325177077
     },
     {
-      "window_id": "McXn53SKXYg:j0106",
+      "window_id": "McXn53SKXYg:j0082",
       "video_id": "McXn53SKXYg",
-      "idx": 106,
+      "idx": 82,
       "sent_ids": [
         "McXn53SKXYg:s0122"
       ],
@@ -1517,9 +1205,9 @@
       "pos_pct": 0.9825750160978751
     },
     {
-      "window_id": "McXn53SKXYg:j0107",
+      "window_id": "McXn53SKXYg:j0083",
       "video_id": "McXn53SKXYg",
-      "idx": 107,
+      "idx": 83,
       "sent_ids": [
         "McXn53SKXYg:s0123"
       ],

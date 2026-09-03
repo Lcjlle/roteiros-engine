@@ -1,39 +1,26 @@
 {
   "video_id": "th-0rmRYBSg",
-  "generated_at": "2026-09-03T11:59:53.025674+00:00",
+  "generated_at": "2026-09-03T13:18:13.144843+00:00",
   "windows": [
     {
       "window_id": "th-0rmRYBSg:j0000",
       "video_id": "th-0rmRYBSg",
       "idx": 0,
       "sent_ids": [
-        "th-0rmRYBSg:s0000"
+        "th-0rmRYBSg:s0000",
+        "th-0rmRYBSg:s0001"
       ],
       "start_s": 0.071,
-      "end_s": 1.012,
-      "text": "Look at your hand right now.",
-      "n_words": 6,
-      "n_sentences": 1,
+      "end_s": 10.518999999999998,
+      "text": "Look at your hand right now. Whatever shade it is, yeah, whether you're pale enough to be mistaken for a piece of paper or dark enough to absorb sunlight like a solar panel, that color didn't come from nowhere.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 5.298507462686567e-05
     },
     {
       "window_id": "th-0rmRYBSg:j0001",
       "video_id": "th-0rmRYBSg",
       "idx": 1,
-      "sent_ids": [
-        "th-0rmRYBSg:s0001"
-      ],
-      "start_s": 1.412,
-      "end_s": 10.518999999999998,
-      "text": "Whatever shade it is, yeah, whether you're pale enough to be mistaken for a piece of paper or dark enough to absorb sunlight like a solar panel, that color didn't come from nowhere.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.001053731343283582
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0002",
-      "video_id": "th-0rmRYBSg",
-      "idx": 2,
       "sent_ids": [
         "th-0rmRYBSg:s0002",
         "th-0rmRYBSg:s0003",
@@ -48,9 +35,9 @@
       "pos_pct": 0.008163432835820895
     },
     {
-      "window_id": "th-0rmRYBSg:j0003",
+      "window_id": "th-0rmRYBSg:j0002",
       "video_id": "th-0rmRYBSg",
-      "idx": 3,
+      "idx": 2,
       "sent_ids": [
         "th-0rmRYBSg:s0006",
         "th-0rmRYBSg:s0007",
@@ -65,37 +52,24 @@
       "pos_pct": 0.01512462686567164
     },
     {
-      "window_id": "th-0rmRYBSg:j0004",
+      "window_id": "th-0rmRYBSg:j0003",
       "video_id": "th-0rmRYBSg",
-      "idx": 4,
+      "idx": 3,
       "sent_ids": [
-        "th-0rmRYBSg:s0010"
+        "th-0rmRYBSg:s0010",
+        "th-0rmRYBSg:s0011"
       ],
       "start_s": 32.417,
-      "end_s": 33.758,
-      "text": "But what happened?",
-      "n_words": 3,
-      "n_sentences": 1,
+      "end_s": 51.236,
+      "text": "But what happened? The answer involves vitamin D, cancer, folate, Africa, ice ages, ancient farmers who accidentally rewired their own evolution, and a surprisingly rude star sitting 93 million miles away from us that caused all of this and has absolutely no regrets.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.02419179104477612
     },
     {
-      "window_id": "th-0rmRYBSg:j0005",
+      "window_id": "th-0rmRYBSg:j0004",
       "video_id": "th-0rmRYBSg",
-      "idx": 5,
-      "sent_ids": [
-        "th-0rmRYBSg:s0011"
-      ],
-      "start_s": 34.059,
-      "end_s": 51.236,
-      "text": "The answer involves vitamin D, cancer, folate, Africa, ice ages, ancient farmers who accidentally rewired their own evolution, and a surprisingly rude star sitting 93 million miles away from us that caused all of this and has absolutely no regrets.",
-      "n_words": 40,
-      "n_sentences": 1,
-      "pos_pct": 0.025417164179104477
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0006",
-      "video_id": "th-0rmRYBSg",
-      "idx": 6,
+      "idx": 4,
       "sent_ids": [
         "th-0rmRYBSg:s0012",
         "th-0rmRYBSg:s0013",
@@ -109,9 +83,9 @@
       "pos_pct": 0.038863432835820895
     },
     {
-      "window_id": "th-0rmRYBSg:j0007",
+      "window_id": "th-0rmRYBSg:j0005",
       "video_id": "th-0rmRYBSg",
-      "idx": 7,
+      "idx": 5,
       "sent_ids": [
         "th-0rmRYBSg:s0015",
         "th-0rmRYBSg:s0016",
@@ -126,9 +100,9 @@
       "pos_pct": 0.04830223880597014
     },
     {
-      "window_id": "th-0rmRYBSg:j0008",
+      "window_id": "th-0rmRYBSg:j0006",
       "video_id": "th-0rmRYBSg",
-      "idx": 8,
+      "idx": 6,
       "sent_ids": [
         "th-0rmRYBSg:s0019",
         "th-0rmRYBSg:s0020",
@@ -142,9 +116,9 @@
       "pos_pct": 0.0579044776119403
     },
     {
-      "window_id": "th-0rmRYBSg:j0009",
+      "window_id": "th-0rmRYBSg:j0007",
       "video_id": "th-0rmRYBSg",
-      "idx": 9,
+      "idx": 7,
       "sent_ids": [
         "th-0rmRYBSg:s0022"
       ],
@@ -156,9 +130,9 @@
       "pos_pct": 0.06513432835820895
     },
     {
-      "window_id": "th-0rmRYBSg:j0010",
+      "window_id": "th-0rmRYBSg:j0008",
       "video_id": "th-0rmRYBSg",
-      "idx": 10,
+      "idx": 8,
       "sent_ids": [
         "th-0rmRYBSg:s0023",
         "th-0rmRYBSg:s0024"
@@ -171,9 +145,9 @@
       "pos_pct": 0.07880223880597015
     },
     {
-      "window_id": "th-0rmRYBSg:j0011",
+      "window_id": "th-0rmRYBSg:j0009",
       "video_id": "th-0rmRYBSg",
-      "idx": 11,
+      "idx": 9,
       "sent_ids": [
         "th-0rmRYBSg:s0025",
         "th-0rmRYBSg:s0026"
@@ -186,9 +160,9 @@
       "pos_pct": 0.08771940298507462
     },
     {
-      "window_id": "th-0rmRYBSg:j0012",
+      "window_id": "th-0rmRYBSg:j0010",
       "video_id": "th-0rmRYBSg",
-      "idx": 12,
+      "idx": 10,
       "sent_ids": [
         "th-0rmRYBSg:s0027",
         "th-0rmRYBSg:s0028"
@@ -201,37 +175,24 @@
       "pos_pct": 0.09137835820895522
     },
     {
-      "window_id": "th-0rmRYBSg:j0013",
+      "window_id": "th-0rmRYBSg:j0011",
       "video_id": "th-0rmRYBSg",
-      "idx": 13,
+      "idx": 11,
       "sent_ids": [
-        "th-0rmRYBSg:s0029"
+        "th-0rmRYBSg:s0029",
+        "th-0rmRYBSg:s0030"
       ],
       "start_s": 131.633,
-      "end_s": 137.957,
-      "text": "Like it's the bag your body came in, the wrapping that holds your organs together while you walk around arguing with strangers on the internet.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 148.48,
+      "text": "Like it's the bag your body came in, the wrapping that holds your organs together while you walk around arguing with strangers on the internet. But skin is an organ, your largest organ in fact, and it's doing about 47 different jobs simultaneously, most of which you never think about and never thank it for.",
+      "n_words": 55,
+      "n_sentences": 2,
       "pos_pct": 0.09823358208955224
     },
     {
-      "window_id": "th-0rmRYBSg:j0014",
+      "window_id": "th-0rmRYBSg:j0012",
       "video_id": "th-0rmRYBSg",
-      "idx": 14,
-      "sent_ids": [
-        "th-0rmRYBSg:s0030"
-      ],
-      "start_s": 138.537,
-      "end_s": 148.48,
-      "text": "But skin is an organ, your largest organ in fact, and it's doing about 47 different jobs simultaneously, most of which you never think about and never thank it for.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.1033858208955224
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0015",
-      "video_id": "th-0rmRYBSg",
-      "idx": 15,
+      "idx": 12,
       "sent_ids": [
         "th-0rmRYBSg:s0031",
         "th-0rmRYBSg:s0032",
@@ -245,9 +206,9 @@
       "pos_pct": 0.11138805970149253
     },
     {
-      "window_id": "th-0rmRYBSg:j0016",
+      "window_id": "th-0rmRYBSg:j0013",
       "video_id": "th-0rmRYBSg",
-      "idx": 16,
+      "idx": 13,
       "sent_ids": [
         "th-0rmRYBSg:s0034",
         "th-0rmRYBSg:s0035",
@@ -262,9 +223,9 @@
       "pos_pct": 0.12176492537313433
     },
     {
-      "window_id": "th-0rmRYBSg:j0017",
+      "window_id": "th-0rmRYBSg:j0014",
       "video_id": "th-0rmRYBSg",
-      "idx": 17,
+      "idx": 14,
       "sent_ids": [
         "th-0rmRYBSg:s0038",
         "th-0rmRYBSg:s0039",
@@ -279,9 +240,9 @@
       "pos_pct": 0.13048805970149255
     },
     {
-      "window_id": "th-0rmRYBSg:j0018",
+      "window_id": "th-0rmRYBSg:j0015",
       "video_id": "th-0rmRYBSg",
-      "idx": 18,
+      "idx": 15,
       "sent_ids": [
         "th-0rmRYBSg:s0042",
         "th-0rmRYBSg:s0043",
@@ -295,9 +256,9 @@
       "pos_pct": 0.13828507462686568
     },
     {
-      "window_id": "th-0rmRYBSg:j0019",
+      "window_id": "th-0rmRYBSg:j0016",
       "video_id": "th-0rmRYBSg",
-      "idx": 19,
+      "idx": 16,
       "sent_ids": [
         "th-0rmRYBSg:s0045",
         "th-0rmRYBSg:s0046"
@@ -310,80 +271,54 @@
       "pos_pct": 0.14823283582089553
     },
     {
-      "window_id": "th-0rmRYBSg:j0020",
+      "window_id": "th-0rmRYBSg:j0017",
       "video_id": "th-0rmRYBSg",
-      "idx": 20,
+      "idx": 17,
       "sent_ids": [
-        "th-0rmRYBSg:s0047"
+        "th-0rmRYBSg:s0047",
+        "th-0rmRYBSg:s0048"
       ],
       "start_s": 208.919,
-      "end_s": 220.368,
-      "text": "This is why, in Africa, where our species originated, sitting directly under some of the most intense UV radiation on the entire planet, evolution selected hard and fast for dark skin.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 223.43,
+      "text": "This is why, in Africa, where our species originated, sitting directly under some of the most intense UV radiation on the entire planet, evolution selected hard and fast for dark skin. Having more melanin meant your DNA was better protected.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.15590970149253733
     },
     {
-      "window_id": "th-0rmRYBSg:j0021",
+      "window_id": "th-0rmRYBSg:j0018",
       "video_id": "th-0rmRYBSg",
-      "idx": 21,
+      "idx": 18,
       "sent_ids": [
-        "th-0rmRYBSg:s0048",
-        "th-0rmRYBSg:s0049"
-      ],
-      "start_s": 220.548,
-      "end_s": 227.032,
-      "text": "Having more melanin meant your DNA was better protected. it meant you were less likely to accumulate cancer-causing mutations.",
-      "n_words": 19,
-      "n_sentences": 2,
-      "pos_pct": 0.16458805970149254
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0022",
-      "video_id": "th-0rmRYBSg",
-      "idx": 22,
-      "sent_ids": [
+        "th-0rmRYBSg:s0049",
         "th-0rmRYBSg:s0050"
       ],
-      "start_s": 227.532,
+      "start_s": 223.93,
       "end_s": 239.219,
-      "text": "It meant you lived longer, stayed healthier, and, most importantly from evolution's cold, calculating perspective, were more likely to survive long enough to reproduce and pass your genes to the next generation.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.1698
+      "text": "it meant you were less likely to accumulate cancer-causing mutations. It meant you lived longer, stayed healthier, and, most importantly from evolution's cold, calculating perspective, were more likely to survive long enough to reproduce and pass your genes to the next generation.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.16711194029850746
     },
     {
-      "window_id": "th-0rmRYBSg:j0023",
+      "window_id": "th-0rmRYBSg:j0019",
       "video_id": "th-0rmRYBSg",
-      "idx": 23,
+      "idx": 19,
       "sent_ids": [
-        "th-0rmRYBSg:s0051"
+        "th-0rmRYBSg:s0051",
+        "th-0rmRYBSg:s0052"
       ],
       "start_s": 239.519,
-      "end_s": 244.422,
-      "text": "Natural selection is basically a very slow, very ruthless optimization algorithm.",
-      "n_words": 11,
-      "n_sentences": 1,
+      "end_s": 252.045,
+      "text": "Natural selection is basically a very slow, very ruthless optimization algorithm. It doesn't care about aesthetics, it doesn't have opinions about beauty, it doesn't wake up in the morning with a vision for what the human species should look like.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.1787455223880597
     },
     {
-      "window_id": "th-0rmRYBSg:j0024",
+      "window_id": "th-0rmRYBSg:j0020",
       "video_id": "th-0rmRYBSg",
-      "idx": 24,
-      "sent_ids": [
-        "th-0rmRYBSg:s0052"
-      ],
-      "start_s": 244.922,
-      "end_s": 252.045,
-      "text": "It doesn't care about aesthetics, it doesn't have opinions about beauty, it doesn't wake up in the morning with a vision for what the human species should look like.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.1827776119402985
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0025",
-      "video_id": "th-0rmRYBSg",
-      "idx": 25,
+      "idx": 20,
       "sent_ids": [
         "th-0rmRYBSg:s0053",
         "th-0rmRYBSg:s0054",
@@ -397,9 +332,9 @@
       "pos_pct": 0.18839253731343283
     },
     {
-      "window_id": "th-0rmRYBSg:j0026",
+      "window_id": "th-0rmRYBSg:j0021",
       "video_id": "th-0rmRYBSg",
-      "idx": 26,
+      "idx": 21,
       "sent_ids": [
         "th-0rmRYBSg:s0056",
         "th-0rmRYBSg:s0057",
@@ -414,9 +349,9 @@
       "pos_pct": 0.1971723880597015
     },
     {
-      "window_id": "th-0rmRYBSg:j0027",
+      "window_id": "th-0rmRYBSg:j0022",
       "video_id": "th-0rmRYBSg",
-      "idx": 27,
+      "idx": 22,
       "sent_ids": [
         "th-0rmRYBSg:s0060",
         "th-0rmRYBSg:s0061",
@@ -431,9 +366,9 @@
       "pos_pct": 0.20481119402985073
     },
     {
-      "window_id": "th-0rmRYBSg:j0028",
+      "window_id": "th-0rmRYBSg:j0023",
       "video_id": "th-0rmRYBSg",
-      "idx": 28,
+      "idx": 23,
       "sent_ids": [
         "th-0rmRYBSg:s0064",
         "th-0rmRYBSg:s0065"
@@ -446,193 +381,167 @@
       "pos_pct": 0.21505149253731343
     },
     {
+      "window_id": "th-0rmRYBSg:j0024",
+      "video_id": "th-0rmRYBSg",
+      "idx": 24,
+      "sent_ids": [
+        "th-0rmRYBSg:s0066",
+        "th-0rmRYBSg:s0067"
+      ],
+      "start_s": 299.212,
+      "end_s": 311.436,
+      "text": "It's a form of vitamin B9, and it flows through your bloodstream doing essential biological maintenance work. Now you might be thinking, okay, vitamin B sounds like something my doctor told me to eat more of.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.22329253731343282
+    },
+    {
+      "window_id": "th-0rmRYBSg:j0025",
+      "video_id": "th-0rmRYBSg",
+      "idx": 25,
+      "sent_ids": [
+        "th-0rmRYBSg:s0068",
+        "th-0rmRYBSg:s0069",
+        "th-0rmRYBSg:s0070",
+        "th-0rmRYBSg:s0071"
+      ],
+      "start_s": 312.377,
+      "end_s": 323.591,
+      "text": "Why does this matter for skin color? It matters enormously. especially if you are pregnant or trying to become pregnant. Folate is critical for the development of the neural tube in embryos.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.2331171641791045
+    },
+    {
+      "window_id": "th-0rmRYBSg:j0026",
+      "video_id": "th-0rmRYBSg",
+      "idx": 26,
+      "sent_ids": [
+        "th-0rmRYBSg:s0072",
+        "th-0rmRYBSg:s0073"
+      ],
+      "start_s": 324.351,
+      "end_s": 336.878,
+      "text": "The neural tube is the structure that eventually becomes the brain and spinal cord. Without sufficient folate in the first few weeks of pregnancy, sometimes before a woman even knows she's pregnant, the neural tube can fail to close properly.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.24205298507462686
+    },
+    {
+      "window_id": "th-0rmRYBSg:j0027",
+      "video_id": "th-0rmRYBSg",
+      "idx": 27,
+      "sent_ids": [
+        "th-0rmRYBSg:s0074",
+        "th-0rmRYBSg:s0075",
+        "th-0rmRYBSg:s0076",
+        "th-0rmRYBSg:s0077"
+      ],
+      "start_s": 337.138,
+      "end_s": 347.744,
+      "text": "The consequences are catastrophic. Neural tube defects, severe developmental abnormalities, miscarriage. Now here's the problem. UV radiation destroys folate.",
+      "n_words": 19,
+      "n_sentences": 4,
+      "pos_pct": 0.2515955223880597
+    },
+    {
+      "window_id": "th-0rmRYBSg:j0028",
+      "video_id": "th-0rmRYBSg",
+      "idx": 28,
+      "sent_ids": [
+        "th-0rmRYBSg:s0078",
+        "th-0rmRYBSg:s0079"
+      ],
+      "start_s": 348.484,
+      "end_s": 364.469,
+      "text": "When UV light penetrates the skin and reaches the bloodstream, it breaks down folate molecules. And, in a sun-drenched environment like Equatorial Africa, with no clothing, no shelter, no sunscreen, UV exposure was constant, intense, and unavoidable.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.2600626865671642
+    },
+    {
       "window_id": "th-0rmRYBSg:j0029",
       "video_id": "th-0rmRYBSg",
       "idx": 29,
       "sent_ids": [
-        "th-0rmRYBSg:s0066"
+        "th-0rmRYBSg:s0080",
+        "th-0rmRYBSg:s0081"
       ],
-      "start_s": 299.212,
-      "end_s": 305.074,
-      "text": "It's a form of vitamin B9, and it flows through your bloodstream doing essential biological maintenance work.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.22329253731343282
+      "start_s": 365.449,
+      "end_s": 376.911,
+      "text": "This created an additional, devastating selection pressure. Pregnant women with lighter skin, less melanin, more UV penetrating deeper, had higher rates of folate destruction.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.2727231343283582
     },
     {
       "window_id": "th-0rmRYBSg:j0030",
       "video_id": "th-0rmRYBSg",
       "idx": 30,
       "sent_ids": [
-        "th-0rmRYBSg:s0067",
-        "th-0rmRYBSg:s0068",
-        "th-0rmRYBSg:s0069"
+        "th-0rmRYBSg:s0082",
+        "th-0rmRYBSg:s0083"
       ],
-      "start_s": 305.454,
-      "end_s": 315.618,
-      "text": "Now you might be thinking, okay, vitamin B sounds like something my doctor told me to eat more of. Why does this matter for skin color? It matters enormously.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.22795074626865672
+      "start_s": 377.431,
+      "end_s": 385.713,
+      "text": "Higher rates of folate destruction meant higher rates of neural tube defects. Higher rates of neural tube defects meant fewer surviving offspring.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.2816649253731343
     },
     {
       "window_id": "th-0rmRYBSg:j0031",
       "video_id": "th-0rmRYBSg",
       "idx": 31,
       "sent_ids": [
-        "th-0rmRYBSg:s0070",
-        "th-0rmRYBSg:s0071"
+        "th-0rmRYBSg:s0084",
+        "th-0rmRYBSg:s0085",
+        "th-0rmRYBSg:s0086",
+        "th-0rmRYBSg:s0087"
       ],
-      "start_s": 316.447,
-      "end_s": 323.591,
-      "text": "especially if you are pregnant or trying to become pregnant. Folate is critical for the development of the neural tube in embryos.",
-      "n_words": 22,
-      "n_sentences": 2,
-      "pos_pct": 0.2361544776119403
+      "start_s": 386.113,
+      "end_s": 403.38,
+      "text": "So now we have not one, but two completely independent reasons why dark skin was deeply, powerfully, non-negotiably favored under the African sun. 1. Melanin-protected DNA from UV damage, reducing cancer risk. 2.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.2881440298507463
     },
     {
       "window_id": "th-0rmRYBSg:j0032",
       "video_id": "th-0rmRYBSg",
       "idx": 32,
       "sent_ids": [
-        "th-0rmRYBSg:s0072"
+        "th-0rmRYBSg:s0088",
+        "th-0rmRYBSg:s0089",
+        "th-0rmRYBSg:s0090",
+        "th-0rmRYBSg:s0091"
       ],
-      "start_s": 324.351,
-      "end_s": 328.213,
-      "text": "The neural tube is the structure that eventually becomes the brain and spinal cord.",
-      "n_words": 14,
-      "n_sentences": 1,
-      "pos_pct": 0.24205298507462686
+      "start_s": 404.101,
+      "end_s": 417.832,
+      "text": "Melanin-protected folate in pregnant women, preserving reproductive success. Two separate threats. One biological solution. Dark skin in Africa wasn't just useful, it was essentially mandatory for the survival of the species.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.3015679104477612
     },
     {
       "window_id": "th-0rmRYBSg:j0033",
       "video_id": "th-0rmRYBSg",
       "idx": 33,
       "sent_ids": [
-        "th-0rmRYBSg:s0073",
-        "th-0rmRYBSg:s0074"
+        "th-0rmRYBSg:s0092",
+        "th-0rmRYBSg:s0093"
       ],
-      "start_s": 328.534,
-      "end_s": 338.979,
-      "text": "Without sufficient folate in the first few weeks of pregnancy, sometimes before a woman even knows she's pregnant, the neural tube can fail to close properly. The consequences are catastrophic.",
-      "n_words": 30,
+      "start_s": 418.999,
+      "end_s": 429.701,
+      "text": "Okay, so dark skin is this multi-purpose biological superweapon. It blocks cancer, it protects folate, it has been field-tested and optimized over hundreds of thousands of years.",
+      "n_words": 27,
       "n_sentences": 2,
-      "pos_pct": 0.24517462686567162
+      "pos_pct": 0.3126858208955224
     },
     {
       "window_id": "th-0rmRYBSg:j0034",
       "video_id": "th-0rmRYBSg",
       "idx": 34,
-      "sent_ids": [
-        "th-0rmRYBSg:s0075",
-        "th-0rmRYBSg:s0076",
-        "th-0rmRYBSg:s0077",
-        "th-0rmRYBSg:s0078"
-      ],
-      "start_s": 339.44,
-      "end_s": 353.505,
-      "text": "Neural tube defects, severe developmental abnormalities, miscarriage. Now here's the problem. UV radiation destroys folate. When UV light penetrates the skin and reaches the bloodstream, it breaks down folate molecules.",
-      "n_words": 30,
-      "n_sentences": 4,
-      "pos_pct": 0.2533134328358209
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0035",
-      "video_id": "th-0rmRYBSg",
-      "idx": 35,
-      "sent_ids": [
-        "th-0rmRYBSg:s0079",
-        "th-0rmRYBSg:s0080"
-      ],
-      "start_s": 353.925,
-      "end_s": 368.57,
-      "text": "And, in a sun-drenched environment like Equatorial Africa, with no clothing, no shelter, no sunscreen, UV exposure was constant, intense, and unavoidable. This created an additional, devastating selection pressure.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.2641231343283582
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0036",
-      "video_id": "th-0rmRYBSg",
-      "idx": 36,
-      "sent_ids": [
-        "th-0rmRYBSg:s0081",
-        "th-0rmRYBSg:s0082"
-      ],
-      "start_s": 369.41,
-      "end_s": 381.392,
-      "text": "Pregnant women with lighter skin, less melanin, more UV penetrating deeper, had higher rates of folate destruction. Higher rates of folate destruction meant higher rates of neural tube defects.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.27567910447761196
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0037",
-      "video_id": "th-0rmRYBSg",
-      "idx": 37,
-      "sent_ids": [
-        "th-0rmRYBSg:s0083",
-        "th-0rmRYBSg:s0084",
-        "th-0rmRYBSg:s0085"
-      ],
-      "start_s": 381.952,
-      "end_s": 397.355,
-      "text": "Higher rates of neural tube defects meant fewer surviving offspring. So now we have not one, but two completely independent reasons why dark skin was deeply, powerfully, non-negotiably favored under the African sun. 1.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.28503880597014924
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0038",
-      "video_id": "th-0rmRYBSg",
-      "idx": 38,
-      "sent_ids": [
-        "th-0rmRYBSg:s0086",
-        "th-0rmRYBSg:s0087",
-        "th-0rmRYBSg:s0088",
-        "th-0rmRYBSg:s0089"
-      ],
-      "start_s": 398.016,
-      "end_s": 409.465,
-      "text": "Melanin-protected DNA from UV damage, reducing cancer risk. 2. Melanin-protected folate in pregnant women, preserving reproductive success. Two separate threats.",
-      "n_words": 20,
-      "n_sentences": 4,
-      "pos_pct": 0.2970268656716418
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0039",
-      "video_id": "th-0rmRYBSg",
-      "idx": 39,
-      "sent_ids": [
-        "th-0rmRYBSg:s0090",
-        "th-0rmRYBSg:s0091",
-        "th-0rmRYBSg:s0092"
-      ],
-      "start_s": 410.206,
-      "end_s": 423.0,
-      "text": "One biological solution. Dark skin in Africa wasn't just useful, it was essentially mandatory for the survival of the species. Okay, so dark skin is this multi-purpose biological superweapon.",
-      "n_words": 29,
-      "n_sentences": 3,
-      "pos_pct": 0.30612388059701495
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0040",
-      "video_id": "th-0rmRYBSg",
-      "idx": 40,
-      "sent_ids": [
-        "th-0rmRYBSg:s0093"
-      ],
-      "start_s": 423.46,
-      "end_s": 429.701,
-      "text": "It blocks cancer, it protects folate, it has been field-tested and optimized over hundreds of thousands of years.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.3160149253731343
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0041",
-      "video_id": "th-0rmRYBSg",
-      "idx": 41,
       "sent_ids": [
         "th-0rmRYBSg:s0094",
         "th-0rmRYBSg:s0095"
@@ -645,9 +554,9 @@
       "pos_pct": 0.32101567164179107
     },
     {
-      "window_id": "th-0rmRYBSg:j0042",
+      "window_id": "th-0rmRYBSg:j0035",
       "video_id": "th-0rmRYBSg",
-      "idx": 42,
+      "idx": 35,
       "sent_ids": [
         "th-0rmRYBSg:s0096",
         "th-0rmRYBSg:s0097"
@@ -660,9 +569,9 @@
       "pos_pct": 0.32995746268656717
     },
     {
-      "window_id": "th-0rmRYBSg:j0043",
+      "window_id": "th-0rmRYBSg:j0036",
       "video_id": "th-0rmRYBSg",
-      "idx": 43,
+      "idx": 36,
       "sent_ids": [
         "th-0rmRYBSg:s0098",
         "th-0rmRYBSg:s0099",
@@ -677,9 +586,9 @@
       "pos_pct": 0.3396910447761194
     },
     {
-      "window_id": "th-0rmRYBSg:j0044",
+      "window_id": "th-0rmRYBSg:j0037",
       "video_id": "th-0rmRYBSg",
-      "idx": 44,
+      "idx": 37,
       "sent_ids": [
         "th-0rmRYBSg:s0102",
         "th-0rmRYBSg:s0103",
@@ -693,9 +602,9 @@
       "pos_pct": 0.3506671641791045
     },
     {
-      "window_id": "th-0rmRYBSg:j0045",
+      "window_id": "th-0rmRYBSg:j0038",
       "video_id": "th-0rmRYBSg",
-      "idx": 45,
+      "idx": 38,
       "sent_ids": [
         "th-0rmRYBSg:s0105",
         "th-0rmRYBSg:s0106",
@@ -709,9 +618,9 @@
       "pos_pct": 0.35721044776119404
     },
     {
-      "window_id": "th-0rmRYBSg:j0046",
+      "window_id": "th-0rmRYBSg:j0039",
       "video_id": "th-0rmRYBSg",
-      "idx": 46,
+      "idx": 39,
       "sent_ids": [
         "th-0rmRYBSg:s0108",
         "th-0rmRYBSg:s0109",
@@ -726,9 +635,9 @@
       "pos_pct": 0.3673402985074627
     },
     {
-      "window_id": "th-0rmRYBSg:j0047",
+      "window_id": "th-0rmRYBSg:j0040",
       "video_id": "th-0rmRYBSg",
-      "idx": 47,
+      "idx": 40,
       "sent_ids": [
         "th-0rmRYBSg:s0112",
         "th-0rmRYBSg:s0113",
@@ -743,9 +652,9 @@
       "pos_pct": 0.37779776119402986
     },
     {
-      "window_id": "th-0rmRYBSg:j0048",
+      "window_id": "th-0rmRYBSg:j0041",
       "video_id": "th-0rmRYBSg",
-      "idx": 48,
+      "idx": 41,
       "sent_ids": [
         "th-0rmRYBSg:s0116",
         "th-0rmRYBSg:s0117"
@@ -758,9 +667,9 @@
       "pos_pct": 0.3841611940298507
     },
     {
-      "window_id": "th-0rmRYBSg:j0049",
+      "window_id": "th-0rmRYBSg:j0042",
       "video_id": "th-0rmRYBSg",
-      "idx": 49,
+      "idx": 42,
       "sent_ids": [
         "th-0rmRYBSg:s0118",
         "th-0rmRYBSg:s0119"
@@ -773,9 +682,9 @@
       "pos_pct": 0.39091567164179103
     },
     {
-      "window_id": "th-0rmRYBSg:j0050",
+      "window_id": "th-0rmRYBSg:j0043",
       "video_id": "th-0rmRYBSg",
-      "idx": 50,
+      "idx": 43,
       "sent_ids": [
         "th-0rmRYBSg:s0120",
         "th-0rmRYBSg:s0121",
@@ -790,9 +699,9 @@
       "pos_pct": 0.39994925373134327
     },
     {
-      "window_id": "th-0rmRYBSg:j0051",
+      "window_id": "th-0rmRYBSg:j0044",
       "video_id": "th-0rmRYBSg",
-      "idx": 51,
+      "idx": 44,
       "sent_ids": [
         "th-0rmRYBSg:s0124",
         "th-0rmRYBSg:s0125",
@@ -806,9 +715,9 @@
       "pos_pct": 0.4097059701492537
     },
     {
-      "window_id": "th-0rmRYBSg:j0052",
+      "window_id": "th-0rmRYBSg:j0045",
       "video_id": "th-0rmRYBSg",
-      "idx": 52,
+      "idx": 45,
       "sent_ids": [
         "th-0rmRYBSg:s0127",
         "th-0rmRYBSg:s0128",
@@ -823,9 +732,9 @@
       "pos_pct": 0.4215089552238806
     },
     {
-      "window_id": "th-0rmRYBSg:j0053",
+      "window_id": "th-0rmRYBSg:j0046",
       "video_id": "th-0rmRYBSg",
-      "idx": 53,
+      "idx": 46,
       "sent_ids": [
         "th-0rmRYBSg:s0131",
         "th-0rmRYBSg:s0132",
@@ -839,9 +748,9 @@
       "pos_pct": 0.4312141791044776
     },
     {
-      "window_id": "th-0rmRYBSg:j0054",
+      "window_id": "th-0rmRYBSg:j0047",
       "video_id": "th-0rmRYBSg",
-      "idx": 54,
+      "idx": 47,
       "sent_ids": [
         "th-0rmRYBSg:s0134",
         "th-0rmRYBSg:s0135"
@@ -854,9 +763,9 @@
       "pos_pct": 0.44054402985074625
     },
     {
-      "window_id": "th-0rmRYBSg:j0055",
+      "window_id": "th-0rmRYBSg:j0048",
       "video_id": "th-0rmRYBSg",
-      "idx": 55,
+      "idx": 48,
       "sent_ids": [
         "th-0rmRYBSg:s0136",
         "th-0rmRYBSg:s0137"
@@ -869,9 +778,9 @@
       "pos_pct": 0.4515537313432836
     },
     {
-      "window_id": "th-0rmRYBSg:j0056",
+      "window_id": "th-0rmRYBSg:j0049",
       "video_id": "th-0rmRYBSg",
-      "idx": 56,
+      "idx": 49,
       "sent_ids": [
         "th-0rmRYBSg:s0138",
         "th-0rmRYBSg:s0139",
@@ -885,9 +794,9 @@
       "pos_pct": 0.46135223880597015
     },
     {
-      "window_id": "th-0rmRYBSg:j0057",
+      "window_id": "th-0rmRYBSg:j0050",
       "video_id": "th-0rmRYBSg",
-      "idx": 57,
+      "idx": 50,
       "sent_ids": [
         "th-0rmRYBSg:s0141",
         "th-0rmRYBSg:s0142",
@@ -901,9 +810,9 @@
       "pos_pct": 0.4706417910447761
     },
     {
-      "window_id": "th-0rmRYBSg:j0058",
+      "window_id": "th-0rmRYBSg:j0051",
       "video_id": "th-0rmRYBSg",
-      "idx": 58,
+      "idx": 51,
       "sent_ids": [
         "th-0rmRYBSg:s0144",
         "th-0rmRYBSg:s0145"
@@ -916,37 +825,24 @@
       "pos_pct": 0.4768574626865672
     },
     {
-      "window_id": "th-0rmRYBSg:j0059",
+      "window_id": "th-0rmRYBSg:j0052",
       "video_id": "th-0rmRYBSg",
-      "idx": 59,
+      "idx": 52,
       "sent_ids": [
-        "th-0rmRYBSg:s0146"
+        "th-0rmRYBSg:s0146",
+        "th-0rmRYBSg:s0147"
       ],
       "start_s": 650.504,
-      "end_s": 652.086,
-      "text": "They have highly efficient melanin.",
-      "n_words": 5,
-      "n_sentences": 1,
+      "end_s": 672.344,
+      "text": "They have highly efficient melanin. Their skin blocks UV radiation beautifully, which is brilliant in Africa, but in the gray, overcast, low-light north, that same melanin is now blocking the very UV they need to synthesize vitamin D.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.48545074626865675
     },
     {
-      "window_id": "th-0rmRYBSg:j0060",
+      "window_id": "th-0rmRYBSg:j0053",
       "video_id": "th-0rmRYBSg",
-      "idx": 60,
-      "sent_ids": [
-        "th-0rmRYBSg:s0147"
-      ],
-      "start_s": 652.667,
-      "end_s": 672.344,
-      "text": "Their skin blocks UV radiation beautifully, which is brilliant in Africa, but in the gray, overcast, low-light north, that same melanin is now blocking the very UV they need to synthesize vitamin D.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.48706492537313434
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0061",
-      "video_id": "th-0rmRYBSg",
-      "idx": 61,
+      "idx": 53,
       "sent_ids": [
         "th-0rmRYBSg:s0148",
         "th-0rmRYBSg:s0149",
@@ -961,9 +857,9 @@
       "pos_pct": 0.48706492537313434
     },
     {
-      "window_id": "th-0rmRYBSg:j0062",
+      "window_id": "th-0rmRYBSg:j0054",
       "video_id": "th-0rmRYBSg",
-      "idx": 62,
+      "idx": 54,
       "sent_ids": [
         "th-0rmRYBSg:s0152",
         "th-0rmRYBSg:s0153",
@@ -978,9 +874,9 @@
       "pos_pct": 0.505931343283582
     },
     {
-      "window_id": "th-0rmRYBSg:j0063",
+      "window_id": "th-0rmRYBSg:j0055",
       "video_id": "th-0rmRYBSg",
-      "idx": 63,
+      "idx": 55,
       "sent_ids": [
         "th-0rmRYBSg:s0156",
         "th-0rmRYBSg:s0157"
@@ -993,9 +889,9 @@
       "pos_pct": 0.5110388059701493
     },
     {
-      "window_id": "th-0rmRYBSg:j0064",
+      "window_id": "th-0rmRYBSg:j0056",
       "video_id": "th-0rmRYBSg",
-      "idx": 64,
+      "idx": 56,
       "sent_ids": [
         "th-0rmRYBSg:s0158",
         "th-0rmRYBSg:s0159"
@@ -1008,9 +904,9 @@
       "pos_pct": 0.520510447761194
     },
     {
-      "window_id": "th-0rmRYBSg:j0065",
+      "window_id": "th-0rmRYBSg:j0057",
       "video_id": "th-0rmRYBSg",
-      "idx": 65,
+      "idx": 57,
       "sent_ids": [
         "th-0rmRYBSg:s0160",
         "th-0rmRYBSg:s0161"
@@ -1023,9 +919,9 @@
       "pos_pct": 0.5314597014925373
     },
     {
-      "window_id": "th-0rmRYBSg:j0066",
+      "window_id": "th-0rmRYBSg:j0058",
       "video_id": "th-0rmRYBSg",
-      "idx": 66,
+      "idx": 58,
       "sent_ids": [
         "th-0rmRYBSg:s0162",
         "th-0rmRYBSg:s0163"
@@ -1038,9 +934,9 @@
       "pos_pct": 0.5413477611940298
     },
     {
-      "window_id": "th-0rmRYBSg:j0067",
+      "window_id": "th-0rmRYBSg:j0059",
       "video_id": "th-0rmRYBSg",
-      "idx": 67,
+      "idx": 59,
       "sent_ids": [
         "th-0rmRYBSg:s0164"
       ],
@@ -1052,9 +948,9 @@
       "pos_pct": 0.5477977611940298
     },
     {
-      "window_id": "th-0rmRYBSg:j0068",
+      "window_id": "th-0rmRYBSg:j0060",
       "video_id": "th-0rmRYBSg",
-      "idx": 68,
+      "idx": 60,
       "sent_ids": [
         "th-0rmRYBSg:s0165",
         "th-0rmRYBSg:s0166",
@@ -1068,37 +964,24 @@
       "pos_pct": 0.5594141791044777
     },
     {
-      "window_id": "th-0rmRYBSg:j0069",
+      "window_id": "th-0rmRYBSg:j0061",
       "video_id": "th-0rmRYBSg",
-      "idx": 69,
+      "idx": 61,
       "sent_ids": [
-        "th-0rmRYBSg:s0168"
+        "th-0rmRYBSg:s0168",
+        "th-0rmRYBSg:s0169"
       ],
       "start_s": 764.303,
-      "end_s": 770.507,
-      "text": "Recent ancient DNA analysis has completely demolished that assumption and replaced it with something far more interesting.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 780.617,
+      "text": "Recent ancient DNA analysis has completely demolished that assumption and replaced it with something far more interesting. Early European hunter-gatherers—the people who lived in Europe for tens of thousands of years after the initial migration out of Africa—were still significantly dark-skinned.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.5703753731343284
     },
     {
-      "window_id": "th-0rmRYBSg:j0070",
+      "window_id": "th-0rmRYBSg:j0062",
       "video_id": "th-0rmRYBSg",
-      "idx": 70,
-      "sent_ids": [
-        "th-0rmRYBSg:s0169"
-      ],
-      "start_s": 771.332,
-      "end_s": 780.617,
-      "text": "Early European hunter-gatherers—the people who lived in Europe for tens of thousands of years after the initial migration out of Africa—were still significantly dark-skinned.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.575620895522388
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0071",
-      "video_id": "th-0rmRYBSg",
-      "idx": 71,
+      "idx": 62,
       "sent_ids": [
         "th-0rmRYBSg:s0170",
         "th-0rmRYBSg:s0171"
@@ -1111,9 +994,9 @@
       "pos_pct": 0.582773880597015
     },
     {
-      "window_id": "th-0rmRYBSg:j0072",
+      "window_id": "th-0rmRYBSg:j0063",
       "video_id": "th-0rmRYBSg",
-      "idx": 72,
+      "idx": 63,
       "sent_ids": [
         "th-0rmRYBSg:s0172",
         "th-0rmRYBSg:s0173"
@@ -1126,9 +1009,9 @@
       "pos_pct": 0.5901664179104478
     },
     {
-      "window_id": "th-0rmRYBSg:j0073",
+      "window_id": "th-0rmRYBSg:j0064",
       "video_id": "th-0rmRYBSg",
-      "idx": 73,
+      "idx": 64,
       "sent_ids": [
         "th-0rmRYBSg:s0174",
         "th-0rmRYBSg:s0175"
@@ -1141,9 +1024,9 @@
       "pos_pct": 0.6013194029850747
     },
     {
-      "window_id": "th-0rmRYBSg:j0074",
+      "window_id": "th-0rmRYBSg:j0065",
       "video_id": "th-0rmRYBSg",
-      "idx": 74,
+      "idx": 65,
       "sent_ids": [
         "th-0rmRYBSg:s0176"
       ],
@@ -1155,9 +1038,9 @@
       "pos_pct": 0.6089932835820896
     },
     {
-      "window_id": "th-0rmRYBSg:j0075",
+      "window_id": "th-0rmRYBSg:j0066",
       "video_id": "th-0rmRYBSg",
-      "idx": 75,
+      "idx": 66,
       "sent_ids": [
         "th-0rmRYBSg:s0177",
         "th-0rmRYBSg:s0178",
@@ -1171,9 +1054,9 @@
       "pos_pct": 0.6200134328358209
     },
     {
-      "window_id": "th-0rmRYBSg:j0076",
+      "window_id": "th-0rmRYBSg:j0067",
       "video_id": "th-0rmRYBSg",
-      "idx": 76,
+      "idx": 67,
       "sent_ids": [
         "th-0rmRYBSg:s0180",
         "th-0rmRYBSg:s0181"
@@ -1186,9 +1069,9 @@
       "pos_pct": 0.6306305970149253
     },
     {
-      "window_id": "th-0rmRYBSg:j0077",
+      "window_id": "th-0rmRYBSg:j0068",
       "video_id": "th-0rmRYBSg",
-      "idx": 77,
+      "idx": 68,
       "sent_ids": [
         "th-0rmRYBSg:s0182",
         "th-0rmRYBSg:s0183"
@@ -1201,52 +1084,39 @@
       "pos_pct": 0.6400373134328358
     },
     {
-      "window_id": "th-0rmRYBSg:j0078",
+      "window_id": "th-0rmRYBSg:j0069",
       "video_id": "th-0rmRYBSg",
-      "idx": 78,
+      "idx": 69,
       "sent_ids": [
-        "th-0rmRYBSg:s0184"
+        "th-0rmRYBSg:s0184",
+        "th-0rmRYBSg:s0185"
       ],
       "start_s": 862.712,
-      "end_s": 878.3,
-      "text": "Fatty fish like salmon and mackerel, organ meats like liver and kidney, shellfish, and other animal products that are among the richest dietary sources of vitamin D in existence.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 885.744,
+      "text": "Fatty fish like salmon and mackerel, organ meats like liver and kidney, shellfish, and other animal products that are among the richest dietary sources of vitamin D in existence. Farming populations ate mostly cereals, wheat, barley, oats, rye, carbohydrates.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.6438149253731343
     },
     {
-      "window_id": "th-0rmRYBSg:j0079",
+      "window_id": "th-0rmRYBSg:j0070",
       "video_id": "th-0rmRYBSg",
-      "idx": 79,
+      "idx": 70,
       "sent_ids": [
-        "th-0rmRYBSg:s0185",
-        "th-0rmRYBSg:s0186"
-      ],
-      "start_s": 878.721,
-      "end_s": 890.387,
-      "text": "Farming populations ate mostly cereals, wheat, barley, oats, rye, carbohydrates. Their dietary vitamin D intake didn't just drop, it collapsed.",
-      "n_words": 20,
-      "n_sentences": 2,
-      "pos_pct": 0.6557619402985074
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0080",
-      "video_id": "th-0rmRYBSg",
-      "idx": 80,
-      "sent_ids": [
+        "th-0rmRYBSg:s0186",
         "th-0rmRYBSg:s0187"
       ],
-      "start_s": 891.127,
+      "start_s": 886.164,
       "end_s": 902.973,
-      "text": "Suddenly, populations that had been getting by with modest amounts of UV-synthesized vitamin D, because their diet was also contributing, were now almost entirely dependent on whatever their skin could produce.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.6650201492537313
+      "text": "Their dietary vitamin D intake didn't just drop, it collapsed. Suddenly, populations that had been getting by with modest amounts of UV-synthesized vitamin D, because their diet was also contributing, were now almost entirely dependent on whatever their skin could produce.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.6613164179104477
     },
     {
-      "window_id": "th-0rmRYBSg:j0081",
+      "window_id": "th-0rmRYBSg:j0071",
       "video_id": "th-0rmRYBSg",
-      "idx": 81,
+      "idx": 71,
       "sent_ids": [
         "th-0rmRYBSg:s0188",
         "th-0rmRYBSg:s0189"
@@ -1259,9 +1129,9 @@
       "pos_pct": 0.6744574626865671
     },
     {
-      "window_id": "th-0rmRYBSg:j0082",
+      "window_id": "th-0rmRYBSg:j0072",
       "video_id": "th-0rmRYBSg",
-      "idx": 82,
+      "idx": 72,
       "sent_ids": [
         "th-0rmRYBSg:s0190",
         "th-0rmRYBSg:s0191",
@@ -1276,9 +1146,9 @@
       "pos_pct": 0.6802007462686568
     },
     {
-      "window_id": "th-0rmRYBSg:j0083",
+      "window_id": "th-0rmRYBSg:j0073",
       "video_id": "th-0rmRYBSg",
-      "idx": 83,
+      "idx": 73,
       "sent_ids": [
         "th-0rmRYBSg:s0194",
         "th-0rmRYBSg:s0195"
@@ -1291,65 +1161,39 @@
       "pos_pct": 0.6910298507462687
     },
     {
-      "window_id": "th-0rmRYBSg:j0084",
+      "window_id": "th-0rmRYBSg:j0074",
       "video_id": "th-0rmRYBSg",
-      "idx": 84,
+      "idx": 74,
       "sent_ids": [
-        "th-0rmRYBSg:s0196"
+        "th-0rmRYBSg:s0196",
+        "th-0rmRYBSg:s0197"
       ],
       "start_s": 934.483,
-      "end_s": 941.606,
-      "text": "In a small, scattered hunter-gatherer band of 50 people, a beneficial mutation might take a very long time to reach even neighboring groups.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 950.869,
+      "text": "In a small, scattered hunter-gatherer band of 50 people, a beneficial mutation might take a very long time to reach even neighboring groups. In a farming village of hundreds, connected to a network of other farming villages, a beneficial mutation can spread through thousands of descendants in just a few generations.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.6973753731343283
     },
     {
-      "window_id": "th-0rmRYBSg:j0085",
+      "window_id": "th-0rmRYBSg:j0075",
       "video_id": "th-0rmRYBSg",
-      "idx": 85,
+      "idx": 75,
       "sent_ids": [
-        "th-0rmRYBSg:s0197"
-      ],
-      "start_s": 942.326,
-      "end_s": 950.869,
-      "text": "In a farming village of hundreds, connected to a network of other farming villages, a beneficial mutation can spread through thousands of descendants in just a few generations.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.7032283582089552
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0086",
-      "video_id": "th-0rmRYBSg",
-      "idx": 86,
-      "sent_ids": [
-        "th-0rmRYBSg:s0198"
+        "th-0rmRYBSg:s0198",
+        "th-0rmRYBSg:s0199"
       ],
       "start_s": 951.709,
-      "end_s": 960.172,
-      "text": "The combination, dietary vitamin D collapse plus population density, essentially hit the fast-forward button on European depigmentation.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 972.197,
+      "text": "The combination, dietary vitamin D collapse plus population density, essentially hit the fast-forward button on European depigmentation. Within a few thousand years, the selective pressure that had been quietly nudging skin tones lighter for tens of millennia suddenly became intense, rapid, and visible in the archaeological record.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.7102305970149253
     },
     {
-      "window_id": "th-0rmRYBSg:j0087",
+      "window_id": "th-0rmRYBSg:j0076",
       "video_id": "th-0rmRYBSg",
-      "idx": 87,
-      "sent_ids": [
-        "th-0rmRYBSg:s0199"
-      ],
-      "start_s": 960.813,
-      "end_s": 972.197,
-      "text": "Within a few thousand years, the selective pressure that had been quietly nudging skin tones lighter for tens of millennia suddenly became intense, rapid, and visible in the archaeological record.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.7170246268656716
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0088",
-      "video_id": "th-0rmRYBSg",
-      "idx": 88,
+      "idx": 76,
       "sent_ids": [
         "th-0rmRYBSg:s0200",
         "th-0rmRYBSg:s0201"
@@ -1362,9 +1206,9 @@
       "pos_pct": 0.7264253731343283
     },
     {
-      "window_id": "th-0rmRYBSg:j0089",
+      "window_id": "th-0rmRYBSg:j0077",
       "video_id": "th-0rmRYBSg",
-      "idx": 89,
+      "idx": 77,
       "sent_ids": [
         "th-0rmRYBSg:s0202",
         "th-0rmRYBSg:s0203",
@@ -1378,37 +1222,24 @@
       "pos_pct": 0.7320567164179105
     },
     {
-      "window_id": "th-0rmRYBSg:j0090",
+      "window_id": "th-0rmRYBSg:j0078",
       "video_id": "th-0rmRYBSg",
-      "idx": 90,
+      "idx": 78,
       "sent_ids": [
-        "th-0rmRYBSg:s0205"
+        "th-0rmRYBSg:s0205",
+        "th-0rmRYBSg:s0206"
       ],
       "start_s": 991.345,
-      "end_s": 994.229,
-      "text": "It's controlled by dozens of different genes working together.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 1006.164,
+      "text": "It's controlled by dozens of different genes working together. Genes that influence how much melanin is produced, what type of melanin is made, how melanin granules are distributed inside skin cells, and how the skin responds to UV exposure over time.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.7398097014925373
     },
     {
-      "window_id": "th-0rmRYBSg:j0091",
+      "window_id": "th-0rmRYBSg:j0079",
       "video_id": "th-0rmRYBSg",
-      "idx": 91,
-      "sent_ids": [
-        "th-0rmRYBSg:s0206"
-      ],
-      "start_s": 994.63,
-      "end_s": 1006.164,
-      "text": "Genes that influence how much melanin is produced, what type of melanin is made, how melanin granules are distributed inside skin cells, and how the skin responds to UV exposure over time.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.7422611940298507
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0092",
-      "video_id": "th-0rmRYBSg",
-      "idx": 92,
+      "idx": 79,
       "sent_ids": [
         "th-0rmRYBSg:s0207",
         "th-0rmRYBSg:s0208",
@@ -1422,9 +1253,9 @@
       "pos_pct": 0.751660447761194
     },
     {
-      "window_id": "th-0rmRYBSg:j0093",
+      "window_id": "th-0rmRYBSg:j0080",
       "video_id": "th-0rmRYBSg",
-      "idx": 93,
+      "idx": 80,
       "sent_ids": [
         "th-0rmRYBSg:s0210",
         "th-0rmRYBSg:s0211",
@@ -1438,9 +1269,9 @@
       "pos_pct": 0.762370895522388
     },
     {
-      "window_id": "th-0rmRYBSg:j0094",
+      "window_id": "th-0rmRYBSg:j0081",
       "video_id": "th-0rmRYBSg",
-      "idx": 94,
+      "idx": 81,
       "sent_ids": [
         "th-0rmRYBSg:s0213",
         "th-0rmRYBSg:s0214"
@@ -1453,9 +1284,9 @@
       "pos_pct": 0.7720470149253731
     },
     {
-      "window_id": "th-0rmRYBSg:j0095",
+      "window_id": "th-0rmRYBSg:j0082",
       "video_id": "th-0rmRYBSg",
-      "idx": 95,
+      "idx": 82,
       "sent_ids": [
         "th-0rmRYBSg:s0215",
         "th-0rmRYBSg:s0216",
@@ -1470,52 +1301,39 @@
       "pos_pct": 0.7818253731343283
     },
     {
-      "window_id": "th-0rmRYBSg:j0096",
+      "window_id": "th-0rmRYBSg:j0083",
       "video_id": "th-0rmRYBSg",
-      "idx": 96,
+      "idx": 83,
       "sent_ids": [
-        "th-0rmRYBSg:s0219"
+        "th-0rmRYBSg:s0219",
+        "th-0rmRYBSg:s0220"
       ],
       "start_s": 1061.91,
-      "end_s": 1071.935,
-      "text": "When evolution keeps reinventing something from scratch, that's as strong a signal as biology ever gives you that the trait in question really, really matters for survival.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 1078.317,
+      "text": "When evolution keeps reinventing something from scratch, that's as strong a signal as biology ever gives you that the trait in question really, really matters for survival. While we're in the genetic neighborhood, let's talk about something adjacent that is equally mind-bending.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.7924701492537314
     },
     {
-      "window_id": "th-0rmRYBSg:j0097",
+      "window_id": "th-0rmRYBSg:j0084",
       "video_id": "th-0rmRYBSg",
-      "idx": 97,
+      "idx": 84,
       "sent_ids": [
-        "th-0rmRYBSg:s0220",
-        "th-0rmRYBSg:s0221"
-      ],
-      "start_s": 1073.175,
-      "end_s": 1079.458,
-      "text": "While we're in the genetic neighborhood, let's talk about something adjacent that is equally mind-bending. Blue eyes.",
-      "n_words": 17,
-      "n_sentences": 2,
-      "pos_pct": 0.8008768656716417
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0098",
-      "video_id": "th-0rmRYBSg",
-      "idx": 98,
-      "sent_ids": [
+        "th-0rmRYBSg:s0221",
         "th-0rmRYBSg:s0222"
       ],
-      "start_s": 1081.127,
+      "start_s": 1078.918,
       "end_s": 1089.031,
-      "text": "Every single person alive today with blue eyes, every single one, no exceptions, is descended from one specific individual.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.8068111940298507
+      "text": "Blue eyes. Every single person alive today with blue eyes, every single one, no exceptions, is descended from one specific individual.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.805162686567164
     },
     {
-      "window_id": "th-0rmRYBSg:j0099",
+      "window_id": "th-0rmRYBSg:j0085",
       "video_id": "th-0rmRYBSg",
-      "idx": 99,
+      "idx": 85,
       "sent_ids": [
         "th-0rmRYBSg:s0223",
         "th-0rmRYBSg:s0224",
@@ -1529,9 +1347,9 @@
       "pos_pct": 0.8132470149253731
     },
     {
-      "window_id": "th-0rmRYBSg:j0100",
+      "window_id": "th-0rmRYBSg:j0086",
       "video_id": "th-0rmRYBSg",
-      "idx": 100,
+      "idx": 86,
       "sent_ids": [
         "th-0rmRYBSg:s0226",
         "th-0rmRYBSg:s0227"
@@ -1544,53 +1362,40 @@
       "pos_pct": 0.8247902985074628
     },
     {
-      "window_id": "th-0rmRYBSg:j0101",
+      "window_id": "th-0rmRYBSg:j0087",
       "video_id": "th-0rmRYBSg",
-      "idx": 101,
+      "idx": 87,
       "sent_ids": [
-        "th-0rmRYBSg:s0228"
+        "th-0rmRYBSg:s0228",
+        "th-0rmRYBSg:s0229"
       ],
       "start_s": 1117.688,
-      "end_s": 1126.095,
-      "text": "Slowly at first, then faster, because it was probably genetically linked to skin pigmentation variants that were themselves under strong selection.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 1139.446,
+      "text": "Slowly at first, then faster, because it was probably genetically linked to skin pigmentation variants that were themselves under strong selection. Now consider something as seemingly ancient and fundamental as blue eyes, something that has been used to sort humans into categories throughout history, is younger than the invention of agriculture.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.8340955223880597
     },
     {
-      "window_id": "th-0rmRYBSg:j0102",
+      "window_id": "th-0rmRYBSg:j0088",
       "video_id": "th-0rmRYBSg",
-      "idx": 102,
+      "idx": 88,
       "sent_ids": [
-        "th-0rmRYBSg:s0229",
-        "th-0rmRYBSg:s0230"
-      ],
-      "start_s": 1127.256,
-      "end_s": 1141.267,
-      "text": "Now consider something as seemingly ancient and fundamental as blue eyes, something that has been used to sort humans into categories throughout history, is younger than the invention of agriculture. It's younger than Stonehenge.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.8412358208955224
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0103",
-      "video_id": "th-0rmRYBSg",
-      "idx": 103,
-      "sent_ids": [
+        "th-0rmRYBSg:s0230",
         "th-0rmRYBSg:s0231",
         "th-0rmRYBSg:s0232"
       ],
-      "start_s": 1141.848,
+      "start_s": 1140.047,
       "end_s": 1152.714,
-      "text": "It's younger than the domestication of the horse. We treat certain human traits as ancient and primordial when they are, in geological or even historical terms, basically brand new.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.8521253731343283
+      "text": "It's younger than Stonehenge. It's younger than the domestication of the horse. We treat certain human traits as ancient and primordial when they are, in geological or even historical terms, basically brand new.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.8507813432835821
     },
     {
-      "window_id": "th-0rmRYBSg:j0104",
+      "window_id": "th-0rmRYBSg:j0089",
       "video_id": "th-0rmRYBSg",
-      "idx": 104,
+      "idx": 89,
       "sent_ids": [
         "th-0rmRYBSg:s0233",
         "th-0rmRYBSg:s0234",
@@ -1604,160 +1409,134 @@
       "pos_pct": 0.8608768656716418
     },
     {
-      "window_id": "th-0rmRYBSg:j0105",
+      "window_id": "th-0rmRYBSg:j0090",
       "video_id": "th-0rmRYBSg",
-      "idx": 105,
+      "idx": 90,
       "sent_ids": [
-        "th-0rmRYBSg:s0236"
+        "th-0rmRYBSg:s0236",
+        "th-0rmRYBSg:s0237"
       ],
       "start_s": 1164.392,
-      "end_s": 1179.43,
-      "text": "The thing that has defined so much of human history, shaped political systems, justified atrocities, divided and sorted people into hierarchies for millennia, is, at its biological core, a UV calibration system.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 1182.834,
+      "text": "The thing that has defined so much of human history, shaped political systems, justified atrocities, divided and sorted people into hierarchies for millennia, is, at its biological core, a UV calibration system. It is a dial, an adjustment mechanism.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.8689492537313434
     },
     {
-      "window_id": "th-0rmRYBSg:j0106",
+      "window_id": "th-0rmRYBSg:j0091",
       "video_id": "th-0rmRYBSg",
-      "idx": 106,
+      "idx": 91,
       "sent_ids": [
-        "th-0rmRYBSg:s0237"
-      ],
-      "start_s": 1180.191,
-      "end_s": 1182.834,
-      "text": "It is a dial, an adjustment mechanism.",
-      "n_words": 7,
-      "n_sentences": 1,
-      "pos_pct": 0.880739552238806
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0107",
-      "video_id": "th-0rmRYBSg",
-      "idx": 107,
-      "sent_ids": [
-        "th-0rmRYBSg:s0238"
+        "th-0rmRYBSg:s0238",
+        "th-0rmRYBSg:s0239"
       ],
       "start_s": 1183.765,
-      "end_s": 1194.802,
-      "text": "Your body's best ancestral estimate of how much sunlight protection you need, given the latitude your distant ancestors happened to inhabit, the diet they happened to eat, and the sun they happened to live under.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 1199.195,
+      "text": "Your body's best ancestral estimate of how much sunlight protection you need, given the latitude your distant ancestors happened to inhabit, the diet they happened to eat, and the sun they happened to live under. Light skin isn't better in any absolute sense.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.8834067164179106
     },
     {
-      "window_id": "th-0rmRYBSg:j0108",
+      "window_id": "th-0rmRYBSg:j0092",
       "video_id": "th-0rmRYBSg",
-      "idx": 108,
+      "idx": 92,
       "sent_ids": [
-        "th-0rmRYBSg:s0239",
         "th-0rmRYBSg:s0240",
         "th-0rmRYBSg:s0241",
-        "th-0rmRYBSg:s0242"
+        "th-0rmRYBSg:s0242",
+        "th-0rmRYBSg:s0243"
       ],
-      "start_s": 1195.992,
-      "end_s": 1212.97,
-      "text": "Light skin isn't better in any absolute sense. In equatorial environments, it's actively dangerous. More UV penetration, more DNA damage, more cancer risk, more folate destruction. Light skin in Africa is a survival disadvantage.",
-      "n_words": 34,
+      "start_s": 1199.896,
+      "end_s": 1217.134,
+      "text": "In equatorial environments, it's actively dangerous. More UV penetration, more DNA damage, more cancer risk, more folate destruction. Light skin in Africa is a survival disadvantage. Dark skin isn't less evolved or primitive.",
+      "n_words": 33,
       "n_sentences": 4,
-      "pos_pct": 0.8925313432835821
+      "pos_pct": 0.895444776119403
     },
     {
-      "window_id": "th-0rmRYBSg:j0109",
+      "window_id": "th-0rmRYBSg:j0093",
       "video_id": "th-0rmRYBSg",
-      "idx": 109,
+      "idx": 93,
       "sent_ids": [
-        "th-0rmRYBSg:s0243",
         "th-0rmRYBSg:s0244",
         "th-0rmRYBSg:s0245",
-        "th-0rmRYBSg:s0246"
+        "th-0rmRYBSg:s0246",
+        "th-0rmRYBSg:s0247"
       ],
-      "start_s": 1213.71,
-      "end_s": 1224.607,
-      "text": "Dark skin isn't less evolved or primitive. It is the ancestral state. The original configuration. The baseline from which everything else is a modification.",
-      "n_words": 24,
+      "start_s": 1217.674,
+      "end_s": 1227.768,
+      "text": "It is the ancestral state. The original configuration. The baseline from which everything else is a modification. If anything, lighter skin is the newer version.",
+      "n_words": 25,
       "n_sentences": 4,
-      "pos_pct": 0.9057537313432836
+      "pos_pct": 0.9087119402985074
     },
     {
-      "window_id": "th-0rmRYBSg:j0110",
+      "window_id": "th-0rmRYBSg:j0094",
       "video_id": "th-0rmRYBSg",
-      "idx": 110,
+      "idx": 94,
       "sent_ids": [
-        "th-0rmRYBSg:s0247",
         "th-0rmRYBSg:s0248",
         "th-0rmRYBSg:s0249",
         "th-0rmRYBSg:s0250"
       ],
-      "start_s": 1225.267,
+      "start_s": 1228.308,
       "end_s": 1234.611,
-      "text": "If anything, lighter skin is the newer version. The adaptation, the variation. Dark skin is the default. And the deepest irony of all is this.",
-      "n_words": 25,
-      "n_sentences": 4,
-      "pos_pct": 0.9143783582089553
+      "text": "The adaptation, the variation. Dark skin is the default. And the deepest irony of all is this.",
+      "n_words": 17,
+      "n_sentences": 3,
+      "pos_pct": 0.9166477611940298
     },
     {
-      "window_id": "th-0rmRYBSg:j0111",
+      "window_id": "th-0rmRYBSg:j0095",
       "video_id": "th-0rmRYBSg",
-      "idx": 111,
+      "idx": 95,
       "sent_ids": [
-        "th-0rmRYBSg:s0251"
+        "th-0rmRYBSg:s0251",
+        "th-0rmRYBSg:s0252"
       ],
       "start_s": 1235.091,
-      "end_s": 1244.715,
-      "text": "The same sun that drove some populations to develop more melanin to survive its power also drove other populations to develop less melanin because they needed more of its limited energy.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 1246.596,
+      "text": "The same sun that drove some populations to develop more melanin to survive its power also drove other populations to develop less melanin because they needed more of its limited energy. The sun didn't pick sides.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.9217097014925373
     },
     {
-      "window_id": "th-0rmRYBSg:j0112",
+      "window_id": "th-0rmRYBSg:j0096",
       "video_id": "th-0rmRYBSg",
-      "idx": 112,
+      "idx": 96,
       "sent_ids": [
-        "th-0rmRYBSg:s0252",
         "th-0rmRYBSg:s0253",
         "th-0rmRYBSg:s0254"
       ],
-      "start_s": 1245.375,
+      "start_s": 1247.196,
       "end_s": 1254.533,
-      "text": "The sun didn't pick sides. The sun didn't have preferences. the sun just radiated, indifferently, and let evolution sort out the rest.",
-      "n_words": 22,
-      "n_sentences": 3,
-      "pos_pct": 0.9293843283582089
+      "text": "The sun didn't have preferences. the sun just radiated, indifferently, and let evolution sort out the rest.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.9307432835820895
     },
     {
-      "window_id": "th-0rmRYBSg:j0113",
+      "window_id": "th-0rmRYBSg:j0097",
       "video_id": "th-0rmRYBSg",
-      "idx": 113,
+      "idx": 97,
       "sent_ids": [
-        "th-0rmRYBSg:s0255"
+        "th-0rmRYBSg:s0255",
+        "th-0rmRYBSg:s0256"
       ],
       "start_s": 1254.974,
-      "end_s": 1265.896,
-      "text": "We built an entire civilization's worth of prejudice, oppression, and hierarchy around a vitamin D problem, a calcium absorption issue, a folate protection mechanism.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 1275.679,
+      "text": "We built an entire civilization's worth of prejudice, oppression, and hierarchy around a vitamin D problem, a calcium absorption issue, a folate protection mechanism. Human populations are still evolving, slowly, almost imperceptibly on any individual time scale, but evolving nonetheless.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.9365477611940298
     },
     {
-      "window_id": "th-0rmRYBSg:j0114",
+      "window_id": "th-0rmRYBSg:j0098",
       "video_id": "th-0rmRYBSg",
-      "idx": 114,
-      "sent_ids": [
-        "th-0rmRYBSg:s0256"
-      ],
-      "start_s": 1266.977,
-      "end_s": 1275.679,
-      "text": "Human populations are still evolving, slowly, almost imperceptibly on any individual time scale, but evolving nonetheless.",
-      "n_words": 16,
-      "n_sentences": 1,
-      "pos_pct": 0.9455052238805971
-    },
-    {
-      "window_id": "th-0rmRYBSg:j0115",
-      "video_id": "th-0rmRYBSg",
-      "idx": 115,
+      "idx": 98,
       "sent_ids": [
         "th-0rmRYBSg:s0257",
         "th-0rmRYBSg:s0258",
@@ -1771,9 +1550,9 @@
       "pos_pct": 0.9529492537313433
     },
     {
-      "window_id": "th-0rmRYBSg:j0116",
+      "window_id": "th-0rmRYBSg:j0099",
       "video_id": "th-0rmRYBSg",
-      "idx": 116,
+      "idx": 99,
       "sent_ids": [
         "th-0rmRYBSg:s0260",
         "th-0rmRYBSg:s0261"
@@ -1786,9 +1565,9 @@
       "pos_pct": 0.9609865671641791
     },
     {
-      "window_id": "th-0rmRYBSg:j0117",
+      "window_id": "th-0rmRYBSg:j0100",
       "video_id": "th-0rmRYBSg",
-      "idx": 117,
+      "idx": 100,
       "sent_ids": [
         "th-0rmRYBSg:s0262",
         "th-0rmRYBSg:s0263"
@@ -1801,9 +1580,9 @@
       "pos_pct": 0.9696507462686568
     },
     {
-      "window_id": "th-0rmRYBSg:j0118",
+      "window_id": "th-0rmRYBSg:j0101",
       "video_id": "th-0rmRYBSg",
-      "idx": 118,
+      "idx": 101,
       "sent_ids": [
         "th-0rmRYBSg:s0264"
       ],
@@ -1815,9 +1594,9 @@
       "pos_pct": 0.9767
     },
     {
-      "window_id": "th-0rmRYBSg:j0119",
+      "window_id": "th-0rmRYBSg:j0102",
       "video_id": "th-0rmRYBSg",
-      "idx": 119,
+      "idx": 102,
       "sent_ids": [
         "th-0rmRYBSg:s0265"
       ],

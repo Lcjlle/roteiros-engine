@@ -1,6 +1,6 @@
 {
   "video_id": "pPm3vHUQCpo",
-  "generated_at": "2026-09-03T11:59:53.022948+00:00",
+  "generated_at": "2026-09-03T13:18:13.139206+00:00",
   "windows": [
     {
       "window_id": "pPm3vHUQCpo:j0000",
@@ -70,13 +70,14 @@
       "video_id": "pPm3vHUQCpo",
       "idx": 4,
       "sent_ids": [
-        "pPm3vHUQCpo:s0011"
+        "pPm3vHUQCpo:s0011",
+        "pPm3vHUQCpo:s0012"
       ],
       "start_s": 43.899,
-      "end_s": 51.865,
-      "text": "Not as a thought experiment, as a daily reality, as the baseline condition of being human for the vast majority of human history.",
-      "n_words": 23,
-      "n_sentences": 1,
+      "end_s": 61.091,
+      "text": "Not as a thought experiment, as a daily reality, as the baseline condition of being human for the vast majority of human history. This is the question nobody thinks to ask about ancient humans because we're usually too busy asking about the dramatic stuff, the predators, the migrations, the wars.",
+      "n_words": 50,
+      "n_sentences": 2,
       "pos_pct": 0.029541722745625842
     },
     {
@@ -84,68 +85,54 @@
       "video_id": "pPm3vHUQCpo",
       "idx": 5,
       "sent_ids": [
-        "pPm3vHUQCpo:s0012",
-        "pPm3vHUQCpo:s0013"
+        "pPm3vHUQCpo:s0013",
+        "pPm3vHUQCpo:s0014",
+        "pPm3vHUQCpo:s0015",
+        "pPm3vHUQCpo:s0016"
       ],
-      "start_s": 52.485,
-      "end_s": 63.793,
-      "text": "This is the question nobody thinks to ask about ancient humans because we're usually too busy asking about the dramatic stuff, the predators, the migrations, the wars. But rain is unglamorous and relentless.",
-      "n_words": 33,
-      "n_sentences": 2,
-      "pos_pct": 0.03531965006729475
+      "start_s": 61.611,
+      "end_s": 71.738,
+      "text": "But rain is unglamorous and relentless. And it was arguably more consistently dangerous to early humans than almost anything with teeth. It killed fires. It caused hypothermia.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.041460969044414535
     },
     {
       "window_id": "pPm3vHUQCpo:j0006",
       "video_id": "pPm3vHUQCpo",
       "idx": 6,
       "sent_ids": [
-        "pPm3vHUQCpo:s0014",
-        "pPm3vHUQCpo:s0015",
-        "pPm3vHUQCpo:s0016",
-        "pPm3vHUQCpo:s0017"
+        "pPm3vHUQCpo:s0017",
+        "pPm3vHUQCpo:s0018",
+        "pPm3vHUQCpo:s0019",
+        "pPm3vHUQCpo:s0020"
       ],
-      "start_s": 64.013,
-      "end_s": 73.079,
-      "text": "And it was arguably more consistently dangerous to early humans than almost anything with teeth. It killed fires. It caused hypothermia. It rotted food.",
-      "n_words": 24,
+      "start_s": 72.158,
+      "end_s": 83.125,
+      "text": "It rotted food. It flooded shelters. It lasted for months. And ancient humans not only survived it, they thrived in some of the wettest, most brutal climates on the planet.",
+      "n_words": 30,
       "n_sentences": 4,
-      "pos_pct": 0.04307738896366084
+      "pos_pct": 0.048558546433378195
     },
     {
       "window_id": "pPm3vHUQCpo:j0007",
       "video_id": "pPm3vHUQCpo",
       "idx": 7,
       "sent_ids": [
-        "pPm3vHUQCpo:s0018",
-        "pPm3vHUQCpo:s0019",
-        "pPm3vHUQCpo:s0020",
-        "pPm3vHUQCpo:s0021"
+        "pPm3vHUQCpo:s0021",
+        "pPm3vHUQCpo:s0022"
       ],
-      "start_s": 73.439,
-      "end_s": 85.126,
-      "text": "It flooded shelters. It lasted for months. And ancient humans not only survived it, they thrived in some of the wettest, most brutal climates on the planet. They crossed rainforests.",
-      "n_words": 30,
-      "n_sentences": 4,
-      "pos_pct": 0.04942059219380888
+      "start_s": 83.465,
+      "end_s": 90.33,
+      "text": "They crossed rainforests. They lived through Ice Age winters with precipitation that would shut down a modern city.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.05616756393001346
     },
     {
       "window_id": "pPm3vHUQCpo:j0008",
       "video_id": "pPm3vHUQCpo",
       "idx": 8,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0022"
-      ],
-      "start_s": 85.467,
-      "end_s": 90.33,
-      "text": "They lived through Ice Age winters with precipitation that would shut down a modern city.",
-      "n_words": 15,
-      "n_sentences": 1,
-      "pos_pct": 0.05751480484522207
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0009",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 9,
       "sent_ids": [
         "pPm3vHUQCpo:s0023",
         "pPm3vHUQCpo:s0024"
@@ -158,9 +145,9 @@
       "pos_pct": 0.06129878869448183
     },
     {
-      "window_id": "pPm3vHUQCpo:j0010",
+      "window_id": "pPm3vHUQCpo:j0009",
       "video_id": "pPm3vHUQCpo",
-      "idx": 10,
+      "idx": 9,
       "sent_ids": [
         "pPm3vHUQCpo:s0025",
         "pPm3vHUQCpo:s0026",
@@ -175,9 +162,9 @@
       "pos_pct": 0.06788694481830417
     },
     {
-      "window_id": "pPm3vHUQCpo:j0011",
+      "window_id": "pPm3vHUQCpo:j0010",
       "video_id": "pPm3vHUQCpo",
-      "idx": 11,
+      "idx": 10,
       "sent_ids": [
         "pPm3vHUQCpo:s0029",
         "pPm3vHUQCpo:s0030"
@@ -190,53 +177,40 @@
       "pos_pct": 0.07473082099596232
     },
     {
+      "window_id": "pPm3vHUQCpo:j0011",
+      "video_id": "pPm3vHUQCpo",
+      "idx": 11,
+      "sent_ids": [
+        "pPm3vHUQCpo:s0031",
+        "pPm3vHUQCpo:s0032"
+      ],
+      "start_s": 118.332,
+      "end_s": 129.695,
+      "text": "This is the difference between sitting in a cold room feeling chilly and sitting in a cold lake dying. When you're wet, your body is losing heat at a rate your metabolism may not be able to compensate for.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.07963122476446836
+    },
+    {
       "window_id": "pPm3vHUQCpo:j0012",
       "video_id": "pPm3vHUQCpo",
       "idx": 12,
       "sent_ids": [
-        "pPm3vHUQCpo:s0031"
+        "pPm3vHUQCpo:s0033",
+        "pPm3vHUQCpo:s0034",
+        "pPm3vHUQCpo:s0035"
       ],
-      "start_s": 118.332,
-      "end_s": 123.914,
-      "text": "This is the difference between sitting in a cold room feeling chilly and sitting in a cold lake dying.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.07963122476446836
+      "start_s": 130.055,
+      "end_s": 141.38,
+      "text": "especially if the ambient temperature is low and the wind is blowing. This is why hypothermia kills so efficiently in wet conditions, even when the temperature is nowhere near freezing. You don't need ice.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.08752018842530283
     },
     {
       "window_id": "pPm3vHUQCpo:j0013",
       "video_id": "pPm3vHUQCpo",
       "idx": 13,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0032",
-        "pPm3vHUQCpo:s0033"
-      ],
-      "start_s": 124.314,
-      "end_s": 134.057,
-      "text": "When you're wet, your body is losing heat at a rate your metabolism may not be able to compensate for. especially if the ambient temperature is low and the wind is blowing.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.08365679676985195
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0014",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 14,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0034",
-        "pPm3vHUQCpo:s0035"
-      ],
-      "start_s": 134.417,
-      "end_s": 141.38,
-      "text": "This is why hypothermia kills so efficiently in wet conditions, even when the temperature is nowhere near freezing. You don't need ice.",
-      "n_words": 22,
-      "n_sentences": 2,
-      "pos_pct": 0.09045558546433378
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0015",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 15,
       "sent_ids": [
         "pPm3vHUQCpo:s0036",
         "pPm3vHUQCpo:s0037",
@@ -250,9 +224,9 @@
       "pos_pct": 0.09533041722745626
     },
     {
-      "window_id": "pPm3vHUQCpo:j0016",
+      "window_id": "pPm3vHUQCpo:j0014",
       "video_id": "pPm3vHUQCpo",
-      "idx": 16,
+      "idx": 14,
       "sent_ids": [
         "pPm3vHUQCpo:s0039",
         "pPm3vHUQCpo:s0040",
@@ -266,37 +240,24 @@
       "pos_pct": 0.1008371467025572
     },
     {
-      "window_id": "pPm3vHUQCpo:j0017",
+      "window_id": "pPm3vHUQCpo:j0015",
       "video_id": "pPm3vHUQCpo",
-      "idx": 17,
+      "idx": 15,
       "sent_ids": [
-        "pPm3vHUQCpo:s0042"
+        "pPm3vHUQCpo:s0042",
+        "pPm3vHUQCpo:s0043"
       ],
       "start_s": 160.708,
-      "end_s": 168.69,
-      "text": "The first and most critical survival skill in wet conditions isn't finding food or building shelter, it's maintaining core body temperature.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 174.032,
+      "text": "The first and most critical survival skill in wet conditions isn't finding food or building shelter, it's maintaining core body temperature. And the strategies ancient humans developed to do this were more sophisticated than most people assume.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.10814804845222073
     },
     {
-      "window_id": "pPm3vHUQCpo:j0018",
+      "window_id": "pPm3vHUQCpo:j0016",
       "video_id": "pPm3vHUQCpo",
-      "idx": 18,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0043"
-      ],
-      "start_s": 169.05,
-      "end_s": 174.032,
-      "text": "And the strategies ancient humans developed to do this were more sophisticated than most people assume.",
-      "n_words": 16,
-      "n_sentences": 1,
-      "pos_pct": 0.11376177658142665
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0019",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 19,
+      "idx": 16,
       "sent_ids": [
         "pPm3vHUQCpo:s0044",
         "pPm3vHUQCpo:s0045",
@@ -311,9 +272,9 @@
       "pos_pct": 0.11753162853297441
     },
     {
-      "window_id": "pPm3vHUQCpo:j0020",
+      "window_id": "pPm3vHUQCpo:j0017",
       "video_id": "pPm3vHUQCpo",
-      "idx": 20,
+      "idx": 17,
       "sent_ids": [
         "pPm3vHUQCpo:s0048",
         "pPm3vHUQCpo:s0049",
@@ -327,9 +288,9 @@
       "pos_pct": 0.12643539703903095
     },
     {
-      "window_id": "pPm3vHUQCpo:j0021",
+      "window_id": "pPm3vHUQCpo:j0018",
       "video_id": "pPm3vHUQCpo",
-      "idx": 21,
+      "idx": 18,
       "sent_ids": [
         "pPm3vHUQCpo:s0051",
         "pPm3vHUQCpo:s0052"
@@ -342,37 +303,24 @@
       "pos_pct": 0.13318438761776583
     },
     {
-      "window_id": "pPm3vHUQCpo:j0022",
+      "window_id": "pPm3vHUQCpo:j0019",
       "video_id": "pPm3vHUQCpo",
-      "idx": 22,
+      "idx": 19,
       "sent_ids": [
-        "pPm3vHUQCpo:s0053"
+        "pPm3vHUQCpo:s0053",
+        "pPm3vHUQCpo:s0054"
       ],
       "start_s": 208.741,
-      "end_s": 210.723,
-      "text": "Fire wasn't something you made when you needed it.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 221.612,
+      "text": "Fire wasn't something you made when you needed it. Fire was something you maintained continuously, because starting it from scratch in wet conditions without modern tools is one of the hardest things a human being can do with bare hands.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.14047173620457606
     },
     {
-      "window_id": "pPm3vHUQCpo:j0023",
+      "window_id": "pPm3vHUQCpo:j0020",
       "video_id": "pPm3vHUQCpo",
-      "idx": 23,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0054"
-      ],
-      "start_s": 211.564,
-      "end_s": 221.612,
-      "text": "Fire was something you maintained continuously, because starting it from scratch in wet conditions without modern tools is one of the hardest things a human being can do with bare hands.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.142371467025572
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0024",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 24,
+      "idx": 20,
       "sent_ids": [
         "pPm3vHUQCpo:s0055",
         "pPm3vHUQCpo:s0056"
@@ -385,9 +333,9 @@
       "pos_pct": 0.14972611036339165
     },
     {
-      "window_id": "pPm3vHUQCpo:j0025",
+      "window_id": "pPm3vHUQCpo:j0021",
       "video_id": "pPm3vHUQCpo",
-      "idx": 25,
+      "idx": 21,
       "sent_ids": [
         "pPm3vHUQCpo:s0057",
         "pPm3vHUQCpo:s0058"
@@ -400,184 +348,145 @@
       "pos_pct": 0.1596547779273217
     },
     {
+      "window_id": "pPm3vHUQCpo:j0022",
+      "video_id": "pPm3vHUQCpo",
+      "idx": 22,
+      "sent_ids": [
+        "pPm3vHUQCpo:s0059",
+        "pPm3vHUQCpo:s0060"
+      ],
+      "start_s": 247.677,
+      "end_s": 265.122,
+      "text": "Archeological evidence from sites across Europe shows hearths that burned continuously for years, not relit repeatedly, but maintained, fed, protected, treated as a living thing that needed tending. The fire was never allowed to go out because the cost of losing it was too high.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.1666736204576043
+    },
+    {
+      "window_id": "pPm3vHUQCpo:j0023",
+      "video_id": "pPm3vHUQCpo",
+      "idx": 23,
+      "sent_ids": [
+        "pPm3vHUQCpo:s0061",
+        "pPm3vHUQCpo:s0062"
+      ],
+      "start_s": 265.802,
+      "end_s": 272.344,
+      "text": "This required designated roles within groups. Someone's job, in bad weather, was to keep the fire alive.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.17887079407806192
+    },
+    {
+      "window_id": "pPm3vHUQCpo:j0024",
+      "video_id": "pPm3vHUQCpo",
+      "idx": 24,
+      "sent_ids": [
+        "pPm3vHUQCpo:s0063",
+        "pPm3vHUQCpo:s0064"
+      ],
+      "start_s": 273.294,
+      "end_s": 288.292,
+      "text": "not to hunt, not to forage, to sit with the fire, shield it, feed it, and make sure the group didn't wake up cold and dark in the middle of a rainstorm. This is one of the earliest divisions of labor we can infer from the archaeological record.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.18391251682368773
+    },
+    {
+      "window_id": "pPm3vHUQCpo:j0025",
+      "video_id": "pPm3vHUQCpo",
+      "idx": 25,
+      "sent_ids": [
+        "pPm3vHUQCpo:s0065",
+        "pPm3vHUQCpo:s0066",
+        "pPm3vHUQCpo:s0067"
+      ],
+      "start_s": 288.832,
+      "end_s": 299.14,
+      "text": "Before anyone was a specialist in tools or hunting or medicine, someone was a specialist in fire. But fire requires shelter to survive in heavy rain. Which brings us to the second major strategy.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.19436877523553162
+    },
+    {
       "window_id": "pPm3vHUQCpo:j0026",
       "video_id": "pPm3vHUQCpo",
       "idx": 26,
       "sent_ids": [
-        "pPm3vHUQCpo:s0059"
+        "pPm3vHUQCpo:s0068",
+        "pPm3vHUQCpo:s0069"
       ],
-      "start_s": 247.677,
-      "end_s": 260.661,
-      "text": "Archeological evidence from sites across Europe shows hearths that burned continuously for years, not relit repeatedly, but maintained, fed, protected, treated as a living thing that needed tending.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.1666736204576043
+      "start_s": 299.701,
+      "end_s": 307.207,
+      "text": "Ancient humans were not the cave-dwelling primitives of popular imagination. The cave-dwelling image is partly an artifact of preservation bias.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.20168304172274565
     },
     {
       "window_id": "pPm3vHUQCpo:j0027",
       "video_id": "pPm3vHUQCpo",
       "idx": 27,
       "sent_ids": [
-        "pPm3vHUQCpo:s0060",
-        "pPm3vHUQCpo:s0061",
-        "pPm3vHUQCpo:s0062"
+        "pPm3vHUQCpo:s0070",
+        "pPm3vHUQCpo:s0071"
       ],
-      "start_s": 261.381,
-      "end_s": 272.344,
-      "text": "The fire was never allowed to go out because the cost of losing it was too high. This required designated roles within groups. Someone's job, in bad weather, was to keep the fire alive.",
-      "n_words": 34,
-      "n_sentences": 3,
-      "pos_pct": 0.17589569313593537
+      "start_s": 307.827,
+      "end_s": 321.796,
+      "text": "Caves are where evidence survives, so caves are where we look, and therefore we conclude that caves are where ancient humans lived. But caves are rare, often inhabited by predators, frequently cold and damp, and geographically limited.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.2071514131897712
     },
     {
       "window_id": "pPm3vHUQCpo:j0028",
       "video_id": "pPm3vHUQCpo",
       "idx": 28,
       "sent_ids": [
-        "pPm3vHUQCpo:s0063"
+        "pPm3vHUQCpo:s0072",
+        "pPm3vHUQCpo:s0073"
       ],
-      "start_s": 273.294,
-      "end_s": 283.346,
-      "text": "not to hunt, not to forage, to sit with the fire, shield it, feed it, and make sure the group didn't wake up cold and dark in the middle of a rainstorm.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.18391251682368773
+      "start_s": 322.217,
+      "end_s": 338.345,
+      "text": "Most ancient humans lived in structures they built, and those structures, even the earliest ones, show a level of environmental intelligence that is genuinely impressive. The oldest known constructed shelters date to around 400,000 years ago, long before Homo sapiens, in fact.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.2168351278600269
     },
     {
       "window_id": "pPm3vHUQCpo:j0029",
       "video_id": "pPm3vHUQCpo",
       "idx": 29,
       "sent_ids": [
-        "pPm3vHUQCpo:s0064",
-        "pPm3vHUQCpo:s0065"
+        "pPm3vHUQCpo:s0074",
+        "pPm3vHUQCpo:s0075"
       ],
-      "start_s": 283.866,
-      "end_s": 293.676,
-      "text": "This is one of the earliest divisions of labor we can infer from the archaeological record. Before anyone was a specialist in tools or hunting or medicine, someone was a specialist in fire.",
+      "start_s": 338.965,
+      "end_s": 352.348,
+      "text": "These were not elaborate, but they were intentional. Branches angled to shed water, leaves layered in overlapping rows like shingles, each layer overlapping the one below, so rain runs off rather than through.",
       "n_words": 33,
       "n_sentences": 2,
-      "pos_pct": 0.19102691790040377
+      "pos_pct": 0.2281056527590848
     },
     {
       "window_id": "pPm3vHUQCpo:j0030",
       "video_id": "pPm3vHUQCpo",
       "idx": 30,
       "sent_ids": [
-        "pPm3vHUQCpo:s0066",
-        "pPm3vHUQCpo:s0067",
-        "pPm3vHUQCpo:s0068"
+        "pPm3vHUQCpo:s0076",
+        "pPm3vHUQCpo:s0077"
       ],
-      "start_s": 294.316,
-      "end_s": 303.344,
-      "text": "But fire requires shelter to survive in heavy rain. Which brings us to the second major strategy. Ancient humans were not the cave-dwelling primitives of popular imagination.",
-      "n_words": 27,
-      "n_sentences": 3,
-      "pos_pct": 0.19805921938088827
+      "start_s": 352.768,
+      "end_s": 369.854,
+      "text": "The same principle as a modern roof, arrived at independently, with no engineering education, by hominins whose brain was somewhat smaller than yours. By the time anatomically modern humans were spreading across the globe, temporary shelters had become remarkably sophisticated for the materials available.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.23739434724091518
     },
     {
       "window_id": "pPm3vHUQCpo:j0031",
       "video_id": "pPm3vHUQCpo",
       "idx": 31,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0069",
-        "pPm3vHUQCpo:s0070"
-      ],
-      "start_s": 303.924,
-      "end_s": 314.792,
-      "text": "The cave-dwelling image is partly an artifact of preservation bias. Caves are where evidence survives, so caves are where we look, and therefore we conclude that caves are where ancient humans lived.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.20452489905787347
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0032",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 32,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0071"
-      ],
-      "start_s": 315.192,
-      "end_s": 321.796,
-      "text": "But caves are rare, often inhabited by predators, frequently cold and damp, and geographically limited.",
-      "n_words": 15,
-      "n_sentences": 1,
-      "pos_pct": 0.2121076716016151
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0033",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 33,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0072"
-      ],
-      "start_s": 322.217,
-      "end_s": 331.283,
-      "text": "Most ancient humans lived in structures they built, and those structures, even the earliest ones, show a level of environmental intelligence that is genuinely impressive.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.2168351278600269
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0034",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 34,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0073",
-        "pPm3vHUQCpo:s0074"
-      ],
-      "start_s": 331.663,
-      "end_s": 342.205,
-      "text": "The oldest known constructed shelters date to around 400,000 years ago, long before Homo sapiens, in fact. These were not elaborate, but they were intentional.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.22319179004037687
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0035",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 35,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0075"
-      ],
-      "start_s": 342.586,
-      "end_s": 352.348,
-      "text": "Branches angled to shed water, leaves layered in overlapping rows like shingles, each layer overlapping the one below, so rain runs off rather than through.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.23054239569313595
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0036",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 36,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0076"
-      ],
-      "start_s": 352.768,
-      "end_s": 361.33,
-      "text": "The same principle as a modern roof, arrived at independently, with no engineering education, by hominins whose brain was somewhat smaller than yours.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.23739434724091518
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0037",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 37,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0077"
-      ],
-      "start_s": 362.01,
-      "end_s": 369.854,
-      "text": "By the time anatomically modern humans were spreading across the globe, temporary shelters had become remarkably sophisticated for the materials available.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.24361372812920593
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0038",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 38,
       "sent_ids": [
         "pPm3vHUQCpo:s0078",
         "pPm3vHUQCpo:s0079"
@@ -590,9 +499,9 @@
       "pos_pct": 0.24928263795423958
     },
     {
-      "window_id": "pPm3vHUQCpo:j0039",
+      "window_id": "pPm3vHUQCpo:j0032",
       "video_id": "pPm3vHUQCpo",
-      "idx": 39,
+      "idx": 32,
       "sent_ids": [
         "pPm3vHUQCpo:s0080",
         "pPm3vHUQCpo:s0081"
@@ -605,142 +514,116 @@
       "pos_pct": 0.26063391655450874
     },
     {
-      "window_id": "pPm3vHUQCpo:j0040",
+      "window_id": "pPm3vHUQCpo:j0033",
       "video_id": "pPm3vHUQCpo",
-      "idx": 40,
+      "idx": 33,
       "sent_ids": [
-        "pPm3vHUQCpo:s0082"
+        "pPm3vHUQCpo:s0082",
+        "pPm3vHUQCpo:s0083"
       ],
       "start_s": 395.727,
-      "end_s": 406.233,
-      "text": "The hide construction is worth pausing on because it represents one of the most important material innovations in human history, and it happened specifically as a response to wet, cold climates.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 410.435,
+      "text": "The hide construction is worth pausing on because it represents one of the most important material innovations in human history, and it happened specifically as a response to wet, cold climates. Animal hides, properly prepared, are nearly waterproof.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.2663034993270525
     },
     {
-      "window_id": "pPm3vHUQCpo:j0041",
+      "window_id": "pPm3vHUQCpo:j0034",
       "video_id": "pPm3vHUQCpo",
-      "idx": 41,
+      "idx": 34,
       "sent_ids": [
-        "pPm3vHUQCpo:s0083",
-        "pPm3vHUQCpo:s0084"
+        "pPm3vHUQCpo:s0084",
+        "pPm3vHUQCpo:s0085"
       ],
-      "start_s": 407.013,
-      "end_s": 414.918,
-      "text": "Animal hides, properly prepared, are nearly waterproof. The fat content of untreated hide provides natural water resistance.",
-      "n_words": 17,
+      "start_s": 410.955,
+      "end_s": 428.003,
+      "text": "The fat content of untreated hide provides natural water resistance. When ancient humans began the process of turning raw hide into usable material, scraping, stretching, treating with fat or brains or urine, smoking, they were essentially inventing leather.",
+      "n_words": 38,
       "n_sentences": 2,
-      "pos_pct": 0.27389838492597574
+      "pos_pct": 0.27655114401076714
     },
     {
-      "window_id": "pPm3vHUQCpo:j0042",
+      "window_id": "pPm3vHUQCpo:j0035",
       "video_id": "pPm3vHUQCpo",
-      "idx": 42,
+      "idx": 35,
       "sent_ids": [
-        "pPm3vHUQCpo:s0085",
-        "pPm3vHUQCpo:s0086"
-      ],
-      "start_s": 415.698,
-      "end_s": 430.644,
-      "text": "When ancient humans began the process of turning raw hide into usable material, scraping, stretching, treating with fat or brains or urine, smoking, they were essentially inventing leather. And leather, as a material, is remarkable.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.279742934051144
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0043",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 43,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0086",
         "pPm3vHUQCpo:s0087"
       ],
-      "start_s": 431.184,
+      "start_s": 428.383,
       "end_s": 438.187,
-      "text": "It's flexible, durable, thermally insulating when dry, and significantly more water-resistant than woven plant fiber.",
-      "n_words": 15,
-      "n_sentences": 1,
-      "pos_pct": 0.290164199192463
+      "text": "And leather, as a material, is remarkable. It's flexible, durable, thermally insulating when dry, and significantly more water-resistant than woven plant fiber.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.28827927321668906
     },
     {
-      "window_id": "pPm3vHUQCpo:j0044",
+      "window_id": "pPm3vHUQCpo:j0036",
       "video_id": "pPm3vHUQCpo",
-      "idx": 44,
+      "idx": 36,
       "sent_ids": [
-        "pPm3vHUQCpo:s0088"
+        "pPm3vHUQCpo:s0088",
+        "pPm3vHUQCpo:s0089"
       ],
       "start_s": 439.047,
-      "end_s": 448.135,
-      "text": "The cognitive leap required to go from, this animal has a skin, to, I can turn that skin into something that protects my skin, is not trivial.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 453.139,
+      "text": "The cognitive leap required to go from, this animal has a skin, to, I can turn that skin into something that protects my skin, is not trivial. It requires understanding cause and effect across a delayed timeline.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.2954555854643338
     },
     {
-      "window_id": "pPm3vHUQCpo:j0045",
+      "window_id": "pPm3vHUQCpo:j0037",
       "video_id": "pPm3vHUQCpo",
-      "idx": 45,
+      "idx": 37,
       "sent_ids": [
-        "pPm3vHUQCpo:s0089",
         "pPm3vHUQCpo:s0090",
         "pPm3vHUQCpo:s0091",
-        "pPm3vHUQCpo:s0092"
+        "pPm3vHUQCpo:s0092",
+        "pPm3vHUQCpo:s0093"
       ],
-      "start_s": 448.595,
-      "end_s": 461.025,
-      "text": "It requires understanding cause and effect across a delayed timeline. The animal is killed today. The hide is processed over several days. The finished product protects against weather weeks later.",
-      "n_words": 30,
+      "start_s": 453.559,
+      "end_s": 462.346,
+      "text": "The animal is killed today. The hide is processed over several days. The finished product protects against weather weeks later. This is planning.",
+      "n_words": 23,
       "n_sentences": 4,
-      "pos_pct": 0.30188088829071336
+      "pos_pct": 0.305221399730821
     },
     {
-      "window_id": "pPm3vHUQCpo:j0046",
+      "window_id": "pPm3vHUQCpo:j0038",
       "video_id": "pPm3vHUQCpo",
-      "idx": 46,
+      "idx": 38,
       "sent_ids": [
-        "pPm3vHUQCpo:s0093",
-        "pPm3vHUQCpo:s0094"
+        "pPm3vHUQCpo:s0094",
+        "pPm3vHUQCpo:s0095"
       ],
-      "start_s": 461.646,
-      "end_s": 467.949,
-      "text": "This is planning. Abstract thinking, the ability to solve a problem that doesn't exist yet but will.",
-      "n_words": 17,
+      "start_s": 463.407,
+      "end_s": 476.873,
+      "text": "Abstract thinking, the ability to solve a problem that doesn't exist yet but will. Ancient humans were doing this at least 120,000 years ago, based on archaeological evidence of hide-scraping tools found in Africa.",
+      "n_words": 34,
       "n_sentences": 2,
-      "pos_pct": 0.3106635262449529
+      "pos_pct": 0.3118485868102288
     },
     {
-      "window_id": "pPm3vHUQCpo:j0047",
+      "window_id": "pPm3vHUQCpo:j0039",
       "video_id": "pPm3vHUQCpo",
-      "idx": 47,
+      "idx": 39,
       "sent_ids": [
-        "pPm3vHUQCpo:s0095",
-        "pPm3vHUQCpo:s0096"
-      ],
-      "start_s": 468.789,
-      "end_s": 478.354,
-      "text": "Ancient humans were doing this at least 120,000 years ago, based on archaeological evidence of hide-scraping tools found in Africa. Possibly earlier?",
-      "n_words": 22,
-      "n_sentences": 2,
-      "pos_pct": 0.31547039030955587
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0048",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 48,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0096",
         "pPm3vHUQCpo:s0097"
       ],
-      "start_s": 479.074,
+      "start_s": 477.493,
       "end_s": 491.6,
-      "text": "The technology predates modern behavior as typically defined by researchers, which suggests that the drive to stay dry was a significant enough evolutionary pressure to produce complex cognitive solutions very early in human history.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.32239165545087484
+      "text": "Possibly earlier? The technology predates modern behavior as typically defined by researchers, which suggests that the drive to stay dry was a significant enough evolutionary pressure to produce complex cognitive solutions very early in human history.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.3213277254374159
     },
     {
-      "window_id": "pPm3vHUQCpo:j0049",
+      "window_id": "pPm3vHUQCpo:j0040",
       "video_id": "pPm3vHUQCpo",
-      "idx": 49,
+      "idx": 40,
       "sent_ids": [
         "pPm3vHUQCpo:s0098",
         "pPm3vHUQCpo:s0099",
@@ -755,9 +638,9 @@
       "pos_pct": 0.3315208613728129
     },
     {
-      "window_id": "pPm3vHUQCpo:j0050",
+      "window_id": "pPm3vHUQCpo:j0041",
       "video_id": "pPm3vHUQCpo",
-      "idx": 50,
+      "idx": 41,
       "sent_ids": [
         "pPm3vHUQCpo:s0102",
         "pPm3vHUQCpo:s0103",
@@ -772,9 +655,9 @@
       "pos_pct": 0.33942328398384924
     },
     {
-      "window_id": "pPm3vHUQCpo:j0051",
+      "window_id": "pPm3vHUQCpo:j0042",
       "video_id": "pPm3vHUQCpo",
-      "idx": 51,
+      "idx": 42,
       "sent_ids": [
         "pPm3vHUQCpo:s0106",
         "pPm3vHUQCpo:s0107"
@@ -787,174 +670,135 @@
       "pos_pct": 0.3446056527590848
     },
     {
-      "window_id": "pPm3vHUQCpo:j0052",
+      "window_id": "pPm3vHUQCpo:j0043",
       "video_id": "pPm3vHUQCpo",
-      "idx": 52,
+      "idx": 43,
       "sent_ids": [
-        "pPm3vHUQCpo:s0108"
+        "pPm3vHUQCpo:s0108",
+        "pPm3vHUQCpo:s0109"
       ],
       "start_s": 520.226,
-      "end_s": 530.595,
-      "text": "Their survival depended on reading the environment continuously, anticipating weather before it arrived, and making decisions based on observations that most modern people wouldn't even notice.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 536.4,
+      "text": "Their survival depended on reading the environment continuously, anticipating weather before it arrived, and making decisions based on observations that most modern people wouldn't even notice. The smell of rain before it comes, petrichor, is a real olfactory signal.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.35008479138627185
     },
     {
-      "window_id": "pPm3vHUQCpo:j0053",
+      "window_id": "pPm3vHUQCpo:j0044",
       "video_id": "pPm3vHUQCpo",
-      "idx": 53,
+      "idx": 44,
       "sent_ids": [
-        "pPm3vHUQCpo:s0109",
         "pPm3vHUQCpo:s0110",
         "pPm3vHUQCpo:s0111",
-        "pPm3vHUQCpo:s0112"
+        "pPm3vHUQCpo:s0112",
+        "pPm3vHUQCpo:s0113"
       ],
-      "start_s": 531.096,
-      "end_s": 544.367,
-      "text": "The smell of rain before it comes, petrichor, is a real olfactory signal. So is the behavior of animals, which change hours before a storm. Birds fly lower. Insects swarm.",
-      "n_words": 30,
+      "start_s": 537.241,
+      "end_s": 547.05,
+      "text": "So is the behavior of animals, which change hours before a storm. Birds fly lower. Insects swarm. Certain animals move toward higher ground.",
+      "n_words": 23,
       "n_sentences": 4,
-      "pos_pct": 0.35739973082099596
+      "pos_pct": 0.3615349932705249
     },
     {
-      "window_id": "pPm3vHUQCpo:j0054",
+      "window_id": "pPm3vHUQCpo:j0045",
       "video_id": "pPm3vHUQCpo",
-      "idx": 54,
+      "idx": 45,
       "sent_ids": [
-        "pPm3vHUQCpo:s0113",
-        "pPm3vHUQCpo:s0114"
-      ],
-      "start_s": 544.968,
-      "end_s": 556.878,
-      "text": "Certain animals move toward higher ground. The color and texture of clouds, the direction of wind shifts, the behavior of water surfaces, all of these carry real meteorological information.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.36673485868102285
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0055",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 55,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0114",
         "pPm3vHUQCpo:s0115"
       ],
-      "start_s": 557.439,
+      "start_s": 547.65,
       "end_s": 564.765,
-      "text": "Ancient humans read these signals the way you read road signs, automatically, fluently, because their lives depended on it.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.3751271870794078
+      "text": "The color and texture of clouds, the direction of wind shifts, the behavior of water surfaces, all of these carry real meteorological information. Ancient humans read these signals the way you read road signs, automatically, fluently, because their lives depended on it.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.36853970390309554
     },
     {
-      "window_id": "pPm3vHUQCpo:j0056",
+      "window_id": "pPm3vHUQCpo:j0046",
       "video_id": "pPm3vHUQCpo",
-      "idx": 56,
+      "idx": 46,
       "sent_ids": [
-        "pPm3vHUQCpo:s0116"
+        "pPm3vHUQCpo:s0116",
+        "pPm3vHUQCpo:s0117"
       ],
       "start_s": 565.666,
-      "end_s": 572.41,
-      "text": "Group decisions about shelter and movement were likely made hours before rain arrived, based on this accumulated environmental literacy.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 581.375,
+      "text": "Group decisions about shelter and movement were likely made hours before rain arrived, based on this accumulated environmental literacy. You don't get caught in a downpour when you've been reading the sky all day, and you have three hours of daylight to find high ground and build a rain cover before the storm hits.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.3806635262449529
     },
     {
-      "window_id": "pPm3vHUQCpo:j0057",
+      "window_id": "pPm3vHUQCpo:j0047",
       "video_id": "pPm3vHUQCpo",
-      "idx": 57,
+      "idx": 47,
       "sent_ids": [
-        "pPm3vHUQCpo:s0117"
-      ],
-      "start_s": 573.13,
-      "end_s": 581.375,
-      "text": "You don't get caught in a downpour when you've been reading the sky all day, and you have three hours of daylight to find high ground and build a rain cover before the storm hits.",
-      "n_words": 35,
-      "n_sentences": 1,
-      "pos_pct": 0.3856864064602961
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0058",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 58,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0118"
+        "pPm3vHUQCpo:s0118",
+        "pPm3vHUQCpo:s0119"
       ],
       "start_s": 582.035,
-      "end_s": 596.886,
-      "text": "This skill is so deeply embedded in the cognitive profile of traditional peoples that researchers studying indigenous communities today consistently find levels of environmental awareness that seem almost supernatural to observers from industrialized societies.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 606.53,
+      "text": "This skill is so deeply embedded in the cognitive profile of traditional peoples that researchers studying indigenous communities today consistently find levels of environmental awareness that seem almost supernatural to observers from industrialized societies. A sandbushman can read animal tracks and weather signs simultaneously and predict, with reasonable accuracy, what the next several hours will bring.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.391679004037685
     },
     {
-      "window_id": "pPm3vHUQCpo:j0059",
+      "window_id": "pPm3vHUQCpo:j0048",
       "video_id": "pPm3vHUQCpo",
-      "idx": 59,
+      "idx": 48,
       "sent_ids": [
-        "pPm3vHUQCpo:s0119",
         "pPm3vHUQCpo:s0120",
-        "pPm3vHUQCpo:s0121"
-      ],
-      "start_s": 597.887,
-      "end_s": 609.392,
-      "text": "A sandbushman can read animal tracks and weather signs simultaneously and predict, with reasonable accuracy, what the next several hours will bring. This isn't magic. It's expertise.",
-      "n_words": 27,
-      "n_sentences": 3,
-      "pos_pct": 0.40234656796769847
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0060",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 60,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0121",
         "pPm3vHUQCpo:s0122",
-        "pPm3vHUQCpo:s0123",
-        "pPm3vHUQCpo:s0124",
-        "pPm3vHUQCpo:s0125"
+        "pPm3vHUQCpo:s0123"
       ],
-      "start_s": 610.112,
-      "end_s": 622.096,
-      "text": "Specifically, it's the kind of expertise that emerges when weather awareness is the difference between life and death. Practiced daily. Refined over generations. Transmitted through teaching and observation.",
-      "n_words": 28,
+      "start_s": 607.011,
+      "end_s": 617.315,
+      "text": "This isn't magic. It's expertise. Specifically, it's the kind of expertise that emerges when weather awareness is the difference between life and death. Practiced daily.",
+      "n_words": 25,
       "n_sentences": 4,
-      "pos_pct": 0.41057335127860023
+      "pos_pct": 0.4084865410497981
     },
     {
-      "window_id": "pPm3vHUQCpo:j0061",
+      "window_id": "pPm3vHUQCpo:j0049",
       "video_id": "pPm3vHUQCpo",
-      "idx": 61,
+      "idx": 49,
       "sent_ids": [
+        "pPm3vHUQCpo:s0124",
+        "pPm3vHUQCpo:s0125",
         "pPm3vHUQCpo:s0126",
-        "pPm3vHUQCpo:s0127",
-        "pPm3vHUQCpo:s0128"
+        "pPm3vHUQCpo:s0127"
       ],
-      "start_s": 622.657,
-      "end_s": 629.302,
-      "text": "We had this. We traded it for a weather app. The app is convenient, but something was lost.",
+      "start_s": 617.995,
+      "end_s": 625.598,
+      "text": "Refined over generations. Transmitted through teaching and observation. We had this. We traded it for a weather app.",
       "n_words": 18,
-      "n_sentences": 3,
-      "pos_pct": 0.4190154777927322
+      "n_sentences": 4,
+      "pos_pct": 0.4158781965006729
     },
     {
-      "window_id": "pPm3vHUQCpo:j0062",
+      "window_id": "pPm3vHUQCpo:j0050",
       "video_id": "pPm3vHUQCpo",
-      "idx": 62,
+      "idx": 50,
       "sent_ids": [
+        "pPm3vHUQCpo:s0128",
         "pPm3vHUQCpo:s0129"
       ],
-      "start_s": 630.142,
+      "start_s": 626.278,
       "end_s": 643.437,
-      "text": "Now here's something that almost nobody talks about when discussing ancient rain survival, the specific geography of where ancient humans chose to make camp, and how much of their survival came down to reading terrain rather than just reading sky.",
-      "n_words": 40,
-      "n_sentences": 1,
-      "pos_pct": 0.42405248990578737
+      "text": "The app is convenient, but something was lost. Now here's something that almost nobody talks about when discussing ancient rain survival, the specific geography of where ancient humans chose to make camp, and how much of their survival came down to reading terrain rather than just reading sky.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.42145222072678334
     },
     {
-      "window_id": "pPm3vHUQCpo:j0063",
+      "window_id": "pPm3vHUQCpo:j0051",
       "video_id": "pPm3vHUQCpo",
-      "idx": 63,
+      "idx": 51,
       "sent_ids": [
         "pPm3vHUQCpo:s0130",
         "pPm3vHUQCpo:s0131",
@@ -968,9 +812,9 @@
       "pos_pct": 0.4334576043068641
     },
     {
-      "window_id": "pPm3vHUQCpo:j0064",
+      "window_id": "pPm3vHUQCpo:j0052",
       "video_id": "pPm3vHUQCpo",
-      "idx": 64,
+      "idx": 52,
       "sent_ids": [
         "pPm3vHUQCpo:s0133"
       ],
@@ -982,96 +826,70 @@
       "pos_pct": 0.438578734858681
     },
     {
-      "window_id": "pPm3vHUQCpo:j0065",
+      "window_id": "pPm3vHUQCpo:j0053",
       "video_id": "pPm3vHUQCpo",
-      "idx": 65,
+      "idx": 53,
       "sent_ids": [
-        "pPm3vHUQCpo:s0134"
+        "pPm3vHUQCpo:s0134",
+        "pPm3vHUQCpo:s0135"
       ],
       "start_s": 661.86,
-      "end_s": 671.864,
-      "text": "Ancient humans understood this the same way a modern plumber understands that water runs downhill, through continuous, practical observation with immediate consequences for getting it wrong.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 677.206,
+      "text": "Ancient humans understood this the same way a modern plumber understands that water runs downhill, through continuous, practical observation with immediate consequences for getting it wrong. South-facing slopes in the northern hemisphere receive more sunlight and dry faster after rain.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.4453970390309556
     },
     {
-      "window_id": "pPm3vHUQCpo:j0066",
+      "window_id": "pPm3vHUQCpo:j0054",
       "video_id": "pPm3vHUQCpo",
-      "idx": 66,
+      "idx": 54,
       "sent_ids": [
-        "pPm3vHUQCpo:s0135",
-        "pPm3vHUQCpo:s0136"
-      ],
-      "start_s": 672.424,
-      "end_s": 682.208,
-      "text": "South-facing slopes in the northern hemisphere receive more sunlight and dry faster after rain. Tree canopy density determines how much rain actually reaches the ground beneath it.",
-      "n_words": 27,
-      "n_sentences": 2,
-      "pos_pct": 0.45250605652759085
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0067",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 67,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0136",
         "pPm3vHUQCpo:s0137",
-        "pPm3vHUQCpo:s0138",
-        "pPm3vHUQCpo:s0139"
+        "pPm3vHUQCpo:s0138"
       ],
-      "start_s": 682.748,
-      "end_s": 693.352,
-      "text": "Dense broadleaf canopy can intercept a significant percentage of light-to-moderate rainfall entirely. Ancient humans camped under it deliberately. Dense conifer stands do the same.",
-      "n_words": 24,
+      "start_s": 677.966,
+      "end_s": 691.111,
+      "text": "Tree canopy density determines how much rain actually reaches the ground beneath it. Dense broadleaf canopy can intercept a significant percentage of light-to-moderate rainfall entirely. Ancient humans camped under it deliberately.",
+      "n_words": 31,
       "n_sentences": 3,
-      "pos_pct": 0.45945356662180353
+      "pos_pct": 0.456235531628533
     },
     {
-      "window_id": "pPm3vHUQCpo:j0068",
+      "window_id": "pPm3vHUQCpo:j0055",
       "video_id": "pPm3vHUQCpo",
-      "idx": 68,
+      "idx": 55,
       "sent_ids": [
+        "pPm3vHUQCpo:s0139",
         "pPm3vHUQCpo:s0140"
       ],
-      "start_s": 693.872,
+      "start_s": 691.631,
       "end_s": 707.078,
-      "text": "Certain rock formations create natural overhangs that have been used as shelters across every inhabited continent, not because ancient humans couldn't build, but because a natural overhang is a head start on waterproofing that saves hours of construction time.",
-      "n_words": 39,
-      "n_sentences": 1,
-      "pos_pct": 0.4669394347240915
+      "text": "Dense conifer stands do the same. Certain rock formations create natural overhangs that have been used as shelters across every inhabited continent, not because ancient humans couldn't build, but because a natural overhang is a head start on waterproofing that saves hours of construction time.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.4654313593539704
     },
     {
-      "window_id": "pPm3vHUQCpo:j0069",
+      "window_id": "pPm3vHUQCpo:j0056",
       "video_id": "pPm3vHUQCpo",
-      "idx": 69,
+      "idx": 56,
       "sent_ids": [
-        "pPm3vHUQCpo:s0141"
+        "pPm3vHUQCpo:s0141",
+        "pPm3vHUQCpo:s0142"
       ],
       "start_s": 707.418,
-      "end_s": 716.402,
-      "text": "The knowledge of which specific locations in a given landscape offered the best natural shelter from rain was accumulated over years of use and passed through generations.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 724.464,
+      "text": "The knowledge of which specific locations in a given landscape offered the best natural shelter from rain was accumulated over years of use and passed through generations. Groups returned to the same good sheltering spots seasonally, the same way they returned to the same hunting grounds and foraging areas.",
+      "n_words": 49,
+      "n_sentences": 2,
       "pos_pct": 0.4760551816958277
     },
     {
-      "window_id": "pPm3vHUQCpo:j0070",
+      "window_id": "pPm3vHUQCpo:j0057",
       "video_id": "pPm3vHUQCpo",
-      "idx": 70,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0142"
-      ],
-      "start_s": 717.362,
-      "end_s": 724.464,
-      "text": "Groups returned to the same good sheltering spots seasonally, the same way they returned to the same hunting grounds and foraging areas.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.48274697173620457
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0071",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 71,
+      "idx": 57,
       "sent_ids": [
         "pPm3vHUQCpo:s0143",
         "pPm3vHUQCpo:s0144",
@@ -1085,9 +903,9 @@
       "pos_pct": 0.4881722745625841
     },
     {
-      "window_id": "pPm3vHUQCpo:j0072",
+      "window_id": "pPm3vHUQCpo:j0058",
       "video_id": "pPm3vHUQCpo",
-      "idx": 72,
+      "idx": 58,
       "sent_ids": [
         "pPm3vHUQCpo:s0146",
         "pPm3vHUQCpo:s0147",
@@ -1102,9 +920,9 @@
       "pos_pct": 0.49765006729475103
     },
     {
-      "window_id": "pPm3vHUQCpo:j0073",
+      "window_id": "pPm3vHUQCpo:j0059",
       "video_id": "pPm3vHUQCpo",
-      "idx": 73,
+      "idx": 59,
       "sent_ids": [
         "pPm3vHUQCpo:s0150"
       ],
@@ -1116,9 +934,9 @@
       "pos_pct": 0.5037106325706595
     },
     {
-      "window_id": "pPm3vHUQCpo:j0074",
+      "window_id": "pPm3vHUQCpo:j0060",
       "video_id": "pPm3vHUQCpo",
-      "idx": 74,
+      "idx": 60,
       "sent_ids": [
         "pPm3vHUQCpo:s0151",
         "pPm3vHUQCpo:s0152",
@@ -1132,126 +950,100 @@
       "pos_pct": 0.5121958277254375
     },
     {
-      "window_id": "pPm3vHUQCpo:j0075",
+      "window_id": "pPm3vHUQCpo:j0061",
       "video_id": "pPm3vHUQCpo",
-      "idx": 75,
+      "idx": 61,
       "sent_ids": [
-        "pPm3vHUQCpo:s0154"
+        "pPm3vHUQCpo:s0154",
+        "pPm3vHUQCpo:s0155"
       ],
       "start_s": 774.933,
-      "end_s": 783.659,
-      "text": "This is largely an autonomic response and it's responsible for a significant number of cold water drowning deaths, including in people who are strong swimmers in warm water.",
-      "n_words": 28,
-      "n_sentences": 1,
+      "end_s": 787.28,
+      "text": "This is largely an autonomic response and it's responsible for a significant number of cold water drowning deaths, including in people who are strong swimmers in warm water. The cold shock response is partly a learned sensitivity.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.5214892328398385
     },
     {
-      "window_id": "pPm3vHUQCpo:j0076",
+      "window_id": "pPm3vHUQCpo:j0062",
       "video_id": "pPm3vHUQCpo",
-      "idx": 76,
+      "idx": 62,
       "sent_ids": [
-        "pPm3vHUQCpo:s0155",
         "pPm3vHUQCpo:s0156",
         "pPm3vHUQCpo:s0157"
       ],
-      "start_s": 784.059,
+      "start_s": 787.84,
       "end_s": 797.884,
-      "text": "The cold shock response is partly a learned sensitivity. People who are regularly exposed to cold water, cold showers, cold swimming, cold weather, show reduced cold shock responses over time. Their bodies adapt.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.5276305518169583
+      "text": "People who are regularly exposed to cold water, cold showers, cold swimming, cold weather, show reduced cold shock responses over time. Their bodies adapt.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.5301749663526245
     },
     {
-      "window_id": "pPm3vHUQCpo:j0077",
+      "window_id": "pPm3vHUQCpo:j0063",
       "video_id": "pPm3vHUQCpo",
-      "idx": 77,
+      "idx": 63,
       "sent_ids": [
-        "pPm3vHUQCpo:s0158"
+        "pPm3vHUQCpo:s0158",
+        "pPm3vHUQCpo:s0159"
       ],
       "start_s": 798.684,
-      "end_s": 808.868,
-      "text": "Ancient humans were cold regularly, wet regularly, exposed to temperature variation daily in a way that no modern human in a climate-controlled environment can approximate.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 817.293,
+      "text": "Ancient humans were cold regularly, wet regularly, exposed to temperature variation daily in a way that no modern human in a climate-controlled environment can approximate. Their baseline physiological response to cold and wet was calibrated by continuous exposure in a way that ours simply isn't.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.5374724091520862
     },
     {
-      "window_id": "pPm3vHUQCpo:j0078",
+      "window_id": "pPm3vHUQCpo:j0064",
       "video_id": "pPm3vHUQCpo",
-      "idx": 78,
+      "idx": 64,
       "sent_ids": [
-        "pPm3vHUQCpo:s0159",
-        "pPm3vHUQCpo:s0160"
+        "pPm3vHUQCpo:s0160",
+        "pPm3vHUQCpo:s0161"
       ],
-      "start_s": 809.568,
-      "end_s": 820.474,
-      "text": "Their baseline physiological response to cold and wet was calibrated by continuous exposure in a way that ours simply isn't. They weren't tougher because they were different humans.",
-      "n_words": 28,
+      "start_s": 817.873,
+      "end_s": 827.599,
+      "text": "They weren't tougher because they were different humans. They were tougher because they were trained humans, trained by an environment that didn't offer the option of turning up the thermostat.",
+      "n_words": 30,
       "n_sentences": 2,
-      "pos_pct": 0.5447967698519516
+      "pos_pct": 0.550385598923284
     },
     {
-      "window_id": "pPm3vHUQCpo:j0079",
+      "window_id": "pPm3vHUQCpo:j0065",
       "video_id": "pPm3vHUQCpo",
-      "idx": 79,
+      "idx": 65,
       "sent_ids": [
-        "pPm3vHUQCpo:s0161",
-        "pPm3vHUQCpo:s0162"
-      ],
-      "start_s": 820.675,
-      "end_s": 832.12,
-      "text": "They were tougher because they were trained humans, trained by an environment that didn't offer the option of turning up the thermostat. There's also the question of fat distribution and metabolic adaptation.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.552271197846568
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0080",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 80,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0162",
         "pPm3vHUQCpo:s0163",
         "pPm3vHUQCpo:s0164"
       ],
-      "start_s": 832.6,
+      "start_s": 828.459,
       "end_s": 845.045,
-      "text": "Hunter-gatherer populations in cold, wet climates show metabolic profiles that differ from sedentary populations in climate-controlled environments. Higher resting metabolic rates in cold conditions.",
-      "n_words": 24,
-      "n_sentences": 2,
-      "pos_pct": 0.5602960969044415
+      "text": "There's also the question of fat distribution and metabolic adaptation. Hunter-gatherer populations in cold, wet climates show metabolic profiles that differ from sedentary populations in climate-controlled environments. Higher resting metabolic rates in cold conditions.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.5575094212651412
     },
     {
-      "window_id": "pPm3vHUQCpo:j0081",
+      "window_id": "pPm3vHUQCpo:j0066",
       "video_id": "pPm3vHUQCpo",
-      "idx": 81,
+      "idx": 66,
       "sent_ids": [
-        "pPm3vHUQCpo:s0165"
+        "pPm3vHUQCpo:s0165",
+        "pPm3vHUQCpo:s0166"
       ],
       "start_s": 845.903,
-      "end_s": 854.286,
-      "text": "more efficient heat generation from brown adipose tissue, a type of fat that generates heat directly rather than storing energy.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 865.23,
+      "text": "more efficient heat generation from brown adipose tissue, a type of fat that generates heat directly rather than storing energy. These adaptations are partly genetic, built up over generations of selection in cold climates, but they're also partly physiological, maintained by regular cold exposure.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.5692483176312247
     },
     {
-      "window_id": "pPm3vHUQCpo:j0082",
+      "window_id": "pPm3vHUQCpo:j0067",
       "video_id": "pPm3vHUQCpo",
-      "idx": 82,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0166"
-      ],
-      "start_s": 855.206,
-      "end_s": 865.23,
-      "text": "These adaptations are partly genetic, built up over generations of selection in cold climates, but they're also partly physiological, maintained by regular cold exposure.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.5755087483176312
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0083",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 83,
+      "idx": 67,
       "sent_ids": [
         "pPm3vHUQCpo:s0167"
       ],
@@ -1263,9 +1055,9 @@
       "pos_pct": 0.5827658142664872
     },
     {
-      "window_id": "pPm3vHUQCpo:j0084",
+      "window_id": "pPm3vHUQCpo:j0068",
       "video_id": "pPm3vHUQCpo",
-      "idx": 84,
+      "idx": 68,
       "sent_ids": [
         "pPm3vHUQCpo:s0168"
       ],
@@ -1277,9 +1069,9 @@
       "pos_pct": 0.5894327052489906
     },
     {
-      "window_id": "pPm3vHUQCpo:j0085",
+      "window_id": "pPm3vHUQCpo:j0069",
       "video_id": "pPm3vHUQCpo",
-      "idx": 85,
+      "idx": 69,
       "sent_ids": [
         "pPm3vHUQCpo:s0169",
         "pPm3vHUQCpo:s0170",
@@ -1293,9 +1085,9 @@
       "pos_pct": 0.5988331090174966
     },
     {
-      "window_id": "pPm3vHUQCpo:j0086",
+      "window_id": "pPm3vHUQCpo:j0070",
       "video_id": "pPm3vHUQCpo",
-      "idx": 86,
+      "idx": 70,
       "sent_ids": [
         "pPm3vHUQCpo:s0172",
         "pPm3vHUQCpo:s0173"
@@ -1308,9 +1100,9 @@
       "pos_pct": 0.6047012113055181
     },
     {
-      "window_id": "pPm3vHUQCpo:j0087",
+      "window_id": "pPm3vHUQCpo:j0071",
       "video_id": "pPm3vHUQCpo",
-      "idx": 87,
+      "idx": 71,
       "sent_ids": [
         "pPm3vHUQCpo:s0174",
         "pPm3vHUQCpo:s0175"
@@ -1323,102 +1115,102 @@
       "pos_pct": 0.6129744279946164
     },
     {
-      "window_id": "pPm3vHUQCpo:j0088",
+      "window_id": "pPm3vHUQCpo:j0072",
       "video_id": "pPm3vHUQCpo",
-      "idx": 88,
+      "idx": 72,
       "sent_ids": [
-        "pPm3vHUQCpo:s0176"
+        "pPm3vHUQCpo:s0176",
+        "pPm3vHUQCpo:s0177"
       ],
       "start_s": 914.063,
-      "end_s": 923.11,
-      "text": "By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 929.835,
+      "text": "By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans. Ten modules, three plus hours of content covering everything we never talk about on YouTube.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.6151164199192463
     },
     {
-      "window_id": "pPm3vHUQCpo:j0089",
+      "window_id": "pPm3vHUQCpo:j0073",
       "video_id": "pPm3vHUQCpo",
-      "idx": 89,
+      "idx": 73,
       "sent_ids": [
-        "pPm3vHUQCpo:s0177",
         "pPm3vHUQCpo:s0178",
-        "pPm3vHUQCpo:s0179"
+        "pPm3vHUQCpo:s0179",
+        "pPm3vHUQCpo:s0180",
+        "pPm3vHUQCpo:s0181"
       ],
-      "start_s": 923.79,
-      "end_s": 937.562,
-      "text": "Ten modules, three plus hours of content covering everything we never talk about on YouTube. What they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.6216621803499327
+      "start_s": 930.335,
+      "end_s": 940.385,
+      "text": "What they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included. Link in the description. See you inside.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.6260666218034994
     },
     {
-      "window_id": "pPm3vHUQCpo:j0090",
+      "window_id": "pPm3vHUQCpo:j0074",
       "video_id": "pPm3vHUQCpo",
-      "idx": 90,
+      "idx": 74,
       "sent_ids": [
-        "pPm3vHUQCpo:s0180",
-        "pPm3vHUQCpo:s0181",
         "pPm3vHUQCpo:s0182",
         "pPm3vHUQCpo:s0183"
       ],
-      "start_s": 938.123,
+      "start_s": 940.865,
       "end_s": 950.434,
-      "text": "Link in the description. See you inside. Now let's talk about the social dimension, because this is where ancient human reign survival gets genuinely interesting and almost never discussed. Surviving rain alone is hard.",
-      "n_words": 34,
-      "n_sentences": 4,
-      "pos_pct": 0.6313075370121131
+      "text": "Now let's talk about the social dimension, because this is where ancient human reign survival gets genuinely interesting and almost never discussed. Surviving rain alone is hard.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.6331527590847914
     },
     {
-      "window_id": "pPm3vHUQCpo:j0091",
+      "window_id": "pPm3vHUQCpo:j0075",
       "video_id": "pPm3vHUQCpo",
-      "idx": 91,
+      "idx": 75,
       "sent_ids": [
-        "pPm3vHUQCpo:s0184"
+        "pPm3vHUQCpo:s0184",
+        "pPm3vHUQCpo:s0185"
       ],
       "start_s": 950.794,
-      "end_s": 961.239,
-      "text": "Surviving rain as a group is much more manageable, and the social structures of ancient human groups were built in part around the collective management of environmental threats, including weather.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 964.56,
+      "text": "Surviving rain as a group is much more manageable, and the social structures of ancient human groups were built in part around the collective management of environmental threats, including weather. Shared body heat is a real survival mechanism.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.6398344549125168
     },
     {
-      "window_id": "pPm3vHUQCpo:j0092",
+      "window_id": "pPm3vHUQCpo:j0076",
       "video_id": "pPm3vHUQCpo",
-      "idx": 92,
+      "idx": 76,
       "sent_ids": [
-        "pPm3vHUQCpo:s0185",
-        "pPm3vHUQCpo:s0186"
+        "pPm3vHUQCpo:s0186",
+        "pPm3vHUQCpo:s0187"
       ],
-      "start_s": 961.899,
-      "end_s": 971.343,
-      "text": "Shared body heat is a real survival mechanism. A group of humans huddled together under a rain cover generates and retains heat collectively in a way that individuals cannot.",
-      "n_words": 29,
+      "start_s": 965.1,
+      "end_s": 974.945,
+      "text": "A group of humans huddled together under a rain cover generates and retains heat collectively in a way that individuals cannot. The person on the outside is colder than the person in the middle.",
+      "n_words": 34,
       "n_sentences": 2,
-      "pos_pct": 0.6473075370121131
+      "pos_pct": 0.6494616419919247
     },
     {
-      "window_id": "pPm3vHUQCpo:j0093",
+      "window_id": "pPm3vHUQCpo:j0077",
       "video_id": "pPm3vHUQCpo",
-      "idx": 93,
+      "idx": 77,
       "sent_ids": [
-        "pPm3vHUQCpo:s0187",
         "pPm3vHUQCpo:s0188",
         "pPm3vHUQCpo:s0189",
         "pPm3vHUQCpo:s0190"
       ],
-      "start_s": 972.063,
+      "start_s": 975.825,
       "end_s": 985.174,
-      "text": "The person on the outside is colder than the person in the middle. Ancient humans knew this. Sleeping arrangements in cold, wet conditions were communal, dense, and pragmatic. Privacy is a warm-weather luxury.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.6541473755047106
+      "text": "Ancient humans knew this. Sleeping arrangements in cold, wet conditions were communal, dense, and pragmatic. Privacy is a warm-weather luxury.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.6566790040376851
     },
     {
-      "window_id": "pPm3vHUQCpo:j0094",
+      "window_id": "pPm3vHUQCpo:j0078",
       "video_id": "pPm3vHUQCpo",
-      "idx": 94,
+      "idx": 78,
       "sent_ids": [
         "pPm3vHUQCpo:s0191",
         "pPm3vHUQCpo:s0192"
@@ -1431,9 +1223,9 @@
       "pos_pct": 0.6632267833109017
     },
     {
-      "window_id": "pPm3vHUQCpo:j0095",
+      "window_id": "pPm3vHUQCpo:j0079",
       "video_id": "pPm3vHUQCpo",
-      "idx": 95,
+      "idx": 79,
       "sent_ids": [
         "pPm3vHUQCpo:s0193",
         "pPm3vHUQCpo:s0194"
@@ -1446,9 +1238,9 @@
       "pos_pct": 0.6703129205921938
     },
     {
-      "window_id": "pPm3vHUQCpo:j0096",
+      "window_id": "pPm3vHUQCpo:j0080",
       "video_id": "pPm3vHUQCpo",
-      "idx": 96,
+      "idx": 80,
       "sent_ids": [
         "pPm3vHUQCpo:s0195",
         "pPm3vHUQCpo:s0196",
@@ -1462,54 +1254,41 @@
       "pos_pct": 0.6778795423956931
     },
     {
-      "window_id": "pPm3vHUQCpo:j0097",
+      "window_id": "pPm3vHUQCpo:j0081",
       "video_id": "pPm3vHUQCpo",
-      "idx": 97,
+      "idx": 81,
       "sent_ids": [
-        "pPm3vHUQCpo:s0198"
+        "pPm3vHUQCpo:s0198",
+        "pPm3vHUQCpo:s0199"
       ],
       "start_s": 1021.477,
-      "end_s": 1027.402,
-      "text": "This is why the image of the lone ancient human surviving against the elements is mostly a modern fiction.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 1036.83,
+      "text": "This is why the image of the lone ancient human surviving against the elements is mostly a modern fiction. Solitary survival in genuinely hostile weather conditions without modern technology is survivable for short periods by trained individuals.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.6874004037685061
     },
     {
-      "window_id": "pPm3vHUQCpo:j0098",
+      "window_id": "pPm3vHUQCpo:j0082",
       "video_id": "pPm3vHUQCpo",
-      "idx": 98,
+      "idx": 82,
       "sent_ids": [
-        "pPm3vHUQCpo:s0199",
-        "pPm3vHUQCpo:s0200"
-      ],
-      "start_s": 1028.122,
-      "end_s": 1042.614,
-      "text": "Solitary survival in genuinely hostile weather conditions without modern technology is survivable for short periods by trained individuals. Over weeks and months, through a real rainy season, humans survive as groups.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.6918721399730822
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0099",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 99,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0200",
         "pPm3vHUQCpo:s0201",
         "pPm3vHUQCpo:s0202",
         "pPm3vHUQCpo:s0203"
       ],
-      "start_s": 1043.515,
+      "start_s": 1037.75,
       "end_s": 1052.142,
-      "text": "The social bond was not a luxury feature of ancient human life. It was survival infrastructure. There's also the knowledge transmission angle.",
-      "n_words": 22,
-      "n_sentences": 3,
-      "pos_pct": 0.7022308209959623
+      "text": "Over weeks and months, through a real rainy season, humans survive as groups. The social bond was not a luxury feature of ancient human life. It was survival infrastructure. There's also the knowledge transmission angle.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.6983512786002691
     },
     {
-      "window_id": "pPm3vHUQCpo:j0100",
+      "window_id": "pPm3vHUQCpo:j0083",
       "video_id": "pPm3vHUQCpo",
-      "idx": 100,
+      "idx": 83,
       "sent_ids": [
         "pPm3vHUQCpo:s0204",
         "pPm3vHUQCpo:s0205"
@@ -1522,53 +1301,40 @@
       "pos_pct": 0.7083593539703904
     },
     {
-      "window_id": "pPm3vHUQCpo:j0101",
+      "window_id": "pPm3vHUQCpo:j0084",
       "video_id": "pPm3vHUQCpo",
-      "idx": 101,
+      "idx": 84,
       "sent_ids": [
-        "pPm3vHUQCpo:s0206"
+        "pPm3vHUQCpo:s0206",
+        "pPm3vHUQCpo:s0207"
       ],
       "start_s": 1067.452,
-      "end_s": 1074.938,
-      "text": "It was taught, passed from older individuals to younger ones through direct instruction, observation, and practice.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 1081.323,
+      "text": "It was taught, passed from older individuals to younger ones through direct instruction, observation, and practice. The accumulated knowledge of a group about how to survive its specific environment was one of its most valuable assets.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.7183391655450875
     },
     {
-      "window_id": "pPm3vHUQCpo:j0102",
+      "window_id": "pPm3vHUQCpo:j0085",
       "video_id": "pPm3vHUQCpo",
-      "idx": 102,
+      "idx": 85,
       "sent_ids": [
-        "pPm3vHUQCpo:s0207",
-        "pPm3vHUQCpo:s0208"
-      ],
-      "start_s": 1075.778,
-      "end_s": 1084.025,
-      "text": "The accumulated knowledge of a group about how to survive its specific environment was one of its most valuable assets. Possibly the most valuable.",
-      "n_words": 24,
-      "n_sentences": 2,
-      "pos_pct": 0.7239421265141319
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0103",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 103,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0208",
         "pPm3vHUQCpo:s0209",
         "pPm3vHUQCpo:s0210"
       ],
-      "start_s": 1084.825,
+      "start_s": 1082.203,
       "end_s": 1092.068,
-      "text": "When a group lost its elders to violence or illness, it didn't just lose people. It lost institutional knowledge that couldn't be quickly replaced.",
-      "n_words": 24,
-      "n_sentences": 2,
-      "pos_pct": 0.7300302826379542
+      "text": "Possibly the most valuable. When a group lost its elders to violence or illness, it didn't just lose people. It lost institutional knowledge that couldn't be quickly replaced.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.7282658142664872
     },
     {
-      "window_id": "pPm3vHUQCpo:j0104",
+      "window_id": "pPm3vHUQCpo:j0086",
       "video_id": "pPm3vHUQCpo",
-      "idx": 104,
+      "idx": 86,
       "sent_ids": [
         "pPm3vHUQCpo:s0211"
       ],
@@ -1580,9 +1346,9 @@
       "pos_pct": 0.7353485868102289
     },
     {
-      "window_id": "pPm3vHUQCpo:j0105",
+      "window_id": "pPm3vHUQCpo:j0087",
       "video_id": "pPm3vHUQCpo",
-      "idx": 105,
+      "idx": 87,
       "sent_ids": [
         "pPm3vHUQCpo:s0212",
         "pPm3vHUQCpo:s0213"
@@ -1595,83 +1361,70 @@
       "pos_pct": 0.7448808882907133
     },
     {
-      "window_id": "pPm3vHUQCpo:j0106",
+      "window_id": "pPm3vHUQCpo:j0088",
       "video_id": "pPm3vHUQCpo",
-      "idx": 106,
+      "idx": 88,
       "sent_ids": [
-        "pPm3vHUQCpo:s0214"
+        "pPm3vHUQCpo:s0214",
+        "pPm3vHUQCpo:s0215"
       ],
       "start_s": 1118.181,
-      "end_s": 1128.488,
-      "text": "Now let's address food, because rain doesn't pause hunger, and foraging in sustained wet weather creates a specific set of problems that ancient humans had to solve with whatever the landscape offered.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 1132.549,
+      "text": "Now let's address food, because rain doesn't pause hunger, and foraging in sustained wet weather creates a specific set of problems that ancient humans had to solve with whatever the landscape offered. Prolonged rain changes the availability of food dramatically.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.7524771197846568
     },
     {
-      "window_id": "pPm3vHUQCpo:j0107",
+      "window_id": "pPm3vHUQCpo:j0089",
       "video_id": "pPm3vHUQCpo",
-      "idx": 107,
+      "idx": 89,
       "sent_ids": [
-        "pPm3vHUQCpo:s0215",
-        "pPm3vHUQCpo:s0216"
+        "pPm3vHUQCpo:s0216",
+        "pPm3vHUQCpo:s0217"
       ],
-      "start_s": 1129.308,
-      "end_s": 1135.871,
-      "text": "Prolonged rain changes the availability of food dramatically. Animals shelter and become harder to track and hunt.",
-      "n_words": 17,
-      "n_sentences": 2,
-      "pos_pct": 0.7599650067294751
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0108",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 108,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0217",
-        "pPm3vHUQCpo:s0218"
-      ],
-      "start_s": 1136.711,
-      "end_s": 1150.337,
-      "text": "Plant foods that are normally reliable—seeds, dried berries, roots that can be dug up—become waterlogged, hidden under mud, or simply inaccessible for days at a stretch. Fires needed to cook food are harder to maintain.",
+      "start_s": 1133.17,
+      "end_s": 1147.396,
+      "text": "Animals shelter and become harder to track and hunt. Plant foods that are normally reliable—seeds, dried berries, roots that can be dug up—become waterlogged, hidden under mud, or simply inaccessible for days at a stretch.",
       "n_words": 35,
       "n_sentences": 2,
-      "pos_pct": 0.7649468371467025
+      "pos_pct": 0.762563930013459
     },
     {
-      "window_id": "pPm3vHUQCpo:j0109",
+      "window_id": "pPm3vHUQCpo:j0090",
       "video_id": "pPm3vHUQCpo",
-      "idx": 109,
+      "idx": 90,
       "sent_ids": [
-        "pPm3vHUQCpo:s0219",
-        "pPm3vHUQCpo:s0220"
+        "pPm3vHUQCpo:s0218",
+        "pPm3vHUQCpo:s0219"
       ],
-      "start_s": 1151.017,
-      "end_s": 1163.265,
-      "text": "The combination of reduced food availability and increased caloric demand from cold creates a nutritional squeeze that a group without preparation could not survive for long. Ancient humans managed this in several ways.",
-      "n_words": 33,
+      "start_s": 1148.056,
+      "end_s": 1160.363,
+      "text": "Fires needed to cook food are harder to maintain. The combination of reduced food availability and increased caloric demand from cold creates a nutritional squeeze that a group without preparation could not survive for long.",
+      "n_words": 35,
       "n_sentences": 2,
-      "pos_pct": 0.7745740242261104
+      "pos_pct": 0.7725814266487214
     },
     {
-      "window_id": "pPm3vHUQCpo:j0110",
+      "window_id": "pPm3vHUQCpo:j0091",
       "video_id": "pPm3vHUQCpo",
-      "idx": 110,
+      "idx": 91,
       "sent_ids": [
+        "pPm3vHUQCpo:s0220",
         "pPm3vHUQCpo:s0221",
         "pPm3vHUQCpo:s0222"
       ],
-      "start_s": 1163.945,
+      "start_s": 1161.224,
       "end_s": 1170.529,
-      "text": "First, through strategic food storage. Evidence of deliberate food storage appears deep in the prehistoric record.",
-      "n_words": 16,
-      "n_sentences": 2,
-      "pos_pct": 0.7832738896366083
+      "text": "Ancient humans managed this in several ways. First, through strategic food storage. Evidence of deliberate food storage appears deep in the prehistoric record.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.781442799461642
     },
     {
-      "window_id": "pPm3vHUQCpo:j0111",
+      "window_id": "pPm3vHUQCpo:j0092",
       "video_id": "pPm3vHUQCpo",
-      "idx": 111,
+      "idx": 92,
       "sent_ids": [
         "pPm3vHUQCpo:s0223",
         "pPm3vHUQCpo:s0224",
@@ -1685,118 +1438,105 @@
       "pos_pct": 0.7881090174966353
     },
     {
-      "window_id": "pPm3vHUQCpo:j0112",
+      "window_id": "pPm3vHUQCpo:j0093",
       "video_id": "pPm3vHUQCpo",
-      "idx": 112,
+      "idx": 93,
       "sent_ids": [
-        "pPm3vHUQCpo:s0226"
+        "pPm3vHUQCpo:s0226",
+        "pPm3vHUQCpo:s0227"
       ],
       "start_s": 1181.756,
-      "end_s": 1193.263,
-      "text": "It is the recognition that the season will change, that food available today may not be available tomorrow, and that the gap between those two conditions needs to be bridged by something other than hope.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 1200.927,
+      "text": "It is the recognition that the season will change, that food available today may not be available tomorrow, and that the gap between those two conditions needs to be bridged by something other than hope. Second, ancient humans in wet conditions shifted their food targets opportunistically toward what rain actually produced.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.7952597577388965
     },
     {
-      "window_id": "pPm3vHUQCpo:j0113",
+      "window_id": "pPm3vHUQCpo:j0094",
       "video_id": "pPm3vHUQCpo",
-      "idx": 113,
+      "idx": 94,
       "sent_ids": [
-        "pPm3vHUQCpo:s0227",
         "pPm3vHUQCpo:s0228",
-        "pPm3vHUQCpo:s0229"
-      ],
-      "start_s": 1194.103,
-      "end_s": 1208.372,
-      "text": "Second, ancient humans in wet conditions shifted their food targets opportunistically toward what rain actually produced. Earthworms surface in huge numbers after heavy rain. Freshwater fish move in predictable patterns during flooding.",
-      "n_words": 32,
-      "n_sentences": 3,
-      "pos_pct": 0.8035686406460296
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0114",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 114,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0229",
         "pPm3vHUQCpo:s0230",
-        "pPm3vHUQCpo:s0231",
-        "pPm3vHUQCpo:s0232",
-        "pPm3vHUQCpo:s0233"
+        "pPm3vHUQCpo:s0231"
       ],
-      "start_s": 1208.912,
-      "end_s": 1215.196,
-      "text": "Certain mushrooms and fungi fruit prolifically in wet conditions. Snails. Insects. Frogs.",
-      "n_words": 12,
+      "start_s": 1201.708,
+      "end_s": 1213.395,
+      "text": "Earthworms surface in huge numbers after heavy rain. Freshwater fish move in predictable patterns during flooding. Certain mushrooms and fungi fruit prolifically in wet conditions. Snails.",
+      "n_words": 26,
       "n_sentences": 4,
-      "pos_pct": 0.8135343203230149
+      "pos_pct": 0.8086864064602961
     },
     {
-      "window_id": "pPm3vHUQCpo:j0115",
+      "window_id": "pPm3vHUQCpo:j0095",
       "video_id": "pPm3vHUQCpo",
-      "idx": 115,
+      "idx": 95,
       "sent_ids": [
+        "pPm3vHUQCpo:s0232",
+        "pPm3vHUQCpo:s0233",
         "pPm3vHUQCpo:s0234",
-        "pPm3vHUQCpo:s0235",
-        "pPm3vHUQCpo:s0236"
+        "pPm3vHUQCpo:s0235"
       ],
-      "start_s": 1215.656,
-      "end_s": 1226.487,
-      "text": "All of these become more accessible in wet weather precisely because they're also responding to the moisture. Ancient humans who were paying attention. and they were always paying attention, ate accordingly.",
-      "n_words": 31,
-      "n_sentences": 3,
-      "pos_pct": 0.8180726783310901
+      "start_s": 1213.855,
+      "end_s": 1222.841,
+      "text": "Insects. Frogs. All of these become more accessible in wet weather precisely because they're also responding to the moisture. Ancient humans who were paying attention.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.8168606998654105
     },
     {
-      "window_id": "pPm3vHUQCpo:j0116",
+      "window_id": "pPm3vHUQCpo:j0096",
       "video_id": "pPm3vHUQCpo",
-      "idx": 116,
+      "idx": 96,
       "sent_ids": [
+        "pPm3vHUQCpo:s0236",
         "pPm3vHUQCpo:s0237",
         "pPm3vHUQCpo:s0238",
-        "pPm3vHUQCpo:s0239",
-        "pPm3vHUQCpo:s0240"
+        "pPm3vHUQCpo:s0239"
       ],
-      "start_s": 1227.108,
-      "end_s": 1239.532,
-      "text": "The menu changed with the weather. Flexibility was not a personality trait. It was a survival trait. Third, and most importantly, the group ate together and shared equitably during lean periods.",
-      "n_words": 31,
-      "n_sentences": 4,
-      "pos_pct": 0.8257792732166891
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0117",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 117,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0241",
-        "pPm3vHUQCpo:s0242"
-      ],
-      "start_s": 1240.293,
-      "end_s": 1249.299,
-      "text": "Hoarding food individually in a survival situation reduces the group's collective resilience. A well-fed individual in a group of starving people is not a survivor.",
+      "start_s": 1223.501,
+      "end_s": 1232.439,
+      "text": "and they were always paying attention, ate accordingly. The menu changed with the weather. Flexibility was not a personality trait. It was a survival trait.",
       "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.8346520861372813
+      "n_sentences": 4,
+      "pos_pct": 0.8233519515477793
     },
     {
-      "window_id": "pPm3vHUQCpo:j0118",
+      "window_id": "pPm3vHUQCpo:j0097",
       "video_id": "pPm3vHUQCpo",
-      "idx": 118,
+      "idx": 97,
       "sent_ids": [
+        "pPm3vHUQCpo:s0240",
+        "pPm3vHUQCpo:s0241"
+      ],
+      "start_s": 1233.228,
+      "end_s": 1244.856,
+      "text": "Third, and most importantly, the group ate together and shared equitably during lean periods. Hoarding food individually in a survival situation reduces the group's collective resilience.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.8298977119784657
+    },
+    {
+      "window_id": "pPm3vHUQCpo:j0098",
+      "video_id": "pPm3vHUQCpo",
+      "idx": 98,
+      "sent_ids": [
+        "pPm3vHUQCpo:s0242",
         "pPm3vHUQCpo:s0243"
       ],
-      "start_s": 1249.96,
+      "start_s": 1245.717,
       "end_s": 1252.822,
-      "text": "They're a casualty waiting for the rest of the group to fall apart.",
-      "n_words": 13,
-      "n_sentences": 1,
-      "pos_pct": 0.841157469717362
+      "text": "A well-fed individual in a group of starving people is not a survivor. They're a casualty waiting for the rest of the group to fall apart.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.8383021534320324
     },
     {
-      "window_id": "pPm3vHUQCpo:j0119",
+      "window_id": "pPm3vHUQCpo:j0099",
       "video_id": "pPm3vHUQCpo",
-      "idx": 119,
+      "idx": 99,
       "sent_ids": [
         "pPm3vHUQCpo:s0244",
         "pPm3vHUQCpo:s0245"
@@ -1809,37 +1549,24 @@
       "pos_pct": 0.8438290713324361
     },
     {
-      "window_id": "pPm3vHUQCpo:j0120",
+      "window_id": "pPm3vHUQCpo:j0100",
       "video_id": "pPm3vHUQCpo",
-      "idx": 120,
+      "idx": 100,
       "sent_ids": [
-        "pPm3vHUQCpo:s0246"
+        "pPm3vHUQCpo:s0246",
+        "pPm3vHUQCpo:s0247"
       ],
       "start_s": 1270.014,
-      "end_s": 1273.875,
-      "text": "It was prepared for, adapted to, and shared through.",
-      "n_words": 9,
-      "n_sentences": 1,
+      "end_s": 1283.637,
+      "text": "It was prepared for, adapted to, and shared through. Let's zoom out one final time and look at the big picture of where ancient humans actually chose to live, because it tells you something remarkable about their relationship with wet weather.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.8546527590847913
     },
     {
-      "window_id": "pPm3vHUQCpo:j0121",
+      "window_id": "pPm3vHUQCpo:j0101",
       "video_id": "pPm3vHUQCpo",
-      "idx": 121,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0247"
-      ],
-      "start_s": 1274.275,
-      "end_s": 1283.637,
-      "text": "Let's zoom out one final time and look at the big picture of where ancient humans actually chose to live, because it tells you something remarkable about their relationship with wet weather.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.8575201884253029
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0122",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 122,
+      "idx": 101,
       "sent_ids": [
         "pPm3vHUQCpo:s0248",
         "pPm3vHUQCpo:s0249",
@@ -1853,9 +1580,9 @@
       "pos_pct": 0.8642651413189771
     },
     {
-      "window_id": "pPm3vHUQCpo:j0123",
+      "window_id": "pPm3vHUQCpo:j0102",
       "video_id": "pPm3vHUQCpo",
-      "idx": 123,
+      "idx": 102,
       "sent_ids": [
         "pPm3vHUQCpo:s0251",
         "pPm3vHUQCpo:s0252",
@@ -1869,9 +1596,9 @@
       "pos_pct": 0.8714596231493944
     },
     {
-      "window_id": "pPm3vHUQCpo:j0124",
+      "window_id": "pPm3vHUQCpo:j0103",
       "video_id": "pPm3vHUQCpo",
-      "idx": 124,
+      "idx": 103,
       "sent_ids": [
         "pPm3vHUQCpo:s0254"
       ],
@@ -1883,9 +1610,9 @@
       "pos_pct": 0.8780080753701212
     },
     {
-      "window_id": "pPm3vHUQCpo:j0125",
+      "window_id": "pPm3vHUQCpo:j0104",
       "video_id": "pPm3vHUQCpo",
-      "idx": 125,
+      "idx": 104,
       "sent_ids": [
         "pPm3vHUQCpo:s0255",
         "pPm3vHUQCpo:s0256",
@@ -1899,9 +1626,9 @@
       "pos_pct": 0.8902537012113054
     },
     {
-      "window_id": "pPm3vHUQCpo:j0126",
+      "window_id": "pPm3vHUQCpo:j0105",
       "video_id": "pPm3vHUQCpo",
-      "idx": 126,
+      "idx": 105,
       "sent_ids": [
         "pPm3vHUQCpo:s0258",
         "pPm3vHUQCpo:s0259"
@@ -1914,37 +1641,24 @@
       "pos_pct": 0.896236204576043
     },
     {
-      "window_id": "pPm3vHUQCpo:j0127",
+      "window_id": "pPm3vHUQCpo:j0106",
       "video_id": "pPm3vHUQCpo",
-      "idx": 127,
+      "idx": 106,
       "sent_ids": [
-        "pPm3vHUQCpo:s0260"
+        "pPm3vHUQCpo:s0260",
+        "pPm3vHUQCpo:s0261"
       ],
       "start_s": 1340.836,
-      "end_s": 1343.858,
-      "text": "The same rains that made life difficult made the food supply rich.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 1356.486,
+      "text": "The same rains that made life difficult made the food supply rich. Ancient humans made a calculation, probably not consciously, but through the drift of populations toward resources, that the difficulty of surviving wet conditions was worth the abundance those conditions produced.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.9023122476446838
     },
     {
-      "window_id": "pPm3vHUQCpo:j0128",
+      "window_id": "pPm3vHUQCpo:j0107",
       "video_id": "pPm3vHUQCpo",
-      "idx": 128,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0261"
-      ],
-      "start_s": 1344.758,
-      "end_s": 1356.486,
-      "text": "Ancient humans made a calculation, probably not consciously, but through the drift of populations toward resources, that the difficulty of surviving wet conditions was worth the abundance those conditions produced.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.9049515477792732
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0129",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 129,
+      "idx": 107,
       "sent_ids": [
         "pPm3vHUQCpo:s0262",
         "pPm3vHUQCpo:s0263"
@@ -1957,9 +1671,9 @@
       "pos_pct": 0.913436069986541
     },
     {
-      "window_id": "pPm3vHUQCpo:j0130",
+      "window_id": "pPm3vHUQCpo:j0108",
       "video_id": "pPm3vHUQCpo",
-      "idx": 130,
+      "idx": 108,
       "sent_ids": [
         "pPm3vHUQCpo:s0264",
         "pPm3vHUQCpo:s0265"
@@ -1972,9 +1686,9 @@
       "pos_pct": 0.9202900403768506
     },
     {
-      "window_id": "pPm3vHUQCpo:j0131",
+      "window_id": "pPm3vHUQCpo:j0109",
       "video_id": "pPm3vHUQCpo",
-      "idx": 131,
+      "idx": 109,
       "sent_ids": [
         "pPm3vHUQCpo:s0266",
         "pPm3vHUQCpo:s0267",
@@ -1989,9 +1703,9 @@
       "pos_pct": 0.9282880215343202
     },
     {
-      "window_id": "pPm3vHUQCpo:j0132",
+      "window_id": "pPm3vHUQCpo:j0110",
       "video_id": "pPm3vHUQCpo",
-      "idx": 132,
+      "idx": 110,
       "sent_ids": [
         "pPm3vHUQCpo:s0270",
         "pPm3vHUQCpo:s0271",
@@ -2005,9 +1719,9 @@
       "pos_pct": 0.933699865410498
     },
     {
-      "window_id": "pPm3vHUQCpo:j0133",
+      "window_id": "pPm3vHUQCpo:j0111",
       "video_id": "pPm3vHUQCpo",
-      "idx": 133,
+      "idx": 111,
       "sent_ids": [
         "pPm3vHUQCpo:s0273",
         "pPm3vHUQCpo:s0274",
@@ -2022,52 +1736,39 @@
       "pos_pct": 0.9399602960969045
     },
     {
-      "window_id": "pPm3vHUQCpo:j0134",
+      "window_id": "pPm3vHUQCpo:j0112",
       "video_id": "pPm3vHUQCpo",
-      "idx": 134,
+      "idx": 112,
       "sent_ids": [
-        "pPm3vHUQCpo:s0277"
+        "pPm3vHUQCpo:s0277",
+        "pPm3vHUQCpo:s0278"
       ],
       "start_s": 1410.186,
-      "end_s": 1415.872,
-      "text": "They built a civilization of techniques, knowledge, and social structures specifically designed to manage it.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 1428.204,
+      "text": "They built a civilization of techniques, knowledge, and social structures specifically designed to manage it. And that civilization, that accumulated practical intelligence about how a wet world works, was more sophisticated, more finely calibrated to actual conditions than almost any modern person gives it credit for.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.9489811574697173
     },
     {
-      "window_id": "pPm3vHUQCpo:j0135",
+      "window_id": "pPm3vHUQCpo:j0113",
       "video_id": "pPm3vHUQCpo",
-      "idx": 135,
+      "idx": 113,
       "sent_ids": [
-        "pPm3vHUQCpo:s0278",
-        "pPm3vHUQCpo:s0279"
-      ],
-      "start_s": 1416.152,
-      "end_s": 1430.265,
-      "text": "And that civilization, that accumulated practical intelligence about how a wet world works, was more sophisticated, more finely calibrated to actual conditions than almost any modern person gives it credit for. We have Gore-Tex now.",
-      "n_words": 35,
-      "n_sentences": 2,
-      "pos_pct": 0.9529959623149394
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0136",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 136,
-      "sent_ids": [
+        "pPm3vHUQCpo:s0279",
         "pPm3vHUQCpo:s0280"
       ],
-      "start_s": 1430.885,
+      "start_s": 1428.985,
       "end_s": 1438.187,
-      "text": "We have insulated walls and central heating and weather radar and drainage systems that move rainwater away from our buildings before we even notice it arrived.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.9629104979811575
+      "text": "We have Gore-Tex now. We have insulated walls and central heating and weather radar and drainage systems that move rainwater away from our buildings before we even notice it arrived.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.9616318977119784
     },
     {
-      "window_id": "pPm3vHUQCpo:j0137",
+      "window_id": "pPm3vHUQCpo:j0114",
       "video_id": "pPm3vHUQCpo",
-      "idx": 137,
+      "idx": 114,
       "sent_ids": [
         "pPm3vHUQCpo:s0281"
       ],
@@ -2079,37 +1780,24 @@
       "pos_pct": 0.968349259757739
     },
     {
-      "window_id": "pPm3vHUQCpo:j0138",
+      "window_id": "pPm3vHUQCpo:j0115",
       "video_id": "pPm3vHUQCpo",
-      "idx": 138,
+      "idx": 115,
       "sent_ids": [
-        "pPm3vHUQCpo:s0282"
+        "pPm3vHUQCpo:s0282",
+        "pPm3vHUQCpo:s0283"
       ],
       "start_s": 1459.892,
-      "end_s": 1465.994,
-      "text": "Every technology we use to manage rain today is downstream of that wet, cold, fire-lit night.",
-      "n_words": 16,
-      "n_sentences": 1,
+      "end_s": 1479.397,
+      "text": "Every technology we use to manage rain today is downstream of that wet, cold, fire-lit night. They figured it out first, without any of the tools we take for granted, using nothing but time, attention, accumulated knowledge, and the stubborn refusal of the human species to simply give up and get rained on.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.9824306864064604
     },
     {
-      "window_id": "pPm3vHUQCpo:j0139",
+      "window_id": "pPm3vHUQCpo:j0116",
       "video_id": "pPm3vHUQCpo",
-      "idx": 139,
-      "sent_ids": [
-        "pPm3vHUQCpo:s0283"
-      ],
-      "start_s": 1466.754,
-      "end_s": 1479.397,
-      "text": "They figured it out first, without any of the tools we take for granted, using nothing but time, attention, accumulated knowledge, and the stubborn refusal of the human species to simply give up and get rained on.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.9870484522207267
-    },
-    {
-      "window_id": "pPm3vHUQCpo:j0140",
-      "video_id": "pPm3vHUQCpo",
-      "idx": 140,
+      "idx": 116,
       "sent_ids": [
         "pPm3vHUQCpo:s0284",
         "pPm3vHUQCpo:s0285"

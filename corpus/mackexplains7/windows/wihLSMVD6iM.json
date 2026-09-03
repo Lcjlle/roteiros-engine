@@ -1,6 +1,6 @@
 {
   "video_id": "wihLSMVD6iM",
-  "generated_at": "2026-09-03T11:59:53.027869+00:00",
+  "generated_at": "2026-09-03T13:18:13.151999+00:00",
   "windows": [
     {
       "window_id": "wihLSMVD6iM:j0000",
@@ -247,33 +247,20 @@
       "video_id": "wihLSMVD6iM",
       "idx": 15,
       "sent_ids": [
-        "wihLSMVD6iM:s0045"
+        "wihLSMVD6iM:s0045",
+        "wihLSMVD6iM:s0046"
       ],
       "start_s": 174.851,
-      "end_s": 185.937,
-      "text": "That mutation emerged deep in the primate family tree, right around the period when our ancestors were transitioning from spending most of their lives in the trees to spending more time on the ground.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 194.002,
+      "text": "That mutation emerged deep in the primate family tree, right around the period when our ancestors were transitioning from spending most of their lives in the trees to spending more time on the ground. which means for 10 million years, long before we were consciously choosing to drink, our bodies were already preparing for the relationship.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.11533707124010555
     },
     {
       "window_id": "wihLSMVD6iM:j0016",
       "video_id": "wihLSMVD6iM",
       "idx": 16,
-      "sent_ids": [
-        "wihLSMVD6iM:s0046"
-      ],
-      "start_s": 186.757,
-      "end_s": 194.002,
-      "text": "which means for 10 million years, long before we were consciously choosing to drink, our bodies were already preparing for the relationship.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.12319063324538258
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0017",
-      "video_id": "wihLSMVD6iM",
-      "idx": 17,
       "sent_ids": [
         "wihLSMVD6iM:s0047",
         "wihLSMVD6iM:s0048"
@@ -286,9 +273,9 @@
       "pos_pct": 0.12853759894459102
     },
     {
-      "window_id": "wihLSMVD6iM:j0018",
+      "window_id": "wihLSMVD6iM:j0017",
       "video_id": "wihLSMVD6iM",
-      "idx": 18,
+      "idx": 17,
       "sent_ids": [
         "wihLSMVD6iM:s0049",
         "wihLSMVD6iM:s0050",
@@ -303,9 +290,9 @@
       "pos_pct": 0.13515171503957782
     },
     {
-      "window_id": "wihLSMVD6iM:j0019",
+      "window_id": "wihLSMVD6iM:j0018",
       "video_id": "wihLSMVD6iM",
-      "idx": 19,
+      "idx": 18,
       "sent_ids": [
         "wihLSMVD6iM:s0053",
         "wihLSMVD6iM:s0054"
@@ -318,37 +305,24 @@
       "pos_pct": 0.1429003957783641
     },
     {
-      "window_id": "wihLSMVD6iM:j0020",
+      "window_id": "wihLSMVD6iM:j0019",
       "video_id": "wihLSMVD6iM",
-      "idx": 20,
+      "idx": 19,
       "sent_ids": [
-        "wihLSMVD6iM:s0055"
+        "wihLSMVD6iM:s0055",
+        "wihLSMVD6iM:s0056"
       ],
       "start_s": 226.452,
-      "end_s": 234.619,
-      "text": "Yeasts that live naturally in the environment land on the surface of the fruit, consume the sugars inside, and produce ethanol as a byproduct.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 245.929,
+      "text": "Yeasts that live naturally in the environment land on the surface of the fruit, consume the sugars inside, and produce ethanol as a byproduct. The fruit starts to smell faintly of alcohol, which means that for millions of years, every time a primate found a piece of perfectly ripe fruit, it was also finding trace amounts of ethanol.",
+      "n_words": 58,
+      "n_sentences": 2,
       "pos_pct": 0.14937467018469658
     },
     {
-      "window_id": "wihLSMVD6iM:j0021",
+      "window_id": "wihLSMVD6iM:j0020",
       "video_id": "wihLSMVD6iM",
-      "idx": 21,
-      "sent_ids": [
-        "wihLSMVD6iM:s0056"
-      ],
-      "start_s": 235.28,
-      "end_s": 245.929,
-      "text": "The fruit starts to smell faintly of alcohol, which means that for millions of years, every time a primate found a piece of perfectly ripe fruit, it was also finding trace amounts of ethanol.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.15519788918205804
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0022",
-      "video_id": "wihLSMVD6iM",
-      "idx": 22,
+      "idx": 20,
       "sent_ids": [
         "wihLSMVD6iM:s0057",
         "wihLSMVD6iM:s0058",
@@ -363,9 +337,9 @@
       "pos_pct": 0.16265765171503957
     },
     {
-      "window_id": "wihLSMVD6iM:j0023",
+      "window_id": "wihLSMVD6iM:j0021",
       "video_id": "wihLSMVD6iM",
-      "idx": 23,
+      "idx": 21,
       "sent_ids": [
         "wihLSMVD6iM:s0061",
         "wihLSMVD6iM:s0062"
@@ -378,9 +352,9 @@
       "pos_pct": 0.1706174142480211
     },
     {
-      "window_id": "wihLSMVD6iM:j0024",
+      "window_id": "wihLSMVD6iM:j0022",
       "video_id": "wihLSMVD6iM",
-      "idx": 24,
+      "idx": 22,
       "sent_ids": [
         "wihLSMVD6iM:s0063",
         "wihLSMVD6iM:s0064"
@@ -393,98 +367,85 @@
       "pos_pct": 0.1773621372031662
     },
     {
+      "window_id": "wihLSMVD6iM:j0023",
+      "video_id": "wihLSMVD6iM",
+      "idx": 23,
+      "sent_ids": [
+        "wihLSMVD6iM:s0065",
+        "wihLSMVD6iM:s0066"
+      ],
+      "start_s": 281.13,
+      "end_s": 293.923,
+      "text": "over millions of years through the completely impersonal logic of natural selection, a preference for the scent and taste of alcohol became baked into the primate nervous system. We were literally selected by evolution to enjoy the smell of booze.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.1854419525065963
+    },
+    {
+      "window_id": "wihLSMVD6iM:j0024",
+      "video_id": "wihLSMVD6iM",
+      "idx": 24,
+      "sent_ids": [
+        "wihLSMVD6iM:s0067",
+        "wihLSMVD6iM:s0068",
+        "wihLSMVD6iM:s0069",
+        "wihLSMVD6iM:s0070"
+      ],
+      "start_s": 294.864,
+      "end_s": 304.834,
+      "text": "This is not a character flaw. This is not weakness. This is 10 million years of adaptation working exactly as designed. You literally cannot blame yourself.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.1945013192612137
+    },
+    {
       "window_id": "wihLSMVD6iM:j0025",
       "video_id": "wihLSMVD6iM",
       "idx": 25,
       "sent_ids": [
-        "wihLSMVD6iM:s0065"
+        "wihLSMVD6iM:s0071",
+        "wihLSMVD6iM:s0072"
       ],
-      "start_s": 281.13,
-      "end_s": 289.959,
-      "text": "over millions of years through the completely impersonal logic of natural selection, a preference for the scent and taste of alcohol became baked into the primate nervous system.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.1854419525065963
+      "start_s": 305.765,
+      "end_s": 317.995,
+      "text": "Now, the drunken monkey hypothesis isn't just theoretical, it's been tested. Researchers went to Panama and studied wild black-handed spider monkeys collecting the fruit these animals actively chose to eat and testing it for alcohol content.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.2016919525065963
     },
     {
       "window_id": "wihLSMVD6iM:j0026",
       "video_id": "wihLSMVD6iM",
       "idx": 26,
       "sent_ids": [
-        "wihLSMVD6iM:s0066",
-        "wihLSMVD6iM:s0067",
-        "wihLSMVD6iM:s0068",
-        "wihLSMVD6iM:s0069"
+        "wihLSMVD6iM:s0073",
+        "wihLSMVD6iM:s0074"
       ],
-      "start_s": 290.7,
-      "end_s": 302.091,
-      "text": "We were literally selected by evolution to enjoy the smell of booze. This is not a character flaw. This is not weakness. This is 10 million years of adaptation working exactly as designed.",
-      "n_words": 33,
-      "n_sentences": 4,
-      "pos_pct": 0.191754617414248
+      "start_s": 318.776,
+      "end_s": 334.389,
+      "text": "The fruit these monkeys preferred regularly contained between 1 and 2 percent alcohol by volume, a natural result of fermentation happening inside the ripening fruit. And when scientists analyzed urine samples collected from the same free-ranging monkeys, they found secondary metabolites of ethanol.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.21027440633245384
     },
     {
       "window_id": "wihLSMVD6iM:j0027",
       "video_id": "wihLSMVD6iM",
       "idx": 27,
       "sent_ids": [
-        "wihLSMVD6iM:s0070",
-        "wihLSMVD6iM:s0071"
+        "wihLSMVD6iM:s0075"
       ],
-      "start_s": 302.531,
-      "end_s": 309.568,
-      "text": "You literally cannot blame yourself. Now, the drunken monkey hypothesis isn't just theoretical, it's been tested.",
-      "n_words": 16,
-      "n_sentences": 2,
-      "pos_pct": 0.19955870712401055
+      "start_s": 335.049,
+      "end_s": 339.713,
+      "text": "proof that the animals were not just ingesting the alcohol, but actively metabolizing it.",
+      "n_words": 14,
+      "n_sentences": 1,
+      "pos_pct": 0.22100857519788916
     },
     {
       "window_id": "wihLSMVD6iM:j0028",
       "video_id": "wihLSMVD6iM",
       "idx": 28,
-      "sent_ids": [
-        "wihLSMVD6iM:s0072"
-      ],
-      "start_s": 310.169,
-      "end_s": 317.995,
-      "text": "Researchers went to Panama and studied wild black-handed spider monkeys collecting the fruit these animals actively chose to eat and testing it for alcohol content.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.20459696569920843
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0029",
-      "video_id": "wihLSMVD6iM",
-      "idx": 29,
-      "sent_ids": [
-        "wihLSMVD6iM:s0073"
-      ],
-      "start_s": 318.776,
-      "end_s": 327.022,
-      "text": "The fruit these monkeys preferred regularly contained between 1 and 2 percent alcohol by volume, a natural result of fermentation happening inside the ripening fruit.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.21027440633245384
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0030",
-      "video_id": "wihLSMVD6iM",
-      "idx": 30,
-      "sent_ids": [
-        "wihLSMVD6iM:s0074",
-        "wihLSMVD6iM:s0075"
-      ],
-      "start_s": 327.603,
-      "end_s": 339.713,
-      "text": "And when scientists analyzed urine samples collected from the same free-ranging monkeys, they found secondary metabolites of ethanol. proof that the animals were not just ingesting the alcohol, but actively metabolizing it.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.21609696569920844
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0031",
-      "video_id": "wihLSMVD6iM",
-      "idx": 31,
       "sent_ids": [
         "wihLSMVD6iM:s0076"
       ],
@@ -496,9 +457,9 @@
       "pos_pct": 0.2246655672823219
     },
     {
-      "window_id": "wihLSMVD6iM:j0032",
+      "window_id": "wihLSMVD6iM:j0029",
       "video_id": "wihLSMVD6iM",
-      "idx": 32,
+      "idx": 29,
       "sent_ids": [
         "wihLSMVD6iM:s0077",
         "wihLSMVD6iM:s0078"
@@ -511,9 +472,9 @@
       "pos_pct": 0.23575593667546174
     },
     {
-      "window_id": "wihLSMVD6iM:j0033",
+      "window_id": "wihLSMVD6iM:j0030",
       "video_id": "wihLSMVD6iM",
-      "idx": 33,
+      "idx": 30,
       "sent_ids": [
         "wihLSMVD6iM:s0079",
         "wihLSMVD6iM:s0080"
@@ -526,9 +487,9 @@
       "pos_pct": 0.24351846965699206
     },
     {
-      "window_id": "wihLSMVD6iM:j0034",
+      "window_id": "wihLSMVD6iM:j0031",
       "video_id": "wihLSMVD6iM",
-      "idx": 34,
+      "idx": 31,
       "sent_ids": [
         "wihLSMVD6iM:s0081",
         "wihLSMVD6iM:s0082"
@@ -541,9 +502,9 @@
       "pos_pct": 0.25141292875989446
     },
     {
-      "window_id": "wihLSMVD6iM:j0035",
+      "window_id": "wihLSMVD6iM:j0032",
       "video_id": "wihLSMVD6iM",
-      "idx": 35,
+      "idx": 32,
       "sent_ids": [
         "wihLSMVD6iM:s0083",
         "wihLSMVD6iM:s0084"
@@ -556,9 +517,9 @@
       "pos_pct": 0.2596728232189974
     },
     {
-      "window_id": "wihLSMVD6iM:j0036",
+      "window_id": "wihLSMVD6iM:j0033",
       "video_id": "wihLSMVD6iM",
-      "idx": 36,
+      "idx": 33,
       "sent_ids": [
         "wihLSMVD6iM:s0085",
         "wihLSMVD6iM:s0086"
@@ -571,9 +532,9 @@
       "pos_pct": 0.26890897097625327
     },
     {
-      "window_id": "wihLSMVD6iM:j0037",
+      "window_id": "wihLSMVD6iM:j0034",
       "video_id": "wihLSMVD6iM",
-      "idx": 37,
+      "idx": 34,
       "sent_ids": [
         "wihLSMVD6iM:s0087",
         "wihLSMVD6iM:s0088"
@@ -586,37 +547,24 @@
       "pos_pct": 0.2768284960422164
     },
     {
-      "window_id": "wihLSMVD6iM:j0038",
+      "window_id": "wihLSMVD6iM:j0035",
       "video_id": "wihLSMVD6iM",
-      "idx": 38,
+      "idx": 35,
       "sent_ids": [
-        "wihLSMVD6iM:s0089"
+        "wihLSMVD6iM:s0089",
+        "wihLSMVD6iM:s0090"
       ],
       "start_s": 426.056,
-      "end_s": 435.162,
-      "text": "The oldest confirmed evidence of deliberate human alcohol production sits inside a cave in Israel, Rakafet Cave, near modern-day Haifa.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 447.05,
+      "text": "The oldest confirmed evidence of deliberate human alcohol production sits inside a cave in Israel, Rakafet Cave, near modern-day Haifa. it was a burial site used by a people called the Natufians, a group of semi-nomadic hunter-gatherers who lived in the eastern Mediterranean region between roughly 15,000 and 11,500 years ago.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.2810395778364116
     },
     {
-      "window_id": "wihLSMVD6iM:j0039",
+      "window_id": "wihLSMVD6iM:j0036",
       "video_id": "wihLSMVD6iM",
-      "idx": 39,
-      "sent_ids": [
-        "wihLSMVD6iM:s0090"
-      ],
-      "start_s": 435.982,
-      "end_s": 447.05,
-      "text": "it was a burial site used by a people called the Natufians, a group of semi-nomadic hunter-gatherers who lived in the eastern Mediterranean region between roughly 15,000 and 11,500 years ago.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.2875870712401056
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0040",
-      "video_id": "wihLSMVD6iM",
-      "idx": 40,
+      "idx": 36,
       "sent_ids": [
         "wihLSMVD6iM:s0091",
         "wihLSMVD6iM:s0092",
@@ -631,9 +579,9 @@
       "pos_pct": 0.29699736147757255
     },
     {
-      "window_id": "wihLSMVD6iM:j0041",
+      "window_id": "wihLSMVD6iM:j0037",
       "video_id": "wihLSMVD6iM",
-      "idx": 41,
+      "idx": 37,
       "sent_ids": [
         "wihLSMVD6iM:s0095",
         "wihLSMVD6iM:s0096"
@@ -646,39 +594,39 @@
       "pos_pct": 0.3054597625329815
     },
     {
-      "window_id": "wihLSMVD6iM:j0042",
+      "window_id": "wihLSMVD6iM:j0038",
       "video_id": "wihLSMVD6iM",
-      "idx": 42,
+      "idx": 38,
       "sent_ids": [
-        "wihLSMVD6iM:s0097"
+        "wihLSMVD6iM:s0097",
+        "wihLSMVD6iM:s0098"
       ],
       "start_s": 478.609,
-      "end_s": 492.999,
-      "text": "When a team led by Stanford archaeologist Li Liu analyzed that residue using microfossil and chemical analysis, looking at starch granules and microscopic plant particles called phytoliths, the picture that emerged was unambiguous.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 495.041,
+      "text": "When a team led by Stanford archaeologist Li Liu analyzed that residue using microfossil and chemical analysis, looking at starch granules and microscopic plant particles called phytoliths, the picture that emerged was unambiguous. They had been making beer.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.3157051451187335
     },
     {
-      "window_id": "wihLSMVD6iM:j0043",
+      "window_id": "wihLSMVD6iM:j0039",
       "video_id": "wihLSMVD6iM",
-      "idx": 43,
+      "idx": 39,
       "sent_ids": [
-        "wihLSMVD6iM:s0098",
         "wihLSMVD6iM:s0099",
         "wihLSMVD6iM:s0100"
       ],
-      "start_s": 493.92,
+      "start_s": 496.033,
       "end_s": 503.901,
-      "text": "They had been making beer. Not wine, not some vague fermented liquid. Beer, made from wheat and barley, produced through a three-stage process.",
-      "n_words": 23,
-      "n_sentences": 3,
-      "pos_pct": 0.3258047493403694
+      "text": "Not wine, not some vague fermented liquid. Beer, made from wheat and barley, produced through a three-stage process.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.3271985488126649
     },
     {
-      "window_id": "wihLSMVD6iM:j0044",
+      "window_id": "wihLSMVD6iM:j0040",
       "video_id": "wihLSMVD6iM",
-      "idx": 44,
+      "idx": 40,
       "sent_ids": [
         "wihLSMVD6iM:s0101",
         "wihLSMVD6iM:s0102",
@@ -692,9 +640,9 @@
       "pos_pct": 0.33281068601583114
     },
     {
-      "window_id": "wihLSMVD6iM:j0045",
+      "window_id": "wihLSMVD6iM:j0041",
       "video_id": "wihLSMVD6iM",
-      "idx": 45,
+      "idx": 41,
       "sent_ids": [
         "wihLSMVD6iM:s0104",
         "wihLSMVD6iM:s0105",
@@ -709,9 +657,9 @@
       "pos_pct": 0.34410092348284965
     },
     {
-      "window_id": "wihLSMVD6iM:j0046",
+      "window_id": "wihLSMVD6iM:j0042",
       "video_id": "wihLSMVD6iM",
-      "idx": 46,
+      "idx": 42,
       "sent_ids": [
         "wihLSMVD6iM:s0108",
         "wihLSMVD6iM:s0109",
@@ -725,37 +673,24 @@
       "pos_pct": 0.35020514511873346
     },
     {
-      "window_id": "wihLSMVD6iM:j0047",
+      "window_id": "wihLSMVD6iM:j0043",
       "video_id": "wihLSMVD6iM",
-      "idx": 47,
+      "idx": 43,
       "sent_ids": [
-        "wihLSMVD6iM:s0111"
+        "wihLSMVD6iM:s0111",
+        "wihLSMVD6iM:s0112"
       ],
       "start_s": 540.521,
-      "end_s": 545.924,
-      "text": "And this single fact has fueled one of the most genuinely fascinating debates in all of archaeology.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 554.367,
+      "text": "And this single fact has fueled one of the most genuinely fascinating debates in all of archaeology. Did humans first settle down and begin farming because they wanted reliable grain for bread, or because they wanted reliable grain for beer?",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.3565441952506596
     },
     {
-      "window_id": "wihLSMVD6iM:j0048",
+      "window_id": "wihLSMVD6iM:j0044",
       "video_id": "wihLSMVD6iM",
-      "idx": 48,
-      "sent_ids": [
-        "wihLSMVD6iM:s0112"
-      ],
-      "start_s": 546.404,
-      "end_s": 554.367,
-      "text": "Did humans first settle down and begin farming because they wanted reliable grain for bread, or because they wanted reliable grain for beer?",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.36042480211081795
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0049",
-      "video_id": "wihLSMVD6iM",
-      "idx": 49,
+      "idx": 44,
       "sent_ids": [
         "wihLSMVD6iM:s0113"
       ],
@@ -767,37 +702,24 @@
       "pos_pct": 0.3660600263852243
     },
     {
-      "window_id": "wihLSMVD6iM:j0050",
+      "window_id": "wihLSMVD6iM:j0045",
       "video_id": "wihLSMVD6iM",
-      "idx": 50,
+      "idx": 45,
       "sent_ids": [
-        "wihLSMVD6iM:s0114"
+        "wihLSMVD6iM:s0114",
+        "wihLSMVD6iM:s0115"
       ],
       "start_s": 572.779,
-      "end_s": 574.24,
-      "text": "Think about it from first principles.",
-      "n_words": 6,
-      "n_sentences": 1,
+      "end_s": 587.448,
+      "text": "Think about it from first principles. Why would a nomadic hunter-gatherer, living a reasonably successful life by moving with the seasons and following food sources, suddenly decide to stay in one place, break up the ground, plant seeds, and wait months for them to grow?",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.37782255936675463
     },
     {
-      "window_id": "wihLSMVD6iM:j0051",
+      "window_id": "wihLSMVD6iM:j0046",
       "video_id": "wihLSMVD6iM",
-      "idx": 51,
-      "sent_ids": [
-        "wihLSMVD6iM:s0115"
-      ],
-      "start_s": 574.68,
-      "end_s": 587.448,
-      "text": "Why would a nomadic hunter-gatherer, living a reasonably successful life by moving with the seasons and following food sources, suddenly decide to stay in one place, break up the ground, plant seeds, and wait months for them to grow?",
-      "n_words": 39,
-      "n_sentences": 1,
-      "pos_pct": 0.37907651715039575
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0052",
-      "video_id": "wihLSMVD6iM",
-      "idx": 52,
+      "idx": 46,
       "sent_ids": [
         "wihLSMVD6iM:s0116",
         "wihLSMVD6iM:s0117",
@@ -811,9 +733,9 @@
       "pos_pct": 0.3881325857519789
     },
     {
-      "window_id": "wihLSMVD6iM:j0053",
+      "window_id": "wihLSMVD6iM:j0047",
       "video_id": "wihLSMVD6iM",
-      "idx": 53,
+      "idx": 47,
       "sent_ids": [
         "wihLSMVD6iM:s0119"
       ],
@@ -825,9 +747,9 @@
       "pos_pct": 0.39178034300791553
     },
     {
-      "window_id": "wihLSMVD6iM:j0054",
+      "window_id": "wihLSMVD6iM:j0048",
       "video_id": "wihLSMVD6iM",
-      "idx": 54,
+      "idx": 48,
       "sent_ids": [
         "wihLSMVD6iM:s0120",
         "wihLSMVD6iM:s0121"
@@ -840,9 +762,9 @@
       "pos_pct": 0.4034465699208443
     },
     {
-      "window_id": "wihLSMVD6iM:j0055",
+      "window_id": "wihLSMVD6iM:j0049",
       "video_id": "wihLSMVD6iM",
-      "idx": 55,
+      "idx": 49,
       "sent_ids": [
         "wihLSMVD6iM:s0122",
         "wihLSMVD6iM:s0123"
@@ -855,9 +777,9 @@
       "pos_pct": 0.4101642480211082
     },
     {
-      "window_id": "wihLSMVD6iM:j0056",
+      "window_id": "wihLSMVD6iM:j0050",
       "video_id": "wihLSMVD6iM",
-      "idx": 56,
+      "idx": 50,
       "sent_ids": [
         "wihLSMVD6iM:s0124",
         "wihLSMVD6iM:s0125",
@@ -872,9 +794,9 @@
       "pos_pct": 0.4189802110817942
     },
     {
-      "window_id": "wihLSMVD6iM:j0057",
+      "window_id": "wihLSMVD6iM:j0051",
       "video_id": "wihLSMVD6iM",
-      "idx": 57,
+      "idx": 51,
       "sent_ids": [
         "wihLSMVD6iM:s0128",
         "wihLSMVD6iM:s0129"
@@ -887,9 +809,9 @@
       "pos_pct": 0.4262196569920844
     },
     {
-      "window_id": "wihLSMVD6iM:j0058",
+      "window_id": "wihLSMVD6iM:j0052",
       "video_id": "wihLSMVD6iM",
-      "idx": 58,
+      "idx": 52,
       "sent_ids": [
         "wihLSMVD6iM:s0130",
         "wihLSMVD6iM:s0131",
@@ -903,37 +825,24 @@
       "pos_pct": 0.43250461741424806
     },
     {
-      "window_id": "wihLSMVD6iM:j0059",
+      "window_id": "wihLSMVD6iM:j0053",
       "video_id": "wihLSMVD6iM",
-      "idx": 59,
+      "idx": 53,
       "sent_ids": [
-        "wihLSMVD6iM:s0133"
+        "wihLSMVD6iM:s0133",
+        "wihLSMVD6iM:s0134"
       ],
       "start_s": 666.625,
-      "end_s": 675.692,
-      "text": "Let's keep moving forward through time, because after the Natufians, the archaeological record starts filling up quickly and from multiple directions simultaneously.",
-      "n_words": 22,
-      "n_sentences": 1,
+      "end_s": 687.559,
+      "text": "Let's keep moving forward through time, because after the Natufians, the archaeological record starts filling up quickly and from multiple directions simultaneously. jump roughly 4,000 years forward to around 7,000 BCE, which sounds like a long time, but is actually relatively recent in the context of everything we've discussed so far.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.439726253298153
     },
     {
-      "window_id": "wihLSMVD6iM:j0060",
+      "window_id": "wihLSMVD6iM:j0054",
       "video_id": "wihLSMVD6iM",
-      "idx": 60,
-      "sent_ids": [
-        "wihLSMVD6iM:s0134"
-      ],
-      "start_s": 676.565,
-      "end_s": 687.559,
-      "text": "jump roughly 4,000 years forward to around 7,000 BCE, which sounds like a long time, but is actually relatively recent in the context of everything we've discussed so far.",
-      "n_words": 29,
-      "n_sentences": 1,
-      "pos_pct": 0.44628298153034307
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0061",
-      "video_id": "wihLSMVD6iM",
-      "idx": 61,
+      "idx": 54,
       "sent_ids": [
         "wihLSMVD6iM:s0135",
         "wihLSMVD6iM:s0136"
@@ -946,9 +855,9 @@
       "pos_pct": 0.454155672823219
     },
     {
-      "window_id": "wihLSMVD6iM:j0062",
+      "window_id": "wihLSMVD6iM:j0055",
       "video_id": "wihLSMVD6iM",
-      "idx": 62,
+      "idx": 55,
       "sent_ids": [
         "wihLSMVD6iM:s0137",
         "wihLSMVD6iM:s0138",
@@ -963,80 +872,54 @@
       "pos_pct": 0.4647796833773087
     },
     {
-      "window_id": "wihLSMVD6iM:j0063",
+      "window_id": "wihLSMVD6iM:j0056",
       "video_id": "wihLSMVD6iM",
-      "idx": 63,
+      "idx": 56,
       "sent_ids": [
-        "wihLSMVD6iM:s0141"
+        "wihLSMVD6iM:s0141",
+        "wihLSMVD6iM:s0142"
       ],
       "start_s": 719.197,
-      "end_s": 730.641,
-      "text": "Around the same period, in what is now the country of Georgia, in a small village called Gadakriligora, archaeologists found evidence of wine production going back approximately 8,000 years.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 736.083,
+      "text": "Around the same period, in what is now the country of Georgia, in a small village called Gadakriligora, archaeologists found evidence of wine production going back approximately 8,000 years. The inside of large clay storage jars still bore the chemical signatures of grape fermentation.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.4744043535620053
     },
     {
-      "window_id": "wihLSMVD6iM:j0064",
+      "window_id": "wihLSMVD6iM:j0057",
       "video_id": "wihLSMVD6iM",
-      "idx": 64,
+      "idx": 57,
       "sent_ids": [
-        "wihLSMVD6iM:s0142",
-        "wihLSMVD6iM:s0143"
-      ],
-      "start_s": 731.301,
-      "end_s": 739.527,
-      "text": "The inside of large clay storage jars still bore the chemical signatures of grape fermentation. This is currently the oldest confirmed wine in the world.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.4823885224274407
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0065",
-      "video_id": "wihLSMVD6iM",
-      "idx": 65,
-      "sent_ids": [
+        "wihLSMVD6iM:s0143",
         "wihLSMVD6iM:s0144"
       ],
-      "start_s": 740.168,
+      "start_s": 736.823,
       "end_s": 750.281,
-      "text": "Georgia still makes wine the traditional way, in large clay vessels called kvavri that are buried in the earth, and Georgians will tell you with complete justification that they invented wine.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.48823746701846965
+      "text": "This is currently the oldest confirmed wine in the world. Georgia still makes wine the traditional way, in large clay vessels called kvavri that are buried in the earth, and Georgians will tell you with complete justification that they invented wine.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.4860310026385224
     },
     {
-      "window_id": "wihLSMVD6iM:j0066",
+      "window_id": "wihLSMVD6iM:j0058",
       "video_id": "wihLSMVD6iM",
-      "idx": 66,
+      "idx": 58,
       "sent_ids": [
-        "wihLSMVD6iM:s0145"
+        "wihLSMVD6iM:s0145",
+        "wihLSMVD6iM:s0146"
       ],
       "start_s": 750.642,
-      "end_s": 754.166,
-      "text": "There is truly no arguing with them, and there is no reason to try.",
-      "n_words": 14,
-      "n_sentences": 1,
+      "end_s": 769.007,
+      "text": "There is truly no arguing with them, and there is no reason to try. Meanwhile, also in China, at a site called Chaotu, dating to around 9,000 years ago, researchers found pottery vessels containing beer brewed from rice and a grain called Job's Tears, which still grows in East Asia today.",
+      "n_words": 51,
+      "n_sentences": 2,
       "pos_pct": 0.49514643799472297
     },
     {
-      "window_id": "wihLSMVD6iM:j0067",
+      "window_id": "wihLSMVD6iM:j0059",
       "video_id": "wihLSMVD6iM",
-      "idx": 67,
-      "sent_ids": [
-        "wihLSMVD6iM:s0146"
-      ],
-      "start_s": 754.977,
-      "end_s": 769.007,
-      "text": "Meanwhile, also in China, at a site called Chaotu, dating to around 9,000 years ago, researchers found pottery vessels containing beer brewed from rice and a grain called Job's Tears, which still grows in East Asia today.",
-      "n_words": 37,
-      "n_sentences": 1,
-      "pos_pct": 0.4980059366754617
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0068",
-      "video_id": "wihLSMVD6iM",
-      "idx": 68,
+      "idx": 59,
       "sent_ids": [
         "wihLSMVD6iM:s0147"
       ],
@@ -1048,54 +931,41 @@
       "pos_pct": 0.5081464379947229
     },
     {
-      "window_id": "wihLSMVD6iM:j0069",
+      "window_id": "wihLSMVD6iM:j0060",
       "video_id": "wihLSMVD6iM",
-      "idx": 69,
+      "idx": 60,
       "sent_ids": [
-        "wihLSMVD6iM:s0148"
+        "wihLSMVD6iM:s0148",
+        "wihLSMVD6iM:s0149"
       ],
       "start_s": 787.917,
-      "end_s": 799.523,
-      "text": "This technique is the direct ancestor of the processes used today to make sake, baijiu, Korean makgeolli, and dozens of other East Asian fermented drinks.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 807.567,
+      "text": "This technique is the direct ancestor of the processes used today to make sake, baijiu, Korean makgeolli, and dozens of other East Asian fermented drinks. 9,000 years of continuous tradition, running unbroken from a Neolithic pottery vessel to a glass on a table somewhere in Tokyo tonight.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.5197341688654353
     },
     {
-      "window_id": "wihLSMVD6iM:j0070",
+      "window_id": "wihLSMVD6iM:j0061",
       "video_id": "wihLSMVD6iM",
-      "idx": 70,
+      "idx": 61,
       "sent_ids": [
-        "wihLSMVD6iM:s0149",
-        "wihLSMVD6iM:s0150"
-      ],
-      "start_s": 799.703,
-      "end_s": 811.629,
-      "text": "9,000 years of continuous tradition, running unbroken from a Neolithic pottery vessel to a glass on a table somewhere in Tokyo tonight. What this geographic spread tells us is extraordinary.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.5275085751978892
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0071",
-      "video_id": "wihLSMVD6iM",
-      "idx": 71,
-      "sent_ids": [
+        "wihLSMVD6iM:s0150",
         "wihLSMVD6iM:s0151",
         "wihLSMVD6iM:s0152",
         "wihLSMVD6iM:s0153"
       ],
-      "start_s": 812.309,
+      "start_s": 808.788,
       "end_s": 824.112,
-      "text": "These cultures, China, Georgia, the Eastern Mediterranean, were not in contact with each other. They were not trading information or recipes. They each discovered fermentation entirely independently.",
-      "n_words": 27,
-      "n_sentences": 3,
-      "pos_pct": 0.5358238786279683
+      "text": "What this geographic spread tells us is extraordinary. These cultures, China, Georgia, the Eastern Mediterranean, were not in contact with each other. They were not trading information or recipes. They each discovered fermentation entirely independently.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.5335013192612137
     },
     {
-      "window_id": "wihLSMVD6iM:j0072",
+      "window_id": "wihLSMVD6iM:j0062",
       "video_id": "wihLSMVD6iM",
-      "idx": 72,
+      "idx": 62,
       "sent_ids": [
         "wihLSMVD6iM:s0154",
         "wihLSMVD6iM:s0155"
@@ -1108,9 +978,9 @@
       "pos_pct": 0.5441108179419525
     },
     {
-      "window_id": "wihLSMVD6iM:j0073",
+      "window_id": "wihLSMVD6iM:j0063",
       "video_id": "wihLSMVD6iM",
-      "idx": 73,
+      "idx": 63,
       "sent_ids": [
         "wihLSMVD6iM:s0156",
         "wihLSMVD6iM:s0157"
@@ -1123,9 +993,9 @@
       "pos_pct": 0.5500883905013192
     },
     {
-      "window_id": "wihLSMVD6iM:j0074",
+      "window_id": "wihLSMVD6iM:j0064",
       "video_id": "wihLSMVD6iM",
-      "idx": 74,
+      "idx": 64,
       "sent_ids": [
         "wihLSMVD6iM:s0158",
         "wihLSMVD6iM:s0159",
@@ -1139,142 +1009,103 @@
       "pos_pct": 0.5561583113456464
     },
     {
-      "window_id": "wihLSMVD6iM:j0075",
+      "window_id": "wihLSMVD6iM:j0065",
       "video_id": "wihLSMVD6iM",
-      "idx": 75,
+      "idx": 65,
       "sent_ids": [
-        "wihLSMVD6iM:s0161"
+        "wihLSMVD6iM:s0161",
+        "wihLSMVD6iM:s0162"
       ],
       "start_s": 857.12,
-      "end_s": 860.921,
-      "text": "The land between the Tigris and Euphrates rivers, in what is now Iraq.",
-      "n_words": 13,
-      "n_sentences": 1,
+      "end_s": 874.944,
+      "text": "The land between the Tigris and Euphrates rivers, in what is now Iraq. the Sumerians, then the Akkadians, then the Babylonians—the place where writing was invented, and where, perhaps not coincidentally, some of the very first things written down were records about beer.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.5653825857519789
     },
     {
-      "window_id": "wihLSMVD6iM:j0076",
+      "window_id": "wihLSMVD6iM:j0066",
       "video_id": "wihLSMVD6iM",
-      "idx": 76,
+      "idx": 66,
       "sent_ids": [
-        "wihLSMVD6iM:s0162"
-      ],
-      "start_s": 861.701,
-      "end_s": 874.944,
-      "text": "the Sumerians, then the Akkadians, then the Babylonians—the place where writing was invented, and where, perhaps not coincidentally, some of the very first things written down were records about beer.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.5684043535620052
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0077",
-      "video_id": "wihLSMVD6iM",
-      "idx": 77,
-      "sent_ids": [
-        "wihLSMVD6iM:s0163"
+        "wihLSMVD6iM:s0163",
+        "wihLSMVD6iM:s0164"
       ],
       "start_s": 876.21,
-      "end_s": 887.032,
-      "text": "Archaeological evidence from Ghoden Tepe in the Zagros Mountains of Western Iran places beer production in the Greater Mesopotamian region as early as 3500 BCE.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 896.213,
+      "text": "Archaeological evidence from Ghoden Tepe in the Zagros Mountains of Western Iran places beer production in the Greater Mesopotamian region as early as 3500 BCE. Chemists found calcium oxalate, a residue produced during beer fermentation, crystallized and preserved inside ancient clay vessels.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.5779749340369393
     },
     {
-      "window_id": "wihLSMVD6iM:j0078",
+      "window_id": "wihLSMVD6iM:j0067",
       "video_id": "wihLSMVD6iM",
-      "idx": 78,
+      "idx": 67,
       "sent_ids": [
-        "wihLSMVD6iM:s0164",
-        "wihLSMVD6iM:s0165"
-      ],
-      "start_s": 888.072,
-      "end_s": 901.674,
-      "text": "Chemists found calcium oxalate, a residue produced during beer fermentation, crystallized and preserved inside ancient clay vessels. The same site also yielded the earliest chemically confirmed wine residue in the Near East.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.5857994722955145
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0079",
-      "video_id": "wihLSMVD6iM",
-      "idx": 79,
-      "sent_ids": [
+        "wihLSMVD6iM:s0165",
         "wihLSMVD6iM:s0166",
-        "wihLSMVD6iM:s0167",
-        "wihLSMVD6iM:s0168"
+        "wihLSMVD6iM:s0167"
       ],
-      "start_s": 902.314,
-      "end_s": 915.342,
-      "text": "But Mesopotamia didn't just drink. Mesopotamia organized drinking into a social and economic institution. This is perhaps the most Mesopotamian thing imaginable, and it is wonderful.",
-      "n_words": 26,
+      "start_s": 897.134,
+      "end_s": 909.858,
+      "text": "The same site also yielded the earliest chemically confirmed wine residue in the Near East. But Mesopotamia didn't just drink. Mesopotamia organized drinking into a social and economic institution.",
+      "n_words": 29,
       "n_sentences": 3,
-      "pos_pct": 0.5951939313984168
+      "pos_pct": 0.5917770448548813
     },
     {
-      "window_id": "wihLSMVD6iM:j0080",
+      "window_id": "wihLSMVD6iM:j0068",
       "video_id": "wihLSMVD6iM",
-      "idx": 80,
+      "idx": 68,
       "sent_ids": [
+        "wihLSMVD6iM:s0168",
         "wihLSMVD6iM:s0169",
         "wihLSMVD6iM:s0170",
         "wihLSMVD6iM:s0171"
       ],
-      "start_s": 915.722,
+      "start_s": 910.458,
       "end_s": 924.308,
-      "text": "Sumerian workers received daily rations of beer as a fundamental part of their compensation. This wasn't casual generosity. It was the system.",
-      "n_words": 22,
-      "n_sentences": 3,
-      "pos_pct": 0.6040382585751979
+      "text": "This is perhaps the most Mesopotamian thing imaginable, and it is wonderful. Sumerian workers received daily rations of beer as a fundamental part of their compensation. This wasn't casual generosity. It was the system.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.600565963060686
     },
     {
-      "window_id": "wihLSMVD6iM:j0081",
+      "window_id": "wihLSMVD6iM:j0069",
       "video_id": "wihLSMVD6iM",
-      "idx": 81,
+      "idx": 69,
       "sent_ids": [
-        "wihLSMVD6iM:s0172"
+        "wihLSMVD6iM:s0172",
+        "wihLSMVD6iM:s0173"
       ],
       "start_s": 924.708,
-      "end_s": 932.053,
-      "text": "If you were a laborer building a temple, a scribe copying tablets, a farmer clearing irrigation channels, you received beer.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 940.956,
+      "text": "If you were a laborer building a temple, a scribe copying tablets, a farmer clearing irrigation channels, you received beer. Detailed administrative tablets survive that record these distributions with the same meticulous precision a modern accountant brings to a payroll system.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.6099656992084432
     },
     {
-      "window_id": "wihLSMVD6iM:j0082",
+      "window_id": "wihLSMVD6iM:j0070",
       "video_id": "wihLSMVD6iM",
-      "idx": 82,
+      "idx": 70,
       "sent_ids": [
-        "wihLSMVD6iM:s0173",
-        "wihLSMVD6iM:s0174"
-      ],
-      "start_s": 933.137,
-      "end_s": 945.826,
-      "text": "Detailed administrative tablets survive that record these distributions with the same meticulous precision a modern accountant brings to a payroll system. Workers of average rank might receive around 2 liters of beer per day.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.6155257255936675
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0083",
-      "video_id": "wihLSMVD6iM",
-      "idx": 83,
-      "sent_ids": [
+        "wihLSMVD6iM:s0174",
         "wihLSMVD6iM:s0175",
         "wihLSMVD6iM:s0176"
       ],
-      "start_s": 946.586,
+      "start_s": 941.885,
       "end_s": 954.807,
-      "text": "Senior officials and higher-ranking individuals received more. Even individuals who had died were provisioned with beer for the journey into the afterlife.",
-      "n_words": 22,
-      "n_sentences": 2,
-      "pos_pct": 0.6243970976253298
+      "text": "Workers of average rank might receive around 2 liters of beer per day. Senior officials and higher-ranking individuals received more. Even individuals who had died were provisioned with beer for the journey into the afterlife.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.6212961741424802
     },
     {
-      "window_id": "wihLSMVD6iM:j0084",
+      "window_id": "wihLSMVD6iM:j0071",
       "video_id": "wihLSMVD6iM",
-      "idx": 84,
+      "idx": 71,
       "sent_ids": [
         "wihLSMVD6iM:s0177",
         "wihLSMVD6iM:s0178",
@@ -1289,9 +1120,9 @@
       "pos_pct": 0.6301101583113456
     },
     {
-      "window_id": "wihLSMVD6iM:j0085",
+      "window_id": "wihLSMVD6iM:j0072",
       "video_id": "wihLSMVD6iM",
-      "idx": 85,
+      "idx": 72,
       "sent_ids": [
         "wihLSMVD6iM:s0181",
         "wihLSMVD6iM:s0182",
@@ -1305,9 +1136,9 @@
       "pos_pct": 0.6373937994722955
     },
     {
-      "window_id": "wihLSMVD6iM:j0086",
+      "window_id": "wihLSMVD6iM:j0073",
       "video_id": "wihLSMVD6iM",
-      "idx": 86,
+      "idx": 73,
       "sent_ids": [
         "wihLSMVD6iM:s0184",
         "wihLSMVD6iM:s0185"
@@ -1320,128 +1151,102 @@
       "pos_pct": 0.6455112137203166
     },
     {
-      "window_id": "wihLSMVD6iM:j0087",
+      "window_id": "wihLSMVD6iM:j0074",
       "video_id": "wihLSMVD6iM",
-      "idx": 87,
+      "idx": 74,
       "sent_ids": [
-        "wihLSMVD6iM:s0186"
+        "wihLSMVD6iM:s0186",
+        "wihLSMVD6iM:s0187"
       ],
       "start_s": 991.802,
-      "end_s": 1000.587,
-      "text": "She was a major figure in the Sumerian pantheon, and her domain was not just brewing, it was the entire civilizing power that fermented grain represented.",
-      "n_words": 26,
-      "n_sentences": 1,
+      "end_s": 1008.332,
+      "text": "She was a major figure in the Sumerian pantheon, and her domain was not just brewing, it was the entire civilizing power that fermented grain represented. Around 1800 BCE, an anonymous Sumerian poet composed a hymn in her honor.",
+      "n_words": 39,
+      "n_sentences": 2,
       "pos_pct": 0.6542229551451187
     },
     {
-      "window_id": "wihLSMVD6iM:j0088",
+      "window_id": "wihLSMVD6iM:j0075",
       "video_id": "wihLSMVD6iM",
-      "idx": 88,
+      "idx": 75,
       "sent_ids": [
-        "wihLSMVD6iM:s0187",
         "wihLSMVD6iM:s0188",
-        "wihLSMVD6iM:s0189"
+        "wihLSMVD6iM:s0189",
+        "wihLSMVD6iM:s0190"
       ],
-      "start_s": 1001.648,
-      "end_s": 1015.906,
-      "text": "Around 1800 BCE, an anonymous Sumerian poet composed a hymn in her honor. The Hymn to Ninkasi is one of the most extraordinary documents to survive from the ancient world. It is a religious poem.",
-      "n_words": 35,
-      "n_sentences": 3,
-      "pos_pct": 0.6607176781002638
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0089",
-      "video_id": "wihLSMVD6iM",
-      "idx": 89,
-      "sent_ids": [
-        "wihLSMVD6iM:s0190",
-        "wihLSMVD6iM:s0191"
-      ],
-      "start_s": 1016.487,
-      "end_s": 1028.439,
-      "text": "It is a declaration of love for a goddess. And depending on which scholars you consult, it is also, embedded within its verses, something remarkably close to a step-by-step brewing recipe.",
+      "start_s": 1009.179,
+      "end_s": 1019.029,
+      "text": "The Hymn to Ninkasi is one of the most extraordinary documents to survive from the ancient world. It is a religious poem. It is a declaration of love for a goddess.",
       "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.6705059366754618
+      "n_sentences": 3,
+      "pos_pct": 0.6656853562005277
     },
     {
-      "window_id": "wihLSMVD6iM:j0090",
+      "window_id": "wihLSMVD6iM:j0076",
       "video_id": "wihLSMVD6iM",
-      "idx": 90,
+      "idx": 76,
       "sent_ids": [
+        "wihLSMVD6iM:s0191",
         "wihLSMVD6iM:s0192"
       ],
-      "start_s": 1029.595,
+      "start_s": 1019.53,
       "end_s": 1042.56,
-      "text": "Written on two clay tablets, it describes the malting of grain, the baking of it into a bread called bapir, the soaking, the fermenting, the filtering of the final liquid through a woven basket.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.6791523746701847
+      "text": "And depending on which scholars you consult, it is also, embedded within its verses, something remarkably close to a step-by-step brewing recipe. Written on two clay tablets, it describes the malting of grain, the baking of it into a bread called bapir, the soaking, the fermenting, the filtering of the final liquid through a woven basket.",
+      "n_words": 56,
+      "n_sentences": 2,
+      "pos_pct": 0.6725131926121372
     },
     {
-      "window_id": "wihLSMVD6iM:j0091",
+      "window_id": "wihLSMVD6iM:j0077",
       "video_id": "wihLSMVD6iM",
-      "idx": 91,
+      "idx": 77,
       "sent_ids": [
-        "wihLSMVD6iM:s0193"
+        "wihLSMVD6iM:s0193",
+        "wihLSMVD6iM:s0194"
       ],
       "start_s": 1043.581,
-      "end_s": 1055.886,
-      "text": "The process is described in enough detail that in 1989, a modern American brewer named Fritz Maytag, founder of Anchor Brewing Company in San Francisco, actually attempted to recreate it.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 1060.388,
+      "text": "The process is described in enough detail that in 1989, a modern American brewer named Fritz Maytag, founder of Anchor Brewing Company in San Francisco, actually attempted to recreate it. The result was served at the annual meeting of the American Association of Microbrewers.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.6883779683377308
     },
     {
-      "window_id": "wihLSMVD6iM:j0092",
+      "window_id": "wihLSMVD6iM:j0078",
       "video_id": "wihLSMVD6iM",
-      "idx": 92,
+      "idx": 78,
       "sent_ids": [
-        "wihLSMVD6iM:s0194",
         "wihLSMVD6iM:s0195",
-        "wihLSMVD6iM:s0196"
+        "wihLSMVD6iM:s0196",
+        "wihLSMVD6iM:s0197"
       ],
-      "start_s": 1056.466,
-      "end_s": 1068.751,
-      "text": "The result was served at the annual meeting of the American Association of Microbrewers. Attendees drank it from clay jugs through long straws, as the Sumerians had. The alcohol content was around 3.5%.",
-      "n_words": 33,
+      "start_s": 1061.048,
+      "end_s": 1073.413,
+      "text": "Attendees drank it from clay jugs through long straws, as the Sumerians had. The alcohol content was around 3.5%. The taste was reportedly reminiscent of champagne mixed with dates.",
+      "n_words": 29,
       "n_sentences": 3,
-      "pos_pct": 0.6968773087071239
+      "pos_pct": 0.6998997361477572
     },
     {
-      "window_id": "wihLSMVD6iM:j0093",
+      "window_id": "wihLSMVD6iM:j0079",
       "video_id": "wihLSMVD6iM",
-      "idx": 93,
+      "idx": 79,
       "sent_ids": [
-        "wihLSMVD6iM:s0197",
-        "wihLSMVD6iM:s0198"
-      ],
-      "start_s": 1069.131,
-      "end_s": 1079.0,
-      "text": "The taste was reportedly reminiscent of champagne mixed with dates. 3,800 years after that hymn was written, it still worked.",
-      "n_words": 20,
-      "n_sentences": 2,
-      "pos_pct": 0.705231530343008
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0094",
-      "video_id": "wihLSMVD6iM",
-      "idx": 94,
-      "sent_ids": [
+        "wihLSMVD6iM:s0198",
         "wihLSMVD6iM:s0199",
         "wihLSMVD6iM:s0200"
       ],
-      "start_s": 1079.581,
+      "start_s": 1074.918,
       "end_s": 1089.766,
-      "text": "That is either a testament to the precision of ancient Sumerian brewing knowledge, or to the fundamental robustness of fermentation as a process. Probably both.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.7121246701846965
+      "text": "3,800 years after that hymn was written, it still worked. That is either a testament to the precision of ancient Sumerian brewing knowledge, or to the fundamental robustness of fermentation as a process. Probably both.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.7090488126649076
     },
     {
-      "window_id": "wihLSMVD6iM:j0095",
+      "window_id": "wihLSMVD6iM:j0080",
       "video_id": "wihLSMVD6iM",
-      "idx": 95,
+      "idx": 80,
       "sent_ids": [
         "wihLSMVD6iM:s0201",
         "wihLSMVD6iM:s0202",
@@ -1455,37 +1260,24 @@
       "pos_pct": 0.7193707124010554
     },
     {
-      "window_id": "wihLSMVD6iM:j0096",
+      "window_id": "wihLSMVD6iM:j0081",
       "video_id": "wihLSMVD6iM",
-      "idx": 96,
+      "idx": 81,
       "sent_ids": [
-        "wihLSMVD6iM:s0204"
+        "wihLSMVD6iM:s0204",
+        "wihLSMVD6iM:s0205"
       ],
       "start_s": 1100.993,
-      "end_s": 1107.878,
-      "text": "Light beer, dark beer, filtered beer, beer mixed with honey, spiced varieties, regional styles.",
-      "n_words": 14,
-      "n_sentences": 1,
+      "end_s": 1116.845,
+      "text": "Light beer, dark beer, filtered beer, beer mixed with honey, spiced varieties, regional styles. They had an entire taxonomy of fermented beverages at a period when most of the world's population was still organizing itself into the first agricultural settlements.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.7262486807387862
     },
     {
-      "window_id": "wihLSMVD6iM:j0097",
+      "window_id": "wihLSMVD6iM:j0082",
       "video_id": "wihLSMVD6iM",
-      "idx": 97,
-      "sent_ids": [
-        "wihLSMVD6iM:s0205"
-      ],
-      "start_s": 1108.339,
-      "end_s": 1116.845,
-      "text": "They had an entire taxonomy of fermented beverages at a period when most of the world's population was still organizing itself into the first agricultural settlements.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.7310943271767809
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0098",
-      "video_id": "wihLSMVD6iM",
-      "idx": 98,
+      "idx": 82,
       "sent_ids": [
         "wihLSMVD6iM:s0206"
       ],
@@ -1497,96 +1289,70 @@
       "pos_pct": 0.7371926121372032
     },
     {
-      "window_id": "wihLSMVD6iM:j0099",
+      "window_id": "wihLSMVD6iM:j0083",
       "video_id": "wihLSMVD6iM",
-      "idx": 99,
+      "idx": 83,
       "sent_ids": [
-        "wihLSMVD6iM:s0207"
+        "wihLSMVD6iM:s0207",
+        "wihLSMVD6iM:s0208"
       ],
       "start_s": 1138.566,
-      "end_s": 1144.352,
-      "text": "about the proper pricing of different grades of beer, about what happens to a tavern owner caught watering down their product.",
-      "n_words": 21,
-      "n_sentences": 1,
+      "end_s": 1149.717,
+      "text": "about the proper pricing of different grades of beer, about what happens to a tavern owner caught watering down their product. If you watered down your beer in ancient Babylon, the punishment was being thrown into the river.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.751032981530343
     },
     {
-      "window_id": "wihLSMVD6iM:j0100",
+      "window_id": "wihLSMVD6iM:j0084",
       "video_id": "wihLSMVD6iM",
-      "idx": 100,
+      "idx": 84,
       "sent_ids": [
-        "wihLSMVD6iM:s0208",
         "wihLSMVD6iM:s0209",
-        "wihLSMVD6iM:s0210"
+        "wihLSMVD6iM:s0210",
+        "wihLSMVD6iM:s0211"
       ],
-      "start_s": 1144.913,
-      "end_s": 1156.024,
-      "text": "If you watered down your beer in ancient Babylon, the punishment was being thrown into the river. Humanities first. Great written legal code included consumer protection law for alcohol quality.",
-      "n_words": 30,
+      "start_s": 1150.178,
+      "end_s": 1160.929,
+      "text": "Humanities first. Great written legal code included consumer protection law for alcohol quality. We have, as a species, always known what matters.",
+      "n_words": 22,
       "n_sentences": 3,
-      "pos_pct": 0.7552196569920845
+      "pos_pct": 0.7586926121372033
     },
     {
-      "window_id": "wihLSMVD6iM:j0101",
+      "window_id": "wihLSMVD6iM:j0085",
       "video_id": "wihLSMVD6iM",
-      "idx": 101,
+      "idx": 85,
       "sent_ids": [
-        "wihLSMVD6iM:s0211",
-        "wihLSMVD6iM:s0212"
-      ],
-      "start_s": 1156.965,
-      "end_s": 1169.667,
-      "text": "We have, as a species, always known what matters. Egypt deserves its own chapter in this story, because the Egyptians were doing something slightly different, and in many ways, more interesting.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.763169525065963
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0102",
-      "video_id": "wihLSMVD6iM",
-      "idx": 102,
-      "sent_ids": [
+        "wihLSMVD6iM:s0212",
         "wihLSMVD6iM:s0213"
       ],
-      "start_s": 1170.047,
+      "start_s": 1162.383,
       "end_s": 1176.191,
-      "text": "Ancient Egyptians consumed both beer and wine, and both were completely central to their religious and daily lives.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.7717988126649077
+      "text": "Egypt deserves its own chapter in this story, because the Egyptians were doing something slightly different, and in many ways, more interesting. Ancient Egyptians consumed both beer and wine, and both were completely central to their religious and daily lives.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.7667434036939315
     },
     {
-      "window_id": "wihLSMVD6iM:j0103",
+      "window_id": "wihLSMVD6iM:j0086",
       "video_id": "wihLSMVD6iM",
-      "idx": 103,
+      "idx": 86,
       "sent_ids": [
-        "wihLSMVD6iM:s0214"
+        "wihLSMVD6iM:s0214",
+        "wihLSMVD6iM:s0215"
       ],
       "start_s": 1176.991,
-      "end_s": 1187.978,
-      "text": "The workers who built the pyramids—not slaves, as decades of Egyptological research has established—received regular rations of beer and bread as the foundational elements of their diet and their pay.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 1195.3,
+      "text": "The workers who built the pyramids—not slaves, as decades of Egyptological research has established—received regular rations of beer and bread as the foundational elements of their diet and their pay. Egyptian beer, made primarily from emmer wheat, was thick, nutritious, and low in alcohol by modern standards.",
+      "n_words": 47,
+      "n_sentences": 2,
       "pos_pct": 0.7763792875989446
     },
     {
-      "window_id": "wihLSMVD6iM:j0104",
+      "window_id": "wihLSMVD6iM:j0087",
       "video_id": "wihLSMVD6iM",
-      "idx": 104,
-      "sent_ids": [
-        "wihLSMVD6iM:s0215"
-      ],
-      "start_s": 1188.838,
-      "end_s": 1195.3,
-      "text": "Egyptian beer, made primarily from emmer wheat, was thick, nutritious, and low in alcohol by modern standards.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.7841939313984169
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0105",
-      "video_id": "wihLSMVD6iM",
-      "idx": 105,
+      "idx": 87,
       "sent_ids": [
         "wihLSMVD6iM:s0216",
         "wihLSMVD6iM:s0217"
@@ -1599,9 +1365,9 @@
       "pos_pct": 0.7891952506596307
     },
     {
-      "window_id": "wihLSMVD6iM:j0106",
+      "window_id": "wihLSMVD6iM:j0088",
       "video_id": "wihLSMVD6iM",
-      "idx": 106,
+      "idx": 88,
       "sent_ids": [
         "wihLSMVD6iM:s0218",
         "wihLSMVD6iM:s0219"
@@ -1614,9 +1380,9 @@
       "pos_pct": 0.7988416886543537
     },
     {
-      "window_id": "wihLSMVD6iM:j0107",
+      "window_id": "wihLSMVD6iM:j0089",
       "video_id": "wihLSMVD6iM",
-      "idx": 107,
+      "idx": 89,
       "sent_ids": [
         "wihLSMVD6iM:s0220",
         "wihLSMVD6iM:s0221"
@@ -1629,9 +1395,9 @@
       "pos_pct": 0.8064472295514512
     },
     {
-      "window_id": "wihLSMVD6iM:j0108",
+      "window_id": "wihLSMVD6iM:j0090",
       "video_id": "wihLSMVD6iM",
-      "idx": 108,
+      "idx": 90,
       "sent_ids": [
         "wihLSMVD6iM:s0222",
         "wihLSMVD6iM:s0223"
@@ -1644,9 +1410,9 @@
       "pos_pct": 0.8144228232189973
     },
     {
-      "window_id": "wihLSMVD6iM:j0109",
+      "window_id": "wihLSMVD6iM:j0091",
       "video_id": "wihLSMVD6iM",
-      "idx": 109,
+      "idx": 91,
       "sent_ids": [
         "wihLSMVD6iM:s0224",
         "wihLSMVD6iM:s0225"
@@ -1659,9 +1425,9 @@
       "pos_pct": 0.8216062005277045
     },
     {
-      "window_id": "wihLSMVD6iM:j0110",
+      "window_id": "wihLSMVD6iM:j0092",
       "video_id": "wihLSMVD6iM",
-      "idx": 110,
+      "idx": 92,
       "sent_ids": [
         "wihLSMVD6iM:s0226",
         "wihLSMVD6iM:s0227",
@@ -1675,9 +1441,9 @@
       "pos_pct": 0.830632585751979
     },
     {
-      "window_id": "wihLSMVD6iM:j0111",
+      "window_id": "wihLSMVD6iM:j0093",
       "video_id": "wihLSMVD6iM",
-      "idx": 111,
+      "idx": 93,
       "sent_ids": [
         "wihLSMVD6iM:s0229",
         "wihLSMVD6iM:s0230"
@@ -1690,95 +1456,69 @@
       "pos_pct": 0.8390811345646438
     },
     {
-      "window_id": "wihLSMVD6iM:j0112",
+      "window_id": "wihLSMVD6iM:j0094",
       "video_id": "wihLSMVD6iM",
-      "idx": 112,
+      "idx": 94,
       "sent_ids": [
-        "wihLSMVD6iM:s0231"
+        "wihLSMVD6iM:s0231",
+        "wihLSMVD6iM:s0232"
       ],
       "start_s": 1289.085,
-      "end_s": 1298.467,
-      "text": "to the sacred, to death and burial, to offerings and prayers, to the transition between the world of the living and whatever comes after.",
-      "n_words": 24,
-      "n_sentences": 1,
+      "end_s": 1302.848,
+      "text": "to the sacred, to death and burial, to offerings and prayers, to the transition between the world of the living and whatever comes after. The Natufians brewed beer in a burial cave to honor their dead.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.8503199208443272
     },
     {
-      "window_id": "wihLSMVD6iM:j0113",
+      "window_id": "wihLSMVD6iM:j0095",
       "video_id": "wihLSMVD6iM",
-      "idx": 113,
+      "idx": 95,
       "sent_ids": [
-        "wihLSMVD6iM:s0232",
-        "wihLSMVD6iM:s0233"
+        "wihLSMVD6iM:s0233",
+        "wihLSMVD6iM:s0234"
       ],
-      "start_s": 1299.527,
-      "end_s": 1309.79,
-      "text": "The Natufians brewed beer in a burial cave to honor their dead. The Sumerians dedicated an entire goddess to brewing and distributed beer as a fundamental part of religious life.",
-      "n_words": 30,
+      "start_s": 1303.648,
+      "end_s": 1316.291,
+      "text": "The Sumerians dedicated an entire goddess to brewing and distributed beer as a fundamental part of religious life. The Egyptians offered wine to Osiris at the border between this world and the next.",
+      "n_words": 33,
       "n_sentences": 2,
-      "pos_pct": 0.857207783641161
+      "pos_pct": 0.8599261213720316
     },
     {
-      "window_id": "wihLSMVD6iM:j0114",
+      "window_id": "wihLSMVD6iM:j0096",
       "video_id": "wihLSMVD6iM",
-      "idx": 114,
+      "idx": 96,
       "sent_ids": [
-        "wihLSMVD6iM:s0234",
-        "wihLSMVD6iM:s0235"
-      ],
-      "start_s": 1310.89,
-      "end_s": 1325.102,
-      "text": "The Egyptians offered wine to Osiris at the border between this world and the next. Ancient Chinese burial sites from 9,000 years ago contain painted pottery vessels that held beer made for the deceased.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.864703166226913
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0115",
-      "video_id": "wihLSMVD6iM",
-      "idx": 115,
-      "sent_ids": [
+        "wihLSMVD6iM:s0235",
         "wihLSMVD6iM:s0236"
       ],
-      "start_s": 1325.962,
+      "start_s": 1317.917,
       "end_s": 1338.611,
-      "text": "The earliest alcohol production we can identify across the entire span of human archaeology, on every continent where it has been studied, is fundamentally bound up with the spiritual, the communal, and the sacred.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.8746451187335093
+      "text": "Ancient Chinese burial sites from 9,000 years ago contain painted pottery vessels that held beer made for the deceased. The earliest alcohol production we can identify across the entire span of human archaeology, on every continent where it has been studied, is fundamentally bound up with the spiritual, the communal, and the sacred.",
+      "n_words": 53,
+      "n_sentences": 2,
+      "pos_pct": 0.8693383905013192
     },
     {
-      "window_id": "wihLSMVD6iM:j0116",
+      "window_id": "wihLSMVD6iM:j0097",
       "video_id": "wihLSMVD6iM",
-      "idx": 116,
+      "idx": 97,
       "sent_ids": [
-        "wihLSMVD6iM:s0237"
+        "wihLSMVD6iM:s0237",
+        "wihLSMVD6iM:s0238"
       ],
       "start_s": 1339.011,
-      "end_s": 1340.232,
-      "text": "This is not a coincidence.",
-      "n_words": 5,
-      "n_sentences": 1,
+      "end_s": 1359.798,
+      "text": "This is not a coincidence. There is something about altered states of consciousness, about the loosening of ordinary perception that a fermented beverage provides, that humans have consistently understood to be meaningful, to be a doorway, to represent a moment of stepping outside the ordinary bounds of individual experience and touching something larger.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.8832526385224274
     },
     {
-      "window_id": "wihLSMVD6iM:j0117",
+      "window_id": "wihLSMVD6iM:j0098",
       "video_id": "wihLSMVD6iM",
-      "idx": 117,
-      "sent_ids": [
-        "wihLSMVD6iM:s0238"
-      ],
-      "start_s": 1340.772,
-      "end_s": 1359.798,
-      "text": "There is something about altered states of consciousness, about the loosening of ordinary perception that a fermented beverage provides, that humans have consistently understood to be meaningful, to be a doorway, to represent a moment of stepping outside the ordinary bounds of individual experience and touching something larger.",
-      "n_words": 48,
-      "n_sentences": 1,
-      "pos_pct": 0.8844142480211081
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0118",
-      "video_id": "wihLSMVD6iM",
-      "idx": 118,
+      "idx": 98,
       "sent_ids": [
         "wihLSMVD6iM:s0239",
         "wihLSMVD6iM:s0240"
@@ -1791,9 +1531,9 @@
       "pos_pct": 0.8973997361477574
     },
     {
-      "window_id": "wihLSMVD6iM:j0119",
+      "window_id": "wihLSMVD6iM:j0099",
       "video_id": "wihLSMVD6iM",
-      "idx": 119,
+      "idx": 99,
       "sent_ids": [
         "wihLSMVD6iM:s0241",
         "wihLSMVD6iM:s0242"
@@ -1806,9 +1546,9 @@
       "pos_pct": 0.905278364116095
     },
     {
-      "window_id": "wihLSMVD6iM:j0120",
+      "window_id": "wihLSMVD6iM:j0100",
       "video_id": "wihLSMVD6iM",
-      "idx": 120,
+      "idx": 100,
       "sent_ids": [
         "wihLSMVD6iM:s0243",
         "wihLSMVD6iM:s0244"
@@ -1821,9 +1561,9 @@
       "pos_pct": 0.9144769129287599
     },
     {
-      "window_id": "wihLSMVD6iM:j0121",
+      "window_id": "wihLSMVD6iM:j0101",
       "video_id": "wihLSMVD6iM",
-      "idx": 121,
+      "idx": 101,
       "sent_ids": [
         "wihLSMVD6iM:s0245"
       ],
@@ -1835,9 +1575,9 @@
       "pos_pct": 0.9197691292875989
     },
     {
-      "window_id": "wihLSMVD6iM:j0122",
+      "window_id": "wihLSMVD6iM:j0102",
       "video_id": "wihLSMVD6iM",
-      "idx": 122,
+      "idx": 102,
       "sent_ids": [
         "wihLSMVD6iM:s0246"
       ],
@@ -1849,9 +1589,9 @@
       "pos_pct": 0.9297467018469657
     },
     {
-      "window_id": "wihLSMVD6iM:j0123",
+      "window_id": "wihLSMVD6iM:j0103",
       "video_id": "wihLSMVD6iM",
-      "idx": 123,
+      "idx": 103,
       "sent_ids": [
         "wihLSMVD6iM:s0247"
       ],
@@ -1863,37 +1603,24 @@
       "pos_pct": 0.9360079155672824
     },
     {
-      "window_id": "wihLSMVD6iM:j0124",
+      "window_id": "wihLSMVD6iM:j0104",
       "video_id": "wihLSMVD6iM",
-      "idx": 124,
+      "idx": 104,
       "sent_ids": [
-        "wihLSMVD6iM:s0248"
+        "wihLSMVD6iM:s0248",
+        "wihLSMVD6iM:s0249"
       ],
       "start_s": 1443.741,
-      "end_s": 1446.263,
-      "text": "From there, the trajectory is relatively well documented.",
-      "n_words": 8,
-      "n_sentences": 1,
+      "end_s": 1465.178,
+      "text": "From there, the trajectory is relatively well documented. Beer rations in Sumer, wine in Egypt's royal tombs, hymns to brewing goddesses, law codes, protecting the quality of tavern pours, and an unbroken chain of fermentation knowledge that connects a Neolithic pottery vessel to every bar, winery, brewery, and kitchen in the world today.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.9523357519788919
     },
     {
-      "window_id": "wihLSMVD6iM:j0125",
+      "window_id": "wihLSMVD6iM:j0105",
       "video_id": "wihLSMVD6iM",
-      "idx": 125,
-      "sent_ids": [
-        "wihLSMVD6iM:s0249"
-      ],
-      "start_s": 1446.903,
-      "end_s": 1465.178,
-      "text": "Beer rations in Sumer, wine in Egypt's royal tombs, hymns to brewing goddesses, law codes, protecting the quality of tavern pours, and an unbroken chain of fermentation knowledge that connects a Neolithic pottery vessel to every bar, winery, brewery, and kitchen in the world today.",
-      "n_words": 45,
-      "n_sentences": 1,
-      "pos_pct": 0.9544215039577837
-    },
-    {
-      "window_id": "wihLSMVD6iM:j0126",
-      "video_id": "wihLSMVD6iM",
-      "idx": 126,
+      "idx": 105,
       "sent_ids": [
         "wihLSMVD6iM:s0250"
       ],
@@ -1905,9 +1632,9 @@
       "pos_pct": 0.9671866754617415
     },
     {
-      "window_id": "wihLSMVD6iM:j0127",
+      "window_id": "wihLSMVD6iM:j0106",
       "video_id": "wihLSMVD6iM",
-      "idx": 127,
+      "idx": 106,
       "sent_ids": [
         "wihLSMVD6iM:s0251"
       ],
@@ -1919,51 +1646,51 @@
       "pos_pct": 0.9707381266490764
     },
     {
-      "window_id": "wihLSMVD6iM:j0128",
+      "window_id": "wihLSMVD6iM:j0107",
       "video_id": "wihLSMVD6iM",
-      "idx": 128,
+      "idx": 107,
       "sent_ids": [
-        "wihLSMVD6iM:s0252"
+        "wihLSMVD6iM:s0252",
+        "wihLSMVD6iM:s0253"
       ],
       "start_s": 1490.66,
-      "end_s": 1499.034,
-      "text": "And behind that, another 10 million years of monkeys in the forest, following the smell of something sweet and slightly wrong, and deciding every time to go toward it.",
-      "n_words": 29,
-      "n_sentences": 1,
+      "end_s": 1501.938,
+      "text": "And behind that, another 10 million years of monkeys in the forest, following the smell of something sweet and slightly wrong, and deciding every time to go toward it. Humanity didn't stumble into alcohol by accident.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.9832849604221636
     },
     {
-      "window_id": "wihLSMVD6iM:j0129",
+      "window_id": "wihLSMVD6iM:j0108",
       "video_id": "wihLSMVD6iM",
-      "idx": 129,
+      "idx": 108,
       "sent_ids": [
-        "wihLSMVD6iM:s0253",
         "wihLSMVD6iM:s0254",
         "wihLSMVD6iM:s0255",
-        "wihLSMVD6iM:s0256"
+        "wihLSMVD6iM:s0256",
+        "wihLSMVD6iM:s0257"
       ],
-      "start_s": 1499.615,
-      "end_s": 1509.531,
-      "text": "Humanity didn't stumble into alcohol by accident. We grew toward it, the way a plant grows toward light. Okay, I'm off now. I'm gonna get completely drunk.",
-      "n_words": 27,
+      "start_s": 1502.559,
+      "end_s": 1511.714,
+      "text": "We grew toward it, the way a plant grows toward light. Okay, I'm off now. I'm gonna get completely drunk. In the meantime, click on the next video.",
+      "n_words": 28,
       "n_sentences": 4,
-      "pos_pct": 0.9891919525065963
+      "pos_pct": 0.9911339050131925
     },
     {
-      "window_id": "wihLSMVD6iM:j0130",
+      "window_id": "wihLSMVD6iM:j0109",
       "video_id": "wihLSMVD6iM",
-      "idx": 130,
+      "idx": 109,
       "sent_ids": [
-        "wihLSMVD6iM:s0257",
         "wihLSMVD6iM:s0258",
         "wihLSMVD6iM:s0259"
       ],
-      "start_s": 1509.992,
+      "start_s": 1512.175,
       "end_s": 1514.739,
-      "text": "In the meantime, click on the next video. Bro, please, just click. See you soon.",
-      "n_words": 15,
-      "n_sentences": 3,
-      "pos_pct": 0.9960369393139842
+      "text": "Bro, please, just click. See you soon.",
+      "n_words": 7,
+      "n_sentences": 2,
+      "pos_pct": 0.9974769129287598
     }
   ]
 }

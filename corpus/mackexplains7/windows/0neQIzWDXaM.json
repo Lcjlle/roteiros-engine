@@ -1,6 +1,6 @@
 {
   "video_id": "0neQIzWDXaM",
-  "generated_at": "2026-09-03T11:59:53.000241+00:00",
+  "generated_at": "2026-09-03T13:18:13.105352+00:00",
   "windows": [
     {
       "window_id": "0neQIzWDXaM:j0000",
@@ -84,33 +84,20 @@
       "video_id": "0neQIzWDXaM",
       "idx": 5,
       "sent_ids": [
-        "0neQIzWDXaM:s0012"
+        "0neQIzWDXaM:s0012",
+        "0neQIzWDXaM:s0013"
       ],
       "start_s": 41.713,
-      "end_s": 42.913,
-      "text": "The compression is ongoing.",
-      "n_words": 4,
-      "n_sentences": 1,
+      "end_s": 50.557,
+      "text": "The compression is ongoing. A year at 40 does not feel the same length as a year at 30, which felt nothing like a year at 20, which was an eternity compared to summer when you were 8.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.02990179211469534
     },
     {
       "window_id": "0neQIzWDXaM:j0006",
       "video_id": "0neQIzWDXaM",
       "idx": 6,
-      "sent_ids": [
-        "0neQIzWDXaM:s0013"
-      ],
-      "start_s": 43.273,
-      "end_s": 50.557,
-      "text": "A year at 40 does not feel the same length as a year at 30, which felt nothing like a year at 20, which was an eternity compared to summer when you were 8.",
-      "n_words": 34,
-      "n_sentences": 1,
-      "pos_pct": 0.031020071684587817
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0007",
-      "video_id": "0neQIzWDXaM",
-      "idx": 7,
       "sent_ids": [
         "0neQIzWDXaM:s0014",
         "0neQIzWDXaM:s0015",
@@ -124,9 +111,9 @@
       "pos_pct": 0.036757706093189964
     },
     {
-      "window_id": "0neQIzWDXaM:j0008",
+      "window_id": "0neQIzWDXaM:j0007",
       "video_id": "0neQIzWDXaM",
-      "idx": 8,
+      "idx": 7,
       "sent_ids": [
         "0neQIzWDXaM:s0017",
         "0neQIzWDXaM:s0018",
@@ -140,9 +127,9 @@
       "pos_pct": 0.04018637992831541
     },
     {
-      "window_id": "0neQIzWDXaM:j0009",
+      "window_id": "0neQIzWDXaM:j0008",
       "video_id": "0neQIzWDXaM",
-      "idx": 9,
+      "idx": 8,
       "sent_ids": [
         "0neQIzWDXaM:s0020",
         "0neQIzWDXaM:s0021"
@@ -155,37 +142,24 @@
       "pos_pct": 0.04858637992831542
     },
     {
-      "window_id": "0neQIzWDXaM:j0010",
+      "window_id": "0neQIzWDXaM:j0009",
       "video_id": "0neQIzWDXaM",
-      "idx": 10,
+      "idx": 9,
       "sent_ids": [
-        "0neQIzWDXaM:s0022"
+        "0neQIzWDXaM:s0022",
+        "0neQIzWDXaM:s0023"
       ],
       "start_s": 81.448,
-      "end_s": 89.134,
-      "text": "Start with the ratio hypothesis, because this is the most commonly cited explanation, and it is illuminating even though it is not the complete story.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 97.198,
+      "text": "Start with the ratio hypothesis, because this is the most commonly cited explanation, and it is illuminating even though it is not the complete story. The ratio hypothesis proposes that the perceived length of a time period is experienced relative to the total time you have already lived.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.05838566308243727
     },
     {
-      "window_id": "0neQIzWDXaM:j0011",
+      "window_id": "0neQIzWDXaM:j0010",
       "video_id": "0neQIzWDXaM",
-      "idx": 11,
-      "sent_ids": [
-        "0neQIzWDXaM:s0023"
-      ],
-      "start_s": 90.018,
-      "end_s": 97.198,
-      "text": "The ratio hypothesis proposes that the perceived length of a time period is experienced relative to the total time you have already lived.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.06452903225806451
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0012",
-      "video_id": "0neQIzWDXaM",
-      "idx": 12,
+      "idx": 10,
       "sent_ids": [
         "0neQIzWDXaM:s0024",
         "0neQIzWDXaM:s0025",
@@ -199,37 +173,24 @@
       "pos_pct": 0.0703068100358423
     },
     {
-      "window_id": "0neQIzWDXaM:j0013",
+      "window_id": "0neQIzWDXaM:j0011",
       "video_id": "0neQIzWDXaM",
-      "idx": 13,
+      "idx": 11,
       "sent_ids": [
-        "0neQIzWDXaM:s0027"
+        "0neQIzWDXaM:s0027",
+        "0neQIzWDXaM:s0028"
       ],
       "start_s": 109.26,
-      "end_s": 111.021,
-      "text": "At 80, it is 1 80th.",
-      "n_words": 6,
-      "n_sentences": 1,
+      "end_s": 121.323,
+      "text": "At 80, it is 1 80th. The subjective experience of a year at 5 feels long, relative to a year at 40, partly because at 5, a year is a proportionally enormous slice of lived experience.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.07832258064516129
     },
     {
-      "window_id": "0neQIzWDXaM:j0014",
+      "window_id": "0neQIzWDXaM:j0012",
       "video_id": "0neQIzWDXaM",
-      "idx": 14,
-      "sent_ids": [
-        "0neQIzWDXaM:s0028"
-      ],
-      "start_s": 111.401,
-      "end_s": 121.323,
-      "text": "The subjective experience of a year at 5 feels long, relative to a year at 40, partly because at 5, a year is a proportionally enormous slice of lived experience.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.07985734767025089
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0015",
-      "video_id": "0neQIzWDXaM",
-      "idx": 15,
+      "idx": 12,
       "sent_ids": [
         "0neQIzWDXaM:s0029",
         "0neQIzWDXaM:s0030"
@@ -242,9 +203,9 @@
       "pos_pct": 0.08764372759856631
     },
     {
-      "window_id": "0neQIzWDXaM:j0016",
+      "window_id": "0neQIzWDXaM:j0013",
       "video_id": "0neQIzWDXaM",
-      "idx": 16,
+      "idx": 13,
       "sent_ids": [
         "0neQIzWDXaM:s0031",
         "0neQIzWDXaM:s0032"
@@ -257,39 +218,39 @@
       "pos_pct": 0.09594623655913978
     },
     {
-      "window_id": "0neQIzWDXaM:j0017",
+      "window_id": "0neQIzWDXaM:j0014",
       "video_id": "0neQIzWDXaM",
-      "idx": 17,
+      "idx": 14,
       "sent_ids": [
-        "0neQIzWDXaM:s0033"
+        "0neQIzWDXaM:s0033",
+        "0neQIzWDXaM:s0034"
       ],
       "start_s": 142.232,
-      "end_s": 152.88,
-      "text": "The ratio hypothesis predicts a simple compression that scales with age, but the actual experience of time acceleration is more irregular and more context-dependent than a simple ratio model would predict.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 154.962,
+      "text": "The ratio hypothesis predicts a simple compression that scales with age, but the actual experience of time acceleration is more irregular and more context-dependent than a simple ratio model would predict. Some years at 40 feel long.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.1019584229390681
     },
     {
-      "window_id": "0neQIzWDXaM:j0018",
+      "window_id": "0neQIzWDXaM:j0015",
       "video_id": "0neQIzWDXaM",
-      "idx": 18,
+      "idx": 15,
       "sent_ids": [
-        "0neQIzWDXaM:s0034",
         "0neQIzWDXaM:s0035",
         "0neQIzWDXaM:s0036"
       ],
-      "start_s": 153.561,
+      "start_s": 155.522,
       "end_s": 159.706,
-      "text": "Some years at 40 feel long. Some years at 20 felt short. The ratio doesn't account for this variation.",
-      "n_words": 19,
-      "n_sentences": 3,
-      "pos_pct": 0.11007956989247313
+      "text": "Some years at 20 felt short. The ratio doesn't account for this variation.",
+      "n_words": 13,
+      "n_sentences": 2,
+      "pos_pct": 0.1114853046594982
     },
     {
-      "window_id": "0neQIzWDXaM:j0019",
+      "window_id": "0neQIzWDXaM:j0016",
       "video_id": "0neQIzWDXaM",
-      "idx": 19,
+      "idx": 16,
       "sent_ids": [
         "0neQIzWDXaM:s0037",
         "0neQIzWDXaM:s0038"
@@ -302,9 +263,9 @@
       "pos_pct": 0.11475770609318996
     },
     {
-      "window_id": "0neQIzWDXaM:j0020",
+      "window_id": "0neQIzWDXaM:j0017",
       "video_id": "0neQIzWDXaM",
-      "idx": 20,
+      "idx": 17,
       "sent_ids": [
         "0neQIzWDXaM:s0039",
         "0neQIzWDXaM:s0040"
@@ -317,9 +278,9 @@
       "pos_pct": 0.12253620071684587
     },
     {
-      "window_id": "0neQIzWDXaM:j0021",
+      "window_id": "0neQIzWDXaM:j0018",
       "video_id": "0neQIzWDXaM",
-      "idx": 21,
+      "idx": 18,
       "sent_ids": [
         "0neQIzWDXaM:s0041",
         "0neQIzWDXaM:s0042"
@@ -332,9 +293,9 @@
       "pos_pct": 0.12988100358422938
     },
     {
-      "window_id": "0neQIzWDXaM:j0022",
+      "window_id": "0neQIzWDXaM:j0019",
       "video_id": "0neQIzWDXaM",
-      "idx": 22,
+      "idx": 19,
       "sent_ids": [
         "0neQIzWDXaM:s0043",
         "0neQIzWDXaM:s0044"
@@ -347,9 +308,9 @@
       "pos_pct": 0.1400358422939068
     },
     {
-      "window_id": "0neQIzWDXaM:j0023",
+      "window_id": "0neQIzWDXaM:j0020",
       "video_id": "0neQIzWDXaM",
-      "idx": 23,
+      "idx": 20,
       "sent_ids": [
         "0neQIzWDXaM:s0045",
         "0neQIzWDXaM:s0046"
@@ -362,37 +323,24 @@
       "pos_pct": 0.147552688172043
     },
     {
-      "window_id": "0neQIzWDXaM:j0024",
+      "window_id": "0neQIzWDXaM:j0021",
       "video_id": "0neQIzWDXaM",
-      "idx": 24,
+      "idx": 21,
       "sent_ids": [
-        "0neQIzWDXaM:s0047"
+        "0neQIzWDXaM:s0047",
+        "0neQIzWDXaM:s0048"
       ],
       "start_s": 219.667,
-      "end_s": 221.988,
-      "text": "the irregularity of time acceleration.",
-      "n_words": 5,
-      "n_sentences": 1,
+      "end_s": 236.593,
+      "text": "the irregularity of time acceleration. A year that was full of new experiences, new places, new people, new challenges, a year that generated a high density of distinct encoded memories, feels longer in retrospect than a year of routine, regardless of the person's age.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.1574673835125448
     },
     {
-      "window_id": "0neQIzWDXaM:j0025",
+      "window_id": "0neQIzWDXaM:j0022",
       "video_id": "0neQIzWDXaM",
-      "idx": 25,
-      "sent_ids": [
-        "0neQIzWDXaM:s0048"
-      ],
-      "start_s": 222.828,
-      "end_s": 236.593,
-      "text": "A year that was full of new experiences, new places, new people, new challenges, a year that generated a high density of distinct encoded memories, feels longer in retrospect than a year of routine, regardless of the person's age.",
-      "n_words": 39,
-      "n_sentences": 1,
-      "pos_pct": 0.15973333333333334
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0026",
-      "video_id": "0neQIzWDXaM",
-      "idx": 26,
+      "idx": 22,
       "sent_ids": [
         "0neQIzWDXaM:s0049",
         "0neQIzWDXaM:s0050",
@@ -406,9 +354,9 @@
       "pos_pct": 0.17015985663082436
     },
     {
-      "window_id": "0neQIzWDXaM:j0027",
+      "window_id": "0neQIzWDXaM:j0023",
       "video_id": "0neQIzWDXaM",
-      "idx": 27,
+      "idx": 23,
       "sent_ids": [
         "0neQIzWDXaM:s0052",
         "0neQIzWDXaM:s0053"
@@ -421,9 +369,9 @@
       "pos_pct": 0.1790336917562724
     },
     {
-      "window_id": "0neQIzWDXaM:j0028",
+      "window_id": "0neQIzWDXaM:j0024",
       "video_id": "0neQIzWDXaM",
-      "idx": 28,
+      "idx": 24,
       "sent_ids": [
         "0neQIzWDXaM:s0054",
         "0neQIzWDXaM:s0055"
@@ -436,223 +384,145 @@
       "pos_pct": 0.18696702508960575
     },
     {
+      "window_id": "0neQIzWDXaM:j0025",
+      "video_id": "0neQIzWDXaM",
+      "idx": 25,
+      "sent_ids": [
+        "0neQIzWDXaM:s0056",
+        "0neQIzWDXaM:s0057"
+      ],
+      "start_s": 269.829,
+      "end_s": 283.097,
+      "text": "The first day of school, the first time riding a bike, the first experience of rain, the first time trying a new food. These are not experiences that can be predicted from prior knowledge because there is no relevant prior knowledge.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.19342580645161292
+    },
+    {
+      "window_id": "0neQIzWDXaM:j0026",
+      "video_id": "0neQIzWDXaM",
+      "idx": 26,
+      "sent_ids": [
+        "0neQIzWDXaM:s0058",
+        "0neQIzWDXaM:s0059"
+      ],
+      "start_s": 283.417,
+      "end_s": 292.784,
+      "text": "They must be encoded freshly in detail because they are informative about how the world works. Each of these novel experiences generates a distinct memory.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.20316630824372758
+    },
+    {
+      "window_id": "0neQIzWDXaM:j0027",
+      "video_id": "0neQIzWDXaM",
+      "idx": 27,
+      "sent_ids": [
+        "0neQIzWDXaM:s0060",
+        "0neQIzWDXaM:s0061"
+      ],
+      "start_s": 293.424,
+      "end_s": 313.261,
+      "text": "The summer at 8 feels eternal in retrospect, because it was full of novel experiences that were encoded as individual, distinct memories. You remember the smell of the grass and the specific quality of light on a particular afternoon because those sensory details were part of genuinely new experiences that the brain was encoding carefully.",
+      "n_words": 55,
+      "n_sentences": 2,
+      "pos_pct": 0.21033978494623654
+    },
+    {
+      "window_id": "0neQIzWDXaM:j0028",
+      "video_id": "0neQIzWDXaM",
+      "idx": 28,
+      "sent_ids": [
+        "0neQIzWDXaM:s0062",
+        "0neQIzWDXaM:s0063"
+      ],
+      "start_s": 314.342,
+      "end_s": 326.396,
+      "text": "Adults have seen most of what there is to see, at least within their typical environments and daily routines. The morning commute to work, if you have been doing it for five years, is not a novel experience.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.2253347670250896
+    },
+    {
       "window_id": "0neQIzWDXaM:j0029",
       "video_id": "0neQIzWDXaM",
       "idx": 29,
       "sent_ids": [
-        "0neQIzWDXaM:s0056"
+        "0neQIzWDXaM:s0064",
+        "0neQIzWDXaM:s0065"
       ],
-      "start_s": 269.829,
-      "end_s": 277.293,
-      "text": "The first day of school, the first time riding a bike, the first experience of rain, the first time trying a new food.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.19342580645161292
+      "start_s": 327.317,
+      "end_s": 344.682,
+      "text": "The brain processes it efficiently, using prediction and pattern recognition to handle it without generating detailed new memories. You arrive at work without a clear memory of the journey, not because something is wrong with you, but because the journey was predicted well enough that no new encoding was required.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.23463584229390683
     },
     {
       "window_id": "0neQIzWDXaM:j0030",
       "video_id": "0neQIzWDXaM",
       "idx": 30,
       "sent_ids": [
-        "0neQIzWDXaM:s0057",
-        "0neQIzWDXaM:s0058"
+        "0neQIzWDXaM:s0066",
+        "0neQIzWDXaM:s0067"
       ],
-      "start_s": 277.674,
-      "end_s": 289.061,
-      "text": "These are not experiences that can be predicted from prior knowledge because there is no relevant prior knowledge. They must be encoded freshly in detail because they are informative about how the world works.",
-      "n_words": 34,
+      "start_s": 345.362,
+      "end_s": 364.175,
+      "text": "Multiply this efficiency across the full day, the full week, the full year. A year of predictable, routine experience, work, commute, grocery shopping, known social contexts, familiar places, generates far fewer distinct encoded memories than a year of novelty.",
+      "n_words": 39,
       "n_sentences": 2,
-      "pos_pct": 0.19904946236559137
+      "pos_pct": 0.24757132616487457
     },
     {
       "window_id": "0neQIzWDXaM:j0031",
       "video_id": "0neQIzWDXaM",
       "idx": 31,
       "sent_ids": [
-        "0neQIzWDXaM:s0059",
-        "0neQIzWDXaM:s0060"
+        "0neQIzWDXaM:s0068",
+        "0neQIzWDXaM:s0069"
       ],
-      "start_s": 289.841,
-      "end_s": 301.992,
-      "text": "Each of these novel experiences generates a distinct memory. The summer at 8 feels eternal in retrospect, because it was full of novel experiences that were encoded as individual, distinct memories.",
-      "n_words": 31,
+      "start_s": 364.755,
+      "end_s": 378.039,
+      "text": "The retrospective brain, estimating how long that year lasted based on the density of its memory traces, concludes that it was short. Because by the only measure the brain has available for retrospective time estimation, it was.",
+      "n_words": 37,
       "n_sentences": 2,
-      "pos_pct": 0.20777132616487456
+      "pos_pct": 0.26147311827956987
     },
     {
       "window_id": "0neQIzWDXaM:j0032",
       "video_id": "0neQIzWDXaM",
       "idx": 32,
       "sent_ids": [
-        "0neQIzWDXaM:s0061"
+        "0neQIzWDXaM:s0070",
+        "0neQIzWDXaM:s0071",
+        "0neQIzWDXaM:s0072"
       ],
-      "start_s": 302.872,
-      "end_s": 313.261,
-      "text": "You remember the smell of the grass and the specific quality of light on a particular afternoon because those sensory details were part of genuinely new experiences that the brain was encoding carefully.",
-      "n_words": 33,
-      "n_sentences": 1,
-      "pos_pct": 0.2171125448028674
+      "start_s": 379.159,
+      "end_s": 393.003,
+      "text": "This mechanism explains not just the age-related acceleration, but also the specific phenomenology of it. Why certain years feel long regardless of age. Why vacation time feels short in the moment, but long in retrospect.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.2717985663082437
     },
     {
       "window_id": "0neQIzWDXaM:j0033",
       "video_id": "0neQIzWDXaM",
       "idx": 33,
       "sent_ids": [
-        "0neQIzWDXaM:s0062"
+        "0neQIzWDXaM:s0073",
+        "0neQIzWDXaM:s0074"
       ],
-      "start_s": 314.342,
-      "end_s": 319.668,
-      "text": "Adults have seen most of what there is to see, at least within their typical environments and daily routines.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.2253347670250896
+      "start_s": 393.563,
+      "end_s": 410.582,
+      "text": "and why the end of life feels imminent to old people in ways that have nothing to do with mortality statistics. Let's talk about the perspective versus retrospective distinction, because this is one of the most interesting nuances in time perception research and one that most people don't consider.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.28212401433691753
     },
     {
       "window_id": "0neQIzWDXaM:j0034",
       "video_id": "0neQIzWDXaM",
       "idx": 34,
-      "sent_ids": [
-        "0neQIzWDXaM:s0063"
-      ],
-      "start_s": 320.589,
-      "end_s": 326.396,
-      "text": "The morning commute to work, if you have been doing it for five years, is not a novel experience.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.22981290322580644
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0035",
-      "video_id": "0neQIzWDXaM",
-      "idx": 35,
-      "sent_ids": [
-        "0neQIzWDXaM:s0064"
-      ],
-      "start_s": 327.317,
-      "end_s": 334.585,
-      "text": "The brain processes it efficiently, using prediction and pattern recognition to handle it without generating detailed new memories.",
-      "n_words": 18,
-      "n_sentences": 1,
-      "pos_pct": 0.23463584229390683
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0036",
-      "video_id": "0neQIzWDXaM",
-      "idx": 36,
-      "sent_ids": [
-        "0neQIzWDXaM:s0065"
-      ],
-      "start_s": 335.816,
-      "end_s": 344.682,
-      "text": "You arrive at work without a clear memory of the journey, not because something is wrong with you, but because the journey was predicted well enough that no new encoding was required.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.24072831541218637
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0037",
-      "video_id": "0neQIzWDXaM",
-      "idx": 37,
-      "sent_ids": [
-        "0neQIzWDXaM:s0066"
-      ],
-      "start_s": 345.362,
-      "end_s": 350.105,
-      "text": "Multiply this efficiency across the full day, the full week, the full year.",
-      "n_words": 13,
-      "n_sentences": 1,
-      "pos_pct": 0.24757132616487457
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0038",
-      "video_id": "0neQIzWDXaM",
-      "idx": 38,
-      "sent_ids": [
-        "0neQIzWDXaM:s0067"
-      ],
-      "start_s": 350.826,
-      "end_s": 364.175,
-      "text": "A year of predictable, routine experience, work, commute, grocery shopping, known social contexts, familiar places, generates far fewer distinct encoded memories than a year of novelty.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.25148817204301077
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0039",
-      "video_id": "0neQIzWDXaM",
-      "idx": 39,
-      "sent_ids": [
-        "0neQIzWDXaM:s0068"
-      ],
-      "start_s": 364.755,
-      "end_s": 372.177,
-      "text": "The retrospective brain, estimating how long that year lasted based on the density of its memory traces, concludes that it was short.",
-      "n_words": 22,
-      "n_sentences": 1,
-      "pos_pct": 0.26147311827956987
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0040",
-      "video_id": "0neQIzWDXaM",
-      "idx": 40,
-      "sent_ids": [
-        "0neQIzWDXaM:s0069",
-        "0neQIzWDXaM:s0070"
-      ],
-      "start_s": 372.917,
-      "end_s": 385.121,
-      "text": "Because by the only measure the brain has available for retrospective time estimation, it was. This mechanism explains not just the age-related acceleration, but also the specific phenomenology of it.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.26732401433691755
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0041",
-      "video_id": "0neQIzWDXaM",
-      "idx": 41,
-      "sent_ids": [
-        "0neQIzWDXaM:s0071",
-        "0neQIzWDXaM:s0072"
-      ],
-      "start_s": 385.661,
-      "end_s": 393.003,
-      "text": "Why certain years feel long regardless of age. Why vacation time feels short in the moment, but long in retrospect.",
-      "n_words": 20,
-      "n_sentences": 2,
-      "pos_pct": 0.2764594982078853
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0042",
-      "video_id": "0neQIzWDXaM",
-      "idx": 42,
-      "sent_ids": [
-        "0neQIzWDXaM:s0073"
-      ],
-      "start_s": 393.563,
-      "end_s": 399.748,
-      "text": "and why the end of life feels imminent to old people in ways that have nothing to do with mortality statistics.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.28212401433691753
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0043",
-      "video_id": "0neQIzWDXaM",
-      "idx": 43,
-      "sent_ids": [
-        "0neQIzWDXaM:s0074"
-      ],
-      "start_s": 400.858,
-      "end_s": 410.582,
-      "text": "Let's talk about the perspective versus retrospective distinction, because this is one of the most interesting nuances in time perception research and one that most people don't consider.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.28735340501792117
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0044",
-      "video_id": "0neQIzWDXaM",
-      "idx": 44,
       "sent_ids": [
         "0neQIzWDXaM:s0075",
         "0neQIzWDXaM:s0076"
@@ -665,9 +535,9 @@
       "pos_pct": 0.2949835125448029
     },
     {
-      "window_id": "0neQIzWDXaM:j0045",
+      "window_id": "0neQIzWDXaM:j0035",
       "video_id": "0neQIzWDXaM",
-      "idx": 45,
+      "idx": 35,
       "sent_ids": [
         "0neQIzWDXaM:s0077",
         "0neQIzWDXaM:s0078",
@@ -681,9 +551,9 @@
       "pos_pct": 0.3042494623655914
     },
     {
-      "window_id": "0neQIzWDXaM:j0046",
+      "window_id": "0neQIzWDXaM:j0036",
       "video_id": "0neQIzWDXaM",
-      "idx": 46,
+      "idx": 36,
       "sent_ids": [
         "0neQIzWDXaM:s0080",
         "0neQIzWDXaM:s0081"
@@ -696,9 +566,9 @@
       "pos_pct": 0.3136451612903226
     },
     {
-      "window_id": "0neQIzWDXaM:j0047",
+      "window_id": "0neQIzWDXaM:j0037",
       "video_id": "0neQIzWDXaM",
-      "idx": 47,
+      "idx": 37,
       "sent_ids": [
         "0neQIzWDXaM:s0082",
         "0neQIzWDXaM:s0083",
@@ -712,9 +582,9 @@
       "pos_pct": 0.3209627240143369
     },
     {
-      "window_id": "0neQIzWDXaM:j0048",
+      "window_id": "0neQIzWDXaM:j0038",
       "video_id": "0neQIzWDXaM",
-      "idx": 48,
+      "idx": 38,
       "sent_ids": [
         "0neQIzWDXaM:s0085",
         "0neQIzWDXaM:s0086",
@@ -728,80 +598,54 @@
       "pos_pct": 0.33107670250896054
     },
     {
-      "window_id": "0neQIzWDXaM:j0049",
+      "window_id": "0neQIzWDXaM:j0039",
       "video_id": "0neQIzWDXaM",
-      "idx": 49,
+      "idx": 39,
       "sent_ids": [
-        "0neQIzWDXaM:s0088"
+        "0neQIzWDXaM:s0088",
+        "0neQIzWDXaM:s0089"
       ],
       "start_s": 476.04,
-      "end_s": 483.189,
-      "text": "The vacation week feels substantial in the retrospective review, full of separable moments and experiences that can be individually recalled.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 494.623,
+      "text": "The vacation week feels substantial in the retrospective review, full of separable moments and experiences that can be individually recalled. This paradox—that the experiences that feel longest in the moment feel shortest in retrospect, and vice versa—is one of the most reliable findings in time-perception research.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.341247311827957
     },
     {
-      "window_id": "0neQIzWDXaM:j0050",
+      "window_id": "0neQIzWDXaM:j0040",
       "video_id": "0neQIzWDXaM",
-      "idx": 50,
+      "idx": 40,
       "sent_ids": [
-        "0neQIzWDXaM:s0089"
-      ],
-      "start_s": 484.21,
-      "end_s": 494.623,
-      "text": "This paradox—that the experiences that feel longest in the moment feel shortest in retrospect, and vice versa—is one of the most reliable findings in time-perception research.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.34710394265232974
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0051",
-      "video_id": "0neQIzWDXaM",
-      "idx": 51,
-      "sent_ids": [
-        "0neQIzWDXaM:s0090"
+        "0neQIzWDXaM:s0090",
+        "0neQIzWDXaM:s0091"
       ],
       "start_s": 495.584,
-      "end_s": 506.438,
-      "text": "It is also one of the most practically important because it means that optimizing for day-to-day comfort and the reduction of boredom may systematically produce lives that feel shorter in retrospect.",
-      "n_words": 31,
-      "n_sentences": 1,
+      "end_s": 509.141,
+      "text": "It is also one of the most practically important because it means that optimizing for day-to-day comfort and the reduction of boredom may systematically produce lives that feel shorter in retrospect. A life of maximized comfort and routine",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.3552573476702509
     },
     {
-      "window_id": "0neQIzWDXaM:j0052",
+      "window_id": "0neQIzWDXaM:j0041",
       "video_id": "0neQIzWDXaM",
-      "idx": 52,
+      "idx": 41,
       "sent_ids": [
-        "0neQIzWDXaM:s0091",
-        "0neQIzWDXaM:s0092"
-      ],
-      "start_s": 507.139,
-      "end_s": 518.972,
-      "text": "A life of maximized comfort and routine A life structured to eliminate friction, unpredictability, and novelty is a life that will feel like it passed in an instant when you look back at it.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.3635405017921147
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0053",
-      "video_id": "0neQIzWDXaM",
-      "idx": 53,
-      "sent_ids": [
+        "0neQIzWDXaM:s0092",
         "0neQIzWDXaM:s0093"
       ],
-      "start_s": 519.792,
+      "start_s": 510.327,
       "end_s": 523.154,
-      "text": "The opposite is not intuitive, but it is supported by the evidence.",
-      "n_words": 12,
-      "n_sentences": 1,
-      "pos_pct": 0.37261075268817206
+      "text": "A life structured to eliminate friction, unpredictability, and novelty is a life that will feel like it passed in an instant when you look back at it. The opposite is not intuitive, but it is supported by the evidence.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.3658258064516129
     },
     {
-      "window_id": "0neQIzWDXaM:j0054",
+      "window_id": "0neQIzWDXaM:j0042",
       "video_id": "0neQIzWDXaM",
-      "idx": 54,
+      "idx": 42,
       "sent_ids": [
         "0neQIzWDXaM:s0094"
       ],
@@ -813,80 +657,54 @@
       "pos_pct": 0.37552329749103946
     },
     {
-      "window_id": "0neQIzWDXaM:j0055",
+      "window_id": "0neQIzWDXaM:j0043",
       "video_id": "0neQIzWDXaM",
-      "idx": 55,
+      "idx": 43,
       "sent_ids": [
-        "0neQIzWDXaM:s0095"
+        "0neQIzWDXaM:s0095",
+        "0neQIzWDXaM:s0096"
       ],
       "start_s": 536.365,
-      "end_s": 548.076,
-      "text": "Now let's talk about the role of attention, because attention is the mechanism that connects novelty to memory encoding, and that provides the most direct lever for intervening in the time acceleration experience.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 551.641,
+      "text": "Now let's talk about the role of attention, because attention is the mechanism that connects novelty to memory encoding, and that provides the most direct lever for intervening in the time acceleration experience. Memories are formed from experience that is attended to.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.3844910394265233
     },
     {
-      "window_id": "0neQIzWDXaM:j0056",
+      "window_id": "0neQIzWDXaM:j0044",
       "video_id": "0neQIzWDXaM",
-      "idx": 56,
+      "idx": 44,
       "sent_ids": [
-        "0neQIzWDXaM:s0096",
-        "0neQIzWDXaM:s0097"
-      ],
-      "start_s": 548.817,
-      "end_s": 564.377,
-      "text": "Memories are formed from experience that is attended to. Unattended experience—experience that is processed but not focused on, that passes through the senses without generating cognitive engagement—produces weak or absent memory traces.",
-      "n_words": 32,
-      "n_sentences": 2,
-      "pos_pct": 0.3934172043010753
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0057",
-      "video_id": "0neQIzWDXaM",
-      "idx": 57,
-      "sent_ids": [
+        "0neQIzWDXaM:s0097",
         "0neQIzWDXaM:s0098"
       ],
-      "start_s": 565.258,
+      "start_s": 552.522,
       "end_s": 577.043,
-      "text": "The commute that is navigated on autopilot while mentally rehearsing a work conversation generates no meaningful memory, because the attention that would encode the experience was directed elsewhere.",
-      "n_words": 28,
-      "n_sentences": 1,
-      "pos_pct": 0.4052028673835126
+      "text": "Unattended experience—experience that is processed but not focused on, that passes through the senses without generating cognitive engagement—produces weak or absent memory traces. The commute that is navigated on autopilot while mentally rehearsing a work conversation generates no meaningful memory, because the attention that would encode the experience was directed elsewhere.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.3960731182795699
     },
     {
-      "window_id": "0neQIzWDXaM:j0058",
+      "window_id": "0neQIzWDXaM:j0045",
       "video_id": "0neQIzWDXaM",
-      "idx": 58,
+      "idx": 45,
       "sent_ids": [
-        "0neQIzWDXaM:s0099"
+        "0neQIzWDXaM:s0099",
+        "0neQIzWDXaM:s0100"
       ],
       "start_s": 577.803,
-      "end_s": 586.247,
-      "text": "Mindfulness, the deliberate direction of attention to present experience, works against the time-acceleration effect through this mechanism.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 594.087,
+      "text": "Mindfulness, the deliberate direction of attention to present experience, works against the time-acceleration effect through this mechanism. When you pay attention to what is happening as it happens, the experience is more likely to generate distinct memory traces.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.4141956989247312
     },
     {
-      "window_id": "0neQIzWDXaM:j0059",
+      "window_id": "0neQIzWDXaM:j0046",
       "video_id": "0neQIzWDXaM",
-      "idx": 59,
-      "sent_ids": [
-        "0neQIzWDXaM:s0100"
-      ],
-      "start_s": 587.237,
-      "end_s": 594.087,
-      "text": "When you pay attention to what is happening as it happens, the experience is more likely to generate distinct memory traces.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.4209584229390681
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0060",
-      "video_id": "0neQIzWDXaM",
-      "idx": 60,
+      "idx": 46,
       "sent_ids": [
         "0neQIzWDXaM:s0101",
         "0neQIzWDXaM:s0102"
@@ -899,185 +717,133 @@
       "pos_pct": 0.4262279569892473
     },
     {
-      "window_id": "0neQIzWDXaM:j0061",
+      "window_id": "0neQIzWDXaM:j0047",
       "video_id": "0neQIzWDXaM",
-      "idx": 61,
+      "idx": 47,
       "sent_ids": [
-        "0neQIzWDXaM:s0103"
+        "0neQIzWDXaM:s0103",
+        "0neQIzWDXaM:s0104"
       ],
       "start_s": 607.382,
-      "end_s": 616.425,
-      "text": "By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans.",
-      "n_words": 30,
-      "n_sentences": 1,
+      "end_s": 623.148,
+      "text": "By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans. 10 modules, 3 plus hours of content, covering everything we never talk about on YouTube.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.43539928315412185
     },
     {
-      "window_id": "0neQIzWDXaM:j0062",
+      "window_id": "0neQIzWDXaM:j0048",
       "video_id": "0neQIzWDXaM",
-      "idx": 62,
+      "idx": 48,
       "sent_ids": [
-        "0neQIzWDXaM:s0104",
         "0neQIzWDXaM:s0105",
-        "0neQIzWDXaM:s0106"
-      ],
-      "start_s": 617.106,
-      "end_s": 630.875,
-      "text": "10 modules, 3 plus hours of content, covering everything we never talk about on YouTube. What they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.44236989247311825
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0063",
-      "video_id": "0neQIzWDXaM",
-      "idx": 63,
-      "sent_ids": [
+        "0neQIzWDXaM:s0106",
         "0neQIzWDXaM:s0107",
-        "0neQIzWDXaM:s0108",
-        "0neQIzWDXaM:s0109",
-        "0neQIzWDXaM:s0110"
+        "0neQIzWDXaM:s0108"
       ],
-      "start_s": 631.435,
-      "end_s": 638.321,
-      "text": "Link in the description. See you inside. This is not just philosophical. It is measurable.",
-      "n_words": 15,
+      "start_s": 623.648,
+      "end_s": 633.697,
+      "text": "What they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included. Link in the description. See you inside.",
+      "n_words": 25,
       "n_sentences": 4,
-      "pos_pct": 0.4526415770609319
+      "pos_pct": 0.4470594982078853
     },
     {
-      "window_id": "0neQIzWDXaM:j0064",
+      "window_id": "0neQIzWDXaM:j0049",
       "video_id": "0neQIzWDXaM",
-      "idx": 64,
+      "idx": 49,
       "sent_ids": [
-        "0neQIzWDXaM:s0111",
-        "0neQIzWDXaM:s0112"
+        "0neQIzWDXaM:s0109",
+        "0neQIzWDXaM:s0110",
+        "0neQIzWDXaM:s0111"
       ],
-      "start_s": 639.322,
-      "end_s": 654.798,
-      "text": "Studies of mindfulness practitioners versus non-practitioners find consistent differences in time perception. Mindfulness practitioners generally report slower perceived passage of time and more detailed autobiographical memory for recent periods.",
-      "n_words": 29,
-      "n_sentences": 2,
-      "pos_pct": 0.4582953405017921
+      "start_s": 634.698,
+      "end_s": 645.608,
+      "text": "This is not just philosophical. It is measurable. Studies of mindfulness practitioners versus non-practitioners find consistent differences in time perception.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.45498064516129033
     },
     {
-      "window_id": "0neQIzWDXaM:j0065",
+      "window_id": "0neQIzWDXaM:j0050",
       "video_id": "0neQIzWDXaM",
-      "idx": 65,
+      "idx": 50,
       "sent_ids": [
+        "0neQIzWDXaM:s0112",
         "0neQIzWDXaM:s0113"
       ],
-      "start_s": 655.538,
+      "start_s": 646.693,
       "end_s": 666.324,
-      "text": "The attention they bring to experience is generating the memory density that the brain uses to estimate duration, and the resulting retrospective time estimation is of a longer, more substantial period.",
-      "n_words": 31,
-      "n_sentences": 1,
-      "pos_pct": 0.4699197132616488
+      "text": "Mindfulness practitioners generally report slower perceived passage of time and more detailed autobiographical memory for recent periods. The attention they bring to experience is generating the memory density that the brain uses to estimate duration, and the resulting retrospective time estimation is of a longer, more substantial period.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.463579211469534
     },
     {
-      "window_id": "0neQIzWDXaM:j0066",
+      "window_id": "0neQIzWDXaM:j0051",
       "video_id": "0neQIzWDXaM",
-      "idx": 66,
+      "idx": 51,
       "sent_ids": [
-        "0neQIzWDXaM:s0114"
+        "0neQIzWDXaM:s0114",
+        "0neQIzWDXaM:s0115"
       ],
       "start_s": 667.044,
-      "end_s": 674.449,
-      "text": "The practical implication is uncomfortable for most modern people because it runs directly against the dominant pattern of contemporary life.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 688.517,
+      "text": "The practical implication is uncomfortable for most modern people because it runs directly against the dominant pattern of contemporary life. Chronic distraction, the background stimulus that most people maintain through near constant phone use, background media, and multitasking, is essentially a systematized attention reduction program.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.47816774193548384
     },
     {
-      "window_id": "0neQIzWDXaM:j0067",
+      "window_id": "0neQIzWDXaM:j0052",
       "video_id": "0neQIzWDXaM",
-      "idx": 67,
+      "idx": 52,
       "sent_ids": [
-        "0neQIzWDXaM:s0115"
-      ],
-      "start_s": 675.289,
-      "end_s": 688.517,
-      "text": "Chronic distraction, the background stimulus that most people maintain through near constant phone use, background media, and multitasking, is essentially a systematized attention reduction program.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.4840781362007168
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0068",
-      "video_id": "0neQIzWDXaM",
-      "idx": 68,
-      "sent_ids": [
-        "0neQIzWDXaM:s0116"
+        "0neQIzWDXaM:s0116",
+        "0neQIzWDXaM:s0117"
       ],
       "start_s": 689.337,
-      "end_s": 699.203,
-      "text": "It ensures that most experiences are processed without full attention, and therefore without generating the memory traces that would make time feel substantial in retrospect.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 711.357,
+      "text": "It ensures that most experiences are processed without full attention, and therefore without generating the memory traces that would make time feel substantial in retrospect. A year spent with frequent attention divided by a phone generates fewer distinct memories of lived experience than the same year lived with full attention to what was actually happening.",
+      "n_words": 55,
+      "n_sentences": 2,
       "pos_pct": 0.49414838709677417
     },
     {
-      "window_id": "0neQIzWDXaM:j0069",
+      "window_id": "0neQIzWDXaM:j0053",
       "video_id": "0neQIzWDXaM",
-      "idx": 69,
+      "idx": 53,
       "sent_ids": [
-        "0neQIzWDXaM:s0117"
-      ],
-      "start_s": 700.288,
-      "end_s": 711.357,
-      "text": "A year spent with frequent attention divided by a phone generates fewer distinct memories of lived experience than the same year lived with full attention to what was actually happening.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.5019985663082437
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0070",
-      "video_id": "0neQIzWDXaM",
-      "idx": 70,
-      "sent_ids": [
-        "0neQIzWDXaM:s0118"
+        "0neQIzWDXaM:s0118",
+        "0neQIzWDXaM:s0119"
       ],
       "start_s": 712.037,
-      "end_s": 725.367,
-      "text": "The acceleration that people in highly connected, highly distracted modern environments notice is substantially a product of chronic attention division, producing inadequate memory formation across the days and months that constitute the year.",
-      "n_words": 33,
-      "n_sentences": 1,
+      "end_s": 734.316,
+      "text": "The acceleration that people in highly connected, highly distracted modern environments notice is substantially a product of chronic attention division, producing inadequate memory formation across the days and months that constitute the year. Now let's talk about emotional intensity and its relationship to time perception, because this dimension is both well-documented and practically important.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.510420788530466
     },
     {
-      "window_id": "0neQIzWDXaM:j0071",
+      "window_id": "0neQIzWDXaM:j0054",
       "video_id": "0neQIzWDXaM",
-      "idx": 71,
+      "idx": 54,
       "sent_ids": [
-        "0neQIzWDXaM:s0119",
-        "0neQIzWDXaM:s0120"
-      ],
-      "start_s": 726.508,
-      "end_s": 739.841,
-      "text": "Now let's talk about emotional intensity and its relationship to time perception, because this dimension is both well-documented and practically important. Emotionally intense experiences are encoded more strongly than neutral experiences.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.5207942652329749
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0072",
-      "video_id": "0neQIzWDXaM",
-      "idx": 72,
-      "sent_ids": [
+        "0neQIzWDXaM:s0120",
         "0neQIzWDXaM:s0121",
         "0neQIzWDXaM:s0122"
       ],
-      "start_s": 740.662,
+      "start_s": 735.117,
       "end_s": 752.824,
-      "text": "This is a fundamental feature of memory formation. The amygdala, which processes emotional intensity, modulates the encoding process in the hippocampus, which forms explicit memories.",
-      "n_words": 25,
-      "n_sentences": 2,
-      "pos_pct": 0.5309405017921147
+      "text": "Emotionally intense experiences are encoded more strongly than neutral experiences. This is a fundamental feature of memory formation. The amygdala, which processes emotional intensity, modulates the encoding process in the hippocampus, which forms explicit memories.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.5269655913978495
     },
     {
-      "window_id": "0neQIzWDXaM:j0073",
+      "window_id": "0neQIzWDXaM:j0055",
       "video_id": "0neQIzWDXaM",
-      "idx": 73,
+      "idx": 55,
       "sent_ids": [
         "0neQIzWDXaM:s0123",
         "0neQIzWDXaM:s0124"
@@ -1090,9 +856,9 @@
       "pos_pct": 0.5403039426523297
     },
     {
-      "window_id": "0neQIzWDXaM:j0074",
+      "window_id": "0neQIzWDXaM:j0056",
       "video_id": "0neQIzWDXaM",
-      "idx": 74,
+      "idx": 56,
       "sent_ids": [
         "0neQIzWDXaM:s0125",
         "0neQIzWDXaM:s0126"
@@ -1105,9 +871,9 @@
       "pos_pct": 0.5489383512544803
     },
     {
-      "window_id": "0neQIzWDXaM:j0075",
+      "window_id": "0neQIzWDXaM:j0057",
       "video_id": "0neQIzWDXaM",
-      "idx": 75,
+      "idx": 57,
       "sent_ids": [
         "0neQIzWDXaM:s0127",
         "0neQIzWDXaM:s0128"
@@ -1120,97 +886,84 @@
       "pos_pct": 0.5559627240143369
     },
     {
-      "window_id": "0neQIzWDXaM:j0076",
+      "window_id": "0neQIzWDXaM:j0058",
       "video_id": "0neQIzWDXaM",
-      "idx": 76,
+      "idx": 58,
       "sent_ids": [
-        "0neQIzWDXaM:s0129"
+        "0neQIzWDXaM:s0129",
+        "0neQIzWDXaM:s0130"
       ],
       "start_s": 789.798,
-      "end_s": 805.089,
-      "text": "A week containing major emotional events, a bereavement, a falling in love, a significant achievement or failure, contains more memory traces than a week of even pleasant routine, and therefore feels longer when recalled.",
-      "n_words": 34,
-      "n_sentences": 1,
+      "end_s": 809.474,
+      "text": "A week containing major emotional events, a bereavement, a falling in love, a significant achievement or failure, contains more memory traces than a week of even pleasant routine, and therefore feels longer when recalled. Children's lives are emotionally intense by default.",
+      "n_words": 41,
+      "n_sentences": 2,
       "pos_pct": 0.5661634408602151
     },
     {
-      "window_id": "0neQIzWDXaM:j0077",
+      "window_id": "0neQIzWDXaM:j0059",
       "video_id": "0neQIzWDXaM",
-      "idx": 77,
+      "idx": 59,
       "sent_ids": [
-        "0neQIzWDXaM:s0130",
-        "0neQIzWDXaM:s0131"
+        "0neQIzWDXaM:s0131",
+        "0neQIzWDXaM:s0132"
       ],
-      "start_s": 806.592,
-      "end_s": 821.141,
-      "text": "Children's lives are emotionally intense by default. Not because children have more intense emotions than adults, though this may be true, but because the novelty that produces new memories also produces emotional engagement.",
-      "n_words": 33,
+      "start_s": 810.094,
+      "end_s": 824.523,
+      "text": "Not because children have more intense emotions than adults, though this may be true, but because the novelty that produces new memories also produces emotional engagement. New experiences produce emotional responses.",
+      "n_words": 31,
       "n_sentences": 2,
-      "pos_pct": 0.5782021505376344
+      "pos_pct": 0.5807125448028674
     },
     {
-      "window_id": "0neQIzWDXaM:j0078",
+      "window_id": "0neQIzWDXaM:j0060",
       "video_id": "0neQIzWDXaM",
-      "idx": 78,
+      "idx": 60,
       "sent_ids": [
-        "0neQIzWDXaM:s0132",
         "0neQIzWDXaM:s0133",
         "0neQIzWDXaM:s0134"
       ],
-      "start_s": 821.961,
+      "start_s": 825.523,
       "end_s": 836.971,
-      "text": "New experiences produce emotional responses. The first time is always emotional to some degree, because the outcome is unknown and the experience is uncharted. By the hundredth time, the emotional response is attenuated.",
-      "n_words": 33,
-      "n_sentences": 3,
-      "pos_pct": 0.5892193548387097
+      "text": "The first time is always emotional to some degree, because the outcome is unknown and the experience is uncharted. By the hundredth time, the emotional response is attenuated.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.5917727598566308
     },
     {
-      "window_id": "0neQIzWDXaM:j0079",
+      "window_id": "0neQIzWDXaM:j0061",
       "video_id": "0neQIzWDXaM",
-      "idx": 79,
+      "idx": 61,
       "sent_ids": [
-        "0neQIzWDXaM:s0135"
+        "0neQIzWDXaM:s0135",
+        "0neQIzWDXaM:s0136"
       ],
       "start_s": 837.631,
-      "end_s": 847.819,
-      "text": "The competent adult navigating a familiar situation is emotionally flatter than the child navigating everything for the first time, and the memory traces are correspondingly less vivid.",
-      "n_words": 27,
-      "n_sentences": 1,
+      "end_s": 851.972,
+      "text": "The competent adult navigating a familiar situation is emotionally flatter than the child navigating everything for the first time, and the memory traces are correspondingly less vivid. Now let's talk about something that appears in the time perception.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.6004523297491039
     },
     {
-      "window_id": "0neQIzWDXaM:j0080",
+      "window_id": "0neQIzWDXaM:j0062",
       "video_id": "0neQIzWDXaM",
-      "idx": 80,
+      "idx": 62,
       "sent_ids": [
-        "0neQIzWDXaM:s0136",
-        "0neQIzWDXaM:s0137"
-      ],
-      "start_s": 849.011,
-      "end_s": 856.775,
-      "text": "Now let's talk about something that appears in the time perception. Literature but that rarely makes it into popular discussions of why time accelerates.",
-      "n_words": 24,
-      "n_sentences": 2,
-      "pos_pct": 0.6086100358422939
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0081",
-      "video_id": "0neQIzWDXaM",
-      "idx": 81,
-      "sent_ids": [
+        "0neQIzWDXaM:s0137",
         "0neQIzWDXaM:s0138"
       ],
-      "start_s": 857.395,
+      "start_s": 852.433,
       "end_s": 862.317,
-      "text": "The specific role of social time perception and how other people shape your sense of time passing.",
-      "n_words": 17,
-      "n_sentences": 1,
-      "pos_pct": 0.6146200716845878
+      "text": "Literature but that rarely makes it into popular discussions of why time accelerates. The specific role of social time perception and how other people shape your sense of time passing.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.611063082437276
     },
     {
-      "window_id": "0neQIzWDXaM:j0082",
+      "window_id": "0neQIzWDXaM:j0063",
       "video_id": "0neQIzWDXaM",
-      "idx": 82,
+      "idx": 63,
       "sent_ids": [
         "0neQIzWDXaM:s0139"
       ],
@@ -1222,9 +975,9 @@
       "pos_pct": 0.6187505376344087
     },
     {
-      "window_id": "0neQIzWDXaM:j0083",
+      "window_id": "0neQIzWDXaM:j0064",
       "video_id": "0neQIzWDXaM",
-      "idx": 83,
+      "idx": 64,
       "sent_ids": [
         "0neQIzWDXaM:s0140"
       ],
@@ -1236,193 +989,115 @@
       "pos_pct": 0.6260659498207886
     },
     {
-      "window_id": "0neQIzWDXaM:j0084",
+      "window_id": "0neQIzWDXaM:j0065",
       "video_id": "0neQIzWDXaM",
-      "idx": 84,
+      "idx": 65,
       "sent_ids": [
-        "0neQIzWDXaM:s0141"
+        "0neQIzWDXaM:s0141",
+        "0neQIzWDXaM:s0142"
       ],
       "start_s": 893.778,
-      "end_s": 899.703,
-      "text": "Conversely, loneliness and social isolation distort time perception in a specific direction.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 915.902,
+      "text": "Conversely, loneliness and social isolation distort time perception in a specific direction. Research on time perception in isolated individuals, from studies of cave dwellers in chronobiology experiments to research on the effects of extended social isolation, consistently finds that isolation produces dysregulated time perception.",
+      "n_words": 44,
+      "n_sentences": 2,
       "pos_pct": 0.6407010752688173
     },
     {
-      "window_id": "0neQIzWDXaM:j0085",
+      "window_id": "0neQIzWDXaM:j0066",
       "video_id": "0neQIzWDXaM",
-      "idx": 85,
+      "idx": 66,
       "sent_ids": [
-        "0neQIzWDXaM:s0142"
-      ],
-      "start_s": 900.898,
-      "end_s": 915.902,
-      "text": "Research on time perception in isolated individuals, from studies of cave dwellers in chronobiology experiments to research on the effects of extended social isolation, consistently finds that isolation produces dysregulated time perception.",
-      "n_words": 32,
-      "n_sentences": 1,
-      "pos_pct": 0.645805017921147
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0086",
-      "video_id": "0neQIzWDXaM",
-      "idx": 86,
-      "sent_ids": [
-        "0neQIzWDXaM:s0143"
+        "0neQIzWDXaM:s0143",
+        "0neQIzWDXaM:s0144"
       ],
       "start_s": 916.622,
-      "end_s": 924.645,
-      "text": "Without the social anchoring that other people provide, the sense of time becomes fluid, poorly calibrated, and subjectively erratic.",
-      "n_words": 19,
-      "n_sentences": 1,
+      "end_s": 931.968,
+      "text": "Without the social anchoring that other people provide, the sense of time becomes fluid, poorly calibrated, and subjectively erratic. This social dimension of time perception has a practical implication that is separate from the novelty and attention recommendations.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.6570767025089606
     },
     {
-      "window_id": "0neQIzWDXaM:j0087",
+      "window_id": "0neQIzWDXaM:j0067",
       "video_id": "0neQIzWDXaM",
-      "idx": 87,
+      "idx": 67,
       "sent_ids": [
-        "0neQIzWDXaM:s0144"
-      ],
-      "start_s": 925.565,
-      "end_s": 931.968,
-      "text": "This social dimension of time perception has a practical implication that is separate from the novelty and attention recommendations.",
-      "n_words": 19,
-      "n_sentences": 1,
-      "pos_pct": 0.6634874551971327
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0088",
-      "video_id": "0neQIzWDXaM",
-      "idx": 88,
-      "sent_ids": [
-        "0neQIzWDXaM:s0145"
+        "0neQIzWDXaM:s0145",
+        "0neQIzWDXaM:s0146"
       ],
       "start_s": 932.848,
-      "end_s": 944.454,
-      "text": "Investing in rich, attentive social relationships is not just psychologically beneficial in the ways that the extensive loneliness research documents, it is also a form of time management in the subjective sense.",
-      "n_words": 32,
-      "n_sentences": 1,
+      "end_s": 953.558,
+      "text": "Investing in rich, attentive social relationships is not just psychologically beneficial in the ways that the extensive loneliness research documents, it is also a form of time management in the subjective sense. Time spent in engaged social connection generates the memory traces and emotional intensity that make that time feel substantial in retrospect.",
+      "n_words": 53,
+      "n_sentences": 2,
       "pos_pct": 0.6687082437275985
     },
     {
-      "window_id": "0neQIzWDXaM:j0089",
+      "window_id": "0neQIzWDXaM:j0068",
       "video_id": "0neQIzWDXaM",
-      "idx": 89,
+      "idx": 68,
       "sent_ids": [
-        "0neQIzWDXaM:s0146"
-      ],
-      "start_s": 945.454,
-      "end_s": 953.558,
-      "text": "Time spent in engaged social connection generates the memory traces and emotional intensity that make that time feel substantial in retrospect.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.6777448028673835
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0090",
-      "video_id": "0neQIzWDXaM",
-      "idx": 90,
-      "sent_ids": [
-        "0neQIzWDXaM:s0147"
+        "0neQIzWDXaM:s0147",
+        "0neQIzWDXaM:s0148"
       ],
       "start_s": 954.622,
-      "end_s": 971.387,
-      "text": "The trend toward more isolated, less socially rich lives, working from home, reduced community participation, entertainment that is consumed individually rather than shared, has time perception consequences that compound the effects of routine and distraction.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 980.79,
+      "text": "The trend toward more isolated, less socially rich lives, working from home, reduced community participation, entertainment that is consumed individually rather than shared, has time perception consequences that compound the effects of routine and distraction. Less social engagement means fewer socially anchored memories, means time feels thinner and more compressed in the retrospective review.",
+      "n_words": 54,
+      "n_sentences": 2,
       "pos_pct": 0.6843168458781361
     },
     {
-      "window_id": "0neQIzWDXaM:j0091",
+      "window_id": "0neQIzWDXaM:j0069",
       "video_id": "0neQIzWDXaM",
-      "idx": 91,
+      "idx": 69,
       "sent_ids": [
-        "0neQIzWDXaM:s0148",
-        "0neQIzWDXaM:s0149"
-      ],
-      "start_s": 972.267,
-      "end_s": 986.653,
-      "text": "Less social engagement means fewer socially anchored memories, means time feels thinner and more compressed in the retrospective review. Now let's address something that is both scientifically interesting and emotionally significant.",
-      "n_words": 31,
-      "n_sentences": 2,
-      "pos_pct": 0.6969655913978495
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0092",
-      "video_id": "0neQIzWDXaM",
-      "idx": 92,
-      "sent_ids": [
+        "0neQIzWDXaM:s0149",
         "0neQIzWDXaM:s0150",
         "0neQIzWDXaM:s0151"
       ],
-      "start_s": 987.593,
+      "start_s": 981.59,
       "end_s": 997.278,
-      "text": "The relationship between time acceleration and identity across a life. The compressing of time as we age is not just a perceptual phenomenon.",
-      "n_words": 23,
-      "n_sentences": 2,
-      "pos_pct": 0.7079519713261648
+      "text": "Now let's address something that is both scientifically interesting and emotionally significant. The relationship between time acceleration and identity across a life. The compressing of time as we age is not just a perceptual phenomenon.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.7036487455197132
     },
     {
-      "window_id": "0neQIzWDXaM:j0093",
+      "window_id": "0neQIzWDXaM:j0070",
       "video_id": "0neQIzWDXaM",
-      "idx": 93,
+      "idx": 70,
       "sent_ids": [
-        "0neQIzWDXaM:s0152"
+        "0neQIzWDXaM:s0152",
+        "0neQIzWDXaM:s0153"
       ],
       "start_s": 998.018,
-      "end_s": 1003.141,
-      "text": "It has consequences for identity and for how people construct narratives of their own lives.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 1015.712,
+      "text": "It has consequences for identity and for how people construct narratives of their own lives. When time feels slow, When each year is a substantial, experientially rich period, the self has time to change, to develop, to accumulate new chapters.",
+      "n_words": 40,
+      "n_sentences": 2,
       "pos_pct": 0.7154250896057348
     },
     {
-      "window_id": "0neQIzWDXaM:j0094",
+      "window_id": "0neQIzWDXaM:j0071",
       "video_id": "0neQIzWDXaM",
-      "idx": 94,
+      "idx": 71,
       "sent_ids": [
-        "0neQIzWDXaM:s0153"
-      ],
-      "start_s": 1004.081,
-      "end_s": 1015.712,
-      "text": "When time feels slow, When each year is a substantial, experientially rich period, the self has time to change, to develop, to accumulate new chapters.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.7197713261648746
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0095",
-      "video_id": "0neQIzWDXaM",
-      "idx": 95,
-      "sent_ids": [
-        "0neQIzWDXaM:s0154"
+        "0neQIzWDXaM:s0154",
+        "0neQIzWDXaM:s0155"
       ],
       "start_s": 1016.673,
-      "end_s": 1026.48,
-      "text": "When time compresses, when years blur into indistinguishable routines and pass without leaving distinct traces, the self can feel static.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 1037.006,
+      "text": "When time compresses, when years blur into indistinguishable routines and pass without leaving distinct traces, the self can feel static. Not because it isn't changing biologically or socially, but because it isn't generating the kind of distinct, separable experience that makes change visible in the narrative.",
+      "n_words": 46,
+      "n_sentences": 2,
       "pos_pct": 0.7287978494623656
     },
     {
-      "window_id": "0neQIzWDXaM:j0096",
+      "window_id": "0neQIzWDXaM:j0072",
       "video_id": "0neQIzWDXaM",
-      "idx": 96,
-      "sent_ids": [
-        "0neQIzWDXaM:s0155"
-      ],
-      "start_s": 1027.762,
-      "end_s": 1037.006,
-      "text": "Not because it isn't changing biologically or socially, but because it isn't generating the kind of distinct, separable experience that makes change visible in the narrative.",
-      "n_words": 26,
-      "n_sentences": 1,
-      "pos_pct": 0.7367469534050178
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0097",
-      "video_id": "0neQIzWDXaM",
-      "idx": 97,
+      "idx": 72,
       "sent_ids": [
         "0neQIzWDXaM:s0156"
       ],
@@ -1434,9 +1109,9 @@
       "pos_pct": 0.7439326164874552
     },
     {
-      "window_id": "0neQIzWDXaM:j0098",
+      "window_id": "0neQIzWDXaM:j0073",
       "video_id": "0neQIzWDXaM",
-      "idx": 98,
+      "idx": 73,
       "sent_ids": [
         "0neQIzWDXaM:s0157",
         "0neQIzWDXaM:s0158",
@@ -1450,80 +1125,54 @@
       "pos_pct": 0.7538372759856631
     },
     {
-      "window_id": "0neQIzWDXaM:j0099",
+      "window_id": "0neQIzWDXaM:j0074",
       "video_id": "0neQIzWDXaM",
-      "idx": 99,
+      "idx": 74,
       "sent_ids": [
-        "0neQIzWDXaM:s0160"
+        "0neQIzWDXaM:s0160",
+        "0neQIzWDXaM:s0161"
       ],
       "start_s": 1065.674,
-      "end_s": 1071.039,
-      "text": "Few distinct memories also means few markers of change and growth in the autobiographical narrative.",
-      "n_words": 15,
-      "n_sentences": 1,
+      "end_s": 1079.846,
+      "text": "Few distinct memories also means few markers of change and growth in the autobiographical narrative. The same deficit in experience produces both the feeling of time passing too fast and the feeling that nothing significant is happening.",
+      "n_words": 37,
+      "n_sentences": 2,
       "pos_pct": 0.7639240143369176
     },
     {
-      "window_id": "0neQIzWDXaM:j0100",
+      "window_id": "0neQIzWDXaM:j0075",
       "video_id": "0neQIzWDXaM",
-      "idx": 100,
+      "idx": 75,
       "sent_ids": [
-        "0neQIzWDXaM:s0161",
-        "0neQIzWDXaM:s0162"
-      ],
-      "start_s": 1071.959,
-      "end_s": 1083.254,
-      "text": "The same deficit in experience produces both the feeling of time passing too fast and the feeling that nothing significant is happening. The intervention is the same in both cases.",
-      "n_words": 30,
-      "n_sentences": 2,
-      "pos_pct": 0.7684293906810036
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0101",
-      "video_id": "0neQIzWDXaM",
-      "idx": 101,
-      "sent_ids": [
+        "0neQIzWDXaM:s0162",
         "0neQIzWDXaM:s0163"
       ],
-      "start_s": 1084.255,
+      "start_s": 1081.033,
       "end_s": 1088.737,
-      "text": "The solution to time acceleration is the solution to narrative stagnation.",
-      "n_words": 11,
-      "n_sentences": 1,
-      "pos_pct": 0.7772437275985664
+      "text": "The intervention is the same in both cases. The solution to time acceleration is the solution to narrative stagnation.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.7749340501792114
     },
     {
-      "window_id": "0neQIzWDXaM:j0102",
+      "window_id": "0neQIzWDXaM:j0076",
       "video_id": "0neQIzWDXaM",
-      "idx": 102,
+      "idx": 76,
       "sent_ids": [
-        "0neQIzWDXaM:s0164"
+        "0neQIzWDXaM:s0164",
+        "0neQIzWDXaM:s0165"
       ],
       "start_s": 1089.857,
-      "end_s": 1100.142,
-      "text": "Deliberate introduction of novelty, challenge, and new experience that generates the memory density the brain uses to construct the sense of a substantial, changing life.",
-      "n_words": 25,
-      "n_sentences": 1,
+      "end_s": 1111.254,
+      "text": "Deliberate introduction of novelty, challenge, and new experience that generates the memory density the brain uses to construct the sense of a substantial, changing life. Let's talk about what this means practically, because the research on time perception converges on implications that are specific, actionable, and somewhat counter-cultural.",
+      "n_words": 48,
+      "n_sentences": 2,
       "pos_pct": 0.7812594982078853
     },
     {
-      "window_id": "0neQIzWDXaM:j0103",
+      "window_id": "0neQIzWDXaM:j0077",
       "video_id": "0neQIzWDXaM",
-      "idx": 103,
-      "sent_ids": [
-        "0neQIzWDXaM:s0165"
-      ],
-      "start_s": 1101.185,
-      "end_s": 1111.254,
-      "text": "Let's talk about what this means practically, because the research on time perception converges on implications that are specific, actionable, and somewhat counter-cultural.",
-      "n_words": 23,
-      "n_sentences": 1,
-      "pos_pct": 0.7893799283154121
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0104",
-      "video_id": "0neQIzWDXaM",
-      "idx": 104,
+      "idx": 77,
       "sent_ids": [
         "0neQIzWDXaM:s0166"
       ],
@@ -1535,9 +1184,9 @@
       "pos_pct": 0.7973297491039427
     },
     {
-      "window_id": "0neQIzWDXaM:j0105",
+      "window_id": "0neQIzWDXaM:j0078",
       "video_id": "0neQIzWDXaM",
-      "idx": 105,
+      "idx": 78,
       "sent_ids": [
         "0neQIzWDXaM:s0167"
       ],
@@ -1549,9 +1198,9 @@
       "pos_pct": 0.8039146953405018
     },
     {
-      "window_id": "0neQIzWDXaM:j0106",
+      "window_id": "0neQIzWDXaM:j0079",
       "video_id": "0neQIzWDXaM",
-      "idx": 106,
+      "idx": 79,
       "sent_ids": [
         "0neQIzWDXaM:s0168",
         "0neQIzWDXaM:s0169"
@@ -1564,37 +1213,24 @@
       "pos_pct": 0.8171935483870967
     },
     {
-      "window_id": "0neQIzWDXaM:j0107",
+      "window_id": "0neQIzWDXaM:j0080",
       "video_id": "0neQIzWDXaM",
-      "idx": 107,
+      "idx": 80,
       "sent_ids": [
-        "0neQIzWDXaM:s0170"
+        "0neQIzWDXaM:s0170",
+        "0neQIzWDXaM:s0171"
       ],
       "start_s": 1148.107,
-      "end_s": 1156.953,
-      "text": "The standard life advice of finding your comfort zone and settling into it is, from a time perception perspective, a recipe for a life that will feel very short when you look back on it.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 1165.579,
+      "text": "The standard life advice of finding your comfort zone and settling into it is, from a time perception perspective, a recipe for a life that will feel very short when you look back on it. Not because comfort is bad, but because comfort produces the routine and prediction that eliminate novelty and therefore reduce memory formation.",
+      "n_words": 56,
+      "n_sentences": 2,
       "pos_pct": 0.823015770609319
     },
     {
-      "window_id": "0neQIzWDXaM:j0108",
+      "window_id": "0neQIzWDXaM:j0081",
       "video_id": "0neQIzWDXaM",
-      "idx": 108,
-      "sent_ids": [
-        "0neQIzWDXaM:s0171"
-      ],
-      "start_s": 1158.134,
-      "end_s": 1165.579,
-      "text": "Not because comfort is bad, but because comfort produces the routine and prediction that eliminate novelty and therefore reduce memory formation.",
-      "n_words": 21,
-      "n_sentences": 1,
-      "pos_pct": 0.8302035842293907
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0109",
-      "video_id": "0neQIzWDXaM",
-      "idx": 109,
+      "idx": 81,
       "sent_ids": [
         "0neQIzWDXaM:s0172",
         "0neQIzWDXaM:s0173"
@@ -1607,52 +1243,39 @@
       "pos_pct": 0.8364724014336917
     },
     {
-      "window_id": "0neQIzWDXaM:j0110",
+      "window_id": "0neQIzWDXaM:j0082",
       "video_id": "0neQIzWDXaM",
-      "idx": 110,
+      "idx": 82,
       "sent_ids": [
-        "0neQIzWDXaM:s0174"
+        "0neQIzWDXaM:s0174",
+        "0neQIzWDXaM:s0175"
       ],
       "start_s": 1180.405,
-      "end_s": 1185.387,
-      "text": "The experience of learning is consistently novel in a way that the experience of competence is not.",
-      "n_words": 17,
-      "n_sentences": 1,
+      "end_s": 1194.891,
+      "text": "The experience of learning is consistently novel in a way that the experience of competence is not. A musician who is learning an instrument is generating more memory traces per hour of practice than a professional musician playing music they have played hundreds of times.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.846168458781362
     },
     {
-      "window_id": "0neQIzWDXaM:j0111",
+      "window_id": "0neQIzWDXaM:j0083",
       "video_id": "0neQIzWDXaM",
-      "idx": 111,
+      "idx": 83,
       "sent_ids": [
-        "0neQIzWDXaM:s0175",
-        "0neQIzWDXaM:s0176"
-      ],
-      "start_s": 1186.047,
-      "end_s": 1197.452,
-      "text": "A musician who is learning an instrument is generating more memory traces per hour of practice than a professional musician playing music they have played hundreds of times. The learning musician's time is richer.",
-      "n_words": 34,
-      "n_sentences": 2,
-      "pos_pct": 0.8502129032258064
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0112",
-      "video_id": "0neQIzWDXaM",
-      "idx": 112,
-      "sent_ids": [
+        "0neQIzWDXaM:s0176",
         "0neQIzWDXaM:s0177"
       ],
-      "start_s": 1198.093,
+      "start_s": 1195.691,
       "end_s": 1210.001,
-      "text": "Travel is the most commonly cited intervention, and it works for the documented reason, new environments, new sensory inputs, new social contexts, new food, new navigation challenges.",
-      "n_words": 27,
-      "n_sentences": 1,
-      "pos_pct": 0.8588480286738351
+      "text": "The learning musician's time is richer. Travel is the most commonly cited intervention, and it works for the documented reason, new environments, new sensory inputs, new social contexts, new food, new navigation challenges.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.857126164874552
     },
     {
-      "window_id": "0neQIzWDXaM:j0113",
+      "window_id": "0neQIzWDXaM:j0084",
       "video_id": "0neQIzWDXaM",
-      "idx": 113,
+      "idx": 84,
       "sent_ids": [
         "0neQIzWDXaM:s0178",
         "0neQIzWDXaM:s0179"
@@ -1665,9 +1288,9 @@
       "pos_pct": 0.8677713261648745
     },
     {
-      "window_id": "0neQIzWDXaM:j0114",
+      "window_id": "0neQIzWDXaM:j0085",
       "video_id": "0neQIzWDXaM",
-      "idx": 114,
+      "idx": 85,
       "sent_ids": [
         "0neQIzWDXaM:s0180",
         "0neQIzWDXaM:s0181"
@@ -1680,37 +1303,24 @@
       "pos_pct": 0.8748709677419354
     },
     {
-      "window_id": "0neQIzWDXaM:j0115",
+      "window_id": "0neQIzWDXaM:j0086",
       "video_id": "0neQIzWDXaM",
-      "idx": 115,
+      "idx": 86,
       "sent_ids": [
-        "0neQIzWDXaM:s0182"
+        "0neQIzWDXaM:s0182",
+        "0neQIzWDXaM:s0183"
       ],
       "start_s": 1230.227,
-      "end_s": 1241.87,
-      "text": "The travel intervention doesn't require expensive international trips to work, and this is worth emphasizing because the expense barrier causes many people to dismiss travel as a time enrichment strategy available only to the wealthy.",
-      "n_words": 35,
-      "n_sentences": 1,
+      "end_s": 1245.865,
+      "text": "The travel intervention doesn't require expensive international trips to work, and this is worth emphasizing because the expense barrier causes many people to dismiss travel as a time enrichment strategy available only to the wealthy. The mechanism is novelty, not distance or cost.",
+      "n_words": 43,
+      "n_sentences": 2,
       "pos_pct": 0.8818831541218639
     },
     {
-      "window_id": "0neQIzWDXaM:j0116",
+      "window_id": "0neQIzWDXaM:j0087",
       "video_id": "0neQIzWDXaM",
-      "idx": 116,
-      "sent_ids": [
-        "0neQIzWDXaM:s0183"
-      ],
-      "start_s": 1242.783,
-      "end_s": 1245.865,
-      "text": "The mechanism is novelty, not distance or cost.",
-      "n_words": 8,
-      "n_sentences": 1,
-      "pos_pct": 0.8908838709677419
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0117",
-      "video_id": "0neQIzWDXaM",
-      "idx": 117,
+      "idx": 87,
       "sent_ids": [
         "0neQIzWDXaM:s0184"
       ],
@@ -1722,9 +1332,9 @@
       "pos_pct": 0.8935232974910393
     },
     {
-      "window_id": "0neQIzWDXaM:j0118",
+      "window_id": "0neQIzWDXaM:j0088",
       "video_id": "0neQIzWDXaM",
-      "idx": 118,
+      "idx": 88,
       "sent_ids": [
         "0neQIzWDXaM:s0185",
         "0neQIzWDXaM:s0186",
@@ -1738,9 +1348,9 @@
       "pos_pct": 0.902847311827957
     },
     {
-      "window_id": "0neQIzWDXaM:j0119",
+      "window_id": "0neQIzWDXaM:j0089",
       "video_id": "0neQIzWDXaM",
-      "idx": 119,
+      "idx": 89,
       "sent_ids": [
         "0neQIzWDXaM:s0188",
         "0neQIzWDXaM:s0189",
@@ -1754,37 +1364,24 @@
       "pos_pct": 0.9125146953405019
     },
     {
-      "window_id": "0neQIzWDXaM:j0120",
+      "window_id": "0neQIzWDXaM:j0090",
       "video_id": "0neQIzWDXaM",
-      "idx": 120,
+      "idx": 90,
       "sent_ids": [
-        "0neQIzWDXaM:s0191"
+        "0neQIzWDXaM:s0191",
+        "0neQIzWDXaM:s0192"
       ],
       "start_s": 1281.264,
-      "end_s": 1283.305,
-      "text": "A physical skill attempted for the first time.",
-      "n_words": 8,
-      "n_sentences": 1,
+      "end_s": 1291.892,
+      "text": "A physical skill attempted for the first time. Each of these injects novelty into a day that would otherwise pass on autopilot, and each generates the memory traces that make the day feel like something happened in it.",
+      "n_words": 38,
+      "n_sentences": 2,
       "pos_pct": 0.918468817204301
     },
     {
-      "window_id": "0neQIzWDXaM:j0121",
+      "window_id": "0neQIzWDXaM:j0091",
       "video_id": "0neQIzWDXaM",
-      "idx": 121,
-      "sent_ids": [
-        "0neQIzWDXaM:s0192"
-      ],
-      "start_s": 1283.706,
-      "end_s": 1291.892,
-      "text": "Each of these injects novelty into a day that would otherwise pass on autopilot, and each generates the memory traces that make the day feel like something happened in it.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.9202193548387096
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0122",
-      "video_id": "0neQIzWDXaM",
-      "idx": 122,
+      "idx": 91,
       "sent_ids": [
         "0neQIzWDXaM:s0193"
       ],
@@ -1796,37 +1393,24 @@
       "pos_pct": 0.9266881720430108
     },
     {
-      "window_id": "0neQIzWDXaM:j0123",
+      "window_id": "0neQIzWDXaM:j0092",
       "video_id": "0neQIzWDXaM",
-      "idx": 123,
+      "idx": 92,
       "sent_ids": [
-        "0neQIzWDXaM:s0194"
+        "0neQIzWDXaM:s0194",
+        "0neQIzWDXaM:s0195"
       ],
       "start_s": 1308.113,
-      "end_s": 1310.613,
-      "text": "And this is ultimately the answer to the question in the title.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 1321.895,
+      "text": "And this is ultimately the answer to the question in the title. Time feels faster as you age because the proportion of your experience that is novel decreases as you accumulate experience and settle into the routines that predictable adult life produces.",
+      "n_words": 42,
+      "n_sentences": 2,
       "pos_pct": 0.93771541218638
     },
     {
-      "window_id": "0neQIzWDXaM:j0124",
+      "window_id": "0neQIzWDXaM:j0093",
       "video_id": "0neQIzWDXaM",
-      "idx": 124,
-      "sent_ids": [
-        "0neQIzWDXaM:s0195"
-      ],
-      "start_s": 1311.673,
-      "end_s": 1321.895,
-      "text": "Time feels faster as you age because the proportion of your experience that is novel decreases as you accumulate experience and settle into the routines that predictable adult life produces.",
-      "n_words": 30,
-      "n_sentences": 1,
-      "pos_pct": 0.9402673835125448
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0125",
-      "video_id": "0neQIzWDXaM",
-      "idx": 125,
+      "idx": 93,
       "sent_ids": [
         "0neQIzWDXaM:s0196",
         "0neQIzWDXaM:s0197",
@@ -1841,37 +1425,24 @@
       "pos_pct": 0.9483189964157706
     },
     {
-      "window_id": "0neQIzWDXaM:j0126",
+      "window_id": "0neQIzWDXaM:j0094",
       "video_id": "0neQIzWDXaM",
-      "idx": 126,
+      "idx": 94,
       "sent_ids": [
-        "0neQIzWDXaM:s0200"
+        "0neQIzWDXaM:s0200",
+        "0neQIzWDXaM:s0201"
       ],
       "start_s": 1336.712,
-      "end_s": 1344.957,
-      "text": "Social engagement, which anchors memory and generates emotional intensity, often decreases as adult life becomes more structured and less spontaneous.",
-      "n_words": 20,
-      "n_sentences": 1,
+      "end_s": 1354.487,
+      "text": "Social engagement, which anchors memory and generates emotional intensity, often decreases as adult life becomes more structured and less spontaneous. The result is a systematic reduction in memory density per unit time as life becomes more predictable, which the brain experiences as time passing faster.",
+      "n_words": 45,
+      "n_sentences": 2,
       "pos_pct": 0.9582164874551972
     },
     {
-      "window_id": "0neQIzWDXaM:j0127",
+      "window_id": "0neQIzWDXaM:j0095",
       "video_id": "0neQIzWDXaM",
-      "idx": 127,
-      "sent_ids": [
-        "0neQIzWDXaM:s0201"
-      ],
-      "start_s": 1345.777,
-      "end_s": 1354.487,
-      "text": "The result is a systematic reduction in memory density per unit time as life becomes more predictable, which the brain experiences as time passing faster.",
-      "n_words": 25,
-      "n_sentences": 1,
-      "pos_pct": 0.9647146953405018
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0128",
-      "video_id": "0neQIzWDXaM",
-      "idx": 128,
+      "idx": 95,
       "sent_ids": [
         "0neQIzWDXaM:s0202",
         "0neQIzWDXaM:s0203",
@@ -1885,37 +1456,24 @@
       "pos_pct": 0.9717189964157706
     },
     {
-      "window_id": "0neQIzWDXaM:j0129",
+      "window_id": "0neQIzWDXaM:j0096",
       "video_id": "0neQIzWDXaM",
-      "idx": 129,
+      "idx": 96,
       "sent_ids": [
-        "0neQIzWDXaM:s0205"
+        "0neQIzWDXaM:s0205",
+        "0neQIzWDXaM:s0206"
       ],
       "start_s": 1366.257,
-      "end_s": 1373.18,
-      "text": "more novelty, more deliberate attention, more challenge, more social engagement, more firstness.",
-      "n_words": 12,
-      "n_sentences": 1,
+      "end_s": 1380.683,
+      "text": "more novelty, more deliberate attention, more challenge, more social engagement, more firstness. The first time doing anything generates more memory than the hundredth time, and you can choose to generate more first times at any age.",
+      "n_words": 36,
+      "n_sentences": 2,
       "pos_pct": 0.9793956989247312
     },
     {
-      "window_id": "0neQIzWDXaM:j0130",
+      "window_id": "0neQIzWDXaM:j0097",
       "video_id": "0neQIzWDXaM",
-      "idx": 130,
-      "sent_ids": [
-        "0neQIzWDXaM:s0206"
-      ],
-      "start_s": 1373.92,
-      "end_s": 1380.683,
-      "text": "The first time doing anything generates more memory than the hundredth time, and you can choose to generate more first times at any age.",
-      "n_words": 24,
-      "n_sentences": 1,
-      "pos_pct": 0.9848888888888889
-    },
-    {
-      "window_id": "0neQIzWDXaM:j0131",
-      "video_id": "0neQIzWDXaM",
-      "idx": 131,
+      "idx": 97,
       "sent_ids": [
         "0neQIzWDXaM:s0207",
         "0neQIzWDXaM:s0208"
@@ -1928,9 +1486,9 @@
       "pos_pct": 0.9904967741935483
     },
     {
-      "window_id": "0neQIzWDXaM:j0132",
+      "window_id": "0neQIzWDXaM:j0098",
       "video_id": "0neQIzWDXaM",
-      "idx": 132,
+      "idx": 98,
       "sent_ids": [
         "0neQIzWDXaM:s0209"
       ],
