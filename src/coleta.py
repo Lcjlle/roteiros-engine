@@ -1,10 +1,16 @@
-"""Fase 1 - Coleta: 30 transcricoes limpas do canal de referencia (@Zenn0009).
+"""Fase 1 - Coleta: transcricoes limpas do canal de referencia por canal.
 
 Pipeline: lista os videos do canal com `yt-dlp --flat-playlist --dump-json`,
-seleciona 30 pelo desempenho relativo (nao os mais recentes), baixa legenda
-(`youtube-transcript-api`, com `yt-dlp` como fallback de enumeracao e
-`whisperX` como ultimo recurso quando nao ha legenda nenhuma), aplica limpeza
-minima e escreve `corpus/<canal>/raw/*.json` + `corpus/<canal>/manifesto.csv`.
+seleciona os `target` videos `profile` pelo desempenho relativo (nao os mais
+recentes) e reserva ate `HOLDOUT_TARGET` videos `holdout` elegiveis (sorteio
+com semente fixa, nunca a cauda de menor `view_count` - `select_holdout()`,
+`_docs/decisions.md#6`) do mesmo pool. So os videos `profile` sao
+transcritos: baixa legenda (`youtube-transcript-api`, com `yt-dlp` como
+fallback de enumeracao e `whisperX` como ultimo recurso quando nao ha
+legenda nenhuma), aplica limpeza minima e escreve `corpus/<canal>/raw/*.json`
++ `corpus/<canal>/manifesto.csv` (coluna `role`: `profile`/`holdout` -
+`_docs/decisions.md#7`). Videos `holdout` entram so com
+`id`/`titulo`/`duracao_s` - nunca sao transcritos, ate a Fase 8.
 Ver `_docs/plano_implementacao.md`, Fase 1, para o desenho e o portao;
 `_docs/decisions.md#3` documenta um piso temporario de >= 21 durante um
 bloqueio de IP, superado pelo item #4 quando o corpus de `@Zenn0009` foi
@@ -18,6 +24,7 @@ from __future__ import annotations
 
 import csv
 import json
+import random
 import re
 import subprocess
 import tempfile
@@ -43,9 +50,12 @@ MIN_DURATION_S = 180
 # "mais de 6 meses", aproximado em dias corridos.
 MIN_AGE_DAYS = 182
 SLEEP_SECONDS = 3
-# Heuristica de fala para o portao de contagem de palavras (Armadilhas,
-# Fase 1): legenda automatica em ingles fala tipicamente ~140 palavras/min.
-WORDS_PER_MINUTE = 140
+# Heuristica de fala para o portao de contagem de palavras (Fase 1,
+# _docs/plano_implementacao.md): legenda automatica em ingles fala
+# tipicamente ~150 palavras/min. Corrigido de 140 (_docs/decisions.md#8) -
+# nao reabre o resultado ja commitado de @Zenn0009 (o pior ratio la, 119.1%
+# a 140 wpm, continua acima do piso de 60% a 150 wpm).
+WORDS_PER_MINUTE = 150
 MIN_WORD_RATIO = 0.6
 # batch_size=16 (o default historico do whisperX) estoura VRAM em GPUs de
 # 6GB (RTX 4050 laptop, testado em video real) mesmo com `large-v2` +
@@ -59,7 +69,20 @@ WHISPERX_BATCH_SIZE = 4
 # alvo cheio.
 MIN_ROWS = TARGET_COUNT
 
-MANIFEST_FIELDS = ["id", "titulo", "duracao_s", "contagem_palavras", "fonte"]
+# Reserva de holdout (`_docs/plano_implementacao.md` v3.0; semente e alvo
+# fixados em `_docs/decisions.md#6`): sorteio, nao a cauda de menor
+# `view_count` - o plano proibe isso explicitamente. HOLDOUT_TARGET e o
+# topo da faixa "4-5" que o plano deixa em aberto; MIN_HOLDOUT e o minimo
+# antes de o pool elegivel reprovar o criterio pratico de canal
+# (`DECISOES.md#4`) em vez de encolher mais.
+HOLDOUT_SEED = 42
+HOLDOUT_TARGET = 5
+MIN_HOLDOUT = 4
+
+ROLE_PROFILE = "profile"
+ROLE_HOLDOUT = "holdout"
+
+MANIFEST_FIELDS = ["id", "titulo", "duracao_s", "contagem_palavras", "fonte", "role"]
 
 _MARKER_RE = re.compile(r"\[(m[uú]sica|music|aplausos|applause)\]", re.IGNORECASE)
 
@@ -106,6 +129,30 @@ def list_channel_videos(channel_url: str = CHANNEL_URL) -> list[dict]:
     return videos
 
 
+def _eligible_pool(
+    videos: list[dict],
+    target: int,
+    min_duration_s: int = MIN_DURATION_S,
+    min_age_days: int = MIN_AGE_DAYS,
+    now: datetime | None = None,
+) -> list[dict]:
+    """Pool elegivel (videos longos, com o recuo de canal jovem) que tanto
+    `select_videos()` quanto `select_holdout()` usam - fatorado pra elas
+    nunca divergirem sobre o que "o mesmo pool" significa.
+    """
+    now = now or datetime.now(UTC)
+    long_form = [v for v in videos if v["duration"] >= min_duration_s]
+
+    def age_days(video: dict) -> int:
+        published_at = video.get("published_at")
+        if published_at is None:
+            return 0  # data desconhecida: trata como recem-publicado
+        return (now - published_at).days
+
+    mature = [v for v in long_form if age_days(v) >= min_age_days]
+    return mature if len(mature) >= target else long_form
+
+
 def select_videos(
     videos: list[dict],
     target: int = TARGET_COUNT,
@@ -128,20 +175,63 @@ def select_videos(
     mais recentes" continua valendo mesmo nesse caso, so muda o tamanho do
     grupo elegivel.
     """
-    now = now or datetime.now(UTC)
-    long_form = [v for v in videos if v["duration"] >= min_duration_s]
-
-    def age_days(video: dict) -> int:
-        published_at = video.get("published_at")
-        if published_at is None:
-            return 0  # data desconhecida: trata como recem-publicado
-        return (now - published_at).days
-
-    mature = [v for v in long_form if age_days(v) >= min_age_days]
-    pool = mature if len(mature) >= target else long_form
-
+    pool = _eligible_pool(videos, target, min_duration_s, min_age_days, now)
     ranked = sorted(pool, key=lambda v: v["view_count"], reverse=True)
     return ranked[:target]
+
+
+class ChannelPoolTooSmall(RuntimeError):
+    """Pool elegivel nao tem videos suficientes pra `profile_target` +
+    `min_holdout` (`_docs/decisions.md#6`) - achado real sobre o canal
+    (criterio pratico de `DECISOES.md#4`), nao um bug de codigo. `collect()`
+    deixa isso subir sem tentar coleta nenhuma.
+    """
+
+
+def select_holdout(
+    videos: list[dict],
+    profile: list[dict],
+    target: int = HOLDOUT_TARGET,
+    min_holdout: int = MIN_HOLDOUT,
+    profile_target: int = TARGET_COUNT,
+    min_duration_s: int = MIN_DURATION_S,
+    min_age_days: int = MIN_AGE_DAYS,
+    now: datetime | None = None,
+    seed: int = HOLDOUT_SEED,
+) -> list[dict]:
+    """Reserva ate `target` videos `holdout` do mesmo pool elegivel que
+    `select_videos()` usou pros `profile_target` videos `profile`, menos os
+    ja selecionados - sorteio com semente fixa (`_docs/decisions.md#6`),
+    nunca a cauda de menor `view_count` (o plano proibe isso
+    explicitamente).
+
+    Se o pool nao tiver `target` videos sobrando depois do `profile`, o
+    holdout encolhe pra caber, ate `min_holdout` (dentro da faixa "4-5" que
+    o plano permite). Se o pool inteiro tiver menos que
+    `profile_target + min_holdout` videos, levanta `ChannelPoolTooSmall` -
+    a coleta nao roda, isso e reportado como achado sobre o canal, nao
+    contornado silenciosamente encolhendo mais.
+
+    `target=0` e `min_holdout=0` desativam a reserva inteira (usado por
+    chamadas que nao querem holdout nenhum) sem exigir pool nenhum.
+    """
+    if target <= 0 and min_holdout <= 0:
+        return []
+
+    pool = _eligible_pool(videos, profile_target, min_duration_s, min_age_days, now)
+    if len(pool) < profile_target + min_holdout:
+        raise ChannelPoolTooSmall(
+            f"pool elegivel tem {len(pool)} videos, precisa de pelo menos "
+            f"{profile_target + min_holdout} ({profile_target} profile + "
+            f"{min_holdout} holdout minimo)"
+        )
+
+    profile_ids = {v["id"] for v in profile}
+    remaining = [v for v in pool if v["id"] not in profile_ids]
+
+    holdout_size = min(target, len(remaining))
+    rng = random.Random(seed)
+    return rng.sample(remaining, holdout_size)
 
 
 # --------------------------------------------------------------------------
@@ -373,7 +463,7 @@ def write_manifesto(rows: list[dict], path: Path = MANIFEST_PATH) -> None:
         writer = csv.DictWriter(fh, fieldnames=MANIFEST_FIELDS)
         writer.writeheader()
         for row in rows:
-            writer.writerow({field: row[field] for field in MANIFEST_FIELDS})
+            writer.writerow({field: row.get(field, "") for field in MANIFEST_FIELDS})
 
 
 def read_manifesto(path: Path = MANIFEST_PATH) -> list[dict]:
@@ -386,17 +476,38 @@ def read_manifesto(path: Path = MANIFEST_PATH) -> list[dict]:
 # --------------------------------------------------------------------------
 
 
-def check_gate(rows: list[dict], min_rows: int = MIN_ROWS) -> tuple[bool, list[str]]:
+def check_gate(
+    rows: list[dict],
+    min_rows: int = MIN_ROWS,
+    expect_holdout: bool = False,
+    min_holdout: int = MIN_HOLDOUT,
+    max_holdout: int = HOLDOUT_TARGET,
+) -> tuple[bool, list[str]]:
     """Portao da Fase 1 (`_docs/decisions.md#3`): o manifesto tem pelo menos
-    `min_rows` linhas - um piso duro, nao "quantas o collect() produziu" -,
-    e nenhuma transcricao tem menos de `MIN_WORD_RATIO` da contagem
-    esperada de palavras para a duracao.
+    `min_rows` linhas `profile` - um piso duro, nao "quantas o collect()
+    produziu" -, e nenhuma transcricao `profile` tem menos de
+    `MIN_WORD_RATIO` da contagem esperada de palavras para a duracao.
+    Linhas sem coluna `role` (manifesto pre-holdout) contam como `profile`,
+    entao manifestos antigos continuam validados exatamente como antes.
+
+    Com `expect_holdout=True` (`_docs/decisions.md#6`/`#7`), tambem exige
+    entre `min_holdout` e `max_holdout` linhas `holdout` - essas nao tem
+    `contagem_palavras` pra medir e nao entram no piso de 60%.
     """
     problems = []
-    if len(rows) < min_rows:
-        problems.append(f"manifesto tem {len(rows)} linhas, esperado pelo menos {min_rows}")
+    profile_rows = [row for row in rows if row.get("role", ROLE_PROFILE) == ROLE_PROFILE]
+    holdout_rows = [row for row in rows if row.get("role", ROLE_PROFILE) == ROLE_HOLDOUT]
 
-    for row in rows:
+    if len(profile_rows) < min_rows:
+        problems.append(f"manifesto tem {len(profile_rows)} linhas, esperado pelo menos {min_rows}")
+
+    if expect_holdout and not (min_holdout <= len(holdout_rows) <= max_holdout):
+        problems.append(
+            f"manifesto tem {len(holdout_rows)} linhas holdout, esperado entre "
+            f"{min_holdout} e {max_holdout}"
+        )
+
+    for row in profile_rows:
         duration_s = float(row["duracao_s"])
         actual = int(row["contagem_palavras"])
         expected = expected_word_count(duration_s)
@@ -418,6 +529,9 @@ def check_gate(rows: list[dict], min_rows: int = MIN_ROWS) -> tuple[bool, list[s
 def collect(
     channel_url: str = CHANNEL_URL,
     target: int = TARGET_COUNT,
+    holdout_target: int = HOLDOUT_TARGET,
+    min_holdout: int = MIN_HOLDOUT,
+    holdout_seed: int = HOLDOUT_SEED,
     raw_dir: Path = RAW_DIR,
     manifest_path: Path = MANIFEST_PATH,
     sleep_seconds: float = SLEEP_SECONDS,
@@ -426,6 +540,13 @@ def collect(
     """Roda o pipeline completo e escreve o manifesto parcial se um video
     estourar um erro esperado no meio do caminho.
 
+    Reserva holdout (`select_holdout()`) antes de transcrever qualquer
+    coisa: se o pool elegivel nao tiver `target + min_holdout` videos,
+    `ChannelPoolTooSmall` sobe daqui sem criar `raw_dir` nem tentar coleta
+    nenhuma - achado real sobre o canal (`DECISOES.md#4`), nao um stop
+    parcial. Videos `holdout` nunca passam por `collect_transcript()` -
+    entram no manifesto so com `id`/`titulo`/`duracao_s`.
+
     So `CouldNotRetrieveTranscript` (a base de `youtube_transcript_api`,
     cobre `IpBlocked`, `VideoUnavailable`, etc. - `TranscriptsDisabled`/
     `NoTranscriptFound` ja viram fallback dentro de
@@ -433,15 +554,25 @@ def collect(
     (as duas falhas conhecidas do whisperX - dependencia ausente, audio
     nao baixado) e `subprocess.CalledProcessError` (o download de audio do
     whisperX roda com `check=True`) contam como "parar aqui e esperado" e
-    interrompem o loop preservando o que ja foi coletado. Um `RuntimeError`
-    generico (nao a subclasse `WhisperXUnavailable`) e qualquer outra
-    excecao sao bugs reais e tem que subir - nao viram "coleta parcial"
-    silenciosa.
+    interrompem o loop `profile` preservando o que ja foi coletado (as
+    linhas `holdout` ja reservadas ainda entram no manifesto). Um
+    `RuntimeError` generico (nao a subclasse `WhisperXUnavailable`) e
+    qualquer outra excecao sao bugs reais e tem que subir - nao viram
+    "coleta parcial" silenciosa.
     """
-    raw_dir.mkdir(parents=True, exist_ok=True)
-
     videos = list_channel_videos(channel_url)
     selected = select_videos(videos, target=target, now=now)
+    holdout = select_holdout(
+        videos,
+        selected,
+        target=holdout_target,
+        min_holdout=min_holdout,
+        profile_target=target,
+        now=now,
+        seed=holdout_seed,
+    )
+
+    raw_dir.mkdir(parents=True, exist_ok=True)
 
     rows = []
     for i, video in enumerate(selected):
@@ -473,8 +604,21 @@ def collect(
                 "duracao_s": video["duration"],
                 "contagem_palavras": word_count(trechos),
                 "fonte": "whisperX" if source == "whisperx" else "legenda",
+                "role": ROLE_PROFILE,
             }
         )
+
+    rows.extend(
+        {
+            "id": video["id"],
+            "titulo": video["title"],
+            "duracao_s": video["duration"],
+            "contagem_palavras": "",
+            "fonte": "",
+            "role": ROLE_HOLDOUT,
+        }
+        for video in holdout
+    )
 
     write_manifesto(rows, manifest_path)
     return rows
@@ -482,7 +626,7 @@ def collect(
 
 def main() -> None:
     rows = collect()
-    ok, problems = check_gate(rows)
+    ok, problems = check_gate(rows, expect_holdout=True)
     print(f"manifesto: {len(rows)} linhas em {MANIFEST_PATH}")
     if ok:
         print("portao Fase 1: PASSOU")

@@ -96,6 +96,86 @@ class TestSelectVideos:
 
 
 # --------------------------------------------------------------------------
+# Reserva de holdout
+# --------------------------------------------------------------------------
+
+
+class TestSelectHoldout:
+    def test_same_seed_draws_the_same_sample(self):
+        videos = [_video(f"v{i}", views=i, days_ago=400) for i in range(40)]
+        profile = coleta.select_videos(videos, target=30)
+
+        first = coleta.select_holdout(videos, profile, target=5, min_holdout=4)
+        second = coleta.select_holdout(videos, profile, target=5, min_holdout=4)
+
+        assert [v["id"] for v in first] == [v["id"] for v in second]
+
+    def test_different_seed_draws_a_different_sample(self):
+        videos = [_video(f"v{i}", views=i, days_ago=400) for i in range(40)]
+        profile = coleta.select_videos(videos, target=30)
+
+        default_seed = coleta.select_holdout(videos, profile, target=5, min_holdout=4)
+        other_seed = coleta.select_holdout(videos, profile, target=5, min_holdout=4, seed=7)
+
+        assert {v["id"] for v in default_seed} != {v["id"] for v in other_seed}
+
+    def test_never_overlaps_the_profile_selection(self):
+        videos = [_video(f"v{i}", views=i, days_ago=400) for i in range(40)]
+        profile = coleta.select_videos(videos, target=30)
+
+        holdout = coleta.select_holdout(videos, profile, target=5, min_holdout=4)
+
+        profile_ids = {v["id"] for v in profile}
+        assert profile_ids.isdisjoint({v["id"] for v in holdout})
+
+    def test_is_not_the_lowest_view_count_tail(self):
+        # 40 videos elegiveis, views distintas; os 30 profile pegam as
+        # maiores views (v10..v39). Dos 10 que sobram (v0..v9), a cauda de
+        # menor view_count seria v0..v4 - proibida pelo plano. Com
+        # HOLDOUT_SEED=42 o sorteio nao bate com essa cauda.
+        videos = [_video(f"v{i}", views=i, days_ago=400) for i in range(40)]
+        profile = coleta.select_videos(videos, target=30)
+        profile_ids = {v["id"] for v in profile}
+        remaining_by_view_asc = sorted(
+            (v for v in videos if v["id"] not in profile_ids),
+            key=lambda v: v["view_count"],
+        )
+        lowest_view_tail = {v["id"] for v in remaining_by_view_asc[:5]}
+
+        holdout = coleta.select_holdout(videos, profile, target=5, min_holdout=4)
+
+        assert {v["id"] for v in holdout} != lowest_view_tail
+
+    def test_shrinks_to_four_when_pool_has_only_34_eligible(self):
+        # 34 elegiveis: 30 profile + exatamente 4 sobrando - o piso da faixa
+        # "4-5", o holdout tem que caber em 4 sem falhar.
+        videos = [_video(f"v{i}", views=40 - i, days_ago=400) for i in range(34)]
+        profile = coleta.select_videos(videos, target=30)
+
+        holdout = coleta.select_holdout(videos, profile, target=5, min_holdout=4)
+
+        assert len(holdout) == 4
+
+    def test_raises_when_pool_has_fewer_than_34_eligible(self):
+        # 33 elegiveis: 30 profile + so 3 sobrando, abaixo do piso minimo de
+        # 4 - a coleta nao deve rodar, isso e FAIL do criterio pratico de
+        # canal (DECISOES.md#4), nao um encolhimento silencioso.
+        videos = [_video(f"v{i}", views=40 - i, days_ago=400) for i in range(33)]
+        profile = coleta.select_videos(videos, target=30)
+
+        with pytest.raises(coleta.ChannelPoolTooSmall):
+            coleta.select_holdout(videos, profile, target=5, min_holdout=4)
+
+    def test_target_and_min_holdout_zero_disables_reservation(self):
+        videos = [_video(f"v{i}", views=i, days_ago=400) for i in range(5)]
+        profile = coleta.select_videos(videos, target=5)
+
+        holdout = coleta.select_holdout(videos, profile, target=0, min_holdout=0)
+
+        assert holdout == []
+
+
+# --------------------------------------------------------------------------
 # Fallback legenda -> yt-dlp -> whisperX
 # --------------------------------------------------------------------------
 
@@ -374,6 +454,90 @@ class TestGate:
         assert any("truncated" in p for p in problems)
 
 
+class TestGateHoldout:
+    def _profile_row(self, id_, below_floor=False):
+        expected = coleta.expected_word_count(500)
+        words = int(expected * 0.5) if below_floor else int(expected)
+        return {
+            "id": id_,
+            "titulo": "t",
+            "duracao_s": 500,
+            "contagem_palavras": words,
+            "fonte": "legenda",
+            "role": "profile",
+        }
+
+    def _holdout_row(self, id_):
+        return {
+            "id": id_,
+            "titulo": "t",
+            "duracao_s": 500,
+            "contagem_palavras": "",
+            "fonte": "",
+            "role": "holdout",
+        }
+
+    def test_passes_with_30_profile_and_5_holdout(self):
+        rows = [self._profile_row(f"p{i}") for i in range(30)]
+        rows += [self._holdout_row(f"h{i}") for i in range(5)]
+
+        ok, problems = coleta.check_gate(rows, expect_holdout=True)
+
+        assert ok
+        assert problems == []
+
+    def test_holdout_row_without_word_count_does_not_break_the_60_percent_floor(self):
+        # 4 holdout (piso reduzido da faixa "4-5") sem contagem_palavras -
+        # nao pode contar como "abaixo do piso de 60%", so linhas profile
+        # sao medidas.
+        rows = [self._profile_row(f"p{i}") for i in range(30)]
+        rows += [self._holdout_row(f"h{i}") for i in range(4)]
+
+        ok, problems = coleta.check_gate(rows, expect_holdout=True)
+
+        assert ok
+        assert problems == []
+
+    def test_fails_with_fewer_than_4_holdout_rows(self):
+        rows = [self._profile_row(f"p{i}") for i in range(30)]
+        rows += [self._holdout_row(f"h{i}") for i in range(3)]
+
+        ok, problems = coleta.check_gate(rows, expect_holdout=True)
+
+        assert not ok
+        assert any("holdout" in p for p in problems)
+
+    def test_fails_with_more_than_5_holdout_rows(self):
+        rows = [self._profile_row(f"p{i}") for i in range(30)]
+        rows += [self._holdout_row(f"h{i}") for i in range(6)]
+
+        ok, problems = coleta.check_gate(rows, expect_holdout=True)
+
+        assert not ok
+        assert any("holdout" in p for p in problems)
+
+    def test_a_below_floor_profile_row_still_fails_even_with_valid_holdout_count(self):
+        rows = [self._profile_row(f"p{i}") for i in range(29)]
+        rows.append(self._profile_row("truncated", below_floor=True))
+        rows += [self._holdout_row(f"h{i}") for i in range(5)]
+
+        ok, problems = coleta.check_gate(rows, expect_holdout=True)
+
+        assert not ok
+        assert any("truncated" in p for p in problems)
+
+    def test_ignores_holdout_count_when_expect_holdout_is_false(self):
+        # Manifesto sem holdout nenhum (formato pre-issue-2, ou uma
+        # chamada que nao pediu holdout) continua validado so pelas linhas
+        # profile quando expect_holdout nao e passado.
+        rows = [self._profile_row(f"p{i}") for i in range(30)]
+
+        ok, problems = coleta.check_gate(rows)
+
+        assert ok
+        assert problems == []
+
+
 # --------------------------------------------------------------------------
 # Pipeline: coleta interrompida
 # --------------------------------------------------------------------------
@@ -401,7 +565,12 @@ class TestCollect:
         raw_dir = tmp_path / "raw"
 
         rows = coleta.collect(
-            target=5, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0
+            target=5,
+            holdout_target=0,
+            min_holdout=0,
+            raw_dir=raw_dir,
+            manifest_path=manifest_path,
+            sleep_seconds=0,
         )
 
         assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
@@ -425,7 +594,12 @@ class TestCollect:
         raw_dir = tmp_path / "raw"
 
         rows = coleta.collect(
-            target=3, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0
+            target=3,
+            holdout_target=0,
+            min_holdout=0,
+            raw_dir=raw_dir,
+            manifest_path=manifest_path,
+            sleep_seconds=0,
         )
 
         assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
@@ -455,7 +629,14 @@ class TestCollect:
         raw_dir = tmp_path / "raw"
 
         with pytest.raises(RuntimeError, match="bug de verdade"):
-            coleta.collect(target=5, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0)
+            coleta.collect(
+                target=5,
+                holdout_target=0,
+                min_holdout=0,
+                raw_dir=raw_dir,
+                manifest_path=manifest_path,
+                sleep_seconds=0,
+            )
 
         assert not manifest_path.exists()
 
@@ -479,7 +660,12 @@ class TestCollect:
         raw_dir = tmp_path / "raw"
 
         rows = coleta.collect(
-            target=5, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0
+            target=5,
+            holdout_target=0,
+            min_holdout=0,
+            raw_dir=raw_dir,
+            manifest_path=manifest_path,
+            sleep_seconds=0,
         )
 
         assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
@@ -501,7 +687,12 @@ class TestCollect:
         raw_dir = tmp_path / "raw"
 
         rows = coleta.collect(
-            target=5, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0
+            target=5,
+            holdout_target=0,
+            min_holdout=0,
+            raw_dir=raw_dir,
+            manifest_path=manifest_path,
+            sleep_seconds=0,
         )
 
         assert [r["id"] for r in rows] == ["v0", "v1", "v2"]
@@ -523,4 +714,95 @@ class TestCollect:
         raw_dir = tmp_path / "raw"
 
         with pytest.raises(TypeError, match="regressao de verdade"):
-            coleta.collect(target=2, raw_dir=raw_dir, manifest_path=manifest_path, sleep_seconds=0)
+            coleta.collect(
+                target=2,
+                holdout_target=0,
+                min_holdout=0,
+                raw_dir=raw_dir,
+                manifest_path=manifest_path,
+                sleep_seconds=0,
+            )
+
+
+# --------------------------------------------------------------------------
+# Pipeline: reserva de holdout
+# --------------------------------------------------------------------------
+
+
+class TestCollectHoldout:
+    def test_writes_holdout_rows_without_transcribing_or_writing_raw_files(
+        self, monkeypatch, tmp_path
+    ):
+        # 5 videos elegiveis, target=3 profile / holdout ate 2 (min 2) -
+        # pool tem exatamente 3+2=5, cabe com folga zero.
+        videos = [_video(f"v{i}", duration=500, views=10 - i, days_ago=400) for i in range(5)]
+        monkeypatch.setattr(coleta, "list_channel_videos", lambda channel_url: videos)
+
+        calls = []
+
+        def fake_collect_transcript(video_id):
+            calls.append(video_id)
+            return [{"start": 0, "duration": 1, "text": "oi tudo bem"}], "youtube_transcript_api"
+
+        monkeypatch.setattr(coleta, "collect_transcript", fake_collect_transcript)
+
+        manifest_path = tmp_path / "manifesto.csv"
+        raw_dir = tmp_path / "raw"
+
+        rows = coleta.collect(
+            target=3,
+            holdout_target=2,
+            min_holdout=2,
+            raw_dir=raw_dir,
+            manifest_path=manifest_path,
+            sleep_seconds=0,
+        )
+
+        profile_rows = [r for r in rows if r["role"] == "profile"]
+        holdout_rows = [r for r in rows if r["role"] == "holdout"]
+        assert len(profile_rows) == 3
+        assert len(holdout_rows) == 2
+
+        holdout_ids = {r["id"] for r in holdout_rows}
+        assert calls == [r["id"] for r in profile_rows]
+        assert holdout_ids.isdisjoint(calls)
+
+        for holdout_id in holdout_ids:
+            assert not (raw_dir / f"{holdout_id}.json").exists()
+            assert not (raw_dir / f"{holdout_id}.limpo.json").exists()
+
+        for row in holdout_rows:
+            assert row["contagem_palavras"] == ""
+            assert row["fonte"] == ""
+
+        manifest_rows = coleta.read_manifesto(manifest_path)
+        assert {r["role"] for r in manifest_rows} == {"profile", "holdout"}
+        assert sum(1 for r in manifest_rows if r["role"] == "holdout") == 2
+
+    def test_raises_and_runs_nothing_when_eligible_pool_is_too_small(self, monkeypatch, tmp_path):
+        # 3 videos elegiveis, target=3 profile + min_holdout=2 exige 5 -
+        # abaixo do piso: a coleta nao pode rodar, nem criar raw_dir/
+        # manifesto, nem chamar collect_transcript nenhuma vez.
+        videos = [_video(f"v{i}", duration=500, views=i, days_ago=400) for i in range(3)]
+        monkeypatch.setattr(coleta, "list_channel_videos", lambda channel_url: videos)
+        monkeypatch.setattr(
+            coleta,
+            "collect_transcript",
+            lambda vid: pytest.fail("nao deveria tentar transcrever"),
+        )
+
+        raw_dir = tmp_path / "raw"
+        manifest_path = tmp_path / "manifesto.csv"
+
+        with pytest.raises(coleta.ChannelPoolTooSmall):
+            coleta.collect(
+                target=3,
+                holdout_target=2,
+                min_holdout=2,
+                raw_dir=raw_dir,
+                manifest_path=manifest_path,
+                sleep_seconds=0,
+            )
+
+        assert not raw_dir.exists()
+        assert not manifest_path.exists()
