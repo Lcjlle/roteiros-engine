@@ -1,0 +1,1837 @@
+{
+  "video_id": "7xgt_LQxedc",
+  "generated_at": "2026-09-03T13:18:13.113091+00:00",
+  "windows": [
+    {
+      "window_id": "7xgt_LQxedc:j0000",
+      "video_id": "7xgt_LQxedc",
+      "idx": 0,
+      "sent_ids": [
+        "7xgt_LQxedc:s0000",
+        "7xgt_LQxedc:s0001",
+        "7xgt_LQxedc:s0002"
+      ],
+      "start_s": 0.091,
+      "end_s": 12.256,
+      "text": "The Viking longship had no cabin, no stove, and no mercy. Imagine sitting only a few feet above black northern water while freezing spray crosses the gunwale. Your clothes are damp.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 6.5e-05
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0001",
+      "video_id": "7xgt_LQxedc",
+      "idx": 1,
+      "sent_ids": [
+        "7xgt_LQxedc:s0003",
+        "7xgt_LQxedc:s0004"
+      ],
+      "start_s": 12.657,
+      "end_s": 24.282,
+      "text": "The wind has been pushing through them for hours. There is nowhere below deck to hide because, on many warships, below deck is mostly where cargo, ballast, and your rapidly declining optimism are stored.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.009040714285714286
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0002",
+      "video_id": "7xgt_LQxedc",
+      "idx": 2,
+      "sent_ids": [
+        "7xgt_LQxedc:s0005",
+        "7xgt_LQxedc:s0006",
+        "7xgt_LQxedc:s0007"
+      ],
+      "start_s": 24.802,
+      "end_s": 36.17,
+      "text": "And night is coming. This is the part paintings usually omit. They show the striped sail, the carved prow, and 30 heroic men staring toward England as if England has personally offended them.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.017715714285714286
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0003",
+      "video_id": "7xgt_LQxedc",
+      "idx": 3,
+      "sent_ids": [
+        "7xgt_LQxedc:s0008",
+        "7xgt_LQxedc:s0009"
+      ],
+      "start_s": 36.671,
+      "end_s": 42.415,
+      "text": "They rarely show one of those men losing feeling in his toes. So how did Vikings stay warm on freezing ships?",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.026193571428571427
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0004",
+      "video_id": "7xgt_LQxedc",
+      "idx": 4,
+      "sent_ids": [
+        "7xgt_LQxedc:s0010",
+        "7xgt_LQxedc:s0011",
+        "7xgt_LQxedc:s0012"
+      ],
+      "start_s": 42.995,
+      "end_s": 54.783,
+      "text": "The honest answer is less dramatic than a secret Viking heater and more impressive than simple toughness. they avoided the worst cold whenever possible. They dressed in a carefully layered system built around wool.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.030710714285714282
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0005",
+      "video_id": "7xgt_LQxedc",
+      "idx": 5,
+      "sent_ids": [
+        "7xgt_LQxedc:s0013",
+        "7xgt_LQxedc:s0014"
+      ],
+      "start_s": 55.183,
+      "end_s": 70.21,
+      "text": "They protected gear from water, ate enough to fuel constant heat production, worked in shifts, used temporary shelter when conditions allowed, and got ashore whenever the sea stopped being useful. And sometimes, despite all of that, they were miserably cold.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.039416428571428574
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0006",
+      "video_id": "7xgt_LQxedc",
+      "idx": 6,
+      "sent_ids": [
+        "7xgt_LQxedc:s0015",
+        "7xgt_LQxedc:s0016",
+        "7xgt_LQxedc:s0017"
+      ],
+      "start_s": 70.771,
+      "end_s": 79.876,
+      "text": "Vikings were not immune to hypothermia. They did not possess northern blood that converted sleet into confidence. Their bodies lost heat by the same rules ours do.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.05055071428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0007",
+      "video_id": "7xgt_LQxedc",
+      "idx": 7,
+      "sent_ids": [
+        "7xgt_LQxedc:s0018",
+        "7xgt_LQxedc:s0019",
+        "7xgt_LQxedc:s0020"
+      ],
+      "start_s": 80.356,
+      "end_s": 91.202,
+      "text": "They were simply very good at organizing survival around those rules. First, remove the image of Vikings casually cruising through Arctic winter. Most long-distance voyages were planned for the sailing season.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.057397142857142855
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0008",
+      "video_id": "7xgt_LQxedc",
+      "idx": 8,
+      "sent_ids": [
+        "7xgt_LQxedc:s0021",
+        "7xgt_LQxedc:s0022"
+      ],
+      "start_s": 91.762,
+      "end_s": 105.587,
+      "text": "In northern waters, winter brought shorter days, violent storms, sea ice in some regions, and temperatures that turned every wave into a threat. Later medieval sources recommend narrow summer windows for dangerous routes such as Greenland.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.06554428571428571
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0009",
+      "video_id": "7xgt_LQxedc",
+      "idx": 9,
+      "sent_ids": [
+        "7xgt_LQxedc:s0023",
+        "7xgt_LQxedc:s0024"
+      ],
+      "start_s": 106.087,
+      "end_s": 116.65,
+      "text": "And traditions around Baltic sailing also define a season rather than treating the sea as open all year. Those sources are not instruction manuals from every Viking crew, but the principle is obvious.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.07577642857142858
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0010",
+      "video_id": "7xgt_LQxedc",
+      "idx": 10,
+      "sent_ids": [
+        "7xgt_LQxedc:s0025",
+        "7xgt_LQxedc:s0026"
+      ],
+      "start_s": 116.97,
+      "end_s": 124.452,
+      "text": "The easiest way to survive a freezing storm is to meet it while standing inside a house. Voyages still encountered brutal cold.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.08355
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0011",
+      "video_id": "7xgt_LQxedc",
+      "idx": 11,
+      "sent_ids": [
+        "7xgt_LQxedc:s0027",
+        "7xgt_LQxedc:s0028"
+      ],
+      "start_s": 124.972,
+      "end_s": 134.826,
+      "text": "The North Atlantic can produce cold rain, fog, high wind, and near-freezing water in summer. A departure in good weather could become a desperate fight before the next coast appeared.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.08926571428571428
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0012",
+      "video_id": "7xgt_LQxedc",
+      "idx": 12,
+      "sent_ids": [
+        "7xgt_LQxedc:s0029",
+        "7xgt_LQxedc:s0030"
+      ],
+      "start_s": 135.406,
+      "end_s": 144.797,
+      "text": "Raids, trade, migration, warfare, and simple bad luck also ignored ideal calendars. But Vikings did not seek winter for atmosphere.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.09671857142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0013",
+      "video_id": "7xgt_LQxedc",
+      "idx": 13,
+      "sent_ids": [
+        "7xgt_LQxedc:s0031",
+        "7xgt_LQxedc:s0032"
+      ],
+      "start_s": 145.178,
+      "end_s": 165.529,
+      "text": "They watched seasons, waited for winds, followed coastal routes where possible, and crossed open water when the odds looked survivable, choosing when not to sail was part of seamanship. Because the ship offered almost no permanent shelter, a longship was designed for speed, shallow draft, rowing, beaching, and carrying many people.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.10369857142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0014",
+      "video_id": "7xgt_LQxedc",
+      "idx": 14,
+      "sent_ids": [
+        "7xgt_LQxedc:s0033",
+        "7xgt_LQxedc:s0034"
+      ],
+      "start_s": 166.049,
+      "end_s": 179.904,
+      "text": "Its open hull allowed a crew to move, handle the sail, work the oars, and land quickly. A roof would add weight, catch wind, obstruct movement, and make the vessel much less useful during battle or sudden changes in weather.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.11860642857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0015",
+      "video_id": "7xgt_LQxedc",
+      "idx": 15,
+      "sent_ids": [
+        "7xgt_LQxedc:s0035",
+        "7xgt_LQxedc:s0036"
+      ],
+      "start_s": 180.424,
+      "end_s": 193.234,
+      "text": "Cargo ships were broader and carried fewer people relative to their size, but they were not floating hotels either. Viking ships did not provide private bunks, heated rooms, or a cheerful cook announcing that the soup was ready.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.12887428571428572
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0016",
+      "video_id": "7xgt_LQxedc",
+      "idx": 16,
+      "sent_ids": [
+        "7xgt_LQxedc:s0037",
+        "7xgt_LQxedc:s0038",
+        "7xgt_LQxedc:s0039",
+        "7xgt_LQxedc:s0040"
+      ],
+      "start_s": 193.734,
+      "end_s": 203.719,
+      "text": "The crew lived inside the weather. That made clothing the first shelter. For Viking-age Scandinavians, the critical material was wool. Not one giant bearskin.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.13838142857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0017",
+      "video_id": "7xgt_LQxedc",
+      "idx": 17,
+      "sent_ids": [
+        "7xgt_LQxedc:s0041",
+        "7xgt_LQxedc:s0042",
+        "7xgt_LQxedc:s0043",
+        "7xgt_LQxedc:s0044"
+      ],
+      "start_s": 204.159,
+      "end_s": 216.427,
+      "text": "Not a metal helmet with climate control. Wool. Sheep turn grass into fiber with a structure almost offensively useful in cold, wet regions. Wool fibers are crimped, so cloth traps tiny pockets of air.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.14582785714285715
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0018",
+      "video_id": "7xgt_LQxedc",
+      "idx": 18,
+      "sent_ids": [
+        "7xgt_LQxedc:s0045",
+        "7xgt_LQxedc:s0046"
+      ],
+      "start_s": 217.007,
+      "end_s": 227.694,
+      "text": "That trapped air slows the movement of heat away from the body. Wool can also absorb a substantial amount of moisture vapor within the fiber, while still feeling less wet than many plant fabrics.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.155005
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0019",
+      "video_id": "7xgt_LQxedc",
+      "idx": 19,
+      "sent_ids": [
+        "7xgt_LQxedc:s0047",
+        "7xgt_LQxedc:s0048",
+        "7xgt_LQxedc:s0049",
+        "7xgt_LQxedc:s0050"
+      ],
+      "start_s": 228.314,
+      "end_s": 240.525,
+      "text": "Most importantly, damp wool can retain useful insulation. Not all of it. The phrase wool keeps you warm when wet is often exaggerated until the garment sounds magical. Soaked wool becomes heavy.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.16308142857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0020",
+      "video_id": "7xgt_LQxedc",
+      "idx": 20,
+      "sent_ids": [
+        "7xgt_LQxedc:s0051",
+        "7xgt_LQxedc:s0052"
+      ],
+      "start_s": 241.045,
+      "end_s": 245.169,
+      "text": "Water replaces insulating air. Wind drives heat loss faster.",
+      "n_words": 9,
+      "n_sentences": 2,
+      "pos_pct": 0.172175
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0021",
+      "video_id": "7xgt_LQxedc",
+      "idx": 21,
+      "sent_ids": [
+        "7xgt_LQxedc:s0053",
+        "7xgt_LQxedc:s0054"
+      ],
+      "start_s": 245.97,
+      "end_s": 258.562,
+      "text": "A person in saturated wool can absolutely become dangerously cold, but compared with materials that collapse against the skin and lose insulation quickly, wool gives a sailor a better margin. On the North Atlantic, margins are life.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.17569285714285715
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0022",
+      "video_id": "7xgt_LQxedc",
+      "idx": 22,
+      "sent_ids": [
+        "7xgt_LQxedc:s0055",
+        "7xgt_LQxedc:s0056"
+      ],
+      "start_s": 259.162,
+      "end_s": 270.407,
+      "text": "A likely clothing system began with an undergarment, often linen where it was available, followed by woolen tunics and leg coverings. Over these came additional wool layers and a cloak or outer garment.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.18511571428571427
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0023",
+      "video_id": "7xgt_LQxedc",
+      "idx": 23,
+      "sent_ids": [
+        "7xgt_LQxedc:s0057",
+        "7xgt_LQxedc:s0058",
+        "7xgt_LQxedc:s0059"
+      ],
+      "start_s": 271.008,
+      "end_s": 285.493,
+      "text": "Archaeological textile fragments, graves, images, and later written descriptions show variation across place. century, wealth, and gender, so there was no official Viking uniform. The useful principle was layering.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.19357714285714284
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0024",
+      "video_id": "7xgt_LQxedc",
+      "idx": 24,
+      "sent_ids": [
+        "7xgt_LQxedc:s0060",
+        "7xgt_LQxedc:s0061"
+      ],
+      "start_s": 286.113,
+      "end_s": 294.415,
+      "text": "Several layers trap more air than one thin garment. They can be added, removed, opened, or tightened as work and weather change.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.20436642857142856
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0025",
+      "video_id": "7xgt_LQxedc",
+      "idx": 25,
+      "sent_ids": [
+        "7xgt_LQxedc:s0062",
+        "7xgt_LQxedc:s0063",
+        "7xgt_LQxedc:s0064"
+      ],
+      "start_s": 295.035,
+      "end_s": 306.56,
+      "text": "A rower generating enormous heat does not need the same arrangement as a man sitting motionless during the next watch. This flexibility prevents two opposite problems. Too few layers, and the wind steals heat.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.21073928571428574
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0026",
+      "video_id": "7xgt_LQxedc",
+      "idx": 26,
+      "sent_ids": [
+        "7xgt_LQxedc:s0065",
+        "7xgt_LQxedc:s0066"
+      ],
+      "start_s": 307.12,
+      "end_s": 315.644,
+      "text": "Too many during hard rowing, and sweat wets the clothing from inside. Sweat is dangerous in cold conditions because the body spends heat evaporating it.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.21937142857142858
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0027",
+      "video_id": "7xgt_LQxedc",
+      "idx": 27,
+      "sent_ids": [
+        "7xgt_LQxedc:s0067",
+        "7xgt_LQxedc:s0068",
+        "7xgt_LQxedc:s0069"
+      ],
+      "start_s": 316.245,
+      "end_s": 329.733,
+      "text": "Once work stops, damp fabric and a hard wind can turn yesterday's heroic rowing into tonight's medical emergency. The experienced sailor therefore had to manage clothing before discomfort became crisis. Open the cloak while working.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.2258892857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0028",
+      "video_id": "7xgt_LQxedc",
+      "idx": 28,
+      "sent_ids": [
+        "7xgt_LQxedc:s0070",
+        "7xgt_LQxedc:s0071",
+        "7xgt_LQxedc:s0072",
+        "7xgt_LQxedc:s0073"
+      ],
+      "start_s": 330.193,
+      "end_s": 341.26,
+      "text": "Close it when resting. Replace a wet layer if dry clothing remains. Do not wait until your teeth are performing percussion. The outer fabric mattered as much as the number of layers.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.23585214285714284
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0029",
+      "video_id": "7xgt_LQxedc",
+      "idx": 29,
+      "sent_ids": [
+        "7xgt_LQxedc:s0074",
+        "7xgt_LQxedc:s0075"
+      ],
+      "start_s": 341.801,
+      "end_s": 352.631,
+      "text": "Dense, tightly woven wool blocks wind and spray better than loose cloth. Finishing techniques could full the textile, tangling and tightening the fibers into a denser surface.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.24414357142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0030",
+      "video_id": "7xgt_LQxedc",
+      "idx": 30,
+      "sent_ids": [
+        "7xgt_LQxedc:s0076",
+        "7xgt_LQxedc:s0077"
+      ],
+      "start_s": 353.352,
+      "end_s": 365.545,
+      "text": "Natural wool grease and deliberate treatments may have improved water resistance, although claims that every sailor wore a perfectly oil-coated cloak go beyond the evidence. water-resistant is also not waterproof.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.2523942857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0031",
+      "video_id": "7xgt_LQxedc",
+      "idx": 31,
+      "sent_ids": [
+        "7xgt_LQxedc:s0078",
+        "7xgt_LQxedc:s0079",
+        "7xgt_LQxedc:s0080"
+      ],
+      "start_s": 366.105,
+      "end_s": 375.067,
+      "text": "A dense wool cloak can shed droplets and delay saturation. It cannot negotiate forever with horizontal rain. Leather and hides also had roles.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.26150357142857145
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0032",
+      "video_id": "7xgt_LQxedc",
+      "idx": 32,
+      "sent_ids": [
+        "7xgt_LQxedc:s0081",
+        "7xgt_LQxedc:s0082"
+      ],
+      "start_s": 375.667,
+      "end_s": 392.272,
+      "text": "Shoes were commonly made from leather, and animal skins or woolen blankets could provide bedding and additional insulation. Fur was available, especially in northern trade, but the cinematic viking permanently wrapped in luxurious pelts would have represented wealth, circumstance, or costume choice.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.2683335714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0033",
+      "video_id": "7xgt_LQxedc",
+      "idx": 33,
+      "sent_ids": [
+        "7xgt_LQxedc:s0083",
+        "7xgt_LQxedc:s0084",
+        "7xgt_LQxedc:s0085"
+      ],
+      "start_s": 392.852,
+      "end_s": 408.279,
+      "text": "not a universal maritime uniform. The ordinary miracle was textile labor. Every tunic, blanket, cloak, mitten, hood, and sail required fiber to be cleaned, prepared, spun, woven, cut, and sewn.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.28060857142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0034",
+      "video_id": "7xgt_LQxedc",
+      "idx": 34,
+      "sent_ids": [
+        "7xgt_LQxedc:s0086",
+        "7xgt_LQxedc:s0087"
+      ],
+      "start_s": 408.679,
+      "end_s": 420.605,
+      "text": "A large woolen sail demanded astonishing quantities of material and labor. Viking expansion depended not only on the men holding axes but on entire communities, producing the cloth that moved and protected them.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.2919135714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0035",
+      "video_id": "7xgt_LQxedc",
+      "idx": 35,
+      "sent_ids": [
+        "7xgt_LQxedc:s0088",
+        "7xgt_LQxedc:s0089",
+        "7xgt_LQxedc:s0090",
+        "7xgt_LQxedc:s0091"
+      ],
+      "start_s": 421.205,
+      "end_s": 430.295,
+      "text": "No wool, no voyage. The sword gets the museum poster. The spindle gets civilization across the ocean. Extremities created the next problem.",
+      "n_words": 22,
+      "n_sentences": 4,
+      "pos_pct": 0.30086071428571426
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0036",
+      "video_id": "7xgt_LQxedc",
+      "idx": 36,
+      "sent_ids": [
+        "7xgt_LQxedc:s0092",
+        "7xgt_LQxedc:s0093"
+      ],
+      "start_s": 430.776,
+      "end_s": 442.069,
+      "text": "The body protects its core in cold conditions by reducing blood flow near the skin, especially in the hands and feet. This preserves vital organs while allowing fingers to become increasingly decorative.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.3076971428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0037",
+      "video_id": "7xgt_LQxedc",
+      "idx": 37,
+      "sent_ids": [
+        "7xgt_LQxedc:s0094",
+        "7xgt_LQxedc:s0095"
+      ],
+      "start_s": 442.529,
+      "end_s": 458.605,
+      "text": "head coverings, hoods, mittens, woolen socks, or foot wrappings, and properly fitted shoes therefore mattered enormously. Nola binding, a single needle technique different from modern knitting, could produce warm, flexible items such as mittens and socks.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.3160921428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0038",
+      "video_id": "7xgt_LQxedc",
+      "idx": 38,
+      "sent_ids": [
+        "7xgt_LQxedc:s0096",
+        "7xgt_LQxedc:s0097"
+      ],
+      "start_s": 459.205,
+      "end_s": 469.452,
+      "text": "Wet footwear remained a nightmare. Water could enter from spray, rain, bilge, or simply standing in a boat where dry floorboards were more aspiration than guarantee.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.3280035714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0039",
+      "video_id": "7xgt_LQxedc",
+      "idx": 39,
+      "sent_ids": [
+        "7xgt_LQxedc:s0098",
+        "7xgt_LQxedc:s0099"
+      ],
+      "start_s": 470.072,
+      "end_s": 482.581,
+      "text": "Crews had to bail constantly because even a well-built clinker vessel took on some water. Spare foot coverings, replaceable wrappings, and drying opportunities ashore could determine whether a man retained functional toes.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.3357657142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0040",
+      "video_id": "7xgt_LQxedc",
+      "idx": 40,
+      "sent_ids": [
+        "7xgt_LQxedc:s0100",
+        "7xgt_LQxedc:s0101"
+      ],
+      "start_s": 483.181,
+      "end_s": 489.923,
+      "text": "The ship itself offered small pockets of protection. Its overlapping planks rose around the crew and blocked some low wind.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.3451292857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0041",
+      "video_id": "7xgt_LQxedc",
+      "idx": 41,
+      "sent_ids": [
+        "7xgt_LQxedc:s0102",
+        "7xgt_LQxedc:s0103"
+      ],
+      "start_s": 490.483,
+      "end_s": 505.086,
+      "text": "Men could sit lower in the hull when they were not working, huddle near companions, or use stowed equipment as partial barriers. Cargo, chests, sails, ropes, shields, and bodies changed how wind moved through the vessel.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.350345
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0042",
+      "video_id": "7xgt_LQxedc",
+      "idx": 42,
+      "sent_ids": [
+        "7xgt_LQxedc:s0104",
+        "7xgt_LQxedc:s0105",
+        "7xgt_LQxedc:s0106"
+      ],
+      "start_s": 505.526,
+      "end_s": 519.231,
+      "text": "But this should not become the famous shield wall heater. Shields may have been hung along a ship's sides in certain contexts, especially for display, storage, or quick access. And they could incidentally block spray.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.36109
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0043",
+      "video_id": "7xgt_LQxedc",
+      "idx": 43,
+      "sent_ids": [
+        "7xgt_LQxedc:s0107",
+        "7xgt_LQxedc:s0108",
+        "7xgt_LQxedc:s0109"
+      ],
+      "start_s": 519.632,
+      "end_s": 532.418,
+      "text": "Yet a continuous wall of shields in rough water adds windage, risks loss, and is not a proven universal method of climate control. The Vikings were practical. They would use whatever protected them.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.37116571428571427
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0044",
+      "video_id": "7xgt_LQxedc",
+      "idx": 44,
+      "sent_ids": [
+        "7xgt_LQxedc:s0110",
+        "7xgt_LQxedc:s0111",
+        "7xgt_LQxedc:s0112"
+      ],
+      "start_s": 532.899,
+      "end_s": 546.026,
+      "text": "They did not need every useful act turned into a standardized ancient technology. Then there was the simplest heat source on the ship, other Vikings. A packed crew generated warmth continuously.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.3806421428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0045",
+      "video_id": "7xgt_LQxedc",
+      "idx": 45,
+      "sent_ids": [
+        "7xgt_LQxedc:s0113",
+        "7xgt_LQxedc:s0114"
+      ],
+      "start_s": 546.566,
+      "end_s": 551.009,
+      "text": "A resting person produces body heat. A rower produces much, more.",
+      "n_words": 11,
+      "n_sentences": 2,
+      "pos_pct": 0.39040428571428576
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0046",
+      "video_id": "7xgt_LQxedc",
+      "idx": 46,
+      "sent_ids": [
+        "7xgt_LQxedc:s0115",
+        "7xgt_LQxedc:s0116"
+      ],
+      "start_s": 551.549,
+      "end_s": 564.997,
+      "text": "When dozens of people occupied a narrow hull, huddling under wool and sheltering one another from wind-reduced exposed surface area, and created a warmer microclimate than standing alone, privacy suffered. Survival approved.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.3939635714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0047",
+      "video_id": "7xgt_LQxedc",
+      "idx": 47,
+      "sent_ids": [
+        "7xgt_LQxedc:s0117",
+        "7xgt_LQxedc:s0118"
+      ],
+      "start_s": 565.558,
+      "end_s": 573.827,
+      "text": "This is not enough by itself. Shared body heat cannot rescue clothes saturated by icy water, and crowding creates moisture from breath and sweat.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.40397
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0048",
+      "video_id": "7xgt_LQxedc",
+      "idx": 48,
+      "sent_ids": [
+        "7xgt_LQxedc:s0119",
+        "7xgt_LQxedc:s0120"
+      ],
+      "start_s": 574.307,
+      "end_s": 581.513,
+      "text": "But when wind is blocked and layers remain reasonably dry, proximity helps. The same crew also generated heat through labor.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.41021928571428573
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0049",
+      "video_id": "7xgt_LQxedc",
+      "idx": 49,
+      "sent_ids": [
+        "7xgt_LQxedc:s0121",
+        "7xgt_LQxedc:s0122"
+      ],
+      "start_s": 582.014,
+      "end_s": 597.483,
+      "text": "Rowing is an extremely efficient way to stop feeling cold for several minutes and begin regretting every decision involving shoulders. Raising the mast, trimming the sail, hauling ropes, steering, bailing, and shifting weight all demand energy.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.4157242857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0050",
+      "video_id": "7xgt_LQxedc",
+      "idx": 50,
+      "sent_ids": [
+        "7xgt_LQxedc:s0123",
+        "7xgt_LQxedc:s0124",
+        "7xgt_LQxedc:s0125"
+      ],
+      "start_s": 598.223,
+      "end_s": 606.684,
+      "text": "A Viking ship was not driven by passengers. Everyone useful worked. Muscle converts chemical energy into movement, but much of that energy becomes heat.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.42730214285714285
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0051",
+      "video_id": "7xgt_LQxedc",
+      "idx": 51,
+      "sent_ids": [
+        "7xgt_LQxedc:s0126",
+        "7xgt_LQxedc:s0127",
+        "7xgt_LQxedc:s0128",
+        "7xgt_LQxedc:s0129"
+      ],
+      "start_s": 607.425,
+      "end_s": 619.267,
+      "text": "During hard rowing, the immediate challenge could actually be overheating rather than freezing. Then the watch changed. The rower stopped. Wind crossed his wet clothing, and the cold returned with interest.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.43387499999999996
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0052",
+      "video_id": "7xgt_LQxedc",
+      "idx": 52,
+      "sent_ids": [
+        "7xgt_LQxedc:s0130",
+        "7xgt_LQxedc:s0131"
+      ],
+      "start_s": 619.727,
+      "end_s": 627.028,
+      "text": "This cycle explains why crew organization mattered. A ship could not exhaust every man at once and then leave them unable to function.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.44266214285714284
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0053",
+      "video_id": "7xgt_LQxedc",
+      "idx": 53,
+      "sent_ids": [
+        "7xgt_LQxedc:s0132",
+        "7xgt_LQxedc:s0133"
+      ],
+      "start_s": 627.408,
+      "end_s": 642.752,
+      "text": "Watches allowed part of the crew to sail or row while others rested, ate, repaired gear, bailed, or slept whenever sleeping became possible. Modern crews operating reconstructions describe shifts, fatigue, cold, and severe lack of privacy.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.44814857142857145
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0054",
+      "video_id": "7xgt_LQxedc",
+      "idx": 54,
+      "sent_ids": [
+        "7xgt_LQxedc:s0134",
+        "7xgt_LQxedc:s0135"
+      ],
+      "start_s": 643.313,
+      "end_s": 655.056,
+      "text": "On one major reconstruction, off-duty crew slept wrapped in woolen blankets while underway, positioned between thwarts, or around the working spaces. Modern safety rules and equipment differ from Viking practice.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.45950928571428573
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0055",
+      "video_id": "7xgt_LQxedc",
+      "idx": 55,
+      "sent_ids": [
+        "7xgt_LQxedc:s0136",
+        "7xgt_LQxedc:s0137",
+        "7xgt_LQxedc:s0138"
+      ],
+      "start_s": 655.576,
+      "end_s": 662.158,
+      "text": "But the experiment reveals the physical logic of the ship. Rest happened wherever the vessel allowed it. The cold did not pause.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.4682685714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0056",
+      "video_id": "7xgt_LQxedc",
+      "idx": 56,
+      "sent_ids": [
+        "7xgt_LQxedc:s0139",
+        "7xgt_LQxedc:s0140"
+      ],
+      "start_s": 662.838,
+      "end_s": 671.061,
+      "text": "Sleeping was one of the most dangerous moments because heat production fell and awareness disappeared. A Viking at sea could not simply climb into a fixed bunk.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.47345571428571426
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0057",
+      "video_id": "7xgt_LQxedc",
+      "idx": 57,
+      "sent_ids": [
+        "7xgt_LQxedc:s0141",
+        "7xgt_LQxedc:s0142"
+      ],
+      "start_s": 671.581,
+      "end_s": 687.195,
+      "text": "people may have rested on deck boards, across stored oars, against cargo, or in whatever dry-ish space existed. By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.4797007142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0058",
+      "video_id": "7xgt_LQxedc",
+      "idx": 58,
+      "sent_ids": [
+        "7xgt_LQxedc:s0143",
+        "7xgt_LQxedc:s0144",
+        "7xgt_LQxedc:s0145"
+      ],
+      "start_s": 687.875,
+      "end_s": 701.631,
+      "text": "10 modules, 3 plus hours of content covering everything we never talk about on YouTube. What they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.4913392857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0059",
+      "video_id": "7xgt_LQxedc",
+      "idx": 59,
+      "sent_ids": [
+        "7xgt_LQxedc:s0146",
+        "7xgt_LQxedc:s0147",
+        "7xgt_LQxedc:s0148"
+      ],
+      "start_s": 702.212,
+      "end_s": 707.577,
+      "text": "Link in the description. See you inside. Animal skins and woolen blankets offered insulation.",
+      "n_words": 14,
+      "n_sentences": 3,
+      "pos_pct": 0.50158
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0060",
+      "video_id": "7xgt_LQxedc",
+      "idx": 60,
+      "sent_ids": [
+        "7xgt_LQxedc:s0149",
+        "7xgt_LQxedc:s0150"
+      ],
+      "start_s": 707.937,
+      "end_s": 722.808,
+      "text": "Dry bedding could be kept in chests, bags, wrapped bundles, or protected beneath other cargo, though exact storage methods differed between ships and much organic equipment has vanished from the archaeological record. Keeping bedding dry was almost as important as possessing it.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.5056692857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0061",
+      "video_id": "7xgt_LQxedc",
+      "idx": 61,
+      "sent_ids": [
+        "7xgt_LQxedc:s0151",
+        "7xgt_LQxedc:s0152",
+        "7xgt_LQxedc:s0153"
+      ],
+      "start_s": 723.369,
+      "end_s": 731.677,
+      "text": "A wet blanket is an object. A dry blanket is a survival system. Temporary coverings improved the situation when conditions allowed.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.5166921428571428
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0062",
+      "video_id": "7xgt_LQxedc",
+      "idx": 62,
+      "sent_ids": [
+        "7xgt_LQxedc:s0154",
+        "7xgt_LQxedc:s0155"
+      ],
+      "start_s": 732.217,
+      "end_s": 747.707,
+      "text": "Evidence from the Asseberg ship burial includes tents, and later texts describe tents raised over ships, particularly while vessels lay at anchor. Crews could also beach a ship, lower the sail, rig cloth as shelter, or pitch a tent on land.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.5230121428571428
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0063",
+      "video_id": "7xgt_LQxedc",
+      "idx": 63,
+      "sent_ids": [
+        "7xgt_LQxedc:s0156",
+        "7xgt_LQxedc:s0157",
+        "7xgt_LQxedc:s0158"
+      ],
+      "start_s": 748.643,
+      "end_s": 757.291,
+      "text": "But a tent aboard an anchored ship is different from a canopy carried proudly through a gale. Canvas or wool catches wind. It obstructs work and visibility.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.534745
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0064",
+      "video_id": "7xgt_LQxedc",
+      "idx": 64,
+      "sent_ids": [
+        "7xgt_LQxedc:s0159",
+        "7xgt_LQxedc:s0160",
+        "7xgt_LQxedc:s0161"
+      ],
+      "start_s": 757.731,
+      "end_s": 771.604,
+      "text": "In rough conditions, the sail and rig required constant attention. Shelter had to be balanced against the chance that the shelter itself would become airborne and relocate to Scotland. So, crews used protection opportunistically.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.5412364285714286
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0065",
+      "video_id": "7xgt_LQxedc",
+      "idx": 65,
+      "sent_ids": [
+        "7xgt_LQxedc:s0162",
+        "7xgt_LQxedc:s0163"
+      ],
+      "start_s": 772.264,
+      "end_s": 785.698,
+      "text": "anchor in calm water, rig a covering, beached for the night, camp beside the ship, underway in dangerous weather, keep the vessel controllable, and accept that comfort has been removed from the agenda. Getting ashore was not failure.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.5516171428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0066",
+      "video_id": "7xgt_LQxedc",
+      "idx": 66,
+      "sent_ids": [
+        "7xgt_LQxedc:s0164",
+        "7xgt_LQxedc:s0165"
+      ],
+      "start_s": 786.238,
+      "end_s": 793.105,
+      "text": "It was standard strategy. The shallow hulls of Viking ships allowed them to approach beaches and rivers that deeper vessels could not.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.5615985714285715
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0067",
+      "video_id": "7xgt_LQxedc",
+      "idx": 67,
+      "sent_ids": [
+        "7xgt_LQxedc:s0166",
+        "7xgt_LQxedc:s0167"
+      ],
+      "start_s": 793.625,
+      "end_s": 806.138,
+      "text": "Crews could pull a ship onto land, make camp, cook, dry clothing, repair damage, collect fresh water, and sleep without the floor attempting to roll them into a neighbor. Coastal travel created repeated chances to stop.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.566875
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0068",
+      "video_id": "7xgt_LQxedc",
+      "idx": 68,
+      "sent_ids": [
+        "7xgt_LQxedc:s0168",
+        "7xgt_LQxedc:s0169",
+        "7xgt_LQxedc:s0170"
+      ],
+      "start_s": 806.639,
+      "end_s": 820.572,
+      "text": "Even on longer voyages, routes often linked islands and known landfalls. Norway to Shetland or the Faroes, onward to Iceland, then Greenland. These crossings were still hazardous, and open water sections could last for days.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.5761707142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0069",
+      "video_id": "7xgt_LQxedc",
+      "idx": 69,
+      "sent_ids": [
+        "7xgt_LQxedc:s0171",
+        "7xgt_LQxedc:s0172",
+        "7xgt_LQxedc:s0173",
+        "7xgt_LQxedc:s0174"
+      ],
+      "start_s": 821.052,
+      "end_s": 831.941,
+      "text": "But the North Atlantic expansion was not one blind leap from Norway to Canada. It was a chain. Land meant fire. And fire is the answer people expect to find on the ship itself.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.5864657142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0070",
+      "video_id": "7xgt_LQxedc",
+      "idx": 70,
+      "sent_ids": [
+        "7xgt_LQxedc:s0175",
+        "7xgt_LQxedc:s0176",
+        "7xgt_LQxedc:s0177",
+        "7xgt_LQxedc:s0178"
+      ],
+      "start_s": 832.481,
+      "end_s": 844.588,
+      "text": "Could Vikings light one aboard? Possibly in controlled circumstances on some vessels, but an open cooking fire at sea creates obvious problems. The ship is wooden. The sail and ropes are combustible.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.5946292857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0071",
+      "video_id": "7xgt_LQxedc",
+      "idx": 71,
+      "sent_ids": [
+        "7xgt_LQxedc:s0179",
+        "7xgt_LQxedc:s0180",
+        "7xgt_LQxedc:s0181",
+        "7xgt_LQxedc:s0182"
+      ],
+      "start_s": 845.048,
+      "end_s": 852.473,
+      "text": "Waves throw hot coals. Smoke irritates eyes. A pot becomes a projectile. Space is scarce.",
+      "n_words": 15,
+      "n_sentences": 4,
+      "pos_pct": 0.6036057142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0072",
+      "video_id": "7xgt_LQxedc",
+      "idx": 72,
+      "sent_ids": [
+        "7xgt_LQxedc:s0183",
+        "7xgt_LQxedc:s0184"
+      ],
+      "start_s": 852.993,
+      "end_s": 863.258,
+      "text": "And one badly timed gust can convert the long ship into a funeral pyre with excellent mobility. Strong evidence for routine shipboard cooking during Viking voyages is limited.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.6092807142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0073",
+      "video_id": "7xgt_LQxedc",
+      "idx": 73,
+      "sent_ids": [
+        "7xgt_LQxedc:s0185",
+        "7xgt_LQxedc:s0186"
+      ],
+      "start_s": 863.819,
+      "end_s": 877.706,
+      "text": "Museum interpretations commonly emphasize cold-preserved food at sea and cooking after landing. Much later, medieval ships developed more formal hearths and galleys, which itself shows how much equipment is required before just make a fire becomes sensible.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.6170135714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0074",
+      "video_id": "7xgt_LQxedc",
+      "idx": 74,
+      "sent_ids": [
+        "7xgt_LQxedc:s0187",
+        "7xgt_LQxedc:s0188",
+        "7xgt_LQxedc:s0189"
+      ],
+      "start_s": 878.106,
+      "end_s": 891.416,
+      "text": "The safer Viking stove was a beach. Once ashore, crews could build fires, warm themselves, heat food, dry outer garments cautiously, and refill whatever reserve of comfort the sea had consumed. Drying required patience.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.6272185714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0075",
+      "video_id": "7xgt_LQxedc",
+      "idx": 75,
+      "sent_ids": [
+        "7xgt_LQxedc:s0190",
+        "7xgt_LQxedc:s0191",
+        "7xgt_LQxedc:s0192"
+      ],
+      "start_s": 891.957,
+      "end_s": 903.765,
+      "text": "Wool placed too close to flames can scorch. Leather can stiffen or crack. A cloak steaming beside a fire may feel productive, while one spark prepares a hole exactly where tomorrow's rain will enter.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.6371121428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0076",
+      "video_id": "7xgt_LQxedc",
+      "idx": 76,
+      "sent_ids": [
+        "7xgt_LQxedc:s0193",
+        "7xgt_LQxedc:s0194",
+        "7xgt_LQxedc:s0195",
+        "7xgt_LQxedc:s0196"
+      ],
+      "start_s": 904.306,
+      "end_s": 918.295,
+      "text": "The crew needed food as much as flame. Human warmth is metabolic. The body burns stored and recently consumed energy to maintain temperature. Cold exposure raises energy demands, while rowing can consume enormous amounts.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.6459328571428572
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0077",
+      "video_id": "7xgt_LQxedc",
+      "idx": 77,
+      "sent_ids": [
+        "7xgt_LQxedc:s0197",
+        "7xgt_LQxedc:s0198"
+      ],
+      "start_s": 918.955,
+      "end_s": 931.801,
+      "text": "A sailor who is wet, exhausted, and underfed loses the ability to produce heat precisely when he needs it most. Viking provisions had to survive without refrigeration and remain edible in a moving saltwater container.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.6563964285714285
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0078",
+      "video_id": "7xgt_LQxedc",
+      "idx": 78,
+      "sent_ids": [
+        "7xgt_LQxedc:s0199",
+        "7xgt_LQxedc:s0200"
+      ],
+      "start_s": 932.361,
+      "end_s": 947.905,
+      "text": "Dried or salted fish, preserved meat, bread, grain products, butter, cheese, and sour milk could provide combinations of fat, protein, and carbohydrate. Exact menus varied by region, status, season, and voyage.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.6659721428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0079",
+      "video_id": "7xgt_LQxedc",
+      "idx": 79,
+      "sent_ids": [
+        "7xgt_LQxedc:s0201",
+        "7xgt_LQxedc:s0202",
+        "7xgt_LQxedc:s0203"
+      ],
+      "start_s": 948.965,
+      "end_s": 955.527,
+      "text": "At sea, food was practical before it was pleasant. Salted fish does not need a restaurant review. It needs to remain fish.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.6778321428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0080",
+      "video_id": "7xgt_LQxedc",
+      "idx": 80,
+      "sent_ids": [
+        "7xgt_LQxedc:s0204",
+        "7xgt_LQxedc:s0205"
+      ],
+      "start_s": 956.167,
+      "end_s": 968.19,
+      "text": "Fat was especially valuable because it contains more energy per unit of weight than protein or carbohydrate. Butter, fatty meat, dairy products, and stored animal fats could pack fuel into limited space.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.6829764285714286
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0081",
+      "video_id": "7xgt_LQxedc",
+      "idx": 81,
+      "sent_ids": [
+        "7xgt_LQxedc:s0206",
+        "7xgt_LQxedc:s0207",
+        "7xgt_LQxedc:s0208"
+      ],
+      "start_s": 968.79,
+      "end_s": 981.814,
+      "text": "Carbohydrates from bread or grain supplied accessible energy for work. Eating regularly helped keep the internal furnace operating. Warm meals assure added comfort and could support hydration, but the heat inside a bowl disappears quickly.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.6919928571428571
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0082",
+      "video_id": "7xgt_LQxedc",
+      "idx": 82,
+      "sent_ids": [
+        "7xgt_LQxedc:s0209",
+        "7xgt_LQxedc:s0210",
+        "7xgt_LQxedc:s0211"
+      ],
+      "start_s": 982.334,
+      "end_s": 992.384,
+      "text": "The lasting warmth came from calories metabolized over time. Alcohol requires another correction. Vikings drank ale, but strong drink is not reliable cold protection.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.7016671428571428
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0083",
+      "video_id": "7xgt_LQxedc",
+      "idx": 83,
+      "sent_ids": [
+        "7xgt_LQxedc:s0212",
+        "7xgt_LQxedc:s0213"
+      ],
+      "start_s": 992.944,
+      "end_s": 999.166,
+      "text": "Alcohol can make a person feel warmer by widening blood vessels near the skin. That warm skin is losing heat faster.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.7092457142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0084",
+      "video_id": "7xgt_LQxedc",
+      "idx": 84,
+      "sent_ids": [
+        "7xgt_LQxedc:s0214",
+        "7xgt_LQxedc:s0215"
+      ],
+      "start_s": 999.727,
+      "end_s": 1008.83,
+      "text": "Judgment also declines, which is unfortunate when the floor is wet and the nearest handrail is the North Sea. A small amount of weak ale could contribute fluid and calories.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.7140907142857142
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0085",
+      "video_id": "7xgt_LQxedc",
+      "idx": 85,
+      "sent_ids": [
+        "7xgt_LQxedc:s0216",
+        "7xgt_LQxedc:s0217",
+        "7xgt_LQxedc:s0218",
+        "7xgt_LQxedc:s0219"
+      ],
+      "start_s": 1009.41,
+      "end_s": 1023.873,
+      "text": "It did not turn a sailor into a thermal god. Fresh water was critical. Dehydration reduces physical performance and complicates temperature regulation. Water had to be stored aboard, replenished at landfalls, and protected from contamination.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.7210071428571428
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0086",
+      "video_id": "7xgt_LQxedc",
+      "idx": 86,
+      "sent_ids": [
+        "7xgt_LQxedc:s0220",
+        "7xgt_LQxedc:s0221"
+      ],
+      "start_s": 1024.493,
+      "end_s": 1034.877,
+      "text": "Sour milk or ale may have supplemented supplies, but no crew could row across an ocean on courage and fermented grain alone. Weather knowledge tied the entire system together.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.7317807142857142
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0087",
+      "video_id": "7xgt_LQxedc",
+      "idx": 87,
+      "sent_ids": [
+        "7xgt_LQxedc:s0222",
+        "7xgt_LQxedc:s0223",
+        "7xgt_LQxedc:s0224"
+      ],
+      "start_s": 1035.377,
+      "end_s": 1048.086,
+      "text": "Warm clothes do not compensate for reckless navigation. Experienced sailors read wind, clouds, waves, currents, birds, visibility, and the behavior of the ship. They knew local coasts and seasonal patterns.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.739555
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0088",
+      "video_id": "7xgt_LQxedc",
+      "idx": 88,
+      "sent_ids": [
+        "7xgt_LQxedc:s0225",
+        "7xgt_LQxedc:s0226",
+        "7xgt_LQxedc:s0227"
+      ],
+      "start_s": 1048.446,
+      "end_s": 1059.253,
+      "text": "They could shorten sail before a squall. seek a protected anchorage, delay departure, or run for shore before conditions became impossible. This knowledge was cultural technology.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.74889
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0089",
+      "video_id": "7xgt_LQxedc",
+      "idx": 89,
+      "sent_ids": [
+        "7xgt_LQxedc:s0228",
+        "7xgt_LQxedc:s0229"
+      ],
+      "start_s": 1059.673,
+      "end_s": 1075.162,
+      "text": "It passed between generations through practice, stories, routes, and repeated voyages. A sailor learned which headland created dangerous currents, which harbor offered shelter, which wind could trap a vessel offshore, and when a promising sky was lying.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.7569092857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0090",
+      "video_id": "7xgt_LQxedc",
+      "idx": 90,
+      "sent_ids": [
+        "7xgt_LQxedc:s0230",
+        "7xgt_LQxedc:s0231"
+      ],
+      "start_s": 1075.622,
+      "end_s": 1083.337,
+      "text": "The most important piece of warm clothing may have been an experienced captain saying, we are not leaving. even excellent decisions could fail.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.7683014285714286
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0091",
+      "video_id": "7xgt_LQxedc",
+      "idx": 91,
+      "sent_ids": [
+        "7xgt_LQxedc:s0232",
+        "7xgt_LQxedc:s0233"
+      ],
+      "start_s": 1083.918,
+      "end_s": 1098.288,
+      "text": "Storms developed, sails tore, masts broke, hulls leaked, crews became separated from land or driven away from their route. Once a man entered cold water, clothing designed for a cold ship became a different problem.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7742271428571428
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0092",
+      "video_id": "7xgt_LQxedc",
+      "idx": 92,
+      "sent_ids": [
+        "7xgt_LQxedc:s0234",
+        "7xgt_LQxedc:s0235",
+        "7xgt_LQxedc:s0236"
+      ],
+      "start_s": 1098.748,
+      "end_s": 1110.216,
+      "text": "Near-freezing seawater removes heat far faster than cold air. Heavy garments and equipment make swimming difficult. A low-sided vessel could take water suddenly, capsize, or throw people overboard.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.7848200000000001
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0093",
+      "video_id": "7xgt_LQxedc",
+      "idx": 93,
+      "sent_ids": [
+        "7xgt_LQxedc:s0237",
+        "7xgt_LQxedc:s0238"
+      ],
+      "start_s": 1110.736,
+      "end_s": 1123.283,
+      "text": "There were no modern immersion suits, no radio, no rescue helicopter. Survival often depended on staying aboard, reacting quickly, knowing the ship, and having other crew members close enough to pull a person back.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.7933828571428572
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0094",
+      "video_id": "7xgt_LQxedc",
+      "idx": 94,
+      "sent_ids": [
+        "7xgt_LQxedc:s0239",
+        "7xgt_LQxedc:s0240",
+        "7xgt_LQxedc:s0241",
+        "7xgt_LQxedc:s0242"
+      ],
+      "start_s": 1123.823,
+      "end_s": 1138.853,
+      "text": "That vulnerability is essential because popular history often treats a successful voyage as proof that the technology made it safe. It did not. Viking ships were extraordinary because they made dangerous journeys possible. Not comfortable?",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.8027307142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0095",
+      "video_id": "7xgt_LQxedc",
+      "idx": 95,
+      "sent_ids": [
+        "7xgt_LQxedc:s0243",
+        "7xgt_LQxedc:s0244"
+      ],
+      "start_s": 1139.273,
+      "end_s": 1152.903,
+      "text": "Experimental voyages and reconstructed ships repeatedly exposed modern crews to cold, exhaustion, seasickness, poor sleep, and relentless wetness even with safety support and modern gear nearby. Now remove the modern gear.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.8137664285714286
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0096",
+      "video_id": "7xgt_LQxedc",
+      "idx": 96,
+      "sent_ids": [
+        "7xgt_LQxedc:s0245",
+        "7xgt_LQxedc:s0246",
+        "7xgt_LQxedc:s0247",
+        "7xgt_LQxedc:s0248"
+      ],
+      "start_s": 1153.384,
+      "end_s": 1165.328,
+      "text": "Replace the weather forecast with observation. Replace satellite navigation with experience. Replace the emergency beacon with shouting. The Viking achievement becomes clearer, but so does the cost.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.8238457142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0097",
+      "video_id": "7xgt_LQxedc",
+      "idx": 97,
+      "sent_ids": [
+        "7xgt_LQxedc:s0249",
+        "7xgt_LQxedc:s0250",
+        "7xgt_LQxedc:s0251"
+      ],
+      "start_s": 1165.928,
+      "end_s": 1178.272,
+      "text": "Not every sailor survived. Shipwrecks and drownings rarely leave tidy narratives. A vessel that disappeared could erase its crew and most of its equipment, creating a historical bias towards successful arrivals.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.8328057142857144
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0098",
+      "video_id": "7xgt_LQxedc",
+      "idx": 98,
+      "sent_ids": [
+        "7xgt_LQxedc:s0252",
+        "7xgt_LQxedc:s0253",
+        "7xgt_LQxedc:s0254",
+        "7xgt_LQxedc:s0255"
+      ],
+      "start_s": 1179.172,
+      "end_s": 1189.623,
+      "text": "We know the route because somebody completed it. The sea kept the failed version. So there was no single trick. Wool mattered because it trapped air and remained useful while damp.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.8422657142857143
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0099",
+      "video_id": "7xgt_LQxedc",
+      "idx": 99,
+      "sent_ids": [
+        "7xgt_LQxedc:s0256",
+        "7xgt_LQxedc:s0257",
+        "7xgt_LQxedc:s0258",
+        "7xgt_LQxedc:s0259"
+      ],
+      "start_s": 1190.203,
+      "end_s": 1204.917,
+      "text": "Dense outer layers mattered because moving air steals heat. Hats, mittens, socks, and footwear protected the body parts sacrificed first. Dry storage preserved bedding and spare clothing. Rowing and work generated heat.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.8501449999999999
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0100",
+      "video_id": "7xgt_LQxedc",
+      "idx": 100,
+      "sent_ids": [
+        "7xgt_LQxedc:s0260",
+        "7xgt_LQxedc:s0261",
+        "7xgt_LQxedc:s0262",
+        "7xgt_LQxedc:s0263"
+      ],
+      "start_s": 1205.498,
+      "end_s": 1215.144,
+      "text": "Watches balanced exertion with rest. Food supplied the energy. Companions reduced exposure. Tents and sails created shelter when wind and anchorage allowed.",
+      "n_words": 22,
+      "n_sentences": 4,
+      "pos_pct": 0.86107
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0101",
+      "video_id": "7xgt_LQxedc",
+      "idx": 101,
+      "sent_ids": [
+        "7xgt_LQxedc:s0264",
+        "7xgt_LQxedc:s0265",
+        "7xgt_LQxedc:s0266",
+        "7xgt_LQxedc:s0267"
+      ],
+      "start_s": 1215.644,
+      "end_s": 1229.436,
+      "text": "Beaching the ship made fire, cooking, repair, and drying possible. Seasonal judgment kept many crews away from the worst conditions entirely. Each defense was incomplete. Together, they formed a system.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.8683171428571429
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0102",
+      "video_id": "7xgt_LQxedc",
+      "idx": 102,
+      "sent_ids": [
+        "7xgt_LQxedc:s0268",
+        "7xgt_LQxedc:s0269"
+      ],
+      "start_s": 1229.856,
+      "end_s": 1246.272,
+      "text": "And that system began long before the ship left. Sheep had to be raised, wool had to be processed, cloth had to be woven, food had to be preserved, barrels, bags, chests, rope, tools, spare parts, and water had to be prepared.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.8784685714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0103",
+      "video_id": "7xgt_LQxedc",
+      "idx": 103,
+      "sent_ids": [
+        "7xgt_LQxedc:s0270",
+        "7xgt_LQxedc:s0271",
+        "7xgt_LQxedc:s0272",
+        "7xgt_LQxedc:s0273"
+      ],
+      "start_s": 1246.792,
+      "end_s": 1256.859,
+      "text": "The ship needed inspection. The crew needed knowledge. The dramatic voyage rested on months of quiet labor. That may be the most Viking part of the answer.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.8905657142857142
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0104",
+      "video_id": "7xgt_LQxedc",
+      "idx": 104,
+      "sent_ids": [
+        "7xgt_LQxedc:s0274",
+        "7xgt_LQxedc:s0275",
+        "7xgt_LQxedc:s0276"
+      ],
+      "start_s": 1257.4,
+      "end_s": 1271.75,
+      "text": "Not the ability to ignore cold. The ability to prepare for it using ordinary materials with extraordinary discipline. A sailor who became numb, confused, clumsy, or violently exhausted was not demonstrating toughness.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.8981428571428572
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0105",
+      "video_id": "7xgt_LQxedc",
+      "idx": 105,
+      "sent_ids": [
+        "7xgt_LQxedc:s0277",
+        "7xgt_LQxedc:s0278"
+      ],
+      "start_s": 1272.27,
+      "end_s": 1281.715,
+      "text": "He was becoming a danger to himself and everyone relying on him. On a crowded ship, one person failing to hold a rope or respond to an order could affect the entire crew.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.9087642857142857
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0106",
+      "video_id": "7xgt_LQxedc",
+      "idx": 106,
+      "sent_ids": [
+        "7xgt_LQxedc:s0279",
+        "7xgt_LQxedc:s0280",
+        "7xgt_LQxedc:s0281",
+        "7xgt_LQxedc:s0282"
+      ],
+      "start_s": 1282.415,
+      "end_s": 1290.498,
+      "text": "Warmth was therefore collective. Someone rowed while another rested. Someone bailed while another steered. Someone protected the dry supplies.",
+      "n_words": 19,
+      "n_sentences": 4,
+      "pos_pct": 0.9160107142857142
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0107",
+      "video_id": "7xgt_LQxedc",
+      "idx": 107,
+      "sent_ids": [
+        "7xgt_LQxedc:s0283",
+        "7xgt_LQxedc:s0284",
+        "7xgt_LQxedc:s0285",
+        "7xgt_LQxedc:s0286"
+      ],
+      "start_s": 1291.118,
+      "end_s": 1300.423,
+      "text": "Someone recognized the coastline. Someone decided to turn back. The lone Viking hero is a modern fantasy. the sea-rewarded organized groups.",
+      "n_words": 21,
+      "n_sentences": 4,
+      "pos_pct": 0.9222271428571428
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0108",
+      "video_id": "7xgt_LQxedc",
+      "idx": 108,
+      "sent_ids": [
+        "7xgt_LQxedc:s0287",
+        "7xgt_LQxedc:s0288"
+      ],
+      "start_s": 1301.004,
+      "end_s": 1313.143,
+      "text": "By the time a ship finally reached land, its crew may have been cold, salt-stiffened, sleep-deprived, bruised, and smelling like wet sheep arranged inside another wet sheep. But they had arrived.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.9292885714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0109",
+      "video_id": "7xgt_LQxedc",
+      "idx": 109,
+      "sent_ids": [
+        "7xgt_LQxedc:s0289",
+        "7xgt_LQxedc:s0290"
+      ],
+      "start_s": 1313.624,
+      "end_s": 1325.491,
+      "text": "They could pull the vessel above the tide, raise shelter, light a fire, hang clothing, cook food, inspect the hull, and prepare to repeat the experience. Then, later stories polished the voyage.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.9383028571428571
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0110",
+      "video_id": "7xgt_LQxedc",
+      "idx": 110,
+      "sent_ids": [
+        "7xgt_LQxedc:s0291",
+        "7xgt_LQxedc:s0292",
+        "7xgt_LQxedc:s0293",
+        "7xgt_LQxedc:s0294"
+      ],
+      "start_s": 1326.071,
+      "end_s": 1337.345,
+      "text": "The rain became courage. The fear became destiny. The man shivering beneath two blankets became a fearless explorer staring into the horizon. He may have been fearless, he was still wearing the blankets.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.9471935714285714
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0111",
+      "video_id": "7xgt_LQxedc",
+      "idx": 111,
+      "sent_ids": [
+        "7xgt_LQxedc:s0295",
+        "7xgt_LQxedc:s0296",
+        "7xgt_LQxedc:s0297"
+      ],
+      "start_s": 1337.926,
+      "end_s": 1344.896,
+      "text": "So how did Vikings stay warm on freezing ships? Mostly, they did not stay comfortably warm. They stayed warm enough.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.9556614285714286
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0112",
+      "video_id": "7xgt_LQxedc",
+      "idx": 112,
+      "sent_ids": [
+        "7xgt_LQxedc:s0298",
+        "7xgt_LQxedc:s0299"
+      ],
+      "start_s": 1345.397,
+      "end_s": 1361.841,
+      "text": "They delayed getting wet, preserved dry layers, generated heat, shared shelter, ate fuel, chose routes and seasons carefully, and escaped to land before cold crossed the line from misery into incapacity. Their ships did not defeat the northern climate.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.9609978571428571
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0113",
+      "video_id": "7xgt_LQxedc",
+      "idx": 113,
+      "sent_ids": [
+        "7xgt_LQxedc:s0300",
+        "7xgt_LQxedc:s0301",
+        "7xgt_LQxedc:s0302",
+        "7xgt_LQxedc:s0303"
+      ],
+      "start_s": 1362.321,
+      "end_s": 1372.203,
+      "text": "Their entire culture negotiated with it. The wool came from farms. The sail came from thousands of hours of textile work. The route came from accumulated memory.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.9730864285714285
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0114",
+      "video_id": "7xgt_LQxedc",
+      "idx": 114,
+      "sent_ids": [
+        "7xgt_LQxedc:s0304",
+        "7xgt_LQxedc:s0305"
+      ],
+      "start_s": 1372.683,
+      "end_s": 1379.565,
+      "text": "The heat came from food, muscle, and other human bodies. The safety came from knowing when the ocean had won.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.9804878571428571
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0115",
+      "video_id": "7xgt_LQxedc",
+      "idx": 115,
+      "sent_ids": [
+        "7xgt_LQxedc:s0306",
+        "7xgt_LQxedc:s0307"
+      ],
+      "start_s": 1379.865,
+      "end_s": 1390.968,
+      "text": "And inside that open hole with freezing spray striking the planks and darkness erasing the horizon, survival did not look like one heroic warrior standing at the prow. It looked like layers.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.9856178571428571
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0116",
+      "video_id": "7xgt_LQxedc",
+      "idx": 116,
+      "sent_ids": [
+        "7xgt_LQxedc:s0308",
+        "7xgt_LQxedc:s0309"
+      ],
+      "start_s": 1391.388,
+      "end_s": 1395.829,
+      "text": "It looked like work. It looked like 30 exhausted people keeping one another alive.",
+      "n_words": 14,
+      "n_sentences": 2,
+      "pos_pct": 0.9938485714285714
+    }
+  ]
+}

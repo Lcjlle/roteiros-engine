@@ -84,7 +84,7 @@ ROLE_HOLDOUT = "holdout"
 
 MANIFEST_FIELDS = ["id", "titulo", "duracao_s", "contagem_palavras", "fonte", "role"]
 
-_MARKER_RE = re.compile(r"\[(m[uú]sica|music|aplausos|applause)\]", re.IGNORECASE)
+MARKER_RE = re.compile(r"\[(m[uú]sica|music|aplausos|applause)\]", re.IGNORECASE)
 
 
 # --------------------------------------------------------------------------
@@ -380,6 +380,14 @@ def collect_transcript(video_id: str) -> tuple[list[dict], str]:
 # --------------------------------------------------------------------------
 
 
+def strip_markers(text: str) -> str:
+    """Remove marcacoes `[Music]`/`[Aplausos]` (PT/EN) e normaliza espaco.
+    Compartilhada com `src/sentencia.py`, que precisa da mesma limpeza
+    antes de sentenciar - uma fonte so pra regra de marcador."""
+    text = MARKER_RE.sub("", text)
+    return " ".join(text.split())
+
+
 def clean_transcript(fragments: list[dict], gap_threshold: float = 1.0) -> list[dict]:
     """Remove `[Musica]`/`[Aplausos]` e junta fragmentos adjacentes em
     trechos de texto corrido, preservando o timestamp de inicio de cada
@@ -396,8 +404,7 @@ def clean_transcript(fragments: list[dict], gap_threshold: float = 1.0) -> list[
     force_break = False
 
     for frag in fragments:
-        text = _MARKER_RE.sub("", frag["text"])
-        text = " ".join(text.split())
+        text = strip_markers(frag["text"])
         start = float(frag["start"])
         end = start + float(frag.get("duration", 0.0))
 

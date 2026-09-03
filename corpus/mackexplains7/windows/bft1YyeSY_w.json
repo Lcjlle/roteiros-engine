@@ -1,0 +1,1610 @@
+{
+  "video_id": "bft1YyeSY_w",
+  "generated_at": "2026-09-03T13:18:13.130783+00:00",
+  "windows": [
+    {
+      "window_id": "bft1YyeSY_w:j0000",
+      "video_id": "bft1YyeSY_w",
+      "idx": 0,
+      "sent_ids": [
+        "bft1YyeSY_w:s0000",
+        "bft1YyeSY_w:s0001"
+      ],
+      "start_s": 0.111,
+      "end_s": 10.46,
+      "text": "Imagine you're living 50,000 years ago. No courts, no judges, no lawyers billing you by the hour for services rendered in language you don't fully understand.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 7.097186700767264e-05
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0001",
+      "video_id": "bft1YyeSY_w",
+      "idx": 1,
+      "sent_ids": [
+        "bft1YyeSY_w:s0002"
+      ],
+      "start_s": 11.301,
+      "end_s": 20.029,
+      "text": "No prisons, no police departments, no municipal code violation notices left passive-aggressively on your door while you were out running errands.",
+      "n_words": 21,
+      "n_sentences": 1,
+      "pos_pct": 0.007225703324808185
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0002",
+      "video_id": "bft1YyeSY_w",
+      "idx": 2,
+      "sent_ids": [
+        "bft1YyeSY_w:s0003"
+      ],
+      "start_s": 20.589,
+      "end_s": 42.549,
+      "text": "No institution of any kind dedicated to the formal, organized, state-sanctioned administration of justice, and someone in your group just stole your food, or attacked someone weaker without provocation, or kept taking more than their share at every single communal meal while everyone else quietly seethed and said nothing individually because nobody wanted to be the one to start something.",
+      "n_words": 60,
+      "n_sentences": 1,
+      "pos_pct": 0.013164322250639385
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0003",
+      "video_id": "bft1YyeSY_w",
+      "idx": 3,
+      "sent_ids": [
+        "bft1YyeSY_w:s0004",
+        "bft1YyeSY_w:s0005",
+        "bft1YyeSY_w:s0006",
+        "bft1YyeSY_w:s0007"
+      ],
+      "start_s": 42.949,
+      "end_s": 51.539,
+      "text": "or they started behaving in ways that made the rest of the group feel genuinely, persistently unsafe. Erratic. Violent. Unpredictable.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.027460997442455243
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0004",
+      "video_id": "bft1YyeSY_w",
+      "idx": 4,
+      "sent_ids": [
+        "bft1YyeSY_w:s0008",
+        "bft1YyeSY_w:s0009"
+      ],
+      "start_s": 51.86,
+      "end_s": 62.828,
+      "text": "The kind of person whose presence transforms the social atmosphere of a small band from cooperative and functional into tense, watchful, and quietly exhausted. What do you do?",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.03315856777493606
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0005",
+      "video_id": "bft1YyeSY_w",
+      "idx": 5,
+      "sent_ids": [
+        "bft1YyeSY_w:s0010",
+        "bft1YyeSY_w:s0011"
+      ],
+      "start_s": 63.768,
+      "end_s": 76.399,
+      "text": "This is not a rhetorical question designed to make you feel grateful for modern institutions. It's one of the most important practical problems ancient humans faced continuously across hundreds of thousands of years of existence, and they solved it.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.04077237851662404
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0006",
+      "video_id": "bft1YyeSY_w",
+      "idx": 6,
+      "sent_ids": [
+        "bft1YyeSY_w:s0012",
+        "bft1YyeSY_w:s0013"
+      ],
+      "start_s": 76.959,
+      "end_s": 93.712,
+      "text": "Not with stone tablets, not with written law, not with any formal institution we would recognize as a justice system today. They solved it with something older, more flexible, more socially intelligent, and in some ways more genuinely egalitarian than anything that came after it.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.049206521739130434
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0007",
+      "video_id": "bft1YyeSY_w",
+      "idx": 7,
+      "sent_ids": [
+        "bft1YyeSY_w:s0014",
+        "bft1YyeSY_w:s0015"
+      ],
+      "start_s": 94.392,
+      "end_s": 102.778,
+      "text": "And the way they solved it tells us something profound about where every legal system that followed eventually came from. Because here is the thing most people have never been told.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.06035294117647059
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0008",
+      "video_id": "bft1YyeSY_w",
+      "idx": 8,
+      "sent_ids": [
+        "bft1YyeSY_w:s0016",
+        "bft1YyeSY_w:s0017"
+      ],
+      "start_s": 103.458,
+      "end_s": 112.645,
+      "text": "The impulse to punish is not a product of civilization. The machinery for social justice didn't arrive with cities and kings and written codes carved into polished stone pillars.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.06614961636828644
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0009",
+      "video_id": "bft1YyeSY_w",
+      "idx": 9,
+      "sent_ids": [
+        "bft1YyeSY_w:s0018",
+        "bft1YyeSY_w:s0019"
+      ],
+      "start_s": 113.365,
+      "end_s": 125.995,
+      "text": "It was running, in a recognizably functional and remarkably sophisticated form, in small bands of hunter-gatherers long before any of that existed. Humans were building justice systems before they built walls.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.07248401534526853
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0010",
+      "video_id": "bft1YyeSY_w",
+      "idx": 10,
+      "sent_ids": [
+        "bft1YyeSY_w:s0020",
+        "bft1YyeSY_w:s0021"
+      ],
+      "start_s": 126.755,
+      "end_s": 144.616,
+      "text": "Let's go through exactly how it worked, and then what happened when civilization arrived and decided to formalize everything. First, you have to understand the social context of pre-agricultural life because the context changes everything about what punishment meant, how it operated, and why it took the specific forms it took.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.08104539641943734
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0011",
+      "video_id": "bft1YyeSY_w",
+      "idx": 11,
+      "sent_ids": [
+        "bft1YyeSY_w:s0022",
+        "bft1YyeSY_w:s0023",
+        "bft1YyeSY_w:s0024"
+      ],
+      "start_s": 145.557,
+      "end_s": 162.443,
+      "text": "Pre-agricultural hunter-gatherers, the people we're talking about when we say ancient humans in this context, lived in small, highly mobile bands of typically 20-50 individuals. Everybody knew everybody. You couldn't hide your behavior for long.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.09306713554987212
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0012",
+      "video_id": "bft1YyeSY_w",
+      "idx": 12,
+      "sent_ids": [
+        "bft1YyeSY_w:s0025"
+      ],
+      "start_s": 163.083,
+      "end_s": 173.091,
+      "text": "You couldn't develop a carefully cultivated reputation as a generous and trustworthy person in one part of town while quietly behaving very differently somewhere else, because there was no other part of town.",
+      "n_words": 33,
+      "n_sentences": 1,
+      "pos_pct": 0.10427301790281329
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0013",
+      "video_id": "bft1YyeSY_w",
+      "idx": 13,
+      "sent_ids": [
+        "bft1YyeSY_w:s0026"
+      ],
+      "start_s": 173.511,
+      "end_s": 189.564,
+      "text": "The community was the entire social world, and it was observing everything you did continuously, because in a group that size there is effectively no private behavior that the group doesn't eventually learn about through proximity, observation, and the oldest information network in human history.",
+      "n_words": 45,
+      "n_sentences": 1,
+      "pos_pct": 0.11094053708439898
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0014",
+      "video_id": "bft1YyeSY_w",
+      "idx": 14,
+      "sent_ids": [
+        "bft1YyeSY_w:s0027",
+        "bft1YyeSY_w:s0028",
+        "bft1YyeSY_w:s0029"
+      ],
+      "start_s": 190.465,
+      "end_s": 198.895,
+      "text": "Which is gossip. But we'll get to that. This created a social environment radically different from modern anonymous urban life in one critical way.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.1217806905370844
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0015",
+      "video_id": "bft1YyeSY_w",
+      "idx": 15,
+      "sent_ids": [
+        "bft1YyeSY_w:s0030",
+        "bft1YyeSY_w:s0031"
+      ],
+      "start_s": 199.576,
+      "end_s": 219.156,
+      "text": "Your reputation was not merely socially important, it was existential in the most literal sense of the word. Your survival, your access to shared resources, your ability to form alliances that would matter during illness or injury or conflict, your reproductive prospects, your ability to call on collective help when you were vulnerable.",
+      "n_words": 53,
+      "n_sentences": 2,
+      "pos_pct": 0.1276061381074169
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0016",
+      "video_id": "bft1YyeSY_w",
+      "idx": 16,
+      "sent_ids": [
+        "bft1YyeSY_w:s0032",
+        "bft1YyeSY_w:s0033"
+      ],
+      "start_s": 220.029,
+      "end_s": 229.534,
+      "text": "all of it flowed directly from your standing within the group. Destroy your reputation and you didn't lose social status in the way a modern person loses social status.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.14068350383631714
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0017",
+      "video_id": "bft1YyeSY_w",
+      "idx": 17,
+      "sent_ids": [
+        "bft1YyeSY_w:s0034"
+      ],
+      "start_s": 230.214,
+      "end_s": 246.862,
+      "text": "You lost access to everything the group made possible, which in a paleolithic environment was essentially everything that separated you from an extremely difficult solo existence in a landscape full of predators, unpredictable food availability, and no institutional safety net of any description.",
+      "n_words": 43,
+      "n_sentences": 1,
+      "pos_pct": 0.14719565217391303
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0018",
+      "video_id": "bft1YyeSY_w",
+      "idx": 18,
+      "sent_ids": [
+        "bft1YyeSY_w:s0035",
+        "bft1YyeSY_w:s0036"
+      ],
+      "start_s": 247.542,
+      "end_s": 257.306,
+      "text": "This is the foundation on which the entire pre-agricultural justice system rested. Not law, not authority, not force applied by designated officials.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.15827493606138107
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0019",
+      "video_id": "bft1YyeSY_w",
+      "idx": 19,
+      "sent_ids": [
+        "bft1YyeSY_w:s0037"
+      ],
+      "start_s": 257.946,
+      "end_s": 274.632,
+      "text": "The foundation was interdependence and the awareness of interdependence and the understanding, shared, implicit, never needing to be written down, that your continued membership in good standing within this specific group of people was the single most important asset you possessed.",
+      "n_words": 41,
+      "n_sentences": 1,
+      "pos_pct": 0.16492710997442456
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0020",
+      "video_id": "bft1YyeSY_w",
+      "idx": 20,
+      "sent_ids": [
+        "bft1YyeSY_w:s0038"
+      ],
+      "start_s": 275.598,
+      "end_s": 291.185,
+      "text": "Anthropologist Christopher Bohm spent decades studying hunter-gatherer societies across every inhabited continent and documented their social control mechanisms in landmark works, most notably his book Hierarchy in the Forest, published by Harvard University Press.",
+      "n_words": 34,
+      "n_sentences": 1,
+      "pos_pct": 0.17621355498721228
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0021",
+      "video_id": "bft1YyeSY_w",
+      "idx": 21,
+      "sent_ids": [
+        "bft1YyeSY_w:s0039",
+        "bft1YyeSY_w:s0040"
+      ],
+      "start_s": 292.413,
+      "end_s": 310.082,
+      "text": "His conclusion, reached after systematically analyzing data from 48 distinct human societies representing the full geographic range of human hunter-gatherer experience, was both elegant and genuinely counterintuitive to modern assumptions. Hunter-gatherer societies were not anarchic.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.1869648337595908
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0022",
+      "video_id": "bft1YyeSY_w",
+      "idx": 22,
+      "sent_ids": [
+        "bft1YyeSY_w:s0041",
+        "bft1YyeSY_w:s0042"
+      ],
+      "start_s": 310.543,
+      "end_s": 320.088,
+      "text": "They did not operate on pure individual survival instinct with no social regulation. They were intensely, deliberately, collectively egalitarian.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.198556905370844
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0023",
+      "video_id": "bft1YyeSY_w",
+      "idx": 23,
+      "sent_ids": [
+        "bft1YyeSY_w:s0043",
+        "bft1YyeSY_w:s0044"
+      ],
+      "start_s": 320.729,
+      "end_s": 338.32,
+      "text": "And they maintained that egalitarianism through a sophisticated, multi-stage system of social enforcement that operated without any formal institution, designated authority, or written rule of any kind. Bohm called it the reverse dominance hierarchy, and the name captures something important.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.20506969309462914
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0024",
+      "video_id": "bft1YyeSY_w",
+      "idx": 24,
+      "sent_ids": [
+        "bft1YyeSY_w:s0045",
+        "bft1YyeSY_w:s0046"
+      ],
+      "start_s": 338.961,
+      "end_s": 350.669,
+      "text": "In most primate societies, chimpanzees, gorillas, baboons, the powerful dominate the weak. Alphas take the best food, the best mates, the best resting positions.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.21672698209718672
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0025",
+      "video_id": "bft1YyeSY_w",
+      "idx": 25,
+      "sent_ids": [
+        "bft1YyeSY_w:s0047",
+        "bft1YyeSY_w:s0048",
+        "bft1YyeSY_w:s0049"
+      ],
+      "start_s": 351.269,
+      "end_s": 364.859,
+      "text": "Rank is established through strength, maintained through intimidation, and the bottom of the hierarchy submits because the top can credibly hurt it. power flows downward. Hunter-gatherers flipped this entirely.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.224596547314578
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0026",
+      "video_id": "bft1YyeSY_w",
+      "idx": 26,
+      "sent_ids": [
+        "bft1YyeSY_w:s0050",
+        "bft1YyeSY_w:s0051"
+      ],
+      "start_s": 365.54,
+      "end_s": 384.657,
+      "text": "In band societies, the collective—the group as a unified social entity—dominated the individual. If anyone started accumulating more than their share of food, more status than the group was comfortable with, more influence over decisions than a peer among equals was supposed to have, the group closed ranks against them.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.2337212276214834
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0027",
+      "video_id": "bft1YyeSY_w",
+      "idx": 27,
+      "sent_ids": [
+        "bft1YyeSY_w:s0052",
+        "bft1YyeSY_w:s0053",
+        "bft1YyeSY_w:s0054"
+      ],
+      "start_s": 385.498,
+      "end_s": 399.121,
+      "text": "Not through any formal process. Through coordinated, sustained, escalating social pressure that started soft and became progressively harder until the problem was either resolved or removed. The system had stages.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.24648209718670075
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0028",
+      "video_id": "bft1YyeSY_w",
+      "idx": 28,
+      "sent_ids": [
+        "bft1YyeSY_w:s0055",
+        "bft1YyeSY_w:s0056"
+      ],
+      "start_s": 399.821,
+      "end_s": 416.952,
+      "text": "Clear, consistent, documented stages, appearing with striking similarity across cultures that never had any contact with each other. The first stage was gossip, and before you dismiss that as trivial, hear out what gossip actually does in this context, because it is doing serious work.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.25564002557544757
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0029",
+      "video_id": "bft1YyeSY_w",
+      "idx": 29,
+      "sent_ids": [
+        "bft1YyeSY_w:s0057",
+        "bft1YyeSY_w:s0058"
+      ],
+      "start_s": 417.792,
+      "end_s": 426.399,
+      "text": "In the hunter-gatherer setting, gossip is not idle social entertainment. It is a powerful, functionally essential tool for collective moral enforcement.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.2671304347826087
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0030",
+      "video_id": "bft1YyeSY_w",
+      "idx": 30,
+      "sent_ids": [
+        "bft1YyeSY_w:s0059"
+      ],
+      "start_s": 427.26,
+      "end_s": 445.336,
+      "text": "When someone began behaving in ways the community found unacceptable, hoarding food, bullying weaker members, cheating at sharing, free-riding on the labor of others while contributing substantially less than expected, the community started talking about it, not to the offender's face initially, among themselves.",
+      "n_words": 44,
+      "n_sentences": 1,
+      "pos_pct": 0.2731841432225064
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0031",
+      "video_id": "bft1YyeSY_w",
+      "idx": 31,
+      "sent_ids": [
+        "bft1YyeSY_w:s0060",
+        "bft1YyeSY_w:s0061"
+      ],
+      "start_s": 446.116,
+      "end_s": 453.397,
+      "text": "Building shared understanding that this specific person's specific behavior was a specific problem. Developing consensus.",
+      "n_words": 15,
+      "n_sentences": 2,
+      "pos_pct": 0.2852404092071611
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0032",
+      "video_id": "bft1YyeSY_w",
+      "idx": 32,
+      "sent_ids": [
+        "bft1YyeSY_w:s0062"
+      ],
+      "start_s": 454.018,
+      "end_s": 470.123,
+      "text": "Coordinating a collective interpretation of events before any public action was taken, so that when public action did arrive, it arrived with the full weight of unanimous community opinion, rather than as an individual accusation that the offender could dismiss or retaliate against personally.",
+      "n_words": 44,
+      "n_sentences": 1,
+      "pos_pct": 0.29029283887468027
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0033",
+      "video_id": "bft1YyeSY_w",
+      "idx": 33,
+      "sent_ids": [
+        "bft1YyeSY_w:s0063",
+        "bft1YyeSY_w:s0064"
+      ],
+      "start_s": 471.46,
+      "end_s": 499.955,
+      "text": "Anthropological research on modern hunter-gatherer populations, the Tachkungsan of the Kalahari, the Hadza of Tanzania, the Jew slash Hwansi, multiple Aboriginal Australian groups, consistently finds gossip serving precisely this regulatory function. It is the early warning system, the community newsletter, the consensus building mechanism, and the social verdict delivery system all operating simultaneously in casual conversation.",
+      "n_words": 56,
+      "n_sentences": 2,
+      "pos_pct": 0.3014450127877238
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0034",
+      "video_id": "bft1YyeSY_w",
+      "idx": 34,
+      "sent_ids": [
+        "bft1YyeSY_w:s0065"
+      ],
+      "start_s": 500.895,
+      "end_s": 517.118,
+      "text": "Before any formal sanction is applied in these communities, the community has already reached an informal, distributed verdict through thousands of small conversations that together constitute a kind of collective social trial conducted without any designated venue, judge, or procedure.",
+      "n_words": 40,
+      "n_sentences": 1,
+      "pos_pct": 0.32026534526854217
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0035",
+      "video_id": "bft1YyeSY_w",
+      "idx": 35,
+      "sent_ids": [
+        "bft1YyeSY_w:s0066",
+        "bft1YyeSY_w:s0067",
+        "bft1YyeSY_w:s0068"
+      ],
+      "start_s": 517.879,
+      "end_s": 528.427,
+      "text": "The offender usually knows the gossip is happening. In a group of 30 people living in constant proximity, you can feel the shift in social temperature. The conversations that stop when you approach.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.3311246803069054
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0036",
+      "video_id": "bft1YyeSY_w",
+      "idx": 36,
+      "sent_ids": [
+        "bft1YyeSY_w:s0069",
+        "bft1YyeSY_w:s0070",
+        "bft1YyeSY_w:s0071"
+      ],
+      "start_s": 529.067,
+      "end_s": 540.076,
+      "text": "The sharing that happens slightly less fluidly. The eye contact that is calibrated differently. And frequently, at this stage alone, before anything more formal occurs, the offender changes their behavior.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.3382781329923274
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0037",
+      "video_id": "bft1YyeSY_w",
+      "idx": 37,
+      "sent_ids": [
+        "bft1YyeSY_w:s0072",
+        "bft1YyeSY_w:s0073"
+      ],
+      "start_s": 540.536,
+      "end_s": 554.203,
+      "text": "because they understand, without anyone spelling it out explicitly, what the next stages look like and what the end point of the process is if they don't correct course. This is deterrence without a criminal code.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.3456112531969309
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0038",
+      "video_id": "bft1YyeSY_w",
+      "idx": 38,
+      "sent_ids": [
+        "bft1YyeSY_w:s0074",
+        "bft1YyeSY_w:s0075"
+      ],
+      "start_s": 554.603,
+      "end_s": 566.99,
+      "text": "It's working through reputation mechanics that are older than language itself. If gossip failed to produce the necessary correction, the second stage was public criticism and ridicule delivered openly, in front of the entire group.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.3546054987212276
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0039",
+      "video_id": "bft1YyeSY_w",
+      "idx": 39,
+      "sent_ids": [
+        "bft1YyeSY_w:s0076",
+        "bft1YyeSY_w:s0077"
+      ],
+      "start_s": 567.81,
+      "end_s": 577.957,
+      "text": "In a small band society, public ridicule is not a minor social discomfort that you survive and eventually forget about. It is a serious social event with lasting structural consequences.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.36304987212276213
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0040",
+      "video_id": "bft1YyeSY_w",
+      "idx": 40,
+      "sent_ids": [
+        "bft1YyeSY_w:s0078"
+      ],
+      "start_s": 578.637,
+      "end_s": 591.93,
+      "text": "When the community decides to confront an offender's behavior openly, naming it, mocking it, calling it out explicitly in a context where everyone present understands exactly what is happening, the target is receiving a very precise communication.",
+      "n_words": 37,
+      "n_sentences": 1,
+      "pos_pct": 0.36997250639386187
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0041",
+      "video_id": "bft1YyeSY_w",
+      "idx": 41,
+      "sent_ids": [
+        "bft1YyeSY_w:s0079",
+        "bft1YyeSY_w:s0080"
+      ],
+      "start_s": 592.411,
+      "end_s": 608.951,
+      "text": "The informal protection and goodwill the group normally extends to its members has been formally suspended for you, pending behavioral correction. Your status is being publicly revised downward in a way that everyone witnesses, and that becomes part of the community's shared understanding of who you are.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.37877941176470586
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0042",
+      "video_id": "bft1YyeSY_w",
+      "idx": 42,
+      "sent_ids": [
+        "bft1YyeSY_w:s0081"
+      ],
+      "start_s": 609.672,
+      "end_s": 616.202,
+      "text": "Bohm's research found this pattern with striking consistency across cultures separated by thousands of miles and thousands of years.",
+      "n_words": 19,
+      "n_sentences": 1,
+      "pos_pct": 0.38981585677749364
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0043",
+      "video_id": "bft1YyeSY_w",
+      "idx": 43,
+      "sent_ids": [
+        "bft1YyeSY_w:s0082"
+      ],
+      "start_s": 616.943,
+      "end_s": 640.12,
+      "text": "The Inuit of the Arctic, the Akang San of Southern Africa, and multiple Aboriginal Australian groups all maintained active traditions of public criticism and ridicule aimed specifically at individuals who hoarded resources, attempted to dominate social decisions, bullied others, or refused to participate in the reciprocal sharing that was the economic foundation of band life.",
+      "n_words": 55,
+      "n_sentences": 1,
+      "pos_pct": 0.3944648337595908
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0044",
+      "video_id": "bft1YyeSY_w",
+      "idx": 44,
+      "sent_ids": [
+        "bft1YyeSY_w:s0083",
+        "bft1YyeSY_w:s0084",
+        "bft1YyeSY_w:s0085"
+      ],
+      "start_s": 640.921,
+      "end_s": 652.263,
+      "text": "The specific forms varied. The function was identical. A particularly striking version of this that appears repeatedly across cultures is what anthropologists call leveling mechanisms.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.4097960358056266
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0045",
+      "video_id": "bft1YyeSY_w",
+      "idx": 45,
+      "sent_ids": [
+        "bft1YyeSY_w:s0086",
+        "bft1YyeSY_w:s0087"
+      ],
+      "start_s": 653.403,
+      "end_s": 672.314,
+      "text": "Communal practices designed with explicit intent to prevent any individual from accumulating more status, resources, or social authority than the community's egalitarian norms permitted. In multiple documented hunter-gatherer cultures, a successful hunter was not expected to announce or celebrate his own achievement.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.41777685421994887
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0046",
+      "video_id": "bft1YyeSY_w",
+      "idx": 46,
+      "sent_ids": [
+        "bft1YyeSY_w:s0088",
+        "bft1YyeSY_w:s0089"
+      ],
+      "start_s": 673.034,
+      "end_s": 688.807,
+      "text": "A man who returned to camp and loudly proclaimed that he had made a remarkable kill, that he had been especially skilled, that the group should recognize his contribution. That man was considered boorish, socially clumsy, and potentially dangerous in his apparent appetite for status.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.4303286445012788
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0047",
+      "video_id": "bft1YyeSY_w",
+      "idx": 47,
+      "sent_ids": [
+        "bft1YyeSY_w:s0090",
+        "bft1YyeSY_w:s0091"
+      ],
+      "start_s": 689.347,
+      "end_s": 700.456,
+      "text": "He would be mocked. The kill was real, the food was shared, everyone ate it, but the social credit was distributed collectively rather than concentrated in the individual who produced it.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.4407589514066496
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0048",
+      "video_id": "bft1YyeSY_w",
+      "idx": 48,
+      "sent_ids": [
+        "bft1YyeSY_w:s0092"
+      ],
+      "start_s": 701.297,
+      "end_s": 709.422,
+      "text": "If he pushed back against that distribution, if he insisted on receiving the recognition he felt he'd earned, the community pushed back harder.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.44839961636828646
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0049",
+      "video_id": "bft1YyeSY_w",
+      "idx": 49,
+      "sent_ids": [
+        "bft1YyeSY_w:s0093"
+      ],
+      "start_s": 709.762,
+      "end_s": 724.811,
+      "text": "Because what looked like a dispute about credit was understood by everyone present as a dispute about power, and allowing one person to accumulate power beyond what the egalitarian structure permitted was understood as an existential threat to the social order that kept everyone safe.",
+      "n_words": 45,
+      "n_sentences": 1,
+      "pos_pct": 0.453812020460358
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0050",
+      "video_id": "bft1YyeSY_w",
+      "idx": 50,
+      "sent_ids": [
+        "bft1YyeSY_w:s0094",
+        "bft1YyeSY_w:s0095"
+      ],
+      "start_s": 726.052,
+      "end_s": 736.984,
+      "text": "When public ridicule failed to produce correction, the third stage was ostracism. And this one had consequences that were, in the ancient context, genuinely severe.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.464227621483376
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0051",
+      "video_id": "bft1YyeSY_w",
+      "idx": 51,
+      "sent_ids": [
+        "bft1YyeSY_w:s0096",
+        "bft1YyeSY_w:s0097",
+        "bft1YyeSY_w:s0098"
+      ],
+      "start_s": 738.605,
+      "end_s": 752.328,
+      "text": "In a modern city, being shunned by a social group is painful and unpleasant, but ultimately survivable. There are other social options. You can move neighborhoods, join different communities, rebuild a social life from scratch.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.4722538363171356
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0052",
+      "video_id": "bft1YyeSY_w",
+      "idx": 52,
+      "sent_ids": [
+        "bft1YyeSY_w:s0099",
+        "bft1YyeSY_w:s0100"
+      ],
+      "start_s": 753.048,
+      "end_s": 764.862,
+      "text": "The city contains thousands of people you haven't met yet. The infrastructure of modern life—food availability, shelter, medical care—doesn't depend on any specific group accepting you.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.48148849104859337
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0053",
+      "video_id": "bft1YyeSY_w",
+      "idx": 53,
+      "sent_ids": [
+        "bft1YyeSY_w:s0101"
+      ],
+      "start_s": 765.463,
+      "end_s": 778.156,
+      "text": "In a small band of 20 to 50 people moving through a Paleolithic landscape, with the nearest other human group potentially weeks of difficult travel away, being excluded from the community was not a social consequence in the modern sense.",
+      "n_words": 40,
+      "n_sentences": 1,
+      "pos_pct": 0.4894264705882353
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0054",
+      "video_id": "bft1YyeSY_w",
+      "idx": 54,
+      "sent_ids": [
+        "bft1YyeSY_w:s0102",
+        "bft1YyeSY_w:s0103"
+      ],
+      "start_s": 779.044,
+      "end_s": 787.611,
+      "text": "It was a death sentence with a variable delay, delivered without anyone having to physically harm you. You couldn't hunt as effectively alone as a coordinated group could.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.4981099744245524
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0055",
+      "video_id": "bft1YyeSY_w",
+      "idx": 55,
+      "sent_ids": [
+        "bft1YyeSY_w:s0104",
+        "bft1YyeSY_w:s0105"
+      ],
+      "start_s": 788.231,
+      "end_s": 805.305,
+      "text": "You couldn't defend yourself against predators during sleep without others watching. You couldn't process large game, tend injuries, survive serious illness, carry infants, or maintain the hundred small cooperative tasks that group life made manageable and solo life made nearly impossible.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.5039840153452685
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0056",
+      "video_id": "bft1YyeSY_w",
+      "idx": 56,
+      "sent_ids": [
+        "bft1YyeSY_w:s0106",
+        "bft1YyeSY_w:s0107",
+        "bft1YyeSY_w:s0108"
+      ],
+      "start_s": 805.685,
+      "end_s": 817.795,
+      "text": "Exclusion from the band removed. the cooperative infrastructure that made individual survival viable in harsh environments. It exposed every vulnerability that group membership had been quietly shielding.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.5151438618925831
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0057",
+      "video_id": "bft1YyeSY_w",
+      "idx": 57,
+      "sent_ids": [
+        "bft1YyeSY_w:s0109",
+        "bft1YyeSY_w:s0110"
+      ],
+      "start_s": 818.596,
+      "end_s": 829.965,
+      "text": "Ostracism in documented hunter-gatherer societies operated in degrees that matched the escalating structure of the whole system. Initially, it might manifest as a subtle reduction in sharing.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.5233989769820971
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0058",
+      "video_id": "bft1YyeSY_w",
+      "idx": 58,
+      "sent_ids": [
+        "bft1YyeSY_w:s0111"
+      ],
+      "start_s": 830.898,
+      "end_s": 848.02,
+      "text": "The offender remained technically included in group activities, but found that food and resources reached them slightly less smoothly than before, that allies were somehow less available when needed, that the social warmth that had previously surrounded them had been dialed down in ways that were real but individually deniable.",
+      "n_words": 50,
+      "n_sentences": 1,
+      "pos_pct": 0.531264705882353
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0059",
+      "video_id": "bft1YyeSY_w",
+      "idx": 59,
+      "sent_ids": [
+        "bft1YyeSY_w:s0112",
+        "bft1YyeSY_w:s0113"
+      ],
+      "start_s": 848.781,
+      "end_s": 864.465,
+      "text": "If behavior continued, the exclusion formalized. In highly mobile groups, the community could simply move camp without the offender, a specific cruelty available only to people who move regularly and who control entirely whether any given individual knows where they've gone.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.5426988491048593
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0060",
+      "video_id": "bft1YyeSY_w",
+      "idx": 60,
+      "sent_ids": [
+        "bft1YyeSY_w:s0114",
+        "bft1YyeSY_w:s0115"
+      ],
+      "start_s": 865.105,
+      "end_s": 892.21,
+      "text": "Cases documented across multiple ethnographic sources involve persistent bullies, chronic resource thieves, and individuals who repeatedly violated sexual boundaries within the group. For these people, when ostracism was fully applied, the outcomes documented in the ethnographic record were typically one of two things—behavioral correction, in which the person demonstrated genuine change, was cautiously reintegrated, and was watched carefully afterward.",
+      "n_words": 59,
+      "n_sentences": 2,
+      "pos_pct": 0.553136189258312
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0061",
+      "video_id": "bft1YyeSY_w",
+      "idx": 61,
+      "sent_ids": [
+        "bft1YyeSY_w:s0116",
+        "bft1YyeSY_w:s0117"
+      ],
+      "start_s": 893.111,
+      "end_s": 903.114,
+      "text": "Or death, either from the practical vulnerabilities of isolation, or from the escalation to the fourth and final stage. The fourth stage was execution.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.5710428388746803
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0062",
+      "video_id": "bft1YyeSY_w",
+      "idx": 62,
+      "sent_ids": [
+        "bft1YyeSY_w:s0118",
+        "bft1YyeSY_w:s0119"
+      ],
+      "start_s": 903.755,
+      "end_s": 929.695,
+      "text": "Hunter-gatherer execution is one of the most consistently documented and most genuinely startling findings in the extensive ethnographic literature on band societies. Bohm compiled execution cases from across dozens of hunter-gatherer cultures on multiple continents and found the practice not only widespread but structurally consistent in ways that reveal a coherent underlying logic rather than random violence.",
+      "n_words": 57,
+      "n_sentences": 2,
+      "pos_pct": 0.5778484654731457
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0063",
+      "video_id": "bft1YyeSY_w",
+      "idx": 63,
+      "sent_ids": [
+        "bft1YyeSY_w:s0120"
+      ],
+      "start_s": 930.98,
+      "end_s": 945.097,
+      "text": "When a member of the group had committed sufficiently serious offenses, and critically had failed to respond to every lesser intervention the community had applied across multiple rounds of escalating pressure, the group collectively reached a consensus decision to kill them.",
+      "n_words": 41,
+      "n_sentences": 1,
+      "pos_pct": 0.5952557544757033
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0064",
+      "video_id": "bft1YyeSY_w",
+      "idx": 64,
+      "sent_ids": [
+        "bft1YyeSY_w:s0121",
+        "bft1YyeSY_w:s0122"
+      ],
+      "start_s": 945.941,
+      "end_s": 968.478,
+      "text": "not a designated authority figure acting on institutional mandate, not a chief exercising unilateral power. The entire adult community reaching consensus through exactly the same distributed deliberation process that characterized every earlier stage and then a small number of individuals, typically men, carrying out the act on behalf of everyone simultaneously.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.604821611253197
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0065",
+      "video_id": "bft1YyeSY_w",
+      "idx": 65,
+      "sent_ids": [
+        "bft1YyeSY_w:s0123",
+        "bft1YyeSY_w:s0124"
+      ],
+      "start_s": 969.259,
+      "end_s": 974.662,
+      "text": "the deliberately collective structure of the decision was not incidental. It was the whole point.",
+      "n_words": 15,
+      "n_sentences": 2,
+      "pos_pct": 0.6197308184143223
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0066",
+      "video_id": "bft1YyeSY_w",
+      "idx": 66,
+      "sent_ids": [
+        "bft1YyeSY_w:s0125"
+      ],
+      "start_s": 975.282,
+      "end_s": 984.286,
+      "text": "An individual who killed another group member was a murderer and would be treated as one, potentially subjected to the same process he had just witnessed applied to someone else.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.6235818414322251
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0067",
+      "video_id": "bft1YyeSY_w",
+      "idx": 67,
+      "sent_ids": [
+        "bft1YyeSY_w:s0126",
+        "bft1YyeSY_w:s0127"
+      ],
+      "start_s": 984.887,
+      "end_s": 1005.761,
+      "text": "A community that had collectively reached consensus that a member had become an intolerable threat to everyone and that had collectively decided to remove that threat was doing something categorically different from individual violence. The communal nature of the act removed it from the domain of personal grievance and placed it explicitly in the domain of social necessity.",
+      "n_words": 58,
+      "n_sentences": 2,
+      "pos_pct": 0.6297231457800511
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0068",
+      "video_id": "bft1YyeSY_w",
+      "idx": 68,
+      "sent_ids": [
+        "bft1YyeSY_w:s0128",
+        "bft1YyeSY_w:s0129"
+      ],
+      "start_s": 1006.634,
+      "end_s": 1018.597,
+      "text": "Responsibility was distributed so broadly that no single person bore the full weight of it. The offenses that drew this ultimate community response were consistent across cultures to a degree that is itself significant.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.6436278772378516
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0069",
+      "video_id": "bft1YyeSY_w",
+      "idx": 69,
+      "sent_ids": [
+        "bft1YyeSY_w:s0130",
+        "bft1YyeSY_w:s0131"
+      ],
+      "start_s": 1019.177,
+      "end_s": 1036.201,
+      "text": "Unprovoked and repeated serious violence against group members, serial killing within the band, predatory sexual behavior that the individual had demonstrated across multiple rounds of lesser intervention was not going to stop. The threshold was not a single act in the heat of conflict.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.6516476982097187
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0070",
+      "video_id": "bft1YyeSY_w",
+      "idx": 70,
+      "sent_ids": [
+        "bft1YyeSY_w:s0132"
+      ],
+      "start_s": 1037.122,
+      "end_s": 1055.804,
+      "text": "The pattern preceding community-sanctioned execution was almost universally one of documented escalation—a person who had been warned, mocked, partially excluded, fully excluded, and who had responded to each stage by continuing or escalating precisely the behaviors that made them dangerous to everyone around them.",
+      "n_words": 44,
+      "n_sentences": 1,
+      "pos_pct": 0.6631214833759591
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0071",
+      "video_id": "bft1YyeSY_w",
+      "idx": 71,
+      "sent_ids": [
+        "bft1YyeSY_w:s0133",
+        "bft1YyeSY_w:s0134",
+        "bft1YyeSY_w:s0135",
+        "bft1YyeSY_w:s0136"
+      ],
+      "start_s": 1056.449,
+      "end_s": 1069.317,
+      "text": "This is, in its essential structure, recognizably a justice system. Not a primitive proto-version of one, not the blunt early sketch of something that would eventually become law. A justice system. It has proportionality.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.6754789002557545
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0072",
+      "video_id": "bft1YyeSY_w",
+      "idx": 72,
+      "sent_ids": [
+        "bft1YyeSY_w:s0137",
+        "bft1YyeSY_w:s0138",
+        "bft1YyeSY_w:s0139",
+        "bft1YyeSY_w:s0140"
+      ],
+      "start_s": 1069.777,
+      "end_s": 1081.424,
+      "text": "Minor offenses produce minor sanctions. Serious offenses escalate through progressively severe responses. It has process. The community doesn't jump from first offense to execution.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.6840006393861893
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0073",
+      "video_id": "bft1YyeSY_w",
+      "idx": 73,
+      "sent_ids": [
+        "bft1YyeSY_w:s0141",
+        "bft1YyeSY_w:s0142",
+        "bft1YyeSY_w:s0143",
+        "bft1YyeSY_w:s0144"
+      ],
+      "start_s": 1082.005,
+      "end_s": 1091.272,
+      "text": "It works methodically through stages with space for a correction at each level. It has consensus. No individual decides alone. It has purpose.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.69181905370844
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0074",
+      "video_id": "bft1YyeSY_w",
+      "idx": 74,
+      "sent_ids": [
+        "bft1YyeSY_w:s0145",
+        "bft1YyeSY_w:s0146"
+      ],
+      "start_s": 1092.152,
+      "end_s": 1109.855,
+      "text": "The explicit goal is not personal revenge, but the restoration and maintenance of a functional, safe, cooperative social environment for everyone who depends on it. Now fast forward several thousand years, because this is where the story takes a turn that complicates the simple narrative of human progress.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.698306905370844
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0075",
+      "video_id": "bft1YyeSY_w",
+      "idx": 75,
+      "sent_ids": [
+        "bft1YyeSY_w:s0147",
+        "bft1YyeSY_w:s0148",
+        "bft1YyeSY_w:s0149"
+      ],
+      "start_s": 1110.576,
+      "end_s": 1122.203,
+      "text": "When humans settled into agricultural societies and began building the first cities and formal states, the justice system didn't immediately improve in every dimension. It got more elaborate. It got written down.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.7100869565217391
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0076",
+      "video_id": "bft1YyeSY_w",
+      "idx": 76,
+      "sent_ids": [
+        "bft1YyeSY_w:s0150",
+        "bft1YyeSY_w:s0151"
+      ],
+      "start_s": 1122.563,
+      "end_s": 1135.19,
+      "text": "It got scalable in ways that small band social enforcement could never bay. And it introduced something the hunter-gatherer system, for all its limitations and occasional brutality, had been specifically and deliberately designed to prevent.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7177512787723785
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0077",
+      "video_id": "bft1YyeSY_w",
+      "idx": 77,
+      "sent_ids": [
+        "bft1YyeSY_w:s0152",
+        "bft1YyeSY_w:s0153"
+      ],
+      "start_s": 1136.19,
+      "end_s": 1160.018,
+      "text": "The oldest physical law code that archaeologists have so far recovered is the Code of Ur-Nammu, written in ancient Sumer in Mesopotamia around 2100-2050 BCE, more than 4,000 years ago. It was inscribed on clay tablets in cuneiform script, organized in a logical IF-THEN structure that any modern lawmaker would immediately recognize.",
+      "n_words": 52,
+      "n_sentences": 2,
+      "pos_pct": 0.7264641943734016
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0078",
+      "video_id": "bft1YyeSY_w",
+      "idx": 78,
+      "sent_ids": [
+        "bft1YyeSY_w:s0154",
+        "bft1YyeSY_w:s0155",
+        "bft1YyeSY_w:s0156",
+        "bft1YyeSY_w:s0157"
+      ],
+      "start_s": 1160.478,
+      "end_s": 1167.729,
+      "text": "If a person commits offense X, the legal consequence is Y. Clean. Legible. Consistent.",
+      "n_words": 14,
+      "n_sentences": 4,
+      "pos_pct": 0.7419936061381075
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0079",
+      "video_id": "bft1YyeSY_w",
+      "idx": 79,
+      "sent_ids": [
+        "bft1YyeSY_w:s0158",
+        "bft1YyeSY_w:s0159"
+      ],
+      "start_s": 1168.07,
+      "end_s": 1185.842,
+      "text": "Written down so that it applied predictably to everyone, rather than being administered differently in every individual case by whoever happened to be in charge that day. What's genuinely remarkable about Ur-Nammu's code, when you look at it closely, is the approach it took to physical harm between ordinary people.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.7468478260869564
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0080",
+      "video_id": "bft1YyeSY_w",
+      "idx": 80,
+      "sent_ids": [
+        "bft1YyeSY_w:s0160",
+        "bft1YyeSY_w:s0161"
+      ],
+      "start_s": 1186.762,
+      "end_s": 1200.493,
+      "text": "For bodily injury—knocking out someone's eye, breaking someone's bone, knocking out a tooth—the code specified monetary fines rather than physical retaliation. A knocked-out eye cost the offender half a mina of silver.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.7587992327365729
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0081",
+      "video_id": "bft1YyeSY_w",
+      "idx": 81,
+      "sent_ids": [
+        "bft1YyeSY_w:s0162",
+        "bft1YyeSY_w:s0163"
+      ],
+      "start_s": 1201.094,
+      "end_s": 1210.424,
+      "text": "A knocked-out tooth cost two shekels of silver. The orientation was toward financial compensation for the victim rather than physical punishment inflicted on the offender.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.767962915601023
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0082",
+      "video_id": "bft1YyeSY_w",
+      "idx": 82,
+      "sent_ids": [
+        "bft1YyeSY_w:s0164",
+        "bft1YyeSY_w:s0165"
+      ],
+      "start_s": 1211.445,
+      "end_s": 1222.973,
+      "text": "Restore the balance economically, make the harmed party whole, or as close to whole as money could manage. Murder, robbery, adultery, and rape were still capital offenses.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.7745812020460358
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0083",
+      "video_id": "bft1YyeSY_w",
+      "idx": 83,
+      "sent_ids": [
+        "bft1YyeSY_w:s0166",
+        "bft1YyeSY_w:s0167"
+      ],
+      "start_s": 1223.994,
+      "end_s": 1236.69,
+      "text": "But the general treatment of physical harm between ordinary people was, by the standards of what immediately followed it in the historical record, surprisingly measured. that measured approach didn't survive the next three centuries intact.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7826048593350383
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0084",
+      "video_id": "bft1YyeSY_w",
+      "idx": 84,
+      "sent_ids": [
+        "bft1YyeSY_w:s0168"
+      ],
+      "start_s": 1238.23,
+      "end_s": 1248.754,
+      "text": "Around 1750 BCE, a Babylonian king named Hammurabi commissioned what became the most famous legal document in all of ancient history.",
+      "n_words": 21,
+      "n_sentences": 1,
+      "pos_pct": 0.7917071611253197
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0085",
+      "video_id": "bft1YyeSY_w",
+      "idx": 85,
+      "sent_ids": [
+        "bft1YyeSY_w:s0169"
+      ],
+      "start_s": 1248.874,
+      "end_s": 1265.34,
+      "text": "282 laws carved into a black diorite pillar, standing more than 7 feet tall, discovered by French archaeologists in 1901 in what is now Iran, and now held in the Louvre in Paris, where it remains one of the most visited artifacts in the museum.",
+      "n_words": 45,
+      "n_sentences": 1,
+      "pos_pct": 0.7985127877237852
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0086",
+      "video_id": "bft1YyeSY_w",
+      "idx": 86,
+      "sent_ids": [
+        "bft1YyeSY_w:s0170",
+        "bft1YyeSY_w:s0171"
+      ],
+      "start_s": 1266.14,
+      "end_s": 1279.071,
+      "text": "Hammurabi's code moved decisively and deliberately away from the compensation model of ur-namu toward something the ancient world would become permanently associated with. An eye for an eye, a tooth for a tooth.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.8095524296675193
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0087",
+      "video_id": "bft1YyeSY_w",
+      "idx": 87,
+      "sent_ids": [
+        "bft1YyeSY_w:s0172",
+        "bft1YyeSY_w:s0173"
+      ],
+      "start_s": 1280.292,
+      "end_s": 1298.781,
+      "text": "The principle is called lex talionis, the law of retaliation, and Hammurabi didn't invent the concept, but he elevated it to a formal prominence it had never previously achieved in written law. Under his code, the punishment was designed to mirror the crime physically and directly.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.8186010230179027
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0088",
+      "video_id": "bft1YyeSY_w",
+      "idx": 88,
+      "sent_ids": [
+        "bft1YyeSY_w:s0174",
+        "bft1YyeSY_w:s0175",
+        "bft1YyeSY_w:s0176"
+      ],
+      "start_s": 1299.882,
+      "end_s": 1308.951,
+      "text": "If a builder constructed a house that collapsed and killed the owner's son, the builder's son would be executed. Not the builder. His son.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.8311265984654732
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0089",
+      "video_id": "bft1YyeSY_w",
+      "idx": 89,
+      "sent_ids": [
+        "bft1YyeSY_w:s0177",
+        "bft1YyeSY_w:s0178"
+      ],
+      "start_s": 1309.972,
+      "end_s": 1334.736,
+      "text": "The logic of collective family accountability for individual crimes produced some of the code's most striking and, to modern eyes, most troubling provisions. But the element of Hammurabi's code that most sharply distinguishes it from everything that came before, including the hunter-gatherer system Bohm documented, is its explicit, formal, built-in class stratification of punishment.",
+      "n_words": 54,
+      "n_sentences": 2,
+      "pos_pct": 0.8375780051150895
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0090",
+      "video_id": "bft1YyeSY_w",
+      "idx": 90,
+      "sent_ids": [
+        "bft1YyeSY_w:s0179",
+        "bft1YyeSY_w:s0180"
+      ],
+      "start_s": 1335.657,
+      "end_s": 1345.365,
+      "text": "If a free man knocked out the eye of another free man, the free man lost his eye. If the same free man knocked out the eye of a slave, he paid a fine.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.8540006393861892
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0091",
+      "video_id": "bft1YyeSY_w",
+      "idx": 91,
+      "sent_ids": [
+        "bft1YyeSY_w:s0181",
+        "bft1YyeSY_w:s0182",
+        "bft1YyeSY_w:s0183"
+      ],
+      "start_s": 1346.179,
+      "end_s": 1355.544,
+      "text": "The physical injury in both cases was identical. The social status of the victim determined the entire legal response. The harm to the victim was the same.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.8607282608695652
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0092",
+      "video_id": "bft1YyeSY_w",
+      "idx": 92,
+      "sent_ids": [
+        "bft1YyeSY_w:s0184",
+        "bft1YyeSY_w:s0185",
+        "bft1YyeSY_w:s0186",
+        "bft1YyeSY_w:s0187"
+      ],
+      "start_s": 1356.404,
+      "end_s": 1373.413,
+      "text": "The law treated it as categorically different depending on who the victim was. This was genuinely new. This was what settled hierarchical, institutionally governed society added to the justice equation. Formal, written, consistently applied rules.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.8672659846547315
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0093",
+      "video_id": "bft1YyeSY_w",
+      "idx": 93,
+      "sent_ids": [
+        "bft1YyeSY_w:s0188"
+      ],
+      "start_s": 1374.537,
+      "end_s": 1384.003,
+      "text": "which represented a real advance over purely ad hoc individual decisions, combined with explicit codification of inequality into the structure of punishment itself.",
+      "n_words": 23,
+      "n_sentences": 1,
+      "pos_pct": 0.8788599744245524
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0094",
+      "video_id": "bft1YyeSY_w",
+      "idx": 94,
+      "sent_ids": [
+        "bft1YyeSY_w:s0189"
+      ],
+      "start_s": 1384.904,
+      "end_s": 1402.775,
+      "text": "The hunter-gatherer band, with its obsessive leveling mechanisms and its reverse dominance hierarchy, and its deep collective suspicion of any individual accumulating disproportionate power or privilege, would have recognized this instantly as precisely the thing it had been working so hard for so long to prevent.",
+      "n_words": 46,
+      "n_sentences": 1,
+      "pos_pct": 0.8854884910485934
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0095",
+      "video_id": "bft1YyeSY_w",
+      "idx": 95,
+      "sent_ids": [
+        "bft1YyeSY_w:s0190"
+      ],
+      "start_s": 1404.317,
+      "end_s": 1419.29,
+      "text": "Bohm documented how hunter-gatherer communities actively resisted attempts by any member to claim special treatment, including, specifically, the claim that harm done to a more important person deserved a more serious response than harm done to a less important one.",
+      "n_words": 40,
+      "n_sentences": 1,
+      "pos_pct": 0.897900895140665
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0096",
+      "video_id": "bft1YyeSY_w",
+      "idx": 96,
+      "sent_ids": [
+        "bft1YyeSY_w:s0191",
+        "bft1YyeSY_w:s0192"
+      ],
+      "start_s": 1420.302,
+      "end_s": 1428.724,
+      "text": "The whole reverse dominance hierarchy existed to prevent exactly that logic from taking hold. Civilization wrote that logic into law and called it justice.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.908121483375959
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0097",
+      "video_id": "bft1YyeSY_w",
+      "idx": 97,
+      "sent_ids": [
+        "bft1YyeSY_w:s0193",
+        "bft1YyeSY_w:s0194"
+      ],
+      "start_s": 1429.444,
+      "end_s": 1454.109,
+      "text": "Here's what all of this adds up to, and it is genuinely worth sitting with for a moment. was not a crude, undeveloped prototype of what came later.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.9139667519181586
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0098",
+      "video_id": "bft1YyeSY_w",
+      "idx": 98,
+      "sent_ids": [
+        "bft1YyeSY_w:s0195",
+        "bft1YyeSY_w:s0196"
+      ],
+      "start_s": 1454.65,
+      "end_s": 1462.813,
+      "text": "In several important respects, it was more sophisticated than the early written codes that replaced it. It had genuine proportionality built in from the ground up.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.9300831202046036
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0099",
+      "video_id": "bft1YyeSY_w",
+      "idx": 99,
+      "sent_ids": [
+        "bft1YyeSY_w:s0197",
+        "bft1YyeSY_w:s0198",
+        "bft1YyeSY_w:s0199"
+      ],
+      "start_s": 1463.313,
+      "end_s": 1474.077,
+      "text": "It had multi-stage process with space for correction at every level. It had a distributional ethics encoded in its design. The powerful were not exempt from social sanction.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.9356221227621484
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0100",
+      "video_id": "bft1YyeSY_w",
+      "idx": 100,
+      "sent_ids": [
+        "bft1YyeSY_w:s0200",
+        "bft1YyeSY_w:s0201"
+      ],
+      "start_s": 1474.497,
+      "end_s": 1487.64,
+      "text": "The entire point of the reverse dominance hierarchy was that nobody was exempt. Being stronger or better at hunting or more charismatic bought you no protection whatsoever from communal enforcement of shared behavioral norms.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.9427730179028133
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0101",
+      "video_id": "bft1YyeSY_w",
+      "idx": 101,
+      "sent_ids": [
+        "bft1YyeSY_w:s0202",
+        "bft1YyeSY_w:s0203"
+      ],
+      "start_s": 1488.2,
+      "end_s": 1501.387,
+      "text": "If anything, accumulating any of those advantages made the community watch you more carefully, not less. The shift to written codes, formal institutions, and professional legal systems brought genuine irreplaceable benefits.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.95153452685422
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0102",
+      "video_id": "bft1YyeSY_w",
+      "idx": 102,
+      "sent_ids": [
+        "bft1YyeSY_w:s0204",
+        "bft1YyeSY_w:s0205"
+      ],
+      "start_s": 1501.847,
+      "end_s": 1511.414,
+      "text": "Predictability across a much larger population. Protection from purely arbitrary individual decisions by whoever happened to have power at any given moment.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.9602602301790282
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0103",
+      "video_id": "bft1YyeSY_w",
+      "idx": 103,
+      "sent_ids": [
+        "bft1YyeSY_w:s0206",
+        "bft1YyeSY_w:s0207"
+      ],
+      "start_s": 1511.915,
+      "end_s": 1527.672,
+      "text": "The ability to govern communities far too large for everyone to know everyone personally. but it also introduced the formalization of social inequality into the structure of justice itself in a way that the hunter-gatherer system had been actively and consciously fighting against for most of human existence.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.9666975703324808
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0104",
+      "video_id": "bft1YyeSY_w",
+      "idx": 104,
+      "sent_ids": [
+        "bft1YyeSY_w:s0208"
+      ],
+      "start_s": 1528.433,
+      "end_s": 1541.157,
+      "text": "The ancient human standing in collective judgment over a chronic bully who had refused every lesser intervention the community offered didn't have a courtroom or a gavel or a legal code or a professional vocabulary for what they were doing.",
+      "n_words": 40,
+      "n_sentences": 1,
+      "pos_pct": 0.9772589514066496
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0105",
+      "video_id": "bft1YyeSY_w",
+      "idx": 105,
+      "sent_ids": [
+        "bft1YyeSY_w:s0209",
+        "bft1YyeSY_w:s0210"
+      ],
+      "start_s": 1542.297,
+      "end_s": 1553.609,
+      "text": "But they had something that every court in every civilization that followed was trying, with varying degrees of success, to replicate. The genuine consensus of a community that collectively cared about the outcome.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.9861234015345268
+    },
+    {
+      "window_id": "bft1YyeSY_w:j0106",
+      "video_id": "bft1YyeSY_w",
+      "idx": 106,
+      "sent_ids": [
+        "bft1YyeSY_w:s0211",
+        "bft1YyeSY_w:s0212"
+      ],
+      "start_s": 1554.269,
+      "end_s": 1563.359,
+      "text": "Everything else, the codes, the courts, the carved stone pillars, the lawyers, was infrastructure. The impulse it was built around was already fully formed before any of it existed.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.9937781329923274
+    }
+  ]
+}

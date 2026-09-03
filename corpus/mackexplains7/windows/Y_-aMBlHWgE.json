@@ -1,0 +1,1844 @@
+{
+  "video_id": "Y_-aMBlHWgE",
+  "generated_at": "2026-09-03T13:18:13.129292+00:00",
+  "windows": [
+    {
+      "window_id": "Y_-aMBlHWgE:j0000",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 0,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0000",
+        "Y_-aMBlHWgE:s0001",
+        "Y_-aMBlHWgE:s0002"
+      ],
+      "start_s": 0.071,
+      "end_s": 7.438,
+      "text": "You are standing in your kitchen when you notice something impossible. Maybe the clock changes every time you look at it. Maybe the doorway leads to a beach.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 5.440613026819923e-05
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0001",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 1,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0003",
+        "Y_-aMBlHWgE:s0004",
+        "Y_-aMBlHWgE:s0005",
+        "Y_-aMBlHWgE:s0006"
+      ],
+      "start_s": 7.778,
+      "end_s": 18.929,
+      "text": "Maybe your dog is explaining tax law with suspicious confidence. Normally the dream continues and you accept all of this. Of course the kitchen opens onto the ocean. Of course the dog is an accountant.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.00596015325670498
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0002",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 2,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0007",
+        "Y_-aMBlHWgE:s0008",
+        "Y_-aMBlHWgE:s0009",
+        "Y_-aMBlHWgE:s0010"
+      ],
+      "start_s": 19.129,
+      "end_s": 30.099,
+      "text": "Then a thought appears that almost never appears inside a dream. Wait, this is not real. You look around and the entire world changes without changing at all. The walls remain solid.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.014658237547892722
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0003",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 3,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0011",
+        "Y_-aMBlHWgE:s0012",
+        "Y_-aMBlHWgE:s0013",
+        "Y_-aMBlHWgE:s0014"
+      ],
+      "start_s": 30.42,
+      "end_s": 39.888,
+      "text": "The floor still supports you. Light reflects from every surface. Your body feels present. But now you understand that none of it is entering through your eyes.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.023310344827586208
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0004",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 4,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0015",
+        "Y_-aMBlHWgE:s0016",
+        "Y_-aMBlHWgE:s0017"
+      ],
+      "start_s": 40.209,
+      "end_s": 48.157,
+      "text": "You are asleep. And somehow, inside the hallucination, you have become conscious of the hallucination. This is a lucid dream.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.030811494252873564
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0005",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 5,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0018",
+        "Y_-aMBlHWgE:s0019",
+        "Y_-aMBlHWgE:s0020"
+      ],
+      "start_s": 48.578,
+      "end_s": 58.168,
+      "text": "It sounds like waking up without opening your eyes, but that description misses what makes the experience so strange. You have not fully awakened. Your physical body remains in bed.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.03722452107279694
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0006",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 6,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0021",
+        "Y_-aMBlHWgE:s0022",
+        "Y_-aMBlHWgE:s0023"
+      ],
+      "start_s": 58.488,
+      "end_s": 68.54,
+      "text": "often in rapid eye movement sleep. Most of your muscles are inhibited, the room around you is still absent from awareness. Yet part of the mind that normally accepts the dream has returned.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.0448183908045977
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0007",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 7,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0024",
+        "Y_-aMBlHWgE:s0025",
+        "Y_-aMBlHWgE:s0026"
+      ],
+      "start_s": 68.66,
+      "end_s": 76.169,
+      "text": "You can question what is happening. You may remember your waking life. You may make decisions, carry out a plan, or attempt to control the world around you.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.05261302681992337
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0008",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 8,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0027",
+        "Y_-aMBlHWgE:s0028"
+      ],
+      "start_s": 76.449,
+      "end_s": 85.843,
+      "text": "for a few moments, the sleeping brain becomes both the creator of reality and the only person who knows it is fake. So what actually happens when you become conscious inside a dream?",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.0585816091954023
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0009",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 9,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0029",
+        "Y_-aMBlHWgE:s0030",
+        "Y_-aMBlHWgE:s0031"
+      ],
+      "start_s": 86.103,
+      "end_s": 97.057,
+      "text": "The first surprise is that ordinary dreams are already conscious experiences. You see, hear, feel, fear, desire, and act within them. A nightmare can make your heart race even though the threat does not exist.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.06597931034482758
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0010",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 10,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0032",
+        "Y_-aMBlHWgE:s0033"
+      ],
+      "start_s": 97.277,
+      "end_s": 100.561,
+      "text": "Dream pain can feel unpleasant. Dream food may have taste.",
+      "n_words": 10,
+      "n_sentences": 2,
+      "pos_pct": 0.07454176245210728
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0011",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 11,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0034",
+        "Y_-aMBlHWgE:s0035"
+      ],
+      "start_s": 100.761,
+      "end_s": 112.694,
+      "text": "Dream characters can appear intelligent enough to argue with you, which is impressive considering they are being generated by the same brain currently losing that argument. What ordinary dreams usually lack is not consciousness itself.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.07721149425287356
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0012",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 12,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0036",
+        "Y_-aMBlHWgE:s0037",
+        "Y_-aMBlHWgE:s0038",
+        "Y_-aMBlHWgE:s0039"
+      ],
+      "start_s": 112.974,
+      "end_s": 123.403,
+      "text": "They lack insight. You experience the world without recognizing its source. You do not ask why your childhood home is floating above a city you have never visited. Critical reflection is reduced.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.08657011494252874
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0013",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 13,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0040",
+        "Y_-aMBlHWgE:s0041",
+        "Y_-aMBlHWgE:s0042",
+        "Y_-aMBlHWgE:s0043"
+      ],
+      "start_s": 123.624,
+      "end_s": 133.649,
+      "text": "Memory becomes unstable. Contradictions are absorbed into the story rather than examined. During waking life, the brain constantly evaluates reality. Does this fit what I know?",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.09473103448275862
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0014",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 14,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0044",
+        "Y_-aMBlHWgE:s0045",
+        "Y_-aMBlHWgE:s0046",
+        "Y_-aMBlHWgE:s0047"
+      ],
+      "start_s": 133.929,
+      "end_s": 146.093,
+      "text": "How did I get here? What happened five minutes ago? In ordinary dreams, those questions often disappear or receive instant fictional answers. The brain becomes an excellent special effects department supervised by nobody.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.10262758620689655
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0015",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 15,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0048",
+        "Y_-aMBlHWgE:s0049",
+        "Y_-aMBlHWgE:s0050",
+        "Y_-aMBlHWgE:s0051"
+      ],
+      "start_s": 146.353,
+      "end_s": 154.235,
+      "text": "Lucidity begins when supervision returns. Sometimes the trigger is an obvious impossibility. You fly accidentally. A dead relative appears.",
+      "n_words": 19,
+      "n_sentences": 4,
+      "pos_pct": 0.11214789272030652
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0016",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 16,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0052",
+        "Y_-aMBlHWgE:s0053",
+        "Y_-aMBlHWgE:s0054",
+        "Y_-aMBlHWgE:s0055"
+      ],
+      "start_s": 154.635,
+      "end_s": 165.424,
+      "text": "Your hands look distorted. Written words refuse to remain still. You recognize a recurring location or a nightmare you have experienced before. Other lucid dreams begin without a clear trigger.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.11849425287356322
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0017",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 17,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0056",
+        "Y_-aMBlHWgE:s0057",
+        "Y_-aMBlHWgE:s0058",
+        "Y_-aMBlHWgE:s0059"
+      ],
+      "start_s": 165.665,
+      "end_s": 173.651,
+      "text": "The knowledge simply arrives. This is a dream. That realization is a metacognitive act. Metacognition means thinking about your own mental state.",
+      "n_words": 22,
+      "n_sentences": 4,
+      "pos_pct": 0.1269463601532567
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0018",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 18,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0060",
+        "Y_-aMBlHWgE:s0061",
+        "Y_-aMBlHWgE:s0062"
+      ],
+      "start_s": 173.791,
+      "end_s": 185.661,
+      "text": "Instead of merely seeing the kitchen, you recognize that your mind is producing the kitchen. The dream becomes an object of awareness while you remain inside it. This sounds philosophically complicated because it is.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.13317318007662834
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0019",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 19,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0063",
+        "Y_-aMBlHWgE:s0064"
+      ],
+      "start_s": 186.121,
+      "end_s": 196.428,
+      "text": "The brain has constructed a self, placed that self in a world, and then allowed the self to discover that both are constructions. Researchers once treated reports of lucid dreaming with suspicion.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.14262145593869732
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0020",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 20,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0065",
+        "Y_-aMBlHWgE:s0066",
+        "Y_-aMBlHWgE:s0067"
+      ],
+      "start_s": 196.869,
+      "end_s": 204.914,
+      "text": "A sleeping person could claim anything after waking. Perhaps the supposed lucid dream occurred during a brief awakening. Perhaps the memory was reconstructed afterward.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.15085747126436783
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0021",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 21,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0068",
+        "Y_-aMBlHWgE:s0069",
+        "Y_-aMBlHWgE:s0070"
+      ],
+      "start_s": 205.014,
+      "end_s": 217.042,
+      "text": "Perhaps the participant was simply trying to impress a scientist, a strategy with historically limited benefits. The solution came from the eyes. During rapid eye movement sleep, most skeletal muscles are strongly inhibited.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.15709885057471265
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0022",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 22,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0071",
+        "Y_-aMBlHWgE:s0072"
+      ],
+      "start_s": 217.882,
+      "end_s": 224.845,
+      "text": "This REM atonia helps prevent the body from acting out vivid dreams. But the eye muscles remain active.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.16695938697318008
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0023",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 23,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0073",
+        "Y_-aMBlHWgE:s0074"
+      ],
+      "start_s": 225.026,
+      "end_s": 239.293,
+      "text": "Researchers realized that trained lucid dreamers could agree on a signal before sleep, usually a distinctive sequence of looking left and right. Inside the dream, the person becomes lucid and deliberately moves their dream gaze left, right, left, right.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.17243371647509578
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0024",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 24,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0075",
+        "Y_-aMBlHWgE:s0076"
+      ],
+      "start_s": 240.173,
+      "end_s": 253.841,
+      "text": "The physical eyes move in the same pattern beneath closed eyelids. Laboratory recordings capture the signal while brain, activity, muscle tone, and eye movements confirm that the participant remains in REM sleep.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.18404061302681993
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0025",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 25,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0077",
+        "Y_-aMBlHWgE:s0078"
+      ],
+      "start_s": 254.021,
+      "end_s": 263.186,
+      "text": "The dreamer has sent a message from inside the dream without waking up. That signal transformed lucid dreaming from an interesting story into an experimentally verifiable state.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.19465210727969348
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0026",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 26,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0079",
+        "Y_-aMBlHWgE:s0080"
+      ],
+      "start_s": 263.446,
+      "end_s": 274.212,
+      "text": "It also created one of the strangest clocks in science. A dreamer can signal the instant lucidity begins, perform a planned task, signal again, and then describe the experience after waking.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.20187432950191572
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0027",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 27,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0081",
+        "Y_-aMBlHWgE:s0082"
+      ],
+      "start_s": 274.512,
+      "end_s": 281.854,
+      "text": "Researchers can align events reported inside the dream with changes recorded in the sleeping body. What they find is not a brain becoming fully awake.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.21035402298850575
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0028",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 28,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0083",
+        "Y_-aMBlHWgE:s0084"
+      ],
+      "start_s": 282.114,
+      "end_s": 299.378,
+      "text": "Lucid dreaming appears to be a hybrid state with features of both ordinary REM dreaming and reflective waking consciousness. The sleeper remains physiologically asleep, but brain systems involved in self-reflection, attention, working memory, and voluntary control become more engaged than during typical dreams.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.21617931034482757
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0029",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 29,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0085",
+        "Y_-aMBlHWgE:s0086"
+      ],
+      "start_s": 299.598,
+      "end_s": 310.248,
+      "text": "Evidence points especially toward regions in the prefrontal and parietal cortex. These areas help monitor thought, evaluate information, direct attention, and maintain a model of the self.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.22957701149425289
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0030",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 30,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0087",
+        "Y_-aMBlHWgE:s0088"
+      ],
+      "start_s": 310.548,
+      "end_s": 322.518,
+      "text": "They are often less active during ordinary REM sleep, which may help explain why impossible events receive so little criticism. During lucidity, parts of this network appear to reactivate or communicate more strongly.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.23796781609195403
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0031",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 31,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0089",
+        "Y_-aMBlHWgE:s0090",
+        "Y_-aMBlHWgE:s0091",
+        "Y_-aMBlHWgE:s0092"
+      ],
+      "start_s": 322.659,
+      "end_s": 334.107,
+      "text": "The sleeping brain does not turn everything back on. It restores just enough executive function for the dreamer to recognize the situation. Imagine a theater performing without a director. Sets change randomly.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.24724827586206896
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0032",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 32,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0093",
+        "Y_-aMBlHWgE:s0094",
+        "Y_-aMBlHWgE:s0095"
+      ],
+      "start_s": 334.708,
+      "end_s": 342.593,
+      "text": "Actors invent dialogue. Scenes begin halfway through and end in different countries. Lucidity is not the theater closing.",
+      "n_words": 18,
+      "n_sentences": 3,
+      "pos_pct": 0.2564812260536399
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0033",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 33,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0096",
+        "Y_-aMBlHWgE:s0097"
+      ],
+      "start_s": 342.673,
+      "end_s": 353.403,
+      "text": "It is the director suddenly appearing on stage and realizing the audience, actors, and building are all part of the same production. This helps explain why lucid awareness and dream control are different.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.26258467432950194
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0034",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 34,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0098",
+        "Y_-aMBlHWgE:s0099"
+      ],
+      "start_s": 353.703,
+      "end_s": 362.29,
+      "text": "Knowing you are dreaming does not automatically make you all-powerful. Some people become lucid and can fly, change locations, summon characters, or reshape the environment.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.27103678160919537
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0035",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 35,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0100",
+        "Y_-aMBlHWgE:s0101",
+        "Y_-aMBlHWgE:s0102"
+      ],
+      "start_s": 363.071,
+      "end_s": 374.074,
+      "text": "Others know they are dreaming, but remain unable to alter anything. They may be trapped in the same nightmare, now with the additional information that their own brain is refusing customer support. Lucidity is insight.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.2782153256704981
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0036",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 36,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0103",
+        "Y_-aMBlHWgE:s0104",
+        "Y_-aMBlHWgE:s0105"
+      ],
+      "start_s": 374.634,
+      "end_s": 388.477,
+      "text": "Control is a separate skill, and an unreliable one. The dream world is generated by expectations, emotion, memory, attention, and ongoing unconscious activity. A deliberate intention must compete with all of them.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.2870758620689655
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0037",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 37,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0106",
+        "Y_-aMBlHWgE:s0107"
+      ],
+      "start_s": 388.817,
+      "end_s": 401.984,
+      "text": "If you expect a locked door to remain locked, it may remain locked even while you know no physical lock exists. If you fear that a monster is behind you, your brain has just received an extremely efficient suggestion.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.297944061302682
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0038",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 38,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0108",
+        "Y_-aMBlHWgE:s0109"
+      ],
+      "start_s": 402.224,
+      "end_s": 412.75,
+      "text": "Trying to force a change can therefore fail. A dreamer may command a person to appear and receive nothing, but if they expect that person to be behind the next door, the scene may cooperate.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.30821762452107276
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0039",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 39,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0110",
+        "Y_-aMBlHWgE:s0111"
+      ],
+      "start_s": 413.49,
+      "end_s": 426.857,
+      "text": "Flying can become easier if the dreamer imagines being lifted rather than attempting to violate gravity through determination alone. The mechanism resembles perception because waking perception is also prediction shaped by sensory input.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.31685057471264366
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0040",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 40,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0112",
+        "Y_-aMBlHWgE:s0113",
+        "Y_-aMBlHWgE:s0114"
+      ],
+      "start_s": 427.077,
+      "end_s": 436.762,
+      "text": "The brain does not passively record the world. It builds a model and continually corrects that model using signals from the senses. In a dream, external correction is greatly reduced.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.32726206896551724
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0041",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 41,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0115",
+        "Y_-aMBlHWgE:s0116",
+        "Y_-aMBlHWgE:s0117"
+      ],
+      "start_s": 436.962,
+      "end_s": 444.487,
+      "text": "Prediction is almost the entire world. That is why dream objects can feel solid. Your brain already knows what solidity should feel like.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.3348367816091954
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0042",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 42,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0118",
+        "Y_-aMBlHWgE:s0119",
+        "Y_-aMBlHWgE:s0120"
+      ],
+      "start_s": 444.647,
+      "end_s": 457.739,
+      "text": "It can generate pressure, texture, weight, temperature, and resistance without the object existing. The same system that interprets sensory information while awake can simulate sensory information while asleep. Studies of eye movement make this vivid.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.3407256704980843
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0043",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 43,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0121",
+        "Y_-aMBlHWgE:s0122"
+      ],
+      "start_s": 457.819,
+      "end_s": 470.025,
+      "text": "When lucid dreamers follow a smoothly moving object inside a dream, their physical eyes can show smooth tracking, similar to waking perception. People generally struggle to produce the same smooth pursuit when merely imagining an object while awake.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.3508191570881226
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0044",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 44,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0123",
+        "Y_-aMBlHWgE:s0124",
+        "Y_-aMBlHWgE:s0125"
+      ],
+      "start_s": 470.245,
+      "end_s": 480.53,
+      "text": "In that respect, seeing inside a lucid dream can resemble genuine perception more than ordinary imagination. The brain is not dimly picturing a scene. It is rendering one as current reality.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.3603409961685824
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0045",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 45,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0126",
+        "Y_-aMBlHWgE:s0127",
+        "Y_-aMBlHWgE:s0128"
+      ],
+      "start_s": 480.59,
+      "end_s": 490.477,
+      "text": "This also explains why lucidity can be overwhelming. The first realization may produce excitement, fear, or disbelief. The dream suddenly feels like a private universe with no obvious limits.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.36826819923371645
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0046",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 46,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0129",
+        "Y_-aMBlHWgE:s0130"
+      ],
+      "start_s": 490.697,
+      "end_s": 501.704,
+      "text": "Many beginners immediately attempt something dramatic, become intensely excited, and wake up three seconds later, having achieved the historic accomplishment of noticing a wall. Arousal can destabilize sleep.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.3760130268199234
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0047",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 47,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0131",
+        "Y_-aMBlHWgE:s0132"
+      ],
+      "start_s": 501.924,
+      "end_s": 516.091,
+      "text": "The boundary between REM sleep and waking is dynamic, especially toward morning when lucid dreams are common. Strong emotion, attention to the physical body, or changes in brain activation may push the sleeper toward awakening.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.38461609195402297
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0048",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 48,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0133",
+        "Y_-aMBlHWgE:s0134",
+        "Y_-aMBlHWgE:s0135"
+      ],
+      "start_s": 516.591,
+      "end_s": 531.356,
+      "text": "But dreams do not always collapse instantly. Experienced lucid dreamers often report that focusing on dream sensations helps maintain the scene. They touch objects, examine details, rub their hands together, or rotate their dream body.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.3958551724137931
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0049",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 49,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0136",
+        "Y_-aMBlHWgE:s0137"
+      ],
+      "start_s": 532.416,
+      "end_s": 540.881,
+      "text": "These techniques are widely discussed, although the scientific evidence comparing specific stabilization methods remains limited. The underlying idea is plausible.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.40798160919540233
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0050",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 50,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0138",
+        "Y_-aMBlHWgE:s0139"
+      ],
+      "start_s": 541.582,
+      "end_s": 550.848,
+      "text": "Attention directed toward the dream may strengthen immersion, while thinking about the sleeping body may increase the chance of waking. Yet stability has a strange cost.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.4150053639846743
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0051",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 51,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0140",
+        "Y_-aMBlHWgE:s0141"
+      ],
+      "start_s": 551.508,
+      "end_s": 565.763,
+      "text": "The more convincing the dream becomes, the easier it may be to forget that it is a dream. By the way, if you want to go even deeper into the secret lives of ancient humans, I just launched a full course called The Secret Lives of Ancient Humans.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.4226114942528736
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0052",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 52,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0142",
+        "Y_-aMBlHWgE:s0143",
+        "Y_-aMBlHWgE:s0144"
+      ],
+      "start_s": 566.443,
+      "end_s": 580.198,
+      "text": "Ten modules, three plus hours of content, covering everything we never talk about on YouTube. what they feared, how they communicated, what hunted them, and much more. Plus an exclusive PDF guide included.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.434055938697318
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0053",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 53,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0145",
+        "Y_-aMBlHWgE:s0146",
+        "Y_-aMBlHWgE:s0147",
+        "Y_-aMBlHWgE:s0148"
+      ],
+      "start_s": 580.759,
+      "end_s": 592.112,
+      "text": "Link in the description. See you inside. Lucidity is not always permanent. A person can gain insight, perform one action, become absorbed in the resulting story, and lose awareness again.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.44502605363984676
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0054",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 54,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0149",
+        "Y_-aMBlHWgE:s0150"
+      ],
+      "start_s": 592.913,
+      "end_s": 599.299,
+      "text": "The director returns backstage, and within seconds the flying accountant dog is accepted as normal. Memory is one of the weak points.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.4543394636015326
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0055",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 55,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0151",
+        "Y_-aMBlHWgE:s0152"
+      ],
+      "start_s": 599.82,
+      "end_s": 609.97,
+      "text": "You may remember that you wanted to ask a dream character a question, visit a location, or signal researchers with your eyes. But waking life intentions compete with the dream's constantly changing events.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.459632183908046
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0056",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 56,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0153",
+        "Y_-aMBlHWgE:s0154",
+        "Y_-aMBlHWgE:s0155"
+      ],
+      "start_s": 610.63,
+      "end_s": 624.278,
+      "text": "Prospective memory, the ability to remember to do something later, often fails even while awake. Inside a dream, it is operating during a neurological improvisation festival. This is why laboratory participants practice tasks before sleep.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.4679157088122605
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0057",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 57,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0156",
+        "Y_-aMBlHWgE:s0157"
+      ],
+      "start_s": 625.219,
+      "end_s": 637.902,
+      "text": "The plan must be simple enough to survive the transition into dreaming, and some dreamers have performed remarkable tasks. In experiments conducted across several laboratories, people in verified REM sleep received questions from researchers in real time.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.4790950191570882
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0058",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 58,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0158",
+        "Y_-aMBlHWgE:s0159"
+      ],
+      "start_s": 638.283,
+      "end_s": 650.072,
+      "text": "Spoken words, flashing lights, or touch signals were presented to the sleeping participant. Some lucid dreamers perceived these questions inside the dream and answered using agreed eye movements or facial muscle signals.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.4891057471264368
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0059",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 59,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0160",
+        "Y_-aMBlHWgE:s0161",
+        "Y_-aMBlHWgE:s0162",
+        "Y_-aMBlHWgE:s0163"
+      ],
+      "start_s": 650.392,
+      "end_s": 662.806,
+      "text": "Researchers asked simple arithmetic. The sleeping participants sometimes calculated correctly. One dreamer heard a question as if it came through a car radio. Another perceived the experimenter's voice from outside the dream.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.49838467432950195
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0060",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 60,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0164",
+        "Y_-aMBlHWgE:s0165",
+        "Y_-aMBlHWgE:s0166"
+      ],
+      "start_s": 662.866,
+      "end_s": 676.461,
+      "text": "The external signal was incorporated into the internal story, yet the person could understand it and respond. This created two-way communication with someone who was asleep and dreaming, not reliably. Many questions received no answer.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.507943295019157
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0061",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 61,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0167",
+        "Y_-aMBlHWgE:s0168",
+        "Y_-aMBlHWgE:s0169"
+      ],
+      "start_s": 677.022,
+      "end_s": 685.725,
+      "text": "Some were misunderstood. Some dreamers later reported no awareness of stimulation. the connection had approximately the stability of a phone call inside a tunnel.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.5187908045977012
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0062",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 62,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0170",
+        "Y_-aMBlHWgE:s0171",
+        "Y_-aMBlHWgE:s0172"
+      ],
+      "start_s": 686.385,
+      "end_s": 696.05,
+      "text": "But successful exchanges proved that the dreaming mind is not completely sealed. External information can enter the dream. The lucid dreamer can process it.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.5259655172413793
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0063",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 63,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0173",
+        "Y_-aMBlHWgE:s0174"
+      ],
+      "start_s": 696.67,
+      "end_s": 705.935,
+      "text": "A planned response can travel back through the eyes or small muscles still available during REM sleep. The dream becomes a live experimental space rather than a story recalled only after it ends.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.5338467432950191
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0064",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 64,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0175",
+        "Y_-aMBlHWgE:s0176"
+      ],
+      "start_s": 706.195,
+      "end_s": 715.314,
+      "text": "time inside that space behaves more normally than popular claims suggest. A common myth says a few minutes of sleep can contain years of detailed subjective experience.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.5411455938697318
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0065",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 65,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0177",
+        "Y_-aMBlHWgE:s0178"
+      ],
+      "start_s": 716.12,
+      "end_s": 728.048,
+      "text": "Dreams can imply long histories, just as a movie can suggest that months have passed between scenes. But when lucid dreamers perform timed actions, simple counting often takes roughly as long as it does while awake.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.5487509578544061
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0066",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 66,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0179",
+        "Y_-aMBlHWgE:s0180"
+      ],
+      "start_s": 728.408,
+      "end_s": 743.818,
+      "text": "Some motor tasks take longer in dreams, possibly because simulated movement lacks normal sensory feedback, or because dream actions require more cognitive effort. But there is no strong evidence that a person can live an uninterrupted second lifetime during a 20-minute nap.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.5581670498084291
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0067",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 67,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0181",
+        "Y_-aMBlHWgE:s0182",
+        "Y_-aMBlHWgE:s0183"
+      ],
+      "start_s": 744.618,
+      "end_s": 755.506,
+      "text": "The dream can fake a past more easily than it can generate every second of one. Your body also remains involved, even while mostly immobilized. Dreamed breathing can influence real breathing.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.5705885057471265
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0068",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 68,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0184",
+        "Y_-aMBlHWgE:s0185"
+      ],
+      "start_s": 755.947,
+      "end_s": 762.812,
+      "text": "Emotional dream events can change heart rate and physiological arousal. Deliberate eye movements correspond to physical eye movements.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.5792697318007662
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0069",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 69,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0186",
+        "Y_-aMBlHWgE:s0187"
+      ],
+      "start_s": 763.572,
+      "end_s": 775.764,
+      "text": "Brain regions involved in planned movement may activate when the dreamer runs, clenches a hand, or performs another action, even though our amatonia prevents the large muscles from completing it. The result is a peculiar split.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.585112643678161
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0070",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 70,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0188",
+        "Y_-aMBlHWgE:s0189",
+        "Y_-aMBlHWgE:s0190"
+      ],
+      "start_s": 776.244,
+      "end_s": 783.771,
+      "text": "The dream body moves through an unlimited environment. The physical body lies almost motionless. Usually this paralysis is never noticed.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.5948229885057471
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0071",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 71,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0191",
+        "Y_-aMBlHWgE:s0192",
+        "Y_-aMBlHWgE:s0193"
+      ],
+      "start_s": 784.292,
+      "end_s": 795.042,
+      "text": "The dream supplies a functioning body, so there is no reason to search for the real one. Problems arise near awakening. Sometimes awareness returns before REM atonia has fully ended.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.6009900383141763
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0072",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 72,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0194",
+        "Y_-aMBlHWgE:s0195",
+        "Y_-aMBlHWgE:s0196",
+        "Y_-aMBlHWgE:s0197"
+      ],
+      "start_s": 795.602,
+      "end_s": 805.075,
+      "text": "The person realizes they are in bed but cannot move. Dream imagery may continue intruding into the perceived bedroom. A figure appears near the door. Pressure seems to sit on the chest.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.6096567049808429
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0073",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 73,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0198",
+        "Y_-aMBlHWgE:s0199",
+        "Y_-aMBlHWgE:s0200"
+      ],
+      "start_s": 805.236,
+      "end_s": 814.408,
+      "text": "Footsteps approach. This is sleep paralysis, not the same thing as lucid dreaming. though the two can occur near each other and share features of REM sleep.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.6170390804597701
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0074",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 74,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0201",
+        "Y_-aMBlHWgE:s0202"
+      ],
+      "start_s": 814.528,
+      "end_s": 827.746,
+      "text": "The experience can be terrifying because the brain is partially awake, the body remains inhibited, and threat detection systems attempt to explain the situation. The presence in the room feels real for the same reason the lucid dream felt real.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.6241593869731801
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0075",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 75,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0203",
+        "Y_-aMBlHWgE:s0204"
+      ],
+      "start_s": 828.387,
+      "end_s": 838.35,
+      "text": "the brain can construct perception without adequate external input. For some experienced dreamers, sleep paralysis becomes an entrance back into a lucid dream.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.6347793103448276
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0076",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 76,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0205",
+        "Y_-aMBlHWgE:s0206"
+      ],
+      "start_s": 838.39,
+      "end_s": 846.534,
+      "text": "For others, it is several seconds of discovering that their bedroom has terrible supernatural security. Another confusing event is the false awakening.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.6424444444444445
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0077",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 77,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0207",
+        "Y_-aMBlHWgE:s0208",
+        "Y_-aMBlHWgE:s0209"
+      ],
+      "start_s": 846.634,
+      "end_s": 856.241,
+      "text": "You wake up, sit up, check your phone, walk into the bathroom, and then notice something impossible. You never woke up. The dream simulated awakening, including a convincing copy of your room and morning routine.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.6487616858237548
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0078",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 78,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0210",
+        "Y_-aMBlHWgE:s0211"
+      ],
+      "start_s": 856.441,
+      "end_s": 868.07,
+      "text": "A lucid dream can end in a false awakening, causing the dreamer to believe lucidity is over. Some people experience several false awakenings in sequence, creating the impression of being trapped inside layers of dreams.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.6562766283524905
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0079",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 79,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0212",
+        "Y_-aMBlHWgE:s0213"
+      ],
+      "start_s": 868.25,
+      "end_s": 877.018,
+      "text": "There are no literal nested neurological worlds. The brain is generating a new dream scene whose content is, I woke up, but from inside the distinction is useless.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.6653256704980843
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0080",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 80,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0214",
+        "Y_-aMBlHWgE:s0215",
+        "Y_-aMBlHWgE:s0216"
+      ],
+      "start_s": 877.659,
+      "end_s": 886.929,
+      "text": "Each fake room feels like the real one until tested. This reveals the unsettling lesson of lucid dreaming. Certainty is a feeling produced by the brain.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.672535632183908
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0081",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 81,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0217",
+        "Y_-aMBlHWgE:s0218"
+      ],
+      "start_s": 887.55,
+      "end_s": 896.796,
+      "text": "During ordinary dreams, that feeling attaches itself to impossible events. During false awakenings, it attaches itself to a fictional bedroom.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.6801149425287356
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0082",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 82,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0219",
+        "Y_-aMBlHWgE:s0220"
+      ],
+      "start_s": 897.316,
+      "end_s": 908.284,
+      "text": "During waking life, sensory evidence usually constrains it far more effectively, but the brain is still constructing a model. Lucid dreamers often use reality tests to identify the state.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.6875984674329502
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0083",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 83,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0221",
+        "Y_-aMBlHWgE:s0222"
+      ],
+      "start_s": 908.625,
+      "end_s": 919.575,
+      "text": "They try reading text twice, checking a clock, counting fingers, breathing through a pinched nose, or asking how they arrived somewhere. The exact test is less important than the habit of critical reflection.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.6962643678160919
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0084",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 84,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0223",
+        "Y_-aMBlHWgE:s0224"
+      ],
+      "start_s": 920.095,
+      "end_s": 928.66,
+      "text": "If performed repeatedly while awake, the habit may eventually appear inside a dream. Dream journaling can improve recall, making recurring patterns easier to recognize.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.7050536398467433
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0085",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 85,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0225",
+        "Y_-aMBlHWgE:s0226"
+      ],
+      "start_s": 928.84,
+      "end_s": 940.887,
+      "text": "A technique called mnemonic induction involves waking after a dream, rehearsing it, and forming a strong intention to recognize the next dream. Combining this with returning to sleep later in the night can increase the chance of lucidity for some people.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.7117547892720307
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0086",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 86,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0227",
+        "Y_-aMBlHWgE:s0228"
+      ],
+      "start_s": 941.707,
+      "end_s": 952.695,
+      "text": "None of these methods guarantees success. And repeatedly interrupting sleep to chase lucid dreams can leave a person tired, which is an impressive way to make sleep into a source of sleep deprivation.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.7216145593869732
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0087",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 87,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0229",
+        "Y_-aMBlHWgE:s0230"
+      ],
+      "start_s": 953.535,
+      "end_s": 965.624,
+      "text": "Supplements and prescription substances are sometimes promoted as shortcuts. Some compounds affecting acetylcholine have increased lucid dream frequency in studies, but they can have side effects and interactions.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.7306781609195402
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0088",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 88,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0231",
+        "Y_-aMBlHWgE:s0232",
+        "Y_-aMBlHWgE:s0233"
+      ],
+      "start_s": 966.524,
+      "end_s": 977.09,
+      "text": "Using medication without medical guidance to manipulate sleep is not a harmless experiment. Lucid dreaming itself is not generally considered dangerous for most healthy people. Many experiences are enjoyable.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.7406314176245211
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0089",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 89,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0234",
+        "Y_-aMBlHWgE:s0235"
+      ],
+      "start_s": 977.81,
+      "end_s": 990.358,
+      "text": "Some people use lucidity to confront recurring nightmares, change their response to threatening imagery, practice skills, explore creativity, or simply experience impossible events. But the benefits are not automatic.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.74927969348659
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0090",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 90,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0236",
+        "Y_-aMBlHWgE:s0237",
+        "Y_-aMBlHWgE:s0238"
+      ],
+      "start_s": 991.019,
+      "end_s": 1000.168,
+      "text": "Trying intensely to induce lucidity can fragment sleep. Lucid nightmares exist. Awareness without control may make a frightening dream feel more frustrating.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.7594015325670498
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0091",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 91,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0239",
+        "Y_-aMBlHWgE:s0240"
+      ],
+      "start_s": 1000.768,
+      "end_s": 1017.086,
+      "text": "people vulnerable to dissociation, psychosis, severe sleep disruption, or difficulty distinguishing internal experience from external reality should be cautious about practices designed to blur that boundary further. Research into therapeutic use is promising but still limited.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.766872030651341
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0092",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 92,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0241",
+        "Y_-aMBlHWgE:s0242"
+      ],
+      "start_s": 1017.807,
+      "end_s": 1030.562,
+      "text": "Lucid dream training may help some nightmare sufferers recognize that the threat is unreal or alter what happens next. Yet success varies, study samples are often small, and becoming lucid is itself difficult to produce on command.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.7799287356321839
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0093",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 93,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0243",
+        "Y_-aMBlHWgE:s0244",
+        "Y_-aMBlHWgE:s0245"
+      ],
+      "start_s": 1030.602,
+      "end_s": 1039.95,
+      "text": "Could the dream be used as a training simulator? To a limited degree, perhaps. Dreamed movement recruits parts of the same neural systems involved in planning real movement.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.7897333333333334
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0094",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 94,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0246",
+        "Y_-aMBlHWgE:s0247"
+      ],
+      "start_s": 1040.631,
+      "end_s": 1052.078,
+      "text": "Athletes and musicians already use waking mental rehearsal, and lucid dreaming offers a more immersive form of simulation. Small studies have reported improvement after practicing certain motor tasks in lucid dreams.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.7974183908045978
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0095",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 95,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0248",
+        "Y_-aMBlHWgE:s0249"
+      ],
+      "start_s": 1052.758,
+      "end_s": 1062.225,
+      "text": "But a dream cannot provide accurate feedback it does not possess. You might rehearse a familiar movement, strengthen a sequence, or reduce anxiety about performing it.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.8067111111111112
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0096",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 96,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0250",
+        "Y_-aMBlHWgE:s0251"
+      ],
+      "start_s": 1062.905,
+      "end_s": 1074.95,
+      "text": "You cannot reliably learn a new physical technique from a dream instructor generated by your existing knowledge. If your sleeping brain does not know how to repair an engine, giving the dream mechanic a clipboard will not improve their qualifications.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.8144865900383141
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0097",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 97,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0252",
+        "Y_-aMBlHWgE:s0253",
+        "Y_-aMBlHWgE:s0254"
+      ],
+      "start_s": 1075.45,
+      "end_s": 1088.555,
+      "text": "The same limitation applies to information. A dream character may say something that feels profound, but the words come from processes inside your own brain. lucid dreams can recombine memories and produce unexpected associations.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.8240996168582376
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0098",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 98,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0255",
+        "Y_-aMBlHWgE:s0256"
+      ],
+      "start_s": 1089.196,
+      "end_s": 1100.882,
+      "text": "That may support creativity, just as mind-wandering can. They cannot reveal a phone number you never learned, predict events through supernatural access, or introduce facts stored nowhere in the nervous system.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.8346329501915708
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0099",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 99,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0257",
+        "Y_-aMBlHWgE:s0258"
+      ],
+      "start_s": 1101.682,
+      "end_s": 1108.764,
+      "text": "What they can reveal is your reaction to a simulated situation. You can confront a feared figure and discover that it changes when approached.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.8442007662835249
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0100",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 100,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0259",
+        "Y_-aMBlHWgE:s0260"
+      ],
+      "start_s": 1109.064,
+      "end_s": 1122.687,
+      "text": "You can ask a recurring nightmare what it represents and receive an answer created from your own expectations, emotions, and memories. The answer is not an objective message from a hidden oracle, but it may still be psychologically meaningful.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.8498574712643678
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0101",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 101,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0261",
+        "Y_-aMBlHWgE:s0262",
+        "Y_-aMBlHWgE:s0263",
+        "Y_-aMBlHWgE:s0264"
+      ],
+      "start_s": 1124.084,
+      "end_s": 1138.269,
+      "text": "Lucid dreaming therefore occupies an awkward space between experiment and interpretation. The environment is internally generated, yet the experience is real as an experience. Fear inside it is genuine fear. Relief is genuine relief.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.8613670498084292
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0102",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 102,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0265",
+        "Y_-aMBlHWgE:s0266"
+      ],
+      "start_s": 1138.949,
+      "end_s": 1146.312,
+      "text": "A conversation is fictional, but the associations producing it belong to the dreamer. The dream cannot teach you facts it never had.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.8727578544061303
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0103",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 103,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0267",
+        "Y_-aMBlHWgE:s0268"
+      ],
+      "start_s": 1147.212,
+      "end_s": 1156.022,
+      "text": "It can show you what your mind does when facts stop controlling the world. The most important scientific value may be what lucid dreams reveal about consciousness.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.8790896551724138
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0104",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 104,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0269",
+        "Y_-aMBlHWgE:s0270"
+      ],
+      "start_s": 1156.803,
+      "end_s": 1167.854,
+      "text": "Ordinary dreaming proves that a brain disconnected from immediate surroundings can generate a world. Lucid dreaming proves that reflective self-awareness can arise inside that generated world without ending it.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.8864390804597702
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0105",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 105,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0271",
+        "Y_-aMBlHWgE:s0272",
+        "Y_-aMBlHWgE:s0273",
+        "Y_-aMBlHWgE:s0274"
+      ],
+      "start_s": 1168.475,
+      "end_s": 1179.365,
+      "text": "This separates two things that feel inseparable while awake. Experiencing reality. And knowing what kind of reality you are experiencing. In a normal dream, the first survives while the second fails.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.895383141762452
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0106",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 106,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0275",
+        "Y_-aMBlHWgE:s0276"
+      ],
+      "start_s": 1179.986,
+      "end_s": 1194.011,
+      "text": "In a lucid dream, both exist at once. You can stand on an impossible beach, feel cold water around your feet, hear waves, see light on the horizon, and know that the ocean is being produced somewhere inside a sleeping brain.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.9042038314176246
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0107",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 107,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0277",
+        "Y_-aMBlHWgE:s0278"
+      ],
+      "start_s": 1194.532,
+      "end_s": 1205.036,
+      "text": "You can ask a dream character whether they know they are imaginary. Their answer may surprise you, frighten you, or demonstrate that your unconscious mind has been waiting for an opportunity to become sarcastic.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.9153501915708812
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0108",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 108,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0279",
+        "Y_-aMBlHWgE:s0280",
+        "Y_-aMBlHWgE:s0281"
+      ],
+      "start_s": 1206.408,
+      "end_s": 1218.738,
+      "text": "but the character is not an independent consciousness secretly sharing the dream. The response is generated by your brain, often through processes outside your deliberate control. That is exactly why it can feel independent.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.9244505747126436
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0109",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 109,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0282",
+        "Y_-aMBlHWgE:s0283",
+        "Y_-aMBlHWgE:s0284"
+      ],
+      "start_s": 1220.238,
+      "end_s": 1229.201,
+      "text": "Lucidity does not reveal everything happening in the mind. It reveals how little the conscious self controls. You may know the world is imaginary and still fail to change it.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.935048275862069
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0110",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 110,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0285",
+        "Y_-aMBlHWgE:s0286"
+      ],
+      "start_s": 1229.841,
+      "end_s": 1236.703,
+      "text": "You may summon a person and get someone else. You may decide to fly and remain attached to the ground by an authority that exists nowhere.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.942406896551724
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0111",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 111,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0287",
+        "Y_-aMBlHWgE:s0288",
+        "Y_-aMBlHWgE:s0289",
+        "Y_-aMBlHWgE:s0290"
+      ],
+      "start_s": 1237.263,
+      "end_s": 1248.427,
+      "text": "Your conscious intention is only one influence inside a much larger system. Eventually, the dream ends. Sometimes the scene fades. Sometimes you deliberately wake yourself.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.9480942528735632
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0112",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 112,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0291",
+        "Y_-aMBlHWgE:s0292"
+      ],
+      "start_s": 1249.421,
+      "end_s": 1258.664,
+      "text": "Sometimes an alarm enters the dream disguised as music, a siren, or a character who has become extremely repetitive. Then external sensation returns.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.9574107279693487
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0113",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 113,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0293",
+        "Y_-aMBlHWgE:s0294"
+      ],
+      "start_s": 1259.345,
+      "end_s": 1271.529,
+      "text": "Muscle inhibition lifts, the bedroom replaces the generated world, and the brain rapidly rebuilds its waking model. The lucid dream survives only as memory, and dream memories are fragile.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.9650153256704981
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0114",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 114,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0295",
+        "Y_-aMBlHWgE:s0296",
+        "Y_-aMBlHWgE:s0297"
+      ],
+      "start_s": 1272.529,
+      "end_s": 1284.118,
+      "text": "Within minutes, precise dialogue, architecture, and sensation can disappear. What felt like a complete reality becomes a few sentences. But one fact remains difficult to forget.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.9751180076628353
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0115",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 115,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0298",
+        "Y_-aMBlHWgE:s0299"
+      ],
+      "start_s": 1285.319,
+      "end_s": 1291.885,
+      "text": "For a brief period, you knew you were inside a world made entirely by your mind. You could inspect it while it was being created.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.9849187739463601
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0116",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 116,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0300",
+        "Y_-aMBlHWgE:s0301",
+        "Y_-aMBlHWgE:s0302"
+      ],
+      "start_s": 1292.526,
+      "end_s": 1300.954,
+      "text": "You could test its rules, communicate through it, and watch intention compete with expectation. Becoming. Conscious inside a dream does not mean waking up.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.9904413793103449
+    },
+    {
+      "window_id": "Y_-aMBlHWgE:j0117",
+      "video_id": "Y_-aMBlHWgE",
+      "idx": 117,
+      "sent_ids": [
+        "Y_-aMBlHWgE:s0303"
+      ],
+      "start_s": 1301.575,
+      "end_s": 1304.598,
+      "text": "It means discovering that consciousness can wake up before the dream does.",
+      "n_words": 12,
+      "n_sentences": 1,
+      "pos_pct": 0.9973754789272031
+    }
+  ]
+}

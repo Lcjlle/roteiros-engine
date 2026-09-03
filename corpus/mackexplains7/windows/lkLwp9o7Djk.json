@@ -1,0 +1,1519 @@
+{
+  "video_id": "lkLwp9o7Djk",
+  "generated_at": "2026-09-03T13:18:13.135944+00:00",
+  "windows": [
+    {
+      "window_id": "lkLwp9o7Djk:j0000",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 0,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0000",
+        "lkLwp9o7Djk:s0001"
+      ],
+      "start_s": 0.131,
+      "end_s": 19.129,
+      "text": "Imagine waking up one morning hearing voices, voices that tell you things, important things, maybe warnings, maybe prophecies, maybe just pure chaos at 3 a.m. while everyone else is asleep. Now imagine this is happening to you in ancient Egypt 3,000 years ago.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.00010069177555726365
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0001",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 1,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0002",
+        "lkLwp9o7Djk:s0003",
+        "lkLwp9o7Djk:s0004"
+      ],
+      "start_s": 20.625,
+      "end_s": 31.694,
+      "text": "You don't have a diagnosis. You don't have medication. You don't have a therapist named Dr. Keller who charges 120 bucks an hour to nod slowly and say, and how does that make you feel?",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.015853189853958494
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0002",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 2,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0005",
+        "lkLwp9o7Djk:s0006"
+      ],
+      "start_s": 32.555,
+      "end_s": 37.879,
+      "text": "What you have is a priest, a goat, and a very serious ritual. And here's the wild part.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.02502305918524212
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0003",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 3,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0007",
+        "lkLwp9o7Djk:s0008"
+      ],
+      "start_s": 38.259,
+      "end_s": 51.028,
+      "text": "Depending on where and when you lived, that might have actually been not the worst thing, or it could have been absolutely horrifying. Because how a society treats its most vulnerable people, that tells you everything about that society.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.02940737893927748
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0004",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 4,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0009",
+        "lkLwp9o7Djk:s0010"
+      ],
+      "start_s": 51.768,
+      "end_s": 61.354,
+      "text": "Everything. Let's start with prehistoric humans because yes, we actually have evidence of how they dealt with mental illness, and it is immediately insane.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.03979093005380477
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0005",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 5,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0011",
+        "lkLwp9o7Djk:s0012",
+        "lkLwp9o7Djk:s0013"
+      ],
+      "start_s": 62.274,
+      "end_s": 73.34,
+      "text": "Archaeologists have found skulls, thousands of years old, with holes in them. Not battle wounds, not animal attacks. Clean, deliberately carved holes.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.0478662567255957
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0006",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 6,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0014",
+        "lkLwp9o7Djk:s0015"
+      ],
+      "start_s": 74.321,
+      "end_s": 83.105,
+      "text": "Some of these skulls even show signs of bone regrowth around the edges, which means the patient survived the procedure. They lived with a hole in their head, intentionally put there.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.057126056879323595
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0007",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 7,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0016",
+        "lkLwp9o7Djk:s0017",
+        "lkLwp9o7Djk:s0018"
+      ],
+      "start_s": 83.546,
+      "end_s": 94.929,
+      "text": "This is called trepanation, and it is exactly as metal as it sounds. The working theory? They were letting the evil spirits out, literally drilling an exit door for the demon living in someone's skull.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.06421675634127595
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0008",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 8,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0019",
+        "lkLwp9o7Djk:s0020",
+        "lkLwp9o7Djk:s0021",
+        "lkLwp9o7Djk:s0022"
+      ],
+      "start_s": 95.75,
+      "end_s": 100.156,
+      "text": "Got bad headaches? Demon. Hearing voices? Demon.",
+      "n_words": 7,
+      "n_sentences": 4,
+      "pos_pct": 0.07359723289777094
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0009",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 9,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0023",
+        "lkLwp9o7Djk:s0024",
+        "lkLwp9o7Djk:s0025",
+        "lkLwp9o7Djk:s0026"
+      ],
+      "start_s": 100.857,
+      "end_s": 107.913,
+      "text": "Acting erratic and strange? Demon. Obviously. Demon, drill the hole, boom.",
+      "n_words": 11,
+      "n_sentences": 4,
+      "pos_pct": 0.07752267486548808
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0010",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 10,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0027",
+        "lkLwp9o7Djk:s0028",
+        "lkLwp9o7Djk:s0029",
+        "lkLwp9o7Djk:s0030"
+      ],
+      "start_s": 108.534,
+      "end_s": 118.08,
+      "text": "Done. Next patient. And here's the thing that really messes with you when you sit with it. Trepanation actually survived for thousands of years across completely unconnected civilizations.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.08342352036894697
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0011",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 11,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0031",
+        "lkLwp9o7Djk:s0032"
+      ],
+      "start_s": 118.681,
+      "end_s": 133.871,
+      "text": "Ancient Peru, Ancient Greece, Medieval Europe, Sub-Saharan Africa. Completely separate cultures, no contact with each other, all independently arriving at the conclusion that the solution to mental disturbance was to put a hole in someone's head.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.0912229054573405
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0012",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 12,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0033",
+        "lkLwp9o7Djk:s0034"
+      ],
+      "start_s": 134.74,
+      "end_s": 143.972,
+      "text": "That either says something profound about shared human intuition, or it says something deeply concerning about shared human problem-solving. Possibly both.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.10356648731744812
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0013",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 13,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0035",
+        "lkLwp9o7Djk:s0036",
+        "lkLwp9o7Djk:s0037"
+      ],
+      "start_s": 145.414,
+      "end_s": 158.356,
+      "text": "Now let's talk about ancient Mesopotamia, because this is where things get really interesting really fast. In ancient Babylon and Assyria, mental illness was not a medical problem. It was a spiritual accounting problem.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.11177094542659492
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0014",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 14,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0038",
+        "lkLwp9o7Djk:s0039"
+      ],
+      "start_s": 158.756,
+      "end_s": 171.281,
+      "text": "If you were suffering psychologically, it meant the gods were mad at you. Specifically, it meant you had violated some divine law, broken a sacred contract, or deeply offended a deity, and now you were paying the price.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.12202613374327441
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0015",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 15,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0040",
+        "lkLwp9o7Djk:s0041"
+      ],
+      "start_s": 172.181,
+      "end_s": 179.306,
+      "text": "This was called the hand of a god doctrine. Your madness was literally the hand of a specific god pressing down on you.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.13234511913912375
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0016",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 16,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0042",
+        "lkLwp9o7Djk:s0043"
+      ],
+      "start_s": 179.926,
+      "end_s": 190.933,
+      "text": "Which, honestly, if you've ever had a panic attack, the phrase, it felt like something was pressing down on me, does hit a little close to home. Not defending the theology here, just noting the metaphor holds up.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.13829823212913142
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0017",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 17,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0044",
+        "lkLwp9o7Djk:s0045"
+      ],
+      "start_s": 191.434,
+      "end_s": 201.474,
+      "text": "The treatment involved priests called ashipu, who were essentially ancient forensic spiritual investigators. Their job was to figure out which god you'd angered and how badly.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.14714373558800922
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0018",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 18,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0046",
+        "lkLwp9o7Djk:s0047"
+      ],
+      "start_s": 201.954,
+      "end_s": 219.184,
+      "text": "They would examine your symptoms, your dreams, your behaviors, cross-reference them against massive clay tablet databases of divine offenses and their corresponding punishments, and then prescribe a ritual cleansing. And look, and before we laugh too hard, see, these priests were genuinely trying to help.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.15522982321291315
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0019",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 19,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0048",
+        "lkLwp9o7Djk:s0049",
+        "lkLwp9o7Djk:s0050"
+      ],
+      "start_s": 219.604,
+      "end_s": 233.286,
+      "text": "They weren't monsters. They were working with the best explanatory framework available to them, and their diagnostic tablets incredibly detailed. They described symptoms we would today recognize as schizophrenia, epilepsy, depression, mania.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.16879631053036126
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0020",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 20,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0051",
+        "lkLwp9o7Djk:s0052"
+      ],
+      "start_s": 233.726,
+      "end_s": 243.568,
+      "text": "They were observing carefully and systematically. They just had the causal mechanism completely wrong, which in the grand tradition of medicine is a completely normal phase to go through.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.1796510376633359
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0021",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 21,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0053"
+      ],
+      "start_s": 244.622,
+      "end_s": 255.026,
+      "text": "Egypt is where things take a slightly more interesting turn, and I say interesting like someone who has just found out that ancient Egyptians were arguably more progressive about mental health than a large portion of the modern world.",
+      "n_words": 39,
+      "n_sentences": 1,
+      "pos_pct": 0.18802613374327443
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0022",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 22,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0054",
+        "lkLwp9o7Djk:s0055"
+      ],
+      "start_s": 255.606,
+      "end_s": 273.733,
+      "text": "Egyptian medical texts, particularly the Ebers Papyrus from around 1550 BC, actually described mental and emotional disorders as conditions of the heart and uterus, which, anatomically, miss by quite a bit. But crucially, they treated them as medical conditions rather than purely spiritual ones.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.19646887009992314
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0023",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 23,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0056",
+        "lkLwp9o7Djk:s0057"
+      ],
+      "start_s": 274.974,
+      "end_s": 290.18,
+      "text": "Egyptian physicians would prescribe things like herbal remedies, lifestyle changes, rest, social activities. There are accounts of patients being taken to temples not just for prayer, but for what we might call environmental therapy.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.21135588009223674
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0024",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 24,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0058",
+        "lkLwp9o7Djk:s0059"
+      ],
+      "start_s": 290.98,
+      "end_s": 310.775,
+      "text": "Calming surroundings, music, gardens, activities designed to soothe an agitated mind. There was an ancient Egyptian temple complex dedicated to the healing god Imhotep, where mentally distressed individuals would come, sleep in the sacred precinct, and receive dream interpretations that were meant to guide their healing.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.2236587240584166
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0025",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 25,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0060",
+        "lkLwp9o7Djk:s0061",
+        "lkLwp9o7Djk:s0062",
+        "lkLwp9o7Djk:s0063"
+      ],
+      "start_s": 311.396,
+      "end_s": 322.122,
+      "text": "This is incubation therapy. You are being prescribed therapeutic dreams in a peaceful garden setting. That is genuinely more chill than a lot of modern psychiatric facilities. I'm just saying.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.23935126825518832
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0026",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 26,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0064",
+        "lkLwp9o7Djk:s0065"
+      ],
+      "start_s": 322.942,
+      "end_s": 336.815,
+      "text": "Egypt also had a concept that some mental disturbances came from the heart being too full or too empty, almost precursor ideas to what we'd understand as mood disorders. Not quite right, but in the right neighborhood.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.2482259800153728
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0027",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 27,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0066",
+        "lkLwp9o7Djk:s0067"
+      ],
+      "start_s": 337.335,
+      "end_s": 356.206,
+      "text": "Pointing at the right building, wrong floor. Now we cross the Mediterranean, and we have to talk about ancient Greece, because ancient Greece is where things get philosophically fascinating and also occasionally horrifying in that specific ancient Greek way, where everything is very smart and also somehow involves suffering.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.25928900845503455
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0028",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 28,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0068",
+        "lkLwp9o7Djk:s0069"
+      ],
+      "start_s": 357.727,
+      "end_s": 367.114,
+      "text": "The Greeks had two competing frameworks for mental illness, and they were at war with each other for centuries. Framework one, the divine explanation.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.27496310530361256
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0029",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 29,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0070",
+        "lkLwp9o7Djk:s0071"
+      ],
+      "start_s": 368.655,
+      "end_s": 378.439,
+      "text": "Mental illness was sent by the gods, specifically as punishment or as a form of divine communication. This was actually considered by some Greeks to be almost a privilege.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.2833627978478094
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0030",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 30,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0072",
+        "lkLwp9o7Djk:s0073",
+        "lkLwp9o7Djk:s0074"
+      ],
+      "start_s": 379.379,
+      "end_s": 391.244,
+      "text": "Madness sent by the gods could mean the gods were speaking through you. Oracles were mentally extraordinary by definition. Some forms of what we would now call altered mental states were considered prophetic gifts.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.29160568793235975
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0031",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 31,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0075",
+        "lkLwp9o7Djk:s0076"
+      ],
+      "start_s": 392.044,
+      "end_s": 405.383,
+      "text": "Plato himself wrote about four types of divine madness. prophetic madness, ritual madness, poetic madness, and erotic madness, all of which were considered superior states to ordinary rational thought.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.3013405073020753
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0032",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 32,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0077",
+        "lkLwp9o7Djk:s0078"
+      ],
+      "start_s": 406.244,
+      "end_s": 420.933,
+      "text": "In Plato's view, a totally sane, completely rational person might actually be spiritually limited. The mad person had access to truths unavailable to the merely normal, which is genuinely a wild take for someone who helped invent Western rational philosophy.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.3122551883166795
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0033",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 33,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0079",
+        "lkLwp9o7Djk:s0080",
+        "lkLwp9o7Djk:s0081",
+        "lkLwp9o7Djk:s0082"
+      ],
+      "start_s": 421.533,
+      "end_s": 434.422,
+      "text": "But, okay Plato, do your thing. Framework 2. The Medical Explanation. Hippocrates, the doctor, the oath guy, directly and explicitly rejected the divine explanation for mental illness.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.32400691775557267
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0034",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 34,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0083"
+      ],
+      "start_s": 435.162,
+      "end_s": 450.053,
+      "text": "In his text, On the Sacred Disease, written about epilepsy but with implications across all mental conditions, Hippocrates argued that mental disturbances were diseases of the brain caused by physical imbalances, specifically an imbalance of the four humors.",
+      "n_words": 38,
+      "n_sentences": 1,
+      "pos_pct": 0.3344827056110684
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0035",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 35,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0084",
+        "lkLwp9o7Djk:s0085"
+      ],
+      "start_s": 450.673,
+      "end_s": 461.159,
+      "text": "blood, phlegm, yellow bile, and black bile. This is where we get melancholy, from the Greek melas, meaning black, and kole, meaning bile.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.3464050730207533
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0036",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 36,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0086",
+        "lkLwp9o7Djk:s0087",
+        "lkLwp9o7Djk:s0088",
+        "lkLwp9o7Djk:s0089"
+      ],
+      "start_s": 462.06,
+      "end_s": 471.305,
+      "text": "Depression was literally called black bile disease because they thought you had too much of it. Was that correct? No. Demonstrably no.",
+      "n_words": 22,
+      "n_sentences": 4,
+      "pos_pct": 0.3551575710991545
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0037",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 37,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0090"
+      ],
+      "start_s": 471.946,
+      "end_s": 487.099,
+      "text": "But the principle that mental illness has a physical, biological basis rather than a supernatural one, was so far ahead of its time that most of the Western world wouldn't consistently operate on that assumption again for roughly another 2,000 years.",
+      "n_words": 41,
+      "n_sentences": 1,
+      "pos_pct": 0.3627563412759416
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0038",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 38,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0091",
+        "lkLwp9o7Djk:s0092"
+      ],
+      "start_s": 487.74,
+      "end_s": 497.892,
+      "text": "Hippocrates was basically running ahead, turning around, shouting, come on, come on, it's this way. And the rest of civilization said, thanks, we'll catch up in the 19th century.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.37489623366641045
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0039",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 39,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0093",
+        "lkLwp9o7Djk:s0094",
+        "lkLwp9o7Djk:s0095"
+      ],
+      "start_s": 499.068,
+      "end_s": 511.576,
+      "text": "Rome largely inherited Greek ideas, with some additions and some steps backward, which is sort of the Roman specialty in all things. Take Greece, keep some of it, ruin some of it. Build better roads.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.3836033820138355
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0040",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 40,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0096",
+        "lkLwp9o7Djk:s0097"
+      ],
+      "start_s": 513.158,
+      "end_s": 527.55,
+      "text": "Roman physicians like Galen continued the humoral tradition, recommending treatments like warm baths, massage, exercise, dietary changes, and conversation. Yes, conversation, talking through problems with a physician.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.3944335126825519
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0041",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 41,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0098"
+      ],
+      "start_s": 528.25,
+      "end_s": 537.818,
+      "text": "Galen believed that the stories patients told about their distress were medically important, not quite psychotherapy, but you can see the silhouette of the idea taking shape in the distance.",
+      "n_words": 30,
+      "n_sentences": 1,
+      "pos_pct": 0.4060338201383551
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0042",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 42,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0099"
+      ],
+      "start_s": 538.903,
+      "end_s": 558.427,
+      "text": "However, Rome also gives us some of the darker chapters in ancient mental health history, because wealthy Romans who had inconvenient relatives, relatives whose madness might embarrass the family, endanger the inheritance, or just make dinner parties awkward, could have those relatives legally declared incapable and confined.",
+      "n_words": 47,
+      "n_sentences": 1,
+      "pos_pct": 0.41422213681783243
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0043",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 43,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0100",
+        "lkLwp9o7Djk:s0101",
+        "lkLwp9o7Djk:s0102"
+      ],
+      "start_s": 559.761,
+      "end_s": 572.706,
+      "text": "the Romans had a legal category called Furiosus, basically madman, and a person declared Furiosus lost all legal rights. They could be locked up. Their property was managed by a guardian.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.4302544196771714
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0044",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 44,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0103",
+        "lkLwp9o7Djk:s0104"
+      ],
+      "start_s": 573.086,
+      "end_s": 584.09,
+      "text": "And the decision about who qualified as Furiosus was made by the family and local magistrate, not a physician. So if your uncle was genuinely suffering from severe psychosis, he might be confined.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.4404965411222137
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0045",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 45,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0105",
+        "lkLwp9o7Djk:s0106"
+      ],
+      "start_s": 584.63,
+      "end_s": 594.242,
+      "text": "But if your uncle was also very rich and you were very greedy and slightly unscrupulous, Well, furiosis is a flexible word when there's an inheritance at stake.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.449369715603382
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0046",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 46,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0107"
+      ],
+      "start_s": 595.463,
+      "end_s": 606.572,
+      "text": "Now, we enter the medieval period, and here's where I need to address the massive misconception that medieval people were universally horrible to the mentally ill, and that it was purely religion and superstition all the way down.",
+      "n_words": 38,
+      "n_sentences": 1,
+      "pos_pct": 0.45769638739431207
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0047",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 47,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0108",
+        "lkLwp9o7Djk:s0109",
+        "lkLwp9o7Djk:s0110"
+      ],
+      "start_s": 607.213,
+      "end_s": 621.343,
+      "text": "The reality is significantly more complicated and, in places, genuinely surprising. Yes, the demonic possession framework was dominant in medieval European Christendom. Yes, exorcism was a standard treatment.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.46672790161414296
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0048",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 48,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0111",
+        "lkLwp9o7Djk:s0112"
+      ],
+      "start_s": 621.763,
+      "end_s": 633.048,
+      "text": "Yes, there were cases of people being beaten, imprisoned, or worse under the belief that they were demonically afflicted. But there's another thread running through medieval history that doesn't get nearly enough attention.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.4779116064565719
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0049",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 49,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0113",
+        "lkLwp9o7Djk:s0114"
+      ],
+      "start_s": 633.568,
+      "end_s": 652.336,
+      "text": "Medieval Islamic civilization, which stretched from Spain to Central Asia during this period, was doing something genuinely extraordinary with mental illness. The physician Ibn Sina, known in the West as Avicenna, wrote the canon of medicine in the early 11th century, one of the most comprehensive medical texts in human history.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.48698539584934664
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0050",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 50,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0115",
+        "lkLwp9o7Djk:s0116"
+      ],
+      "start_s": 652.997,
+      "end_s": 665.742,
+      "text": "His framework for mental illness was explicitly medical. He described conditions resembling what we would call depression, mania, anxiety disorders, and what sounds very much like obsessive-compulsive disorder.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.5019192928516525
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0051",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 51,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0117",
+        "lkLwp9o7Djk:s0118"
+      ],
+      "start_s": 666.682,
+      "end_s": 678.014,
+      "text": "He recommended music therapy, physical exercise, meaningful work, and what he called psychic treatment. using conversation and suggestion to alter the patient's mental state.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.5124381245196004
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0052",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 52,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0119",
+        "lkLwp9o7Djk:s0120",
+        "lkLwp9o7Djk:s0121"
+      ],
+      "start_s": 678.754,
+      "end_s": 695.905,
+      "text": "Ibn Sina is, in the most literal sense, describing psychological intervention in 1025 AD. Medieval man, not post-enlightenment, not Victorian, 1025 AD. And the Islamic world didn't just theorize, they built.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.52171714066103
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0053",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 53,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0122",
+        "lkLwp9o7Djk:s0123",
+        "lkLwp9o7Djk:s0124",
+        "lkLwp9o7Djk:s0125"
+      ],
+      "start_s": 696.725,
+      "end_s": 708.473,
+      "text": "The first psychiatric hospitals in history were built in the Islamic world. Baghdad had one in the 8th century. Cairo had one in the 9th century. These were not prisons.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.5355303612605689
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0054",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 54,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0126",
+        "lkLwp9o7Djk:s0127",
+        "lkLwp9o7Djk:s0128"
+      ],
+      "start_s": 708.873,
+      "end_s": 723.486,
+      "text": "Historical records describe them as places of healing, with running water, gardens, music, and physician oversight. Meanwhile, Europe was performing exorcisms. I am not here to oversimplify or do lazy civilizational comparison.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.5448677940046118
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0055",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 55,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0129",
+        "lkLwp9o7Djk:s0130"
+      ],
+      "start_s": 724.166,
+      "end_s": 738.602,
+      "text": "There was tremendous variation within both traditions and both had their failures. But the selective emphasis on medieval darkness while ignoring medieval Islamic advancement in mental health care is a genuine gap in how this history usually gets told.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.5566225980015373
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0056",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 56,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0131",
+        "lkLwp9o7Djk:s0132"
+      ],
+      "start_s": 740.188,
+      "end_s": 754.411,
+      "text": "Back in medieval Europe, the situation was genuinely mixed. While the possession framework dominated theology, many ordinary people and local communities dealt with mental illness in ways that were pragmatic rather than theological.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.5689377401998462
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0057",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 57,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0133",
+        "lkLwp9o7Djk:s0134"
+      ],
+      "start_s": 754.891,
+      "end_s": 767.393,
+      "text": "Someone in a village who was clearly disturbed but not dangerous was often simply incorporated into community life. They were known, they were fed, they were watched over, not treated, not cured, just... included.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.58023904688701
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0058",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 58,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0135",
+        "lkLwp9o7Djk:s0136",
+        "lkLwp9o7Djk:s0137",
+        "lkLwp9o7Djk:s0138"
+      ],
+      "start_s": 768.233,
+      "end_s": 779.34,
+      "text": "There is a long historical tradition of communities building a kind of informal tolerance around individuals who were different in their minds. It was never romanticized. It was hard. It was imperfect.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.5904942352036894
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0059",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 59,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0139",
+        "lkLwp9o7Djk:s0140",
+        "lkLwp9o7Djk:s0141"
+      ],
+      "start_s": 779.78,
+      "end_s": 794.65,
+      "text": "People with severe psychosis suffered enormously. But the image of medieval communities uniformly casting out or destroying mentally disturbed individuals is not accurate either. There were also pilgrimage sites specifically dedicated to healing mental illness.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.599369715603382
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0060",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 60,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0142",
+        "lkLwp9o7Djk:s0143"
+      ],
+      "start_s": 795.71,
+      "end_s": 808.502,
+      "text": "The town of Giel in Belgium is perhaps the most remarkable example. A town that, from at least the 13th century onward, operated a community foster care system for mentally ill individuals who came as pilgrims and stayed.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.6116141429669485
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0061",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 61,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0144",
+        "lkLwp9o7Djk:s0145",
+        "lkLwp9o7Djk:s0146",
+        "lkLwp9o7Djk:s0147"
+      ],
+      "start_s": 809.523,
+      "end_s": 817.79,
+      "text": "Local families took them in. They participated in daily life. They worked alongside family members. This system ran for centuries.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.6222313604919293
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0062",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 62,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0148",
+        "lkLwp9o7Djk:s0149",
+        "lkLwp9o7Djk:s0150",
+        "lkLwp9o7Djk:s0151"
+      ],
+      "start_s": 818.771,
+      "end_s": 834.554,
+      "text": "It still runs today. Gilles, Belgium, has an unbroken tradition of community-based mental health care that is over 700 years old, predating professional psychiatry by half a millennium. Seven. Hundred.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.6293397386625672
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0063",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 63,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0152",
+        "lkLwp9o7Djk:s0153"
+      ],
+      "start_s": 835.894,
+      "end_s": 843.479,
+      "text": "Years. If a modern mental health reformer proposed a Gilles-style community integration model today, they would be celebrated as visionary.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.6425011529592621
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0064",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 64,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0154",
+        "lkLwp9o7Djk:s0155"
+      ],
+      "start_s": 844.199,
+      "end_s": 856.005,
+      "text": "The people of a small Belgian town figured it out in the 1200s and just quietly kept doing it. Then comes the early modern period, and things in Europe get notably worse before they get better.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.6488847040737894
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0065",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 65,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0156",
+        "lkLwp9o7Djk:s0157"
+      ],
+      "start_s": 856.605,
+      "end_s": 868.91,
+      "text": "The 16th and 17th centuries saw the rise of the institution. Large-scale confinement of the mad, the poor, the criminal, and the simply inconvenient all lumped together under one roof.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.6584204458109147
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0066",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 66,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0158",
+        "lkLwp9o7Djk:s0159"
+      ],
+      "start_s": 869.79,
+      "end_s": 891.531,
+      "text": "The most famous of these is Bethlehem Royal Hospital in London, shortened colloquially to Bedlam, a word that has entered the English language as a synonym for complete chaos. You do not get a word adopted into everyday language to mean unhinged disorder unless the place it came from was genuinely, vividly, catastrophically unhinged.",
+      "n_words": 54,
+      "n_sentences": 2,
+      "pos_pct": 0.668554957724827
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0067",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 67,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0160",
+        "lkLwp9o7Djk:s0161"
+      ],
+      "start_s": 892.412,
+      "end_s": 903.646,
+      "text": "Bethlehem in the 17th century charged admission for members of the public to come and observe the patients. As entertainment, you could visit on Sundays, bring the family, point at the mad people.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.6859431206764028
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0068",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 68,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0162",
+        "lkLwp9o7Djk:s0163",
+        "lkLwp9o7Djk:s0164"
+      ],
+      "start_s": 904.066,
+      "end_s": 911.291,
+      "text": "This was a popular leisure activity in Restoration London. Let that land for a second. Watching people in mental distress was a day out.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.6949008455034589
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0069",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 69,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0165",
+        "lkLwp9o7Djk:s0166"
+      ],
+      "start_s": 911.811,
+      "end_s": 931.518,
+      "text": "There are records suggesting Bethlehem received thousands of visitors annually for this purpose in its worst period. The level of remove required to do that, to watch a human being in profound suffering and experience it as spectacle, is itself a kind of collective dissociation that says something very dark about how thoroughly the mentally ill had been dehumanized.",
+      "n_words": 59,
+      "n_sentences": 2,
+      "pos_pct": 0.7008539584934665
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0070",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 70,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0167",
+        "lkLwp9o7Djk:s0168"
+      ],
+      "start_s": 932.752,
+      "end_s": 944.596,
+      "text": "The 18th century begins to turn the tide, slowly, and with the usual historical asterisks. The Enlightenment brought new emphasis on reason, observation, and the dignity of the individual.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.7169500384319754
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0071",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 71,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0169",
+        "lkLwp9o7Djk:s0170"
+      ],
+      "start_s": 945.276,
+      "end_s": 966.53,
+      "text": "A few key reformers began arguing that the mentally ill were not subhuman, not demonic, not entertainment, but sick people who deserved humane care. Philippe Pinel in France famously, perhaps apocryphally, but the story stuck, ordered the chains removed from patients at the Bicetre Asylum in Paris in 1793.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.726576479631053
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0072",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 72,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0171",
+        "lkLwp9o7Djk:s0172"
+      ],
+      "start_s": 967.13,
+      "end_s": 986.867,
+      "text": "He argued that mental illness was a disease of the mind, that patients could recover, and that brutal confinement was counterproductive to that recovery. In England, William Tuke established the York Retreat in 1796, a Quaker institution run on the radical premise that mental patients should be treated with kindness, dignity, and moral support.",
+      "n_words": 54,
+      "n_sentences": 2,
+      "pos_pct": 0.7433743274404304
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0073",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 73,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0173",
+        "lkLwp9o7Djk:s0174",
+        "lkLwp9o7Djk:s0175",
+        "lkLwp9o7Djk:s0176"
+      ],
+      "start_s": 987.508,
+      "end_s": 992.412,
+      "text": "No chains. No isolation dungeons. Fresh air. Useful work.",
+      "n_words": 9,
+      "n_sentences": 4,
+      "pos_pct": 0.7590376633358955
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0074",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 74,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0177",
+        "lkLwp9o7Djk:s0178",
+        "lkLwp9o7Djk:s0179"
+      ],
+      "start_s": 993.072,
+      "end_s": 1007.741,
+      "text": "social interaction. The York retreat's outcomes were dramatically better than contemporary asylums. Because, it turns out, treating traumatized people kindly rather than torturing them tends to produce better mental health outcomes.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.7633143735588009
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0075",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 75,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0180",
+        "lkLwp9o7Djk:s0181",
+        "lkLwp9o7Djk:s0182",
+        "lkLwp9o7Djk:s0183"
+      ],
+      "start_s": 1008.501,
+      "end_s": 1016.226,
+      "text": "This was considered a radical discovery in 1796. We were making progress. Genuinely. Slowly.",
+      "n_words": 14,
+      "n_sentences": 4,
+      "pos_pct": 0.7751737125288239
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0076",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 76,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0184",
+        "lkLwp9o7Djk:s0185",
+        "lkLwp9o7Djk:s0186",
+        "lkLwp9o7Djk:s0187"
+      ],
+      "start_s": 1016.866,
+      "end_s": 1028.787,
+      "text": "Unevenly. With enormous suffering in the gaps. But the direction was right. And then the 19th century arrived and built enormous asylums and overcrowded them to catastrophic levels.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.7816033820138355
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0077",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 77,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0188",
+        "lkLwp9o7Djk:s0189",
+        "lkLwp9o7Djk:s0190"
+      ],
+      "start_s": 1029.248,
+      "end_s": 1041.502,
+      "text": "So progress is never really a straight line. The asylum movement started with reform intentions. Get people out of poor houses and prisons into specialized facilities, treat them with the latest psychiatric methods.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.7911206764027672
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0078",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 78,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0191"
+      ],
+      "start_s": 1042.707,
+      "end_s": 1050.993,
+      "text": "By mid-century, those facilities were overwhelmed, understaffed, and had developed institutional cultures that were themselves deeply traumatic.",
+      "n_words": 17,
+      "n_sentences": 1,
+      "pos_pct": 0.8014657955418909
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0079",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 79,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0192"
+      ],
+      "start_s": 1051.893,
+      "end_s": 1069.265,
+      "text": "The conditions in many 19th century asylums would be recognizable to anyone who has read accounts of prisons or concentration camps, not in the deliberate evil sense, but in the sense of what happens when you put large numbers of vulnerable people in total institutions with minimal oversight and insufficient resources.",
+      "n_words": 51,
+      "n_sentences": 1,
+      "pos_pct": 0.8085265180630284
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0080",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 80,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0193",
+        "lkLwp9o7Djk:s0194",
+        "lkLwp9o7Djk:s0195",
+        "lkLwp9o7Djk:s0196"
+      ],
+      "start_s": 1070.246,
+      "end_s": 1088.643,
+      "text": "Things go wrong. systematically and predictably wrong. And yet. The 19th century also produced the first systematic scientific psychiatry, the first attempts to classify mental illness rigorously, the first serious neurological research into the brain.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.8226333589546504
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0081",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 81,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0197",
+        "lkLwp9o7Djk:s0198",
+        "lkLwp9o7Djk:s0199"
+      ],
+      "start_s": 1089.123,
+      "end_s": 1104.646,
+      "text": "Figures like Emil Kraepelin, making observations and building diagnostic frameworks that refined enormously, are still the foundation of modern psychiatry. The knowledge was advancing. The institutions couldn't keep up with the knowledge.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.8371429669485012
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0082",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 82,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0200",
+        "lkLwp9o7Djk:s0201"
+      ],
+      "start_s": 1105.007,
+      "end_s": 1111.569,
+      "text": "The knowledge was arriving faster than the humanity could be organized. What does all of this mean?",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.8493520368946964
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0083",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 83,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0202",
+        "lkLwp9o7Djk:s0203"
+      ],
+      "start_s": 1112.429,
+      "end_s": 1125.073,
+      "text": "Here is what strikes me when I trace this entire arc, from tree-panned skulls, to gheel, to Bethlehem, to the York retreat. And it's something genuinely worth sitting with.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.8550568793235973
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0084",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 84,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0204"
+      ],
+      "start_s": 1126.157,
+      "end_s": 1132.68,
+      "text": "The most humane responses to mental illness throughout history almost never came from the most sophisticated societies.",
+      "n_words": 17,
+      "n_sentences": 1,
+      "pos_pct": 0.865608762490392
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0085",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 85,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0205"
+      ],
+      "start_s": 1133.34,
+      "end_s": 1152.248,
+      "text": "They came from communities that had no choice but to include their disturbed members, from reformers who simply applied basic empathy against institutional resistance, from traditions like Gile that operated on the radical premise that mentally ill people are still people and can still contribute and still belong.",
+      "n_words": 48,
+      "n_sentences": 1,
+      "pos_pct": 0.8711299000768639
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0086",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 86,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0206",
+        "lkLwp9o7Djk:s0207",
+        "lkLwp9o7Djk:s0208"
+      ],
+      "start_s": 1153.106,
+      "end_s": 1172.024,
+      "text": "The sophisticated responses, the grand theories, the institutional systems, the scientific frameworks, were sometimes brilliant and sometimes catastrophic. Intelligence and expertise are not sufficient. Humanity is not automatically distributed with education.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.8863228285933897
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0087",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 87,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0209",
+        "lkLwp9o7Djk:s0210",
+        "lkLwp9o7Djk:s0211",
+        "lkLwp9o7Djk:s0212"
+      ],
+      "start_s": 1172.865,
+      "end_s": 1186.375,
+      "text": "Ancient Babylon got the cause wrong, but tried genuinely to help. Rome got the biology half right and built legal systems that could be weaponized. Medieval Europeans persecuted and also built gheel.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.901510376633359
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0088",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 88,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0213",
+        "lkLwp9o7Djk:s0214",
+        "lkLwp9o7Djk:s0215",
+        "lkLwp9o7Djk:s0216"
+      ],
+      "start_s": 1187.036,
+      "end_s": 1203.07,
+      "text": "The Enlightenment brought dignity and also eventually produced overcrowded asylums. Every era thought it was the era that finally understood. The previous generations were primitive, superstitious, cruel. We know better now.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.9124027671022291
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0089",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 89,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0217",
+        "lkLwp9o7Djk:s0218",
+        "lkLwp9o7Djk:s0219",
+        "lkLwp9o7Djk:s0220"
+      ],
+      "start_s": 1204.007,
+      "end_s": 1216.717,
+      "text": "And we do know better now in real and important ways. We have treatments that work. We have scientific frameworks that have validity. We have legal protections.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.9254473481936972
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0090",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 90,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0221",
+        "lkLwp9o7Djk:s0222"
+      ],
+      "start_s": 1217.598,
+      "end_s": 1233.251,
+      "text": "We have a global conversation about mental health that would have been literally unimaginable in most of the periods we've discussed. But the gap between what we know and what we actually do with that knowledge, the gap between our scientific understanding and the humanity with which we implement it,",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.9358939277478862
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0091",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 91,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0223",
+        "lkLwp9o7Djk:s0224",
+        "lkLwp9o7Djk:s0225"
+      ],
+      "start_s": 1234.345,
+      "end_s": 1247.617,
+      "text": "That gap. That gap is not a new problem. That gap has been there since the first physician removed a patient's chains in 1793, and everyone around him thought it was insane to do so.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.9487663335895465
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0092",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 92,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0226",
+        "lkLwp9o7Djk:s0227"
+      ],
+      "start_s": 1248.398,
+      "end_s": 1256.084,
+      "text": "The knowledge has always run ahead. The humanity has always had to be argued for, fought for, demonstrated through outcomes.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.9595680245964642
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0093",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 93,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0228",
+        "lkLwp9o7Djk:s0229"
+      ],
+      "start_s": 1257.005,
+      "end_s": 1266.553,
+      "text": "The question that every generation has faced, and that we face right now, is not only, what do we know about mental illness? It is, what do we believe the mentally ill deserve?",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.966183704842429
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0094",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 94,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0230",
+        "lkLwp9o7Djk:s0231"
+      ],
+      "start_s": 1267.173,
+      "end_s": 1273.218,
+      "text": "That's the question that determines everything. And the answer to that question is not found in textbooks or clinical studies.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.9739992313604919
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0095",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 95,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0232",
+        "lkLwp9o7Djk:s0233"
+      ],
+      "start_s": 1273.619,
+      "end_s": 1291.839,
+      "text": "It is found in the same place it was found in Gill in the 13th century, and in Avicenna's writing in 1025, and in William Tewkes' retreat in 1796. It is found in whether or not you are willing to look at a person who is suffering in a way that makes you uncomfortable and still say,",
+      "n_words": 57,
+      "n_sentences": 2,
+      "pos_pct": 0.9789538816295157
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0096",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 96,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0234",
+        "lkLwp9o7Djk:s0235",
+        "lkLwp9o7Djk:s0236",
+        "lkLwp9o7Djk:s0237"
+      ],
+      "start_s": 1284.187,
+      "end_s": 1298.53,
+      "text": "This is a person. This person belongs here. This person is worth the effort. That has been the hard part throughout history.",
+      "n_words": 22,
+      "n_sentences": 4,
+      "pos_pct": 0.987076863950807
+    },
+    {
+      "window_id": "lkLwp9o7Djk:j0097",
+      "video_id": "lkLwp9o7Djk",
+      "idx": 97,
+      "sent_ids": [
+        "lkLwp9o7Djk:s0238"
+      ],
+      "start_s": 1298.93,
+      "end_s": 1300.372,
+      "text": "It remains the hard part now.",
+      "n_words": 6,
+      "n_sentences": 1,
+      "pos_pct": 0.9984089162182936
+    }
+  ]
+}

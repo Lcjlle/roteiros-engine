@@ -1,0 +1,1771 @@
+{
+  "video_id": "pJYm-8WQbEE",
+  "generated_at": "2026-09-03T13:18:13.137539+00:00",
+  "windows": [
+    {
+      "window_id": "pJYm-8WQbEE:j0000",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 0,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0000",
+        "pJYm-8WQbEE:s0001",
+        "pJYm-8WQbEE:s0002"
+      ],
+      "start_s": 0.091,
+      "end_s": 9.259,
+      "text": "Right now, your dog is lying on the couch. Maybe he's asleep. Yeah, maybe he's doing that thing where he stares at you with absolute devotion, like you're the most important being in the universe.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 8.75842155919153e-05
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0001",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 1,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0003",
+        "pJYm-8WQbEE:s0004",
+        "pJYm-8WQbEE:s0005",
+        "pJYm-8WQbEE:s0006"
+      ],
+      "start_s": 9.6,
+      "end_s": 21.691,
+      "text": "Which, let's be honest, you probably are to him. But here's the question no one ever actually asks. Does he know he's alive? Not in the technically breathing kind of way.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.009239653512993263
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0002",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 2,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0007",
+        "pJYm-8WQbEE:s0008",
+        "pJYm-8WQbEE:s0009"
+      ],
+      "start_s": 22.351,
+      "end_s": 31.173,
+      "text": "Obviously, yes, lungs are working, heart is beating, tail is wagging. We're not debating biology here. The question is deeper than that.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.021512030798845044
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0003",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 3,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0010",
+        "pJYm-8WQbEE:s0011"
+      ],
+      "start_s": 31.673,
+      "end_s": 39.795,
+      "text": "Does your dog have any sense, any flicker, any tiny little spark inside that he exists? That there is something it feels like to be him?",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.03048411934552454
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0004",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 4,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0012",
+        "pJYm-8WQbEE:s0013",
+        "pJYm-8WQbEE:s0014",
+        "pJYm-8WQbEE:s0015"
+      ],
+      "start_s": 40.235,
+      "end_s": 50.378,
+      "text": "That the world he's experiencing is his world and nothing? Because here's the thing. We assume the answer is yes. We project emotions onto animals constantly.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.03872473532242541
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0005",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 5,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0016",
+        "pJYm-8WQbEE:s0017",
+        "pJYm-8WQbEE:s0018",
+        "pJYm-8WQbEE:s0019"
+      ],
+      "start_s": 50.739,
+      "end_s": 55.821,
+      "text": "We baby talk to them. We buy them birthday cakes. We hold funerals for fish. Genuinely.",
+      "n_words": 16,
+      "n_sentences": 4,
+      "pos_pct": 0.0488344562078922
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0006",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 6,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0020",
+        "pJYm-8WQbEE:s0021"
+      ],
+      "start_s": 56.141,
+      "end_s": 60.143,
+      "text": "People do that and we act like they understand what's happening. But what if we're wrong?",
+      "n_words": 16,
+      "n_sentences": 2,
+      "pos_pct": 0.05403368623676612
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0007",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 7,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0022",
+        "pJYm-8WQbEE:s0023"
+      ],
+      "start_s": 60.523,
+      "end_s": 70.129,
+      "text": "What if your dog, your cat, your parrot, your goldfish, what if all of them are just incredibly convincing biological machines with zero inner life whatsoever? And what if we're right?",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.05825120307988451
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0008",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 8,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0024",
+        "pJYm-8WQbEE:s0025"
+      ],
+      "start_s": 70.45,
+      "end_s": 78.555,
+      "text": "What if there's someone in there, looking out through those eyes, feeling something, and we just can't fully know? That's the rabbit hole we're going down today.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.06780558229066411
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0009",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 9,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0026",
+        "pJYm-8WQbEE:s0027",
+        "pJYm-8WQbEE:s0028",
+        "pJYm-8WQbEE:s0029"
+      ],
+      "start_s": 79.015,
+      "end_s": 88.742,
+      "text": "And yes, we will absolutely be talking about actual rabbits. Let's start at the beginning. What does it even mean to know you're alive? Philosophers have been arguing about this for centuries.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.07604908565928778
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0010",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 10,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0030",
+        "pJYm-8WQbEE:s0031"
+      ],
+      "start_s": 89.102,
+      "end_s": 99.527,
+      "text": "which is their way of admitting they don't actually know the answer, but they'd like to be paid to think about it. And fair enough, because this question is genuinely one of the hardest problems in all of science and philosophy.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.08575745909528393
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0011",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 11,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0032",
+        "pJYm-8WQbEE:s0033"
+      ],
+      "start_s": 100.128,
+      "end_s": 106.651,
+      "text": "It's called the problem of consciousness. Consciousness, at the most basic level, is there something it feels like to be you?",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.09636958614051973
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0012",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 12,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0034",
+        "pJYm-8WQbEE:s0035",
+        "pJYm-8WQbEE:s0036",
+        "pJYm-8WQbEE:s0037"
+      ],
+      "start_s": 106.991,
+      "end_s": 117.098,
+      "text": "When you see the color red, there's a redness to it, not just a wavelength. Not just neurons firing. There's the experience of red. That's what philosophers call qualia.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.10297497593840231
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0013",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 13,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0038",
+        "pJYm-8WQbEE:s0039",
+        "pJYm-8WQbEE:s0040"
+      ],
+      "start_s": 117.418,
+      "end_s": 122.062,
+      "text": "The subjective felt quality of an experience. You feel hunger. You feel cold.",
+      "n_words": 13,
+      "n_sentences": 3,
+      "pos_pct": 0.11301058710298365
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0014",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 14,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0041",
+        "pJYm-8WQbEE:s0042"
+      ],
+      "start_s": 122.402,
+      "end_s": 132.11,
+      "text": "You feel that specific kind of emotional devastation when you open the fridge and the leftover pizza you were looking forward to all day is gone. Now, does your cat feel that?",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.11780750721847931
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0015",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 15,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0043",
+        "pJYm-8WQbEE:s0044"
+      ],
+      "start_s": 132.37,
+      "end_s": 142.777,
+      "text": "This is not a trivial question. because from the outside, a creature that has inner experiences and a creature that simply behaves as if it has inner experiences can look absolutely identical.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.12740134744947065
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0016",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 16,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0045",
+        "pJYm-8WQbEE:s0046"
+      ],
+      "start_s": 143.037,
+      "end_s": 150.983,
+      "text": "This is what philosophers call the problem of other minds. You can't climb inside someone else's head, you can't verify that anyone else is actually conscious,",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.1376679499518768
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0017",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 17,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0047",
+        "pJYm-8WQbEE:s0048"
+      ],
+      "start_s": 151.503,
+      "end_s": 161.328,
+      "text": "You just kind of assume because they look a lot like you, and they act a lot like you, and that seems reasonable. But animals don't look exactly like you, and that's where it gets complicated.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.14581616939364772
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0018",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 18,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0049",
+        "pJYm-8WQbEE:s0050",
+        "pJYm-8WQbEE:s0051",
+        "pJYm-8WQbEE:s0052"
+      ],
+      "start_s": 161.688,
+      "end_s": 173.734,
+      "text": "For most of scientific history, the official position of mainstream science was animals don't really feel anything. They respond to stimuli. They have behaviors. But there's no inner experience, no feelings, no awareness.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.155618864292589
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0019",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 19,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0053",
+        "pJYm-8WQbEE:s0054"
+      ],
+      "start_s": 174.074,
+      "end_s": 188.345,
+      "text": "just biological machinery executing its programming. This view was heavily influenced by a French philosopher named Descartes, who in the 1600s argued that animals were essentially just complex automatons, biological robots.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.16753994225216556
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0020",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 20,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0055",
+        "pJYm-8WQbEE:s0056",
+        "pJYm-8WQbEE:s0057"
+      ],
+      "start_s": 188.785,
+      "end_s": 194.61,
+      "text": "The squealing of a pig when you heard it? Not pain, just mechanism. Like the sound of a clock ticking.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.1816987487969201
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0021",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 21,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0058",
+        "pJYm-8WQbEE:s0059"
+      ],
+      "start_s": 194.91,
+      "end_s": 204.279,
+      "text": "Now look, I want to be fair to Descartes here, He didn't have the benefit of modern neuroscience. He didn't know about neurons or nervous systems or brain structures.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.18759384023099132
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0022",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 22,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0060",
+        "pJYm-8WQbEE:s0061"
+      ],
+      "start_s": 204.82,
+      "end_s": 215.191,
+      "text": "He was working with what he had. But also, and I say this with all due respect to one of history's greatest thinkers, that is one of the most aggressively wrong takes in intellectual history.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.19713185755534166
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0023",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 23,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0062",
+        "pJYm-8WQbEE:s0063",
+        "pJYm-8WQbEE:s0064"
+      ],
+      "start_s": 215.391,
+      "end_s": 221.297,
+      "text": "Pigs do feel pain. They very obviously feel pain. Anyone who has spent more than 10 minutes near a pig knows this.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.2073060635226179
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0024",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 24,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0065",
+        "pJYm-8WQbEE:s0066"
+      ],
+      "start_s": 221.557,
+      "end_s": 232.767,
+      "text": "They're smart, emotionally complex animals who form attachments and get anxious and get bored and get excited, and they are absolutely, definitely not clocks. But the Cartesian view stuck around in science for centuries.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.21324061597690086
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0025",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 25,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0067",
+        "pJYm-8WQbEE:s0068",
+        "pJYm-8WQbEE:s0069",
+        "pJYm-8WQbEE:s0070"
+      ],
+      "start_s": 233.067,
+      "end_s": 244.377,
+      "text": "The idea that animals were just input-output machines, that studying their minds was unscientific. Even the word was considered suspect. You were supposed to say behavior. not emotion.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.22431857555341675
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0026",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 26,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0071",
+        "pJYm-8WQbEE:s0072",
+        "pJYm-8WQbEE:s0073",
+        "pJYm-8WQbEE:s0074"
+      ],
+      "start_s": 244.797,
+      "end_s": 257.028,
+      "text": "Aversive stimulus, not pain. Appetite, not hunger. It was this whole linguistic apparatus built to deny the inner life of other creatures. That started changing in the 20th century.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.2356082771896054
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0027",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 27,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0075",
+        "pJYm-8WQbEE:s0076",
+        "pJYm-8WQbEE:s0077",
+        "pJYm-8WQbEE:s0078"
+      ],
+      "start_s": 257.449,
+      "end_s": 269.615,
+      "text": "Slowly. Painfully slowly. But it changed. In 1970, a psychologist named Gordon Gallup Jr. did something that sounds simple but turned out to be genuinely revolutionary.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.24778537054860444
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0028",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 28,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0079",
+        "pJYm-8WQbEE:s0080",
+        "pJYm-8WQbEE:s0081",
+        "pJYm-8WQbEE:s0082"
+      ],
+      "start_s": 269.875,
+      "end_s": 279.138,
+      "text": "He gave chimpanzees a mirror. Most animals, when they see their reflection, react as if they're seeing another animal. Dogs bark at the mirror. Cats puff up.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.2597449470644851
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0029",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 29,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0083",
+        "pJYm-8WQbEE:s0084",
+        "pJYm-8WQbEE:s0085",
+        "pJYm-8WQbEE:s0086"
+      ],
+      "start_s": 279.398,
+      "end_s": 288.982,
+      "text": "Birds attack the glass. They think, there is something over there and I must deal with it. But chimps? After a few days of exposure, chimps started doing something different.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.2689104908565929
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0030",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 30,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0087",
+        "pJYm-8WQbEE:s0088"
+      ],
+      "start_s": 289.422,
+      "end_s": 296.384,
+      "text": "They started using the mirror to inspect parts of their own body they couldn't normally see. They'd look at their teeth, their backsides.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.27855822906641003
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0031",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 31,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0089",
+        "pJYm-8WQbEE:s0090"
+      ],
+      "start_s": 296.604,
+      "end_s": 305.986,
+      "text": "Gallop then put a small, odorless colored mark on the chimps' foreheads while they were unconscious. When they woke up and saw themselves in the mirror, they reached up to touch their own face.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.2854706448508181
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0032",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 32,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0091",
+        "pJYm-8WQbEE:s0092"
+      ],
+      "start_s": 306.566,
+      "end_s": 310.567,
+      "text": "Not the mirror, their own actual face. They recognized themselves.",
+      "n_words": 10,
+      "n_sentences": 2,
+      "pos_pct": 0.2950587102983638
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0033",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 33,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0093",
+        "pJYm-8WQbEE:s0094"
+      ],
+      "start_s": 310.927,
+      "end_s": 323.569,
+      "text": "This became known as the mirror self-recognition test, or the MSR test, and it's been considered one of the gold standards for measuring self-awareness in animals. Because to recognize yourself in a mirror, you have to have some concept of self.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.29925601539942254
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0034",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 34,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0095",
+        "pJYm-8WQbEE:s0096"
+      ],
+      "start_s": 323.949,
+      "end_s": 334.031,
+      "text": "You have to understand that thing in the reflection is me. And if you have a concept of self, you have at least a rudimentary form of self-awareness, which is at least a precursor to knowing you exist.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.31178922040423485
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0035",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 35,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0097",
+        "pJYm-8WQbEE:s0098",
+        "pJYm-8WQbEE:s0099",
+        "pJYm-8WQbEE:s0100"
+      ],
+      "start_s": 334.331,
+      "end_s": 341.392,
+      "text": "So who else passes the test? Great apes, chimps, bonobos, orangutans, gorillas, mostly. Yes. Dolphins.",
+      "n_words": 15,
+      "n_sentences": 4,
+      "pos_pct": 0.32178152069297405
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0036",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 36,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0101",
+        "pJYm-8WQbEE:s0102",
+        "pJYm-8WQbEE:s0103",
+        "pJYm-8WQbEE:s0104"
+      ],
+      "start_s": 341.652,
+      "end_s": 344.313,
+      "text": "Yes. Elephants. Yes. And one that surprised everyone.",
+      "n_words": 8,
+      "n_sentences": 4,
+      "pos_pct": 0.328827718960539
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0037",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 37,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0105",
+        "pJYm-8WQbEE:s0106",
+        "pJYm-8WQbEE:s0107",
+        "pJYm-8WQbEE:s0108"
+      ],
+      "start_s": 344.553,
+      "end_s": 353.895,
+      "text": "Magpies. Magpies, those clever little corvid birds, pass the mirror test. A bird, looking at its reflection, reaching up to touch a mark on its own body. Dogs, interestingly, mostly don't pass it.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.33161982675649665
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0038",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 38,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0109",
+        "pJYm-8WQbEE:s0110",
+        "pJYm-8WQbEE:s0111"
+      ],
+      "start_s": 354.035,
+      "end_s": 360.216,
+      "text": "Which doesn't mean they lack self-awareness. Dogs are extremely smell-oriented. So a visual test might not be the right tool.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.34074590952839273
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0039",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 39,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0112",
+        "pJYm-8WQbEE:s0113",
+        "pJYm-8WQbEE:s0114"
+      ],
+      "start_s": 360.656,
+      "end_s": 368.998,
+      "text": "It's like giving a colorblind person a color-based intelligence test and then concluding they're not smart. The test is flawed for that species. But here's the key takeaway.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.34711838306063525
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0040",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 40,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0115",
+        "pJYm-8WQbEE:s0116"
+      ],
+      "start_s": 369.658,
+      "end_s": 380.004,
+      "text": "Self-recognition, a basic form of knowing I exist as a distinct entity in the world, is not just a human thing. It is present, in varying degrees, across a range of species.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.35578248315688166
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0041",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 41,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0117",
+        "pJYm-8WQbEE:s0118"
+      ],
+      "start_s": 380.224,
+      "end_s": 391.75,
+      "text": "The circle of things that know they're something is a lot wider than we thought. Now, let's go deeper, because there's a difference between recognizing yourself in a mirror and actually contemplating your own existence.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.3659518768046198
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0042",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 42,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0119",
+        "pJYm-8WQbEE:s0120"
+      ],
+      "start_s": 392.01,
+      "end_s": 398.773,
+      "text": "Those are not the same thing. When I say, do animals know they're alive, I'm really asking something like, do they have a sense of their own being?",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.37729547641963423
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0043",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 43,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0121",
+        "pJYm-8WQbEE:s0122"
+      ],
+      "start_s": 399.053,
+      "end_s": 407.617,
+      "text": "Do they experience the world from a first-person perspective, with some awareness that they are the one doing the experiencing? This is where things get philosophically intense.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.38407410972088546
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0044",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 44,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0123",
+        "pJYm-8WQbEE:s0124"
+      ],
+      "start_s": 408.077,
+      "end_s": 412.22,
+      "text": "and I promise we are going to come back down to Earth. But stay with me for a second.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.3927593840230991
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0045",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 45,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0125",
+        "pJYm-8WQbEE:s0126",
+        "pJYm-8WQbEE:s0127"
+      ],
+      "start_s": 412.38,
+      "end_s": 422.967,
+      "text": "There's a famous paper by philosopher Thomas Nagel, written in 1974, called What Is It Like to Be a Bat? The point of the paper is this. Bats use echolocation.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.39690086621751686
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0046",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 46,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0128",
+        "pJYm-8WQbEE:s0129"
+      ],
+      "start_s": 423.308,
+      "end_s": 439.241,
+      "text": "They experience the world through sonar, bouncing sound waves off objects and perceiving the world that way. And Nagel's argument is that we can know every single physical fact about bat brains bat neurons, bat sonar, sonctronito, we can map the whole thing.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.4074186717998075
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0047",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 47,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0130",
+        "pJYm-8WQbEE:s0131",
+        "pJYm-8WQbEE:s0132"
+      ],
+      "start_s": 439.461,
+      "end_s": 447.891,
+      "text": "And we still won't know what it feels like to be a bat. Because subjective experience isn't reducible to physical description. What does that feel like from the inside?",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.4229653512993263
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0048",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 48,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0133",
+        "pJYm-8WQbEE:s0134",
+        "pJYm-8WQbEE:s0135",
+        "pJYm-8WQbEE:s0136"
+      ],
+      "start_s": 448.131,
+      "end_s": 454.215,
+      "text": "To live in a world built of echoes? We don't know. We genuinely do not know. And that's the hard problem of consciousness.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.4313099133782483
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0049",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 49,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0137",
+        "pJYm-8WQbEE:s0138"
+      ],
+      "start_s": 454.615,
+      "end_s": 461.498,
+      "text": "Even if we can describe the mechanism, we can't access the experience. And this applies to every animal, not just bats.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.4375505293551492
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0050",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 50,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0139",
+        "pJYm-8WQbEE:s0140"
+      ],
+      "start_s": 461.698,
+      "end_s": 469.582,
+      "text": "What is it like to be a dog who experiences the world primarily through scent? What is it like to be an octopus with neurons distributed throughout its eight arms?",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.4443676612127045
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0051",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 51,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0141",
+        "pJYm-8WQbEE:s0142",
+        "pJYm-8WQbEE:s0143",
+        "pJYm-8WQbEE:s0144"
+      ],
+      "start_s": 470.102,
+      "end_s": 479.452,
+      "text": "each arm capable of independent decision-making. What is it like to be a bee? Navigating by the polarization of sunlight? Communicating precise spatial information through dance?",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.45245620789220403
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0052",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 52,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0145",
+        "pJYm-8WQbEE:s0146",
+        "pJYm-8WQbEE:s0147",
+        "pJYm-8WQbEE:s0148"
+      ],
+      "start_s": 479.732,
+      "end_s": 486.319,
+      "text": "We don't know. Science can describe the behavior. Philosophy can ask the question. But the actual inner experience?",
+      "n_words": 18,
+      "n_sentences": 4,
+      "pos_pct": 0.4617247353224254
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0053",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 53,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0149",
+        "pJYm-8WQbEE:s0150",
+        "pJYm-8WQbEE:s0151",
+        "pJYm-8WQbEE:s0152"
+      ],
+      "start_s": 486.639,
+      "end_s": 492.663,
+      "text": "Locked away. Inaccessible. Possibly forever. And I find that both deeply frustrating and weirdly beautiful.",
+      "n_words": 15,
+      "n_sentences": 4,
+      "pos_pct": 0.46837247353224254
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0054",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 54,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0153",
+        "pJYm-8WQbEE:s0154",
+        "pJYm-8WQbEE:s0155"
+      ],
+      "start_s": 492.924,
+      "end_s": 505.649,
+      "text": "Let's talk about elephants for a moment, because elephants are one of those animals that make it very hard to maintain the probably-just-biological-machines position. Elephants mourn their dead. This is documented repeatedly by researchers.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.4744215591915303
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0055",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 55,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0156",
+        "pJYm-8WQbEE:s0157"
+      ],
+      "start_s": 505.949,
+      "end_s": 511.512,
+      "text": "When an elephant in a herd dies, the other elephants will often stand around the body. They'll touch it with their trunks.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.4869576515880655
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0056",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 56,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0158",
+        "pJYm-8WQbEE:s0159"
+      ],
+      "start_s": 511.852,
+      "end_s": 525.724,
+      "text": "Sometimes for hours, sometimes for days, they'll come back to the site of the death long after the body is gone, and stand there, seeming to remember. Now, what's actually happening inside an elephant's mind in those moments, we don't know for certain.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.4926390760346487
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0057",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 57,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0160",
+        "pJYm-8WQbEE:s0161",
+        "pJYm-8WQbEE:s0162"
+      ],
+      "start_s": 525.904,
+      "end_s": 535.212,
+      "text": "But here's what we do know. Elephants have extremely large brains relative to their body size. They have a highly developed limbic system, the part of the brain associated with emotion.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.5061636188642926
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0058",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 58,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0163",
+        "pJYm-8WQbEE:s0164",
+        "pJYm-8WQbEE:s0165"
+      ],
+      "start_s": 535.692,
+      "end_s": 543.699,
+      "text": "They form deep, long-term social bonds. They remember individuals they haven't seen in years. They appear to experience grief.",
+      "n_words": 19,
+      "n_sentences": 3,
+      "pos_pct": 0.5155842155919154
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0059",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 59,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0166",
+        "pJYm-8WQbEE:s0167"
+      ],
+      "start_s": 544.06,
+      "end_s": 555.048,
+      "text": "And if you experience grief, real grief, not just behavioral disruption, then you understand, on some level, that something has been lost. that something that was there is no longer there.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.5236381135707411
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0060",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 60,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0168",
+        "pJYm-8WQbEE:s0169",
+        "pJYm-8WQbEE:s0170"
+      ],
+      "start_s": 555.308,
+      "end_s": 563.993,
+      "text": "That there is a difference between alive and not alive. Which means, in some sense, you know what being alive means. Let's swing to the other end of the spectrum now.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.5344639076034648
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0061",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 61,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0171",
+        "pJYm-8WQbEE:s0172",
+        "pJYm-8WQbEE:s0173"
+      ],
+      "start_s": 564.213,
+      "end_s": 571.956,
+      "text": "Because we've been talking about chimps and elephants and dolphins, the obvious candidates. But what about animals that are very, very different from us? What about fish?",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.5430346487006736
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0062",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 62,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0174",
+        "pJYm-8WQbEE:s0175",
+        "pJYm-8WQbEE:s0176",
+        "pJYm-8WQbEE:s0177"
+      ],
+      "start_s": 572.277,
+      "end_s": 581.042,
+      "text": "For a long time, the consensus was pretty clear. Fish don't feel pain. Not really. They respond to harmful stimuli, sure, but that's just reflex.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.5507959576515881
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0063",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 63,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0178",
+        "pJYm-8WQbEE:s0179",
+        "pJYm-8WQbEE:s0180",
+        "pJYm-8WQbEE:s0181"
+      ],
+      "start_s": 581.503,
+      "end_s": 589.688,
+      "text": "No real suffering involved. This was incredibly convenient for the fishing industry. And also wrong. Research in the last two decades has overturned this.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.5596756496631377
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0064",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 64,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0182",
+        "pJYm-8WQbEE:s0183"
+      ],
+      "start_s": 590.168,
+      "end_s": 601.641,
+      "text": "Fish have nociceptors, the sensory neurons that detect potentially damaging stimuli. They have opioid receptors, which means they respond to pain-killing substances the same way mammals do.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.5680153994225217
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0065",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 65,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0184",
+        "pJYm-8WQbEE:s0185"
+      ],
+      "start_s": 601.801,
+      "end_s": 615.534,
+      "text": "When put in conditions they find aversive, they show physiological stress responses. Some fish have even passed versions of the mirror test, or at least shown reactions to their reflection that suggest a level of self-awareness that surprised researchers.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.5792117420596729
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0066",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 66,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0186",
+        "pJYm-8WQbEE:s0187"
+      ],
+      "start_s": 615.794,
+      "end_s": 625.721,
+      "text": "The cleaner Rasa, a small tropical fish, has been studied for its response to the mirror test. Some researchers found that Rasa showed behavior consistent with self-recognition.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.5926794995187681
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0067",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 67,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0188",
+        "pJYm-8WQbEE:s0189",
+        "pJYm-8WQbEE:s0190"
+      ],
+      "start_s": 625.942,
+      "end_s": 631.205,
+      "text": "Now, the scientific community is still debating this one. Debate is healthy. That's how science works.",
+      "n_words": 16,
+      "n_sentences": 3,
+      "pos_pct": 0.602446583253128
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0068",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 68,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0191",
+        "pJYm-8WQbEE:s0192"
+      ],
+      "start_s": 631.646,
+      "end_s": 641.85,
+      "text": "But the very fact that it's being debated seriously means we've come a long way from fish are basically swimming plants, don't worry about it. And then there are insects, bees specifically.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.6079364773820981
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0069",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 69,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0193",
+        "pJYm-8WQbEE:s0194"
+      ],
+      "start_s": 642.09,
+      "end_s": 655.114,
+      "text": "Bees show something that looks disturbingly like pessimism when they're stressed. When you subject bees to a stressful experience and then give them an ambiguous stimulus, something that might be a reward or might not, stressed bees are less likely to investigate it.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.6179884504331088
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0070",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 70,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0195",
+        "pJYm-8WQbEE:s0196",
+        "pJYm-8WQbEE:s0197"
+      ],
+      "start_s": 655.354,
+      "end_s": 664.937,
+      "text": "They lean toward expecting the worst. This is considered a marker of negative emotional state in mammals. The fact that it appears in bees is, to put it gently, kind of a lot to process.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.6307545717035612
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0071",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 71,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0198",
+        "pJYm-8WQbEE:s0199",
+        "pJYm-8WQbEE:s0200",
+        "pJYm-8WQbEE:s0201"
+      ],
+      "start_s": 665.197,
+      "end_s": 678.083,
+      "text": "Bees also appear to experience something like play. Young bumblebees, when given access to small wooden balls, will roll them repeatedly, with no obvious reward, no food involved. Just rolling the balls. For fun, seemingly.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.6402281039461021
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0072",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 72,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0202",
+        "pJYm-8WQbEE:s0203",
+        "pJYm-8WQbEE:s0204",
+        "pJYm-8WQbEE:s0205"
+      ],
+      "start_s": 678.323,
+      "end_s": 687.047,
+      "text": "Play behavior is generally associated with sentient animals. It implies enjoyment. It implies a subjective experience of something being pleasant. A bumblebee.",
+      "n_words": 22,
+      "n_sentences": 4,
+      "pos_pct": 0.6528614051973051
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0073",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 73,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0206",
+        "pJYm-8WQbEE:s0207",
+        "pJYm-8WQbEE:s0208",
+        "pJYm-8WQbEE:s0209"
+      ],
+      "start_s": 687.247,
+      "end_s": 696.913,
+      "text": "rolling a tiny wooden ball because it enjoys it. I'm sorry, that's adorable and also philosophically staggering. So where does this leave us? What can we actually conclude?",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.6614504331087584
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0074",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 74,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0210",
+        "pJYm-8WQbEE:s0211",
+        "pJYm-8WQbEE:s0212"
+      ],
+      "start_s": 697.233,
+      "end_s": 709.462,
+      "text": "Here's the honest answer. The scientific and philosophical consensus has shifted enormously in recent decades. In 2012, a group of prominent neuroscientists signed what became known as the Cambridge Declaration on Consciousness.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.6710615976900866
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0075",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 75,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0213",
+        "pJYm-8WQbEE:s0214"
+      ],
+      "start_s": 709.742,
+      "end_s": 716.687,
+      "text": "And their conclusion was essentially this. The neural substrates necessary for conscious experience are not unique to humans.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.6831010587102984
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0076",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 76,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0215",
+        "pJYm-8WQbEE:s0216"
+      ],
+      "start_s": 717.308,
+      "end_s": 729.396,
+      "text": "A wide range of non-human animals, all mammals, all birds, and even some invertebrates like octopuses possess the neurological machinery for conscious experience. not probably, not maybe if we squint.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.6903830606352261
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0077",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 77,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0217",
+        "pJYm-8WQbEE:s0218",
+        "pJYm-8WQbEE:s0219"
+      ],
+      "start_s": 729.677,
+      "end_s": 740.602,
+      "text": "The neurological machinery, the hardware for consciousness, present in a lot of animals. This doesn't mean all animals are conscious in the same way humans are. Consciousness almost certainly exists on a spectrum.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.7022877767083735
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0078",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 78,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0220",
+        "pJYm-8WQbEE:s0221"
+      ],
+      "start_s": 740.923,
+      "end_s": 749.007,
+      "text": "A chimpanzee's inner life is probably vastly richer and more complex than a fish's. A dog's sense of self is probably different from a dolphin's.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.713111645813282
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0079",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 79,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0222",
+        "pJYm-8WQbEE:s0223"
+      ],
+      "start_s": 749.347,
+      "end_s": 759.117,
+      "text": "An octopus's experience of the world is probably so alien to us that we literally cannot imagine it. Three-fifths of its neurons are in its arms, not its brain.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.7212194417709336
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0080",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 80,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0224",
+        "pJYm-8WQbEE:s0225",
+        "pJYm-8WQbEE:s0226"
+      ],
+      "start_s": 759.437,
+      "end_s": 769.067,
+      "text": "It may experience the world in eight simultaneous streams, each arm thinking somewhat independently. What does that feel like? The honest answer, again, we don't know.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.7309307025986526
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0081",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 81,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0227",
+        "pJYm-8WQbEE:s0228",
+        "pJYm-8WQbEE:s0229",
+        "pJYm-8WQbEE:s0230"
+      ],
+      "start_s": 769.267,
+      "end_s": 777.434,
+      "text": "But here is what I think we can say, with reasonable confidence. Animals feel. They experience. They navigate a world that has violences.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.7403917228103947
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0082",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 82,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0231",
+        "pJYm-8WQbEE:s0232",
+        "pJYm-8WQbEE:s0233",
+        "pJYm-8WQbEE:s0234"
+      ],
+      "start_s": 777.734,
+      "end_s": 781.837,
+      "text": "Things that are good. Things that are bad. Things to pursue. Things to flee.",
+      "n_words": 14,
+      "n_sentences": 4,
+      "pos_pct": 0.7485409047160732
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0083",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 83,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0235",
+        "pJYm-8WQbEE:s0236",
+        "pJYm-8WQbEE:s0237",
+        "pJYm-8WQbEE:s0238"
+      ],
+      "start_s": 782.117,
+      "end_s": 787.181,
+      "text": "They have preferences. They form attachments. They suffer. They, in some cases, play.",
+      "n_words": 13,
+      "n_sentences": 4,
+      "pos_pct": 0.752759384023099
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0084",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 84,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0239",
+        "pJYm-8WQbEE:s0240",
+        "pJYm-8WQbEE:s0241",
+        "pJYm-8WQbEE:s0242"
+      ],
+      "start_s": 787.401,
+      "end_s": 793.785,
+      "text": "They, in some remarkable cases, recognize themselves in mirrors. They grieve. They remember. They dream.",
+      "n_words": 15,
+      "n_sentences": 4,
+      "pos_pct": 0.7578450433108758
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0085",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 85,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0243",
+        "pJYm-8WQbEE:s0244",
+        "pJYm-8WQbEE:s0245"
+      ],
+      "start_s": 794.285,
+      "end_s": 803.131,
+      "text": "Yes, animals dream. Your dog's little running legs while sleeping are very cute and also scientifically significant. And does all of this mean they know they're alive?",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.7644706448508181
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0086",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 86,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0246",
+        "pJYm-8WQbEE:s0247"
+      ],
+      "start_s": 803.431,
+      "end_s": 810.514,
+      "text": "I think it depends on what you mean by know. If you mean, do they have a philosophical, reflective understanding of their own existence?",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.7732733397497594
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0087",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 87,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0248",
+        "pJYm-8WQbEE:s0249",
+        "pJYm-8WQbEE:s0250"
+      ],
+      "start_s": 810.814,
+      "end_s": 819.919,
+      "text": "Do they lie awake at night thinking, I am a being in the world and one day I will die and what does it all mean? Then, probably not. Probably most of them don't.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.7803792107795957
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0088",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 88,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0251",
+        "pJYm-8WQbEE:s0252"
+      ],
+      "start_s": 820.239,
+      "end_s": 826.563,
+      "text": "Maybe some of the great apes have glimmers of something like that. Maybe elephants standing over their dead touch the edges of that understanding.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.7894504331087584
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0089",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 89,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0253",
+        "pJYm-8WQbEE:s0254"
+      ],
+      "start_s": 826.663,
+      "end_s": 839.935,
+      "text": "But explicit, self-reflective existential awareness, that seems to be mostly a human thing. And honestly, based on how we handle it, the therapy, the existential dread, the comfort eating, maybe it's not entirely a gift.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7956333012512031
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0090",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 90,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0255",
+        "pJYm-8WQbEE:s0256",
+        "pJYm-8WQbEE:s0257"
+      ],
+      "start_s": 840.155,
+      "end_s": 846.181,
+      "text": "But if you mean, do they have a first-person experience of being alive? Is there something it feels like to be them? Then yes.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.808618864292589
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0091",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 91,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0258",
+        "pJYm-8WQbEE:s0259",
+        "pJYm-8WQbEE:s0260"
+      ],
+      "start_s": 846.581,
+      "end_s": 855.729,
+      "text": "I think the answer, for a very large number of animals, is almost certainly yes. There is someone in there, looking out, experiencing something. Even if we can never fully know what.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.8148036573628489
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0092",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 92,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0261",
+        "pJYm-8WQbEE:s0262"
+      ],
+      "start_s": 856.029,
+      "end_s": 862.314,
+      "text": "And I think that matters enormously. Because here's the uncomfortable implication that this whole conversation has been building toward.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.8238970163618864
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0093",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 93,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0263",
+        "pJYm-8WQbEE:s0264",
+        "pJYm-8WQbEE:s0265",
+        "pJYm-8WQbEE:s0266"
+      ],
+      "start_s": 862.514,
+      "end_s": 872.257,
+      "text": "If animals are conscious, if they experience their lives, then the way we treat them is a moral question of staggering importance. Factory farming. Animal testing. Habitat destruction.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.8301385948026949
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0094",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 94,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0267",
+        "pJYm-8WQbEE:s0268",
+        "pJYm-8WQbEE:s0269"
+      ],
+      "start_s": 872.357,
+      "end_s": 880.859,
+      "text": "The casual cruelty that we've historically gotten away with by telling ourselves they don't really feel anything. They do feel something. The science says they do.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.8396121270452358
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0095",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 95,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0270",
+        "pJYm-8WQbEE:s0271",
+        "pJYm-8WQbEE:s0272",
+        "pJYm-8WQbEE:s0273"
+      ],
+      "start_s": 881.019,
+      "end_s": 890.582,
+      "text": "And we are only just, as a civilization, beginning to wrestle with what that means. This doesn't mean every animal is morally equivalent to a human. I'm not saying that. that.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.847948989412897
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0096",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 96,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0274",
+        "pJYm-8WQbEE:s0275",
+        "pJYm-8WQbEE:s0276",
+        "pJYm-8WQbEE:s0277"
+      ],
+      "start_s": 890.602,
+      "end_s": 899.185,
+      "text": "Ethical questions are complicated and context matters. But it does mean that when an animal suffers, that suffering is real. It's not just mechanism. It's not just biology.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.857172281039461
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0097",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 97,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0278",
+        "pJYm-8WQbEE:s0279",
+        "pJYm-8WQbEE:s0280",
+        "pJYm-8WQbEE:s0281"
+      ],
+      "start_s": 899.245,
+      "end_s": 907.169,
+      "text": "There is a subject experiencing that suffering, and that changes things. Or it should. Let me bring this back to your dog on the couch. He doesn't know what a year is.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.8654908565928777
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0098",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 98,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0282",
+        "pJYm-8WQbEE:s0283",
+        "pJYm-8WQbEE:s0284",
+        "pJYm-8WQbEE:s0285"
+      ],
+      "start_s": 907.209,
+      "end_s": 916.392,
+      "text": "He doesn't know your job title. He doesn't understand mortgages or geopolitics or the concept of a weekend. He can't tell you what he's thinking. He will never write a philosophy paper.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.8731559191530317
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0099",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 99,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0286",
+        "pJYm-8WQbEE:s0287",
+        "pJYm-8WQbEE:s0288"
+      ],
+      "start_s": 916.492,
+      "end_s": 925.516,
+      "text": "But when you walk through the door, something happens inside him. Something that feels, from the inside, like joy. When he curls up next to you, there is something that feels like comfort.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.8820904716073147
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0100",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 100,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0289",
+        "pJYm-8WQbEE:s0290",
+        "pJYm-8WQbEE:s0291",
+        "pJYm-8WQbEE:s0292"
+      ],
+      "start_s": 925.696,
+      "end_s": 933.441,
+      "text": "When he's sick, something that feels like misery. When he loses someone he loves, Because yes, dogs grieve too. Something that feels like loss.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.890948989412897
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0101",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 101,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0293",
+        "pJYm-8WQbEE:s0294",
+        "pJYm-8WQbEE:s0295"
+      ],
+      "start_s": 933.862,
+      "end_s": 943.851,
+      "text": "He lives entirely in the present moment, which honestly sounds incredible and I'm a little jealous. He doesn't contemplate his mortality. He doesn't lie awake at night wondering if his life has meaning.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.8988084696823869
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0102",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 102,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0296",
+        "pJYm-8WQbEE:s0297",
+        "pJYm-8WQbEE:s0298"
+      ],
+      "start_s": 944.211,
+      "end_s": 953.54,
+      "text": "He doesn't ask, do I know I'm alive? Because asking questions like that requires a kind of metacognition that seems to be very specifically human. But he is alive.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.9087690086621751
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0103",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 103,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0299",
+        "pJYm-8WQbEE:s0300",
+        "pJYm-8WQbEE:s0301"
+      ],
+      "start_s": 953.9,
+      "end_s": 961.569,
+      "text": "He knows the warmth of a sunny patch on the floor. He knows the smell of his favorite person. He knows what it feels like when something is wrong, or when everything is right.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.9180943214629451
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0104",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 104,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0302",
+        "pJYm-8WQbEE:s0303"
+      ],
+      "start_s": 961.769,
+      "end_s": 965.754,
+      "text": "There is someone in there, looking out through those brown eyes. Maybe that's enough.",
+      "n_words": 14,
+      "n_sentences": 2,
+      "pos_pct": 0.9256679499518768
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0105",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 105,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0304",
+        "pJYm-8WQbEE:s0305"
+      ],
+      "start_s": 966.275,
+      "end_s": 982.21,
+      "text": "The question, do animals know they're alive, turns out to be less a question about animals and more a question about what knowing you even is. It's a question about consciousness, about the nature of experience, about the hard problem that philosophers and scientists have spent generations wrestling with and still haven't solved.",
+      "n_words": 53,
+      "n_sentences": 2,
+      "pos_pct": 0.930004812319538
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0106",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 106,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0306",
+        "pJYm-8WQbEE:s0307"
+      ],
+      "start_s": 982.29,
+      "end_s": 997.963,
+      "text": "But here's what we do know. The world is full of creatures who experience it, who feel it, in some form or another, who are, in their own ways, alive not just biologically, but—and I want to be careful with this word, but I'm going to use it—experientially.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.9454186717998074
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0107",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 107,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0308",
+        "pJYm-8WQbEE:s0309",
+        "pJYm-8WQbEE:s0310"
+      ],
+      "start_s": 998.203,
+      "end_s": 1005.889,
+      "text": "They are having experiences. Their lives feel like something, from the inside. And we are only just beginning to understand how wide that circle actually is.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.9607343599615015
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0108",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 108,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0311",
+        "pJYm-8WQbEE:s0312",
+        "pJYm-8WQbEE:s0313"
+      ],
+      "start_s": 1006.169,
+      "end_s": 1014.916,
+      "text": "Which makes the world, if you let yourself sit with this for a minute, kind of extraordinary. That bumblebee rolling a wooden ball. That elephant standing at the place where it lost someone.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.9684013474494706
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0109",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 109,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0314",
+        "pJYm-8WQbEE:s0315",
+        "pJYm-8WQbEE:s0316",
+        "pJYm-8WQbEE:s0317"
+      ],
+      "start_s": 1015.276,
+      "end_s": 1027.546,
+      "text": "That magpie looking at its reflection. That dog on your couch, sighing contentedly, dreaming about something, chasing something, probably, legs twitching. All of them, in their own way, here. All of them.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.9771665062560153
+    },
+    {
+      "window_id": "pJYm-8WQbEE:j0110",
+      "video_id": "pJYm-8WQbEE",
+      "idx": 110,
+      "sent_ids": [
+        "pJYm-8WQbEE:s0318",
+        "pJYm-8WQbEE:s0319",
+        "pJYm-8WQbEE:s0320",
+        "pJYm-8WQbEE:s0321"
+      ],
+      "start_s": 1027.886,
+      "end_s": 1037.788,
+      "text": "in their own way, alive in some sense that we can sense but not fully see. That's either deeply comforting or profoundly unsettling. Maybe both. That's usually where the best questions leave you.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.989303176130895
+    }
+  ]
+}

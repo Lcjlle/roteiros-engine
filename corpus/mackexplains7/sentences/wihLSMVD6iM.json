@@ -1,0 +1,2347 @@
+{
+  "video_id": "wihLSMVD6iM",
+  "duration_s": 1516.0,
+  "generated_at": "2026-09-03T11:58:11.567417+00:00",
+  "sentences": [
+    {
+      "sent_id": "wihLSMVD6iM:s0000",
+      "video_id": "wihLSMVD6iM",
+      "idx": 0,
+      "start_s": 0.071,
+      "end_s": 2.633,
+      "text": "You're a hunter-gatherer 13,000 years ago.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0001",
+      "video_id": "wihLSMVD6iM",
+      "idx": 1,
+      "start_s": 2.973,
+      "end_s": 5.634,
+      "text": "No supermarkets, no refrigerators, no Uber Eats.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0002",
+      "video_id": "wihLSMVD6iM",
+      "idx": 2,
+      "start_s": 6.315,
+      "end_s": 14.02,
+      "text": "You live in a cave in what will one day become Israel, surrounded by people you actually like, which, let's be honest, is rarer than we think even today.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0003",
+      "video_id": "wihLSMVD6iM",
+      "idx": 3,
+      "start_s": 14.76,
+      "end_s": 16.181,
+      "text": "You've been walking all day.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0004",
+      "video_id": "wihLSMVD6iM",
+      "idx": 4,
+      "start_s": 16.661,
+      "end_s": 17.582,
+      "text": "Your feet hurt.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0005",
+      "video_id": "wihLSMVD6iM",
+      "idx": 5,
+      "start_s": 17.922,
+      "end_s": 26.888,
+      "text": "You have no concept of shoes that cost more than a hundred dollars, which is genuinely the only thing about your situation that could be called an improvement over modern life.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0006",
+      "video_id": "wihLSMVD6iM",
+      "idx": 6,
+      "start_s": 27.488,
+      "end_s": 32.553,
+      "text": "And one day, someone in your group finds some grain that's been sitting in a whetstone mortar for a little too long.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0007",
+      "video_id": "wihLSMVD6iM",
+      "idx": 7,
+      "start_s": 32.974,
+      "end_s": 33.875,
+      "text": "It smells weird.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0008",
+      "video_id": "wihLSMVD6iM",
+      "idx": 8,
+      "start_s": 34.255,
+      "end_s": 35.056,
+      "text": "It looks bubbly.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0009",
+      "video_id": "wihLSMVD6iM",
+      "idx": 9,
+      "start_s": 35.556,
+      "end_s": 37.418,
+      "text": "Something has clearly happened to it.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0010",
+      "video_id": "wihLSMVD6iM",
+      "idx": 10,
+      "start_s": 37.739,
+      "end_s": 39.02,
+      "text": "Something biological.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0011",
+      "video_id": "wihLSMVD6iM",
+      "idx": 11,
+      "start_s": 39.34,
+      "end_s": 40.441,
+      "text": "Something mysterious.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0012",
+      "video_id": "wihLSMVD6iM",
+      "idx": 12,
+      "start_s": 41.122,
+      "end_s": 49.05,
+      "text": "And for reasons that defy all logic and every survival instinct a sensible primate should have developed, someone decides to drink it anyway.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0013",
+      "video_id": "wihLSMVD6iM",
+      "idx": 13,
+      "start_s": 49.891,
+      "end_s": 50.612,
+      "text": "That person?",
+      "n_words": 2
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0014",
+      "video_id": "wihLSMVD6iM",
+      "idx": 14,
+      "start_s": 51.273,
+      "end_s": 54.115,
+      "text": "Possibly the most important human being who ever lived.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0015",
+      "video_id": "wihLSMVD6iM",
+      "idx": 15,
+      "start_s": 54.896,
+      "end_s": 64.946,
+      "text": "Because that accident, or that single moment of extraordinary, reckless, magnificent curiosity, may have set humanity on a path that changed everything.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0016",
+      "video_id": "wihLSMVD6iM",
+      "idx": 16,
+      "start_s": 65.666,
+      "end_s": 66.547,
+      "text": "Not just parties.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0017",
+      "video_id": "wihLSMVD6iM",
+      "idx": 17,
+      "start_s": 67.228,
+      "end_s": 71.952,
+      "text": "Not just wine ants at Christmas dinner who start talking about their feelings after the second glass.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0018",
+      "video_id": "wihLSMVD6iM",
+      "idx": 18,
+      "start_s": 72.808,
+      "end_s": 73.248,
+      "text": "Everything.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0019",
+      "video_id": "wihLSMVD6iM",
+      "idx": 19,
+      "start_s": 73.829,
+      "end_s": 80.292,
+      "text": "Civilization, agriculture, religion, writing, the entire architecture of human social life as we know it.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0020",
+      "video_id": "wihLSMVD6iM",
+      "idx": 20,
+      "start_s": 80.672,
+      "end_s": 84.734,
+      "text": "So, when exactly did ancient humans first drink alcohol?",
+      "n_words": 9
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0021",
+      "video_id": "wihLSMVD6iM",
+      "idx": 21,
+      "start_s": 85.335,
+      "end_s": 88.096,
+      "text": "And more importantly, why did we even start?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0022",
+      "video_id": "wihLSMVD6iM",
+      "idx": 22,
+      "start_s": 88.657,
+      "end_s": 89.137,
+      "text": "Buckle up.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0023",
+      "video_id": "wihLSMVD6iM",
+      "idx": 23,
+      "start_s": 89.897,
+      "end_s": 92.779,
+      "text": "Because the answer goes much, much further back than you think.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0024",
+      "video_id": "wihLSMVD6iM",
+      "idx": 24,
+      "start_s": 93.299,
+      "end_s": 94.98,
+      "text": "And it starts not with humans at all.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0025",
+      "video_id": "wihLSMVD6iM",
+      "idx": 25,
+      "start_s": 95.44,
+      "end_s": 96.461,
+      "text": "It starts with monkeys.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0026",
+      "video_id": "wihLSMVD6iM",
+      "idx": 26,
+      "start_s": 97.783,
+      "end_s": 103.333,
+      "text": "Let's begin with a question that sounds ridiculous on the surface, but is actually the most important one we can ask.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0027",
+      "video_id": "wihLSMVD6iM",
+      "idx": 27,
+      "start_s": 104.055,
+      "end_s": 107.621,
+      "text": "Were humans biologically designed to handle alcohol in the first place?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0028",
+      "video_id": "wihLSMVD6iM",
+      "idx": 28,
+      "start_s": 108.671,
+      "end_s": 114.275,
+      "text": "Most animals, when they consume ethanol in any meaningful quantity, basically fall over and die.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0029",
+      "video_id": "wihLSMVD6iM",
+      "idx": 29,
+      "start_s": 115.036,
+      "end_s": 117.358,
+      "text": "Or, at minimum, have a deeply unpleasant time.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0030",
+      "video_id": "wihLSMVD6iM",
+      "idx": 30,
+      "start_s": 117.978,
+      "end_s": 120.02,
+      "text": "Their bodies can't process it efficiently.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0031",
+      "video_id": "wihLSMVD6iM",
+      "idx": 31,
+      "start_s": 120.64,
+      "end_s": 122.682,
+      "text": "Their livers stage an immediate protest.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0032",
+      "video_id": "wihLSMVD6iM",
+      "idx": 32,
+      "start_s": 123.262,
+      "end_s": 128.886,
+      "text": "The whole experience is, for most creatures on Earth, something between deeply unpleasant and fatal.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0033",
+      "video_id": "wihLSMVD6iM",
+      "idx": 33,
+      "start_s": 129.847,
+      "end_s": 130.367,
+      "text": "But humans?",
+      "n_words": 2
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0034",
+      "video_id": "wihLSMVD6iM",
+      "idx": 34,
+      "start_s": 131.408,
+      "end_s": 133.852,
+      "text": "and our close primate relatives are different.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0035",
+      "video_id": "wihLSMVD6iM",
+      "idx": 35,
+      "start_s": 134.432,
+      "end_s": 143.244,
+      "text": "We have a specific enzyme called alcohol dehydrogenase 4, or ADH4, which lets us break down ethanol with surprising efficiency.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0036",
+      "video_id": "wihLSMVD6iM",
+      "idx": 36,
+      "start_s": 144.306,
+      "end_s": 148.672,
+      "text": "Our bodies are, to a remarkable degree, built to handle this molecule.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0037",
+      "video_id": "wihLSMVD6iM",
+      "idx": 37,
+      "start_s": 149.993,
+      "end_s": 152.177,
+      "text": "here is the part that should stop you in your tracks.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0038",
+      "video_id": "wihLSMVD6iM",
+      "idx": 38,
+      "start_s": 152.898,
+      "end_s": 155.862,
+      "text": "That enzyme didn't appear when humans invented wine.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0039",
+      "video_id": "wihLSMVD6iM",
+      "idx": 39,
+      "start_s": 156.323,
+      "end_s": 158.146,
+      "text": "It didn't appear when agriculture began.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0040",
+      "video_id": "wihLSMVD6iM",
+      "idx": 40,
+      "start_s": 158.907,
+      "end_s": 161.07,
+      "text": "It appeared roughly 10 million years ago.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0041",
+      "video_id": "wihLSMVD6iM",
+      "idx": 41,
+      "start_s": 162.065,
+      "end_s": 162.906,
+      "text": "10 million years.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0042",
+      "video_id": "wihLSMVD6iM",
+      "idx": 42,
+      "start_s": 163.486,
+      "end_s": 165.887,
+      "text": "That is before Homo sapiens existed.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0043",
+      "video_id": "wihLSMVD6iM",
+      "idx": 43,
+      "start_s": 166.387,
+      "end_s": 168.568,
+      "text": "That is before Homo erectus existed.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0044",
+      "video_id": "wihLSMVD6iM",
+      "idx": 44,
+      "start_s": 169.008,
+      "end_s": 174.211,
+      "text": "That's before basically anything we would recognize as a human being was walking around on this planet.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0045",
+      "video_id": "wihLSMVD6iM",
+      "idx": 45,
+      "start_s": 174.851,
+      "end_s": 185.937,
+      "text": "That mutation emerged deep in the primate family tree, right around the period when our ancestors were transitioning from spending most of their lives in the trees to spending more time on the ground.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0046",
+      "video_id": "wihLSMVD6iM",
+      "idx": 46,
+      "start_s": 186.757,
+      "end_s": 194.002,
+      "text": "which means for 10 million years, long before we were consciously choosing to drink, our bodies were already preparing for the relationship.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0047",
+      "video_id": "wihLSMVD6iM",
+      "idx": 47,
+      "start_s": 194.863,
+      "end_s": 200.167,
+      "text": "A biologist at UC Berkeley named Robert Dudley spent 25 years trying to figure out why.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0048",
+      "video_id": "wihLSMVD6iM",
+      "idx": 48,
+      "start_s": 200.968,
+      "end_s": 204.29,
+      "text": "And the theory he developed has the greatest name in the history of science.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0049",
+      "video_id": "wihLSMVD6iM",
+      "idx": 49,
+      "start_s": 204.89,
+      "end_s": 207.352,
+      "text": "He calls it the drunken monkey hypothesis.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0050",
+      "video_id": "wihLSMVD6iM",
+      "idx": 50,
+      "start_s": 208.073,
+      "end_s": 209.994,
+      "text": "The idea is elegant in its simplicity.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0051",
+      "video_id": "wihLSMVD6iM",
+      "idx": 51,
+      "start_s": 210.895,
+      "end_s": 213.651,
+      "text": "Our ancient primate ancestors ate fruit.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0052",
+      "video_id": "wihLSMVD6iM",
+      "idx": 52,
+      "start_s": 214.433,
+      "end_s": 215.956,
+      "text": "Enormous quantities of fruit.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0053",
+      "video_id": "wihLSMVD6iM",
+      "idx": 53,
+      "start_s": 216.637,
+      "end_s": 219.462,
+      "text": "Fruit was a primary calorie source for millions of years.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0054",
+      "video_id": "wihLSMVD6iM",
+      "idx": 54,
+      "start_s": 220.123,
+      "end_s": 225.253,
+      "text": "And fruit, when it gets ripe, truly, perfectly ripe, begins to ferment.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0055",
+      "video_id": "wihLSMVD6iM",
+      "idx": 55,
+      "start_s": 226.452,
+      "end_s": 234.619,
+      "text": "Yeasts that live naturally in the environment land on the surface of the fruit, consume the sugars inside, and produce ethanol as a byproduct.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0056",
+      "video_id": "wihLSMVD6iM",
+      "idx": 56,
+      "start_s": 235.28,
+      "end_s": 245.929,
+      "text": "The fruit starts to smell faintly of alcohol, which means that for millions of years, every time a primate found a piece of perfectly ripe fruit, it was also finding trace amounts of ethanol.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0057",
+      "video_id": "wihLSMVD6iM",
+      "idx": 57,
+      "start_s": 246.589,
+      "end_s": 247.87,
+      "text": "And here's the key insight.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0058",
+      "video_id": "wihLSMVD6iM",
+      "idx": 58,
+      "start_s": 248.271,
+      "end_s": 250.593,
+      "text": "The smell of ethanol wasn't a warning sign.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0059",
+      "video_id": "wihLSMVD6iM",
+      "idx": 59,
+      "start_s": 251.153,
+      "end_s": 251.953,
+      "text": "It was a beacon.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0060",
+      "video_id": "wihLSMVD6iM",
+      "idx": 60,
+      "start_s": 252.234,
+      "end_s": 258.256,
+      "text": "It meant, this fruit is at maximum ripeness, maximum sweetness, maximum caloric value.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0061",
+      "video_id": "wihLSMVD6iM",
+      "idx": 61,
+      "start_s": 258.656,
+      "end_s": 261.638,
+      "text": "It meant, eat this now, before it's gone.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0062",
+      "video_id": "wihLSMVD6iM",
+      "idx": 62,
+      "start_s": 262.698,
+      "end_s": 268.261,
+      "text": "The ancestors who ignored that fermented smell missed out on easy calories and left them for someone else.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0063",
+      "video_id": "wihLSMVD6iM",
+      "idx": 63,
+      "start_s": 268.881,
+      "end_s": 272.943,
+      "text": "The ones who followed the smell, who were drawn to it, who felt a pull toward it.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0064",
+      "video_id": "wihLSMVD6iM",
+      "idx": 64,
+      "start_s": 273.603,
+      "end_s": 279.806,
+      "text": "Those ancestors got more food, survived longer, had more offspring, and passed that preference down the line.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0065",
+      "video_id": "wihLSMVD6iM",
+      "idx": 65,
+      "start_s": 281.13,
+      "end_s": 289.959,
+      "text": "over millions of years through the completely impersonal logic of natural selection, a preference for the scent and taste of alcohol became baked into the primate nervous system.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0066",
+      "video_id": "wihLSMVD6iM",
+      "idx": 66,
+      "start_s": 290.7,
+      "end_s": 293.923,
+      "text": "We were literally selected by evolution to enjoy the smell of booze.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0067",
+      "video_id": "wihLSMVD6iM",
+      "idx": 67,
+      "start_s": 294.864,
+      "end_s": 296.325,
+      "text": "This is not a character flaw.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0068",
+      "video_id": "wihLSMVD6iM",
+      "idx": 68,
+      "start_s": 296.706,
+      "end_s": 297.727,
+      "text": "This is not weakness.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0069",
+      "video_id": "wihLSMVD6iM",
+      "idx": 69,
+      "start_s": 298.167,
+      "end_s": 302.091,
+      "text": "This is 10 million years of adaptation working exactly as designed.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0070",
+      "video_id": "wihLSMVD6iM",
+      "idx": 70,
+      "start_s": 302.531,
+      "end_s": 304.834,
+      "text": "You literally cannot blame yourself.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0071",
+      "video_id": "wihLSMVD6iM",
+      "idx": 71,
+      "start_s": 305.765,
+      "end_s": 309.568,
+      "text": "Now, the drunken monkey hypothesis isn't just theoretical, it's been tested.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0072",
+      "video_id": "wihLSMVD6iM",
+      "idx": 72,
+      "start_s": 310.169,
+      "end_s": 317.995,
+      "text": "Researchers went to Panama and studied wild black-handed spider monkeys collecting the fruit these animals actively chose to eat and testing it for alcohol content.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0073",
+      "video_id": "wihLSMVD6iM",
+      "idx": 73,
+      "start_s": 318.776,
+      "end_s": 327.022,
+      "text": "The fruit these monkeys preferred regularly contained between 1 and 2 percent alcohol by volume, a natural result of fermentation happening inside the ripening fruit.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0074",
+      "video_id": "wihLSMVD6iM",
+      "idx": 74,
+      "start_s": 327.603,
+      "end_s": 334.389,
+      "text": "And when scientists analyzed urine samples collected from the same free-ranging monkeys, they found secondary metabolites of ethanol.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0075",
+      "video_id": "wihLSMVD6iM",
+      "idx": 75,
+      "start_s": 335.049,
+      "end_s": 339.713,
+      "text": "proof that the animals were not just ingesting the alcohol, but actively metabolizing it.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0076",
+      "video_id": "wihLSMVD6iM",
+      "idx": 76,
+      "start_s": 340.593,
+      "end_s": 357.006,
+      "text": "Even more striking, a parallel study of chimpanzees living in the Ivory Coast found that their typical daily fruit diet could expose them to the equivalent of one to two full human drinks worth of ethanol every single day, without making any choices about it, just by eating their normal food.",
+      "n_words": 51
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0077",
+      "video_id": "wihLSMVD6iM",
+      "idx": 77,
+      "start_s": 357.406,
+      "end_s": 363.992,
+      "text": "So your ancient ancestor was technically getting a mild buzz in the forest 10 million years ago and had absolutely no idea.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0078",
+      "video_id": "wihLSMVD6iM",
+      "idx": 78,
+      "start_s": 364.732,
+      "end_s": 368.074,
+      "text": "The desire, the biological pull, the preference.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0079",
+      "video_id": "wihLSMVD6iM",
+      "idx": 79,
+      "start_s": 369.174,
+      "end_s": 374.136,
+      "text": "It was all set up long before a single human being ever intentionally fermented anything.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0080",
+      "video_id": "wihLSMVD6iM",
+      "idx": 80,
+      "start_s": 374.937,
+      "end_s": 379.939,
+      "text": "The family relationship with alcohol is, it turns out, a very old one.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0081",
+      "video_id": "wihLSMVD6iM",
+      "idx": 81,
+      "start_s": 381.142,
+      "end_s": 390.164,
+      "text": "Alright, so we've established that primates have been accidentally consuming fermented fruit for millions of years, and that our bodies evolved to enjoy and process it.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0082",
+      "video_id": "wihLSMVD6iM",
+      "idx": 82,
+      "start_s": 390.784,
+      "end_s": 392.864,
+      "text": "But at some point, the story changes.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0083",
+      "video_id": "wihLSMVD6iM",
+      "idx": 83,
+      "start_s": 393.664,
+      "end_s": 404.446,
+      "text": "At some point, a human, an actual cognitively modern human, decides not just to stumble upon fermented food accidentally, but to deliberately make it.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0084",
+      "video_id": "wihLSMVD6iM",
+      "idx": 84,
+      "start_s": 404.946,
+      "end_s": 407.226,
+      "text": "This is a different and enormous leap.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0085",
+      "video_id": "wihLSMVD6iM",
+      "idx": 85,
+      "start_s": 407.666,
+      "end_s": 410.347,
+      "text": "It requires observation, it requires memory,",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0086",
+      "video_id": "wihLSMVD6iM",
+      "idx": 86,
+      "start_s": 410.787,
+      "end_s": 419.272,
+      "text": "It requires the ability to notice that something happened to this grain last time it got wet, and to decide to reproduce that process intentionally.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0087",
+      "video_id": "wihLSMVD6iM",
+      "idx": 87,
+      "start_s": 419.672,
+      "end_s": 423.435,
+      "text": "It requires, in other words, something that looks a lot like science.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0088",
+      "video_id": "wihLSMVD6iM",
+      "idx": 88,
+      "start_s": 423.975,
+      "end_s": 425.676,
+      "text": "So when did that leap happen?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0089",
+      "video_id": "wihLSMVD6iM",
+      "idx": 89,
+      "start_s": 426.056,
+      "end_s": 435.162,
+      "text": "The oldest confirmed evidence of deliberate human alcohol production sits inside a cave in Israel, Rakafet Cave, near modern-day Haifa.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0090",
+      "video_id": "wihLSMVD6iM",
+      "idx": 90,
+      "start_s": 435.982,
+      "end_s": 447.05,
+      "text": "it was a burial site used by a people called the Natufians, a group of semi-nomadic hunter-gatherers who lived in the eastern Mediterranean region between roughly 15,000 and 11,500 years ago.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0091",
+      "video_id": "wihLSMVD6iM",
+      "idx": 91,
+      "start_s": 450.248,
+      "end_s": 452.67,
+      "text": "These were smart, socially complex people.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0092",
+      "video_id": "wihLSMVD6iM",
+      "idx": 92,
+      "start_s": 453.47,
+      "end_s": 455.152,
+      "text": "They buried their dead with flowers.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0093",
+      "video_id": "wihLSMVD6iM",
+      "idx": 93,
+      "start_s": 455.832,
+      "end_s": 457.593,
+      "text": "They kept dogs as companions.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0094",
+      "video_id": "wihLSMVD6iM",
+      "idx": 94,
+      "start_s": 458.234,
+      "end_s": 462.357,
+      "text": "The earliest evidence of dog domestication is associated with Natufian culture.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0095",
+      "video_id": "wihLSMVD6iM",
+      "idx": 95,
+      "start_s": 463.077,
+      "end_s": 465.739,
+      "text": "They were not primitive in any meaningful sense of the word.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0096",
+      "video_id": "wihLSMVD6iM",
+      "idx": 96,
+      "start_s": 466.36,
+      "end_s": 476.427,
+      "text": "And inside their burial cave, among the human remains, researchers found large stone mortars, carved stone bowls, that still held residue after 13,000 years.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0097",
+      "video_id": "wihLSMVD6iM",
+      "idx": 97,
+      "start_s": 478.609,
+      "end_s": 492.999,
+      "text": "When a team led by Stanford archaeologist Li Liu analyzed that residue using microfossil and chemical analysis, looking at starch granules and microscopic plant particles called phytoliths, the picture that emerged was unambiguous.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0098",
+      "video_id": "wihLSMVD6iM",
+      "idx": 98,
+      "start_s": 493.92,
+      "end_s": 495.041,
+      "text": "They had been making beer.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0099",
+      "video_id": "wihLSMVD6iM",
+      "idx": 99,
+      "start_s": 496.033,
+      "end_s": 499.136,
+      "text": "Not wine, not some vague fermented liquid.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0100",
+      "video_id": "wihLSMVD6iM",
+      "idx": 100,
+      "start_s": 499.737,
+      "end_s": 503.901,
+      "text": "Beer, made from wheat and barley, produced through a three-stage process.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0101",
+      "video_id": "wihLSMVD6iM",
+      "idx": 101,
+      "start_s": 504.541,
+      "end_s": 512.749,
+      "text": "First malting the grain by germinating it in water, then mashing and heating it, then leaving it to ferment with wild airborne yeast.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0102",
+      "video_id": "wihLSMVD6iM",
+      "idx": 102,
+      "start_s": 513.33,
+      "end_s": 518.135,
+      "text": "An intentional, multi-step, technically sophisticated brewing process.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0103",
+      "video_id": "wihLSMVD6iM",
+      "idx": 103,
+      "start_s": 518.155,
+      "end_s": 519.616,
+      "text": "13,000 years ago.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0104",
+      "video_id": "wihLSMVD6iM",
+      "idx": 104,
+      "start_s": 521.657,
+      "end_s": 524.662,
+      "text": "Now here is the thing that should make your brain quietly short-circuit.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0105",
+      "video_id": "wihLSMVD6iM",
+      "idx": 105,
+      "start_s": 525.222,
+      "end_s": 526.865,
+      "text": "This predates agriculture.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0106",
+      "video_id": "wihLSMVD6iM",
+      "idx": 106,
+      "start_s": 527.346,
+      "end_s": 529.008,
+      "text": "The Natufians were not farmers.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0107",
+      "video_id": "wihLSMVD6iM",
+      "idx": 107,
+      "start_s": 529.288,
+      "end_s": 530.53,
+      "text": "They did not grow crops.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0108",
+      "video_id": "wihLSMVD6iM",
+      "idx": 108,
+      "start_s": 530.911,
+      "end_s": 533.515,
+      "text": "They gathered wild grain from the landscape around them.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0109",
+      "video_id": "wihLSMVD6iM",
+      "idx": 109,
+      "start_s": 533.775,
+      "end_s": 536.74,
+      "text": "And instead of eating all of it, they used some to make beer.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0110",
+      "video_id": "wihLSMVD6iM",
+      "idx": 110,
+      "start_s": 537.26,
+      "end_s": 540.081,
+      "text": "deliberately, ritually, for their dead.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0111",
+      "video_id": "wihLSMVD6iM",
+      "idx": 111,
+      "start_s": 540.521,
+      "end_s": 545.924,
+      "text": "And this single fact has fueled one of the most genuinely fascinating debates in all of archaeology.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0112",
+      "video_id": "wihLSMVD6iM",
+      "idx": 112,
+      "start_s": 546.404,
+      "end_s": 554.367,
+      "text": "Did humans first settle down and begin farming because they wanted reliable grain for bread, or because they wanted reliable grain for beer?",
+      "n_words": 23
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0113",
+      "video_id": "wihLSMVD6iM",
+      "idx": 113,
+      "start_s": 554.947,
+      "end_s": 572.299,
+      "text": "The beer-before-bread hypothesis, championed most famously by archaeologist Brian Hayden, argues that the desire to produce fermented grain beverages reliably and consistently may have been one of the key motivations, possibly the primary motivation behind the Agricultural revolution.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0114",
+      "video_id": "wihLSMVD6iM",
+      "idx": 114,
+      "start_s": 572.779,
+      "end_s": 574.24,
+      "text": "Think about it from first principles.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0115",
+      "video_id": "wihLSMVD6iM",
+      "idx": 115,
+      "start_s": 574.68,
+      "end_s": 587.448,
+      "text": "Why would a nomadic hunter-gatherer, living a reasonably successful life by moving with the seasons and following food sources, suddenly decide to stay in one place, break up the ground, plant seeds, and wait months for them to grow?",
+      "n_words": 39
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0116",
+      "video_id": "wihLSMVD6iM",
+      "idx": 116,
+      "start_s": 588.409,
+      "end_s": 590.13,
+      "text": "What would make that trade-off worthwhile?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0117",
+      "video_id": "wihLSMVD6iM",
+      "idx": 117,
+      "start_s": 591.078,
+      "end_s": 591.378,
+      "text": "Beer.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0118",
+      "video_id": "wihLSMVD6iM",
+      "idx": 118,
+      "start_s": 591.998,
+      "end_s": 593.539,
+      "text": "A guaranteed supply of beer.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0119",
+      "video_id": "wihLSMVD6iM",
+      "idx": 119,
+      "start_s": 593.939,
+      "end_s": 611.145,
+      "text": "And beyond beer, the ability to produce a reliable surplus of a calorie-dense, mildly intoxicating beverage that also happened to be safer than drinking local water, that could be shared at communal feasts, that could be used to honor the dead, that could mark the transition between seasons and the sacred events of human life.",
+      "n_words": 55
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0120",
+      "video_id": "wihLSMVD6iM",
+      "idx": 120,
+      "start_s": 611.625,
+      "end_s": 613.086,
+      "text": "This is deeply controversial.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0121",
+      "video_id": "wihLSMVD6iM",
+      "idx": 121,
+      "start_s": 613.726,
+      "end_s": 621.449,
+      "text": "Many archaeologists argue that bread and nutrition came first, and that beer was an extension of grain processing already developed for food.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0122",
+      "video_id": "wihLSMVD6iM",
+      "idx": 122,
+      "start_s": 621.809,
+      "end_s": 626.251,
+      "text": "But the Natufian discovery has given the beer hypothesis powerful new evidence.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0123",
+      "video_id": "wihLSMVD6iM",
+      "idx": 123,
+      "start_s": 627.131,
+      "end_s": 634.434,
+      "text": "Because here were people, 13,000 years ago, before agriculture existed anywhere on earth, who were already brewing.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0124",
+      "video_id": "wihLSMVD6iM",
+      "idx": 124,
+      "start_s": 635.174,
+      "end_s": 638.895,
+      "text": "The desire to make alcohol demonstrably predates organized farming.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0125",
+      "video_id": "wihLSMVD6iM",
+      "idx": 125,
+      "start_s": 639.536,
+      "end_s": 640.716,
+      "text": "The timeline is settled.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0126",
+      "video_id": "wihLSMVD6iM",
+      "idx": 126,
+      "start_s": 641.336,
+      "end_s": 643.017,
+      "text": "The argument is alive.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0127",
+      "video_id": "wihLSMVD6iM",
+      "idx": 127,
+      "start_s": 644.024,
+      "end_s": 645.287,
+      "text": "Let that sit for a moment.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0128",
+      "video_id": "wihLSMVD6iM",
+      "idx": 128,
+      "start_s": 646.149,
+      "end_s": 651.721,
+      "text": "The oldest intentional alcohol production on earth was not made by farmers, not by city builders.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0129",
+      "video_id": "wihLSMVD6iM",
+      "idx": 129,
+      "start_s": 652.535,
+      "end_s": 655.277,
+      "text": "not by people we usually associate with civilization.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0130",
+      "video_id": "wihLSMVD6iM",
+      "idx": 130,
+      "start_s": 655.677,
+      "end_s": 660.08,
+      "text": "It was made by nomadic cave dwellers in the context of burying and honoring their dead.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0131",
+      "video_id": "wihLSMVD6iM",
+      "idx": 131,
+      "start_s": 660.921,
+      "end_s": 664.083,
+      "text": "From the very beginning, alcohol was never just about having a good time.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0132",
+      "video_id": "wihLSMVD6iM",
+      "idx": 132,
+      "start_s": 664.664,
+      "end_s": 665.324,
+      "text": "It was sacred.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0133",
+      "video_id": "wihLSMVD6iM",
+      "idx": 133,
+      "start_s": 666.625,
+      "end_s": 675.692,
+      "text": "Let's keep moving forward through time, because after the Natufians, the archaeological record starts filling up quickly and from multiple directions simultaneously.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0134",
+      "video_id": "wihLSMVD6iM",
+      "idx": 134,
+      "start_s": 676.565,
+      "end_s": 687.559,
+      "text": "jump roughly 4,000 years forward to around 7,000 BCE, which sounds like a long time, but is actually relatively recent in the context of everything we've discussed so far.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0135",
+      "video_id": "wihLSMVD6iM",
+      "idx": 135,
+      "start_s": 688.5,
+      "end_s": 692.665,
+      "text": "And we arrive in Jiahu, a Neolithic village in China's Yellow River Valley.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0136",
+      "video_id": "wihLSMVD6iM",
+      "idx": 136,
+      "start_s": 693.957,
+      "end_s": 703.705,
+      "text": "Researchers led by molecular archaeologist Patrick McGovern of the University of Pennsylvania analyzed residues inside early pottery jars excavated from the site.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0137",
+      "video_id": "wihLSMVD6iM",
+      "idx": 137,
+      "start_s": 704.606,
+      "end_s": 705.867,
+      "text": "What they found was remarkable.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0138",
+      "video_id": "wihLSMVD6iM",
+      "idx": 138,
+      "start_s": 706.527,
+      "end_s": 713.673,
+      "text": "A mixed fermented beverage combining rice, honey, and hawthorn fruit, possibly also grape.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0139",
+      "video_id": "wihLSMVD6iM",
+      "idx": 139,
+      "start_s": 713.873,
+      "end_s": 714.754,
+      "text": "9,000 years old.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0140",
+      "video_id": "wihLSMVD6iM",
+      "idx": 140,
+      "start_s": 715.294,
+      "end_s": 718.176,
+      "text": "What you might reasonably describe as an ancient cocktail.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0141",
+      "video_id": "wihLSMVD6iM",
+      "idx": 141,
+      "start_s": 719.197,
+      "end_s": 730.641,
+      "text": "Around the same period, in what is now the country of Georgia, in a small village called Gadakriligora, archaeologists found evidence of wine production going back approximately 8,000 years.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0142",
+      "video_id": "wihLSMVD6iM",
+      "idx": 142,
+      "start_s": 731.301,
+      "end_s": 736.083,
+      "text": "The inside of large clay storage jars still bore the chemical signatures of grape fermentation.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0143",
+      "video_id": "wihLSMVD6iM",
+      "idx": 143,
+      "start_s": 736.823,
+      "end_s": 739.527,
+      "text": "This is currently the oldest confirmed wine in the world.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0144",
+      "video_id": "wihLSMVD6iM",
+      "idx": 144,
+      "start_s": 740.168,
+      "end_s": 750.281,
+      "text": "Georgia still makes wine the traditional way, in large clay vessels called kvavri that are buried in the earth, and Georgians will tell you with complete justification that they invented wine.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0145",
+      "video_id": "wihLSMVD6iM",
+      "idx": 145,
+      "start_s": 750.642,
+      "end_s": 754.166,
+      "text": "There is truly no arguing with them, and there is no reason to try.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0146",
+      "video_id": "wihLSMVD6iM",
+      "idx": 146,
+      "start_s": 754.977,
+      "end_s": 769.007,
+      "text": "Meanwhile, also in China, at a site called Chaotu, dating to around 9,000 years ago, researchers found pottery vessels containing beer brewed from rice and a grain called Job's Tears, which still grows in East Asia today.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0147",
+      "video_id": "wihLSMVD6iM",
+      "idx": 147,
+      "start_s": 770.35,
+      "end_s": 786.846,
+      "text": "More significantly, at Chaotu they also discovered the earliest known evidence of mold-based fermentation starters, a technique using specific fungi to break down the complex starches in grain before fermentation, which predates any written record of the method by thousands of years.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0148",
+      "video_id": "wihLSMVD6iM",
+      "idx": 148,
+      "start_s": 787.917,
+      "end_s": 799.523,
+      "text": "This technique is the direct ancestor of the processes used today to make sake, baijiu, Korean makgeolli, and dozens of other East Asian fermented drinks.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0149",
+      "video_id": "wihLSMVD6iM",
+      "idx": 149,
+      "start_s": 799.703,
+      "end_s": 807.567,
+      "text": "9,000 years of continuous tradition, running unbroken from a Neolithic pottery vessel to a glass on a table somewhere in Tokyo tonight.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0150",
+      "video_id": "wihLSMVD6iM",
+      "idx": 150,
+      "start_s": 808.788,
+      "end_s": 811.629,
+      "text": "What this geographic spread tells us is extraordinary.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0151",
+      "video_id": "wihLSMVD6iM",
+      "idx": 151,
+      "start_s": 812.309,
+      "end_s": 817.25,
+      "text": "These cultures, China, Georgia, the Eastern Mediterranean, were not in contact with each other.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0152",
+      "video_id": "wihLSMVD6iM",
+      "idx": 152,
+      "start_s": 817.99,
+      "end_s": 820.351,
+      "text": "They were not trading information or recipes.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0153",
+      "video_id": "wihLSMVD6iM",
+      "idx": 153,
+      "start_s": 820.991,
+      "end_s": 824.112,
+      "text": "They each discovered fermentation entirely independently.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0154",
+      "video_id": "wihLSMVD6iM",
+      "idx": 154,
+      "start_s": 824.872,
+      "end_s": 828.373,
+      "text": "And they all did it within roughly the same window of human prehistory.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0155",
+      "video_id": "wihLSMVD6iM",
+      "idx": 155,
+      "start_s": 829.173,
+      "end_s": 833.014,
+      "text": "Which means fermentation is not a lucky accident that happened once and spread.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0156",
+      "video_id": "wihLSMVD6iM",
+      "idx": 156,
+      "start_s": 833.934,
+      "end_s": 841.356,
+      "text": "It is something that humans, when given grain or fruit or honey and a sufficient period of time and curiosity, will discover on their own.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0157",
+      "video_id": "wihLSMVD6iM",
+      "idx": 157,
+      "start_s": 842.136,
+      "end_s": 842.716,
+      "text": "Every time.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0158",
+      "video_id": "wihLSMVD6iM",
+      "idx": 158,
+      "start_s": 843.136,
+      "end_s": 847.497,
+      "text": "We are, as a species, fundamentally and incurably fermentation curious.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0159",
+      "video_id": "wihLSMVD6iM",
+      "idx": 159,
+      "start_s": 848.338,
+      "end_s": 854.679,
+      "text": "Now, let's talk about the civilization that turned alcohol from a discovery into a full bureaucratic system.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0160",
+      "video_id": "wihLSMVD6iM",
+      "idx": 160,
+      "start_s": 855.419,
+      "end_s": 856.36,
+      "text": "Mesopotamia.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0161",
+      "video_id": "wihLSMVD6iM",
+      "idx": 161,
+      "start_s": 857.12,
+      "end_s": 860.921,
+      "text": "The land between the Tigris and Euphrates rivers, in what is now Iraq.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0162",
+      "video_id": "wihLSMVD6iM",
+      "idx": 162,
+      "start_s": 861.701,
+      "end_s": 874.944,
+      "text": "the Sumerians, then the Akkadians, then the Babylonians—the place where writing was invented, and where, perhaps not coincidentally, some of the very first things written down were records about beer.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0163",
+      "video_id": "wihLSMVD6iM",
+      "idx": 163,
+      "start_s": 876.21,
+      "end_s": 887.032,
+      "text": "Archaeological evidence from Ghoden Tepe in the Zagros Mountains of Western Iran places beer production in the Greater Mesopotamian region as early as 3500 BCE.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0164",
+      "video_id": "wihLSMVD6iM",
+      "idx": 164,
+      "start_s": 888.072,
+      "end_s": 896.213,
+      "text": "Chemists found calcium oxalate, a residue produced during beer fermentation, crystallized and preserved inside ancient clay vessels.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0165",
+      "video_id": "wihLSMVD6iM",
+      "idx": 165,
+      "start_s": 897.134,
+      "end_s": 901.674,
+      "text": "The same site also yielded the earliest chemically confirmed wine residue in the Near East.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0166",
+      "video_id": "wihLSMVD6iM",
+      "idx": 166,
+      "start_s": 902.314,
+      "end_s": 904.735,
+      "text": "But Mesopotamia didn't just drink.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0167",
+      "video_id": "wihLSMVD6iM",
+      "idx": 167,
+      "start_s": 905.555,
+      "end_s": 909.858,
+      "text": "Mesopotamia organized drinking into a social and economic institution.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0168",
+      "video_id": "wihLSMVD6iM",
+      "idx": 168,
+      "start_s": 910.458,
+      "end_s": 915.342,
+      "text": "This is perhaps the most Mesopotamian thing imaginable, and it is wonderful.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0169",
+      "video_id": "wihLSMVD6iM",
+      "idx": 169,
+      "start_s": 915.722,
+      "end_s": 920.725,
+      "text": "Sumerian workers received daily rations of beer as a fundamental part of their compensation.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0170",
+      "video_id": "wihLSMVD6iM",
+      "idx": 170,
+      "start_s": 921.045,
+      "end_s": 922.847,
+      "text": "This wasn't casual generosity.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0171",
+      "video_id": "wihLSMVD6iM",
+      "idx": 171,
+      "start_s": 923.267,
+      "end_s": 924.308,
+      "text": "It was the system.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0172",
+      "video_id": "wihLSMVD6iM",
+      "idx": 172,
+      "start_s": 924.708,
+      "end_s": 932.053,
+      "text": "If you were a laborer building a temple, a scribe copying tablets, a farmer clearing irrigation channels, you received beer.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0173",
+      "video_id": "wihLSMVD6iM",
+      "idx": 173,
+      "start_s": 933.137,
+      "end_s": 940.956,
+      "text": "Detailed administrative tablets survive that record these distributions with the same meticulous precision a modern accountant brings to a payroll system.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0174",
+      "video_id": "wihLSMVD6iM",
+      "idx": 174,
+      "start_s": 941.885,
+      "end_s": 945.826,
+      "text": "Workers of average rank might receive around 2 liters of beer per day.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0175",
+      "video_id": "wihLSMVD6iM",
+      "idx": 175,
+      "start_s": 946.586,
+      "end_s": 949.626,
+      "text": "Senior officials and higher-ranking individuals received more.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0176",
+      "video_id": "wihLSMVD6iM",
+      "idx": 176,
+      "start_s": 950.467,
+      "end_s": 954.807,
+      "text": "Even individuals who had died were provisioned with beer for the journey into the afterlife.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0177",
+      "video_id": "wihLSMVD6iM",
+      "idx": 177,
+      "start_s": 955.247,
+      "end_s": 960.868,
+      "text": "Because apparently the Sumerians saw no reason why death should interrupt a reasonable daily ration.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0178",
+      "video_id": "wihLSMVD6iM",
+      "idx": 178,
+      "start_s": 961.408,
+      "end_s": 962.849,
+      "text": "Beer was currency.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0179",
+      "video_id": "wihLSMVD6iM",
+      "idx": 179,
+      "start_s": 963.389,
+      "end_s": 964.349,
+      "text": "Beer was wages.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0180",
+      "video_id": "wihLSMVD6iM",
+      "idx": 180,
+      "start_s": 964.929,
+      "end_s": 965.849,
+      "text": "Beer was religion.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0181",
+      "video_id": "wihLSMVD6iM",
+      "idx": 181,
+      "start_s": 966.289,
+      "end_s": 967.31,
+      "text": "Beer was medicine.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0182",
+      "video_id": "wihLSMVD6iM",
+      "idx": 182,
+      "start_s": 967.77,
+      "end_s": 969.57,
+      "text": "Beer was the social fabric itself.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0183",
+      "video_id": "wihLSMVD6iM",
+      "idx": 183,
+      "start_s": 970.17,
+      "end_s": 977.934,
+      "text": "The Sumerians loved beer so deeply, so sincerely, so reverently, that they created an entire goddess to embody it.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0184",
+      "video_id": "wihLSMVD6iM",
+      "idx": 184,
+      "start_s": 978.595,
+      "end_s": 984.038,
+      "text": "Her name was Ninkasi, which translates magnificently as the lady who fills the mouth.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0185",
+      "video_id": "wihLSMVD6iM",
+      "idx": 185,
+      "start_s": 984.798,
+      "end_s": 990.742,
+      "text": "She was the daughter of Enki, the creator god, and Ninti, queen of the sacred lake.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0186",
+      "video_id": "wihLSMVD6iM",
+      "idx": 186,
+      "start_s": 991.802,
+      "end_s": 1000.587,
+      "text": "She was a major figure in the Sumerian pantheon, and her domain was not just brewing, it was the entire civilizing power that fermented grain represented.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0187",
+      "video_id": "wihLSMVD6iM",
+      "idx": 187,
+      "start_s": 1001.648,
+      "end_s": 1008.332,
+      "text": "Around 1800 BCE, an anonymous Sumerian poet composed a hymn in her honor.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0188",
+      "video_id": "wihLSMVD6iM",
+      "idx": 188,
+      "start_s": 1009.179,
+      "end_s": 1014.284,
+      "text": "The Hymn to Ninkasi is one of the most extraordinary documents to survive from the ancient world.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0189",
+      "video_id": "wihLSMVD6iM",
+      "idx": 189,
+      "start_s": 1014.865,
+      "end_s": 1015.906,
+      "text": "It is a religious poem.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0190",
+      "video_id": "wihLSMVD6iM",
+      "idx": 190,
+      "start_s": 1016.487,
+      "end_s": 1019.029,
+      "text": "It is a declaration of love for a goddess.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0191",
+      "video_id": "wihLSMVD6iM",
+      "idx": 191,
+      "start_s": 1019.53,
+      "end_s": 1028.439,
+      "text": "And depending on which scholars you consult, it is also, embedded within its verses, something remarkably close to a step-by-step brewing recipe.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0192",
+      "video_id": "wihLSMVD6iM",
+      "idx": 192,
+      "start_s": 1029.595,
+      "end_s": 1042.56,
+      "text": "Written on two clay tablets, it describes the malting of grain, the baking of it into a bread called bapir, the soaking, the fermenting, the filtering of the final liquid through a woven basket.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0193",
+      "video_id": "wihLSMVD6iM",
+      "idx": 193,
+      "start_s": 1043.581,
+      "end_s": 1055.886,
+      "text": "The process is described in enough detail that in 1989, a modern American brewer named Fritz Maytag, founder of Anchor Brewing Company in San Francisco, actually attempted to recreate it.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0194",
+      "video_id": "wihLSMVD6iM",
+      "idx": 194,
+      "start_s": 1056.466,
+      "end_s": 1060.388,
+      "text": "The result was served at the annual meeting of the American Association of Microbrewers.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0195",
+      "video_id": "wihLSMVD6iM",
+      "idx": 195,
+      "start_s": 1061.048,
+      "end_s": 1065.23,
+      "text": "Attendees drank it from clay jugs through long straws, as the Sumerians had.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0196",
+      "video_id": "wihLSMVD6iM",
+      "idx": 196,
+      "start_s": 1066.39,
+      "end_s": 1068.751,
+      "text": "The alcohol content was around 3.5%.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0197",
+      "video_id": "wihLSMVD6iM",
+      "idx": 197,
+      "start_s": 1069.131,
+      "end_s": 1073.413,
+      "text": "The taste was reportedly reminiscent of champagne mixed with dates.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0198",
+      "video_id": "wihLSMVD6iM",
+      "idx": 198,
+      "start_s": 1074.918,
+      "end_s": 1079.0,
+      "text": "3,800 years after that hymn was written, it still worked.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0199",
+      "video_id": "wihLSMVD6iM",
+      "idx": 199,
+      "start_s": 1079.581,
+      "end_s": 1088.145,
+      "text": "That is either a testament to the precision of ancient Sumerian brewing knowledge, or to the fundamental robustness of fermentation as a process.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0200",
+      "video_id": "wihLSMVD6iM",
+      "idx": 200,
+      "start_s": 1088.985,
+      "end_s": 1089.766,
+      "text": "Probably both.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0201",
+      "video_id": "wihLSMVD6iM",
+      "idx": 201,
+      "start_s": 1090.566,
+      "end_s": 1095.89,
+      "text": "The Babylonians, who inherited and expanded much of Sumerian culture, took this further still.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0202",
+      "video_id": "wihLSMVD6iM",
+      "idx": 202,
+      "start_s": 1096.45,
+      "end_s": 1099.312,
+      "text": "They documented at least 70 varieties of beer.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0203",
+      "video_id": "wihLSMVD6iM",
+      "idx": 203,
+      "start_s": 1100.093,
+      "end_s": 1100.393,
+      "text": "70.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0204",
+      "video_id": "wihLSMVD6iM",
+      "idx": 204,
+      "start_s": 1100.993,
+      "end_s": 1107.878,
+      "text": "Light beer, dark beer, filtered beer, beer mixed with honey, spiced varieties, regional styles.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0205",
+      "video_id": "wihLSMVD6iM",
+      "idx": 205,
+      "start_s": 1108.339,
+      "end_s": 1116.845,
+      "text": "They had an entire taxonomy of fermented beverages at a period when most of the world's population was still organizing itself into the first agricultural settlements.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0206",
+      "video_id": "wihLSMVD6iM",
+      "idx": 206,
+      "start_s": 1117.584,
+      "end_s": 1137.885,
+      "text": "And then, and this is the detail that genuinely makes me laugh every time, the Code of Hammurabi, one of the oldest surviving written law codes in human history, dating to approximately 1,754 BCE, includes specific legislation about beer, about the minimum quality standards taverns must maintain.",
+      "n_words": 47
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0207",
+      "video_id": "wihLSMVD6iM",
+      "idx": 207,
+      "start_s": 1138.566,
+      "end_s": 1144.352,
+      "text": "about the proper pricing of different grades of beer, about what happens to a tavern owner caught watering down their product.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0208",
+      "video_id": "wihLSMVD6iM",
+      "idx": 208,
+      "start_s": 1144.913,
+      "end_s": 1149.717,
+      "text": "If you watered down your beer in ancient Babylon, the punishment was being thrown into the river.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0209",
+      "video_id": "wihLSMVD6iM",
+      "idx": 209,
+      "start_s": 1150.178,
+      "end_s": 1151.119,
+      "text": "Humanities first.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0210",
+      "video_id": "wihLSMVD6iM",
+      "idx": 210,
+      "start_s": 1151.599,
+      "end_s": 1156.024,
+      "text": "Great written legal code included consumer protection law for alcohol quality.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0211",
+      "video_id": "wihLSMVD6iM",
+      "idx": 211,
+      "start_s": 1156.965,
+      "end_s": 1160.929,
+      "text": "We have, as a species, always known what matters.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0212",
+      "video_id": "wihLSMVD6iM",
+      "idx": 212,
+      "start_s": 1162.383,
+      "end_s": 1169.667,
+      "text": "Egypt deserves its own chapter in this story, because the Egyptians were doing something slightly different, and in many ways, more interesting.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0213",
+      "video_id": "wihLSMVD6iM",
+      "idx": 213,
+      "start_s": 1170.047,
+      "end_s": 1176.191,
+      "text": "Ancient Egyptians consumed both beer and wine, and both were completely central to their religious and daily lives.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0214",
+      "video_id": "wihLSMVD6iM",
+      "idx": 214,
+      "start_s": 1176.991,
+      "end_s": 1187.978,
+      "text": "The workers who built the pyramids—not slaves, as decades of Egyptological research has established—received regular rations of beer and bread as the foundational elements of their diet and their pay.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0215",
+      "video_id": "wihLSMVD6iM",
+      "idx": 215,
+      "start_s": 1188.838,
+      "end_s": 1195.3,
+      "text": "Egyptian beer, made primarily from emmer wheat, was thick, nutritious, and low in alcohol by modern standards.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0216",
+      "video_id": "wihLSMVD6iM",
+      "idx": 216,
+      "start_s": 1196.42,
+      "end_s": 1205.583,
+      "text": "In a climate where Nile water could carry dangerous pathogens, a fermented beverage with its natural antimicrobial properties was often genuinely safer to drink.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0217",
+      "video_id": "wihLSMVD6iM",
+      "idx": 217,
+      "start_s": 1206.963,
+      "end_s": 1209.924,
+      "text": "Beer was, in a very real sense, public health infrastructure.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0218",
+      "video_id": "wihLSMVD6iM",
+      "idx": 218,
+      "start_s": 1211.044,
+      "end_s": 1212.545,
+      "text": "Wine, however, was prestige.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0219",
+      "video_id": "wihLSMVD6iM",
+      "idx": 219,
+      "start_s": 1213.727,
+      "end_s": 1221.033,
+      "text": "Wine was for the elite, for high ceremony, for offerings placed before the gods, and for the burial chambers of pharaohs.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0220",
+      "video_id": "wihLSMVD6iM",
+      "idx": 220,
+      "start_s": 1222.574,
+      "end_s": 1229.279,
+      "text": "When archaeologists excavate royal Egyptian tombs, they find wine jars, sealed and labeled.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0221",
+      "video_id": "wihLSMVD6iM",
+      "idx": 221,
+      "start_s": 1230.12,
+      "end_s": 1233.803,
+      "text": "Labeled not just with the vintage year, but with the vineyard of origin.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0222",
+      "video_id": "wihLSMVD6iM",
+      "idx": 222,
+      "start_s": 1234.665,
+      "end_s": 1238.529,
+      "text": "and, in some cases, the name of the chief vintner responsible.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0223",
+      "video_id": "wihLSMVD6iM",
+      "idx": 223,
+      "start_s": 1239.369,
+      "end_s": 1244.914,
+      "text": "The world's oldest wine labels, sitting in tombs sealed for 3,000 years.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0224",
+      "video_id": "wihLSMVD6iM",
+      "idx": 224,
+      "start_s": 1245.555,
+      "end_s": 1254.623,
+      "text": "The Egyptians attributed the gift of beer to Osiris, god of the dead, of resurrection, of the eternal cycle of life and renewal.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0225",
+      "video_id": "wihLSMVD6iM",
+      "idx": 225,
+      "start_s": 1255.304,
+      "end_s": 1258.327,
+      "text": "Not as a curse, as a civilization-building gift.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0226",
+      "video_id": "wihLSMVD6iM",
+      "idx": 226,
+      "start_s": 1259.239,
+      "end_s": 1263.202,
+      "text": "Beer, in Egyptian theology, was one of the things that made humans human.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0227",
+      "video_id": "wihLSMVD6iM",
+      "idx": 227,
+      "start_s": 1263.902,
+      "end_s": 1267.684,
+      "text": "Alongside bread and medicine, it was a pillar of civilized life.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0228",
+      "video_id": "wihLSMVD6iM",
+      "idx": 228,
+      "start_s": 1268.865,
+      "end_s": 1271.247,
+      "text": "And here is the thread that runs through all of this.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0229",
+      "video_id": "wihLSMVD6iM",
+      "idx": 229,
+      "start_s": 1272.047,
+      "end_s": 1277.39,
+      "text": "From the Natufians, to Sumer, to Egypt, to ancient China.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0230",
+      "video_id": "wihLSMVD6iM",
+      "idx": 230,
+      "start_s": 1278.951,
+      "end_s": 1287.677,
+      "text": "In virtually every culture, in every archaeological context where we find the earliest evidence of intentional alcohol production, it is tied to ritual.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0231",
+      "video_id": "wihLSMVD6iM",
+      "idx": 231,
+      "start_s": 1289.085,
+      "end_s": 1298.467,
+      "text": "to the sacred, to death and burial, to offerings and prayers, to the transition between the world of the living and whatever comes after.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0232",
+      "video_id": "wihLSMVD6iM",
+      "idx": 232,
+      "start_s": 1299.527,
+      "end_s": 1302.848,
+      "text": "The Natufians brewed beer in a burial cave to honor their dead.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0233",
+      "video_id": "wihLSMVD6iM",
+      "idx": 233,
+      "start_s": 1303.648,
+      "end_s": 1309.79,
+      "text": "The Sumerians dedicated an entire goddess to brewing and distributed beer as a fundamental part of religious life.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0234",
+      "video_id": "wihLSMVD6iM",
+      "idx": 234,
+      "start_s": 1310.89,
+      "end_s": 1316.291,
+      "text": "The Egyptians offered wine to Osiris at the border between this world and the next.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0235",
+      "video_id": "wihLSMVD6iM",
+      "idx": 235,
+      "start_s": 1317.917,
+      "end_s": 1325.102,
+      "text": "Ancient Chinese burial sites from 9,000 years ago contain painted pottery vessels that held beer made for the deceased.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0236",
+      "video_id": "wihLSMVD6iM",
+      "idx": 236,
+      "start_s": 1325.962,
+      "end_s": 1338.611,
+      "text": "The earliest alcohol production we can identify across the entire span of human archaeology, on every continent where it has been studied, is fundamentally bound up with the spiritual, the communal, and the sacred.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0237",
+      "video_id": "wihLSMVD6iM",
+      "idx": 237,
+      "start_s": 1339.011,
+      "end_s": 1340.232,
+      "text": "This is not a coincidence.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0238",
+      "video_id": "wihLSMVD6iM",
+      "idx": 238,
+      "start_s": 1340.772,
+      "end_s": 1359.798,
+      "text": "There is something about altered states of consciousness, about the loosening of ordinary perception that a fermented beverage provides, that humans have consistently understood to be meaningful, to be a doorway, to represent a moment of stepping outside the ordinary bounds of individual experience and touching something larger.",
+      "n_words": 48
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0239",
+      "video_id": "wihLSMVD6iM",
+      "idx": 239,
+      "start_s": 1360.458,
+      "end_s": 1365.38,
+      "text": "Whether you interpret that spiritually or neurologically or purely socially, the pattern is real.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0240",
+      "video_id": "wihLSMVD6iM",
+      "idx": 240,
+      "start_s": 1365.98,
+      "end_s": 1371.842,
+      "text": "Humans didn't invent alcohol as a way to forget their problems after a long day of prehistoric agriculture.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0241",
+      "video_id": "wihLSMVD6iM",
+      "idx": 241,
+      "start_s": 1372.402,
+      "end_s": 1378.064,
+      "text": "They invented it, or rather discovered and cultivated it, as a way of marking the moments that matter most.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0242",
+      "video_id": "wihLSMVD6iM",
+      "idx": 242,
+      "start_s": 1378.904,
+      "end_s": 1385.246,
+      "text": "Birth, death, harvest, prayer, the turning of seasons, the binding of communities together.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0243",
+      "video_id": "wihLSMVD6iM",
+      "idx": 243,
+      "start_s": 1386.347,
+      "end_s": 1389.388,
+      "text": "So, when did ancient humans first drink alcohol?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0244",
+      "video_id": "wihLSMVD6iM",
+      "idx": 244,
+      "start_s": 1390.348,
+      "end_s": 1393.829,
+      "text": "The complete answer spans an almost incomprehensible range of time.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0245",
+      "video_id": "wihLSMVD6iM",
+      "idx": 245,
+      "start_s": 1394.37,
+      "end_s": 1408.536,
+      "text": "The biological foundation, the genetic machinery that lets us metabolize ethanol, the enzymatic preference that makes us seek it out, was laid 10 million years ago in the primate ancestors we share with every living ape and monkey on earth.",
+      "n_words": 40
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0246",
+      "video_id": "wihLSMVD6iM",
+      "idx": 246,
+      "start_s": 1409.496,
+      "end_s": 1418.04,
+      "text": "Our bodies were shaped by millions of years of finding fermented fruit in the forest before a single human being ever consciously decided to make a drink.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0247",
+      "video_id": "wihLSMVD6iM",
+      "idx": 247,
+      "start_s": 1418.988,
+      "end_s": 1442.302,
+      "text": "the first intentional production 13,000 years ago, confirmed in a cave in Israel by hunter-gatherers who brewed beer as an act of devotion to their dead, the spread across civilizations the following several thousand years independently and simultaneously in China, Georgia, Iran, Mesopotamia, Egypt, and beyond.",
+      "n_words": 46
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0248",
+      "video_id": "wihLSMVD6iM",
+      "idx": 248,
+      "start_s": 1443.741,
+      "end_s": 1446.263,
+      "text": "From there, the trajectory is relatively well documented.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0249",
+      "video_id": "wihLSMVD6iM",
+      "idx": 249,
+      "start_s": 1446.903,
+      "end_s": 1465.178,
+      "text": "Beer rations in Sumer, wine in Egypt's royal tombs, hymns to brewing goddesses, law codes, protecting the quality of tavern pours, and an unbroken chain of fermentation knowledge that connects a Neolithic pottery vessel to every bar, winery, brewery, and kitchen in the world today.",
+      "n_words": 45
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0250",
+      "video_id": "wihLSMVD6iM",
+      "idx": 250,
+      "start_s": 1466.255,
+      "end_s": 1470.999,
+      "text": "The next time someone passes you a drink, take a moment to appreciate the full weight of what you're holding.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0251",
+      "video_id": "wihLSMVD6iM",
+      "idx": 251,
+      "start_s": 1471.639,
+      "end_s": 1489.593,
+      "text": "That glass is connected through an uninterrupted chain of human curiosity and ritual and survival and community, all the way back to a hunter-gatherer standing in a cave 13,000 years ago, tasting something strange and uncertain and finding it, against all reasonable expectations, good.",
+      "n_words": 44
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0252",
+      "video_id": "wihLSMVD6iM",
+      "idx": 252,
+      "start_s": 1490.66,
+      "end_s": 1499.034,
+      "text": "And behind that, another 10 million years of monkeys in the forest, following the smell of something sweet and slightly wrong, and deciding every time to go toward it.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0253",
+      "video_id": "wihLSMVD6iM",
+      "idx": 253,
+      "start_s": 1499.615,
+      "end_s": 1501.938,
+      "text": "Humanity didn't stumble into alcohol by accident.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0254",
+      "video_id": "wihLSMVD6iM",
+      "idx": 254,
+      "start_s": 1502.559,
+      "end_s": 1505.504,
+      "text": "We grew toward it, the way a plant grows toward light.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0255",
+      "video_id": "wihLSMVD6iM",
+      "idx": 255,
+      "start_s": 1506.506,
+      "end_s": 1507.628,
+      "text": "Okay, I'm off now.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0256",
+      "video_id": "wihLSMVD6iM",
+      "idx": 256,
+      "start_s": 1507.788,
+      "end_s": 1509.531,
+      "text": "I'm gonna get completely drunk.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0257",
+      "video_id": "wihLSMVD6iM",
+      "idx": 257,
+      "start_s": 1509.992,
+      "end_s": 1511.714,
+      "text": "In the meantime, click on the next video.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0258",
+      "video_id": "wihLSMVD6iM",
+      "idx": 258,
+      "start_s": 1512.175,
+      "end_s": 1513.698,
+      "text": "Bro, please, just click.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0259",
+      "video_id": "wihLSMVD6iM",
+      "idx": 259,
+      "start_s": 1514.299,
+      "end_s": 1514.739,
+      "text": "See you soon.",
+      "n_words": 3
+    }
+  ]
+}

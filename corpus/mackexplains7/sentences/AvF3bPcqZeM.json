@@ -1,0 +1,2716 @@
+{
+  "video_id": "AvF3bPcqZeM",
+  "duration_s": 1309.0,
+  "generated_at": "2026-09-03T11:57:49.256596+00:00",
+  "sentences": [
+    {
+      "sent_id": "AvF3bPcqZeM:s0000",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 0,
+      "start_s": 0.051,
+      "end_s": 0.592,
+      "text": "You wake up.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0001",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 1,
+      "start_s": 1.413,
+      "end_s": 1.833,
+      "text": "It's dark.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0002",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 2,
+      "start_s": 2.634,
+      "end_s": 3.856,
+      "text": "You don't have walls.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0003",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 3,
+      "start_s": 4.096,
+      "end_s": 4.997,
+      "text": "You don't have a door.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0004",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 4,
+      "start_s": 5.137,
+      "end_s": 6.098,
+      "text": "You don't have a lock.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0005",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 5,
+      "start_s": 6.599,
+      "end_s": 7.78,
+      "text": "You don't even have shoes.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0006",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 6,
+      "start_s": 7.981,
+      "end_s": 14.108,
+      "text": "And somewhere, about 40 meters away, something with six-inch claws is deciding whether you look like dinner.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0007",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 7,
+      "start_s": 14.849,
+      "end_s": 17.953,
+      "text": "Welcome to the life of every human who lived before about 10,000 years ago.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0008",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 8,
+      "start_s": 19.014,
+      "end_s": 21.475,
+      "text": "Welcome to a world where you were not at the top of the food chain.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0009",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 9,
+      "start_s": 21.735,
+      "end_s": 23.216,
+      "text": "You were just on the menu.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0010",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 10,
+      "start_s": 23.396,
+      "end_s": 26.018,
+      "text": "Somewhere between antelope and honestly, why not?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0011",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 11,
+      "start_s": 26.198,
+      "end_s": 27.318,
+      "text": "And yet, here we are.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0012",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 12,
+      "start_s": 27.458,
+      "end_s": 28.779,
+      "text": "8 billion strong.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0013",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 13,
+      "start_s": 29.039,
+      "end_s": 32.101,
+      "text": "Somehow, against all odds, our ancestors didn't get eaten.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0014",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 14,
+      "start_s": 32.421,
+      "end_s": 33.301,
+      "text": "They survived.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0015",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 15,
+      "start_s": 33.681,
+      "end_s": 34.522,
+      "text": "They thrived.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0016",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 16,
+      "start_s": 35.042,
+      "end_s": 45.767,
+      "text": "They made it through hundreds of thousands of years of being soft, slow, and essentially naked in a world full of animals that were built specifically, almost lovingly, to destroy things like them.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0017",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 17,
+      "start_s": 46.068,
+      "end_s": 46.328,
+      "text": "How?",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0018",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 18,
+      "start_s": 46.848,
+      "end_s": 48.389,
+      "text": "How did we actually pull this off?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0019",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 19,
+      "start_s": 48.529,
+      "end_s": 49.889,
+      "text": "That's what we're talking about today.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0020",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 20,
+      "start_s": 50.45,
+      "end_s": 56.553,
+      "text": "And the answer is so much stranger, so much more fascinating, and honestly so much more impressive than you'd expect.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0021",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 21,
+      "start_s": 57.213,
+      "end_s": 58.354,
+      "text": "Because it wasn't one thing.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0022",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 22,
+      "start_s": 58.974,
+      "end_s": 67.102,
+      "text": "It was a combination of adaptations, behaviors, and social developments that stacked on top of each other over an almost incomprehensible stretch of time.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0023",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 23,
+      "start_s": 67.182,
+      "end_s": 67.582,
+      "text": "Buckle up.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0024",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 24,
+      "start_s": 67.742,
+      "end_s": 68.643,
+      "text": "Let's go all the way back.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0025",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 25,
+      "start_s": 69.064,
+      "end_s": 70.685,
+      "text": "First, let's be honest about something.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0026",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 26,
+      "start_s": 70.905,
+      "end_s": 73.188,
+      "text": "Let's actually establish how bad the situation was.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0027",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 27,
+      "start_s": 73.668,
+      "end_s": 80.935,
+      "text": "Because sometimes we talk about ancient humans and we imagine these tough, rugged, muscular dudes with spears casually wrestling lions for fun.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0028",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 28,
+      "start_s": 81.495,
+      "end_s": 82.657,
+      "text": "That's not the reality.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0029",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 29,
+      "start_s": 83.297,
+      "end_s": 85.278,
+      "text": "Not at the beginning, not even close.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0030",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 30,
+      "start_s": 85.819,
+      "end_s": 87.24,
+      "text": "Go back two and a half million years.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0031",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 31,
+      "start_s": 87.66,
+      "end_s": 96.966,
+      "text": "Early",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0032",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 32,
+      "start_s": 87.66,
+      "end_s": 96.966,
+      "text": "Homo species, small, fragile, brain still developing, no fire, no complex tools, no language, no coordinated hunting strategy.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0033",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 33,
+      "start_s": 97.226,
+      "end_s": 100.328,
+      "text": "They were, biologically speaking, a prey animal.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0034",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 34,
+      "start_s": 100.628,
+      "end_s": 103.57,
+      "text": "Full stop, not a predator, not an apex species.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0035",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 35,
+      "start_s": 103.87,
+      "end_s": 106.952,
+      "text": "Something that larger animals chased, caught, and ate.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0036",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 36,
+      "start_s": 107.672,
+      "end_s": 111.195,
+      "text": "The predators they had to deal with weren't like the lions and leopards we see today.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0037",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 37,
+      "start_s": 111.995,
+      "end_s": 112.735,
+      "text": "They were worse.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0038",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 38,
+      "start_s": 113.616,
+      "end_s": 114.556,
+      "text": "Significantly worse.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0039",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 39,
+      "start_s": 115.276,
+      "end_s": 117.237,
+      "text": "Imagine a lion, but bigger.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0040",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 40,
+      "start_s": 117.658,
+      "end_s": 119.839,
+      "text": "Imagine a hyena the size of a bear.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0041",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 41,
+      "start_s": 120.299,
+      "end_s": 128.782,
+      "text": "There was a prehistoric hyena called Pachycrocuta brevirostris, and it was genuinely the size of a lion with jaws strong enough to crush elephant bones.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0042",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 42,
+      "start_s": 129.083,
+      "end_s": 129.963,
+      "text": "Not metaphorically.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0043",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 43,
+      "start_s": 130.203,
+      "end_s": 130.643,
+      "text": "Literally.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0044",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 44,
+      "start_s": 130.823,
+      "end_s": 131.244,
+      "text": "Elephant.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0045",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 45,
+      "start_s": 131.524,
+      "end_s": 131.964,
+      "text": "Bones.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0046",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 46,
+      "start_s": 132.304,
+      "end_s": 136.086,
+      "text": "It could bite through the femur of a full-grown elephant like it was a breadstick.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0047",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 47,
+      "start_s": 136.846,
+      "end_s": 144.591,
+      "text": "There were multiple species of saber-toothed cats, the most famous being Smilodon, with canine teeth up to 28 centimeters long.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0048",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 48,
+      "start_s": 145.252,
+      "end_s": 149.014,
+      "text": "There were giant crocodiles that made modern Nile crocs look like pets.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0049",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 49,
+      "start_s": 149.354,
+      "end_s": 154.438,
+      "text": "There were cave bears that stood 12 feet tall when upright and weighed up to a thousand kilograms.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0050",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 50,
+      "start_s": 154.958,
+      "end_s": 157.8,
+      "text": "There was a prehistoric shark, Megalodon.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0051",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 51,
+      "start_s": 158.38,
+      "end_s": 161.342,
+      "text": "still lurking in warmer waters during parts of the Pleistocene.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0052",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 52,
+      "start_s": 161.583,
+      "end_s": 171.871,
+      "text": "There was even a bird, an actual bird, called the Haast's Eagle in New Zealand, which hunted prey roughly the size of a human, and had talons comparable in size to a modern tiger's claws.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0053",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 53,
+      "start_s": 172.251,
+      "end_s": 173.632,
+      "text": "These weren't cartoon monsters.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0054",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 54,
+      "start_s": 173.952,
+      "end_s": 177.295,
+      "text": "These were real, functional, highly evolved killing machines.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0055",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 55,
+      "start_s": 177.755,
+      "end_s": 180.698,
+      "text": "And our ancestors were living right alongside them.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0056",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 56,
+      "start_s": 181.298,
+      "end_s": 187.3,
+      "text": "In open landscapes, often near water sources, which, fun fact, is exactly where every predator also congregates.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0057",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 57,
+      "start_s": 187.64,
+      "end_s": 189.78,
+      "text": "Because every predator figured out the same thing.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0058",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 58,
+      "start_s": 189.96,
+      "end_s": 193.701,
+      "text": "Prey needs water, so if you wait near the water hole, the food comes to you.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0059",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 59,
+      "start_s": 194.021,
+      "end_s": 198.542,
+      "text": "Early humans were essentially doing the prehistoric equivalent of walking straight into a trap.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0060",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 60,
+      "start_s": 198.942,
+      "end_s": 199.242,
+      "text": "Every.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0061",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 61,
+      "start_s": 199.623,
+      "end_s": 199.983,
+      "text": "Single.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0062",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 62,
+      "start_s": 200.403,
+      "end_s": 200.643,
+      "text": "Day.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0063",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 63,
+      "start_s": 201.203,
+      "end_s": 204.564,
+      "text": "So how on earth did they not go extinct in the first hundred thousand years?",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0064",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 64,
+      "start_s": 205.324,
+      "end_s": 209.025,
+      "text": "The answer starts with something that sounds almost too simple to be the answer.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0065",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 65,
+      "start_s": 209.665,
+      "end_s": 210.525,
+      "text": "They stayed together.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0066",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 66,
+      "start_s": 211.146,
+      "end_s": 217.389,
+      "text": "Group living is one of the oldest survival strategies in the animal kingdom, and early humans leaned into it with everything they had.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0067",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 67,
+      "start_s": 218.029,
+      "end_s": 219.77,
+      "text": "Think about it from a predator's perspective.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0068",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 68,
+      "start_s": 220.19,
+      "end_s": 221.55,
+      "text": "You're a saber-toothed cat.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0069",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 69,
+      "start_s": 222.071,
+      "end_s": 223.711,
+      "text": "You're scanning the savanna at dusk.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0070",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 70,
+      "start_s": 224.072,
+      "end_s": 226.633,
+      "text": "You see a lone human crouched at a water's edge.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0071",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 71,
+      "start_s": 227.413,
+      "end_s": 227.993,
+      "text": "easy meal.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0072",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 72,
+      "start_s": 228.493,
+      "end_s": 234.135,
+      "text": "You see a group of 25 humans, some of whom are already screaming, picking up rocks and advancing toward you with sticks.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0073",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 73,
+      "start_s": 234.935,
+      "end_s": 238.396,
+      "text": "Suddenly you start thinking maybe the wildebeest over the ridge looks more interesting.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0074",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 74,
+      "start_s": 238.757,
+      "end_s": 242.038,
+      "text": "This is called the dilution effect, and it's mathematically real.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0075",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 75,
+      "start_s": 242.498,
+      "end_s": 248.42,
+      "text": "When you're in a group, the statistical chance of you specifically being the one that gets grabbed drops dramatically.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0076",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 76,
+      "start_s": 248.78,
+      "end_s": 250.4,
+      "text": "You're not faster than the predator.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0077",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 77,
+      "start_s": 250.68,
+      "end_s": 251.601,
+      "text": "You're not stronger.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0078",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 78,
+      "start_s": 252.101,
+      "end_s": 254.121,
+      "text": "But you don't need to be either of those things.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0079",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 79,
+      "start_s": 254.341,
+      "end_s": 258.062,
+      "text": "You just need to not be the Unlucky one out of 25.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0080",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 80,
+      "start_s": 258.843,
+      "end_s": 265.444,
+      "text": "The odds shift in your favor simply by existing in proximity to other humans, but it's more than just math.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0081",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 81,
+      "start_s": 265.684,
+      "end_s": 267.485,
+      "text": "Groups enabled active defense.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0082",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 82,
+      "start_s": 268.205,
+      "end_s": 277.647,
+      "text": "There's strong evidence, supported by observations of our closest living relatives, chimpanzees, that early human groups actively mobbed predators.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0083",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 83,
+      "start_s": 278.547,
+      "end_s": 293.666,
+      "text": "not one-on-one combat which would have been suicidal, but a coordinated group response, screaming, throwing objects, banging things together, and collectively advancing toward the threat in a way that made the predator's risk-reward calculation fall apart.",
+      "n_words": 36
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0084",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 84,
+      "start_s": 294.387,
+      "end_s": 298.51,
+      "text": "And here's the thing about large predators that most people don't fully appreciate.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0085",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 85,
+      "start_s": 298.91,
+      "end_s": 301.412,
+      "text": "They almost never actually want a fight.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0086",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 86,
+      "start_s": 301.852,
+      "end_s": 311.178,
+      "text": "A lion that gets a spear in the shoulder, or even just takes a rock to the face, is a lion that might not be able to hunt effectively for weeks, which means starvation.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0087",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 87,
+      "start_s": 312.158,
+      "end_s": 320.324,
+      "text": "Predators at the top of the food chain generally have very thin margins for injury, because injury means an inability to hunt, which means death.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0088",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 88,
+      "start_s": 321.204,
+      "end_s": 324.687,
+      "text": "So most large carnivores are deeply structurally risk-averse.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0089",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 89,
+      "start_s": 325.067,
+      "end_s": 327.669,
+      "text": "They want an easy, clean, low-risk kill.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0090",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 90,
+      "start_s": 328.089,
+      "end_s": 337.556,
+      "text": "Anything that significantly increases their risk—coordinated noise, group resistance, projectiles from multiple directions—is usually sufficient to make them turn around and look elsewhere.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0091",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 91,
+      "start_s": 338.397,
+      "end_s": 347.399,
+      "text": "Our ancestors figured this out, not through a board meeting, not through conscious strategic planning, at least not at first, but through the relentless filter of survival.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0092",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 92,
+      "start_s": 348.159,
+      "end_s": 351.94,
+      "text": "The groups that stuck together and stood their ground were the ones that made it.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0093",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 93,
+      "start_s": 352.14,
+      "end_s": 354.101,
+      "text": "The ones that scattered were not.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0094",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 94,
+      "start_s": 354.341,
+      "end_s": 359.983,
+      "text": "Natural selection is an absolutely merciless teacher, but it does eventually get the lesson across.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0095",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 95,
+      "start_s": 360.483,
+      "end_s": 364.904,
+      "text": "Now, let's talk about the thing that genuinely, irreversibly changed the game.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0096",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 96,
+      "start_s": 365.444,
+      "end_s": 365.784,
+      "text": "Fire.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0097",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 97,
+      "start_s": 366.204,
+      "end_s": 366.545,
+      "text": "I know.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0098",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 98,
+      "start_s": 367.225,
+      "end_s": 369.826,
+      "text": "You've heard fire was important a thousand times.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0099",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 99,
+      "start_s": 370.386,
+      "end_s": 375.767,
+      "text": "It's in every history textbook, every documentary, every prehistoric explainer ever made.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0100",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 100,
+      "start_s": 376.228,
+      "end_s": 382.089,
+      "text": "But I want you to truly appreciate just how catastrophically, fundamentally transformative fire was for human survival.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0101",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 101,
+      "start_s": 382.489,
+      "end_s": 384.79,
+      "text": "Not just for warmth, not just for cooking.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0102",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 102,
+      "start_s": 385.11,
+      "end_s": 387.071,
+      "text": "Specifically, for the predator problem.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0103",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 103,
+      "start_s": 387.911,
+      "end_s": 389.373,
+      "text": "Here is the biological reality.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0104",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 104,
+      "start_s": 389.734,
+      "end_s": 397.045,
+      "text": "Almost every large land predator on Earth has an instinctive fear of fire that is essentially hardwired into its nervous system.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0105",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 105,
+      "start_s": 397.625,
+      "end_s": 402.433,
+      "text": "This isn't a learned behavior, it's a deep, ancient, evolutionary response.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0106",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 106,
+      "start_s": 402.953,
+      "end_s": 414.096,
+      "text": "These animals evolved in a world where fire was a natural phenomenon—lightning strikes, volcanic activity—that they had no control over, no way to fight, and no way to predict.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0107",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 107,
+      "start_s": 414.656,
+      "end_s": 416.957,
+      "text": "Fire was pure, uncontrollable threat.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0108",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 108,
+      "start_s": 417.177,
+      "end_s": 423.039,
+      "text": "So when a predator encounters fire, the instinctual response isn't curiosity, it's retreat.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0109",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 109,
+      "start_s": 423.279,
+      "end_s": 432.625,
+      "text": "Our ancestors figured out, gradually, that if they could keep a fire burning, they had something that no claw, no fang, no wall of rock could fully replicate.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0110",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 110,
+      "start_s": 432.965,
+      "end_s": 435.487,
+      "text": "A boundary that almost nothing was willing to cross.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0111",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 111,
+      "start_s": 435.907,
+      "end_s": 441.252,
+      "text": "Imagine being a leopard prowling in the dark, looking for an easy kill among a sleeping group of hominids.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0112",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 112,
+      "start_s": 441.492,
+      "end_s": 442.073,
+      "text": "You approach.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0113",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 113,
+      "start_s": 442.833,
+      "end_s": 444.735,
+      "text": "You feel the heat from 40 meters away.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0114",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 114,
+      "start_s": 444.935,
+      "end_s": 453.622,
+      "text": "You see the light, which, crucially, destroys your ability to use darkness as a stealth tool, because now everything near that fire can see you coming from a hundred meters out.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0115",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 115,
+      "start_s": 453.963,
+      "end_s": 454.964,
+      "text": "You smell the smoke.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0116",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 116,
+      "start_s": 455.684,
+      "end_s": 457.925,
+      "text": "something in your brainstem starts screaming at you.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0117",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 117,
+      "start_s": 458.505,
+      "end_s": 459.366,
+      "text": "You don't approach.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0118",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 118,
+      "start_s": 459.846,
+      "end_s": 460.747,
+      "text": "You don't attack.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0119",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 119,
+      "start_s": 461.387,
+      "end_s": 462.287,
+      "text": "You turn around.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0120",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 120,
+      "start_s": 462.688,
+      "end_s": 472.032,
+      "text": "Night, which had been the single most lethal time for early humans, because the majority of large predators are most active in darkness, suddenly became survivable.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0121",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 121,
+      "start_s": 472.452,
+      "end_s": 477.496,
+      "text": "Sleep, which had been an extraordinary vulnerability, became something that could be managed.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0122",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 122,
+      "start_s": 477.636,
+      "end_s": 478.798,
+      "text": "People slept in shifts.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0123",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 123,
+      "start_s": 478.998,
+      "end_s": 480.721,
+      "text": "Someone always watched the fire.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0124",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 124,
+      "start_s": 480.881,
+      "end_s": 482.423,
+      "text": "Someone always watched the dark.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0125",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 125,
+      "start_s": 482.623,
+      "end_s": 484.946,
+      "text": "And fire did more than just keep predators away.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0126",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 126,
+      "start_s": 485.267,
+      "end_s": 493.738,
+      "text": "Smoke drives off insects, including the mosquitoes and flies that carry diseases that would have killed far more early humans than any lion ever did.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0127",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 127,
+      "start_s": 493.938,
+      "end_s": 499.762,
+      "text": "Cooking food kills the bacteria and parasites that would have caused widespread death from foodborne illness.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0128",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 128,
+      "start_s": 500.403,
+      "end_s": 504.646,
+      "text": "Fire hardened the tips of wooden spears, making them significantly more lethal.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0129",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 129,
+      "start_s": 504.766,
+      "end_s": 510.61,
+      "text": "Fire allowed humans to survive winters and highland environments that large predators had essentially to themselves before.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0130",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 130,
+      "start_s": 511.071,
+      "end_s": 517.756,
+      "text": "Fire didn't just help humans survive predators, it fundamentally rewrote the relationship between the human animal and the natural world.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0131",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 131,
+      "start_s": 517.956,
+      "end_s": 520.198,
+      "text": "Before fire, we were something the world happened to.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0132",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 132,
+      "start_s": 520.678,
+      "end_s": 523.762,
+      "text": "after fire, we started happening to the world.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0133",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 133,
+      "start_s": 524.102,
+      "end_s": 529.728,
+      "text": "Let's talk about sleep specifically, because it's genuinely underappreciated in the survival discussion.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0134",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 134,
+      "start_s": 529.969,
+      "end_s": 532.031,
+      "text": "We sleep for roughly eight hours a night.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0135",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 135,
+      "start_s": 532.431,
+      "end_s": 540.601,
+      "text": "That's a third of our lives spent completely unconscious, sensory awareness reduced to almost nothing, completely unable to run or fight.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0136",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 136,
+      "start_s": 540.941,
+      "end_s": 546.765,
+      "text": "For an animal without walls, in a world full of things that hunt at night, this is a staggering vulnerability.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0137",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 137,
+      "start_s": 546.965,
+      "end_s": 549.026,
+      "text": "It almost seems like a design flaw.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0138",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 138,
+      "start_s": 549.306,
+      "end_s": 552.609,
+      "text": "So what did our ancestors do before fire was consistently available?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0139",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 139,
+      "start_s": 552.929,
+      "end_s": 553.349,
+      "text": "Trees.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0140",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 140,
+      "start_s": 553.689,
+      "end_s": 560.634,
+      "text": "Before permanent settlements, before controlled fire, the most common solution to the nighttime predator problem was elevation.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0141",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 141,
+      "start_s": 560.914,
+      "end_s": 561.694,
+      "text": "Get off the ground.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0142",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 142,
+      "start_s": 562.055,
+      "end_s": 564.216,
+      "text": "Chimpanzees do this every single night.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0143",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 143,
+      "start_s": 564.536,
+      "end_s": 570.14,
+      "text": "They build fresh sleeping nests in trees, high enough that ground predators can't easily reach them.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0144",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 144,
+      "start_s": 570.52,
+      "end_s": 581.904,
+      "text": "Our ancestors almost certainly did the same, and evidence from the structure of early Homo arm and shoulder anatomy suggests they retained good climbing ability long after their feet became fully adapted for ground walking.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0145",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 145,
+      "start_s": 582.624,
+      "end_s": 587.345,
+      "text": "Evolution doesn't maintain metabolically expensive traits unless those traits are still being used.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0146",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 146,
+      "start_s": 587.565,
+      "end_s": 589.966,
+      "text": "Getting into a tree doesn't make you safe from everything.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0147",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 147,
+      "start_s": 590.426,
+      "end_s": 596.288,
+      "text": "Leopards are famously excellent climbers and are documented to have dragged Australopithecus remains into trees.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0148",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 148,
+      "start_s": 596.888,
+      "end_s": 600.87,
+      "text": "We know this because we've found hominid bones in ancient tree leopard kill sites.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0149",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 149,
+      "start_s": 601.071,
+      "end_s": 606.534,
+      "text": "But a tree makes you unreachable by lions, hyenas, wolves, and most other large carnivores.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0150",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 150,
+      "start_s": 606.834,
+      "end_s": 616.5,
+      "text": "It narrows the threat list from essentially every predator to the one very specific predator that can climb, which is still bad, but is a meaningful statistical improvement over the alternative.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0151",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 151,
+      "start_s": 616.72,
+      "end_s": 617.641,
+      "text": "Then there were caves.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0152",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 152,
+      "start_s": 617.901,
+      "end_s": 623.985,
+      "text": "Caves are interesting because they're a perfect example of how ancient human survival was full of uncomfortable trade-offs.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0153",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 153,
+      "start_s": 624.265,
+      "end_s": 626.407,
+      "text": "A cave gives you a defensible position.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0154",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 154,
+      "start_s": 626.707,
+      "end_s": 628.608,
+      "text": "You only have one direction to defend.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0155",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 155,
+      "start_s": 629.129,
+      "end_s": 631.711,
+      "text": "You're sheltered from wind, rain, cold.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0156",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 156,
+      "start_s": 632.131,
+      "end_s": 632.851,
+      "text": "It seems ideal.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0157",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 157,
+      "start_s": 633.292,
+      "end_s": 637.194,
+      "text": "The problem is that caves are also exactly where large carnivores den.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0158",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 158,
+      "start_s": 637.555,
+      "end_s": 644.78,
+      "text": "Cave bears, cave hyenas, cave lions, all named cave something specifically because they used the same real estate.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0159",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 159,
+      "start_s": 645.18,
+      "end_s": 649.823,
+      "text": "Moving into a cave wasn't just finding shelter, it was potentially moving into someone else's house.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0160",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 160,
+      "start_s": 650.324,
+      "end_s": 654.266,
+      "text": "Someone who had been living there for decades and had opinions about the new tenants.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0161",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 161,
+      "start_s": 654.627,
+      "end_s": 662.112,
+      "text": "The archaeological record is full of sites where early humans and large predators alternated occupation of the same cave over thousands of years.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0162",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 162,
+      "start_s": 662.492,
+      "end_s": 666.995,
+      "text": "Essentially time-sharing a piece of real estate in the most stressful way imaginable.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0163",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 163,
+      "start_s": 667.196,
+      "end_s": 667.636,
+      "text": "Good morning.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0164",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 164,
+      "start_s": 668.156,
+      "end_s": 668.276,
+      "text": "Oh.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0165",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 165,
+      "start_s": 668.837,
+      "end_s": 669.237,
+      "text": "Oh no.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0166",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 166,
+      "start_s": 669.637,
+      "end_s": 670.058,
+      "text": "Not again.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0167",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 167,
+      "start_s": 670.318,
+      "end_s": 672.019,
+      "text": "Here's where it gets really interesting.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0168",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 168,
+      "start_s": 672.359,
+      "end_s": 675.121,
+      "text": "Let's talk about what truly differentiated humans.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0169",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 169,
+      "start_s": 675.602,
+      "end_s": 683.988,
+      "text": "Not just the behavioral responses, but the cognitive developments that shifted us from permanent prey to something else entirely—language.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0170",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 170,
+      "start_s": 684.648,
+      "end_s": 687.53,
+      "text": "Complex, symbolic, generative language.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0171",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 171,
+      "start_s": 688.05,
+      "end_s": 690.911,
+      "text": "The ability to talk about things that aren't physically present.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0172",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 172,
+      "start_s": 691.432,
+      "end_s": 701.076,
+      "text": "To describe the past, to warn about the future, to communicate abstract concepts like the thing I saw yesterday near the eastern water with the yellow coat and the black spots.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0173",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 173,
+      "start_s": 701.537,
+      "end_s": 704.438,
+      "text": "If you see tracks that look like this, go the other way.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0174",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 174,
+      "start_s": 704.818,
+      "end_s": 707.62,
+      "text": "Think about what this actually means in a survival context.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0175",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 175,
+      "start_s": 708.24,
+      "end_s": 713.683,
+      "text": "Without language, every individual in a group has to personally encounter a danger to understand it.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0176",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 176,
+      "start_s": 713.984,
+      "end_s": 723.91,
+      "text": "A young member of the group who has never seen a leopard has to discover through their own direct experience, usually a very brief and terminal experience, that leopards are dangerous.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0177",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 177,
+      "start_s": 724.53,
+      "end_s": 726.291,
+      "text": "Knowledge dies with the individual.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0178",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 178,
+      "start_s": 726.691,
+      "end_s": 729.251,
+      "text": "With language, you can tell someone what you saw.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0179",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 179,
+      "start_s": 729.671,
+      "end_s": 730.512,
+      "text": "You can describe it.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0180",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 180,
+      "start_s": 730.712,
+      "end_s": 732.052,
+      "text": "You can transmit the knowledge.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0181",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 181,
+      "start_s": 732.392,
+      "end_s": 734.193,
+      "text": "You can warn the entire group.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0182",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 182,
+      "start_s": 734.633,
+      "end_s": 736.213,
+      "text": "You can warn the neighboring group.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0183",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 183,
+      "start_s": 736.573,
+      "end_s": 743.175,
+      "text": "You can warn people who won't be born for another generation by teaching it to children who grow up and teach it to their children.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0184",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 184,
+      "start_s": 743.655,
+      "end_s": 745.796,
+      "text": "Knowledge stops dying with individuals.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0185",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 185,
+      "start_s": 746.116,
+      "end_s": 747.076,
+      "text": "It accumulates.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0186",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 186,
+      "start_s": 747.457,
+      "end_s": 748.457,
+      "text": "It compounds.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0187",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 187,
+      "start_s": 749.377,
+      "end_s": 757.382,
+      "text": "Over generations, a group's collective understanding of the predators in their environment can grow far beyond what any single individual could observe in a lifetime.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0188",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 188,
+      "start_s": 757.622,
+      "end_s": 761.124,
+      "text": "You essentially turned individual survival experience into a network.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0189",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 189,
+      "start_s": 761.644,
+      "end_s": 767.047,
+      "text": "A slow, spoken, generational database of everything that can kill you and how to avoid it.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0190",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 190,
+      "start_s": 767.728,
+      "end_s": 771.33,
+      "text": "The predators had teeth and claws and speed and strength.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0191",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 191,
+      "start_s": 772.01,
+      "end_s": 773.891,
+      "text": "Humans had knowledge that never stopped growing.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0192",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 192,
+      "start_s": 774.472,
+      "end_s": 776.032,
+      "text": "That is not a fair fight in the long run.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0193",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 193,
+      "start_s": 776.433,
+      "end_s": 778.194,
+      "text": "Let's talk about the spear.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0194",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 194,
+      "start_s": 779.223,
+      "end_s": 782.624,
+      "text": "Because at some point, our ancestors crossed a critical threshold.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0195",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 195,
+      "start_s": 783.264,
+      "end_s": 787.386,
+      "text": "They stopped being exclusively defensive and started being genuinely offensive.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0196",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 196,
+      "start_s": 787.586,
+      "end_s": 790.006,
+      "text": "And that shift changed the entire dynamic.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0197",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 197,
+      "start_s": 790.286,
+      "end_s": 795.728,
+      "text": "The oldest known wooden spears are approximately 400,000 years old, found at Schöningen in Germany.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0198",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 198,
+      "start_s": 796.028,
+      "end_s": 799.069,
+      "text": "What's remarkable about them is that they're not just sharpened sticks.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0199",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 199,
+      "start_s": 799.789,
+      "end_s": 801.03,
+      "text": "They're engineered objects.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0200",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 200,
+      "start_s": 801.77,
+      "end_s": 809.923,
+      "text": "weighted toward the front for aerodynamic stability, carefully shaped for grip and throwing technique, made from specific wood selected for its properties.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0201",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 201,
+      "start_s": 810.384,
+      "end_s": 816.213,
+      "text": "These are the product of someone who understood, at some intuitive level, the physics of projectile motion.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0202",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 202,
+      "start_s": 817.412,
+      "end_s": 822.675,
+      "text": "without ever having heard the word physics, without ever having written anything down.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0203",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 203,
+      "start_s": 822.995,
+      "end_s": 831.719,
+      "text": "But the truly critical development wasn't just having spears, it was what spears changed about the fundamental transaction between human and predator.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0204",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 204,
+      "start_s": 831.999,
+      "end_s": 838.663,
+      "text": "Before effective projectile weapons to harm a large predator, you had to be within reach of it, which means it was within reach of you.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0205",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 205,
+      "start_s": 839.043,
+      "end_s": 846.267,
+      "text": "That's an exchange you often lose because the predator is usually faster, stronger, and significantly more armored against physical damage than you are.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0206",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 206,
+      "start_s": 846.747,
+      "end_s": 849.15,
+      "text": "A throwing spear changes this equation completely.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0207",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 207,
+      "start_s": 849.711,
+      "end_s": 855.417,
+      "text": "Suddenly you can inflict damage, potentially lethal damage, from 20, 30, 40 meters away.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0208",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 208,
+      "start_s": 856.198,
+      "end_s": 858.902,
+      "text": "You can wound a predator without entering the range of its claws.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0209",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 209,
+      "start_s": 859.803,
+      "end_s": 862.906,
+      "text": "You can drive it off before any physical contact occurs at all.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0210",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 210,
+      "start_s": 863.767,
+      "end_s": 870.835,
+      "text": "You can coordinate with your group so that the predator, wherever it turns, faces another projectile coming from another direction.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0211",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 211,
+      "start_s": 871.355,
+      "end_s": 873.978,
+      "text": "And here's the dimension that rarely gets discussed.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0212",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 212,
+      "start_s": 874.639,
+      "end_s": 878.323,
+      "text": "Predators are intelligent animals capable of associative learning.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0213",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 213,
+      "start_s": 878.723,
+      "end_s": 885.191,
+      "text": "A lion that takes a thrown spear to the flank doesn't need a second lesson to understand that this type of prey is different.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0214",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 214,
+      "start_s": 885.771,
+      "end_s": 886.332,
+      "text": "Dangerous.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0215",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 215,
+      "start_s": 886.672,
+      "end_s": 887.272,
+      "text": "Not worth it.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0216",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 216,
+      "start_s": 887.873,
+      "end_s": 895.239,
+      "text": "Predator populations that repeatedly encountered groups of humans with throwing weapons developed behavioral avoidance of those groups over generations.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0217",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 217,
+      "start_s": 895.86,
+      "end_s": 901.024,
+      "text": "We see this dynamic play out in modern wildlife populations that exist near human activity.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0218",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 218,
+      "start_s": 901.605,
+      "end_s": 903.266,
+      "text": "The animals change their behavior.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0219",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 219,
+      "start_s": 903.647,
+      "end_s": 907.13,
+      "text": "They learn to associate humans with threat rather than easy prey.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0220",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 220,
+      "start_s": 907.77,
+      "end_s": 911.474,
+      "text": "the fear slowly, inexorably, reversed direction.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0221",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 221,
+      "start_s": 912.155,
+      "end_s": 921.486,
+      "text": "Here's a concept that most people have never heard of, but which perfectly captures what happened to the human-predator relationship over deep time, the landscape of fear.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0222",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 222,
+      "start_s": 922.465,
+      "end_s": 928.007,
+      "text": "In ecology, this refers to the way prey animals don't just react to predators when they're physically present.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0223",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 223,
+      "start_s": 928.867,
+      "end_s": 936.729,
+      "text": "They constantly map the spatial distribution of predator risk, and they modify their behavior across entire environments based on that mental map.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0224",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 224,
+      "start_s": 937.809,
+      "end_s": 940.19,
+      "text": "A gazelle doesn't just flee when a lion charges.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0225",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 225,
+      "start_s": 940.85,
+      "end_s": 950.713,
+      "text": "It avoids particular valleys, particular waterholes, particular hours of the day, based on a continuously updated internal calculation of where lions are likely to be.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0226",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 226,
+      "start_s": 951.875,
+      "end_s": 958.04,
+      "text": "The fear of predators shapes how prey species move through and experience their entire world.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0227",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 227,
+      "start_s": 958.72,
+      "end_s": 963.083,
+      "text": "Ancient humans did this too, but they did something no other prey animal could do.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0228",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 228,
+      "start_s": 963.264,
+      "end_s": 965.785,
+      "text": "They did it collectively and cumulatively.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0229",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 229,
+      "start_s": 966.066,
+      "end_s": 968.608,
+      "text": "Groups could share their mental maps through language.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0230",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 230,
+      "start_s": 969.613,
+      "end_s": 973.815,
+      "text": "Individual observations could be pooled into a group understanding of the landscape.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0231",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 231,
+      "start_s": 974.015,
+      "end_s": 976.396,
+      "text": "Patterns could emerge over multiple generations.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0232",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 232,
+      "start_s": 976.676,
+      "end_s": 981.918,
+      "text": "This valley is safe in summer, but dangerous in winter when the bears come down from the high ground.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0233",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 233,
+      "start_s": 982.738,
+      "end_s": 986.239,
+      "text": "This waterhole is used by lions after the dry season starts.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0234",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 234,
+      "start_s": 986.6,
+      "end_s": 988.56,
+      "text": "This trail has fresh leopard markings.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0235",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 235,
+      "start_s": 989.0,
+      "end_s": 989.581,
+      "text": "Go around.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0236",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 236,
+      "start_s": 989.821,
+      "end_s": 992.302,
+      "text": "The archaeological evidence strongly supports this.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0237",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 237,
+      "start_s": 993.022,
+      "end_s": 1007.171,
+      "text": "Early human settlement patterns show clear signs of deliberate site selection based on predator risk mitigation, elevated positions with clear sight lines, natural barriers on vulnerable sides, proximity to water without direct exposure at the water's edge.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0238",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 238,
+      "start_s": 1007.452,
+      "end_s": 1009.153,
+      "text": "These choices weren't random.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0239",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 239,
+      "start_s": 1009.833,
+      "end_s": 1016.859,
+      "text": "They were the product of accumulated, shared, multi-generational knowledge about the landscape and the threats within it.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0240",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 240,
+      "start_s": 1017.159,
+      "end_s": 1023.105,
+      "text": "And gradually, over thousands of years, humans stopped just navigating the landscape of fear.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0241",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 241,
+      "start_s": 1023.823,
+      "end_s": 1037.672,
+      "text": "They started reshaping it, using fire to drive predators out of territories, hunting large carnivores directly, eliminating densites, expanding their own range at the expense of species that had previously dominated it.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0242",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 242,
+      "start_s": 1038.212,
+      "end_s": 1042.575,
+      "text": "One more thing that doesn't get enough credit, the human body's bizarre secret weapon.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0243",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 243,
+      "start_s": 1043.175,
+      "end_s": 1045.516,
+      "text": "We are, objectively, not impressive.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0244",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 244,
+      "start_s": 1045.816,
+      "end_s": 1046.316,
+      "text": "Sprinters.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0245",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 245,
+      "start_s": 1046.576,
+      "end_s": 1048.757,
+      "text": "A lion hits 60 km per hour.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0246",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 246,
+      "start_s": 1048.997,
+      "end_s": 1050.917,
+      "text": "A spotted hyena sustains 40.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0247",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 247,
+      "start_s": 1051.217,
+      "end_s": 1060.7,
+      "text": "Even a healthy human sprinter at the absolute peak of athletic conditioning manages about 45 km per hour, for roughly 10 seconds before collapsing.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0248",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 248,
+      "start_s": 1061.38,
+      "end_s": 1065.902,
+      "text": "But try asking a lion to run at a moderate pace in 30 degree heat for four hours.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0249",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 249,
+      "start_s": 1066.182,
+      "end_s": 1066.682,
+      "text": "It can't.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0250",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 250,
+      "start_s": 1066.882,
+      "end_s": 1068.883,
+      "text": "It will die of heat stroke before you do.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0251",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 251,
+      "start_s": 1069.163,
+      "end_s": 1077.986,
+      "text": "Humans are one of the only mammals on earth capable of what's called persistence hunting, running prey to exhaustion over extreme distances in warm conditions.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0252",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 252,
+      "start_s": 1078.266,
+      "end_s": 1081.627,
+      "text": "We sweat from across almost our entire body surface area.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0253",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 253,
+      "start_s": 1081.887,
+      "end_s": 1084.028,
+      "text": "Most other mammals can't do this effectively.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0254",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 254,
+      "start_s": 1084.168,
+      "end_s": 1088.81,
+      "text": "They rely on panting for cooling, which requires them to slow down or stop.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0255",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 255,
+      "start_s": 1088.97,
+      "end_s": 1094.255,
+      "text": "We can run and thermoregulate simultaneously, which is genuinely bizarre by mammalian standards.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0256",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 256,
+      "start_s": 1094.655,
+      "end_s": 1109.568,
+      "text": "Add our upright bipedal gait, which is remarkably energy efficient at moderate speeds compared to the metabolically expensive four-legged gallop of most large carnivores, and you have an animal that can literally outlast almost anything over the right distance and conditions.",
+      "n_words": 41
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0257",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 257,
+      "start_s": 1109.808,
+      "end_s": 1119.456,
+      "text": "This isn't just a hunting advantage, it means that in a confrontation with a predator, humans had a genuine long-distance fallback option that wasn't available to most prey species.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0258",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 258,
+      "start_s": 1119.857,
+      "end_s": 1120.077,
+      "text": "Run.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0259",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 259,
+      "start_s": 1120.417,
+      "end_s": 1120.957,
+      "text": "Keep running.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0260",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 260,
+      "start_s": 1121.338,
+      "end_s": 1124.52,
+      "text": "The thing chasing you is going to overheat long before you do.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0261",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 261,
+      "start_s": 1124.761,
+      "end_s": 1128.884,
+      "text": "We are, in the most literal and biological sense, endurance machines.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0262",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 262,
+      "start_s": 1129.264,
+      "end_s": 1135.79,
+      "text": "Ugly, slow, soft-skinned endurance machines who can keep going after everything faster has given up.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0263",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 263,
+      "start_s": 1136.07,
+      "end_s": 1144.056,
+      "text": "By around 50,000 years ago, what researchers often call the behavioral modernity threshold, something extraordinary had happened.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0264",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 264,
+      "start_s": 1144.917,
+      "end_s": 1157.526,
+      "text": "Humans had developed fully modern language, layered social structures, symbolic and abstract thinking, and, what the archaeological record suggests, is genuine long-range planning and coordination.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0265",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 265,
+      "start_s": 1158.086,
+      "end_s": 1161.087,
+      "text": "Cave paintings not as decoration, but as communication.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0266",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 266,
+      "start_s": 1161.528,
+      "end_s": 1169.811,
+      "text": "Sharing knowledge about animals, migrations, dangers, locations, bone needles, rope, fish hooks, traps.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0267",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 267,
+      "start_s": 1170.472,
+      "end_s": 1175.654,
+      "text": "Techniques that required imagining a future scenario and preparing for it days or weeks in advance.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0268",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 268,
+      "start_s": 1176.461,
+      "end_s": 1183.687,
+      "text": "and they were now coordinating hunts and defensive actions at a scale and sophistication that no other animal could approach.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0269",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 269,
+      "start_s": 1184.067,
+      "end_s": 1199.155,
+      "text": "Not just throwing spears at individual threats, driving entire herds of large animals off cliffs using coordinated noise and fire, systematically clearing territories, and, increasingly, deliberately hunting the large predators that had once hunted them.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0270",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 270,
+      "start_s": 1199.336,
+      "end_s": 1209.778,
+      "text": "The archaeological record from this period shows systematic killing of cave lions, cave bears, and other apex predators, not just as self-defense, but seemingly with intent.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0271",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 271,
+      "start_s": 1210.078,
+      "end_s": 1211.258,
+      "text": "The bones are processed.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0272",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 272,
+      "start_s": 1211.578,
+      "end_s": 1212.538,
+      "text": "The pelts were used.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0273",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 273,
+      "start_s": 1212.818,
+      "end_s": 1220.26,
+      "text": "There's evidence of ritualistic treatment of the remains of large predators, suggesting that killing them had acquired cultural significance.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0274",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 274,
+      "start_s": 1220.76,
+      "end_s": 1221.52,
+      "text": "It was a statement.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0275",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 275,
+      "start_s": 1221.78,
+      "end_s": 1223.181,
+      "text": "We are no longer prey.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0276",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 276,
+      "start_s": 1223.381,
+      "end_s": 1224.902,
+      "text": "There's a sobering note to close on.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0277",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 277,
+      "start_s": 1225.603,
+      "end_s": 1235.729,
+      "text": "The story of how ancient humans survived predators is also, unavoidably, the story of what happened to those predators once we stopped merely surviving and started dominating.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0278",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 278,
+      "start_s": 1235.929,
+      "end_s": 1236.83,
+      "text": "The woolly mammoth.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0279",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 279,
+      "start_s": 1237.19,
+      "end_s": 1237.51,
+      "text": "Gone.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0280",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 280,
+      "start_s": 1237.73,
+      "end_s": 1238.731,
+      "text": "The saber-toothed cat.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0281",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 281,
+      "start_s": 1238.891,
+      "end_s": 1239.191,
+      "text": "Gone.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0282",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 282,
+      "start_s": 1239.271,
+      "end_s": 1240.391,
+      "text": "The giant ground sloth.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0283",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 283,
+      "start_s": 1240.671,
+      "end_s": 1240.971,
+      "text": "Gone.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0284",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 284,
+      "start_s": 1241.031,
+      "end_s": 1241.731,
+      "text": "The cave lion.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0285",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 285,
+      "start_s": 1241.871,
+      "end_s": 1242.532,
+      "text": "The cave bear.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0286",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 286,
+      "start_s": 1242.652,
+      "end_s": 1243.372,
+      "text": "The dire wolf.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0287",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 287,
+      "start_s": 1243.572,
+      "end_s": 1245.533,
+      "text": "Pachycarcuta and its elephant-crushing jaws.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0288",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 288,
+      "start_s": 1246.113,
+      "end_s": 1246.393,
+      "text": "Gone.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0289",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 289,
+      "start_s": 1246.653,
+      "end_s": 1248.774,
+      "text": "The Irish elk with its four-meter antler span.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0290",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 290,
+      "start_s": 1249.054,
+      "end_s": 1249.374,
+      "text": "Gone.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0291",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 291,
+      "start_s": 1249.614,
+      "end_s": 1255.776,
+      "text": "On nearly every continent, within a few thousand years of fully modern humans arriving, the megafauna largely collapsed.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0292",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 292,
+      "start_s": 1256.416,
+      "end_s": 1260.777,
+      "text": "The pattern is too consistent, too correlated with human arrival, to be coincidence.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0293",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 293,
+      "start_s": 1261.117,
+      "end_s": 1262.298,
+      "text": "Climate change was a factor.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0294",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 294,
+      "start_s": 1262.878,
+      "end_s": 1268.943,
+      "text": "But we were the variable that showed up in every region, at every time, right before the extinctions.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0295",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 295,
+      "start_s": 1269.844,
+      "end_s": 1278.971,
+      "text": "The animals that had dominated their ecosystems for millions of years, that had survived ice ages and volcanic winters and tectonic catastrophes, couldn't survive us.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0296",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 296,
+      "start_s": 1279.772,
+      "end_s": 1282.853,
+      "text": "Not because we were physically superior, we clearly weren't.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0297",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 297,
+      "start_s": 1283.393,
+      "end_s": 1296.115,
+      "text": "But because we had language, and fire, and spears, and accumulated knowledge, and social coordination, and the terrifying ability to learn faster than evolution could adapt, we weren't the biggest, we weren't the fastest, we weren't the strongest.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0298",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 298,
+      "start_s": 1296.435,
+      "end_s": 1302.396,
+      "text": "We were just quietly, unstoppably, the most dangerous thing to ever walk on this planet.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0299",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 299,
+      "start_s": 1302.576,
+      "end_s": 1305.117,
+      "text": "The predators never really understood what they were dealing with.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0300",
+      "video_id": "AvF3bPcqZeM",
+      "idx": 300,
+      "start_s": 1305.437,
+      "end_s": 1307.557,
+      "text": "They just learned too late to be afraid.",
+      "n_words": 8
+    }
+  ]
+}

@@ -1,0 +1,2788 @@
+{
+  "video_id": "V_Yx8gJCCUw",
+  "duration_s": 1442.0,
+  "generated_at": "2026-09-03T12:00:35.755552+00:00",
+  "sentences": [
+    {
+      "sent_id": "V_Yx8gJCCUw:s0000",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 0,
+      "start_s": 0.091,
+      "end_s": 2.292,
+      "text": "Before humans had words, they had something else.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0001",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 1,
+      "start_s": 3.093,
+      "end_s": 10.056,
+      "text": "And whatever that was, it kept us alive, coordinated, and somehow managed to build the foundation of every language spoken today.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0002",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 2,
+      "start_s": 10.836,
+      "end_s": 12.557,
+      "text": "But here's the thing nobody really asks.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0003",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 3,
+      "start_s": 13.198,
+      "end_s": 15.259,
+      "text": "What exactly were we doing before speech?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0004",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 4,
+      "start_s": 15.699,
+      "end_s": 19.441,
+      "text": "Like, what did communication look like when the best tool you had was your face in a grunt?",
+      "n_words": 18
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0005",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 5,
+      "start_s": 19.861,
+      "end_s": 23.743,
+      "text": "How did early humans say, hey, there's a lion behind you without actually saying it?",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0006",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 6,
+      "start_s": 24.023,
+      "end_s": 25.164,
+      "text": "That's what we're getting into today.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0007",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 7,
+      "start_s": 25.856,
+      "end_s": 30.197,
+      "text": "And the answer is stranger, richer, and more impressive than most people assume.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0008",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 8,
+      "start_s": 30.477,
+      "end_s": 34.338,
+      "text": "Let's start with something you already know how to do, but probably don't think about.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0009",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 9,
+      "start_s": 34.718,
+      "end_s": 37.679,
+      "text": "Right now, without moving your mouth, you can tell someone you're annoyed.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0010",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 10,
+      "start_s": 38.219,
+      "end_s": 42.361,
+      "text": "You can signal that you're confused, suspicious, delighted, or deeply unimpressed.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0011",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 11,
+      "start_s": 42.761,
+      "end_s": 44.501,
+      "text": "All without producing a single syllable.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0012",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 12,
+      "start_s": 44.681,
+      "end_s": 45.541,
+      "text": "Your eyebrows do it.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0013",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 13,
+      "start_s": 45.721,
+      "end_s": 46.642,
+      "text": "Your posture does it.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0014",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 14,
+      "start_s": 47.062,
+      "end_s": 48.902,
+      "text": "The slight tightening around your eyes does it.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0015",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 15,
+      "start_s": 49.562,
+      "end_s": 50.863,
+      "text": "This is not a coincidence.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0016",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 16,
+      "start_s": 51.623,
+      "end_s": 52.864,
+      "text": "This is ancient hardware.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0017",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 17,
+      "start_s": 53.184,
+      "end_s": 55.065,
+      "text": "The human face has 43 muscles.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0018",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 18,
+      "start_s": 55.526,
+      "end_s": 57.807,
+      "text": "That's more than almost any other animal on the planet.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0019",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 19,
+      "start_s": 58.228,
+      "end_s": 62.871,
+      "text": "And the overwhelming majority of them exist not for chewing or breathing, but for expression.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0020",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 20,
+      "start_s": 63.211,
+      "end_s": 68.855,
+      "text": "Evolution built us a communication device out of meat and bone, and it did it long before language showed up.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0021",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 21,
+      "start_s": 69.215,
+      "end_s": 73.538,
+      "text": "Researchers who study facial expressions across cultures have found something striking.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0022",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 22,
+      "start_s": 73.778,
+      "end_s": 76.2,
+      "text": "The basic expressions are universal.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0023",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 23,
+      "start_s": 76.5,
+      "end_s": 80.263,
+      "text": "Fear looks the same in rural Papua New Guinea as it does in downtown Tokyo.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0024",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 24,
+      "start_s": 80.463,
+      "end_s": 85.505,
+      "text": "Disgust is disgust whether you're in the Amazon rainforest or a Norwegian suburb.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0025",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 25,
+      "start_s": 85.805,
+      "end_s": 88.866,
+      "text": "Happiness, anger, sadness, surprise.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0026",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 26,
+      "start_s": 89.266,
+      "end_s": 90.667,
+      "text": "These aren't learned behaviors.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0027",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 27,
+      "start_s": 90.767,
+      "end_s": 92.487,
+      "text": "They're biological broadcasts.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0028",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 28,
+      "start_s": 93.148,
+      "end_s": 104.112,
+      "text": "Paul Ekman, a psychologist who spent decades mapping the human face, identified what he called micro-expressions, involuntary flickers of emotion that last less than a fifth of a second.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0029",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 29,
+      "start_s": 104.854,
+      "end_s": 106.374,
+      "text": "you can't fully control them.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0030",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 30,
+      "start_s": 106.835,
+      "end_s": 109.335,
+      "text": "They leak through even when you're trying to hide how you feel.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0031",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 31,
+      "start_s": 109.776,
+      "end_s": 112.936,
+      "text": "These aren't cultural artifacts, they're evolutionary ones.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0032",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 32,
+      "start_s": 113.257,
+      "end_s": 120.319,
+      "text": "Meaning, our ancestors were already transmitting and receiving emotional data this way millions of years before anyone said a word.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0033",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 33,
+      "start_s": 120.839,
+      "end_s": 123.58,
+      "text": "And this matters because facial expression isn't passive.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0034",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 34,
+      "start_s": 124.0,
+      "end_s": 130.922,
+      "text": "It's not just a side effect of feeling something, it's a signal, shaped by natural selection because it helped coordinate group behavior.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0035",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 35,
+      "start_s": 131.422,
+      "end_s": 138.227,
+      "text": "An individual who could instantly broadcast danger across a camp without making noise that attracted the predator had a survival advantage.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0036",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 36,
+      "start_s": 138.907,
+      "end_s": 142.349,
+      "text": "So did the one who could correctly read that signal and react in half a second.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0037",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 37,
+      "start_s": 142.57,
+      "end_s": 145.231,
+      "text": "We didn't invent communication with language, we upgraded it.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0038",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 38,
+      "start_s": 145.411,
+      "end_s": 146.052,
+      "text": "Now let's go back.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0039",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 39,
+      "start_s": 146.352,
+      "end_s": 146.792,
+      "text": "Way back.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0040",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 40,
+      "start_s": 146.972,
+      "end_s": 148.093,
+      "text": "Before homo sapiens.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0041",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 41,
+      "start_s": 148.574,
+      "end_s": 150.355,
+      "text": "Before even our immediate ancestors.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0042",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 42,
+      "start_s": 150.895,
+      "end_s": 156.738,
+      "text": "About six million years ago, the lineage that would eventually produce humans split from the one that would produce chimpanzees.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0043",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 43,
+      "start_s": 157.278,
+      "end_s": 161.32,
+      "text": "And if you watch chimpanzees today, you'll see something that looks uncomfortably familiar.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0044",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 44,
+      "start_s": 161.7,
+      "end_s": 164.221,
+      "text": "They gesture, deliberately, with clear intent.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0045",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 45,
+      "start_s": 164.701,
+      "end_s": 167.982,
+      "text": "A chimp will extend an arm, palm up, in a begging gesture.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0046",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 46,
+      "start_s": 168.303,
+      "end_s": 170.684,
+      "text": "They'll touch another chimp's shoulder to initiate grooming.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0047",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 47,
+      "start_s": 171.004,
+      "end_s": 172.784,
+      "text": "They'll wave an arm to solicit play.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0048",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 48,
+      "start_s": 173.205,
+      "end_s": 178.047,
+      "text": "They'll use a specific gesture, a kind of beckoning motion, to invite another individual to follow.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0049",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 49,
+      "start_s": 178.767,
+      "end_s": 182.109,
+      "text": "And critically, they only use these gestures when they can see the other chimp's face.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0050",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 50,
+      "start_s": 182.609,
+      "end_s": 183.81,
+      "text": "They wait for eye contact.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0051",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 51,
+      "start_s": 184.35,
+      "end_s": 185.931,
+      "text": "They repeat a gesture if ignored.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0052",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 52,
+      "start_s": 186.252,
+      "end_s": 187.793,
+      "text": "They stop when they get a response.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0053",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 53,
+      "start_s": 188.473,
+      "end_s": 190.514,
+      "text": "This isn't instinct running on autopilot.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0054",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 54,
+      "start_s": 191.115,
+      "end_s": 193.016,
+      "text": "This is intentional communication.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0055",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 55,
+      "start_s": 193.416,
+      "end_s": 207.665,
+      "text": "Researchers at the University of St. Andrews catalogued over 80 distinct gestures used by wild chimpanzees, and they found that a significant portion of them carried consistent meaning across different groups, even groups that had never been in contact with each other.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0056",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 56,
+      "start_s": 208.065,
+      "end_s": 209.646,
+      "text": "which tells you these gestures are old.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0057",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 57,
+      "start_s": 210.206,
+      "end_s": 211.906,
+      "text": "Older than the populations using them.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0058",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 58,
+      "start_s": 212.366,
+      "end_s": 214.187,
+      "text": "Possibly older than the species itself.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0059",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 59,
+      "start_s": 214.527,
+      "end_s": 215.627,
+      "text": "Bonobos do this too.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0060",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 60,
+      "start_s": 216.308,
+      "end_s": 216.868,
+      "text": "Gorillas.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0061",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 61,
+      "start_s": 217.328,
+      "end_s": 218.088,
+      "text": "Orangutans.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0062",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 62,
+      "start_s": 218.828,
+      "end_s": 229.171,
+      "text": "The gestural system in great apes is remarkably sophisticated, and it strongly suggests that before our ancestors ever made a word, they were already operating with a functional system of intentional signals.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0063",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 63,
+      "start_s": 229.772,
+      "end_s": 230.392,
+      "text": "Here's the twist.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0064",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 64,
+      "start_s": 230.552,
+      "end_s": 233.593,
+      "text": "Human infants communicate through gesture before they speak.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0065",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 65,
+      "start_s": 234.433,
+      "end_s": 238.715,
+      "text": "At around nine months, before any real language emerges, babies start pointing.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0066",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 66,
+      "start_s": 239.095,
+      "end_s": 240.856,
+      "text": "They hold up objects to show you things.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0067",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 67,
+      "start_s": 241.256,
+      "end_s": 242.997,
+      "text": "They reach towards something they want.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0068",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 68,
+      "start_s": 243.337,
+      "end_s": 244.057,
+      "text": "They wave.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0069",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 69,
+      "start_s": 244.498,
+      "end_s": 250.86,
+      "text": "These gestures follow a very specific developmental sequence, and it mirrors what we see in other great apes.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0070",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 70,
+      "start_s": 251.661,
+      "end_s": 255.743,
+      "text": "Pointing, in particular, is interesting, because most animals can't do it.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0071",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 71,
+      "start_s": 256.583,
+      "end_s": 261.424,
+      "text": "You can spend your whole life with a dog, and it will look at your finger, not what you're pointing at.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0072",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 72,
+      "start_s": 261.724,
+      "end_s": 265.825,
+      "text": "Human infants point to share attention, not just to request things.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0073",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 73,
+      "start_s": 266.745,
+      "end_s": 268.386,
+      "text": "That distinction is significant.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0074",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 74,
+      "start_s": 269.106,
+      "end_s": 276.228,
+      "text": "The gestural origin theory of language, one of the leading hypotheses in linguistics, argues that language didn't start in the mouth.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0075",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 75,
+      "start_s": 276.788,
+      "end_s": 278.028,
+      "text": "It started in the hands.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0076",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 76,
+      "start_s": 278.668,
+      "end_s": 282.569,
+      "text": "And the voice came later, as an addition to a system that already existed.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0077",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 77,
+      "start_s": 283.249,
+      "end_s": 285.87,
+      "text": "There's actually a neurological argument for this, too.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0078",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 78,
+      "start_s": 286.63,
+      "end_s": 296.072,
+      "text": "The brain region most associated with language production, Brauka's area, is located in the same general territory that controls fine hand and mouth movements.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0079",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 79,
+      "start_s": 296.892,
+      "end_s": 299.932,
+      "text": "It's not a language region that happens to sit near the motor cortex.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0080",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 80,
+      "start_s": 300.552,
+      "end_s": 303.793,
+      "text": "It may be a motor planning region that got conscripted into language.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0081",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 81,
+      "start_s": 304.593,
+      "end_s": 308.154,
+      "text": "The hands built the road, the mouth just learned to drive on it.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0082",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 82,
+      "start_s": 308.934,
+      "end_s": 315.535,
+      "text": "But gesture only works when you can see each other, and early humans spent a lot of time in situations where visibility was limited.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0083",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 83,
+      "start_s": 316.195,
+      "end_s": 322.611,
+      "text": "moving through dense forest, operating in darkness, spread out across terrain where line of sight wasn't guaranteed.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0084",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 84,
+      "start_s": 323.72,
+      "end_s": 325.38,
+      "text": "So something else had to fill the gap.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0085",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 85,
+      "start_s": 325.84,
+      "end_s": 326.201,
+      "text": "Sound.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0086",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 86,
+      "start_s": 326.761,
+      "end_s": 327.421,
+      "text": "Not language.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0087",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 87,
+      "start_s": 328.061,
+      "end_s": 328.621,
+      "text": "Not words.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0088",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 88,
+      "start_s": 329.081,
+      "end_s": 329.721,
+      "text": "Just sound.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0089",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 89,
+      "start_s": 330.241,
+      "end_s": 331.782,
+      "text": "Before words, there were calls.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0090",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 90,
+      "start_s": 332.482,
+      "end_s": 337.423,
+      "text": "Vocalizations that carried meaning not through grammar or vocabulary, but through acoustic properties.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0091",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 91,
+      "start_s": 337.703,
+      "end_s": 338.083,
+      "text": "The pitch.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0092",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 92,
+      "start_s": 338.543,
+      "end_s": 339.003,
+      "text": "The rhythm.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0093",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 93,
+      "start_s": 339.663,
+      "end_s": 340.423,
+      "text": "The intensity.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0094",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 94,
+      "start_s": 340.924,
+      "end_s": 342.044,
+      "text": "The pattern of the sound.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0095",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 95,
+      "start_s": 342.464,
+      "end_s": 347.625,
+      "text": "Every primate species has a call system, and these systems can be surprisingly specific.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0096",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 96,
+      "start_s": 348.265,
+      "end_s": 352.508,
+      "text": "Vervet monkeys famously have distinct alarm calls for different types of predators.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0097",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 97,
+      "start_s": 353.128,
+      "end_s": 356.191,
+      "text": "One call for eagles, which sends the troop scrambling into the bushes.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0098",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 98,
+      "start_s": 356.671,
+      "end_s": 360.133,
+      "text": "A different call for snakes, which makes them stand up and scan the ground.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0099",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 99,
+      "start_s": 360.814,
+      "end_s": 363.395,
+      "text": "Another for leopards, which sends them into the trees.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0100",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 100,
+      "start_s": 364.196,
+      "end_s": 364.897,
+      "text": "Same species.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0101",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 101,
+      "start_s": 365.717,
+      "end_s": 366.298,
+      "text": "Same troop.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0102",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 102,
+      "start_s": 366.798,
+      "end_s": 367.759,
+      "text": "Three different sounds.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0103",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 103,
+      "start_s": 368.519,
+      "end_s": 370.18,
+      "text": "Three different behavioral responses.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0104",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 104,
+      "start_s": 370.981,
+      "end_s": 374.904,
+      "text": "Context-specific, consistent, and functionally referential.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0105",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 105,
+      "start_s": 375.825,
+      "end_s": 380.488,
+      "text": "Meaning the call isn't just expressing an emotional state, it's referring to something out in the world.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0106",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 106,
+      "start_s": 380.848,
+      "end_s": 383.871,
+      "text": "This is not language, but it's not nothing either.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0107",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 107,
+      "start_s": 384.631,
+      "end_s": 391.334,
+      "text": "It sits somewhere in the middle, a system of signals that carries information beyond what the raw emotion of the caller would convey.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0108",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 108,
+      "start_s": 391.754,
+      "end_s": 401.017,
+      "text": "Our ancestors almost certainly had something like this, probably richer than what vervets have, given that our lineage had millions of years of social complexity stacking up on top of it.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0109",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 109,
+      "start_s": 401.638,
+      "end_s": 412.242,
+      "text": "And as group sizes grew, as social hierarchies got more complicated, as cooperative hunting required more coordination, the selective pressure to communicate more precisely would have intensified.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0110",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 110,
+      "start_s": 413.082,
+      "end_s": 416.305,
+      "text": "What early Homo would have sounded like is genuinely unknown.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0111",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 111,
+      "start_s": 416.925,
+      "end_s": 418.807,
+      "text": "The voice box doesn't fossilize.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0112",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 112,
+      "start_s": 419.588,
+      "end_s": 423.771,
+      "text": "The soft tissue that produces speech leaves no trace in the archaeological record.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0113",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 113,
+      "start_s": 424.632,
+      "end_s": 427.274,
+      "text": "But we can make inferences from anatomy.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0114",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 114,
+      "start_s": 427.334,
+      "end_s": 433.699,
+      "text": "The position of the hyoid bone, a small, U-shaped bone in the throat, tells us something about vocal anatomy.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0115",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 115,
+      "start_s": 434.52,
+      "end_s": 443.35,
+      "text": "Neanderthals had a hyoid bone nearly identical to ours, which means they almost certainly had the physical capacity for complex vocalizations.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0116",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 116,
+      "start_s": 443.83,
+      "end_s": 449.636,
+      "text": "Whether those vocalizations were language in any meaningful sense is still debated, but the hardware was there.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0117",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 117,
+      "start_s": 450.457,
+      "end_s": 454.218,
+      "text": "And here's the thing about Neanderthals that most people don't sit with long enough.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0118",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 118,
+      "start_s": 454.718,
+      "end_s": 455.898,
+      "text": "They buried their dead.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0119",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 119,
+      "start_s": 456.418,
+      "end_s": 457.419,
+      "text": "They made pigments.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0120",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 120,
+      "start_s": 457.859,
+      "end_s": 461.3,
+      "text": "There's evidence they wore eagle talons as personal ornaments.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0121",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 121,
+      "start_s": 461.8,
+      "end_s": 464.92,
+      "text": "These are not the behaviors of creatures with nothing to say to each other.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0122",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 122,
+      "start_s": 465.321,
+      "end_s": 472.842,
+      "text": "These are the behaviors of creatures navigating a rich social world that almost certainly required some form of symbolic communication to maintain.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0123",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 123,
+      "start_s": 473.462,
+      "end_s": 475.543,
+      "text": "Let's talk about something that doesn't get enough credit.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0124",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 124,
+      "start_s": 476.34,
+      "end_s": 476.64,
+      "text": "Rhythm.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0125",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 125,
+      "start_s": 477.081,
+      "end_s": 478.362,
+      "text": "Before words, there was beat.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0126",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 126,
+      "start_s": 478.862,
+      "end_s": 483.125,
+      "text": "Rhythm is one of the most ancient and cross-cultural features of human communication.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0127",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 127,
+      "start_s": 483.966,
+      "end_s": 486.287,
+      "text": "Every known human culture has music.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0128",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 128,
+      "start_s": 487.028,
+      "end_s": 491.491,
+      "text": "Every known human culture has drumming, clapping, or some form of rhythmic expression.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0129",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 129,
+      "start_s": 492.072,
+      "end_s": 493.273,
+      "text": "This is not coincidence.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0130",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 130,
+      "start_s": 493.933,
+      "end_s": 499.295,
+      "text": "Rhythm is deeply embedded in social bonding in a way that's hard to explain without thinking about evolution.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0131",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 131,
+      "start_s": 499.915,
+      "end_s": 507.138,
+      "text": "When humans synchronize movement, when they walk together, drum together, sing together, something neurological happens.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0132",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 132,
+      "start_s": 507.998,
+      "end_s": 509.379,
+      "text": "Oxytocin levels increase.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0133",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 133,
+      "start_s": 510.139,
+      "end_s": 511.28,
+      "text": "Pain thresholds rise.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0134",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 134,
+      "start_s": 512.06,
+      "end_s": 513.841,
+      "text": "Group cohesion measurably improves.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0135",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 135,
+      "start_s": 514.601,
+      "end_s": 516.201,
+      "text": "There's a reason military units march.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0136",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 136,
+      "start_s": 516.681,
+      "end_s": 517.161,
+      "text": "In step.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0137",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 137,
+      "start_s": 518.022,
+      "end_s": 520.182,
+      "text": "There's a reason religious rituals involve chanting.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0138",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 138,
+      "start_s": 520.642,
+      "end_s": 522.883,
+      "text": "There's a reason concerts feel the way they do.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0139",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 139,
+      "start_s": 523.603,
+      "end_s": 525.284,
+      "text": "Shared rhythm signals affiliation.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0140",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 140,
+      "start_s": 525.724,
+      "end_s": 530.445,
+      "text": "It says, we are together, we are moving as one, we can be trusted.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0141",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 141,
+      "start_s": 531.105,
+      "end_s": 532.546,
+      "text": "This didn't require language.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0142",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 142,
+      "start_s": 533.366,
+      "end_s": 549.014,
+      "text": "And given that the capacity for rhythmic entrainment, the ability to synchronize with an external beat, is something humans do automatically, and other primates largely can't, it suggests this was a significant and specific adaptation in our lineage.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0143",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 143,
+      "start_s": 549.774,
+      "end_s": 560.343,
+      "text": "Anthropologist Robin Dunbar, who's known for the social brain hypothesis, has argued that early music and rhythmic vocalization might have functioned as a kind of grooming at a distance.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0144",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 144,
+      "start_s": 561.063,
+      "end_s": 565.167,
+      "text": "In primate groups, physical grooming is the primary social bonding mechanism.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0145",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 145,
+      "start_s": 565.727,
+      "end_s": 567.268,
+      "text": "But grooming is one-on-one.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0146",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 146,
+      "start_s": 567.909,
+      "end_s": 573.693,
+      "text": "As group sizes expanded, you couldn't groom your way to social cohesion in a group of 150 people.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0147",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 147,
+      "start_s": 574.273,
+      "end_s": 577.816,
+      "text": "You needed something that could bond many individuals simultaneously.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0148",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 148,
+      "start_s": 578.456,
+      "end_s": 579.156,
+      "text": "Singing together.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0149",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 149,
+      "start_s": 579.717,
+      "end_s": 580.477,
+      "text": "Moving together.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0150",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 150,
+      "start_s": 580.918,
+      "end_s": 581.718,
+      "text": "Drumming together.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0151",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 151,
+      "start_s": 582.339,
+      "end_s": 583.68,
+      "text": "Sound as social glue.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0152",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 152,
+      "start_s": 584.3,
+      "end_s": 585.981,
+      "text": "This isn't a fringe idea anymore.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0153",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 153,
+      "start_s": 586.341,
+      "end_s": 591.045,
+      "text": "It's supported by evidence from neuroscience, primatology, and anthropology.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0154",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 154,
+      "start_s": 592.113,
+      "end_s": 599.895,
+      "text": "the communicative function of rhythm in early humans may have been as important as anything gestural or vocal in a more referential sense.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0155",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 155,
+      "start_s": 600.575,
+      "end_s": 607.596,
+      "text": "The oldest known musical instruments, bone flutes, found in sites across Europe, date to at least 40,000 years ago.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0156",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 156,
+      "start_s": 608.357,
+      "end_s": 611.757,
+      "text": "But the absence of older instruments doesn't mean there was no older music.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0157",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 157,
+      "start_s": 612.237,
+      "end_s": 613.898,
+      "text": "Percussion doesn't need instruments.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0158",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 158,
+      "start_s": 614.618,
+      "end_s": 619.299,
+      "text": "Hands on hollow logs, stones struck together, feet on hard ground.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0159",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 159,
+      "start_s": 619.939,
+      "end_s": 627.75,
+      "text": "Rhythm was available to every human who ever lived, and the neurological response to it suggests we've been using it for far longer than 40,000 years.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0160",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 160,
+      "start_s": 628.551,
+      "end_s": 629.853,
+      "text": "Now let's talk about the body.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0161",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 161,
+      "start_s": 630.774,
+      "end_s": 631.836,
+      "text": "Posture communicates.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0162",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 162,
+      "start_s": 632.457,
+      "end_s": 635.661,
+      "text": "It has for as long as there have been bodies to adopt it.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0163",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 163,
+      "start_s": 636.362,
+      "end_s": 646.332,
+      "text": "making yourself large when threatened, making yourself small when deferring to a dominant individual, presenting a shoulder, turning away, dropping the head.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0164",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 164,
+      "start_s": 646.732,
+      "end_s": 648.534,
+      "text": "These are not symbolic behaviors.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0165",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 165,
+      "start_s": 649.075,
+      "end_s": 650.496,
+      "text": "They're biologically readable.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0166",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 166,
+      "start_s": 650.876,
+      "end_s": 652.338,
+      "text": "Other animals read them accurately.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0167",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 167,
+      "start_s": 652.738,
+      "end_s": 654.059,
+      "text": "We read them accurately.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0168",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 168,
+      "start_s": 654.8,
+      "end_s": 665.244,
+      "text": "Early humans operating in complex social groups would have used postural and proxemic cues, the study of how space is used in communication, constantly and fluently.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0169",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 169,
+      "start_s": 665.724,
+      "end_s": 666.945,
+      "text": "Who stands close to whom?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0170",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 170,
+      "start_s": 667.665,
+      "end_s": 670.586,
+      "text": "Who turns their body toward whom during a confrontation?",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0171",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 171,
+      "start_s": 671.306,
+      "end_s": 675.148,
+      "text": "Who takes up space at the center of a group and who shrinks toward the edges?",
+      "n_words": 16
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0172",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 172,
+      "start_s": 676.068,
+      "end_s": 684.539,
+      "text": "These signals establish hierarchy, signal alliance, communicate threat, and submission without a single vocalization.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0173",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 173,
+      "start_s": 685.26,
+      "end_s": 686.321,
+      "text": "Touch matters here too.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0174",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 174,
+      "start_s": 687.308,
+      "end_s": 696.933,
+      "text": "Tactile communication, who is allowed to touch whom, where, in what context, is one of the most primitive and powerful channels of social information.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0175",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 175,
+      "start_s": 697.834,
+      "end_s": 700.636,
+      "text": "A hand on the shoulder reads differently from a hand on the head.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0176",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 176,
+      "start_s": 701.316,
+      "end_s": 704.178,
+      "text": "A quick tap reads differently from a sustained grip.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0177",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 177,
+      "start_s": 704.678,
+      "end_s": 709.981,
+      "text": "Across cultures, and even across species, the semantics of touch are remarkably consistent.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0178",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 178,
+      "start_s": 710.501,
+      "end_s": 711.982,
+      "text": "Because they're pre-linguistic.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0179",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 179,
+      "start_s": 712.602,
+      "end_s": 713.543,
+      "text": "They're older than words.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0180",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 180,
+      "start_s": 714.697,
+      "end_s": 722.123,
+      "text": "All of this—gesture, posture, touch, space—is what researchers today call nonverbal communication.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0181",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 181,
+      "start_s": 722.944,
+      "end_s": 732.271,
+      "text": "But that term is a bit misleading because it frames these systems as secondary to verbal communication, as if they're just the leftover stuff that couldn't make it into words.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0182",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 182,
+      "start_s": 733.092,
+      "end_s": 735.554,
+      "text": "In reality, these systems are primary.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0183",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 183,
+      "start_s": 735.934,
+      "end_s": 736.715,
+      "text": "They came first.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0184",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 184,
+      "start_s": 737.295,
+      "end_s": 747.465,
+      "text": "They're more reliable in certain contexts, harder to fake in certain ways, and they still carry enormous informational load even among fully language-fluent adults.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0185",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 185,
+      "start_s": 748.446,
+      "end_s": 754.211,
+      "text": "Studies consistently show that when verbal and nonverbal signals contradict each other, people trust the nonverbal.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0186",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 186,
+      "start_s": 754.872,
+      "end_s": 755.412,
+      "text": "Every time.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0187",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 187,
+      "start_s": 756.013,
+      "end_s": 759.995,
+      "text": "A person says I'm fine in a flat voice with their arms crossed and their eyes somewhere else.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0188",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 188,
+      "start_s": 760.836,
+      "end_s": 762.036,
+      "text": "You don't believe the words.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0189",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 189,
+      "start_s": 762.577,
+      "end_s": 763.597,
+      "text": "You believe the body.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0190",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 190,
+      "start_s": 763.978,
+      "end_s": 765.238,
+      "text": "That's not irrationality.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0191",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 191,
+      "start_s": 765.719,
+      "end_s": 770.461,
+      "text": "That's an ancient system correctly overriding a newer and more easily manipulated one.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0192",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 192,
+      "start_s": 770.802,
+      "end_s": 772.923,
+      "text": "We didn't stop using this system when we got language.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0193",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 193,
+      "start_s": 773.183,
+      "end_s": 774.864,
+      "text": "We layered language on top of it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0194",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 194,
+      "start_s": 775.184,
+      "end_s": 777.246,
+      "text": "And the two systems still run simultaneously.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0195",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 195,
+      "start_s": 777.746,
+      "end_s": 779.267,
+      "text": "Every time two humans interact.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0196",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 196,
+      "start_s": 780.087,
+      "end_s": 783.589,
+      "text": "Here's something genuinely interesting that tends to get overlooked in this conversation.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0197",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 197,
+      "start_s": 784.37,
+      "end_s": 784.67,
+      "text": "Smell.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0198",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 198,
+      "start_s": 785.731,
+      "end_s": 789.613,
+      "text": "Humans are often described as having a poor sense of smell compared to other mammals.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0199",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 199,
+      "start_s": 790.253,
+      "end_s": 795.977,
+      "text": "And in absolute terms, yes, your dog is living in an olfactory universe you can barely imagine.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0200",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 200,
+      "start_s": 796.537,
+      "end_s": 798.218,
+      "text": "But that framing misses something.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0201",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 201,
+      "start_s": 798.739,
+      "end_s": 804.282,
+      "text": "Humans are extraordinarily sensitive to specific chemo signals that carry social information.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0202",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 202,
+      "start_s": 804.883,
+      "end_s": 805.703,
+      "text": "We can smell fear.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0203",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 203,
+      "start_s": 806.524,
+      "end_s": 808.625,
+      "text": "Not metaphorically, literally.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0204",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 204,
+      "start_s": 809.655,
+      "end_s": 818.085,
+      "text": "Studies have shown that compounds in the sweat of people who are genuinely frightened trigger measurable changes in the physiological and neural states of people who smell them.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0205",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 205,
+      "start_s": 818.625,
+      "end_s": 826.574,
+      "text": "Even when those people consciously believe they're just smelling a neutral sweat sample, the signal bypasses conscious processing and goes straight to threat response systems.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0206",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 206,
+      "start_s": 827.055,
+      "end_s": 827.996,
+      "text": "We can smell stress.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0207",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 207,
+      "start_s": 828.196,
+      "end_s": 829.137,
+      "text": "We can smell disease.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0208",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 208,
+      "start_s": 829.798,
+      "end_s": 836.325,
+      "text": "People with certain illnesses emit detectable chemical signatures that healthy individuals can, under some conditions, detect.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0209",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 209,
+      "start_s": 837.006,
+      "end_s": 838.848,
+      "text": "We can smell genetic compatibility.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0210",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 210,
+      "start_s": 839.108,
+      "end_s": 851.841,
+      "text": "The famous sweaty t-shirt studies showed that people consistently rate the smell of individuals with sufficiently different immune system profiles as more attractive, which is evolution quietly doing mate selection calculations without telling the conscious brain.",
+      "n_words": 36
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0211",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 211,
+      "start_s": 852.782,
+      "end_s": 863.83,
+      "text": "Early humans in close physical proximity, sleeping in the same space, moving in tight groups, handling the same materials, would have been bathed in olfactory social information continuously.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0212",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 212,
+      "start_s": 864.78,
+      "end_s": 870.785,
+      "text": "We can't reconstruct exactly how much of this was consciously processed versus operating below the threshold of awareness.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0213",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 213,
+      "start_s": 871.626,
+      "end_s": 882.436,
+      "text": "But the fact that these chemosensory systems are still active and still influencing human behavior today, in an era of deodorant and social distancing, suggests they were substantial.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0214",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 214,
+      "start_s": 883.377,
+      "end_s": 885.979,
+      "text": "Smell doesn't work as a precise messaging system.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0215",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 215,
+      "start_s": 886.6,
+      "end_s": 889.603,
+      "text": "You can't smell a question or smell an argument.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0216",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 216,
+      "start_s": 890.787,
+      "end_s": 902.63,
+      "text": "But as a broadcast of emotional state, physiological status, and genetic information, it was likely a constant background channel of social communication that early humans navigated fluently.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0217",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 217,
+      "start_s": 903.41,
+      "end_s": 906.951,
+      "text": "Let's get to something that feels more concrete, proto-language.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0218",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 218,
+      "start_s": 907.391,
+      "end_s": 917.033,
+      "text": "At some point, the gap between what our ancestors were doing, calls, gesture, rhythm, expression, and what we'd recognize as language began to close.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0219",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 219,
+      "start_s": 917.773,
+      "end_s": 922.335,
+      "text": "The question is when, and how, and what the intermediate stages looked like.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0220",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 220,
+      "start_s": 923.276,
+      "end_s": 925.557,
+      "text": "The honest answer is that we don't know exactly.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0221",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 221,
+      "start_s": 926.137,
+      "end_s": 927.778,
+      "text": "Language leaves no fossils.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0222",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 222,
+      "start_s": 928.298,
+      "end_s": 930.079,
+      "text": "What we have are proxy indicators.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0223",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 223,
+      "start_s": 930.559,
+      "end_s": 938.223,
+      "text": "Skull morphology suggesting brain organization, hyoid bones suggesting vocal anatomy, and crucially, stone tools.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0224",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 224,
+      "start_s": 939.363,
+      "end_s": 947.127,
+      "text": "The tool-making traditions of early Homo are, in a strange way, a window into cognitive and possibly communicative capacity.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0225",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 225,
+      "start_s": 948.19,
+      "end_s": 955.714,
+      "text": "The Oldowan tools, the earliest recognizable stone tools, going back about 2.6 million years, are relatively simple.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0226",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 226,
+      "start_s": 956.854,
+      "end_s": 960.656,
+      "text": "A stone napped with deliberate strikes to create a sharp edge.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0227",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 227,
+      "start_s": 961.857,
+      "end_s": 964.018,
+      "text": "Not nothing, but not complicated.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0228",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 228,
+      "start_s": 964.983,
+      "end_s": 970.985,
+      "text": "The Achillean hand axe, which appears around 1.76 million years ago, is different in a meaningful way.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0229",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 229,
+      "start_s": 971.685,
+      "end_s": 972.865,
+      "text": "It requires planning.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0230",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 230,
+      "start_s": 973.546,
+      "end_s": 983.909,
+      "text": "You have to hold in mind the shape you're working toward, make decisions multiple steps ahead of the current action, and execute a sequence of precise movements toward a non-immediately visible goal.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0231",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 231,
+      "start_s": 984.669,
+      "end_s": 987.15,
+      "text": "This is hierarchical sequential cognition.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0232",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 232,
+      "start_s": 987.69,
+      "end_s": 999.617,
+      "text": "The same cognitive architecture that underlies syntax, the same architecture you use when constructing a sentence, where each word choice constrains and is constrained by what comes before and after.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0233",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 233,
+      "start_s": 1000.377,
+      "end_s": 1014.43,
+      "text": "The cognitive prerequisites for language, hierarchical planning, symbolic thinking, working memory for sequences, seem to have been assembling over a long period before anything we'd call language appeared.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0234",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 234,
+      "start_s": 1015.98,
+      "end_s": 1029.941,
+      "text": "By the time you get to Homo sapiens roughly 300,000 years ago, you have a brain that's been shaped by millions of years of social complexity, gestural communication, vocal communication, and increasingly sophisticated toolmaking.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0235",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 235,
+      "start_s": 1031.282,
+      "end_s": 1039.726,
+      "text": "The neurological infrastructure for language was likely already largely in place before language as we know it existed, which raises a fascinating possibility.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0236",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 236,
+      "start_s": 1040.446,
+      "end_s": 1044.108,
+      "text": "The appearance of language may not have required a dramatic neurological leap.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0237",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 237,
+      "start_s": 1044.628,
+      "end_s": 1047.649,
+      "text": "It may have been more like the last piece of a puzzle clicking into place.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0238",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 238,
+      "start_s": 1048.39,
+      "end_s": 1057.874,
+      "text": "A small change, perhaps in the neural circuitry controlling voluntary vocalization, perhaps in the working memory systems that allow longer sequences to be held and manipulated.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0239",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 239,
+      "start_s": 1058.534,
+      "end_s": 1060.195,
+      "text": "that unlocked everything else.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0240",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 240,
+      "start_s": 1061.135,
+      "end_s": 1063.335,
+      "text": "The jump wasn't from silence to Shakespeare.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0241",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 241,
+      "start_s": 1063.976,
+      "end_s": 1068.737,
+      "text": "It was from a rich, layered, multi-channel communication system to that same system.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0242",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 242,
+      "start_s": 1069.177,
+      "end_s": 1069.837,
+      "text": "Plus grammar.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0243",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 243,
+      "start_s": 1070.197,
+      "end_s": 1077.26,
+      "text": "And once grammar arrived, the ability to combine a finite set of signals into an infinite set of meanings, everything accelerated.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0244",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 244,
+      "start_s": 1077.62,
+      "end_s": 1079.86,
+      "text": "There's one more thing worth discussing.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0245",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 245,
+      "start_s": 1080.44,
+      "end_s": 1081.781,
+      "text": "The role of teaching.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0246",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 246,
+      "start_s": 1082.221,
+      "end_s": 1085.402,
+      "text": "Communication isn't just about transmitting information in the moment.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0247",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 247,
+      "start_s": 1085.942,
+      "end_s": 1091.564,
+      "text": "One of its most powerful functions is transmitting information across time, from one generation to the next.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0248",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 248,
+      "start_s": 1092.284,
+      "end_s": 1097.025,
+      "text": "And the evidence suggests that early humans were doing this long before language made it easy.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0249",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 249,
+      "start_s": 1097.805,
+      "end_s": 1099.366,
+      "text": "Imitation is one mechanism.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0250",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 250,
+      "start_s": 1100.146,
+      "end_s": 1111.029,
+      "text": "Watching a skilled individual perform a complex task, and copying it, refining it, improving it over generations, is a form of cultural transmission that doesn't require words.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0251",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 251,
+      "start_s": 1111.669,
+      "end_s": 1113.65,
+      "text": "And humans are extraordinarily good at it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0252",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 252,
+      "start_s": 1114.654,
+      "end_s": 1118.616,
+      "text": "Imitation in humans is qualitatively different from what other animals do.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0253",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 253,
+      "start_s": 1119.457,
+      "end_s": 1121.878,
+      "text": "We imitate the method, not just the outcome.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0254",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 254,
+      "start_s": 1122.679,
+      "end_s": 1128.402,
+      "text": "We reproduce the specific actions used to achieve a result, even when other methods would also work.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0255",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 255,
+      "start_s": 1129.223,
+      "end_s": 1140.37,
+      "text": "This is called over-imitation, and it's so deeply wired into us that children will reproduce obviously unnecessary steps in a demonstrated action sequence because they assume the steps must mean something.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0256",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 256,
+      "start_s": 1141.07,
+      "end_s": 1144.071,
+      "text": "This behavioral tendency is what allows culture to accumulate.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0257",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 257,
+      "start_s": 1144.451,
+      "end_s": 1152.014,
+      "text": "A technique developed by one individual can be preserved and refined by a group, and transmitted to the next generation without full verbal explanation.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0258",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 258,
+      "start_s": 1152.694,
+      "end_s": 1154.195,
+      "text": "The form carries the information.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0259",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 259,
+      "start_s": 1154.855,
+      "end_s": 1158.596,
+      "text": "You watch, you copy, you improve, you pass it on.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0260",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 260,
+      "start_s": 1159.396,
+      "end_s": 1169.0,
+      "text": "Scaffolded demonstration, where a skilled individual guides a learner through a process, pointing, redirecting, repeating, would have worked as a teaching system before language.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0261",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 261,
+      "start_s": 1169.82,
+      "end_s": 1172.044,
+      "text": "It still works this way in many contexts today.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0262",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 262,
+      "start_s": 1172.905,
+      "end_s": 1174.988,
+      "text": "Watch a good sushi chef teach an apprentice.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0263",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 263,
+      "start_s": 1175.589,
+      "end_s": 1177.732,
+      "text": "Watch a basketball player teach a crossover dribble.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0264",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 264,
+      "start_s": 1178.453,
+      "end_s": 1182.479,
+      "text": "A tremendous amount of the instruction is physical, demonstrative, non-verbal.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0265",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 265,
+      "start_s": 1183.06,
+      "end_s": 1183.861,
+      "text": "Language assists.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0266",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 266,
+      "start_s": 1184.662,
+      "end_s": 1186.203,
+      "text": "But it doesn't do the whole job.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0267",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 267,
+      "start_s": 1186.803,
+      "end_s": 1188.664,
+      "text": "There's something almost poetic about this.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0268",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 268,
+      "start_s": 1189.384,
+      "end_s": 1201.89,
+      "text": "Early human knowledge—how to nap a stone, how to read animal tracks, which plants were medicine and which were death—survived for hundreds of thousands of years before anyone could write it down or even fully articulate it.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0269",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 269,
+      "start_s": 1202.65,
+      "end_s": 1213.475,
+      "text": "It survived in bodies, in hands that had watched other hands and learned to move the same way, in the accumulated muscle memory of a species that was teaching long before it had teachers.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0270",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 270,
+      "start_s": 1214.275,
+      "end_s": 1225.44,
+      "text": "The emergence of more explicit symbolic communication, proto-language, then language, would have dramatically increased the efficiency and fidelity of this knowledge transfer.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0271",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 271,
+      "start_s": 1226.501,
+      "end_s": 1228.441,
+      "text": "You could describe things that weren't present.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0272",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 272,
+      "start_s": 1229.542,
+      "end_s": 1231.603,
+      "text": "You could communicate about the past and the future.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0273",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 273,
+      "start_s": 1232.79,
+      "end_s": 1237.172,
+      "text": "You could explain the why behind a technique, not just demonstrate the how.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0274",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 274,
+      "start_s": 1237.993,
+      "end_s": 1240.734,
+      "text": "You could warn someone about a danger they hadn't encountered yet.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0275",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 275,
+      "start_s": 1241.375,
+      "end_s": 1243.456,
+      "text": "You could grieve together for someone who was gone.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0276",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 276,
+      "start_s": 1243.976,
+      "end_s": 1246.737,
+      "text": "You could make plans that stretched further than the horizon.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0277",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 277,
+      "start_s": 1247.258,
+      "end_s": 1258.964,
+      "text": "This is probably a large part of why language spread and deepened once it began, not just because it helped in the moment, but because it supercharged the cultural accumulation that makes human civilization possible.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0278",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 278,
+      "start_s": 1259.684,
+      "end_s": 1260.705,
+      "text": "Here's where it all lands.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0279",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 279,
+      "start_s": 1261.425,
+      "end_s": 1264.107,
+      "text": "Human communication before speech wasn't primitive.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0280",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 280,
+      "start_s": 1264.908,
+      "end_s": 1266.229,
+      "text": "It wasn't a rough draft.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0281",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 281,
+      "start_s": 1267.01,
+      "end_s": 1282.902,
+      "text": "It was a sophisticated, multi-channel system that coordinated groups of dozens or hundreds of individuals, managed complex social hierarchies, transmitted emotional states and threat information in real time, and built the cultural scaffolding across which language eventually emerged.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0282",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 282,
+      "start_s": 1283.803,
+      "end_s": 1285.424,
+      "text": "The face was already broadcasting.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0283",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 283,
+      "start_s": 1285.944,
+      "end_s": 1287.304,
+      "text": "The hands were already signaling.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0284",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 284,
+      "start_s": 1288.044,
+      "end_s": 1290.865,
+      "text": "The voice was already producing calls with referential meaning.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0285",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 285,
+      "start_s": 1291.466,
+      "end_s": 1294.406,
+      "text": "The body was already carrying status and alliance information.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0286",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 286,
+      "start_s": 1294.947,
+      "end_s": 1298.748,
+      "text": "Smell was already filtering social data below the level of conscious awareness.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0287",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 287,
+      "start_s": 1299.508,
+      "end_s": 1304.53,
+      "text": "Rhythm was already bonding groups together in ways that no one-on-one interaction could achieve.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0288",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 288,
+      "start_s": 1305.274,
+      "end_s": 1307.978,
+      "text": "Language didn't replace this system, it joined it.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0289",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 289,
+      "start_s": 1308.739,
+      "end_s": 1313.606,
+      "text": "Every conversation you have today runs simultaneously on ancient pre-linguistic channels.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0290",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 290,
+      "start_s": 1314.508,
+      "end_s": 1321.158,
+      "text": "The expression on your face, the posture of your body, the rhythm of your speech, the touch that is or isn't offered.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0291",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 291,
+      "start_s": 1321.773,
+      "end_s": 1324.654,
+      "text": "and on the more recently evolved channel of words and grammar.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0292",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 292,
+      "start_s": 1325.114,
+      "end_s": 1332.797,
+      "text": "When you look at a stranger and, in a fraction of a second, decide whether they seem trustworthy, that's the old system doing its job.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0293",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 293,
+      "start_s": 1333.277,
+      "end_s": 1337.998,
+      "text": "When you feel the energy in a room shift before anyone says anything, that's the old system.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0294",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 294,
+      "start_s": 1338.258,
+      "end_s": 1346.621,
+      "text": "When you're lying and someone just knows, even though your words were technically correct, that's the old system catching the inconsistency between channels.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0295",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 295,
+      "start_s": 1348.525,
+      "end_s": 1349.786,
+      "text": "Words said one thing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0296",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 296,
+      "start_s": 1350.306,
+      "end_s": 1353.607,
+      "text": "The face, the voice, the timing, the posture all said something else.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0297",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 297,
+      "start_s": 1354.088,
+      "end_s": 1359.31,
+      "text": "And the listener's ancient hardware flagged the mismatch before their conscious brain had finished processing the sentence.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0298",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 298,
+      "start_s": 1360.368,
+      "end_s": 1364.089,
+      "text": "We are not creatures who traded in nonverbal communication for language.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0299",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 299,
+      "start_s": 1364.769,
+      "end_s": 1369.79,
+      "text": "We are creatures who added language to a nonverbal foundation, and we still run on both.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0300",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 300,
+      "start_s": 1370.51,
+      "end_s": 1375.352,
+      "text": "And when you zoom out far enough, the whole story becomes something worth sitting with.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0301",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 301,
+      "start_s": 1375.752,
+      "end_s": 1386.254,
+      "text": "A lineage of animals, spread across millions of years, gradually building a more and more complex system for reaching across the space between one mind and another.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0302",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 302,
+      "start_s": 1386.834,
+      "end_s": 1389.175,
+      "text": "Starting with a face that could broadcast fear.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0303",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 303,
+      "start_s": 1390.295,
+      "end_s": 1414.774,
+      "text": "adding hands that could point and gesture, adding voices that could carry information over distance, adding rhythm that could pull individuals into synchrony, adding imitation that could carry knowledge across generations, and then, eventually, adding the thing that let one mind describe the contents of another mind to someone who wasn't there, wasn't present, didn't see it happen.",
+      "n_words": 58
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0304",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 304,
+      "start_s": 1415.575,
+      "end_s": 1416.856,
+      "text": "the thing we call language.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0305",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 305,
+      "start_s": 1417.797,
+      "end_s": 1426.404,
+      "text": "Which means every time you say something without words, every shrug, every look, every deliberate silence, you're not failing to communicate.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0306",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 306,
+      "start_s": 1427.125,
+      "end_s": 1429.407,
+      "text": "You're reaching back to the oldest version of what you are.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0307",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 307,
+      "start_s": 1429.747,
+      "end_s": 1437.874,
+      "text": "You're speaking in a language so ancient it doesn't have a name, one that was refined across millions of years of survival, cooperation, and everything in between.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "V_Yx8gJCCUw:s0308",
+      "video_id": "V_Yx8gJCCUw",
+      "idx": 308,
+      "start_s": 1438.214,
+      "end_s": 1441.197,
+      "text": "And somehow, most of the time, the message gets through just fine.",
+      "n_words": 12
+    }
+  ]
+}
