@@ -1,0 +1,286 @@
+{
+  "source": "https://github.com/Lcjlle/roteiros-engine/issues/8#issuecomment-5529863779",
+  "description": "28 candidatos heuristicos (sentenca sem pontuacao terminal ./!/?, excluindo a ultima sentenca de cada video) da varredura da Issue #8, classificados individualmente contra a proxima sentenca (nao a heuristica de pontuacao sozinha). 22 sintaticamente abertos, 6 falsos positivos que devem permanecer intactos - copiados com exatidao da tabela do comentario de correcao, sem reclassificar.",
+  "cases": [
+    {
+      "sent_id": "0neQIzWDXaM:s0091",
+      "video_id": "0neQIzWDXaM",
+      "text": "A life of maximized comfort and routine",
+      "next_text": "A life structured to eliminate friction, unpredictability, and novelty is a life that will feel like it passed in an instant when you look back at it.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": true,
+      "reason": "fragmento sem verbo (frase nominal sem predicado)"
+    },
+    {
+      "sent_id": "5agqeNtjstU:s0158",
+      "video_id": "5agqeNtjstU",
+      "text": "The mating system of our species is, in the somewhat inelegant but accurate language of the evolutionary biologists who study it,",
+      "next_text": "Facultative monogamy with variation.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": false,
+      "reason": "predicado copular \"is,\" cortado antes do complemento"
+    },
+    {
+      "sent_id": "88xZotShpxY:s0132",
+      "video_id": "88xZotShpxY",
+      "text": "The person who hears the faint sound others miss, who smells the smoke or the animal or the change in the air before anyone else, whose senses are turned up high enough to catch the early, subtle warning,",
+      "next_text": "In a world where noticing the predator a few seconds sooner was the difference between life and death, a finely tuned sensory system was a sentinel's gift.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "sujeito longo (oracoes relativas) sem verbo principal"
+    },
+    {
+      "sent_id": "88xZotShpxY:s0187",
+      "video_id": "88xZotShpxY",
+      "text": "The point isn't that the past was kind,",
+      "next_text": "The point is narrower and, I think, more useful than that.",
+      "label": "false_positive",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "\"The point isn't that X\" ja e oracao completa - virgula e estilistica"
+    },
+    {
+      "sent_id": "88xZotShpxY:s0208",
+      "video_id": "88xZotShpxY",
+      "text": "So if you're someone who's always felt a half-step out of sync with the social world, who goes deep instead of wide, who notices what others miss, who can't lie to save your life, who needs your routines, who loves your one subject with a fire,",
+      "next_text": "Other people don't understand.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "protase condicional \"if...\" sem apodose"
+    },
+    {
+      "sent_id": "AvF3bPcqZeM:s0031",
+      "video_id": "AvF3bPcqZeM",
+      "text": "Early",
+      "next_text": "Homo species, small, fragile, brain still developing, no fire, no complex tools, no language, no coordinated hunting strategy.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": false,
+      "reason": "adjetivo isolado, separado do substantivo (\"Early | Homo species\")"
+    },
+    {
+      "sent_id": "McXn53SKXYg:s0011",
+      "video_id": "McXn53SKXYg",
+      "text": "Let's bring up something genuinely fascinating regarding the actual physical capability ancient humans possessed for this kind of sustained movement, because we touched on persistence hunting in a previous video,",
+      "next_text": "And that exact same underlying physiology applies directly here, too.",
+      "label": "false_positive",
+      "heuristic_class": "comma",
+      "window_end": false,
+      "reason": "oracao com \"because\" ja completa gramaticalmente"
+    },
+    {
+      "sent_id": "McXn53SKXYg:s0058",
+      "video_id": "McXn53SKXYg",
+      "text": "This represents a genuinely fascinating, still actively debated mystery within archaeology,",
+      "next_text": "Exactly what kind of watercraft these early travelers used and exactly how sophisticated their navigation and planning actually was remains considerably less well understood compared to the more extensively documented Polynesian voyaging tradition.",
+      "label": "false_positive",
+      "heuristic_class": "comma",
+      "window_end": false,
+      "reason": "oracao completa (sujeito+verbo+objeto); proxima muda de sujeito"
+    },
+    {
+      "sent_id": "NcITexwM0Fg:s0102",
+      "video_id": "NcITexwM0Fg",
+      "text": "Wealthy",
+      "next_text": "Roman women had access to fine linen, soft wool, and presumably household slaves who handled washing and preparation of these materials.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": false,
+      "reason": "adjetivo isolado (\"Wealthy | Roman women\")"
+    },
+    {
+      "sent_id": "NcITexwM0Fg:s0236",
+      "video_id": "NcITexwM0Fg",
+      "text": "Medieval",
+      "next_text": "Europeans had their plant-based amenagogues.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": true,
+      "reason": "adjetivo isolado (\"Medieval | Europeans\")"
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0097",
+      "video_id": "Qgz_k2JQ3UY",
+      "text": "Historian",
+      "next_text": "Roger E. Kirch spent over two decades researching sleep patterns in historical documents.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": false,
+      "reason": "titulo isolado, separado do nome proprio (\"Historian | Roger E. Kirch\")"
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0165",
+      "video_id": "Qgz_k2JQ3UY",
+      "text": "Wrestling competitions, foot races, tests of throwing accuracy,",
+      "next_text": "These appear independently in ancient cultures worldwide, in groups with no contact with each other, which is very strong evidence that competitive play is simply something humans do naturally when they have the time and energy to do it.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "lista topicalizada sem verbo, resolvida por \"These appear...\""
+    },
+    {
+      "sent_id": "Qgz_k2JQ3UY:s0230",
+      "video_id": "Qgz_k2JQ3UY",
+      "text": "Running Adaptation",
+      "next_text": "We were built, from the bones outward, to be endurance predators, long-distance pursuit hunters, the most improbable and effective ones on Earth.",
+      "label": "false_positive",
+      "heuristic_class": "no_punct",
+      "window_end": true,
+      "reason": "ambiguo - le como titulo/rotulo, nao completa gramaticalmente com a proxima"
+    },
+    {
+      "sent_id": "f59QqKgwuq0:s0016",
+      "video_id": "f59QqKgwuq0",
+      "text": "Hunter-gatherer communities like the Sand",
+      "next_text": "People of Southern Africa maintained one of the oldest continuously documented ways of life on Earth, extraordinarily well-adapted to specific environments, with rich knowledge systems, spiritual traditions, and social structures developed across tens of thousands of years.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": true,
+      "reason": "nome proprio composto cortado (\"the Sand | People of...\")"
+    },
+    {
+      "sent_id": "f59QqKgwuq0:s0098",
+      "video_id": "f59QqKgwuq0",
+      "text": "The women of the abolitionist movement, Harriet Tubman making some 19 missions back into slave territory to guide hundreds of people to freedom, Sojourner",
+      "next_text": "Truth navigating the intersections of race and gender with formidable rhetorical power, were not supporting, figures in a male-dominated story.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": false,
+      "reason": "nome proprio cortado (\"Sojourner | Truth\")"
+    },
+    {
+      "sent_id": "f59QqKgwuq0:s0105",
+      "video_id": "f59QqKgwuq0",
+      "text": "The development of the blues in the Mississippi Delta in the early 20th century, the creation of jazz in New Orleans, and then in the clubs of Chicago and New York, the emergence of soul and funk and hip-hop from specific communities in specific American cities,",
+      "next_text": "These weren't simply aesthetic achievements in a neutral cultural space.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "lista topicalizada sem verbo, resolvida por \"These weren't...\""
+    },
+    {
+      "sent_id": "kLYsABip8tI:s0243",
+      "video_id": "kLYsABip8tI",
+      "text": "If an experience is described more precisely, tired, unprepared, distracted, unfamiliar,",
+      "next_text": "The mind gains several possible roads, instead of one dramatic highway directly into personal doom.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "protase condicional \"if...\" sem apodose"
+    },
+    {
+      "sent_id": "lkLwp9o7Djk:s0105",
+      "video_id": "lkLwp9o7Djk",
+      "text": "But if your uncle was also very rich and you were very greedy and slightly unscrupulous,",
+      "next_text": "Well, furiosis is a flexible word when there's an inheritance at stake.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": false,
+      "reason": "protase condicional \"if...\" dangling"
+    },
+    {
+      "sent_id": "lkLwp9o7Djk:s0211",
+      "video_id": "lkLwp9o7Djk",
+      "text": "Medieval",
+      "next_text": "Europeans persecuted and also built gheel.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": false,
+      "reason": "adjetivo isolado (\"Medieval | Europeans\")"
+    },
+    {
+      "sent_id": "lkLwp9o7Djk:s0222",
+      "video_id": "lkLwp9o7Djk",
+      "text": "But the gap between what we know and what we actually do with that knowledge, the gap between our scientific understanding and the humanity with which we implement it,",
+      "next_text": "That gap.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "sujeito longo sem verbo principal (quebra em 3 partes)"
+    },
+    {
+      "sent_id": "lkLwp9o7Djk:s0233",
+      "video_id": "lkLwp9o7Djk",
+      "text": "It is found in whether or not you are willing to look at a person who is suffering in a way that makes you uncomfortable and still say,",
+      "next_text": "This is a person.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "j0095, ja julgado manualmente na Issue #4"
+    },
+    {
+      "sent_id": "pJYm-8WQbEE:s0046",
+      "video_id": "pJYm-8WQbEE",
+      "text": "You can't climb inside someone else's head, you can't verify that anyone else is actually conscious,",
+      "next_text": "You just kind of assume because they look a lot like you, and they act a lot like you, and that seems reasonable.",
+      "label": "false_positive",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "oracao composta completa (virgula une duas oracoes ja completas)"
+    },
+    {
+      "sent_id": "pJYm-8WQbEE:s0290",
+      "video_id": "pJYm-8WQbEE",
+      "text": "When he loses someone he loves,",
+      "next_text": "Because yes, dogs grieve too.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": false,
+      "reason": "oracao subordinada \"When...\" sem oracao principal clara"
+    },
+    {
+      "sent_id": "qsBitnO8djE:s0004",
+      "video_id": "qsBitnO8djE",
+      "text": "Because the popular image this number conjures",
+      "next_text": "A 30-year-old hunter-gatherer collapsing from old age, creaky joints, gray hair, the whole package, while everyone around them treats this as an entirely unremarkable and expected event, is almost completely wrong.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": false,
+      "reason": "oracao subordinada \"Because...\" dangling"
+    },
+    {
+      "sent_id": "qsBitnO8djE:s0102",
+      "video_id": "qsBitnO8djE",
+      "text": "Let us turn now to comparative studies of contemporary hunter-gatherer populations conducted by researchers including Michael Girvin and Hillard Kaplan, whose work compiling demographic data across the Hadza, the Ash of Paraguay, the Hiwi of Venezuela and Colombia,",
+      "next_text": "And several other groups found a remarkably consistent pattern.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": true,
+      "reason": "oracao relativa sem verbo principal, resolvida por \"found\" na proxima"
+    },
+    {
+      "sent_id": "wihLSMVD6iM:s0085",
+      "video_id": "wihLSMVD6iM",
+      "text": "It requires observation, it requires memory,",
+      "next_text": "It requires the ability to notice that something happened to this grain last time it got wet, and to decide to reproduce that process intentionally.",
+      "label": "false_positive",
+      "heuristic_class": "comma",
+      "window_end": false,
+      "reason": "oracoes completas em serie (anafora retorica \"it requires X, it requires Y\")"
+    },
+    {
+      "sent_id": "yKqe_ey3QOs:s0250",
+      "video_id": "yKqe_ey3QOs",
+      "text": "150,000 years of human history and what connects you to them",
+      "next_text": "Directly, without interruption, is the simple fact that you got dressed this morning.",
+      "label": "open",
+      "heuristic_class": "no_punct",
+      "window_end": true,
+      "reason": "sujeito sem predicado, resolvido por \"is\" na proxima"
+    },
+    {
+      "sent_id": "z1StpnRL4k4:s0116",
+      "video_id": "z1StpnRL4k4",
+      "text": "Looking back across this entire arc, from a Taoist alchemy lab in 9th century China to flintlock muskets dominating European battlefields nearly 8 centuries later,",
+      "next_text": "The story of how humans invented guns is really a story about accident, accumulation, and migration happening together over an enormous span of time.",
+      "label": "open",
+      "heuristic_class": "comma",
+      "window_end": false,
+      "reason": "frase participial dangling, resolvida pela oracao principal seguinte"
+    }
+  ]
+}
