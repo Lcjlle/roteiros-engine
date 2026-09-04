@@ -924,8 +924,23 @@ All 30 videos sentence/window cleanly (no errors - `role` defaulting makes
 every row `profile`, which is correct here: `@Zenn0009` was never split
 into profile/holdout). The seed-42 draw picked `ZJai7C3tb1M` ("The
 Pratfall Effect", 238s, the shortest video in the manifest) with 20 windows
-`ZJai7C3tb1M:j0000` through `:j0022` (56 windows total in that video, 20
-sampled without replacement). The engineer's real run must produce and
+`ZJai7C3tb1M:j0000` through `:j0022`.
+
+**Correction, in place (same posture as the `read_manifesto` fix above and
+item #11's median/mean fix): the original text of this paragraph said "56
+windows total in that video."** That is false - `ZJai7C3tb1M` has 24 windows
+total, not 56; 56 is `Dw2Pifv1JrM`'s window count, from the round-2 draw
+below, transposed here by mistake. Checkable two ways: 773 words in the
+video's sentences at the corpus-wide rate of 32.92 words/window
+(`102,138 words / 3,103 windows` from the Fase 2 corpus,
+`_docs/decisions.md#14`'s `3a` denominator) gives ~23 windows, and 20 windows
+sampled without replacement from a pool of 56 landing entirely within
+`j0000`-`j0022` (the first 23 slots) has probability 2.25e-12 - both point to
+24, not 56. The sample itself is unaffected: 20 windows without replacement
+from 24 available is still a valid draw, just a tighter margin than the
+original text implied.
+
+The engineer's real run must produce and
 commit `corpus/zenn0009/sentences/*.json` and `corpus/zenn0009/windows/*.json`
 for real (this entry only proves the recipe works) - re-running the same
 seed against the same committed input is expected to reproduce the same
