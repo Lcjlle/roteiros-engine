@@ -1133,3 +1133,186 @@ number plus what it decided - not a translation of the entries. That keeps the
 citations, the numbers and the diff history intact while restoring
 skimmability. Not done now, because 18 entries have been read in English
 without friction.
+
+## 19. Issue #11 (`function` boundary-window tie-breaker): rewritten to require zero lookahead and zero word count, after two straight QA FAILs on the same defect class - rework cycle stopped, not sent back a third time
+
+Issue #11 (Fase 3 ontology) FAILed QA twice in a row on the same item: the
+`function` tie-breaker for a window whose content straddles two topics.
+Commit `98a66e8` (v1) coded by whichever clause carries "more new
+information, more words" - two unranked criteria that can point opposite
+ways. Commit `9d1182c` (v2, the engineer's own fix after the first FAIL)
+dropped "more new information" and coded by word count alone: default to
+the closing clause, the opening clause wins only with strictly more words.
+QA's second FAIL measured v2 mechanically against the real, already-committed
+worksheet (`corpus/mackexplains7/fase3_coverage.md`, worktree
+`/home/leandro/code/wt/11`, counts independently reproduced from the real
+window text in this entry) and found two rows where the rule as written and
+the recorded label disagree:
+
+| window | closing clause (words) | opening clause (words) | v2 rule says | recorded label | recorded label reads as |
+|---|---|---|---|---|---|
+| `5unhHRFkC7I:j0064` | 20 (cats) | 7 (horses) | closing | `promise` | opening |
+| `lkLwp9o7Djk:j0076` | 12 | 16 | opening | `objection` | closing |
+
+In both, the worksheet's `justificativa` column is blank - neither row was
+ever recognized as a boundary window when originally classified.
+
+**Root cause, not fixable by a third word-count variant.** The engineer
+identified it correctly on the second round: `5unhHRFkC7I:j0054` was cited
+in the v1 tie-breaker's own text as a resolved boundary case and turns out
+not to be one at all - a finding neither QA nor the project owner had made.
+The deeper problem the engineer's fix did not reach: v1/v2's shared
+*definition* of a boundary window - "its final sentence(s) preview specific
+content the next window then develops" - requires reading the next window.
+Verified directly against the plan before writing this entry:
+`_docs/plano_implementacao.md` line 342 ("decidível em janela - decidível em
+2-4 sentenças mais **contexto anterior**"; only prior context is licensed,
+nothing about the next window) and `README.md` M4 ("não passar `pos_pct`
+... nem os rótulos das janelas anteriores" - the prompt is built to forbid
+leakage in the *other* direction, and never grants next-window access
+either). The real Fase 5 annotator - the one this codebook is actually
+written for - only ever sees a window plus prior context. A tie-breaker
+built on a definition that requires the next window cannot be applied
+consistently by that annotator, independent of which countable signal
+(word count, sentence count, anything else) sits on top of the definition.
+The two FAILs are symptom, not cause: `98a66e8`/`9d1182c` both defined the
+problem in terms only the person writing the codebook - who has the whole
+transcript - can evaluate.
+
+**Second, independent defect in the same two commits.** Coding by word
+count is a third instance, on this project, of a countable surface trace
+standing in for semantic judgment - the same failure class `#14` (the
+sentence-boundary punctuation heuristic, 6 of 28 candidates were false
+positives) and `#15` (SaT split-confidence threshold, open-case
+probabilities 0.145-0.991 overlapping false-positive probabilities
+0.403-0.983) already measured and rejected on this project. Replacing
+"more new information" with word count removed the conflict between two
+signals (v1's defect) but not the category error of using a countable
+proxy at all.
+
+**Decision: Direction A, no new field.** `schema/codebook.md`'s general
+tie-breaker for `function`'s boundary case (currently the "General
+tie-breaker adopted for every genuine boundary window" paragraph in the
+worktree draft) is replaced with:
+
+> A window may contain content that concludes an established topic and a
+> trailing pivot that opens a new one. Detecting the pivot never requires
+> the next window: a trailing pivot exists when the window's final
+> sentence(s) name or introduce a specific subject, claim, or event that is
+> not otherwise developed earlier in this window or by prior windows in the
+> same video - a bare transitional phrase with no new specific content
+> ("Let's go further," "there's one more thing") is not a pivot. When a
+> window contains such a pivot, code `function` for the content the window
+> concludes, never for the content it only opens or previews - regardless
+> of relative word count, sentence count, or which half reads as more
+> salient. A window with no internal pivot is coded normally, from its own
+> content as a whole.
+
+This removes both defects together: the pivot test reads only the window's
+own text and what the video has already established, never what comes
+after (no lookahead); and "always the closing content" is unconditional,
+so no count of any kind enters the decision.
+
+**Why not Direction B (a new structural-pivot field).** Rejected as
+disproportionate to what the corpus actually shows, and inconsistent with
+how every other field-3 (mutual exclusivity) collision in this same
+codebook was already resolved. Reading all 205 rows of
+`corpus/mackexplains7/fase3_coverage.md` (worktree, read-only) for a
+genuine within-window pivot under the test above finds five confirmed
+cases - `lkLwp9o7Djk:j0027`, `lkLwp9o7Djk:j0064`, `lkLwp9o7Djk:j0076`,
+`5unhHRFkC7I:j0064`, `5unhHRFkC7I:j0075` - a 2.4% (5/205) rate, plus two
+borderline candidates, `5unhHRFkC7I:j0017` and `5unhHRFkC7I:j0039`, flagged
+here for the next engineering round to resolve under the same test, not
+decided by this entry. `loop`'s `opens`/`closes` collision
+(`5unhHRFkC7I:j0024`, 1/205) and `evidence_type`'s two collisions
+(`study`/`statistic`, `case`/`authority`) were resolved the same way, in
+the same codebook, on the stated reasoning that a rule "does not recur
+nearly as pervasively as `transition` did... and a single rule fully
+resolves it" - which applies here at a comparable rate. A new field would
+need its own six-test defense, its own worksheet column, its own
+`fase3_gate.json` thermometer, and its own line in every one of the
+~3,600-per-channel Fase 5 annotation calls, to carry a signal `function`'s
+own deterministic tie-breaker already resolves. `_docs/plano_implementacao.md`'s
+5-7 field range (line 374) has room for a sixth field; room existing is not
+the same as warranted.
+
+**Applied to the four windows named in QA's report and the project owner's
+instruction**, verbatim text from
+`corpus/mackexplains7/windows/{lkLwp9o7Djk,5unhHRFkC7I}.json` (worktree,
+read-only):
+
+- **`lkLwp9o7Djk:j0027`.** Closes: "Pointing at the right building, wrong
+  floor." - a generalizing aside on Egypt's near-miss mood theory (`j0026`:
+  "not quite right, but in the right neighborhood"). Opens: "Now we cross
+  the Mediterranean, and we have to talk about ancient Greece..." - names a
+  genuinely new subject, Greece, not discussed before this window. Rule:
+  code the closing clause. It extends `j0026`'s established content to a
+  broader generalization without being tied to one posed question -
+  `implication`'s own definition. **New label: `implication`. Recorded
+  today: `promise`. Changes.**
+- **`lkLwp9o7Djk:j0064`.** Closes: "The people of a small Belgian town
+  figured it out in the 1200s and just quietly kept doing it." - generalizes
+  the Gilles/Belgium case just established. Opens: "Then comes the early
+  modern period, and things in Europe get notably worse before they get
+  better." - names a new era. Rule: code the closing clause ->
+  `implication`. **New label: `implication`. Recorded today: `implication`.
+  No change** - v2's word count happened to pick the closing clause here
+  (19 vs. 17 words) too, coincidence rather than vindication, since the
+  same rule misfires on the next two windows below.
+- **`5unhHRFkC7I:j0054`.** "...they became... experts in being human. Now,
+  dogs are an obvious case..." No genuine pivot: "dogs" is not a new
+  subject, it is the established subject of the entire preceding act
+  (`j0000`-`j0053`) - the engineer's own second-round finding, which holds
+  under the rule above without needing the tie-breaker at all: the whole
+  window reads directly as `implication`. **Label: `implication`. Recorded
+  today: `implication`. No change.**
+- **`5unhHRFkC7I:j0064`.** Closes: "Not, I know what humans look like when
+  they're sad, but, I know what you look like when you're sad." -
+  generalizes `j0061`-`j0063`'s established content about cats building an
+  individualized model of their owner. Opens: "Horses operate on yet
+  another level entirely." - names a new subject, horses, not discussed
+  before this window. Rule: code the closing clause. It extends the cats
+  content to a broader generalization - `implication`. **New label:
+  `implication`. Recorded today: `promise`. Changes** - this is the row
+  QA's mechanical check flagged.
+
+A fifth window in the same worksheet, not in QA's table but flagged by the
+same mechanical check: **`lkLwp9o7Djk:j0076`.** Closes: "Unevenly. With
+enormous suffering in the gaps. But the direction was right." - qualifies
+the prior claim of steady progress (`objection`). Opens: "And then the 19th
+century arrived and built enormous asylums and overcrowded them to
+catastrophic levels." - names a new era. Rule: code the closing clause ->
+`objection`. **Recorded today: `objection`. No change** - this is the row
+where v2's word count (opening's 16 beats closing's 12) disagreed with the
+recorded label; the new rule predicts the recorded label correctly without
+retconning it.
+
+**Net effect on the 205-row worksheet.** Two rows change
+(`lkLwp9o7Djk:j0027`, `5unhHRFkC7I:j0064`, both `promise -> implication`),
+out of five confirmed boundary windows and 205 total; the two borderline
+candidates above are flagged, not decided, for the next engineering round.
+Neither changed row becomes `outro`/`dúvida` - both keep a concrete
+`function` value - so the measured coverage-gate result (`corpus/mackexplains7/fase3_gate.json`,
+**0/205, PASSOU, teto 20**) is unaffected and not reopened by this entry.
+
+**Distributional consequence, stated rather than hidden.** Extrapolated at
+the worksheet's own 2.4% boundary-window rate, the full `@MackExplains7`
+corpus (3,103 windows, `#14`) has on the order of 60-90 boundary windows;
+this rule moves each one's `function` to whichever value its closing clause
+represents - a small, systematic, predictable shift in the `function`
+distribution, not corpus-breaking. A systematic rule biases the
+distribution predictably; the lookahead-dependent, word-count rule it
+replaces injected exactly the kind of annotator-to-annotator noise Fase 5's
+α gate exists to catch.
+
+**What this does not reopen.** `transition`'s removal from `function`
+(unaffected - the boundary tie-breaker exists because `transition` is gone,
+not as a reason to bring it back), `cosmic`'s removal from `scale`, `scale`
+staying in v1, the 20/205 gate ceiling, `SAMPLE_SEED = 42` and the sampled
+video pair, or the codebook's verbatim-quote citation format. `schema/codebook.md`,
+`schema/ontologia.v1.json`, and `corpus/mackexplains7/fase3_coverage.md`
+are not edited by this entry - they stay worktree-only and unmerged
+(`origin/main` confirmed at `78e277c` when this entry was written, unchanged
+since `9d1182c`'s QA FAIL). The next engineering round applies the rule
+above, corrects the two rows named, re-verifies the other three, resolves
+the two borderline candidates, and re-measures the coverage gate.
