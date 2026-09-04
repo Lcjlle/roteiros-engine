@@ -805,3 +805,110 @@ escalating genuinely ambiguous cases to a human. This is a shape for a
 thermometer this project already uses for window density,
 `_docs/decisions.md#14`, to sentence-boundary quality) - no issue number
 assigned yet, nothing to implement now.
+
+## 16. Fase 3 grooming: `@Zenn0009` accepted as the transferability-test channel, deterministic sampling recipe reused from Fase 2 tooling, codebook example format, coverage-test video pair
+
+Grooming the single Fase 3 issue (`_docs/plano_implementacao.md` lines
+328-436) left four real technical gaps `_docs/team/pm.md` has the PM close
+rather than hand to the engineer with a fork still in it. None of these are
+product decisions - `DECISOES.md` names which channel the ontology is
+*derived from* (`@MackExplains7`, item 4) and is silent on which channel
+serves the Fase 3 sixth test (transferability); the PM was explicitly
+asked to make that call by inspecting the real corpora, not to guess on
+the project owner's behalf.
+
+**(a) `@Zenn0009` serves as the second-channel transferability check.**
+Read `corpus/mackexplains7/raw/z1StpnRL4k4.limpo.json` and
+`corpus/zenn0009/raw/{5tjzei0JOL8,FqLPYQRs6Sk}.limpo.json` directly (real
+transcript text, not summaries). Both channels are the same *format*: a
+single narrator, English-language, hook-first YouTube explainer that opens
+on a concrete scene or claim ("Your heart just stopped...", "In the 9th
+century..."), builds an escalating narrative citing studies/historical
+cases as evidence ("A 2022 study published in... PLOS One", "That man was
+Howard Moskowitz"), and resolves toward an implication - exactly the
+`function` vocabulary this issue's ontology proposes (hook, escalation,
+evidence, mechanism, resolution, implication). Titling is the same
+question/"effect" convention on both (`DECISOES.md#1`/`#4`). The one real
+difference is average length - `@MackExplains7` `profile` videos run
+17.3-26.4 min (`_docs/decisions.md#12`), `@Zenn0009` runs ~4.0-13.0 min
+(`corpus/zenn0009/manifesto.csv`, `ZJai7C3tb1M` 238s to `gEnnt7fDn5Y` 778s)
+- but duration is not a format attribute the six tests (line 336-344 of
+the plan) test for; a category that survives "decidible in a 2-4 sentence
+window" does not care how many windows the video has. This is a technical
+finding, not a product decision, and it is a *format* finding, not a
+redefinition of `DECISOES.md#4` ("o canal do qual a ontologia sai") - the
+ontology's fields and codebook examples still all come from
+`@MackExplains7`, only the transfer check's ~20 windows come from
+`@Zenn0009`.
+
+**(b) Deterministic recipe to produce those ~20 windows, verified during
+grooming (scratch directory, not committed).** `@Zenn0009` has no
+`sentences/`/`windows/` yet - Fase 2 was scoped to `@MackExplains7` only
+(`_docs/decisions.md#10d`). Producing them needs zero new code: `src.coleta.read_manifesto`
+already defaults a missing `role` column to `profile` (`ROLE_PROFILE`,
+`src/coleta.py:476`), and `src.sentencia.run()`/`src.janelas.run()` already
+accept `manifest_path`/`raw_dir`/`sentences_dir`/`windows_dir` as
+parameters instead of their `corpus/mackexplains7` module-level defaults.
+Verified live against the real `corpus/zenn0009/raw/` (30 videos, scratch
+output directory, deleted after verifying, nothing committed by this
+entry):
+
+```python
+from pathlib import Path
+from src.sentencia import run as sentencia_run
+from src.janelas import run as janelas_run
+from src.amostragem import sample_videos, sample_windows
+
+sentencia_run(
+    manifest_path=Path("corpus/zenn0009/manifesto.csv"),
+    raw_dir=Path("corpus/zenn0009/raw"),
+    sentences_dir=Path("corpus/zenn0009/sentences"),
+)
+janelas_run(
+    sentences_dir=Path("corpus/zenn0009/sentences"),
+    windows_dir=Path("corpus/zenn0009/windows"),
+)
+video = sample_videos(windows_dir=Path("corpus/zenn0009/windows"), seed=42, n_videos=1)
+windows = sample_windows(video, windows_dir=Path("corpus/zenn0009/windows"), seed=42, n_windows=20)
+```
+
+All 30 videos sentence/window cleanly (no errors - `role` defaulting makes
+every row `profile`, which is correct here: `@Zenn0009` was never split
+into profile/holdout). The seed-42 draw picked `ZJai7C3tb1M` ("The
+Pratfall Effect", 238s, the shortest video in the manifest) with 20 windows
+`ZJai7C3tb1M:j0000` through `:j0022` (56 windows total in that video, 20
+sampled without replacement). The engineer's real run must produce and
+commit `corpus/zenn0009/sentences/*.json` and `corpus/zenn0009/windows/*.json`
+for real (this entry only proves the recipe works) - re-running the same
+seed against the same committed input is expected to reproduce the same
+video/window draw; if it does not, the mismatch itself is worth flagging,
+not silently accepted.
+
+**(c) Fase 3 coverage-test video pair: reuse the Fase 2 human-sample draw.**
+The plan's steps 2-3 (line 424-425) name "1 vídeo" then "um segundo vídeo"
+without naming them or a seed. `src.amostragem.sample_videos()` (default
+`seed=42, n_videos=2`, `_docs/decisions.md#10c`) against
+`corpus/mackexplains7/windows/` deterministically returns
+`["lkLwp9o7Djk", "5unhHRFkC7I"]` - verified live, the same two videos
+already used for the Fase 2 gate's criteria 1/2 human sample
+(`corpus/mackexplains7/fase2_sample.md`), same function and seed, no new
+draw invented. Video 1 = `lkLwp9o7Djk` (98 windows), video 2 =
+`5unhHRFkC7I` (107 windows) - 205 windows combined, so the phase gate's
+"< 10% das janelas" is < 20.5, i.e. **at most 20 of 205** windows may land
+in "outro"/dúvida genuína. This is the exact number the issue's gate
+criterion copies verbatim, per `_docs/team/pm.md`'s "do not soften" rule.
+
+**(d) Codebook example format: verbatim quote + `window_id`, not
+paraphrase.** The plan asks for "two positive examples... from the real
+corpus" and "one negative example" per value (line 381-382) but not a
+storage format. Decision: every example in `schema/codebook.md` is a
+verbatim quote of a window's `text` field plus its `window_id` (e.g.
+`z1StpnRL4k4:j0000`), never a paraphrase - so a reader can open
+`corpus/mackexplains7/windows/<video_id>.json` and verify the citation
+against the real corpus, the same falsifiability standard
+`_docs/decisions.md#15` already applied to the sentence-boundary fixture.
+
+None of this reopens `DECISOES.md#4` (the ontology is still derived from
+`@MackExplains7` alone) or touches any already-frozen Fase 2 artifact
+(`corpus/mackexplains7/fase2_gate.json`, `fase2_sample.md`,
+`sentences/`, `windows/` stay read-only inputs to Fase 3).
