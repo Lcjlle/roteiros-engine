@@ -1,0 +1,379 @@
+{
+  "video_id": "ZJai7C3tb1M",
+  "generated_at": "2026-09-04T03:00:43.136178+00:00",
+  "windows": [
+    {
+      "window_id": "ZJai7C3tb1M:j0000",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 0,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0000",
+        "ZJai7C3tb1M:s0001",
+        "ZJai7C3tb1M:s0002"
+      ],
+      "start_s": 0.0,
+      "end_s": 12.96,
+      "text": "The smartest person in the room just spilled coffee all over themselves, and your brain does something strange. You like them more because of it. This is one of the weirdest findings in social psychology.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0001",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 1,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0003",
+        "ZJai7C3tb1M:s0004"
+      ],
+      "start_s": 8.84,
+      "end_s": 28.68,
+      "text": "It's called the pratfall effect, and once you understand how it actually works, it changes the way you show up in almost every situation that matters. In 1966, a social psychologist named Elliot Aronson designed one of the simplest experiments in the history of psychology.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.037142857142857144
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0002",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 2,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0005",
+        "ZJai7C3tb1M:s0006",
+        "ZJai7C3tb1M:s0007"
+      ],
+      "start_s": 24.76,
+      "end_s": 37.64,
+      "text": "He recorded a man pretending to try out for a quiz show on audio tape. On the first tape, was clearly brilliant. He answered about 92% of extremely difficult questions correctly.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.10403361344537816
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0003",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 3,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0008",
+        "ZJai7C3tb1M:s0009",
+        "ZJai7C3tb1M:s0010"
+      ],
+      "start_s": 35.52,
+      "end_s": 47.88,
+      "text": "He mentioned being an honor student and editor of his school yearbook. On a second tape, the same man was average. He got about 30% of the questions right, nothing impressive.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.1492436974789916
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0004",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 4,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0011",
+        "ZJai7C3tb1M:s0012"
+      ],
+      "start_s": 43.68,
+      "end_s": 54.8,
+      "text": "Then Aronson made two more versions of each tape. In those versions, near the end of the interview, you hear a small commotion, a clatter of coffee cups.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.18352941176470589
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0005",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 5,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0013",
+        "ZJai7C3tb1M:s0014",
+        "ZJai7C3tb1M:s0015"
+      ],
+      "start_s": 51.48,
+      "end_s": 62.76,
+      "text": "The man lets out an embarrassed laugh and says, \"Oh my goodness, I've spilled coffee all over my new suit.\" That's it, a tiny humiliating moment. A pratfall.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.21630252100840336
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0006",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 6,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0016",
+        "ZJai7C3tb1M:s0017"
+      ],
+      "start_s": 58.68,
+      "end_s": 69.32000000000001,
+      "text": "Aronson played these four tapes to different groups of people and asked a simple question, \"How much do you like this person?\" Here is what he expected.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.2465546218487395
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0007",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 7,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0018",
+        "ZJai7C3tb1M:s0019"
+      ],
+      "start_s": 65.92,
+      "end_s": 76.03999999999999,
+      "text": "The brilliant man would be rated the most likable no matter what. People prefer people who seem put together, but the results said something else.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.2769747899159664
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0008",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 8,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0020",
+        "ZJai7C3tb1M:s0021"
+      ],
+      "start_s": 73.08,
+      "end_s": 89.80000000000001,
+      "text": "The brilliant man who stayed perfectly composed came in second place, but the same man, now with coffee spilled all over himself, came in first by a wide margin. He was liked more than the polished, competent, non-spilling version of himself.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.3070588235294118
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0009",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 9,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0022",
+        "ZJai7C3tb1M:s0023",
+        "ZJai7C3tb1M:s0024"
+      ],
+      "start_s": 86.12,
+      "end_s": 99.36,
+      "text": "One tiny embarrassing moment made a smart man more likable than he was without it. Aronson named this the pratfall effect. Here is what is actually happening under the hood.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.3618487394957983
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0010",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 10,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0025",
+        "ZJai7C3tb1M:s0026"
+      ],
+      "start_s": 95.76,
+      "end_s": 106.48,
+      "text": "When someone seems perfect, your brain doesn't register them as a person. It registers them as an object, a statue, a picture on a wall.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.40235294117647064
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0011",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 11,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0027",
+        "ZJai7C3tb1M:s0028",
+        "ZJai7C3tb1M:s0029"
+      ],
+      "start_s": 101.84,
+      "end_s": 112.48,
+      "text": "You can admire a statue, but you cannot connect with it. Perfection creates distance. A small visible flaw does the opposite.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.42789915966386555
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0012",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 12,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0030",
+        "ZJai7C3tb1M:s0031"
+      ],
+      "start_s": 108.72,
+      "end_s": 122.44,
+      "text": "It sends a quiet signal to the other person's brain that says, \"This is a real human being, not a performance.\" That signal lowers the social barrier almost instantly.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.45680672268907563
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0013",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 13,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0032",
+        "ZJai7C3tb1M:s0033"
+      ],
+      "start_s": 118.44,
+      "end_s": 132.56,
+      "text": "It makes an admirable person feel reachable, and reachable people are the ones you actually like. But here is where most people miss the point, and where the pratfall effect gets genuinely interesting.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.4976470588235294
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0014",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 14,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0034",
+        "ZJai7C3tb1M:s0035"
+      ],
+      "start_s": 127.96,
+      "end_s": 142.96,
+      "text": "It does not work for everyone. In Aronson's original experiment, the average man, the one who got only 30% of the questions right, was rated the least likable of all four versions when he spilled his coffee.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.5376470588235294
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0015",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 15,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0036",
+        "ZJai7C3tb1M:s0037"
+      ],
+      "start_s": 141.24,
+      "end_s": 153.52,
+      "text": "Less likable than the version where he didn't spill at all. If someone is already unimpressive and then makes a visible mistake, you don't find them more human, you find them more pathetic.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.5934453781512605
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0016",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 16,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0038",
+        "ZJai7C3tb1M:s0039",
+        "ZJai7C3tb1M:s0040",
+        "ZJai7C3tb1M:s0041"
+      ],
+      "start_s": 150.96,
+      "end_s": 164.48000000000002,
+      "text": "The pratfall effect has a prerequisite. to be seen as competent first. On a high performer, a stumble looks like humanity. On a low performer, the same stumble looks like proof.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.6342857142857143
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0017",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 17,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0042",
+        "ZJai7C3tb1M:s0043",
+        "ZJai7C3tb1M:s0044",
+        "ZJai7C3tb1M:s0045"
+      ],
+      "start_s": 160.12,
+      "end_s": 174.24,
+      "text": "Vulnerability without substance isn't charming, it's just weakness. There is also a second catch. The pratfall has to be real. People are unbelievably good at detecting performed vulnerability.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.6727731092436975
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0018",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 18,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0046",
+        "ZJai7C3tb1M:s0047"
+      ],
+      "start_s": 170.52,
+      "end_s": 189.20000000000002,
+      "text": "If you rehearse a self-deprecating line to seem humble, if you manufacture a small mistake to look relatable, the audience feels it, and the effect reverses. The original research only worked because the coffee spills sounded like an actual accident.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.7164705882352942
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0019",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 19,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0048",
+        "ZJai7C3tb1M:s0049",
+        "ZJai7C3tb1M:s0050"
+      ],
+      "start_s": 184.52,
+      "end_s": 198.12,
+      "text": "The brilliant man wasn't pretending, he was genuinely mortified. That realness is the entire ingredient. Fake humility registers in the brain the same way fake perfection does.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.7752941176470589
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0020",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 20,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0051",
+        "ZJai7C3tb1M:s0052"
+      ],
+      "start_s": 193.84,
+      "end_s": 206.35999999999999,
+      "text": "It reads as a performance, and the social barrier goes right back up. Jennifer Lawrence tripped on the way up to accept her Oscar in 2013.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.8144537815126051
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0021",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 21,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0053",
+        "ZJai7C3tb1M:s0054",
+        "ZJai7C3tb1M:s0055",
+        "ZJai7C3tb1M:s0056"
+      ],
+      "start_s": 201.92,
+      "end_s": 215.44,
+      "text": "The internet didn't mock her, it fell in love with her. She had just won best actress. She was already at the top. The fall didn't pull her down, it pulled her closer.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.8484033613445378
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0022",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 22,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0057",
+        "ZJai7C3tb1M:s0058"
+      ],
+      "start_s": 210.28,
+      "end_s": 224.24,
+      "text": "Show your skill first, let yourself be human second. People don't actually want to be around perfection, they want to be around someone good enough to respect and real enough to trust.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.8835294117647059
+    },
+    {
+      "window_id": "ZJai7C3tb1M:j0023",
+      "video_id": "ZJai7C3tb1M",
+      "idx": 23,
+      "sent_ids": [
+        "ZJai7C3tb1M:s0059",
+        "ZJai7C3tb1M:s0060"
+      ],
+      "start_s": 220.44,
+      "end_s": 239.52,
+      "text": "The moment you stop polishing every surface of who you are, the moment you let the small cracks show on top of real substance, you become something very few people in the world actually are. You become someone who can be liked, not just admired, and those are the people the rest of the world never forgets.",
+      "n_words": 57,
+      "n_sentences": 2,
+      "pos_pct": 0.9262184873949579
+    }
+  ]
+}

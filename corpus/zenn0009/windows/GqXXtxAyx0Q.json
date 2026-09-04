@@ -1,0 +1,871 @@
+{
+  "video_id": "GqXXtxAyx0Q",
+  "generated_at": "2026-09-04T03:00:43.122548+00:00",
+  "windows": [
+    {
+      "window_id": "GqXXtxAyx0Q:j0000",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 0,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0000",
+        "GqXXtxAyx0Q:s0001",
+        "GqXXtxAyx0Q:s0002"
+      ],
+      "start_s": 0.0,
+      "end_s": 14.440000000000001,
+      "text": "In the year 2000, scientists gathered 136 babies and toddlers and flipped a coin over each of their lives. Heads, the child gets a family. Tails, the child stays where it is.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0001",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 1,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0003",
+        "GqXXtxAyx0Q:s0004"
+      ],
+      "start_s": 9.64,
+      "end_s": 22.599999999999998,
+      "text": "Staying meant a state institution, rows of metal cribs, one caregiver for up to 15 infants. Wards so quiet that visitors kept asking why the babies never cried.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.017818853974121997
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0002",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 2,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0005",
+        "GqXXtxAyx0Q:s0006"
+      ],
+      "start_s": 19.04,
+      "end_s": 30.080000000000002,
+      "text": "They never cried because crying had never once worked. A baby that has called out hundreds of times and never been answered eventually stops calling.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.03519408502772643
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0003",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 3,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0007",
+        "GqXXtxAyx0Q:s0008",
+        "GqXXtxAyx0Q:s0009"
+      ],
+      "start_s": 25.76,
+      "end_s": 38.239999999999995,
+      "text": "The scientists knew exactly what those wards were doing to children. The evidence had been piling up for half a century. They ran the coin flip anyway, on purpose.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.04761552680221812
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0004",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 4,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0010",
+        "GqXXtxAyx0Q:s0011"
+      ],
+      "start_s": 36.92,
+      "end_s": 52.760000000000005,
+      "text": "This was the Bucharest Early Intervention Project, and depending on who you ask, it's either one of the most unethical studies of the modern era or the most important thing ever done for abandoned children. But this is not only about abandoned children.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.06824399260628466
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0005",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 5,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0012",
+        "GqXXtxAyx0Q:s0013",
+        "GqXXtxAyx0Q:s0014"
+      ],
+      "start_s": 48.52,
+      "end_s": 65.51899999999999,
+      "text": "It's about you, your parents, and every single person who has ever lived. In 1966, Romania's dictator, Nicolae Ceaușescu, wanted a bigger population. So he ordered one into existence.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.08968576709796673
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0006",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 6,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0015",
+        "GqXXtxAyx0Q:s0016"
+      ],
+      "start_s": 60.16,
+      "end_s": 76.0,
+      "text": "Decree 770 banned abortion and contraception for most women. The birth rate exploded, and when parents couldn't feed the children the law required them to have, the state offered a solution.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.11120147874306839
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0007",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 7,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0017",
+        "GqXXtxAyx0Q:s0018",
+        "GqXXtxAyx0Q:s0019"
+      ],
+      "start_s": 72.16,
+      "end_s": 88.68,
+      "text": "Just hand them over, the state will raise them. By the time the regime collapsed, around 170,000 children were being raised inside Romanian institutions. On paper, those children had everything.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.13338262476894638
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0008",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 8,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0020",
+        "GqXXtxAyx0Q:s0021",
+        "GqXXtxAyx0Q:s0022"
+      ],
+      "start_s": 83.12,
+      "end_s": 96.84,
+      "text": "Calories, vaccines, clean laundry, medical charts. What they didn't have was people. With one adult for a whole row of cribs, there was no time to hold anyone.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.15364140480591498
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0009",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 9,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0023",
+        "GqXXtxAyx0Q:s0024",
+        "GqXXtxAyx0Q:s0025"
+      ],
+      "start_s": 93.2,
+      "end_s": 104.32000000000001,
+      "text": "The babies just lay there, staring at the ceiling. Many rocked back and forth for hours. That's what a young brain does when nothing arrives from the outside.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.1722735674676525
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0010",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 10,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0026",
+        "GqXXtxAyx0Q:s0027"
+      ],
+      "start_s": 102.4,
+      "end_s": 113.92,
+      "text": "The world found out when the regime fell in 1989. What nobody could prove was whether the damage could be undone, and how long a child had before it became permanent.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.18927911275415898
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0011",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 11,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0028",
+        "GqXXtxAyx0Q:s0029",
+        "GqXXtxAyx0Q:s0030"
+      ],
+      "start_s": 110.28,
+      "end_s": 120.08,
+      "text": "10 years later, three American scientists arrived to answer it. Charles Nelson, Nathan Fox, and Charles Zeanah. This was the coin flip.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.20384473197781885
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0012",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 12,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0031",
+        "GqXXtxAyx0Q:s0032",
+        "GqXXtxAyx0Q:s0033"
+      ],
+      "start_s": 118.44,
+      "end_s": 131.24,
+      "text": "The children they enrolled were between 6 months and just under 3 years old. Half were placed with foster families that the project had to create from nothing. Half of the children stayed behind.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.2189279112754159
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0013",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 13,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0034",
+        "GqXXtxAyx0Q:s0035"
+      ],
+      "start_s": 127.4,
+      "end_s": 142.88,
+      "text": "Nobody picked which child went where, and that randomness was the entire point. Adopting families choose the healthiest children, so every earlier study could be dismissed by saying the ones left behind were worse off to begin with.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.23548983364140483
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0014",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 14,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0036",
+        "GqXXtxAyx0Q:s0037",
+        "GqXXtxAyx0Q:s0038"
+      ],
+      "start_s": 138.84,
+      "end_s": 151.6,
+      "text": "Random assignment made that impossible. Nothing like it had ever been tried in history, and nothing like it would ever be tried again. The first measurements showed how deep the hole already was.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.2566358595194085
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0015",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 15,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0039",
+        "GqXXtxAyx0Q:s0040",
+        "GqXXtxAyx0Q:s0041"
+      ],
+      "start_s": 147.76,
+      "end_s": 161.68,
+      "text": "Researchers fitted the children with sensor caps and recorded the brain's electrical activity. The institutionalized brains were quieter than they should have been. Nathan Fox described it in plain terms.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.2731238447319778
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0016",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 16,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0042",
+        "GqXXtxAyx0Q:s0043",
+        "GqXXtxAyx0Q:s0044"
+      ],
+      "start_s": 159.48,
+      "end_s": 172.76,
+      "text": "It's like you swapped a 100-W bulb for a 40-W one. The average IQ in the institutional group sat in the low 70s. Children growing up in ordinary Bucharest families averaged around 100.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.29478743068391866
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0017",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 17,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0045",
+        "GqXXtxAyx0Q:s0046"
+      ],
+      "start_s": 170.8,
+      "end_s": 184.79999999999998,
+      "text": "Then came the attachment tests, which measured the bond between a child and a preferred adult. Only 3% of the institutionalized children had a fully formed attachment to anyone, and many showed something stranger.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.3157116451016636
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0018",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 18,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0047",
+        "GqXXtxAyx0Q:s0048",
+        "GqXXtxAyx0Q:s0049",
+        "GqXXtxAyx0Q:s0050"
+      ],
+      "start_s": 181.32,
+      "end_s": 195.68,
+      "text": "They would walk up to any adult, climb into any lap, take any stranger's hand, and happily leave the building with them. It looks like friendliness. It's the opposite. Researchers call it indiscriminate friendliness.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.33515711645101665
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0019",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 19,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0051",
+        "GqXXtxAyx0Q:s0052"
+      ],
+      "start_s": 191.8,
+      "end_s": 203.28,
+      "text": "A child who treats every adult the same has learned that no adult in particular belongs to them. Once the foster placements began, the two groups split.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.3545286506469501
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0020",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 20,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0053",
+        "GqXXtxAyx0Q:s0054"
+      ],
+      "start_s": 199.8,
+      "end_s": 212.72,
+      "text": "The children placed with families began to catch up. By age 3 and 1/2, the fostered group's average IQ was 81, and their language had recovered, too.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.3693160813308688
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0021",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 21,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0055",
+        "GqXXtxAyx0Q:s0056"
+      ],
+      "start_s": 207.88,
+      "end_s": 222.8,
+      "text": "But for the group left behind, the IQ was only 73. Almost half of the fostered children developed secure attachments to their new caregivers, compared to 18% of the children still in institutions.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.3842513863216266
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0022",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 22,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0057",
+        "GqXXtxAyx0Q:s0058",
+        "GqXXtxAyx0Q:s0059"
+      ],
+      "start_s": 218.28,
+      "end_s": 234.12,
+      "text": "But when the researchers cut the data by age at placement, they found the result that made this study famous. Recovery had a deadline. Children placed with families before their second birthday recovered dramatically.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.4034750462107209
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0023",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 23,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0060",
+        "GqXXtxAyx0Q:s0061"
+      ],
+      "start_s": 230.32,
+      "end_s": 243.04,
+      "text": "Their brain activity climbed back toward normal. By age eight, if you looked at the brain waves of a child fostered before 24 months, you could not reliably tell they had ever been in an institution.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.4257301293900185
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0024",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 24,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0062",
+        "GqXXtxAyx0Q:s0063",
+        "GqXXtxAyx0Q:s0064"
+      ],
+      "start_s": 239.6,
+      "end_s": 255.0,
+      "text": "Children placed after their second birthday carried the damage forward. The team kept following everyone to age eight, then 12, then 16, waiting for time to close the gap. The gap never closed.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.44288354898336413
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0025",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 25,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0065",
+        "GqXXtxAyx0Q:s0066"
+      ],
+      "start_s": 252.92,
+      "end_s": 267.68,
+      "text": "Scientists call it a sensitive period, a window somewhere around the second year of life when a brain is literally waiting to be built by another person. The study's coldest discovery is that the window closes once, and it never opens again.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.4675046210720887
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0026",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 26,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0067",
+        "GqXXtxAyx0Q:s0068",
+        "GqXXtxAyx0Q:s0069",
+        "GqXXtxAyx0Q:s0070"
+      ],
+      "start_s": 264.04,
+      "end_s": 277.59999999999997,
+      "text": "And none of this was only psychological. The deprivation was written into the children's bodies. Their heads were physically smaller. MRI scans years later found two kinds of loss.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.48805914972273573
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0027",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 27,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0071",
+        "GqXXtxAyx0Q:s0072"
+      ],
+      "start_s": 273.52,
+      "end_s": 287.0,
+      "text": "White matter, the wiring that carries signals between brain regions, came back close to normal in the children who got families. Gray matter, the tissue that does the actual processing, never did.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.5055822550831792
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0028",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 28,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0073",
+        "GqXXtxAyx0Q:s0074"
+      ],
+      "start_s": 282.76,
+      "end_s": 293.24,
+      "text": "Even their cells kept a record. The longer a child had spent in the wards, the faster their body was aging on the inside.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.5226617375231053
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0029",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 29,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0075",
+        "GqXXtxAyx0Q:s0076",
+        "GqXXtxAyx0Q:s0077"
+      ],
+      "start_s": 288.52,
+      "end_s": 301.68,
+      "text": "The proof was in their DNA, in the tiny protective tips that wear down over a lifetime. Theirs were wearing down early. Neglect had aged them at a cellular level.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.5333086876155267
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0030",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 30,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0078",
+        "GqXXtxAyx0Q:s0079"
+      ],
+      "start_s": 297.88,
+      "end_s": 311.0,
+      "text": "By age four and a half, more than half of the children who had lived in institutions had a diagnosable psychiatric disorder. That word, neglect, sounds like the lesser one.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.5506099815157116
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0031",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 31,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0080",
+        "GqXXtxAyx0Q:s0081"
+      ],
+      "start_s": 309.12,
+      "end_s": 316.16,
+      "text": "Abuse is something done to a child. Neglect is only something that failed to happen.",
+      "n_words": 15,
+      "n_sentences": 2,
+      "pos_pct": 0.5713863216266174
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0032",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 32,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0082",
+        "GqXXtxAyx0Q:s0083",
+        "GqXXtxAyx0Q:s0084"
+      ],
+      "start_s": 313.0,
+      "end_s": 325.67999999999995,
+      "text": "Whatever else went on inside that system, the damage the study measured came from wards where babies were fed, cleaned, and medicated. Damage doesn't require cruelty. It only requires absence.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.5785582255083179
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0033",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 33,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0085",
+        "GqXXtxAyx0Q:s0086",
+        "GqXXtxAyx0Q:s0087"
+      ],
+      "start_s": 322.28,
+      "end_s": 334.28,
+      "text": "On the state's checklist, nothing was missing. But here's the problem. A baby's brain builds itself through call and response with an adult.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.5957116451016635
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0034",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 34,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0088",
+        "GqXXtxAyx0Q:s0089"
+      ],
+      "start_s": 329.96,
+      "end_s": 341.76,
+      "text": "It forms more than a million new connections every second in the earliest years. And it wires itself around whether the world answers or not.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.6099075785582254
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0035",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 35,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0090",
+        "GqXXtxAyx0Q:s0091"
+      ],
+      "start_s": 339.36,
+      "end_s": 351.08,
+      "text": "For these children, the world never answered, which brings back the coin flip. A randomized trial doesn't just observe, it assigns.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.6272828096118299
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0036",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 36,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0092",
+        "GqXXtxAyx0Q:s0093"
+      ],
+      "start_s": 345.88,
+      "end_s": 366.04,
+      "text": "The researchers left 68 children inside the institutions by chance, knowing exactly what half a century of evidence said would happen. In one foundling home documented in the 1940s, a third of the babies died within two years, even with food and medicine in full supply.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.6393345656192236
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0037",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 37,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0094",
+        "GqXXtxAyx0Q:s0095"
+      ],
+      "start_s": 362.48,
+      "end_s": 374.32,
+      "text": "The case against the study is brutal, and it starts with consent. These children were far too young to agree to anything, so somebody had to agree for them.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.670018484288355
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0038",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 38,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0096",
+        "GqXXtxAyx0Q:s0097"
+      ],
+      "start_s": 370.24,
+      "end_s": 381.04,
+      "text": "Their legal guardian was the Romanian state. So, the same government that ran the institutions gave permission for the study.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.684362292051756
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0039",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 39,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0098",
+        "GqXXtxAyx0Q:s0099"
+      ],
+      "start_s": 377.24,
+      "end_s": 391.44,
+      "text": "The researchers expected the damage, then they measured it as it arrived, visit after visit in the half they had left behind. And critics said a design like this would never have been approved for American children.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.6973012939001848
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0040",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 40,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0100",
+        "GqXXtxAyx0Q:s0101"
+      ],
+      "start_s": 387.4,
+      "end_s": 397.15999999999997,
+      "text": "For Romanian ones, it was. The researchers have never denied any of it, and their defense has never changed.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.7160813308687615
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0041",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 41,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0102",
+        "GqXXtxAyx0Q:s0103"
+      ],
+      "start_s": 393.32,
+      "end_s": 409.64,
+      "text": "They were invited in by the government itself, with their university's approval, and Bucharest had no foster care at all. Those 68 foster families only existed because the project built them and paid for them.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7270240295748613
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0042",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 42,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0104",
+        "GqXXtxAyx0Q:s0105"
+      ],
+      "start_s": 405.88,
+      "end_s": 417.2,
+      "text": "So, no child lost a family they would otherwise have had. The government kept custody of every child, and when one could leave, the study never stood in the way.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.7502402957486136
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0043",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 43,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0106",
+        "GqXXtxAyx0Q:s0107"
+      ],
+      "start_s": 413.36,
+      "end_s": 425.72,
+      "text": "And at the time, institutions were still widely accepted as a normal way to raise children. The study that should never have been allowed may have been the only way to prove why.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.7640665434380777
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0044",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 44,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0108",
+        "GqXXtxAyx0Q:s0109"
+      ],
+      "start_s": 421.72,
+      "end_s": 431.52,
+      "text": "Both sides are still defended in journals today. The argument has never been settled, and this is why there will never be a second one.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.7795194085027727
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0045",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 45,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0110",
+        "GqXXtxAyx0Q:s0111",
+        "GqXXtxAyx0Q:s0112"
+      ],
+      "start_s": 427.76,
+      "end_s": 443.64000000000004,
+      "text": "Now that the damage is proven, no ethics board on Earth will approve another. These 136 children are all the direct evidence humanity will ever get. What is settled is what the results did.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.7906839186691312
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0046",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 46,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0113",
+        "GqXXtxAyx0Q:s0114"
+      ],
+      "start_s": 438.48,
+      "end_s": 456.08,
+      "text": "In 2004, Romania banned placing children under two in institutions, except in cases of severe disability. The study's findings helped drive the law, and the number of children inside them has collapsed since.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.8104990757855823
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0047",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 47,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0115",
+        "GqXXtxAyx0Q:s0116"
+      ],
+      "start_s": 451.96,
+      "end_s": 462.76,
+      "text": "But the evidence did not stay in Romania. It became part of the case for dismantling orphanages everywhere.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.8354158964879852
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0048",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 48,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0117",
+        "GqXXtxAyx0Q:s0118"
+      ],
+      "start_s": 457.84,
+      "end_s": 475.84,
+      "text": "And in 2019, every country in the United Nations agreed to start replacing institutions for children with families. At least 2.7 million children are still living in institutions today, and UNICEF says the real number is higher.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.8462846580406654
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0049",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 49,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0119",
+        "GqXXtxAyx0Q:s0120"
+      ],
+      "start_s": 471.64,
+      "end_s": 483.12,
+      "text": "The children of the coin flip kept growing up, too. Most of the 68 who stayed behind did eventually leave the institutions, but by then most of them were past their second birthday.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.8717929759704252
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0050",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 50,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0121",
+        "GqXXtxAyx0Q:s0122"
+      ],
+      "start_s": 479.48,
+      "end_s": 491.88,
+      "text": "The window did not care why a child was late. The evidence that emptied the wards exists because 68 children were left inside them by chance.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.8862846580406655
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0051",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 51,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0123",
+        "GqXXtxAyx0Q:s0124"
+      ],
+      "start_s": 487.52,
+      "end_s": 500.56,
+      "text": "If the trial was wrong to run, then the proof that protects children now was wrong to collect. If it was right, the price was paid by 68 people who never got a vote.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.9011460258780036
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0052",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 52,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0125",
+        "GqXXtxAyx0Q:s0126",
+        "GqXXtxAyx0Q:s0127"
+      ],
+      "start_s": 498.6,
+      "end_s": 511.40000000000003,
+      "text": "Your first 2 years wired the brain you are using right now. Then the window closed. In those years you cried thousands of times, exactly like the infants in Bucharest.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.9216266173752311
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0053",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 53,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0128",
+        "GqXXtxAyx0Q:s0129",
+        "GqXXtxAyx0Q:s0130",
+        "GqXXtxAyx0Q:s0131"
+      ],
+      "start_s": 506.8,
+      "end_s": 520.8,
+      "text": "Someone either came when you called or didn't. But for them, nobody ever came. Does silence feel safe to you, or more like a warning? Do other people feel like shelter or like risk?",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.9367837338262477
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0054",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 54,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0132",
+        "GqXXtxAyx0Q:s0133"
+      ],
+      "start_s": 517.159,
+      "end_s": 528.88,
+      "text": "Whatever your answer is, none of it started as personality. It started as data, collected by you before you could even speak.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.9559316081330869
+    },
+    {
+      "window_id": "GqXXtxAyx0Q:j0055",
+      "video_id": "GqXXtxAyx0Q",
+      "idx": 55,
+      "sent_ids": [
+        "GqXXtxAyx0Q:s0134",
+        "GqXXtxAyx0Q:s0135",
+        "GqXXtxAyx0Q:s0136"
+      ],
+      "start_s": 525.08,
+      "end_s": 541.091,
+      "text": "If your answer came out different from theirs, it's because somebody kept showing up thousands of times in years you will never remember. You've been standing on that ever since. >>",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.9705730129390019
+    }
+  ]
+}

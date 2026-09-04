@@ -1,0 +1,836 @@
+{
+  "video_id": "LuCans9euxY",
+  "generated_at": "2026-09-04T03:00:43.126081+00:00",
+  "windows": [
+    {
+      "window_id": "LuCans9euxY:j0000",
+      "video_id": "LuCans9euxY",
+      "idx": 0,
+      "sent_ids": [
+        "LuCans9euxY:s0000",
+        "LuCans9euxY:s0001",
+        "LuCans9euxY:s0002",
+        "LuCans9euxY:s0003"
+      ],
+      "start_s": 0.0,
+      "end_s": 12.84,
+      "text": "Eight mice were placed inside a perfect world. Four males, four females. They had unlimited food and unlimited water. There were no diseases or predators, absolutely no threats of any kind.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "LuCans9euxY:j0001",
+      "video_id": "LuCans9euxY",
+      "idx": 1,
+      "sent_ids": [
+        "LuCans9euxY:s0004",
+        "LuCans9euxY:s0005"
+      ],
+      "start_s": 8.68,
+      "end_s": 25.92,
+      "text": "Five years later, every single one of them was dead, and not a single death was caused by anything a vet could have diagnosed. This is Universe 25, the most disturbing experiment ever run on a society.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.01692007797270955
+    },
+    {
+      "window_id": "LuCans9euxY:j0002",
+      "video_id": "LuCans9euxY",
+      "idx": 2,
+      "sent_ids": [
+        "LuCans9euxY:s0006",
+        "LuCans9euxY:s0007"
+      ],
+      "start_s": 21.0,
+      "end_s": 36.08,
+      "text": "In 1968, an American scientist named John Calhoun built something he called a paradise for mice. Soft nesting material in every corner, the temperature held perfectly stable, the cages cleaned by hand on a schedule.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.04093567251461988
+    },
+    {
+      "window_id": "LuCans9euxY:j0003",
+      "video_id": "LuCans9euxY",
+      "idx": 3,
+      "sent_ids": [
+        "LuCans9euxY:s0008",
+        "LuCans9euxY:s0009",
+        "LuCans9euxY:s0010"
+      ],
+      "start_s": 34.28,
+      "end_s": 46.96,
+      "text": "They were the healthiest specimens from the breeding colony of the National Institutes of Health. Calhoun was an ethologist. He had spent his entire career obsessed with one specific question.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.06682261208576998
+    },
+    {
+      "window_id": "LuCans9euxY:j0004",
+      "video_id": "LuCans9euxY",
+      "idx": 4,
+      "sent_ids": [
+        "LuCans9euxY:s0011",
+        "LuCans9euxY:s0012"
+      ],
+      "start_s": 42.96,
+      "end_s": 52.0,
+      "text": "What happens to a society when nothing is hard anymore? He had been chasing the answer for two decades by the time he reached this experiment.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.08374269005847954
+    },
+    {
+      "window_id": "LuCans9euxY:j0005",
+      "video_id": "LuCans9euxY",
+      "idx": 5,
+      "sent_ids": [
+        "LuCans9euxY:s0013",
+        "LuCans9euxY:s0014"
+      ],
+      "start_s": 48.8,
+      "end_s": 67.12,
+      "text": "He had built earlier versions in a quarter-acre forest in Maryland, in barn enclosures, and in laboratory rooms, 24 of them, one after another. Each one a slightly different paradise for rats or mice with no scarcity, no predators, and no escape.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.09512670565302143
+    },
+    {
+      "window_id": "LuCans9euxY:j0006",
+      "video_id": "LuCans9euxY",
+      "idx": 6,
+      "sent_ids": [
+        "LuCans9euxY:s0015",
+        "LuCans9euxY:s0016"
+      ],
+      "start_s": 63.44,
+      "end_s": 80.03999999999999,
+      "text": "In every single one of them, he had seen the same pattern. The population would explode, violence would spike, mating would distort into something twisted and hyperactive, then collapse into apathy, and the colony would die.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.12366471734892787
+    },
+    {
+      "window_id": "LuCans9euxY:j0007",
+      "video_id": "LuCans9euxY",
+      "idx": 7,
+      "sent_ids": [
+        "LuCans9euxY:s0017",
+        "LuCans9euxY:s0018"
+      ],
+      "start_s": 75.24,
+      "end_s": 88.76,
+      "text": "He had documented the pattern 24 times. The 25th was meant to be the perfect one, the clean experiment, the final answer that nobody could argue with.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.14666666666666667
+    },
+    {
+      "window_id": "LuCans9euxY:j0008",
+      "video_id": "LuCans9euxY",
+      "idx": 8,
+      "sent_ids": [
+        "LuCans9euxY:s0019",
+        "LuCans9euxY:s0020"
+      ],
+      "start_s": 84.64,
+      "end_s": 99.16,
+      "text": "He set it up inside a federal research lab in Maryland, a 9-ft square enclosure with apartments stacked along every wall, reached by mesh tunnels running floor to ceiling. Calhoun called them walk-up apartments.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.16499025341130605
+    },
+    {
+      "window_id": "LuCans9euxY:j0009",
+      "video_id": "LuCans9euxY",
+      "idx": 9,
+      "sent_ids": [
+        "LuCans9euxY:s0021",
+        "LuCans9euxY:s0022",
+        "LuCans9euxY:s0023"
+      ],
+      "start_s": 94.72,
+      "end_s": 111.24000000000001,
+      "text": "Each one was fed by hoppers that never ran empty and water bottles that never ran dry. He calculated the space could comfortably support around 3,800 mice. It would never come close to that number.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.18463937621832358
+    },
+    {
+      "window_id": "LuCans9euxY:j0010",
+      "video_id": "LuCans9euxY",
+      "idx": 10,
+      "sent_ids": [
+        "LuCans9euxY:s0024",
+        "LuCans9euxY:s0025",
+        "LuCans9euxY:s0026"
+      ],
+      "start_s": 107.2,
+      "end_s": 121.84,
+      "text": "On day one, he placed his eight founders inside and shut the lid. For the first 104 days, almost nothing happened. The mice explored, learned the geography, and worked out who slept where.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.20896686159844055
+    },
+    {
+      "window_id": "LuCans9euxY:j0011",
+      "video_id": "LuCans9euxY",
+      "idx": 11,
+      "sent_ids": [
+        "LuCans9euxY:s0027",
+        "LuCans9euxY:s0028"
+      ],
+      "start_s": 117.64,
+      "end_s": 131.6,
+      "text": "Then the first litters were born and the population began to double every 55 days twice as many mice as before. By day 315, more than 600 animals were living inside.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.229317738791423
+    },
+    {
+      "window_id": "LuCans9euxY:j0012",
+      "video_id": "LuCans9euxY",
+      "idx": 12,
+      "sent_ids": [
+        "LuCans9euxY:s0029",
+        "LuCans9euxY:s0030"
+      ],
+      "start_s": 127.56,
+      "end_s": 139.36,
+      "text": "They climbed over each other on the ramps, slept in piles, and jostled for nesting space at the tops of the apartments. This is the moment everything began to come apart.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.24865497076023393
+    },
+    {
+      "window_id": "LuCans9euxY:j0013",
+      "video_id": "LuCans9euxY",
+      "idx": 13,
+      "sent_ids": [
+        "LuCans9euxY:s0031",
+        "LuCans9euxY:s0032",
+        "LuCans9euxY:s0033",
+        "LuCans9euxY:s0034"
+      ],
+      "start_s": 135.4,
+      "end_s": 153.08,
+      "text": "In a normal mouse colony, when the population grows past what the territory can absorb, the surplus mice leave. They emigrate. They find new ground somewhere else. Inside Universe 25, there was no new ground.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.2639376218323587
+    },
+    {
+      "window_id": "LuCans9euxY:j0014",
+      "video_id": "LuCans9euxY",
+      "idx": 14,
+      "sent_ids": [
+        "LuCans9euxY:s0035",
+        "LuCans9euxY:s0036"
+      ],
+      "start_s": 148.84,
+      "end_s": 159.24,
+      "text": "The young males with nowhere to go and no role to fill began drifting into the center of the enclosure. They formed listless pools of bodies.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.2901364522417154
+    },
+    {
+      "window_id": "LuCans9euxY:j0015",
+      "video_id": "LuCans9euxY",
+      "idx": 15,
+      "sent_ids": [
+        "LuCans9euxY:s0037",
+        "LuCans9euxY:s0038"
+      ],
+      "start_s": 154.72,
+      "end_s": 167.76,
+      "text": "Calhoun would stand above the pen for hours watching them do nothing. They had no fights to win, no females to court, nothing to defend.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.301598440545809
+    },
+    {
+      "window_id": "LuCans9euxY:j0016",
+      "video_id": "LuCans9euxY",
+      "idx": 16,
+      "sent_ids": [
+        "LuCans9euxY:s0039",
+        "LuCans9euxY:s0040"
+      ],
+      "start_s": 163.48,
+      "end_s": 175.72,
+      "text": "They were healthy, well-fed, and they had absolutely nothing to do. When one of them was attacked by another mouse, he would not fight back.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.31867446393762183
+    },
+    {
+      "window_id": "LuCans9euxY:j0017",
+      "video_id": "LuCans9euxY",
+      "idx": 17,
+      "sent_ids": [
+        "LuCans9euxY:s0041",
+        "LuCans9euxY:s0042"
+      ],
+      "start_s": 171.6,
+      "end_s": 181.84,
+      "text": "He would lie there and absorb the damage, then stand up, walk a few feet, and lie down again. But not every male went quiet.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.3345029239766082
+    },
+    {
+      "window_id": "LuCans9euxY:j0018",
+      "video_id": "LuCans9euxY",
+      "idx": 18,
+      "sent_ids": [
+        "LuCans9euxY:s0043",
+        "LuCans9euxY:s0044",
+        "LuCans9euxY:s0045"
+      ],
+      "start_s": 177.68,
+      "end_s": 191.16,
+      "text": "A second group formed at the same time on the opposite end of the spectrum. They were frantic and indiscriminate. They moved through the enclosure faster than any other mice.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.34635477582846
+    },
+    {
+      "window_id": "LuCans9euxY:j0019",
+      "video_id": "LuCans9euxY",
+      "idx": 19,
+      "sent_ids": [
+        "LuCans9euxY:s0046",
+        "LuCans9euxY:s0047",
+        "LuCans9euxY:s0048"
+      ],
+      "start_s": 186.959,
+      "end_s": 201.88,
+      "text": "They forced themselves into nests other males were trying to defend. They skipped the courtship rituals every other mouse still followed. They refused to be deterred even by violence from dominant males.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.3644424951267057
+    },
+    {
+      "window_id": "LuCans9euxY:j0020",
+      "video_id": "LuCans9euxY",
+      "idx": 20,
+      "sent_ids": [
+        "LuCans9euxY:s0049",
+        "LuCans9euxY:s0050"
+      ],
+      "start_s": 197.519,
+      "end_s": 210.35999999999999,
+      "text": "And in the worst pockets of the colony, behaviors began to appear that no functioning mouse society had ever produced. responded with their own retreat.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.3850272904483431
+    },
+    {
+      "window_id": "LuCans9euxY:j0021",
+      "video_id": "LuCans9euxY",
+      "idx": 21,
+      "sent_ids": [
+        "LuCans9euxY:s0051",
+        "LuCans9euxY:s0052",
+        "LuCans9euxY:s0053"
+      ],
+      "start_s": 206.72,
+      "end_s": 217.84,
+      "text": "The ones who could not find a place in the social order climbed to the highest apartments and lived alone. They stopped interacting with males. They stopped reproducing.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.40296296296296297
+    },
+    {
+      "window_id": "LuCans9euxY:j0022",
+      "video_id": "LuCans9euxY",
+      "idx": 22,
+      "sent_ids": [
+        "LuCans9euxY:s0054",
+        "LuCans9euxY:s0055",
+        "LuCans9euxY:s0056"
+      ],
+      "start_s": 214.36,
+      "end_s": 229.72,
+      "text": "Calhoun also noticed something he called the behavioral sink. Even when food was equally available everywhere, the mice began crowding compulsively around a few specific feeders. They would not eat alone.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.4178557504873295
+    },
+    {
+      "window_id": "LuCans9euxY:j0023",
+      "video_id": "LuCans9euxY",
+      "idx": 23,
+      "sent_ids": [
+        "LuCans9euxY:s0057",
+        "LuCans9euxY:s0058"
+      ],
+      "start_s": 226.08,
+      "end_s": 240.88,
+      "text": "The presence of other mice had become so wired into their feeding instinct that an empty feeder, no matter how full, was useless to them. The crowding got worse and worse around a handful of stations while the rest of the enclosure sat almost untouched.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.44070175438596493
+    },
+    {
+      "window_id": "LuCans9euxY:j0024",
+      "video_id": "LuCans9euxY",
+      "idx": 24,
+      "sent_ids": [
+        "LuCans9euxY:s0059",
+        "LuCans9euxY:s0060"
+      ],
+      "start_s": 237.12,
+      "end_s": 248.0,
+      "text": "Then the mothers who were still trying to raise pups began to fail in a much darker way. Defending a nest in that environment took constant work.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.46222222222222226
+    },
+    {
+      "window_id": "LuCans9euxY:j0025",
+      "video_id": "LuCans9euxY",
+      "idx": 25,
+      "sent_ids": [
+        "LuCans9euxY:s0061",
+        "LuCans9euxY:s0062",
+        "LuCans9euxY:s0063"
+      ],
+      "start_s": 244.52,
+      "end_s": 257.76,
+      "text": "The males who had originally claimed territory grew exhausted from patrolling and stopped protecting their families. The mothers had to defend the nest themselves while still nursing. They turned on their own young.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.47664717348927876
+    },
+    {
+      "window_id": "LuCans9euxY:j0026",
+      "video_id": "LuCans9euxY",
+      "idx": 26,
+      "sent_ids": [
+        "LuCans9euxY:s0064",
+        "LuCans9euxY:s0065",
+        "LuCans9euxY:s0066"
+      ],
+      "start_s": 254.84,
+      "end_s": 266.12,
+      "text": "They abandoned them in scattered places around the enclosure. Some forgot which pups belonged to them at all. Others stopped recognizing them as theirs entirely.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.49676413255360624
+    },
+    {
+      "window_id": "LuCans9euxY:j0027",
+      "video_id": "LuCans9euxY",
+      "idx": 27,
+      "sent_ids": [
+        "LuCans9euxY:s0067",
+        "LuCans9euxY:s0068"
+      ],
+      "start_s": 262.68,
+      "end_s": 274.03999999999996,
+      "text": "And in the worst stretches, mothers began eating their own offspring. In some sections of the colony, fewer than one in 20 newborn mice survived to weaning.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.512046783625731
+    },
+    {
+      "window_id": "LuCans9euxY:j0028",
+      "video_id": "LuCans9euxY",
+      "idx": 28,
+      "sent_ids": [
+        "LuCans9euxY:s0069",
+        "LuCans9euxY:s0070",
+        "LuCans9euxY:s0071"
+      ],
+      "start_s": 270.2,
+      "end_s": 283.16,
+      "text": "Calhoun would write later that by this point the social fabric of the colony was effectively dead. The bodies were still alive. The structure that held them together as a species was not.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.5267056530214425
+    },
+    {
+      "window_id": "LuCans9euxY:j0029",
+      "video_id": "LuCans9euxY",
+      "idx": 29,
+      "sent_ids": [
+        "LuCans9euxY:s0072",
+        "LuCans9euxY:s0073"
+      ],
+      "start_s": 279.16,
+      "end_s": 291.0,
+      "text": "The pups that did survive were raised by mothers who barely cared whether they lived. They had no model of what a functioning life inside this place looked like.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.5441715399610136
+    },
+    {
+      "window_id": "LuCans9euxY:j0030",
+      "video_id": "LuCans9euxY",
+      "idx": 30,
+      "sent_ids": [
+        "LuCans9euxY:s0074",
+        "LuCans9euxY:s0075",
+        "LuCans9euxY:s0076",
+        "LuCans9euxY:s0077"
+      ],
+      "start_s": 287.04,
+      "end_s": 301.919,
+      "text": "And when they grew up, they behaved like nothing Calhoun had ever seen. The males of this generation never fought. They never tried to mate. They never engaged in any social activity at all.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.5595321637426901
+    },
+    {
+      "window_id": "LuCans9euxY:j0031",
+      "video_id": "LuCans9euxY",
+      "idx": 31,
+      "sent_ids": [
+        "LuCans9euxY:s0078",
+        "LuCans9euxY:s0079",
+        "LuCans9euxY:s0080"
+      ],
+      "start_s": 297.4,
+      "end_s": 311.8,
+      "text": "They ate, they slept, and they groomed themselves obsessively. Their fur stayed perfect because they never got into a single fight. They moved through the colony as if no other mouse existed in it.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.5797270955165692
+    },
+    {
+      "window_id": "LuCans9euxY:j0032",
+      "video_id": "LuCans9euxY",
+      "idx": 32,
+      "sent_ids": [
+        "LuCans9euxY:s0081",
+        "LuCans9euxY:s0082",
+        "LuCans9euxY:s0083",
+        "LuCans9euxY:s0084"
+      ],
+      "start_s": 307.56,
+      "end_s": 322.52,
+      "text": "Calhoun named them the beautiful ones. They looked, externally, like the healthiest mice in the entire colony. They were also, functionally, dead. They never tried to reproduce.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.59953216374269
+    },
+    {
+      "window_id": "LuCans9euxY:j0033",
+      "video_id": "LuCans9euxY",
+      "idx": 33,
+      "sent_ids": [
+        "LuCans9euxY:s0085",
+        "LuCans9euxY:s0086",
+        "LuCans9euxY:s0087"
+      ],
+      "start_s": 318.88,
+      "end_s": 334.40000000000003,
+      "text": "They could not socialize. Their nervous systems had developed inside a world where every social role was already filled by someone else. And they had simply opted out of the species.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.6215984405458089
+    },
+    {
+      "window_id": "LuCans9euxY:j0034",
+      "video_id": "LuCans9euxY",
+      "idx": 34,
+      "sent_ids": [
+        "LuCans9euxY:s0088",
+        "LuCans9euxY:s0089",
+        "LuCans9euxY:s0090",
+        "LuCans9euxY:s0091"
+      ],
+      "start_s": 328.48,
+      "end_s": 345.919,
+      "text": "On day 560, the population peaked at 2,200 mice. It would never go higher. The last successful conception inside Universe 25 happened on day 920. After that, no new mice were born.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.6403118908382066
+    },
+    {
+      "window_id": "LuCans9euxY:j0035",
+      "video_id": "LuCans9euxY",
+      "idx": 35,
+      "sent_ids": [
+        "LuCans9euxY:s0092",
+        "LuCans9euxY:s0093",
+        "LuCans9euxY:s0094",
+        "LuCans9euxY:s0095"
+      ],
+      "start_s": 341.96,
+      "end_s": 356.84,
+      "text": "The colony continued to age. The beautiful ones kept grooming themselves. The secluded females stayed in their high apartments. Violence carried on in pockets with no purpose left to it.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.666588693957115
+    },
+    {
+      "window_id": "LuCans9euxY:j0036",
+      "video_id": "LuCans9euxY",
+      "idx": 36,
+      "sent_ids": [
+        "LuCans9euxY:s0096",
+        "LuCans9euxY:s0097"
+      ],
+      "start_s": 352.2,
+      "end_s": 369.4,
+      "text": "And one by one the mice died of old age with no replacements coming up behind them. On May 23rd, 1973, the last mouse in Universe 25 died 4 years and 10 months after Calhoun shut the lid.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.6865497076023391
+    },
+    {
+      "window_id": "LuCans9euxY:j0037",
+      "video_id": "LuCans9euxY",
+      "idx": 37,
+      "sent_ids": [
+        "LuCans9euxY:s0098",
+        "LuCans9euxY:s0099",
+        "LuCans9euxY:s0100",
+        "LuCans9euxY:s0101"
+      ],
+      "start_s": 365.64,
+      "end_s": 376.44,
+      "text": "He wrote that the mice had died two deaths. The first was the death of the spirit. The second was the death of the body. The first one happened years before the second.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.7127485380116959
+    },
+    {
+      "window_id": "LuCans9euxY:j0038",
+      "video_id": "LuCans9euxY",
+      "idx": 38,
+      "sent_ids": [
+        "LuCans9euxY:s0102",
+        "LuCans9euxY:s0103",
+        "LuCans9euxY:s0104",
+        "LuCans9euxY:s0105"
+      ],
+      "start_s": 372.96,
+      "end_s": 385.36,
+      "text": "When his paper came out, the world ran with the obvious reading. Comfort kills. Abundance kills. A life with no struggle is a life that destroys itself.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.7270175438596491
+    },
+    {
+      "window_id": "LuCans9euxY:j0039",
+      "video_id": "LuCans9euxY",
+      "idx": 39,
+      "sent_ids": [
+        "LuCans9euxY:s0106",
+        "LuCans9euxY:s0107",
+        "LuCans9euxY:s0108"
+      ],
+      "start_s": 381.6,
+      "end_s": 396.12,
+      "text": "The image of the beautiful ones, perfect looking and quietly extinct, became one of the most cited metaphors of the late 20th century. Urbanists pointed to it. Religious leaders.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.7438596491228071
+    },
+    {
+      "window_id": "LuCans9euxY:j0040",
+      "video_id": "LuCans9euxY",
+      "idx": 40,
+      "sent_ids": [
+        "LuCans9euxY:s0109",
+        "LuCans9euxY:s0110",
+        "LuCans9euxY:s0111"
+      ],
+      "start_s": 391.4,
+      "end_s": 404.48,
+      "text": "Politicians on every side of every issue. Anyone who wanted to warn about the decay of modern life found something in those mice they could use. But that reading was not what Calhoun actually said.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.762962962962963
+    },
+    {
+      "window_id": "LuCans9euxY:j0041",
+      "video_id": "LuCans9euxY",
+      "idx": 41,
+      "sent_ids": [
+        "LuCans9euxY:s0112",
+        "LuCans9euxY:s0113"
+      ],
+      "start_s": 401.32,
+      "end_s": 415.03999999999996,
+      "text": "His real conclusion was sitting there in the paper, in his own words. For an animal as complex as a human being, he wrote, \"a similar collapse was not just possible, it was logical.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.7823001949317738
+    },
+    {
+      "window_id": "LuCans9euxY:j0042",
+      "video_id": "LuCans9euxY",
+      "idx": 42,
+      "sent_ids": [
+        "LuCans9euxY:s0114",
+        "LuCans9euxY:s0115"
+      ],
+      "start_s": 411.08,
+      "end_s": 427.84,
+      "text": "If the number of individuals capable of filling meaningful roles greatly exceeds the number of roles available, only violence and disruption can follow.\" The killer wasn't comfort, it was the disappearance of meaningful roles.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.8013255360623781
+    },
+    {
+      "window_id": "LuCans9euxY:j0043",
+      "video_id": "LuCans9euxY",
+      "idx": 43,
+      "sent_ids": [
+        "LuCans9euxY:s0116",
+        "LuCans9euxY:s0117"
+      ],
+      "start_s": 424.0,
+      "end_s": 437.919,
+      "text": "When the population grew faster than the supply of meaningful roles the colony could offer, the mice with no place stopped functioning. The fighters had no one to fight.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.8265107212475633
+    },
+    {
+      "window_id": "LuCans9euxY:j0044",
+      "video_id": "LuCans9euxY",
+      "idx": 44,
+      "sent_ids": [
+        "LuCans9euxY:s0118",
+        "LuCans9euxY:s0119",
+        "LuCans9euxY:s0120"
+      ],
+      "start_s": 433.76,
+      "end_s": 447.72,
+      "text": "The mothers nests that no one helped them keep. The young grew up with nothing they were expected to inherit. The structure that gave each individual mouse a reason to participate in the species evaporated.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.8455360623781676
+    },
+    {
+      "window_id": "LuCans9euxY:j0045",
+      "video_id": "LuCans9euxY",
+      "idx": 45,
+      "sent_ids": [
+        "LuCans9euxY:s0121",
+        "LuCans9euxY:s0122",
+        "LuCans9euxY:s0123",
+        "LuCans9euxY:s0124"
+      ],
+      "start_s": 445.48,
+      "end_s": 456.84000000000003,
+      "text": "The food never ran out. The water never ran out. What ran out was something nobody had thought to put in the paradise to begin with. Comfort didn't kill them.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.8683820662768031
+    },
+    {
+      "window_id": "LuCans9euxY:j0046",
+      "video_id": "LuCans9euxY",
+      "idx": 46,
+      "sent_ids": [
+        "LuCans9euxY:s0125",
+        "LuCans9euxY:s0126",
+        "LuCans9euxY:s0127"
+      ],
+      "start_s": 453.16,
+      "end_s": 465.0,
+      "text": "It just removed the friction that made being alive feel like something. And here is the part almost nobody quotes. Calhoun himself was not a doomer.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.8833528265107213
+    },
+    {
+      "window_id": "LuCans9euxY:j0047",
+      "video_id": "LuCans9euxY",
+      "idx": 47,
+      "sent_ids": [
+        "LuCans9euxY:s0128",
+        "LuCans9euxY:s0129",
+        "LuCans9euxY:s0130"
+      ],
+      "start_s": 461.36,
+      "end_s": 472.32,
+      "text": "He spent the rest of his career not predicting the collapse, but trying to prevent it. He kept building new universes. He kept changing the variables.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.899337231968811
+    },
+    {
+      "window_id": "LuCans9euxY:j0048",
+      "video_id": "LuCans9euxY",
+      "idx": 48,
+      "sent_ids": [
+        "LuCans9euxY:s0131",
+        "LuCans9euxY:s0132"
+      ],
+      "start_s": 468.48,
+      "end_s": 477.2,
+      "text": "He was looking for the single thing he could put back into a paradise that would let it keep working. He believed it could be done.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.9132163742690059
+    },
+    {
+      "window_id": "LuCans9euxY:j0049",
+      "video_id": "LuCans9euxY",
+      "idx": 49,
+      "sent_ids": [
+        "LuCans9euxY:s0133",
+        "LuCans9euxY:s0134"
+      ],
+      "start_s": 473.76,
+      "end_s": 491.20000000000005,
+      "text": "He believed humans could choose differently than the mice did. He wrote that as physical space contracts, the only way forward is to extend ourselves into conceptual space, into ideas, into networks, into the work of building roles that did not exist before.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.9235087719298245
+    },
+    {
+      "window_id": "LuCans9euxY:j0050",
+      "video_id": "LuCans9euxY",
+      "idx": 50,
+      "sent_ids": [
+        "LuCans9euxY:s0135",
+        "LuCans9euxY:s0136"
+      ],
+      "start_s": 487.16,
+      "end_s": 499.6,
+      "text": "He called it ideational generativity, a long phrase for a simple idea. The way out is to keep making new reasons to be here.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.9496296296296297
+    },
+    {
+      "window_id": "LuCans9euxY:j0051",
+      "video_id": "LuCans9euxY",
+      "idx": 51,
+      "sent_ids": [
+        "LuCans9euxY:s0137",
+        "LuCans9euxY:s0138"
+      ],
+      "start_s": 496.24,
+      "end_s": 514.76,
+      "text": "But the experiment is still sitting there in the data, a perfectly designed paradise, eight mice, five years, a complete extinction, and a cause of death no toxicology report would ever be able to name. The mice didn't have a choice.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.9673294346978558
+    },
+    {
+      "window_id": "LuCans9euxY:j0052",
+      "video_id": "LuCans9euxY",
+      "idx": 52,
+      "sent_ids": [
+        "LuCans9euxY:s0139",
+        "LuCans9euxY:s0140"
+      ],
+      "start_s": 508.4,
+      "end_s": 514.76,
+      "text": "We still do. What happens next is on us.",
+      "n_words": 9,
+      "n_sentences": 2,
+      "pos_pct": 0.9910331384015594
+    }
+  ]
+}

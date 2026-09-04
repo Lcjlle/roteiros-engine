@@ -1,0 +1,861 @@
+{
+  "video_id": "SRWmJj0zBs0",
+  "generated_at": "2026-09-04T03:00:43.132683+00:00",
+  "windows": [
+    {
+      "window_id": "SRWmJj0zBs0:j0000",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 0,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0000",
+        "SRWmJj0zBs0:s0001",
+        "SRWmJj0zBs0:s0002",
+        "SRWmJj0zBs0:s0003"
+      ],
+      "start_s": 0.031,
+      "end_s": 8.695,
+      "text": "Picture the best version of yourself. What age is that person? Almost nobody puts them in the future. Most people place them somewhere in their 20s and quietly assume they've already met them.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 6.066536203522505e-05
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0001",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 1,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0004",
+        "SRWmJj0zBs0:s0005",
+        "SRWmJj0zBs0:s0006"
+      ],
+      "start_s": 8.895,
+      "end_s": 16.938,
+      "text": "So what were you actually measuring when you decided that? Most likely it was speed. How fast you think, how fast you recover, how quickly you pick up something new.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.017407045009784735
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0002",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 2,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0007",
+        "SRWmJj0zBs0:s0008"
+      ],
+      "start_s": 17.158,
+      "end_s": 25.206,
+      "text": "That version of you did peak young, 19 to be exact, and it has been falling ever since. But that's one ability, and you are made of dozens.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.03357729941291585
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0003",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 3,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0009",
+        "SRWmJj0zBs0:s0010"
+      ],
+      "start_s": 25.426,
+      "end_s": 35.295,
+      "text": "They don't peak together, and almost none of them peak where you'd expect. The one that lets you read what another person is truly feeling doesn't reach its best until your 40s or 50s.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.0497573385518591
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0004",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 4,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0011",
+        "SRWmJj0zBs0:s0012"
+      ],
+      "start_s": 36.256,
+      "end_s": 41.779,
+      "text": "What you know keeps growing into your late 60s. And underneath all of them runs a separate curve.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.07095107632093933
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0005",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 5,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0013",
+        "SRWmJj0zBs0:s0014",
+        "SRWmJj0zBs0:s0015"
+      ],
+      "start_s": 42.179,
+      "end_s": 51.643,
+      "text": "One that has nothing to do with ability and everything to do with how your life actually feels from the inside. That one bottoms out at 47. So the question was never whether you've peaked.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.08254207436399218
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0006",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 6,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0016",
+        "SRWmJj0zBs0:s0017",
+        "SRWmJj0zBs0:s0018"
+      ],
+      "start_s": 51.823,
+      "end_s": 61.588,
+      "text": "It's how many peaks you get, where they sit, and which ones you happen to be standing between right now. Start with the one you already believed. That 19-year-old peak is real.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.10141487279843445
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0007",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 7,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0019",
+        "SRWmJj0zBs0:s0020"
+      ],
+      "start_s": 61.808,
+      "end_s": 80.086,
+      "text": "And it comes from one of the largest studies ever run on how the mind changes with age. In 2015, Joshua Hartshorn at MIT and Laura Germain at Massachusetts General Hospital tested nearly 50,000 people, every age, across different mental skills, then checked the results against decades of older IQ and memory data.",
+      "n_words": 53,
+      "n_sentences": 2,
+      "pos_pct": 0.1209549902152642
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0008",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 8,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0021",
+        "SRWmJj0zBs0:s0022",
+        "SRWmJj0zBs0:s0023"
+      ],
+      "start_s": 80.286,
+      "end_s": 89.771,
+      "text": "Raw processing speed topped out at 18 or 19. and started dropping almost immediately. It's why a 16-year-old can pick up a new video game and outreact you before dinner.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.15711545988258319
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0009",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 9,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0024",
+        "SRWmJj0zBs0:s0025"
+      ],
+      "start_s": 89.971,
+      "end_s": 94.752,
+      "text": "That quickness is real, and it is genuinely theirs. But watch what we did with that one fact.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.17606849315068493
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0010",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 10,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0026",
+        "SRWmJj0zBs0:s0027"
+      ],
+      "start_s": 94.872,
+      "end_s": 105.074,
+      "text": "The single ability that fades first, the most teenage thing your brain does, quietly became the stand-in for all the rest. We let it define the entire shape of a human life.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.18565949119373776
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0011",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 11,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0028",
+        "SRWmJj0zBs0:s0029"
+      ],
+      "start_s": 105.334,
+      "end_s": 112.676,
+      "text": "It isn't the rule, it's the exception, and almost everything else about you is still climbing. Take memory, which nobody thinks to check.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.206133072407045
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0012",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 12,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0030",
+        "SRWmJj0zBs0:s0031"
+      ],
+      "start_s": 112.796,
+      "end_s": 122.241,
+      "text": "Your short-term memory, the mental scratchpad you use to hold a phone number or keep track of a conversation, keeps sharpening through your early 20s. It peaks around 25.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.22073581213307242
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0013",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 13,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0032",
+        "SRWmJj0zBs0:s0033",
+        "SRWmJj0zBs0:s0034"
+      ],
+      "start_s": 122.541,
+      "end_s": 131.747,
+      "text": "Then, it holds steady for years and doesn't really start slipping until about 35. Your memory for faces climbs even longer. all the way into your early 30s.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.23980626223091975
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0014",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 14,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0035",
+        "SRWmJj0zBs0:s0036"
+      ],
+      "start_s": 132.007,
+      "end_s": 140.737,
+      "text": "So if you're 32 and you just walked into a room and forgot why you're standing there, relax. On the memory that actually gets measured, you're close to the best you will ever be.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.2583307240704501
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0015",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 15,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0037",
+        "SRWmJj0zBs0:s0038",
+        "SRWmJj0zBs0:s0039",
+        "SRWmJj0zBs0:s0040"
+      ],
+      "start_s": 140.878,
+      "end_s": 149.768,
+      "text": "You were sold a story where it's all downhill after 20. You've barely started the climb. Now the one that should genuinely surprise you? There's a test where you look at photographs of people's eyes.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.2756908023483366
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0016",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 16,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0041",
+        "SRWmJj0zBs0:s0042"
+      ],
+      "start_s": 149.968,
+      "end_s": 154.891,
+      "text": "Just the eyes, nothing else. And from that sliver alone, you have to say what the person is feeling.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.2934794520547945
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0017",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 17,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0043",
+        "SRWmJj0zBs0:s0044"
+      ],
+      "start_s": 154.991,
+      "end_s": 161.956,
+      "text": "Whether they're nervous or joking or about to lie to you, it measures the thing we usually just call being good with people. Reading a room.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.3033091976516634
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0018",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 18,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0045",
+        "SRWmJj0zBs0:s0046",
+        "SRWmJj0zBs0:s0047",
+        "SRWmJj0zBs0:s0048"
+      ],
+      "start_s": 162.196,
+      "end_s": 173.022,
+      "text": "Sensing what someone actually means, instead of only what they said out loud. You'd assume that's something you either have or you don't. It isn't. It's a skill, and it keeps sharpening for decades.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.31740900195694716
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0019",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 19,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0049",
+        "SRWmJj0zBs0:s0050",
+        "SRWmJj0zBs0:s0051"
+      ],
+      "start_s": 173.322,
+      "end_s": 183.345,
+      "text": "In that same research, the ability to read other people's emotions didn't peak in your 20s. It didn't peak in your 30s either. It peaked in the 40s and 50s.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.33918199608610566
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0020",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 20,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0052",
+        "SRWmJj0zBs0:s0053"
+      ],
+      "start_s": 183.525,
+      "end_s": 188.607,
+      "text": "And it didn't meaningfully fade until after 60. Sit with that for a second.",
+      "n_words": 14,
+      "n_sentences": 2,
+      "pos_pct": 0.35914872798434444
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0021",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 21,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0054",
+        "SRWmJj0zBs0:s0055"
+      ],
+      "start_s": 188.827,
+      "end_s": 202.612,
+      "text": "The version of you that understands other human beings best, that can walk into a tense room and actually feel what's moving underneath it, hasn't been built yet if you're under 40. The New York Times, covering this study, said it plainly.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.3695244618395303
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0022",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 22,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0056",
+        "SRWmJj0zBs0:s0057"
+      ],
+      "start_s": 202.812,
+      "end_s": 213.556,
+      "text": "The older brain may run slower, but it's just as accurate in many areas and better at reading other people's moods. Which means the 25-year-old with the faster brain is not the one who reads the room best.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.3968923679060666
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0023",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 23,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0058",
+        "SRWmJj0zBs0:s0059",
+        "SRWmJj0zBs0:s0060"
+      ],
+      "start_s": 213.776,
+      "end_s": 221.883,
+      "text": "Someone close to twice that age is. The exact thing we file under wisdom is not something you're quietly losing. For most of your life, it's something you're still earning.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.41834833659491194
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0024",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 24,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0061",
+        "SRWmJj0zBs0:s0062"
+      ],
+      "start_s": 222.023,
+      "end_s": 226.348,
+      "text": "And then comes the one that breaks the whole picture in half. There are really two kinds of intelligence.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.4344872798434442
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0025",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 25,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0063",
+        "SRWmJj0zBs0:s0064",
+        "SRWmJj0zBs0:s0065"
+      ],
+      "start_s": 226.548,
+      "end_s": 236.215,
+      "text": "The fast kind that cracks a brand new problem the moment it lands in front of you. And the deep kind. Built slowly out of everything you have ever read, learned, and lived through.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.4433424657534247
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0026",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 26,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0066",
+        "SRWmJj0zBs0:s0067",
+        "SRWmJj0zBs0:s0068",
+        "SRWmJj0zBs0:s0069"
+      ],
+      "start_s": 236.435,
+      "end_s": 245.678,
+      "text": "The fast kind fades early. The deep kind is the one still rising when you're 70. Vocabulary is that second kind. Not just words, but the whole library behind them.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.4626908023483366
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0027",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 27,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0070",
+        "SRWmJj0zBs0:s0071",
+        "SRWmJj0zBs0:s0072",
+        "SRWmJj0zBs0:s0073"
+      ],
+      "start_s": 245.918,
+      "end_s": 254.16,
+      "text": "Facts. Meanings. The slowly assembled sense of how the world actually works. The old assumption was that this topped out somewhere in your late 40s.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.4812485322896282
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0028",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 28,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0074",
+        "SRWmJj0zBs0:s0075",
+        "SRWmJj0zBs0:s0076",
+        "SRWmJj0zBs0:s0077"
+      ],
+      "start_s": 254.6,
+      "end_s": 264.224,
+      "text": "When Harzhorn and Germayn looked at the newer data, they found something they flat out did not expect. It kept climbing. Into the late 60s. Into the early 70s.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.49823874755381603
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0029",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 29,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0078",
+        "SRWmJj0zBs0:s0079"
+      ],
+      "start_s": 264.464,
+      "end_s": 276.368,
+      "text": "The sheer size of what you know, the depth of what you understand, is very likely still growing when you are 70 years old. So, that tidy picture of a human life, the peak at 20 and the long fade after, is fiction.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.5175420743639921
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0030",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 30,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0080",
+        "SRWmJj0zBs0:s0081",
+        "SRWmJj0zBs0:s0082"
+      ],
+      "start_s": 276.708,
+      "end_s": 285.554,
+      "text": "At 20, one ability is peaking. By your early 30s, it's a completely different set. Reach your 40s and 50s and it's your read on other people that's cresting.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.5415029354207437
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0031",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 31,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0083",
+        "SRWmJj0zBs0:s0084",
+        "SRWmJj0zBs0:s0085"
+      ],
+      "start_s": 285.774,
+      "end_s": 292.761,
+      "text": "Out in your late 60s, your knowledge is still deepening. Peak was the wrong word from the start. You don't get a peak.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.5592446183953034
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0032",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 32,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0086",
+        "SRWmJj0zBs0:s0087"
+      ],
+      "start_s": 293.101,
+      "end_s": 306.315,
+      "text": "You get peaks, plural, firing at wildly different ages and at every single point in your life, you are getting worse at something and better at something else at the exact same time. Which sounds like good news, and mostly it is.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.5735831702544031
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0033",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 33,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0088",
+        "SRWmJj0zBs0:s0089"
+      ],
+      "start_s": 306.635,
+      "end_s": 313.964,
+      "text": "Except for one curve. The one that doesn't care how fast or how knowledgeable you are, and it happens to be the one you can actually feel from the inside.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.6000684931506849
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0034",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 34,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0090",
+        "SRWmJj0zBs0:s0091"
+      ],
+      "start_s": 314.384,
+      "end_s": 327.618,
+      "text": "That 47-figure comes from an economist named David Blanchflower, who spent years pulling apart well-being data from every continent except Antarctica. He kept finding the same shape almost everywhere he looked.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.6152328767123288
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0035",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 35,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0092",
+        "SRWmJj0zBs0:s0093",
+        "SRWmJj0zBs0:s0094"
+      ],
+      "start_s": 327.758,
+      "end_s": 335.526,
+      "text": "The line didn't slope gently down with age, and it didn't hold flat. It bent into a U-shape. Your life satisfaction starts high when you're young.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.6414050880626223
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0036",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 36,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0095",
+        "SRWmJj0zBs0:s0096",
+        "SRWmJj0zBs0:s0097",
+        "SRWmJj0zBs0:s0098"
+      ],
+      "start_s": 335.786,
+      "end_s": 344.893,
+      "text": "Then, slowly, all through your 20s and 30s, it drifts downward. It keeps drifting. And it finally hits bottom at 47. Not a dramatic crisis.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.6571154598825831
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0037",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 37,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0099",
+        "SRWmJj0zBs0:s0100",
+        "SRWmJj0zBs0:s0101"
+      ],
+      "start_s": 345.133,
+      "end_s": 355.057,
+      "text": "Just a long, quiet descent that touches the ground somewhere in your late 40s. In wealthier countries, the low point lands at 47.2. In developing ones, it's 48.2.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.6754070450097847
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0038",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 38,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0102",
+        "SRWmJj0zBs0:s0103"
+      ],
+      "start_s": 355.637,
+      "end_s": 361.479,
+      "text": "Almost the same age right across the planet. Which means a huge share of people are somewhere on that downslope right now.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.6959628180039139
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0039",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 39,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0104",
+        "SRWmJj0zBs0:s0105"
+      ],
+      "start_s": 361.679,
+      "end_s": 371.986,
+      "text": "And some are sitting almost exactly at the bottom of the entire thing today, living it in real time without realizing that's where they are. Before that lands too hard, there's something you have to know about that bottom.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.7077866927592954
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0040",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 40,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0106",
+        "SRWmJj0zBs0:s0107"
+      ],
+      "start_s": 372.206,
+      "end_s": 385.033,
+      "text": "It may not be your fault, it might have nothing to do with your job, or your marriage, or the choices you replay at 2 in the morning. In 2012, a team led by Alexander Weiss at the University of Edinburgh measured well-being in 508 great apes.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.7283874755381605
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0041",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 41,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0108",
+        "SRWmJj0zBs0:s0109",
+        "SRWmJj0zBs0:s0110"
+      ],
+      "start_s": 385.614,
+      "end_s": 396.619,
+      "text": "Chimpanzees and orangutans, living in zoos and sanctuaries across five countries, each one rated by the keepers who knew them best. The apes had the same curve. Happy, satisfied when young.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.7546262230919765
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0042",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 42,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0111",
+        "SRWmJj0zBs0:s0112",
+        "SRWmJj0zBs0:s0113"
+      ],
+      "start_s": 396.879,
+      "end_s": 404.783,
+      "text": "Lowest in the middle of life, lifting again in old age. They don't carry mortgages. They have no careers to regret and no one's expectations to live up to.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.7766712328767124
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0043",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 43,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0114",
+        "SRWmJj0zBs0:s0115"
+      ],
+      "start_s": 404.963,
+      "end_s": 411.547,
+      "text": "And they still hit the same midlife low we do. Whatever that dip is, it seems to be wired into us somewhere far below our circumstances.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.7924911937377691
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0044",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 44,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0116",
+        "SRWmJj0zBs0:s0117"
+      ],
+      "start_s": 411.807,
+      "end_s": 420.814,
+      "text": "So if you're near the bottom of it and you cannot explain why, the reason might simply be that there is no why. You may just be standing at the lowest part of a curve that every one of us walks.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.8058845401174168
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0045",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 45,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0118",
+        "SRWmJj0zBs0:s0119",
+        "SRWmJj0zBs0:s0120"
+      ],
+      "start_s": 421.114,
+      "end_s": 427.879,
+      "text": "The U has a right side. After the bottom, it turns. Life satisfaction climbs steadily for the rest of your life.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.8240978473581213
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0046",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 46,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0121",
+        "SRWmJj0zBs0:s0122"
+      ],
+      "start_s": 428.179,
+      "end_s": 440.329,
+      "text": "People in their 60s and 70s routinely report feeling better than they did in the grinding middle. Push far enough up the right side of that U, and the numbers say you can land about as satisfied as you were at 18 before any of the sliding started.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.8379236790606653
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0047",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 47,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0123",
+        "SRWmJj0zBs0:s0124",
+        "SRWmJj0zBs0:s0125"
+      ],
+      "start_s": 440.509,
+      "end_s": 449.576,
+      "text": "The climb back up is every bit as real as the slide down was. The worst of it, statistically, does not last. So this is where that assumption falls apart.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.8620528375733856
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0048",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 48,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0126",
+        "SRWmJj0zBs0:s0127"
+      ],
+      "start_s": 449.816,
+      "end_s": 453.419,
+      "text": "The one that put your best self somewhere behind you. Look at what's actually true.",
+      "n_words": 15,
+      "n_sentences": 2,
+      "pos_pct": 0.8802661448140899
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0049",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 49,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0128",
+        "SRWmJj0zBs0:s0129"
+      ],
+      "start_s": 453.579,
+      "end_s": 465.007,
+      "text": "If you're in your 20s, your speed is peaking, and very nearly everything else you value is still out ahead of you. In your 30s, your memory sits near its sharpest, while your read on people is only starting to come in.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.8876301369863013
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0050",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 50,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0130",
+        "SRWmJj0zBs0:s0131"
+      ],
+      "start_s": 465.287,
+      "end_s": 478.896,
+      "text": "Hit your 40s or 50s, and you're at the absolute peak of understanding other human beings, resting close to the bottom of the hard stretch, which means the long climb up is about to begin. And if you're past that, your knowledge is very likely still growing.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.9105420743639921
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0051",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 51,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0132",
+        "SRWmJj0zBs0:s0133"
+      ],
+      "start_s": 479.076,
+      "end_s": 487.001,
+      "text": "Right in the years the data says, life starts feeling lighter again. There is no single moment where you stood at your best and everything since has been spending it down.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.9375264187866929
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0052",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 52,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0134",
+        "SRWmJj0zBs0:s0135"
+      ],
+      "start_s": 487.201,
+      "end_s": 496.127,
+      "text": "That person was never real. You are a moving collection of abilities, each arriving in its own season, and the one that will matter most to you may not have even shown up yet.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.9534266144814091
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0053",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 53,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0136",
+        "SRWmJj0zBs0:s0137"
+      ],
+      "start_s": 496.267,
+      "end_s": 502.922,
+      "text": "You were never on your way down. You've been on your way up this whole time, just not along the one line you were told to watch.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.9711682974559687
+    },
+    {
+      "window_id": "SRWmJj0zBs0:j0054",
+      "video_id": "SRWmJj0zBs0",
+      "idx": 54,
+      "sent_ids": [
+        "SRWmJj0zBs0:s0138",
+        "SRWmJj0zBs0:s0139"
+      ],
+      "start_s": 503.082,
+      "end_s": 510.062,
+      "text": "So go back to that best version of yourself, the one you placed somewhere in your 20s without really thinking about it. There's a very good chance you haven't met them yet.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.9845048923679061
+    }
+  ]
+}

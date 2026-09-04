@@ -1,0 +1,970 @@
+{
+  "video_id": "6jZWZokuQuc",
+  "duration_s": 482.0,
+  "generated_at": "2026-09-04T02:59:27.235133+00:00",
+  "sentences": [
+    {
+      "sent_id": "6jZWZokuQuc:s0000",
+      "video_id": "6jZWZokuQuc",
+      "idx": 0,
+      "start_s": 0.071,
+      "end_s": 1.911,
+      "text": "The Vikings were terrified of the night.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0001",
+      "video_id": "6jZWZokuQuc",
+      "idx": 1,
+      "start_s": 2.112,
+      "end_s": 5.212,
+      "text": "They were some of the most savage, brutal raiders in history.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0002",
+      "video_id": "6jZWZokuQuc",
+      "idx": 2,
+      "start_s": 5.352,
+      "end_s": 11.054,
+      "text": "And yet, they were so scared that when someone died, the family wouldn't carry the body out through the front door.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0003",
+      "video_id": "6jZWZokuQuc",
+      "idx": 3,
+      "start_s": 11.254,
+      "end_s": 17.576,
+      "text": "Instead, they would smash a hole straight through the wall, shove it out through the gap, and seal the hole shut behind it.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0004",
+      "video_id": "6jZWZokuQuc",
+      "idx": 4,
+      "start_s": 17.736,
+      "end_s": 22.617,
+      "text": "They were terrified that if it left through the door, it would remember the way and come back.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0005",
+      "video_id": "6jZWZokuQuc",
+      "idx": 5,
+      "start_s": 22.877,
+      "end_s": 26.679,
+      "text": "Something out there in the dark scared them more than any army ever could.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0006",
+      "video_id": "6jZWZokuQuc",
+      "idx": 6,
+      "start_s": 26.759,
+      "end_s": 34.802,
+      "text": "But that same darkness they were so afraid of is exactly where a handful of scattered farmers turned themselves into the most dangerous people on earth.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0007",
+      "video_id": "6jZWZokuQuc",
+      "idx": 7,
+      "start_s": 35.042,
+      "end_s": 38.363,
+      "text": "Up at the top of the world, winter doesn't just bring early sunsets.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0008",
+      "video_id": "6jZWZokuQuc",
+      "idx": 8,
+      "start_s": 38.743,
+      "end_s": 40.644,
+      "text": "It practically erases the sun.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0009",
+      "video_id": "6jZWZokuQuc",
+      "idx": 9,
+      "start_s": 40.704,
+      "end_s": 45.266,
+      "text": "Imagine the sun going down in autumn and not truly coming back until spring.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0010",
+      "video_id": "6jZWZokuQuc",
+      "idx": 10,
+      "start_s": 45.366,
+      "end_s": 47.387,
+      "text": "And it wasn't just dark, it was deadly.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0011",
+      "video_id": "6jZWZokuQuc",
+      "idx": 11,
+      "start_s": 47.587,
+      "end_s": 56.195,
+      "text": "Inland on a clear night, the cold could drop past minus 30 Celsius, more than 20 below zero Fahrenheit, cold enough to kill you before morning.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0012",
+      "video_id": "6jZWZokuQuc",
+      "idx": 12,
+      "start_s": 56.335,
+      "end_s": 63.782,
+      "text": "So for half the year, a whole family was sealed inside one dark, smoky room, while the night stretched on with no end in sight.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0013",
+      "video_id": "6jZWZokuQuc",
+      "idx": 13,
+      "start_s": 63.962,
+      "end_s": 69.067,
+      "text": "And in that kind of dark, for that long, it gets very easy to believe something is outside.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0014",
+      "video_id": "6jZWZokuQuc",
+      "idx": 14,
+      "start_s": 69.467,
+      "end_s": 70.989,
+      "text": "Something trying to get in.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0015",
+      "video_id": "6jZWZokuQuc",
+      "idx": 15,
+      "start_s": 71.509,
+      "end_s": 72.449,
+      "text": "So they told stories.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0016",
+      "video_id": "6jZWZokuQuc",
+      "idx": 16,
+      "start_s": 72.91,
+      "end_s": 75.911,
+      "text": "And the very first one explained where all that darkness came from.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0017",
+      "video_id": "6jZWZokuQuc",
+      "idx": 17,
+      "start_s": 76.291,
+      "end_s": 86.014,
+      "text": "They believed two enormous wolves were chasing the sun across the sky, and that one day, they would catch it, swallow it whole, and drown the world in darkness forever.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0018",
+      "video_id": "6jZWZokuQuc",
+      "idx": 18,
+      "start_s": 86.354,
+      "end_s": 93.278,
+      "text": "Every winter, as the light bled away, It really did look like the wolves were winning, but the wolves were just one of the things out there.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0019",
+      "video_id": "6jZWZokuQuc",
+      "idx": 19,
+      "start_s": 93.698,
+      "end_s": 100.662,
+      "text": "Beyond the firelight, the dark belonged to the trolls, giant lumbering things strong enough to crush a man.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0020",
+      "video_id": "6jZWZokuQuc",
+      "idx": 20,
+      "start_s": 101.082,
+      "end_s": 105.645,
+      "text": "And they owned the night, because the one thing a troll could not survive was daylight.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0021",
+      "video_id": "6jZWZokuQuc",
+      "idx": 21,
+      "start_s": 106.025,
+      "end_s": 109.747,
+      "text": "The first touch of the rising sun would turn it to solid stone.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0022",
+      "video_id": "6jZWZokuQuc",
+      "idx": 22,
+      "start_s": 110.207,
+      "end_s": 114.629,
+      "text": "So when the dark came down, the smart ones stayed inside and waited for the sun.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0023",
+      "video_id": "6jZWZokuQuc",
+      "idx": 23,
+      "start_s": 115.13,
+      "end_s": 117.611,
+      "text": "But you didn't even have to go outside to be in danger.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0024",
+      "video_id": "6jZWZokuQuc",
+      "idx": 24,
+      "start_s": 118.031,
+      "end_s": 121.133,
+      "text": "The worst things came for you indoors while you slept.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0025",
+      "video_id": "6jZWZokuQuc",
+      "idx": 25,
+      "start_s": 121.533,
+      "end_s": 123.014,
+      "text": "They called it the Mara.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0026",
+      "video_id": "6jZWZokuQuc",
+      "idx": 26,
+      "start_s": 123.374,
+      "end_s": 129.758,
+      "text": "It crept into the house at night, sat on your chest while you slept, and crushed the breath out of you with terrible dreams.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0027",
+      "video_id": "6jZWZokuQuc",
+      "idx": 27,
+      "start_s": 130.318,
+      "end_s": 132.4,
+      "text": "You couldn't move, you couldn't scream.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0028",
+      "video_id": "6jZWZokuQuc",
+      "idx": 28,
+      "start_s": 132.94,
+      "end_s": 135.203,
+      "text": "You'd just wake in the dark, gasping.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0029",
+      "video_id": "6jZWZokuQuc",
+      "idx": 29,
+      "start_s": 135.603,
+      "end_s": 138.385,
+      "text": "It's almost certainly what we now call sleep paralysis.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0030",
+      "video_id": "6jZWZokuQuc",
+      "idx": 30,
+      "start_s": 138.686,
+      "end_s": 142.429,
+      "text": "That jolt of waking up frozen, certain something is crouching on your chest.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0031",
+      "video_id": "6jZWZokuQuc",
+      "idx": 31,
+      "start_s": 142.95,
+      "end_s": 146.453,
+      "text": "And Mara is exactly where we get the word nightmare.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0032",
+      "video_id": "6jZWZokuQuc",
+      "idx": 32,
+      "start_s": 146.953,
+      "end_s": 152.999,
+      "text": "One old tale says a king of Sweden was crushed to death by a Mara in his sleep, sent by a witch who wanted him gone.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0033",
+      "video_id": "6jZWZokuQuc",
+      "idx": 33,
+      "start_s": 153.339,
+      "end_s": 155.041,
+      "text": "And it didn't only come for people.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0034",
+      "video_id": "6jZWZokuQuc",
+      "idx": 34,
+      "start_s": 155.381,
+      "end_s": 160.463,
+      "text": "Farmers would find their horses in the morning soaked in sweat and shaking, manes tangled into knots.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0035",
+      "video_id": "6jZWZokuQuc",
+      "idx": 35,
+      "start_s": 160.984,
+      "end_s": 163.565,
+      "text": "But the Mara wasn't the thing they feared most.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0036",
+      "video_id": "6jZWZokuQuc",
+      "idx": 36,
+      "start_s": 164.045,
+      "end_s": 167.446,
+      "text": "It was a dead body that climbed back out of the grave and walked.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0037",
+      "video_id": "6jZWZokuQuc",
+      "idx": 37,
+      "start_s": 167.907,
+      "end_s": 169.247,
+      "text": "They called it a Draugr.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0038",
+      "video_id": "6jZWZokuQuc",
+      "idx": 38,
+      "start_s": 169.647,
+      "end_s": 175.23,
+      "text": "Not a see-through ghost, but the actual corpse, swollen and rotting and impossibly strong.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0039",
+      "video_id": "6jZWZokuQuc",
+      "idx": 39,
+      "start_s": 175.85,
+      "end_s": 178.972,
+      "text": "It could crush a horse, and no man alive could fight it off.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0040",
+      "video_id": "6jZWZokuQuc",
+      "idx": 40,
+      "start_s": 179.353,
+      "end_s": 181.714,
+      "text": "The worst of them rotted the land around them.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0041",
+      "video_id": "6jZWZokuQuc",
+      "idx": 41,
+      "start_s": 182.095,
+      "end_s": 187.899,
+      "text": "In one saga, a draugr grew so foul that birds flying over its grave fell dead out of the air.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0042",
+      "video_id": "6jZWZokuQuc",
+      "idx": 42,
+      "start_s": 188.339,
+      "end_s": 191.922,
+      "text": "Cattle died in the fields, and an entire valley had to be abandoned.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0043",
+      "video_id": "6jZWZokuQuc",
+      "idx": 43,
+      "start_s": 192.342,
+      "end_s": 195.805,
+      "text": "And they rose at night, worst of all, in the dead of winter.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0044",
+      "video_id": "6jZWZokuQuc",
+      "idx": 44,
+      "start_s": 196.285,
+      "end_s": 198.126,
+      "text": "A bolted door wouldn't stop one.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0045",
+      "video_id": "6jZWZokuQuc",
+      "idx": 45,
+      "start_s": 198.547,
+      "end_s": 201.349,
+      "text": "They could smash their way into a house and drag you out.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0046",
+      "video_id": "6jZWZokuQuc",
+      "idx": 46,
+      "start_s": 201.689,
+      "end_s": 206.514,
+      "text": "Now remember the body they shoved out through that hole in the wall, a dead man who found his way home.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0047",
+      "video_id": "6jZWZokuQuc",
+      "idx": 47,
+      "start_s": 206.935,
+      "end_s": 213.182,
+      "text": "To put a draugr down for good, you had to dig up the grave, cut off its head, and burn the whole body to ash.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0048",
+      "video_id": "6jZWZokuQuc",
+      "idx": 48,
+      "start_s": 213.602,
+      "end_s": 222.873,
+      "text": "The most famous of them was a dead shepherd named Glomer, who climbed onto the roof of the farmhouse at night and rode it, slamming his heels against the beams until the whole house shook.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0049",
+      "video_id": "6jZWZokuQuc",
+      "idx": 49,
+      "start_s": 223.433,
+      "end_s": 227.594,
+      "text": "Anyone who met him out there either dropped dead on the spot or lost their mind.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0050",
+      "video_id": "6jZWZokuQuc",
+      "idx": 50,
+      "start_s": 227.894,
+      "end_s": 231.836,
+      "text": "It took a legendary outlaw named Greta to wrestle him to the ground in the dark.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0051",
+      "video_id": "6jZWZokuQuc",
+      "idx": 51,
+      "start_s": 232.236,
+      "end_s": 235.397,
+      "text": "But as Glamour lay dying, a cloud slid off the moon.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0052",
+      "video_id": "6jZWZokuQuc",
+      "idx": 52,
+      "start_s": 235.857,
+      "end_s": 239.298,
+      "text": "The light caught his rolling dead eyes and Greta froze.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0053",
+      "video_id": "6jZWZokuQuc",
+      "idx": 53,
+      "start_s": 239.738,
+      "end_s": 244.66,
+      "text": "With his last breath, Glamour cursed him that he would be afraid of the dark for the rest of his life.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0054",
+      "video_id": "6jZWZokuQuc",
+      "idx": 54,
+      "start_s": 245.26,
+      "end_s": 245.72,
+      "text": "And it worked.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0055",
+      "video_id": "6jZWZokuQuc",
+      "idx": 55,
+      "start_s": 246.34,
+      "end_s": 251.044,
+      "text": "Gredor, the man who killed the monster, could never bear to be alone in the dark again.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0056",
+      "video_id": "6jZWZokuQuc",
+      "idx": 56,
+      "start_s": 251.464,
+      "end_s": 253.065,
+      "text": "But not every Viking ran from the dark.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0057",
+      "video_id": "6jZWZokuQuc",
+      "idx": 57,
+      "start_s": 253.546,
+      "end_s": 254.847,
+      "text": "Some of them went looking for it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0058",
+      "video_id": "6jZWZokuQuc",
+      "idx": 58,
+      "start_s": 255.167,
+      "end_s": 258.93,
+      "text": "They even had a name for it, Udaceta, which just means sitting out.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0059",
+      "video_id": "6jZWZokuQuc",
+      "idx": 59,
+      "start_s": 259.39,
+      "end_s": 262.433,
+      "text": "Asiris was a woman the Vikings believed could see the future.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0060",
+      "video_id": "6jZWZokuQuc",
+      "idx": 60,
+      "start_s": 262.853,
+      "end_s": 271.317,
+      "text": "She would walk out alone at night onto a burial mound and sit there in the freezing dark for hours, trying to wake the dead and pull secrets and prophecy out of them.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0061",
+      "video_id": "6jZWZokuQuc",
+      "idx": 61,
+      "start_s": 271.637,
+      "end_s": 278.08,
+      "text": "People believed in it so completely that the law eventually banned it by name, calling it sitting out to wake up the trolls.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0062",
+      "video_id": "6jZWZokuQuc",
+      "idx": 62,
+      "start_s": 278.66,
+      "end_s": 285.283,
+      "text": "So while everyone else barricaded their doors against the dead, she was out on a grave in the pitch black trying to call them up.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0063",
+      "video_id": "6jZWZokuQuc",
+      "idx": 63,
+      "start_s": 285.724,
+      "end_s": 291.586,
+      "text": "That same darkness, the very thing that terrified them, is also where they became impossible to beat.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0064",
+      "video_id": "6jZWZokuQuc",
+      "idx": 64,
+      "start_s": 291.927,
+      "end_s": 297.029,
+      "text": "Because when the fire was high and the ale was flowing, that same room turned loud and wild.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0065",
+      "video_id": "6jZWZokuQuc",
+      "idx": 65,
+      "start_s": 297.45,
+      "end_s": 301.612,
+      "text": "And they passed those long nights doing something that sounds straight out of today.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0066",
+      "video_id": "6jZWZokuQuc",
+      "idx": 66,
+      "start_s": 302.052,
+      "end_s": 302.893,
+      "text": "They had rap battles.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0067",
+      "video_id": "6jZWZokuQuc",
+      "idx": 67,
+      "start_s": 303.513,
+      "end_s": 310.557,
+      "text": "They called it flyting, where two people would stand up and hurl insults at each other, back and forth, in verse, made up on the spot.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0068",
+      "video_id": "6jZWZokuQuc",
+      "idx": 68,
+      "start_s": 310.977,
+      "end_s": 317.541,
+      "text": "In the most famous match of all, the trickster god Loki crashes a feast and tears into every god in the room, one by one.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0069",
+      "video_id": "6jZWZokuQuc",
+      "idx": 69,
+      "start_s": 317.881,
+      "end_s": 323.767,
+      "text": "He even accuses Odin, the king of the gods, of practicing women's magic and creeping around disguised as a witch.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0070",
+      "video_id": "6jZWZokuQuc",
+      "idx": 70,
+      "start_s": 324.187,
+      "end_s": 328.511,
+      "text": "And they went for blood, your courage, your looks, whether you were even a real man at all.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0071",
+      "video_id": "6jZWZokuQuc",
+      "idx": 71,
+      "start_s": 328.952,
+      "end_s": 335.819,
+      "text": "In a world where your reputation was the only thing you truly owned, freezing up with nothing to fire back could shame you for years.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0072",
+      "video_id": "6jZWZokuQuc",
+      "idx": 72,
+      "start_s": 336.379,
+      "end_s": 339.76,
+      "text": "The Vikings respected a quick tongue almost as much as a quick blade.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0073",
+      "video_id": "6jZWZokuQuc",
+      "idx": 73,
+      "start_s": 340.18,
+      "end_s": 343.882,
+      "text": "And once a year, all of it boiled over into the biggest feast of the year.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0074",
+      "video_id": "6jZWZokuQuc",
+      "idx": 74,
+      "start_s": 344.302,
+      "end_s": 347.643,
+      "text": "They called it Yule, the same word we still use at Christmas.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0075",
+      "video_id": "6jZWZokuQuc",
+      "idx": 75,
+      "start_s": 348.003,
+      "end_s": 353.685,
+      "text": "It ran for days, drowning in food and drink, at the exact time of year when food was hardest to find.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0076",
+      "video_id": "6jZWZokuQuc",
+      "idx": 76,
+      "start_s": 353.946,
+      "end_s": 359.187,
+      "text": "They sacrificed animals to the gods and marked the walls with the blood to buy themselves a good year ahead.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0077",
+      "video_id": "6jZWZokuQuc",
+      "idx": 77,
+      "start_s": 359.528,
+      "end_s": 368.411,
+      "text": "And at the peak of it, A man would lay his hand on a sacred boar and swear an oath out loud in front of the whole room to win a certain battle or to kill a certain man.",
+      "n_words": 39
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0078",
+      "video_id": "6jZWZokuQuc",
+      "idx": 78,
+      "start_s": 368.751,
+      "end_s": 371.332,
+      "text": "And once it was said, there was no taking it back.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0079",
+      "video_id": "6jZWZokuQuc",
+      "idx": 79,
+      "start_s": 371.752,
+      "end_s": 378.395,
+      "text": "A hall full of warriors would talk themselves into next summer's raids in the dead of winter, months before a single ship ever left the shore.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0080",
+      "video_id": "6jZWZokuQuc",
+      "idx": 80,
+      "start_s": 378.755,
+      "end_s": 382.156,
+      "text": "The raids that terrified all of Europe didn't begin out on the water.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0081",
+      "video_id": "6jZWZokuQuc",
+      "idx": 81,
+      "start_s": 382.536,
+      "end_s": 386.038,
+      "text": "They began in the dark around a fire with a cup of ale and a promise.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0082",
+      "video_id": "6jZWZokuQuc",
+      "idx": 82,
+      "start_s": 386.518,
+      "end_s": 388.54,
+      "text": "But the oaths were still just words.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0083",
+      "video_id": "6jZWZokuQuc",
+      "idx": 83,
+      "start_s": 389.04,
+      "end_s": 394.565,
+      "text": "Something had to carry all those men across the open sea, and turn those words into blood and plunder.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0084",
+      "video_id": "6jZWZokuQuc",
+      "idx": 84,
+      "start_s": 394.965,
+      "end_s": 397.727,
+      "text": "And the thing that did it is the last thing you would ever guess.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0085",
+      "video_id": "6jZWZokuQuc",
+      "idx": 85,
+      "start_s": 398.148,
+      "end_s": 399.269,
+      "text": "Picture a Viking longship.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0086",
+      "video_id": "6jZWZokuQuc",
+      "idx": 86,
+      "start_s": 399.589,
+      "end_s": 403.292,
+      "text": "You probably picture the wood, the carved dragon head, the long rows of oars.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0087",
+      "video_id": "6jZWZokuQuc",
+      "idx": 87,
+      "start_s": 403.812,
+      "end_s": 406.334,
+      "text": "But the wood isn't what carried that ship across the ocean.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0088",
+      "video_id": "6jZWZokuQuc",
+      "idx": 88,
+      "start_s": 406.755,
+      "end_s": 407.435,
+      "text": "The sail did.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0089",
+      "video_id": "6jZWZokuQuc",
+      "idx": 89,
+      "start_s": 407.836,
+      "end_s": 409.317,
+      "text": "And the sail was made of wool.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0090",
+      "video_id": "6jZWZokuQuc",
+      "idx": 90,
+      "start_s": 409.677,
+      "end_s": 417.102,
+      "text": "Which means, without a room full of women spinning in the dark, There is no Viking Age, just angry men with axes stuck on the shore.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0091",
+      "video_id": "6jZWZokuQuc",
+      "idx": 91,
+      "start_s": 417.482,
+      "end_s": 420.884,
+      "text": "A single sail could swallow the wool of more than a thousand sheep.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0092",
+      "video_id": "6jZWZokuQuc",
+      "idx": 92,
+      "start_s": 421.344,
+      "end_s": 425.887,
+      "text": "Every bit of that wool had to be cleaned, combed, and spun into thread by hand.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0093",
+      "video_id": "6jZWZokuQuc",
+      "idx": 93,
+      "start_s": 426.407,
+      "end_s": 429.849,
+      "text": "Then it was woven to cloth on a loom taller than a person.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0094",
+      "video_id": "6jZWZokuQuc",
+      "idx": 94,
+      "start_s": 430.109,
+      "end_s": 435.532,
+      "text": "When researchers added it all up, the woodwork, the part we always picture, turned out to be the easy part.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0095",
+      "video_id": "6jZWZokuQuc",
+      "idx": 95,
+      "start_s": 435.932,
+      "end_s": 438.273,
+      "text": "The cloth took about 30 times longer.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0096",
+      "video_id": "6jZWZokuQuc",
+      "idx": 96,
+      "start_s": 438.613,
+      "end_s": 441.715,
+      "text": "And the slowest part wasn't the weaving, it was the spinning.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0097",
+      "video_id": "6jZWZokuQuc",
+      "idx": 97,
+      "start_s": 442.015,
+      "end_s": 449.541,
+      "text": "Spinning it all by hand was so slow that, all added up, the sail for a single warship came to about 50 years of work.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0098",
+      "video_id": "6jZWZokuQuc",
+      "idx": 98,
+      "start_s": 449.922,
+      "end_s": 451.963,
+      "text": "No single person could ever do that.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0099",
+      "video_id": "6jZWZokuQuc",
+      "idx": 99,
+      "start_s": 452.284,
+      "end_s": 455.486,
+      "text": "It took dozens of women working together just to finish one.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0100",
+      "video_id": "6jZWZokuQuc",
+      "idx": 100,
+      "start_s": 455.987,
+      "end_s": 458.409,
+      "text": "Indoors, in the dark, all winter long.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0101",
+      "video_id": "6jZWZokuQuc",
+      "idx": 101,
+      "start_s": 458.809,
+      "end_s": 466.724,
+      "text": "It was so completely women's work that the word spinster, which now means an unmarried woman, back then meant nothing more than a woman who spins.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0102",
+      "video_id": "6jZWZokuQuc",
+      "idx": 102,
+      "start_s": 467.245,
+      "end_s": 471.172,
+      "text": "Take away the longships and the legends, and you are left with something very ordinary.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0103",
+      "video_id": "6jZWZokuQuc",
+      "idx": 103,
+      "start_s": 471.393,
+      "end_s": 474.138,
+      "text": "A room full of people around a fire, scared of the dark.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0104",
+      "video_id": "6jZWZokuQuc",
+      "idx": 104,
+      "start_s": 474.458,
+      "end_s": 475.18,
+      "text": "That was the Vikings.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0105",
+      "video_id": "6jZWZokuQuc",
+      "idx": 105,
+      "start_s": 475.661,
+      "end_s": 476.362,
+      "text": "Every single night.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "6jZWZokuQuc:s0106",
+      "video_id": "6jZWZokuQuc",
+      "idx": 106,
+      "start_s": 476.642,
+      "end_s": 481.572,
+      "text": "One of the most frightening people in the world, fighting their own fears, the same as anyone else.",
+      "n_words": 18
+    }
+  ]
+}

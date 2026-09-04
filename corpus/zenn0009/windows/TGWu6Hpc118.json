@@ -1,0 +1,861 @@
+{
+  "video_id": "TGWu6Hpc118",
+  "generated_at": "2026-09-04T03:00:43.133618+00:00",
+  "windows": [
+    {
+      "window_id": "TGWu6Hpc118:j0000",
+      "video_id": "TGWu6Hpc118",
+      "idx": 0,
+      "sent_ids": [
+        "TGWu6Hpc118:s0000",
+        "TGWu6Hpc118:s0001",
+        "TGWu6Hpc118:s0002"
+      ],
+      "start_s": 0.111,
+      "end_s": 8.436,
+      "text": "In 1995, a man named MacArthur Wheeler walked into a Pittsburgh bank in the middle of the afternoon. He wasn't wearing a mask. He was wearing lemon juice.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.00023076923076923076
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0001",
+      "video_id": "TGWu6Hpc118",
+      "idx": 1,
+      "sent_ids": [
+        "TGWu6Hpc118:s0003",
+        "TGWu6Hpc118:s0004"
+      ],
+      "start_s": 8.756,
+      "end_s": 18.282,
+      "text": "Smeared all over his face, he looked straight up at the security cameras, took the money, and strolled out. Then he drove across town and did the exact same thing at a second bank.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.018203742203742206
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0002",
+      "video_id": "TGWu6Hpc118",
+      "idx": 2,
+      "sent_ids": [
+        "TGWu6Hpc118:s0005",
+        "TGWu6Hpc118:s0006"
+      ],
+      "start_s": 18.582,
+      "end_s": 23.484,
+      "text": "That night, the police put his face on the 11 o'clock news. Just after midnight, they were knocking on his door.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.03863201663201663
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0003",
+      "video_id": "TGWu6Hpc118",
+      "idx": 3,
+      "sent_ids": [
+        "TGWu6Hpc118:s0007",
+        "TGWu6Hpc118:s0008",
+        "TGWu6Hpc118:s0009"
+      ],
+      "start_s": 23.604,
+      "end_s": 31.466,
+      "text": "When they showed him the surveillance footage, the look on his face wasn't anger and it wasn't guilt. It was pure confusion. He looked at the officers and said, but I wore the juice.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.04907276507276507
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0004",
+      "video_id": "TGWu6Hpc118",
+      "idx": 4,
+      "sent_ids": [
+        "TGWu6Hpc118:s0010",
+        "TGWu6Hpc118:s0011",
+        "TGWu6Hpc118:s0012"
+      ],
+      "start_s": 31.726,
+      "end_s": 37.87,
+      "text": "In his mind, the juice hadn't failed him. Something else must have gone wrong. Wheeler knew that lemon juice works as invisible ink.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.06595841995841996
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0005",
+      "video_id": "TGWu6Hpc118",
+      "idx": 5,
+      "sent_ids": [
+        "TGWu6Hpc118:s0013",
+        "TGWu6Hpc118:s0014"
+      ],
+      "start_s": 38.15,
+      "end_s": 47.019,
+      "text": "You can write with it on paper, and the words stay hidden until someone holds the page over a flame. So he reasoned that if he coated his face in the stuff, the cameras wouldn't be able to see him either.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.0793139293139293
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0006",
+      "video_id": "TGWu6Hpc118",
+      "idx": 6,
+      "sent_ids": [
+        "TGWu6Hpc118:s0015",
+        "TGWu6Hpc118:s0016",
+        "TGWu6Hpc118:s0017"
+      ],
+      "start_s": 47.199,
+      "end_s": 54.987,
+      "text": "And he didn't just assume it, he tested it. He smeared on the juice and snapped a photo of himself with a Polaroid, and the picture came out blank. Probably because he fumbled the shot.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.09812681912681913
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0007",
+      "video_id": "TGWu6Hpc118",
+      "idx": 7,
+      "sent_ids": [
+        "TGWu6Hpc118:s0018",
+        "TGWu6Hpc118:s0019",
+        "TGWu6Hpc118:s0020"
+      ],
+      "start_s": 55.147,
+      "end_s": 60.931,
+      "text": "But to Wheeler, that blank photo wasn't a mistake. It was proof. He wasn't drunk and he wasn't delusional in any medical sense.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.11465072765072765
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0008",
+      "video_id": "TGWu6Hpc118",
+      "idx": 8,
+      "sent_ids": [
+        "TGWu6Hpc118:s0021",
+        "TGWu6Hpc118:s0022"
+      ],
+      "start_s": 61.211,
+      "end_s": 66.314,
+      "text": "He'd formed a theory, tested it, and watched the test agree with him. That is the part that should bother you.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.12725779625779626
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0009",
+      "video_id": "TGWu6Hpc118",
+      "idx": 9,
+      "sent_ids": [
+        "TGWu6Hpc118:s0023",
+        "TGWu6Hpc118:s0024"
+      ],
+      "start_s": 66.414,
+      "end_s": 80.321,
+      "text": "Because a psychologist at Cornell named David Dunning later came across Wheeler's story, and one question lodged itself in his brain and wouldn't leave. If Wheeler was too stupid to rob a bank, Was he also too stupid to know that he was too stupid to rob a bank?",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.13807484407484408
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0010",
+      "video_id": "TGWu6Hpc118",
+      "idx": 10,
+      "sent_ids": [
+        "TGWu6Hpc118:s0025",
+        "TGWu6Hpc118:s0026"
+      ],
+      "start_s": 80.661,
+      "end_s": 90.403,
+      "text": "The exact skill Wheeler was missing, the one that would have told him his plan was insane, was the same skill he needed to notice he was missing it. His incompetence came with a second floor underneath it.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.1676943866943867
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0011",
+      "video_id": "TGWu6Hpc118",
+      "idx": 11,
+      "sent_ids": [
+        "TGWu6Hpc118:s0027",
+        "TGWu6Hpc118:s0028"
+      ],
+      "start_s": 90.603,
+      "end_s": 98.665,
+      "text": "It didn't only make him bad at the job, it reached back up and blinded him to the fact that he was bad at the job. Dunning took that idea to a graduate student named Justin Kruger.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.18836382536382534
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0012",
+      "video_id": "TGWu6Hpc118",
+      "idx": 12,
+      "sent_ids": [
+        "TGWu6Hpc118:s0029",
+        "TGWu6Hpc118:s0030",
+        "TGWu6Hpc118:s0031"
+      ],
+      "start_s": 98.925,
+      "end_s": 108.211,
+      "text": "And in 1999, they ran the study that gave Wheeler's problem a name. They pulled in students and tested them on three ordinary things. Grammar, logic, and whether they could tell what was actually funny.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.20566528066528067
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0013",
+      "video_id": "TGWu6Hpc118",
+      "idx": 13,
+      "sent_ids": [
+        "TGWu6Hpc118:s0032",
+        "TGWu6Hpc118:s0033",
+        "TGWu6Hpc118:s0034"
+      ],
+      "start_s": 108.491,
+      "end_s": 113.934,
+      "text": "Then they asked each student two questions. How do you think you did? And how do you think you did compared to everyone else in the room?",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.22555301455301455
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0014",
+      "video_id": "TGWu6Hpc118",
+      "idx": 14,
+      "sent_ids": [
+        "TGWu6Hpc118:s0035",
+        "TGWu6Hpc118:s0036"
+      ],
+      "start_s": 114.114,
+      "end_s": 123.336,
+      "text": "The students who scored at the bottom, down around the 12th percentile, guessed they had landed around the 62nd. The people down at the very bottom didn't think they'd barely squeaked by.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.23724324324324325
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0015",
+      "video_id": "TGWu6Hpc118",
+      "idx": 15,
+      "sent_ids": [
+        "TGWu6Hpc118:s0037",
+        "TGWu6Hpc118:s0038"
+      ],
+      "start_s": 123.816,
+      "end_s": 129.338,
+      "text": "They were convinced they'd beaten roughly 2 out of every 3 people in the room. And here is the engine underneath it.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.25741372141372143
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0016",
+      "video_id": "TGWu6Hpc118",
+      "idx": 16,
+      "sent_ids": [
+        "TGWu6Hpc118:s0039",
+        "TGWu6Hpc118:s0040"
+      ],
+      "start_s": 129.678,
+      "end_s": 136.579,
+      "text": "To know that your answer is wrong, you first have to know what a right answer looks like. But if you knew that, you would have given the right answer in the first place.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.2696008316008316
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0017",
+      "video_id": "TGWu6Hpc118",
+      "idx": 17,
+      "sent_ids": [
+        "TGWu6Hpc118:s0041",
+        "TGWu6Hpc118:s0042"
+      ],
+      "start_s": 137.119,
+      "end_s": 143.641,
+      "text": "The tool you'd reach for to catch the mistake is the same tool that made the mistake. You cannot use a broken ruler to measure how bent it is.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.2850706860706861
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0018",
+      "video_id": "TGWu6Hpc118",
+      "idx": 18,
+      "sent_ids": [
+        "TGWu6Hpc118:s0043",
+        "TGWu6Hpc118:s0044"
+      ],
+      "start_s": 144.121,
+      "end_s": 150.864,
+      "text": "Now, right about now, your brain is doing a very specific thing. It's quietly saying, sure, but I'm not the guy with juice on his face, I would know.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.2996278586278586
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0019",
+      "video_id": "TGWu6Hpc118",
+      "idx": 19,
+      "sent_ids": [
+        "TGWu6Hpc118:s0045",
+        "TGWu6Hpc118:s0046",
+        "TGWu6Hpc118:s0047",
+        "TGWu6Hpc118:s0048"
+      ],
+      "start_s": 151.325,
+      "end_s": 159.869,
+      "text": "That reflex, that little pulse of reassurance you just felt, is the whole trap closing around you. So let's try to get you out of it. Let's take the obvious exit first. You test yourself.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.31460498960498956
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0020",
+      "video_id": "TGWu6Hpc118",
+      "idx": 20,
+      "sent_ids": [
+        "TGWu6Hpc118:s0049",
+        "TGWu6Hpc118:s0050"
+      ],
+      "start_s": 160.169,
+      "end_s": 167.813,
+      "text": "You look inward, as honestly as you can, and you ask, am I actually good at this? But that's the exact move Wheeler made with his Polaroid.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.332991683991684
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0021",
+      "video_id": "TGWu6Hpc118",
+      "idx": 21,
+      "sent_ids": [
+        "TGWu6Hpc118:s0051",
+        "TGWu6Hpc118:s0052"
+      ],
+      "start_s": 168.153,
+      "end_s": 176.02,
+      "text": "He ran a test, it told him exactly what he wanted to hear, and he trusted it without a second thought. He never once stopped to ask whether the instrument giving him the answer could be trusted.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.3495904365904366
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0022",
+      "video_id": "TGWu6Hpc118",
+      "idx": 22,
+      "sent_ids": [
+        "TGWu6Hpc118:s0053",
+        "TGWu6Hpc118:s0054"
+      ],
+      "start_s": 176.401,
+      "end_s": 184.253,
+      "text": "Here's the same problem, wearing your face this time. Ask a room full of people whether they're better than average drivers, and in study after study, around 93% of them raise their hand.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.36673804573804575
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0023",
+      "video_id": "TGWu6Hpc118",
+      "idx": 23,
+      "sent_ids": [
+        "TGWu6Hpc118:s0055",
+        "TGWu6Hpc118:s0056",
+        "TGWu6Hpc118:s0057"
+      ],
+      "start_s": 184.273,
+      "end_s": 193.643,
+      "text": "93% cannot be above the middle. That's not an opinion, that's just what the word average means. Every single one of those people ran the honest self-check.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.3831039501039501
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0024",
+      "video_id": "TGWu6Hpc118",
+      "idx": 24,
+      "sent_ids": [
+        "TGWu6Hpc118:s0058",
+        "TGWu6Hpc118:s0059",
+        "TGWu6Hpc118:s0060"
+      ],
+      "start_s": 193.903,
+      "end_s": 200.927,
+      "text": "They turned inward, asked the question, and got back a warm, confident yes. That yes felt like information. It wasn't.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.4031247401247401
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0025",
+      "video_id": "TGWu6Hpc118",
+      "idx": 25,
+      "sent_ids": [
+        "TGWu6Hpc118:s0061",
+        "TGWu6Hpc118:s0062"
+      ],
+      "start_s": 201.307,
+      "end_s": 211.333,
+      "text": "It was the same warm, confident yes that Wheeler felt standing in the lobby of that bank. The feeling of being right is manufactured by the exact faculty you're trying to measure.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.4185176715176715
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0026",
+      "video_id": "TGWu6Hpc118",
+      "idx": 26,
+      "sent_ids": [
+        "TGWu6Hpc118:s0063",
+        "TGWu6Hpc118:s0064",
+        "TGWu6Hpc118:s0065",
+        "TGWu6Hpc118:s0066"
+      ],
+      "start_s": 211.594,
+      "end_s": 216.636,
+      "text": "So it can't be your evidence. Fine, you think. Then I'll stop trusting my own head. I'll ask other people.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.4399043659043659
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0027",
+      "video_id": "TGWu6Hpc118",
+      "idx": 27,
+      "sent_ids": [
+        "TGWu6Hpc118:s0067",
+        "TGWu6Hpc118:s0068",
+        "TGWu6Hpc118:s0069",
+        "TGWu6Hpc118:s0070"
+      ],
+      "start_s": 216.897,
+      "end_s": 223.68,
+      "text": "Good instinct. It also fails, and it fails in a sneaky way. Because you choose who to ask. You decide whose opinion counts and who's to wave off.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.4509293139293139
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0028",
+      "video_id": "TGWu6Hpc118",
+      "idx": 28,
+      "sent_ids": [
+        "TGWu6Hpc118:s0071",
+        "TGWu6Hpc118:s0072",
+        "TGWu6Hpc118:s0073"
+      ],
+      "start_s": 224.06,
+      "end_s": 232.605,
+      "text": "And you make those calls with the same judgment that's under suspicion in the first place. The incompetent don't just overrate themselves. They also can't reliably spot competence in anyone else.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.46582120582120584
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0029",
+      "video_id": "TGWu6Hpc118",
+      "idx": 29,
+      "sent_ids": [
+        "TGWu6Hpc118:s0074",
+        "TGWu6Hpc118:s0075"
+      ],
+      "start_s": 232.985,
+      "end_s": 240.949,
+      "text": "Which means they tend to dismiss the very people who could set them straight, and not along with the ones who sound as sure as they feel. So the crowd doesn't save you.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.4843762993762994
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0030",
+      "video_id": "TGWu6Hpc118",
+      "idx": 30,
+      "sent_ids": [
+        "TGWu6Hpc118:s0076",
+        "TGWu6Hpc118:s0077",
+        "TGWu6Hpc118:s0078"
+      ],
+      "start_s": 241.209,
+      "end_s": 247.876,
+      "text": "You just pick the crowd that agrees. And it gets stranger, because the effect is strongest exactly where you'd least expect it. Take humor.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.5014740124740125
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0031",
+      "video_id": "TGWu6Hpc118",
+      "idx": 31,
+      "sent_ids": [
+        "TGWu6Hpc118:s0079",
+        "TGWu6Hpc118:s0080"
+      ],
+      "start_s": 248.077,
+      "end_s": 256.507,
+      "text": "The people in that study who were worst at telling what was funny were the most convinced they had excellent taste. Judging a joke and understanding a joke run on the same wiring.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.5157525987525987
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0032",
+      "video_id": "TGWu6Hpc118",
+      "idx": 32,
+      "sent_ids": [
+        "TGWu6Hpc118:s0081",
+        "TGWu6Hpc118:s0082",
+        "TGWu6Hpc118:s0083"
+      ],
+      "start_s": 256.768,
+      "end_s": 265.737,
+      "text": "So, when that wiring is off, it's off in both directions at once. You're not only bad at it, you're the last person who'd ever find out. Now the floor really drops.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.5338212058212057
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0033",
+      "video_id": "TGWu6Hpc118",
+      "idx": 33,
+      "sent_ids": [
+        "TGWu6Hpc118:s0084",
+        "TGWu6Hpc118:s0085",
+        "TGWu6Hpc118:s0086"
+      ],
+      "start_s": 266.077,
+      "end_s": 276.766,
+      "text": "Go back to the same study and look at the top instead of the bottom. The students who actually scored the highest, up around the 86th percentile, did the opposite thing. They underrated themselves.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.5531746361746361
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0034",
+      "video_id": "TGWu6Hpc118",
+      "idx": 34,
+      "sent_ids": [
+        "TGWu6Hpc118:s0087",
+        "TGWu6Hpc118:s0088",
+        "TGWu6Hpc118:s0089"
+      ],
+      "start_s": 277.106,
+      "end_s": 286.014,
+      "text": "They guessed they'd done worse than they had. Their reasoning was simple and quietly devastating. The test felt easy to them, so they assumed it felt easy for everyone and that they were nothing special.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.5761039501039501
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0035",
+      "video_id": "TGWu6Hpc118",
+      "idx": 35,
+      "sent_ids": [
+        "TGWu6Hpc118:s0090",
+        "TGWu6Hpc118:s0091"
+      ],
+      "start_s": 286.354,
+      "end_s": 292.383,
+      "text": "Real skill hands you a clear view of how much you still don't know, and that view is humbling. It tends to lower the volume on your confidence.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.5953305613305613
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0036",
+      "video_id": "TGWu6Hpc118",
+      "idx": 36,
+      "sent_ids": [
+        "TGWu6Hpc118:s0092",
+        "TGWu6Hpc118:s0093"
+      ],
+      "start_s": 292.643,
+      "end_s": 301.436,
+      "text": "So certainty turns out to be a terrible guide. The people with the least ability are often the least aware that anything is off, because from where they stand, the gaps are invisible.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.6084054054054053
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0037",
+      "video_id": "TGWu6Hpc118",
+      "idx": 37,
+      "sent_ids": [
+        "TGWu6Hpc118:s0094",
+        "TGWu6Hpc118:s0095"
+      ],
+      "start_s": 301.856,
+      "end_s": 309.878,
+      "text": "And the ones who genuinely know a subject tend to feel, most sharply of all, how much of it still escapes them. Which means you just lost your last instrument.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.6275592515592515
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0038",
+      "video_id": "TGWu6Hpc118",
+      "idx": 38,
+      "sent_ids": [
+        "TGWu6Hpc118:s0096",
+        "TGWu6Hpc118:s0097",
+        "TGWu6Hpc118:s0098"
+      ],
+      "start_s": 310.218,
+      "end_s": 319.381,
+      "text": "You can't trust the quiet voice that says you're bad, and you really can't trust the loud one that says you're great. And none of this stays politely inside your own skull. People trust certainty.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.644943866943867
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0039",
+      "video_id": "TGWu6Hpc118",
+      "idx": 39,
+      "sent_ids": [
+        "TGWu6Hpc118:s0099",
+        "TGWu6Hpc118:s0100"
+      ],
+      "start_s": 319.621,
+      "end_s": 333.707,
+      "text": "Put two people in a disagreement, let one speak in total confidence while the other adds careful qualifications, and a room will side with the confident one almost every time. So the person with the least accurate picture of their own ability is very often the most persuasive one in the building.",
+      "n_words": 52,
+      "n_sentences": 2,
+      "pos_pct": 0.6644927234927235
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0040",
+      "video_id": "TGWu6Hpc118",
+      "idx": 40,
+      "sent_ids": [
+        "TGWu6Hpc118:s0101",
+        "TGWu6Hpc118:s0102"
+      ],
+      "start_s": 333.847,
+      "end_s": 347.817,
+      "text": "They get the promotion, the microphone ends up in their hands, and the room, more often than not, believes them. And the genuine expert, hedging honestly because they can see the whole messy picture, comes across as weak and unsure by comparison.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.6940686070686071
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0041",
+      "video_id": "TGWu6Hpc118",
+      "idx": 41,
+      "sent_ids": [
+        "TGWu6Hpc118:s0103",
+        "TGWu6Hpc118:s0104"
+      ],
+      "start_s": 348.117,
+      "end_s": 363.08,
+      "text": "Somewhere right now, someone is being confidently, comfortably wrong about something that touches your life, and the very thing that makes them wrong is the thing making them sound right. Maybe you just pictured a specific face, a boss, a relative, someone with a very loud opinion.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.7237359667359667
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0042",
+      "video_id": "TGWu6Hpc118",
+      "idx": 42,
+      "sent_ids": [
+        "TGWu6Hpc118:s0105",
+        "TGWu6Hpc118:s0106",
+        "TGWu6Hpc118:s0107"
+      ],
+      "start_s": 363.32,
+      "end_s": 373.582,
+      "text": "Here's the uncomfortable turn. From the inside of your own head, being wrong feels precisely the same as being right. It feels certain and reasonable and completely obvious.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.7553430353430354
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0043",
+      "video_id": "TGWu6Hpc118",
+      "idx": 43,
+      "sent_ids": [
+        "TGWu6Hpc118:s0108",
+        "TGWu6Hpc118:s0109"
+      ],
+      "start_s": 373.822,
+      "end_s": 382.288,
+      "text": "which means you have no way, from in here, to be sure that the loud, confidently wrong person in someone else's story isn't you. So look at where we are.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.7771767151767152
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0044",
+      "video_id": "TGWu6Hpc118",
+      "idx": 44,
+      "sent_ids": [
+        "TGWu6Hpc118:s0110",
+        "TGWu6Hpc118:s0111"
+      ],
+      "start_s": 382.688,
+      "end_s": 391.495,
+      "text": "You can't test yourself, because the tester is the very thing on trial. Trusting the feeling of being right is no better, since that feeling is exactly what Wheeler had in the lobby.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.7956091476091476
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0045",
+      "video_id": "TGWu6Hpc118",
+      "idx": 45,
+      "sent_ids": [
+        "TGWu6Hpc118:s0112",
+        "TGWu6Hpc118:s0113"
+      ],
+      "start_s": 391.955,
+      "end_s": 406.977,
+      "text": "The crowd won't rescue you because you're the one choosing whose voice in it counts, and your own confidence is close to useless because how sure you feel and whether you're right barely line up. Every exit is closed, except one, and it's the one you've been feeling this entire time.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.8148752598752599
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0046",
+      "video_id": "TGWu6Hpc118",
+      "idx": 46,
+      "sent_ids": [
+        "TGWu6Hpc118:s0114",
+        "TGWu6Hpc118:s0115",
+        "TGWu6Hpc118:s0116"
+      ],
+      "start_s": 407.277,
+      "end_s": 415.482,
+      "text": "If any part of this made you uneasy, if at some point a small voice went, wait, what if it's me? Then stop and notice that voice. Because Wheeler never heard it.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.8467297297297297
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0047",
+      "video_id": "TGWu6Hpc118",
+      "idx": 47,
+      "sent_ids": [
+        "TGWu6Hpc118:s0117",
+        "TGWu6Hpc118:s0118",
+        "TGWu6Hpc118:s0119",
+        "TGWu6Hpc118:s0120"
+      ],
+      "start_s": 415.642,
+      "end_s": 424.107,
+      "text": "The students at the bottom never heard it. That's the whole reason they were stuck. That question simply never arrived for them. So here's the one signal that still works.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.8641205821205821
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0048",
+      "video_id": "TGWu6Hpc118",
+      "idx": 48,
+      "sent_ids": [
+        "TGWu6Hpc118:s0121",
+        "TGWu6Hpc118:s0122",
+        "TGWu6Hpc118:s0123"
+      ],
+      "start_s": 424.527,
+      "end_s": 434.433,
+      "text": "Worrying that you might be the fool is something a real fool never does. The moment you can ask that question honestly, you're already better off than Wheeler ever was. That worry isn't a weakness.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.8825925155925156
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0049",
+      "video_id": "TGWu6Hpc118",
+      "idx": 49,
+      "sent_ids": [
+        "TGWu6Hpc118:s0124",
+        "TGWu6Hpc118:s0125",
+        "TGWu6Hpc118:s0126",
+        "TGWu6Hpc118:s0127"
+      ],
+      "start_s": 434.713,
+      "end_s": 445.079,
+      "text": "It's the alarm doing its job. It will never prove you're smart. Nothing can. But staying willing to ask, again and again, especially when the answer might sting, is the only real protection anyone has.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.9037692307692308
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0050",
+      "video_id": "TGWu6Hpc118",
+      "idx": 50,
+      "sent_ids": [
+        "TGWu6Hpc118:s0128",
+        "TGWu6Hpc118:s0129"
+      ],
+      "start_s": 445.359,
+      "end_s": 449.422,
+      "text": "And asking isn't something you do alone inside your head. That's the broken ruler again.",
+      "n_words": 15,
+      "n_sentences": 2,
+      "pos_pct": 0.9259022869022868
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0051",
+      "video_id": "TGWu6Hpc118",
+      "idx": 51,
+      "sent_ids": [
+        "TGWu6Hpc118:s0130",
+        "TGWu6Hpc118:s0131"
+      ],
+      "start_s": 449.822,
+      "end_s": 458.788,
+      "text": "It means going to the one person whose opinion you'd normally wave off, and then hearing them all the way out. Socrates worked this out 24 centuries ago, and said it better than anyone since.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.9351808731808732
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0052",
+      "video_id": "TGWu6Hpc118",
+      "idx": 52,
+      "sent_ids": [
+        "TGWu6Hpc118:s0132",
+        "TGWu6Hpc118:s0133"
+      ],
+      "start_s": 459.049,
+      "end_s": 466.614,
+      "text": "He claimed he was wiser than everyone around him for one reason. Not because he knew more than they did, but because he was the only one who understood how little he actually knew.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.9543638253638254
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0053",
+      "video_id": "TGWu6Hpc118",
+      "idx": 53,
+      "sent_ids": [
+        "TGWu6Hpc118:s0134",
+        "TGWu6Hpc118:s0135",
+        "TGWu6Hpc118:s0136"
+      ],
+      "start_s": 466.774,
+      "end_s": 475.12,
+      "text": "Wheeler covered his face in juice and felt completely safe. You're sitting here uneasy, turning the question over, wondering if the joke might be on you. He was certain and he was wrong.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.9704241164241164
+    },
+    {
+      "window_id": "TGWu6Hpc118:j0054",
+      "video_id": "TGWu6Hpc118",
+      "idx": 54,
+      "sent_ids": [
+        "TGWu6Hpc118:s0137",
+        "TGWu6Hpc118:s0138",
+        "TGWu6Hpc118:s0139"
+      ],
+      "start_s": 475.24,
+      "end_s": 479.707,
+      "text": "you're unsure and that is exactly the right place to be. So keep asking. That's the whole answer.",
+      "n_words": 18,
+      "n_sentences": 3,
+      "pos_pct": 0.988024948024948
+    }
+  ]
+}

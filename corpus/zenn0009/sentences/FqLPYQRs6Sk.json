@@ -1,0 +1,1240 @@
+{
+  "video_id": "FqLPYQRs6Sk",
+  "duration_s": 483.0,
+  "generated_at": "2026-09-04T02:59:40.780767+00:00",
+  "sentences": [
+    {
+      "sent_id": "FqLPYQRs6Sk:s0000",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 0,
+      "start_s": 0.0,
+      "end_s": 7.48,
+      "text": "A man built 45 versions of the same spaghetti sauce, each one slightly different.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0001",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 1,
+      "start_s": 3.92,
+      "end_s": 9.8,
+      "text": "A little more sugar, a little more salt, maybe a little thicker.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0002",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 2,
+      "start_s": 5.64,
+      "end_s": 12.120000000000001,
+      "text": "He was not a chef.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0003",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 3,
+      "start_s": 7.48,
+      "end_s": 18.28,
+      "text": "He was a scientist, and he was paid to find one specific number, the exact point where your brain can no longer say no.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0004",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 4,
+      "start_s": 14.2,
+      "end_s": 22.8,
+      "text": "He found it, and it has been built into almost everything you eat today.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0005",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 5,
+      "start_s": 18.28,
+      "end_s": 24.64,
+      "text": "That man was Howard Moskowitz.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0006",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 6,
+      "start_s": 20.24,
+      "end_s": 27.48,
+      "text": "In nature, food is usually one thing or the other.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0007",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 7,
+      "start_s": 22.8,
+      "end_s": 29.76,
+      "text": "An apple is sweet, but it has almost no fat.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0008",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 8,
+      "start_s": 24.64,
+      "end_s": 33.24,
+      "text": "A steak is rich with fat, but there is no sugar in a steak.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0009",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 9,
+      "start_s": 29.76,
+      "end_s": 41.4,
+      "text": "Almost nothing in the natural world combines high fat and high sugar at the same moment, except one thing, breast milk, the very first thing you were ever built to want.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0010",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 10,
+      "start_s": 37.76,
+      "end_s": 45.56,
+      "text": "So, when you bite into a donut, your brain reads it as the richest food on Earth.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0011",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 11,
+      "start_s": 41.4,
+      "end_s": 49.68,
+      "text": "Fat and sugar together, the same signal as breast milk.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0012",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 12,
+      "start_s": 45.56,
+      "end_s": 51.839999999999996,
+      "text": "That signal always meant one thing, eat as much as you can.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0013",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 13,
+      "start_s": 47.48,
+      "end_s": 53.519999999999996,
+      "text": "In nature, that was safe.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0014",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 14,
+      "start_s": 49.68,
+      "end_s": 57.88,
+      "text": "Fat and sugar were so rare, you could never get too much.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0015",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 15,
+      "start_s": 53.52,
+      "end_s": 60.36,
+      "text": "So, your brain never built an off switch.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0016",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 16,
+      "start_s": 56.0,
+      "end_s": 62.760000000000005,
+      "text": "Then someone figured out how to exploit exactly that.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0017",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 17,
+      "start_s": 57.88,
+      "end_s": 64.76,
+      "text": "That someone was Moskowitz.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0018",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 18,
+      "start_s": 60.36,
+      "end_s": 68.56,
+      "text": "He had a Harvard PhD in psychophysics, the science of how human cravings actually work.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0019",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 19,
+      "start_s": 64.76,
+      "end_s": 70.44000000000001,
+      "text": "He had already proven it with sugar.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0020",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 20,
+      "start_s": 66.76,
+      "end_s": 72.32000000000001,
+      "text": "For every person, there is a perfect amount.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0021",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 21,
+      "start_s": 68.56,
+      "end_s": 74.72,
+      "text": "If it's too little, you crave more.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0022",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 22,
+      "start_s": 70.44,
+      "end_s": 77.6,
+      "text": "If it's too much, you stop enjoying it.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0023",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 23,
+      "start_s": 72.32,
+      "end_s": 81.6,
+      "text": "But right at the peak, at that one exact amount, you keep going back for more.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0024",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 24,
+      "start_s": 77.6,
+      "end_s": 83.56,
+      "text": "He called it the bliss point.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0025",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 25,
+      "start_s": 79.68,
+      "end_s": 85.19999999999999,
+      "text": "His insight was insultingly simple.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0026",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 26,
+      "start_s": 81.6,
+      "end_s": 87.12,
+      "text": "If you ask people what they want, they lie.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0027",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 27,
+      "start_s": 83.56,
+      "end_s": 91.32000000000001,
+      "text": "Not necessarily on purpose, they just simply don't know.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0028",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 28,
+      "start_s": 87.12,
+      "end_s": 93.08,
+      "text": "So, he stopped asking and started measuring.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0029",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 29,
+      "start_s": 88.96,
+      "end_s": 99.64,
+      "text": "In the 1980s, a giant food company named Campbell's brought him in to save a failing pasta sauce called Prego.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0030",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 30,
+      "start_s": 95.0,
+      "end_s": 105.96000000000001,
+      "text": "Food companies had always looked for one perfect recipe, the exact sweetness, thickness, spice, and chunkiness that everyone would love.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0031",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 31,
+      "start_s": 102.12,
+      "end_s": 108.52,
+      "text": "So, Moskowitz went looking for it.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0032",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 32,
+      "start_s": 103.88,
+      "end_s": 113.91999999999999,
+      "text": "He made 45 versions of the Prego pasta sauce, fed them to thousands of people, and asked how much they liked each one.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0033",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 33,
+      "start_s": 110.32,
+      "end_s": 115.84,
+      "text": "What he found was striking.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0034",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 34,
+      "start_s": 112.04,
+      "end_s": 120.04,
+      "text": "People didn't share one bliss point, they split into clusters.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0035",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 35,
+      "start_s": 115.84,
+      "end_s": 121.88,
+      "text": "Some wanted it plain, some wanted it spicy.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0036",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 36,
+      "start_s": 117.88,
+      "end_s": 129.2,
+      "text": "A whole group nobody in the industry had even known existed wanted it extra chunky, which meant a company didn't have to find the one perfect product.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0037",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 37,
+      "start_s": 125.28,
+      "end_s": 133.83999999999997,
+      "text": "They could engineer a product line, not one perfect sauce, a whole family of them, each one built to hook a different kind of person.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0038",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 38,
+      "start_s": 130.92,
+      "end_s": 142.67999999999998,
+      "text": "That single insight is the reason your supermarket has 40 kinds of pasta sauce, 18 kinds of mustard, an entire aisle of breakfast cereal.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0039",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 39,
+      "start_s": 138.76,
+      "end_s": 144.35999999999999,
+      "text": "The food you love didn't taste that good by accident.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0040",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 40,
+      "start_s": 142.68,
+      "end_s": 149.04000000000002,
+      "text": "Someone designed it that way on purpose with a clipboard and a budget.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0041",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 41,
+      "start_s": 144.36,
+      "end_s": 152.56,
+      "text": "The chunky sauce alone made $600 million, but the bliss point was the easy part.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0042",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 42,
+      "start_s": 151.0,
+      "end_s": 156.52,
+      "text": "The harder problem was making sure you never put the bag down.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0043",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 43,
+      "start_s": 152.56,
+      "end_s": 158.04000000000002,
+      "text": "Take a Cheeto, for example.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0044",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 44,
+      "start_s": 154.68,
+      "end_s": 162.84,
+      "text": "It's engineered to dissolve almost the instant it touches your mouth.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0045",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 45,
+      "start_s": 158.04,
+      "end_s": 165.04,
+      "text": "Someone spent real money getting it to disappear that fast, on purpose.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0046",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 46,
+      "start_s": 160.48,
+      "end_s": 169.07999999999998,
+      "text": "A food scientist named Steven Witherly studied this and gave it a name.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0047",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 47,
+      "start_s": 165.04,
+      "end_s": 174.6,
+      "text": "He called it vanishing caloric density, a fancy way of saying the food erases itself before your brain even notices.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0048",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 48,
+      "start_s": 173.16,
+      "end_s": 183.4,
+      "text": "When a food disappears in your mouth that fast, your brain quietly concludes you didn't eat anything, so it never tells you to slow down.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0049",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 49,
+      "start_s": 179.28,
+      "end_s": 185.48,
+      "text": "You are eating, your brain doesn't believe you are.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0050",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 50,
+      "start_s": 181.56,
+      "end_s": 189.07999999999998,
+      "text": "You can finish an entire bag and your brain still thinks the bag is full.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0051",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 51,
+      "start_s": 185.48,
+      "end_s": 195.48000000000002,
+      "text": "The food kept erasing the evidence on the way down, but the vanishing calories were only the surface.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0052",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 52,
+      "start_s": 190.8,
+      "end_s": 197.28,
+      "text": "The food races a clock inside your body and it wins every time.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0053",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 53,
+      "start_s": 195.48,
+      "end_s": 198.64,
+      "text": "Your stomach has a delay.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0054",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 54,
+      "start_s": 195.48,
+      "end_s": 202.11999999999998,
+      "text": "It takes about 20 minutes to tell your brain that you've eaten.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0055",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 55,
+      "start_s": 198.64,
+      "end_s": 204.44,
+      "text": "The food does not have a delay.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0056",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 56,
+      "start_s": 200.12,
+      "end_s": 206.32,
+      "text": "In nature, this gap didn't matter.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0057",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 57,
+      "start_s": 202.12,
+      "end_s": 206.32,
+      "text": "Real food was slow to eat.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0058",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 58,
+      "start_s": 202.12,
+      "end_s": 208.28,
+      "text": "You had to chew it, break it down.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0059",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 59,
+      "start_s": 204.44,
+      "end_s": 212.88,
+      "text": "By the time your stomach signal arrived, you'd eaten what you needed.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0060",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 60,
+      "start_s": 208.28,
+      "end_s": 215.4,
+      "text": "Junk food was built to beat that clock.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0061",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 61,
+      "start_s": 210.16,
+      "end_s": 223.44,
+      "text": "Soft, easy to swallow, almost no chewing, which means inside the 20-minute window your body takes to say stop, you've already eaten a thousand calories.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0062",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 62,
+      "start_s": 219.56,
+      "end_s": 225.239,
+      "text": "You can't trust how full you feel.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0063",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 63,
+      "start_s": 221.6,
+      "end_s": 226.92,
+      "text": "You can't even trust how hungry you are.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0064",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 64,
+      "start_s": 223.44,
+      "end_s": 228.48000000000002,
+      "text": "But the worst part is still coming.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0065",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 65,
+      "start_s": 225.239,
+      "end_s": 233.39999999999998,
+      "text": "A group of scientists wanted to know what junk food does to your brain over time.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0066",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 66,
+      "start_s": 228.48,
+      "end_s": 233.39999999999998,
+      "text": "So they",
+      "n_words": 2
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0067",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 67,
+      "start_s": 228.48,
+      "end_s": 235.6,
+      "text": "They a study on 150 healthy teenagers.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0068",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 68,
+      "start_s": 230.239,
+      "end_s": 239.64,
+      "text": "First, the scientists asked each teenager one simple question.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0069",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 69,
+      "start_s": 235.6,
+      "end_s": 241.8,
+      "text": "How often do you eat ice cream?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0070",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 70,
+      "start_s": 237.52,
+      "end_s": 245.24,
+      "text": "Then, one by one, each teenager was laid flat inside a brain scanner.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0071",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 71,
+      "start_s": 241.8,
+      "end_s": 249.56,
+      "text": "A tube fed a milkshake into their mouth while the machine watched their brain react.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0072",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 72,
+      "start_s": 245.24,
+      "end_s": 253.0,
+      "text": "The milkshake lit up the reward center in every single one of them.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0073",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 73,
+      "start_s": 249.56,
+      "end_s": 254.92,
+      "text": "The part of the brain that says, \"That was good.\"",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0074",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 74,
+      "start_s": 251.32,
+      "end_s": 258.32,
+      "text": "And when they matched the answers to the scans, they found something they weren't expecting.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0075",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 75,
+      "start_s": 254.92,
+      "end_s": 261.519,
+      "text": "The ones who ate ice cream most often had the weakest reaction to it.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0076",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 76,
+      "start_s": 258.32,
+      "end_s": 264.84000000000003,
+      "text": "The same milkshake that lit up everyone else barely registered.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0077",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 77,
+      "start_s": 261.519,
+      "end_s": 266.24,
+      "text": "And it had nothing to do with weight.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0078",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 78,
+      "start_s": 263.08,
+      "end_s": 267.88,
+      "text": "All of them were at a healthy weight.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0079",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 79,
+      "start_s": 264.84,
+      "end_s": 271.28,
+      "text": "The only thing that predicted a weaker reaction was how often they ate the stuff.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0080",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 80,
+      "start_s": 267.88,
+      "end_s": 274.59999999999997,
+      "text": "The scientists had a word for what they were seeing, tolerance.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0081",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 81,
+      "start_s": 271.28,
+      "end_s": 279.16,
+      "text": "The same thing that happens in the brain of someone addicted to a drug.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0082",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 82,
+      "start_s": 274.6,
+      "end_s": 279.16,
+      "text": "The first hit is the strongest.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0083",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 83,
+      "start_s": 276.8,
+      "end_s": 285.28,
+      "text": "After that, your brain turns itself down and you need more and more just to get back to where you started.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0084",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 84,
+      "start_s": 280.96,
+      "end_s": 287.28,
+      "text": "You chase the feeling and the feeling keeps shrinking.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0085",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 85,
+      "start_s": 285.28,
+      "end_s": 291.59999999999997,
+      "text": "The more of it you eat, the less it gives you back.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0086",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 86,
+      "start_s": 287.28,
+      "end_s": 293.919,
+      "text": "And the less it gives you, the more you reach for it.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0087",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 87,
+      "start_s": 289.2,
+      "end_s": 300.96,
+      "text": "All of this, the bliss point, the thousand calories you can't feel, the pleasure that keeps shrinking.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0088",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 88,
+      "start_s": 296.28,
+      "end_s": 303.56,
+      "text": "It was not built by chefs.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0089",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 89,
+      "start_s": 298.52,
+      "end_s": 305.4,
+      "text": "It was not even built by food companies acting alone.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0090",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 90,
+      "start_s": 300.96,
+      "end_s": 309.4,
+      "text": "In the 1980s, something happened that almost nobody noticed.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0091",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 91,
+      "start_s": 305.4,
+      "end_s": 311.32,
+      "text": "The tobacco industry bought the food industry.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0092",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 92,
+      "start_s": 307.44,
+      "end_s": 317.47999999999996,
+      "text": "The same companies that had spent decades engineering cigarette addiction quietly moved into the business of feeding you.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0093",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 93,
+      "start_s": 312.919,
+      "end_s": 322.36,
+      "text": "Philip Morris, the company behind Marlboro, paid nearly $13 billion for Kraft alone.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0094",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 94,
+      "start_s": 317.48,
+      "end_s": 332.56,
+      "text": "Over the years that followed, the tobacco industry came to own the makers of Oreos, Capri Sun, Lunchables, and dozens of the biggest brands on your shelf.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0095",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 95,
+      "start_s": 327.6,
+      "end_s": 338.76,
+      "text": "The same labs, the same chemists, the same strategy now aimed at food.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0096",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 96,
+      "start_s": 332.56,
+      "end_s": 340.56,
+      "text": "Then, in 1999, one of their own tried to stop it.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0097",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 97,
+      "start_s": 338.76,
+      "end_s": 345.96000000000004,
+      "text": "A senior Kraft executive called a private meeting with the heads of America's biggest food companies.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0098",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 98,
+      "start_s": 342.04,
+      "end_s": 356.8,
+      "text": "He laid the data out in front of them and told them to their faces that their products were driving an obesity epidemic and that they were about to be blamed for it the same way tobacco had just been blamed for cancer.",
+      "n_words": 43
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0099",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 99,
+      "start_s": 353.24,
+      "end_s": 358.68,
+      "text": "For a moment it looked like it might land.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0100",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 100,
+      "start_s": 356.8,
+      "end_s": 360.72,
+      "text": "Heads nodded.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0101",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 101,
+      "start_s": 356.8,
+      "end_s": 362.28000000000003,
+      "text": "Everyone in that room already knew the problem was real.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0102",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 102,
+      "start_s": 358.68,
+      "end_s": 365.32,
+      "text": "Then one of the most powerful men in the room stood up to answer him.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0103",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 103,
+      "start_s": 362.28,
+      "end_s": 374.44,
+      "text": "He said the companies were only giving people what they wanted, that nobody was forcing anyone to eat anything and that it was not their job to fix it.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0104",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 104,
+      "start_s": 369.6,
+      "end_s": 378.84,
+      "text": "The room went quiet and the moment passed and so together they decided to do nothing.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0105",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 105,
+      "start_s": 374.44,
+      "end_s": 380.919,
+      "text": "The warning was buried.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0106",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 106,
+      "start_s": 376.76,
+      "end_s": 382.79999999999995,
+      "text": "The recipes never changed.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0107",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 107,
+      "start_s": 378.84,
+      "end_s": 386.16,
+      "text": "For years what junk food was actually doing to people was almost impossible to prove.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0108",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 108,
+      "start_s": 382.8,
+      "end_s": 391.36,
+      "text": "You can't follow someone through their whole life weighing every bite they take.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0109",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 109,
+      "start_s": 386.16,
+      "end_s": 397.64,
+      "text": "So in 2019 a scientist named Kevin Hall at one of the most trusted medical labs in the world did the next best thing.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0110",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 110,
+      "start_s": 392.96,
+      "end_s": 399.72,
+      "text": "20 adults lived inside a lab for a month.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0111",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 111,
+      "start_s": 395.56,
+      "end_s": 402.24,
+      "text": "Every bite they ate was weighed and recorded.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0112",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 112,
+      "start_s": 399.72,
+      "end_s": 408.76,
+      "text": "For two weeks they were fed real whole food, roast beef, vegetables, fruit, rice.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0113",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 113,
+      "start_s": 405.2,
+      "end_s": 408.76,
+      "text": "Then the food was swapped.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0114",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 114,
+      "start_s": 405.2,
+      "end_s": 415.12,
+      "text": "For the next two weeks everything they were given was ultra-processed.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0115",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 115,
+      "start_s": 408.76,
+      "end_s": 417.12,
+      "text": "Cereal, frozen meals, chips, pop-tarts.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0116",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 116,
+      "start_s": 411.6,
+      "end_s": 419.16,
+      "text": "Nobody was put on a diet.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0117",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 117,
+      "start_s": 415.12,
+      "end_s": 430.68,
+      "text": "The whole time they could eat as much or as little as they wanted and the moment they were switched to the processed food they started eating more, about 500 calories more every single day.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0118",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 118,
+      "start_s": 426.0,
+      "end_s": 430.68,
+      "text": "They weren't hungrier.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0119",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 119,
+      "start_s": 428.36,
+      "end_s": 432.48,
+      "text": "They didn't decide to.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0120",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 120,
+      "start_s": 428.36,
+      "end_s": 432.48,
+      "text": "It just happened.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0121",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 121,
+      "start_s": 430.68,
+      "end_s": 436.56,
+      "text": "Two weeks on the processed food and they gained weight.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0122",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 122,
+      "start_s": 432.48,
+      "end_s": 440.4,
+      "text": "Then two weeks on the whole food the same people lost that weight.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0123",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 123,
+      "start_s": 436.56,
+      "end_s": 440.4,
+      "text": "Same people, same month.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0124",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 124,
+      "start_s": 436.56,
+      "end_s": 444.0,
+      "text": "The only thing that changed was the food in front of them.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0125",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 125,
+      "start_s": 440.4,
+      "end_s": 445.71999999999997,
+      "text": "It was the food doing exactly what it was built to do.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0126",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 126,
+      "start_s": 442.08,
+      "end_s": 447.76,
+      "text": "Your craving was never the flaw.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0127",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 127,
+      "start_s": 444.0,
+      "end_s": 453.56,
+      "text": "It is a survival system running exactly as designed in a world it was never designed for.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0128",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 128,
+      "start_s": 449.36,
+      "end_s": 459.919,
+      "text": "Then someone found the exact point where it breaks and one by one every defense you had was studied, beaten, and sold back to you.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0129",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 129,
+      "start_s": 455.96,
+      "end_s": 465.6,
+      "text": "You lose that fight several times a day and you've spent your whole life blaming yourself for it.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0130",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 130,
+      "start_s": 461.48,
+      "end_s": 467.2,
+      "text": "This was never a fair fight.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0131",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 131,
+      "start_s": 463.52,
+      "end_s": 471.28,
+      "text": "It was never meant to be one, but there is one thing the people who built this could never engineer.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0132",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 132,
+      "start_s": 467.2,
+      "end_s": 475.08,
+      "text": "A rigged game only works for as long as the person being played can't see it.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0133",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 133,
+      "start_s": 471.28,
+      "end_s": 476.68,
+      "text": "You can see it now.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0134",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 134,
+      "start_s": 473.24,
+      "end_s": 477.96,
+      "text": "You were never losing a battle against yourself.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0135",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 135,
+      "start_s": 475.08,
+      "end_s": 482.2,
+      "text": "You were just never told there was someone on the other side.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "FqLPYQRs6Sk:s0136",
+      "video_id": "FqLPYQRs6Sk",
+      "idx": 136,
+      "start_s": 477.96,
+      "end_s": 484.88,
+      "text": "What you do with that is yours to decide, and this time you'll be deciding it awake.",
+      "n_words": 17
+    }
+  ]
+}

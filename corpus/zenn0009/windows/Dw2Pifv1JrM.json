@@ -1,0 +1,861 @@
+{
+  "video_id": "Dw2Pifv1JrM",
+  "generated_at": "2026-09-04T03:00:43.120791+00:00",
+  "windows": [
+    {
+      "window_id": "Dw2Pifv1JrM:j0000",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 0,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0000",
+        "Dw2Pifv1JrM:s0001"
+      ],
+      "start_s": 0.0,
+      "end_s": 12.24,
+      "text": "At some point in your life, there's a good chance a surgeon will cut you open. You'll count backwards from 10, make it to about 7, and then wake up in a clean bed with the whole thing already over.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0001",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 1,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0002",
+        "Dw2Pifv1JrM:s0003"
+      ],
+      "start_s": 9.8,
+      "end_s": 20.6,
+      "text": "For almost all of human history, that mercy did not exist. If you needed surgery in 1842, you walked into the room awake.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.017915904936014627
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0002",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 2,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0004",
+        "Dw2Pifv1JrM:s0005",
+        "Dw2Pifv1JrM:s0006"
+      ],
+      "start_s": 16.84,
+      "end_s": 28.240000000000002,
+      "text": "You watched them lay out the knives, and you stayed awake for every second of what came next. So, what did that actually feel like? We know the answer because survivors wrote it down.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.030786106032906765
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0003",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 3,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0007",
+        "Dw2Pifv1JrM:s0008",
+        "Dw2Pifv1JrM:s0009",
+        "Dw2Pifv1JrM:s0010"
+      ],
+      "start_s": 26.72,
+      "end_s": 40.12,
+      "text": "And what they described is worse than anything you're imagining. Let's put you there. London, 1842. 3 days ago, a cart wheel crushed your lower leg, and the broken bone tore through the skin.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.048848263254113344
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0004",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 4,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0011",
+        "Dw2Pifv1JrM:s0012",
+        "Dw2Pifv1JrM:s0013"
+      ],
+      "start_s": 35.76,
+      "end_s": 50.28,
+      "text": "Now, the wound has turned dark, and it smells sweet and rotten at the same time. The surgeon examines you for less than a minute. Then, he gives you the only two options that exist.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.06537477148080438
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0005",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 5,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0014",
+        "Dw2Pifv1JrM:s0015"
+      ],
+      "start_s": 46.24,
+      "end_s": 58.16,
+      "text": "The leg comes off in the morning, or the infection reaches your blood and kills you within the week. That was the math of surgery before anesthesia.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.08453382084095064
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0006",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 6,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0016",
+        "Dw2Pifv1JrM:s0017"
+      ],
+      "start_s": 54.04,
+      "end_s": 66.0,
+      "text": "Nobody went under the knife for a bad knee or a lump they could live with. You climbed onto the table for one reason, because death was the alternative.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.09879341864716636
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0007",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 7,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0018",
+        "Dw2Pifv1JrM:s0019"
+      ],
+      "start_s": 62.16,
+      "end_s": 73.36,
+      "text": "And plenty of people still chose death. Surgeons of the era wrote about patients who refused the operation and took their chances with the rot.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.1136380255941499
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0008",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 8,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0020",
+        "Dw2Pifv1JrM:s0021",
+        "Dw2Pifv1JrM:s0022"
+      ],
+      "start_s": 69.12,
+      "end_s": 79.72,
+      "text": "And about others who said yes, then had to be carried in when their legs gave out. So, you say yes. And that night, you don't sleep.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.1263619744058501
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0009",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 9,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0023",
+        "Dw2Pifv1JrM:s0024"
+      ],
+      "start_s": 75.88,
+      "end_s": 89.92,
+      "text": "In the morning, two assistants walk you up the stairs because the operating theater sits at the top of the building under a skylight. Surgeons needed daylight to cut by, and the word theater is literal.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.13872029250457038
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0010",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 10,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0025",
+        "Dw2Pifv1JrM:s0026"
+      ],
+      "start_s": 88.12,
+      "end_s": 99.08,
+      "text": "Wooden galleries rise around the table in a horseshoe, packed shoulder to shoulder with medical students who came to watch you. The table is plain wood, stained by everyone who came before you.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.16109689213893968
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0011",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 11,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0027",
+        "Dw2Pifv1JrM:s0028"
+      ],
+      "start_s": 97.48,
+      "end_s": 105.47999999999999,
+      "text": "Underneath it sits a fresh box of sawdust. You understand immediately what the sawdust is for.",
+      "n_words": 16,
+      "n_sentences": 2,
+      "pos_pct": 0.17820840950639855
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0012",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 12,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0029",
+        "Dw2Pifv1JrM:s0030"
+      ],
+      "start_s": 100.88,
+      "end_s": 114.0,
+      "text": "They give you what the era has to offer, a glass of brandy, a dose of opium if you're lucky, and a strip of leather to bite down on. Everyone in the room knows none of it will touch the pain.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.18442413162705668
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0013",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 13,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0031",
+        "Dw2Pifv1JrM:s0032"
+      ],
+      "start_s": 110.56,
+      "end_s": 122.36000000000001,
+      "text": "The brandy is mostly to keep your legs working long enough to reach the table. Then, the assistants take hold of you, one for each limb.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.20212065813528338
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0014",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 14,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0033",
+        "Dw2Pifv1JrM:s0034"
+      ],
+      "start_s": 117.68,
+      "end_s": 130.52,
+      "text": "Their entire job is to stop you from tearing free because patients always fought, not from cowardice. The body simply tries to escape the knife, whether you agreed to this or not.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.21513711151736747
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0015",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 15,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0035",
+        "Dw2Pifv1JrM:s0036"
+      ],
+      "start_s": 126.76,
+      "end_s": 142.52,
+      "text": "And we know exactly what happens next because the patients wrote it down themselves. In 1811, the novelist Fanny Burney had her breast removed by surgeons in Paris with nothing over her face but a thin handkerchief.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.2317367458866545
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0016",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 16,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0037",
+        "Dw2Pifv1JrM:s0038"
+      ],
+      "start_s": 138.84,
+      "end_s": 151.2,
+      "text": "Through the fabric, she watched the polished steel come down. She wrote, \"I began a scream that lasted unintermittingly during the whole time of the incision.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.25382084095063984
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0017",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 17,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0039",
+        "Dw2Pifv1JrM:s0040"
+      ],
+      "start_s": 146.959,
+      "end_s": 161.84,
+      "text": "I almost marvel that it rings not in my ears still, so excruciating was the agony.\" When the blade reached bone, she felt it scraping against her breastbone, and she described that, too.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.2686636197440585
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0018",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 18,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0041",
+        "Dw2Pifv1JrM:s0042",
+        "Dw2Pifv1JrM:s0043"
+      ],
+      "start_s": 157.959,
+      "end_s": 172.08,
+      "text": "The operation took about 20 minutes. She fainted twice from the pain, and both times she woke back up into the middle of it. Months passed before she could write about it without falling ill.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.2887733089579525
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0019",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 19,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0044",
+        "Dw2Pifv1JrM:s0045"
+      ],
+      "start_s": 167.28,
+      "end_s": 185.8,
+      "text": "She carried the memory for another 29 years. A Scottish chemist named George Wilson survived an ankle amputation a few years before anesthesia arrived, and his account might be worse because he remembered everything with terrible clarity.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.30581352833638026
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0020",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 20,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0046",
+        "Dw2Pifv1JrM:s0047",
+        "Dw2Pifv1JrM:s0048"
+      ],
+      "start_s": 181.4,
+      "end_s": 195.04000000000002,
+      "text": "His senses, he said, were preternaturally acute. He heard the instruments being spread out. He felt the twisting of the tourniquet, the first cut, and what he called the fingering of the sawed bone.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.33162705667276055
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0021",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 21,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0049",
+        "Dw2Pifv1JrM:s0050"
+      ],
+      "start_s": 191.08,
+      "end_s": 210.72,
+      "text": "But the line people never forget isn't about pain at all. He wrote of the black whirlwind of emotion, the horror of great darkness, and the sense of desertion by God and man, bordering close upon despair, which swept through my mind and overwhelmed my heart.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.3493235831809872
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0022",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 22,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0051",
+        "Dw2Pifv1JrM:s0052",
+        "Dw2Pifv1JrM:s0053"
+      ],
+      "start_s": 205.92,
+      "end_s": 219.67999999999998,
+      "text": "That is what surgery felt like, not just agony, abandonment. The surgeons knew all of this. Most of them weren't monsters.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.37645338208409507
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0023",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 23,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0054",
+        "Dw2Pifv1JrM:s0055"
+      ],
+      "start_s": 214.76,
+      "end_s": 230.76,
+      "text": "They simply had one single weapon against pain, speed, which brings us to Robert Liston, the fastest knife in London. And at University College Hospital, he turned amputation into a race against the clock.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.3926142595978062
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0024",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 24,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0056",
+        "Dw2Pifv1JrM:s0057"
+      ],
+      "start_s": 226.519,
+      "end_s": 240.12,
+      "text": "He could take a leg off in about 2 and 1/2 minutes, and students in the galleries pulled out pocket watches to time him. When both hands were busy, he clamped the bloody knife between his teeth.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.4141115173674589
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0025",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 25,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0058",
+        "Dw2Pifv1JrM:s0059",
+        "Dw2Pifv1JrM:s0060"
+      ],
+      "start_s": 235.72,
+      "end_s": 249.84,
+      "text": "Speed really was mercy. Less time under the knife meant less agony and less shock, and shock killed. Roughly one in six of Liston's amputation patients died.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.43093235831809873
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0026",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 26,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0061",
+        "Dw2Pifv1JrM:s0062"
+      ],
+      "start_s": 245.24,
+      "end_s": 262.71999999999997,
+      "text": "At other London hospitals, the figure was closer to one in four. He was the best there was, and still the most famous story about him, one historians argue over to this day, shows what all that speed could cost.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.4483363802559415
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0027",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 27,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0063",
+        "Dw2Pifv1JrM:s0064",
+        "Dw2Pifv1JrM:s0065"
+      ],
+      "start_s": 258.2,
+      "end_s": 271.28,
+      "text": "Racing through a leg amputation, the legend goes, Liston sliced through the fingers of his own assistant. The patient died of gangrene. The assistant died of gangrene, too.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.47202925045703836
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0028",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 28,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0066",
+        "Dw2Pifv1JrM:s0067"
+      ],
+      "start_s": 266.84,
+      "end_s": 283.0,
+      "text": "And a spectator, convinced the flying blade had stabbed him, dropped dead from shock on the spot. If it's true, it is the only operation in history with a 300% mortality rate.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.4878244972577696
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0029",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 29,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0068",
+        "Dw2Pifv1JrM:s0069",
+        "Dw2Pifv1JrM:s0070"
+      ],
+      "start_s": 278.96,
+      "end_s": 292.76,
+      "text": "Now, here's the twist that made this entire world so much crueler. Surviving the knife was only round one. Nobody in the 1840s knew germs existed.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.5099817184643509
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0030",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 30,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0071",
+        "Dw2Pifv1JrM:s0072"
+      ],
+      "start_s": 287.84,
+      "end_s": 304.15999999999997,
+      "text": "Surgeons operated in the same frock coats for years, stiff with layers of dried blood, and that crust was worn with pride as proof of experience. The smell of the wards even had an affectionate nickname, the good old surgical stink.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.526215722120658
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0031",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 31,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0073",
+        "Dw2Pifv1JrM:s0074",
+        "Dw2Pifv1JrM:s0075"
+      ],
+      "start_s": 300.76,
+      "end_s": 314.0,
+      "text": "Instruments got wiped and reused. The sponge that cleaned your wound had been inside somebody else's an hour earlier. So, a few days after the operation, the fever often came.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.549835466179159
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0032",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 32,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0076",
+        "Dw2Pifv1JrM:s0077",
+        "Dw2Pifv1JrM:s0078"
+      ],
+      "start_s": 309.8,
+      "end_s": 321.84000000000003,
+      "text": "And when pus appeared in a healing wound, doctors were pleased. They called it laudable pus and took it as a sign of recovery. It was actually the infection eating you alive.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.5663619744058501
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0033",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 33,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0079",
+        "Dw2Pifv1JrM:s0080"
+      ],
+      "start_s": 317.68,
+      "end_s": 331.2,
+      "text": "In the big city hospitals of the era, roughly four out of 10 amputation patients never made it out. Most of them killed not by the operation, but by what came after.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.5807678244972578
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0034",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 34,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0081",
+        "Dw2Pifv1JrM:s0082"
+      ],
+      "start_s": 328.919,
+      "end_s": 343.32,
+      "text": "The surgeon James Simpson compared the odds to war. A man on a hospital operating table, he said, faced more chances of death than an English soldier at Waterloo.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.6013144424131627
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0035",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 35,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0083",
+        "Dw2Pifv1JrM:s0084"
+      ],
+      "start_s": 338.08,
+      "end_s": 353.03999999999996,
+      "text": "Then a Hungarian doctor named Ignaz Semmelweis proved, with hard numbers, that when doctors simply washed their hands, death rates collapsed. The medical establishment took it as an insult.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.6180621572212065
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0036",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 36,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0085",
+        "Dw2Pifv1JrM:s0086"
+      ],
+      "start_s": 349.2,
+      "end_s": 367.76000000000005,
+      "text": "A gentleman's hands, they insisted, could not possibly carry disease. Semmelweis was ridiculed, his career unraveled, and in 1865, he died in an asylum of an infected wound, killed by the exact thing he'd spent his life warning about.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.6383912248628885
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0037",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 37,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0087",
+        "Dw2Pifv1JrM:s0088"
+      ],
+      "start_s": 363.04,
+      "end_s": 377.12,
+      "text": "That was the deal. Endure the worst pain a human being can experience, delivered by the fastest man you could find, then roll the dice on a fever that killed nearly half the ward.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.6636928702010969
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0038",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 38,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0089",
+        "Dw2Pifv1JrM:s0090"
+      ],
+      "start_s": 375.16,
+      "end_s": 386.84,
+      "text": "And then, on one ordinary Friday morning, the pain simply ended. October 16th, 1846, Massachusetts General Hospital, Boston.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.6858500914076783
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0039",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 39,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0091",
+        "Dw2Pifv1JrM:s0092"
+      ],
+      "start_s": 382.76,
+      "end_s": 392.76,
+      "text": "A young printer named Edward Gilbert Abbott is brought into the operating theater with a tumor in his neck. The galleries are full.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.699744058500914
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0040",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 40,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0093",
+        "Dw2Pifv1JrM:s0094"
+      ],
+      "start_s": 388.48,
+      "end_s": 404.28000000000003,
+      "text": "The surgeon is John Collins Warren, 68 years old, a man who has spent his whole career cutting into screaming patients. A local dentist named William Morton shows up late carrying a glass inhaler filled with ether vapor.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.710201096892139
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0041",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 41,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0095",
+        "Dw2Pifv1JrM:s0096"
+      ],
+      "start_s": 400.56,
+      "end_s": 409.28,
+      "text": "Hardly anyone in the room expects it to work. Morton has Abbott breathe from the device until he goes limp.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.7322851919561243
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0042",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 42,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0097",
+        "Dw2Pifv1JrM:s0098"
+      ],
+      "start_s": 406.0,
+      "end_s": 416.52,
+      "text": "Warren makes the first incision, and for the first time in the history of that room, there is silence. No one is screaming, and nobody is straining to pin the patient down.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.7422303473491774
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0043",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 43,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0099",
+        "Dw2Pifv1JrM:s0100"
+      ],
+      "start_s": 413.0,
+      "end_s": 428.0,
+      "text": "Just a man sleeping quietly while a surgeon cuts into his neck. When Abbott comes around, he says he felt no real pain, just a dull sensation, as if his neck had been scratched.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.7550274223034735
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0044",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 44,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0101",
+        "Dw2Pifv1JrM:s0102"
+      ],
+      "start_s": 424.16,
+      "end_s": 436.67999999999995,
+      "text": "Warren, the old surgeon, turns to the stunned gallery and says, \"Gentlemen, this is no humbug.\" The news crossed the Atlantic by steamship within weeks.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.7754296160877514
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0045",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 45,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0103",
+        "Dw2Pifv1JrM:s0104"
+      ],
+      "start_s": 431.84,
+      "end_s": 448.59999999999997,
+      "text": "On December 21st, Robert Liston himself put it to the test, amputating the leg of a butler named Frederick Churchill while the man lay unconscious. Out of pure habit, Liston still finished in under half a minute.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.7894698354661791
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0046",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 46,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0105",
+        "Dw2Pifv1JrM:s0106"
+      ],
+      "start_s": 445.08,
+      "end_s": 453.88,
+      "text": "Then Churchill woke up and asked when the operation was going to begin. He didn't believe it was over until they showed him the stump.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.8136745886654478
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0047",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 47,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0107",
+        "Dw2Pifv1JrM:s0108",
+        "Dw2Pifv1JrM:s0109"
+      ],
+      "start_s": 450.2,
+      "end_s": 465.56,
+      "text": "For years, a few surgeons had chased painless surgery through mesmerism, trying to hypnotize patients out of feeling the knife. Liston buried all of it in one sentence. \"This Yankee dodge, gentlemen, beats mesmerism hollow.\"",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.823034734917733
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0048",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 48,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0110",
+        "Dw2Pifv1JrM:s0111",
+        "Dw2Pifv1JrM:s0112"
+      ],
+      "start_s": 461.919,
+      "end_s": 473.76000000000005,
+      "text": "You'd think every surgeon on Earth celebrated. Many of them refused. Some argued that pain was a stimulant, something the body needed in order to survive an operation.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.8444588665447897
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0049",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 49,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0113",
+        "Dw2Pifv1JrM:s0114"
+      ],
+      "start_s": 469.6,
+      "end_s": 491.64,
+      "text": "During the Crimean War, a senior British Army surgeon advised against chloroform on the grounds that it was better to hear a man ball lustily than watch him sink silently into the grave. Others muttered that enduring the knife was a test of manhood and that sleeping through it was cheating.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.8585009140767825
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0050",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 50,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0115",
+        "Dw2Pifv1JrM:s0116",
+        "Dw2Pifv1JrM:s0117"
+      ],
+      "start_s": 485.76,
+      "end_s": 502.36,
+      "text": "And in 1853, Queen Victoria herself took chloroform to deliver her eighth child. Once the Queen of England had chosen painless, the objections started to look ridiculous. The other killer held on longer.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.8880438756855575
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0051",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 51,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0118",
+        "Dw2Pifv1JrM:s0119"
+      ],
+      "start_s": 497.32,
+      "end_s": 518.24,
+      "text": "Infection kept emptying the wards until the 1860s when a surgeon named Joseph Lister began attacking germs with carbolic acid and the fevers finally started to fade. Tonight, a person is lying on an operating table with their body open to the lights and they will remember none of it.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.9091773308957952
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0052",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 52,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0120",
+        "Dw2Pifv1JrM:s0121"
+      ],
+      "start_s": 514.64,
+      "end_s": 523.039,
+      "text": "Tomorrow, they'll wake up sore, press a button for painkillers, and complain about the hospital food. Fanny Burney would have called that a miracle.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.9408409506398537
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0053",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 53,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0122",
+        "Dw2Pifv1JrM:s0123"
+      ],
+      "start_s": 521.64,
+      "end_s": 533.36,
+      "text": "George Wilson would have called it the end of the great darkness. For thousands of years, being saved by the knife cost more pain than most modern humans will feel in a lifetime.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.9536380255941499
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0054",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 54,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0124",
+        "Dw2Pifv1JrM:s0125"
+      ],
+      "start_s": 529.2,
+      "end_s": 543.16,
+      "text": "Then, one October morning in Boston, the price dropped to nothing and it has stayed at nothing your entire life. Counting backwards from 10 and waking up whole, that's the entire experience now.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.9674588665447899
+    },
+    {
+      "window_id": "Dw2Pifv1JrM:j0055",
+      "video_id": "Dw2Pifv1JrM",
+      "idx": 55,
+      "sent_ids": [
+        "Dw2Pifv1JrM:s0126"
+      ],
+      "start_s": 539.64,
+      "end_s": 549.0,
+      "text": "The people held down on those wooden tables would have given anything to trade places with you and you never even had to ask.",
+      "n_words": 24,
+      "n_sentences": 1,
+      "pos_pct": 0.9865447897623401
+    }
+  ]
+}

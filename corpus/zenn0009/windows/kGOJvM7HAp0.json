@@ -1,0 +1,818 @@
+{
+  "video_id": "kGOJvM7HAp0",
+  "generated_at": "2026-09-04T03:00:43.148640+00:00",
+  "windows": [
+    {
+      "window_id": "kGOJvM7HAp0:j0000",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 0,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0000",
+        "kGOJvM7HAp0:s0001"
+      ],
+      "start_s": 0.071,
+      "end_s": 5.792,
+      "text": "In the Namib Desert, on the face of a sand dune, there is a spider being hunted. A parasitic wasp has found it.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.00013706563706563705
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0001",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 1,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0002",
+        "kGOJvM7HAp0:s0003"
+      ],
+      "start_s": 5.872,
+      "end_s": 14.854,
+      "text": "If that wasp lands, it will paralyze the spider and lay an egg inside it, and the spider will be eaten alive by something that hatches later. So the spider does the only thing it can.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.011335907335907336
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0002",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 2,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0004",
+        "kGOJvM7HAp0:s0005"
+      ],
+      "start_s": 15.035,
+      "end_s": 29.838,
+      "text": "It tucks its legs up against its body, throws itself sideways, and cartwheels down the slip face of the dune, turning over and over, faster than the wasp can follow. It's called the golden wheel spider, and it is the closest that any animal has ever come to inventing the wheel.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.029025096525096526
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0003",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 3,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0006",
+        "kGOJvM7HAp0:s0007",
+        "kGOJvM7HAp0:s0008"
+      ],
+      "start_s": 30.058,
+      "end_s": 35.584,
+      "text": "Which should tell you something, because that spider doesn't have a wheel. It became one. The whole animal is rolling.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.05802702702702703
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0004",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 4,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0009",
+        "kGOJvM7HAp0:s0010"
+      ],
+      "start_s": 35.724,
+      "end_s": 43.872,
+      "text": "There's no axle anywhere in it, and the second it reaches the bottom of that dune, it gets up and walks like everything else. The gap between those two things is enormous.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.06896525096525095
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0005",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 5,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0011",
+        "kGOJvM7HAp0:s0012"
+      ],
+      "start_s": 44.173,
+      "end_s": 53.621,
+      "text": "Roughly 4 billion years of life on every surface of this planet, across every body plan evolution has ever attempted. and not one animal has ever grown a wheel.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.08527606177606178
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0006",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 6,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0013",
+        "kGOJvM7HAp0:s0014",
+        "kGOJvM7HAp0:s0015"
+      ],
+      "start_s": 53.761,
+      "end_s": 63.183,
+      "text": "That isn't a near-miss or a rare event. It's a flat zero, and it has almost nothing to do with the wheel being a bad idea. Evolution is not shy about repeating a good design.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.10378571428571429
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0007",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 7,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0016",
+        "kGOJvM7HAp0:s0017"
+      ],
+      "start_s": 63.403,
+      "end_s": 75.046,
+      "text": "The eye has been invented independently something like 40 separate times in creatures that share no eyed ancestor at all. Powered flight has been invented at least four times over by insects, pterosaurs, birds, and bats.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.1223996138996139
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0008",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 8,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0018",
+        "kGOJvM7HAp0:s0019"
+      ],
+      "start_s": 75.326,
+      "end_s": 83.109,
+      "text": "Rolling gets reinvented too. Pangolins and wood lice curl into balls, and certain caterpillars flip themselves backwards off a leaf and roll away.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.1454169884169884
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0009",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 9,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0020",
+        "kGOJvM7HAp0:s0021"
+      ],
+      "start_s": 83.33,
+      "end_s": 93.234,
+      "text": "Getting a body to go round and round is clearly not the difficult part. The difficult part is the axle, one piece that spins continuously while the rest of the animal stays exactly where it is.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.16086872586872586
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0010",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 10,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0022",
+        "kGOJvM7HAp0:s0023",
+        "kGOJvM7HAp0:s0024"
+      ],
+      "start_s": 93.474,
+      "end_s": 102.418,
+      "text": "That connection is the actual invention, and nothing our size has ever grown one. To see why, turn your hand palm up. Now, keep turning it in the same direction.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.18045173745173745
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0011",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 11,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0025",
+        "kGOJvM7HAp0:s0026"
+      ],
+      "start_s": 102.818,
+      "end_s": 110.627,
+      "text": "Somewhere around half a turn, something stops you. In your arm it happens to be bone and ligament, but look at anything alive and you'll find the same ceiling everywhere.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.1984903474903475
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0012",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 12,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0027",
+        "kGOJvM7HAp0:s0028"
+      ],
+      "start_s": 110.967,
+      "end_s": 119.039,
+      "text": "No joint, in any animal, in any lineage on this planet, goes all the way around and keeps going. There's one reason sitting underneath all of them, and it's plumbing.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.21422200772200772
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0013",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 13,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0029",
+        "kGOJvM7HAp0:s0030",
+        "kGOJvM7HAp0:s0031"
+      ],
+      "start_s": 119.36,
+      "end_s": 128.426,
+      "text": "Every part of you is by nerves and blood vessels and they behave exactly like the cable on a pair of headphones. Twist them far enough and they tangle. Twist them further and they tear.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.2304247104247104
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0014",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 14,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0032",
+        "kGOJvM7HAp0:s0033"
+      ],
+      "start_s": 128.806,
+      "end_s": 137.912,
+      "text": "A nerve running into a wheel would tear itself apart within a few revolutions. So would an artery, a tendon, a muscle fiber, or a single strand of connective tissue.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.24866023166023168
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0015",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 15,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0034",
+        "kGOJvM7HAp0:s0035"
+      ],
+      "start_s": 138.152,
+      "end_s": 148.804,
+      "text": "Anything crossing from the body into the wheel becomes a leash, and a leash caps you at less than one turn. So the wheel has to be genuinely detached, and detached is a harsher word than it sounds.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.2667027027027027
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0016",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 16,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0036",
+        "kGOJvM7HAp0:s0037"
+      ],
+      "start_s": 149.084,
+      "end_s": 156.172,
+      "text": "It sits in a socket, touching the body, joined to it by nothing at all. You can measure how expensive even a fraction of that is.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.2878069498069498
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0017",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 17,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0038",
+        "kGOJvM7HAp0:s0039"
+      ],
+      "start_s": 156.492,
+      "end_s": 175.578,
+      "text": "An owl can turn its head about 270 degrees, and to survive doing it, owls needed rebuilt anatomy. The bony canals carrying the arteries up through the neck are far wider than the vessels inside them, giving those vessels slack to move, and reservoirs along the way pool blood to keep the brain supplied while the neck is wrung sideways.",
+      "n_words": 60,
+      "n_sentences": 2,
+      "pos_pct": 0.30210810810810806
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0018",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 18,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0040",
+        "kGOJvM7HAp0:s0041",
+        "kGOJvM7HAp0:s0042"
+      ],
+      "start_s": 175.898,
+      "end_s": 183.18,
+      "text": "That's the engineering bill for three quarters of a single turn. A wheel has to do it forever. But, let's say a body somehow paid that price.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.3395714285714286
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0019",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 19,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0043",
+        "kGOJvM7HAp0:s0044"
+      ],
+      "start_s": 183.44,
+      "end_s": 190.444,
+      "text": "It gets worse, because the wheel is now dead tissue. You're full of dead material and it works fine, but only because of a trick you never notice.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.35413127413127415
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0020",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 20,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0045",
+        "kGOJvM7HAp0:s0046",
+        "kGOJvM7HAp0:s0047"
+      ],
+      "start_s": 190.765,
+      "end_s": 200.172,
+      "text": "Every dead thing on you is being continuously rebuilt from a living root. Hair is dead protein pushed out of a follicle that's very much alive. A fingernail slides off a living nail bed.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.36827220077220074
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0021",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 21,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0048",
+        "kGOJvM7HAp0:s0049",
+        "kGOJvM7HAp0:s0050"
+      ],
+      "start_s": 200.372,
+      "end_s": 208.999,
+      "text": "Even enamel, the hardest substance you own, sits on a tooth with a blood supply and a nerve inside it. A wheel has no root. That's the entire point of it.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.38681853281853285
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0022",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 22,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0051",
+        "kGOJvM7HAp0:s0052"
+      ],
+      "start_s": 209.099,
+      "end_s": 217.266,
+      "text": "So the moment it starts to wear down, and it will, because it's the one part of the animal permanently grinding against the ground, Nothing in biology can resurface it.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.4036660231660231
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0023",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 23,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0053",
+        "kGOJvM7HAp0:s0054"
+      ],
+      "start_s": 217.446,
+      "end_s": 227.535,
+      "text": "It can't grow either, so a juvenile is stuck with juvenile wheels for the rest of its life. The wheel is impossible, except that biology built one anyway, and it's been running for billions of years.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.41977992277992277
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0024",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 24,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0055",
+        "kGOJvM7HAp0:s0056"
+      ],
+      "start_s": 227.915,
+      "end_s": 236.202,
+      "text": "Go down to the scale of bacteria and watch how they swim. They have a propeller, a real one, spinning a couple of hundred times a second, and it can throw itself into reverse.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.4399903474903475
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0025",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 25,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0057",
+        "kGOJvM7HAp0:s0058",
+        "kGOJvM7HAp0:s0059",
+        "kGOJvM7HAp0:s0060"
+      ],
+      "start_s": 236.422,
+      "end_s": 246.37,
+      "text": "That isn't a metaphor for a wheel. It's an axle, turning freely and indefinitely inside something alive. And it isn't just bacteria. You are full of rotary motors too.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.4564131274131274
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0026",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 26,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0061",
+        "kGOJvM7HAp0:s0062"
+      ],
+      "start_s": 246.53,
+      "end_s": 258.096,
+      "text": "The machinery that turns your food into usable energy runs on rotation with a shaft that spins over a hundred times a second. Your cells are packed with these motors turning right now while you sit there.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.47592664092664094
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0027",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 27,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0063",
+        "kGOJvM7HAp0:s0064",
+        "kGOJvM7HAp0:s0065",
+        "kGOJvM7HAp0:s0066"
+      ],
+      "start_s": 258.376,
+      "end_s": 266.56,
+      "text": "So biology can build a wheel. It's building them inside you today. Which means the thing that actually needs explaining was never the wheel. It's the size.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.49879536679536673
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0028",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 28,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0067",
+        "kGOJvM7HAp0:s0068"
+      ],
+      "start_s": 266.84,
+      "end_s": 278.788,
+      "text": "A molecule wandering at random through water crosses the width of a bacterium in roughly half a millisecond, entirely on its own, with nothing pumping it. That's diffusion, and up close it is spectacularly fast.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.5151351351351351
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0029",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 29,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0069",
+        "kGOJvM7HAp0:s0070"
+      ],
+      "start_s": 278.908,
+      "end_s": 289.074,
+      "text": "Go a thousand times further and it takes a million times longer. That same molecule needs several minutes to drift across a millimeter, and something like a decade or two to cross one meter.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.5384324324324324
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0030",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 30,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0071",
+        "kGOJvM7HAp0:s0072"
+      ],
+      "start_s": 289.334,
+      "end_s": 298.62,
+      "text": "That is why you have a heart. Above a certain size, nothing arrives on its own, so a body has to build a delivery network and wire every part of itself into it.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.5585598455598456
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0031",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 31,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0073",
+        "kGOJvM7HAp0:s0074"
+      ],
+      "start_s": 298.861,
+      "end_s": 309.047,
+      "text": "A bacterial motor needs no supply line, because it's already sitting in the soup, drawing its power straight out of the wall it's mounted in. The reason you don't have a wheel is the same reason you have blood.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.5769517374517374
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0032",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 32,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0075",
+        "kGOJvM7HAp0:s0076"
+      ],
+      "start_s": 309.347,
+      "end_s": 317.492,
+      "text": "Now let's waive all of it. Say some animal solves the plumbing, grows a living socket, and a hard dead disc that somehow renews itself and is born ready to roll.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.5971949806949807
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0033",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 33,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0077",
+        "kGOJvM7HAp0:s0078",
+        "kGOJvM7HAp0:s0079"
+      ],
+      "start_s": 317.713,
+      "end_s": 323.556,
+      "text": "It would still lose because a wheel on its own isn't a way of moving. It's half a machine. The other half is the ground.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.6133455598455599
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0034",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 34,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0080",
+        "kGOJvM7HAp0:s0081"
+      ],
+      "start_s": 323.836,
+      "end_s": 335.264,
+      "text": "A steel train wheel on a steel rail is one of the most efficient methods of moving mass that anyone has ever built. Take that identical wheel off the rail and roll it across sand, and it sinks, digs in, and stops.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.6251660231660232
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0035",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 35,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0082",
+        "kGOJvM7HAp0:s0083",
+        "kGOJvM7HAp0:s0084",
+        "kGOJvM7HAp0:s0085"
+      ],
+      "start_s": 335.564,
+      "end_s": 343.249,
+      "text": "Nothing about the wheel changed. The road did. That's the trade a leg makes and a wheel can't. A leg chooses where to land and steps over what's in the way.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.6478069498069499
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0036",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 36,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0086",
+        "kGOJvM7HAp0:s0087"
+      ],
+      "start_s": 343.449,
+      "end_s": 353.996,
+      "text": "A wheel has to accept the ground continuously, exactly as it comes. And for 4 billion years the ground came as forest floor, swamp, scree, sand, and mud.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.6630289575289575
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0037",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 37,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0088",
+        "kGOJvM7HAp0:s0089"
+      ],
+      "start_s": 354.236,
+      "end_s": 365.743,
+      "text": "One of the oldest engineered trackways anyone can put an exact date on is the Sweet Track in the Somerset Levels in England, a plank walkway laid across a marsh. Tree rings put it at 3807 BC.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.6838532818532819
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0038",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 38,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0090",
+        "kGOJvM7HAp0:s0091"
+      ],
+      "start_s": 365.943,
+      "end_s": 373.989,
+      "text": "It was built for feet. Even our first road wasn't for wheels, which leaves one last problem, and it's the one that would have killed the wheel even in a world made of pavement.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.7064536679536679
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0039",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 39,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0092",
+        "kGOJvM7HAp0:s0093",
+        "kGOJvM7HAp0:s0094"
+      ],
+      "start_s": 374.189,
+      "end_s": 385.012,
+      "text": "Evolution can only walk uphill. Every step from one generation to the next has to be an improvement on the step before it, or it doesn't survive to take another one. That's the whole mechanism.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.7223725868725869
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0040",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 40,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0095",
+        "kGOJvM7HAp0:s0096"
+      ],
+      "start_s": 385.152,
+      "end_s": 391.934,
+      "text": "It has no memory of where it's heading and no way to accept a loss now in exchange for a payoff later. Eyes clear that bar easily.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.7435366795366795
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0041",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 41,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0097",
+        "kGOJvM7HAp0:s0098",
+        "kGOJvM7HAp0:s0099"
+      ],
+      "start_s": 392.194,
+      "end_s": 400.481,
+      "text": "A patch of skin that can tell light from dark is useful the day it appears. and a slightly better patch is slightly more useful. A partial wheel clears nothing.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.7571312741312741
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0042",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 42,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0100",
+        "kGOJvM7HAp0:s0101"
+      ],
+      "start_s": 400.681,
+      "end_s": 408.13,
+      "text": "A bump on the hip is not a slightly worse wheel. It's a lump that costs energy to grow, catches on things, and moves you precisely nowhere.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.773515444015444
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0043",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 43,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0102",
+        "kGOJvM7HAp0:s0103"
+      ],
+      "start_s": 408.311,
+      "end_s": 418.737,
+      "text": "The animal carrying it is worse off than its cousins, so it loses. Seawall Wright described this in 1932 as an adaptive landscape, a terrain of fitness peaks with valleys between them.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.7882451737451737
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0044",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 44,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0104",
+        "kGOJvM7HAp0:s0105"
+      ],
+      "start_s": 418.917,
+      "end_s": 431.3,
+      "text": "Richard Dawkins later called the same idea climbing Mount Improbable, the point being that you can reach an impossible-looking summit as long as there's a gentle path up the back of it. The wheel is a peak with sheer sides all the way around.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.8087200772200772
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0045",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 45,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0106",
+        "kGOJvM7HAp0:s0107",
+        "kGOJvM7HAp0:s0108"
+      ],
+      "start_s": 431.58,
+      "end_s": 442.348,
+      "text": "even a brain that can plan struggles with it. We were painting cave walls and crossing open ocean tens of thousands of years ago. The wheeled vehicle doesn't turn up until around 3500 BC.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.8331660231660232
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0046",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 46,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0109",
+        "kGOJvM7HAp0:s0110"
+      ],
+      "start_s": 442.588,
+      "end_s": 450.533,
+      "text": "Art and boats both arrived first, and we can picture things that don't exist yet. Once you can see the shape of that gap, other absences start lining up with it.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.8544169884169884
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0047",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 47,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0111",
+        "kGOJvM7HAp0:s0112"
+      ],
+      "start_s": 450.813,
+      "end_s": 462.64,
+      "text": "No organism has ever made fire, ore has never been smelted by anything except us, and in four billion years nothing alive has evolved a radio. That looks like a random list of missing items until you notice what they have in common.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.8702953667953668
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0048",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 48,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0113",
+        "kGOJvM7HAp0:s0114"
+      ],
+      "start_s": 462.82,
+      "end_s": 471.763,
+      "text": "Each one only pays off once several separately useless pieces are all in place at once. Half a fire is nothing at all, and a partially smelted lump of rock is a rock.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.8934749034749034
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0049",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 49,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0115",
+        "kGOJvM7HAp0:s0116"
+      ],
+      "start_s": 472.003,
+      "end_s": 484.547,
+      "text": "That's the signature of a builder that cannot plan, so the absence of the wheel isn't a hole in nature's toolkit. It's a fingerprint pressed into every living thing, left by the only kind of maker that has ever worked on this planet.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.9112027027027026
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0050",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 50,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0117",
+        "kGOJvM7HAp0:s0118"
+      ],
+      "start_s": 484.827,
+      "end_s": 497.735,
+      "text": "Something that could never see one step ahead, and that still, working blind and one small improvement at a time, produced the eye, the wing, the rotary motor, and the brain currently having this thought. It's also a prediction.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.9359594594594595
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0051",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 51,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0119",
+        "kGOJvM7HAp0:s0120"
+      ],
+      "start_s": 497.975,
+      "end_s": 511.564,
+      "text": "If there's life on another world, it was assembled by the same blind process under the same rules, and it will have solved movement the same ways this planet did. Legs, fins, cilia, whips, things that can be half-built and still work.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.9613416988416988
+    },
+    {
+      "window_id": "kGOJvM7HAp0:j0052",
+      "video_id": "kGOJvM7HAp0",
+      "idx": 52,
+      "sent_ids": [
+        "kGOJvM7HAp0:s0121",
+        "kGOJvM7HAp0:s0122"
+      ],
+      "start_s": 511.825,
+      "end_s": 517.622,
+      "text": "Somewhere out there, something is crossing a plane right now. And it is almost certainly walking.",
+      "n_words": 16,
+      "n_sentences": 2,
+      "pos_pct": 0.9880791505791505
+    }
+  ]
+}

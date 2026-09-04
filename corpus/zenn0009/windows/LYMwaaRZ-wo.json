@@ -1,0 +1,881 @@
+{
+  "video_id": "LYMwaaRZ-wo",
+  "generated_at": "2026-09-04T03:00:43.125387+00:00",
+  "windows": [
+    {
+      "window_id": "LYMwaaRZ-wo:j0000",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 0,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0000",
+        "LYMwaaRZ-wo:s0001",
+        "LYMwaaRZ-wo:s0002"
+      ],
+      "start_s": 0.0,
+      "end_s": 12.120000000000001,
+      "text": "Somewhere in Germany right now, a man with a shovel is standing over a grave that hasn't had a visitor in 26 years. He's not there to mourn. He's there to dig it up.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0001",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 1,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0003",
+        "LYMwaaRZ-wo:s0004",
+        "LYMwaaRZ-wo:s0005"
+      ],
+      "start_s": 8.48,
+      "end_s": 20.76,
+      "text": "By the end of the week, the headstone will be gone. The plot will be smoothed flat and sown with grass. And in a few months, someone else will be lowered into the same hole.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.01550274223034735
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0002",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 2,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0006",
+        "LYMwaaRZ-wo:s0007",
+        "LYMwaaRZ-wo:s0008",
+        "LYMwaaRZ-wo:s0009"
+      ],
+      "start_s": 16.48,
+      "end_s": 30.72,
+      "text": "This isn't a horror story. It's routine. In most countries, when the family stops paying or stops existing, the plot eventually gets reused. Workers dig up the bones.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.030127970749542963
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0003",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 3,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0010",
+        "LYMwaaRZ-wo:s0011",
+        "LYMwaaRZ-wo:s0012",
+        "LYMwaaRZ-wo:s0013"
+      ],
+      "start_s": 25.4,
+      "end_s": 42.04,
+      "text": "A new coffin takes the spot. In Britain, they don't even move the bones. The City of London Cemetery has been quietly stacking the dead since 2007. They call it lift and deepen.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.046435100548446066
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0004",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 4,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0014",
+        "LYMwaaRZ-wo:s0015"
+      ],
+      "start_s": 37.64,
+      "end_s": 49.16,
+      "text": "They dig the hole deeper, push the original skeleton to the bottom, and drop a fresh coffin on top. Two strangers, one plot.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.06881170018281536
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0005",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 5,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0016",
+        "LYMwaaRZ-wo:s0017"
+      ],
+      "start_s": 44.04,
+      "end_s": 58.96,
+      "text": "In some places, including most of the United States, the headstone just stays where it is, wearing down while the world forgets who's underneath. The legal status doesn't matter.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.08051188299817184
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0006",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 6,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0018",
+        "LYMwaaRZ-wo:s0019",
+        "LYMwaaRZ-wo:s0020"
+      ],
+      "start_s": 55.64,
+      "end_s": 72.47999999999999,
+      "text": "The visiting stops within three generations regardless. A grave nobody visits is already gone, whether or not anyone with a shovel ever comes to make it official. Most people still believe in perpetual rest.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.10171846435100548
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0007",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 7,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0021",
+        "LYMwaaRZ-wo:s0022"
+      ],
+      "start_s": 67.8,
+      "end_s": 78.76,
+      "text": "They grew up thinking a grave is forever. A stone, a name, a patch of grass that belongs to a family for eternity.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.1239488117001828
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0008",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 8,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0023",
+        "LYMwaaRZ-wo:s0024"
+      ],
+      "start_s": 74.4,
+      "end_s": 89.19999999999999,
+      "text": "The permanent grave was invented in 1831 when Mount Auburn Cemetery opened outside Boston. The first cemetery in America designed to look like a park with private family plots that would never be disturbed.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.1360146252285192
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0009",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 9,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0025",
+        "LYMwaaRZ-wo:s0026"
+      ],
+      "start_s": 84.88,
+      "end_s": 106.08000000000001,
+      "text": "It was sold to a middle class who wanted something more dignified than the crowded urban churchyards of the previous generation. We forgot so completely that when we look at a cemetery today, we think we're looking at the natural way humans have always treated their dead.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.15517367458866543
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0010",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 10,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0027",
+        "LYMwaaRZ-wo:s0028",
+        "LYMwaaRZ-wo:s0029",
+        "LYMwaaRZ-wo:s0030"
+      ],
+      "start_s": 100.76,
+      "end_s": 114.28,
+      "text": "We're looking at a marketing campaign from 1831. First, the visitor stopped coming. Then, the flowers stopped arriving. The decorations vanish.",
+      "n_words": 21,
+      "n_sentences": 4,
+      "pos_pct": 0.18420475319926874
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0011",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 11,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0031",
+        "LYMwaaRZ-wo:s0032",
+        "LYMwaaRZ-wo:s0033"
+      ],
+      "start_s": 109.28,
+      "end_s": 124.64,
+      "text": "Over the decades, the lettering thins until it blurs. The stone collects lichen, develops a tilt, sometimes falls. The plot flattens back into the surrounding grass.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.19978062157221207
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0012",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 12,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0034",
+        "LYMwaaRZ-wo:s0035"
+      ],
+      "start_s": 119.92,
+      "end_s": 133.76000000000002,
+      "text": "After 100 years, the stone might still stand, but the name on it is just a worn shape. After 300, the cemetery itself is probably gone.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.21923217550274224
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0013",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 13,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0036",
+        "LYMwaaRZ-wo:s0037",
+        "LYMwaaRZ-wo:s0038"
+      ],
+      "start_s": 129.36,
+      "end_s": 142.51999999999998,
+      "text": "The grave doesn't disappear, it just stops being a grave. Try naming all of your great-grandparents, first and last names. 96 out of 100 people can't.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.23648994515539307
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0014",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 14,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0039",
+        "LYMwaaRZ-wo:s0040",
+        "LYMwaaRZ-wo:s0041",
+        "LYMwaaRZ-wo:s0042"
+      ],
+      "start_s": 136.76,
+      "end_s": 153.23999999999998,
+      "text": "They were alive less than 100 years ago, holding the babies who became your grandparents. Without them, you wouldn't exist. You forgot them. Completely.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.250018281535649
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0015",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 15,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0043",
+        "LYMwaaRZ-wo:s0044",
+        "LYMwaaRZ-wo:s0045",
+        "LYMwaaRZ-wo:s0046"
+      ],
+      "start_s": 148.92,
+      "end_s": 162.48000000000002,
+      "text": "Three generations. That's the average lifespan of human memory. After about 70 to 90 years, almost everyone is forgotten. And it doesn't always wait for death.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.2722486288848263
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0016",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 16,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0047",
+        "LYMwaaRZ-wo:s0048"
+      ],
+      "start_s": 157.8,
+      "end_s": 173.79999999999998,
+      "text": "In Japan, they have a word for it, kodokushi, which means lonely death. Every year, more than 70,000 Japanese die alone in their homes.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.2884826325411335
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0017",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 17,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0049",
+        "LYMwaaRZ-wo:s0050",
+        "LYMwaaRZ-wo:s0051",
+        "LYMwaaRZ-wo:s0052"
+      ],
+      "start_s": 168.04,
+      "end_s": 184.20000000000002,
+      "text": "Around 4,000 bodies are found more than a month after the death. Some, over a year. The smell tells the neighbors first. There are companies that specialize in cleaning these apartments, a growing industry.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.30720292504570385
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0018",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 18,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0053",
+        "LYMwaaRZ-wo:s0054",
+        "LYMwaaRZ-wo:s0055",
+        "LYMwaaRZ-wo:s0056"
+      ],
+      "start_s": 179.4,
+      "end_s": 199.04,
+      "text": "Most kodokushi victims have living family. They just stopped calling. Children still alive, cousins, old friends, people who could have visited and didn't. The grave gets unvisited before the grave even exists.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.3279707495429616
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0019",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 19,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0057",
+        "LYMwaaRZ-wo:s0058"
+      ],
+      "start_s": 194.12,
+      "end_s": 209.72,
+      "text": "Even Mozart didn't escape this. He died in Vienna in 1791 at 35, a third-class funeral, an unmarked common grave at St. Mark's Cemetery.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.35488117001828157
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0020",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 20,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0059",
+        "LYMwaaRZ-wo:s0060",
+        "LYMwaaRZ-wo:s0061",
+        "LYMwaaRZ-wo:s0062"
+      ],
+      "start_s": 204.959,
+      "end_s": 219.4,
+      "text": "About a decade later, the grave was reused, normal procedure even for him. His widow tried to find the spot. Nobody could. Mozart's remains have been lost for over 200 years.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.3746965265082267
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0021",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 21,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0063",
+        "LYMwaaRZ-wo:s0064",
+        "LYMwaaRZ-wo:s0065",
+        "LYMwaaRZ-wo:s0066"
+      ],
+      "start_s": 214.28,
+      "end_s": 233.96,
+      "text": "The monument in Vienna is a guess. And Mozart isn't the strangest case. In the mid-1920s, the biggest movie star on Earth was Rudolph Valentino. He died in 1926 at 31.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.39173674588665447
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0022",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 22,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0067",
+        "LYMwaaRZ-wo:s0068",
+        "LYMwaaRZ-wo:s0069",
+        "LYMwaaRZ-wo:s0070"
+      ],
+      "start_s": 227.4,
+      "end_s": 241.04000000000002,
+      "text": "100,000 mourners filled the streets of New York. Riots broke out. Women fainted. Today, you've probably never heard of him.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.4157221206581353
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0023",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 23,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0071",
+        "LYMwaaRZ-wo:s0072",
+        "LYMwaaRZ-wo:s0073",
+        "LYMwaaRZ-wo:s0074"
+      ],
+      "start_s": 236.68,
+      "end_s": 251.52,
+      "text": "A hundred years from worldwide fame to a blank. We couldn't keep Mozart's body. We couldn't keep Valentino's name. Neither will we keep yours.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.4326873857404022
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0024",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 24,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0075",
+        "LYMwaaRZ-wo:s0076",
+        "LYMwaaRZ-wo:s0077",
+        "LYMwaaRZ-wo:s0078"
+      ],
+      "start_s": 246.12,
+      "end_s": 261.079,
+      "text": "The neuroscientist David Eagleman wrote that we don't die once. We die three times. The first death is when your body stops. The second is when the body is put in the ground or burned.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.449945155393053
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0025",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 25,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0079",
+        "LYMwaaRZ-wo:s0080"
+      ],
+      "start_s": 256.32,
+      "end_s": 270.16,
+      "text": "The third is the one nobody talks about. The moment, sometime in the future, when somebody says your name out loud for the very last time.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.4685923217550274
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0026",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 26,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0081",
+        "LYMwaaRZ-wo:s0082",
+        "LYMwaaRZ-wo:s0083"
+      ],
+      "start_s": 266.04,
+      "end_s": 281.71999999999997,
+      "text": "For most people, the third death comes about three generations after the first. The same three generations that already erased your great-grandparents. Your children will remember you in detail.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.4863619744058501
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0027",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 27,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0084",
+        "LYMwaaRZ-wo:s0085",
+        "LYMwaaRZ-wo:s0086"
+      ],
+      "start_s": 277.4,
+      "end_s": 292.56,
+      "text": "Your voice, the way you smelled, the hands when you got old. Your grandchildren will remember fragments. A story, a photograph, the smell of your house on holidays.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.5071297989031078
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0028",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 28,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0087",
+        "LYMwaaRZ-wo:s0088"
+      ],
+      "start_s": 287.76,
+      "end_s": 301.919,
+      "text": "Your great-grandchildren will know your name on a family tree, if that, and roughly what you did for a living. Your great-great-grandchildren won't even know you existed.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.5260694698354662
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0029",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 29,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0089",
+        "LYMwaaRZ-wo:s0090"
+      ],
+      "start_s": 297.24,
+      "end_s": 311.4,
+      "text": "Some last longer because somebody became famous or kept a diary or had a great-great-grandchild obsessed with family history. For most, three generations is the ceiling.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.543400365630713
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0030",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 30,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0091",
+        "LYMwaaRZ-wo:s0092"
+      ],
+      "start_s": 306.919,
+      "end_s": 323.35999999999996,
+      "text": "But the same three generations also erase everyone who ever judged you. The boss, the relatives who counted your failures, the old friends who turned cold and talk behind your back.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.5610950639853748
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0031",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 31,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0093",
+        "LYMwaaRZ-wo:s0094",
+        "LYMwaaRZ-wo:s0095",
+        "LYMwaaRZ-wo:s0096"
+      ],
+      "start_s": 317.919,
+      "end_s": 332.64,
+      "text": "All of them gone on the same timeline. The shame dies with them. Marcus Aurelius noticed this 2,000 years ago. The people you're trying to impress are about to be dust.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.5812047531992687
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0032",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 32,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0097",
+        "LYMwaaRZ-wo:s0098",
+        "LYMwaaRZ-wo:s0099"
+      ],
+      "start_s": 330.28,
+      "end_s": 341.4,
+      "text": "Anthropologists say your real audience is around 150. Everyone else is a stranger you've been performing for. Even you forgot yourself.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.6038025594149908
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0033",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 33,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0100",
+        "LYMwaaRZ-wo:s0101"
+      ],
+      "start_s": 337.32,
+      "end_s": 350.76,
+      "text": "The childhood friend you swore you'd never lose touch with, whose face you can't picture anymore. The dream you held in your 20s, you can barely remember why it mattered.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.616672760511883
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0034",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 34,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0102",
+        "LYMwaaRZ-wo:s0103",
+        "LYMwaaRZ-wo:s0104",
+        "LYMwaaRZ-wo:s0105"
+      ],
+      "start_s": 348.32,
+      "end_s": 361.32,
+      "text": "10 years ago, you cared about completely different things. The forgetting isn't waiting for you to die. It's been happening your whole life. You've been burying yourself your whole life.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.6367824497257769
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0035",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 35,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0106",
+        "LYMwaaRZ-wo:s0107"
+      ],
+      "start_s": 359.24,
+      "end_s": 371.16,
+      "text": "Somewhere, there's an old teacher who taught you to read, the clerk who handed you your first paycheck, the neighbor who watched you grow up. They thought about you for years.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.656745886654479
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0036",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 36,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0108",
+        "LYMwaaRZ-wo:s0109",
+        "LYMwaaRZ-wo:s0110",
+        "LYMwaaRZ-wo:s0111"
+      ],
+      "start_s": 369.48,
+      "end_s": 382.52,
+      "text": "You can't picture their faces. You're not just being forgotten. You're forgetting just as fast. Your body is gone first, then the people who loved you start forgetting.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.6754661791590494
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0037",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 37,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0112",
+        "LYMwaaRZ-wo:s0113",
+        "LYMwaaRZ-wo:s0114",
+        "LYMwaaRZ-wo:s0115"
+      ],
+      "start_s": 378.0,
+      "end_s": 391.28,
+      "text": "Your name follows. And cremation doesn't save anyone. Ashes get scattered, lost, thrown out. A few names do last for millennia.",
+      "n_words": 21,
+      "n_sentences": 4,
+      "pos_pct": 0.6910420475319927
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0038",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 38,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0116",
+        "LYMwaaRZ-wo:s0117",
+        "LYMwaaRZ-wo:s0118",
+        "LYMwaaRZ-wo:s0119"
+      ],
+      "start_s": 385.0,
+      "end_s": 401.96,
+      "text": "Socrates, Buddha, Tutankhamun. About 100 names out of 100 billion lives. If we're being honest, for average people like us, the math isn't on our side. You're not waiting to be forgotten.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.7038391224862889
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0039",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 39,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0120",
+        "LYMwaaRZ-wo:s0121",
+        "LYMwaaRZ-wo:s0122",
+        "LYMwaaRZ-wo:s0123"
+      ],
+      "start_s": 397.68,
+      "end_s": 409.8,
+      "text": "You're already mostly forgotten. 8 billion people are alive right now. They don't know your name. The billions who haven't been born yet won't either.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.7270201096892139
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0040",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 40,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0124",
+        "LYMwaaRZ-wo:s0125",
+        "LYMwaaRZ-wo:s0126",
+        "LYMwaaRZ-wo:s0127"
+      ],
+      "start_s": 405.72,
+      "end_s": 418.8,
+      "text": "The grave just finishes what indifference already started. Some people get ahead of this. Genghis Khan died in 1227. He ordered his grave hidden.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.7417184643510055
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0041",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 41,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0128",
+        "LYMwaaRZ-wo:s0129"
+      ],
+      "start_s": 415.12,
+      "end_s": 433.96,
+      "text": "The traditional accounts include soldiers killing witnesses, horses trampling the ground flat, and a river diverted over the site. 800 years later, after expeditions and modern satellite surveys, nobody has found his tomb.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.7589031078610603
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0042",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 42,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0130",
+        "LYMwaaRZ-wo:s0131",
+        "LYMwaaRZ-wo:s0132",
+        "LYMwaaRZ-wo:s0133"
+      ],
+      "start_s": 429.56,
+      "end_s": 444.64,
+      "text": "He's somewhere under a Mongolian hill. Most of us are forgotten by accident. He chose it. You've already been dead for 13 billion years before you were born.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.7853016453382085
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0043",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 43,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0134",
+        "LYMwaaRZ-wo:s0135",
+        "LYMwaaRZ-wo:s0136",
+        "LYMwaaRZ-wo:s0137"
+      ],
+      "start_s": 440.2,
+      "end_s": 455.44,
+      "text": "You didn't exist. The universe was running fine. Stars dying, empires rising and falling, people getting married, having children, building cities, making art, fighting wars. Not one of them missed you.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.8047531992687386
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0044",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 44,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0138",
+        "LYMwaaRZ-wo:s0139",
+        "LYMwaaRZ-wo:s0140",
+        "LYMwaaRZ-wo:s0141"
+      ],
+      "start_s": 453.0,
+      "end_s": 463.68,
+      "text": "You hadn't happened yet. When you die, you'll go right back to it. People imagine death as a person trapped in the dark. It's not that.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.8281535648994516
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0045",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 45,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0142",
+        "LYMwaaRZ-wo:s0143",
+        "LYMwaaRZ-wo:s0144"
+      ],
+      "start_s": 459.12,
+      "end_s": 468.72,
+      "text": "It's exactly what came before. And that part was fine. Something does survive.",
+      "n_words": 13,
+      "n_sentences": 3,
+      "pos_pct": 0.8393418647166362
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0046",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 46,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0145",
+        "LYMwaaRZ-wo:s0146"
+      ],
+      "start_s": 463.68,
+      "end_s": 479.52,
+      "text": "The way your grandfather said one specific word, which your parent picked up, which you picked up, which your kid will use in conversations you'll never hear. The recipe nobody remembers learning.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.8476782449725777
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0047",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 47,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0147",
+        "LYMwaaRZ-wo:s0148",
+        "LYMwaaRZ-wo:s0149"
+      ],
+      "start_s": 475.0,
+      "end_s": 491.08,
+      "text": "The kind thing someone said to you in a bad year, which you said to somebody else 15 years later. Nothing of you survives by name. Versions of you survive constantly.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.8683729433272395
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0048",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 48,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0150",
+        "LYMwaaRZ-wo:s0151",
+        "LYMwaaRZ-wo:s0152"
+      ],
+      "start_s": 486.84,
+      "end_s": 498.64,
+      "text": "Most of your life is the boring stuff. The ordinary Tuesdays, the hour cooking dinner with music on, the walk you took for no reason. None of it will make it into the obituary.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.890018281535649
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0049",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 49,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0153",
+        "LYMwaaRZ-wo:s0154",
+        "LYMwaaRZ-wo:s0155",
+        "LYMwaaRZ-wo:s0156"
+      ],
+      "start_s": 494.88,
+      "end_s": 505.84,
+      "text": "None of it is supposed to. That's where you actually live. This isn't a curse. It's the point.",
+      "n_words": 18,
+      "n_sentences": 4,
+      "pos_pct": 0.9047166361974406
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0050",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 50,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0157",
+        "LYMwaaRZ-wo:s0158",
+        "LYMwaaRZ-wo:s0159",
+        "LYMwaaRZ-wo:s0160"
+      ],
+      "start_s": 501.84,
+      "end_s": 518.24,
+      "text": "Permanence would be a punishment. Imagine being remembered forever, watched forever, judged forever. Your worst day on permanent record. The forgetting is what lets every generation start clean.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.9174405850091407
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0051",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 51,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0161",
+        "LYMwaaRZ-wo:s0162",
+        "LYMwaaRZ-wo:s0163",
+        "LYMwaaRZ-wo:s0164"
+      ],
+      "start_s": 513.36,
+      "end_s": 525.839,
+      "text": "It's what lets your shame have an end. Mortality isn't punishment. It's mercy. This is already happening.",
+      "n_words": 17,
+      "n_sentences": 4,
+      "pos_pct": 0.9385009140767825
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0052",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 52,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0165",
+        "LYMwaaRZ-wo:s0166",
+        "LYMwaaRZ-wo:s0167",
+        "LYMwaaRZ-wo:s0168"
+      ],
+      "start_s": 521.0,
+      "end_s": 536.76,
+      "text": "Right now, people are being erased on a precise schedule. Some died last week. Some died 80 years ago, and the schedule just caught up. It's already happening to your great-grandparents.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.9524680073126143
+    },
+    {
+      "window_id": "LYMwaaRZ-wo:j0053",
+      "video_id": "LYMwaaRZ-wo",
+      "idx": 53,
+      "sent_ids": [
+        "LYMwaaRZ-wo:s0169",
+        "LYMwaaRZ-wo:s0170",
+        "LYMwaaRZ-wo:s0171",
+        "LYMwaaRZ-wo:s0172"
+      ],
+      "start_s": 531.96,
+      "end_s": 547.92,
+      "text": "Your grandparents are next, then your parents, then you. The only question is the order and how it happens. Because eventually, there is no one left who knew you. Or anyone left who didn't.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.9725045703839124
+    }
+  ]
+}

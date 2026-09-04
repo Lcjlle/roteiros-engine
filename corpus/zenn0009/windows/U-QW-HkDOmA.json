@@ -1,0 +1,922 @@
+{
+  "video_id": "U-QW-HkDOmA",
+  "generated_at": "2026-09-04T03:00:43.134309+00:00",
+  "windows": [
+    {
+      "window_id": "U-QW-HkDOmA:j0000",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 0,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0000",
+        "U-QW-HkDOmA:s0001"
+      ],
+      "start_s": 0.111,
+      "end_s": 11.959,
+      "text": "This one mosquito found its way into a room full of people, but it only wants you. Your ankles are covered in welts, there's a huge lump behind your ear, and it's constantly making that annoying sound right by your head.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.00020555555555555556
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0001",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 1,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0002",
+        "U-QW-HkDOmA:s0003"
+      ],
+      "start_s": 12.139,
+      "end_s": 20.125,
+      "text": "The person sitting next to you walks out without a single bite, like the mosquito never even saw them. They'll tell you it's because your blood is sweeter, or that you're just unlucky.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.022479629629629627
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0002",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 2,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0004",
+        "U-QW-HkDOmA:s0005",
+        "U-QW-HkDOmA:s0006",
+        "U-QW-HkDOmA:s0007"
+      ],
+      "start_s": 20.305,
+      "end_s": 25.269,
+      "text": "But that's not true. You got hunted. They didn't. The mosquito that found you was female.",
+      "n_words": 16,
+      "n_sentences": 4,
+      "pos_pct": 0.03760185185185185
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0003",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 3,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0008",
+        "U-QW-HkDOmA:s0009"
+      ],
+      "start_s": 25.489,
+      "end_s": 31.094,
+      "text": "Males never bite anyone. They drink flower nectar, mind their own business for about a week, and die.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.047201851851851856
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0004",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 4,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0010",
+        "U-QW-HkDOmA:s0011"
+      ],
+      "start_s": 31.374,
+      "end_s": 39.52,
+      "text": "But a female needs protein and iron to build a batch of eggs, and the richest supply of both is sealed inside an animal. She wasn't even hungry when she landed on you.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.0581
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0005",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 5,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0012",
+        "U-QW-HkDOmA:s0013",
+        "U-QW-HkDOmA:s0014",
+        "U-QW-HkDOmA:s0015"
+      ],
+      "start_s": 39.781,
+      "end_s": 48.946,
+      "text": "She was gathering building materials. And most mosquitoes aren't especially interested in humans. They take blood from whatever's warm and nearby. Birds, frogs, cattle.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.07366851851851852
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0006",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 6,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0016",
+        "U-QW-HkDOmA:s0017",
+        "U-QW-HkDOmA:s0018"
+      ],
+      "start_s": 49.166,
+      "end_s": 59.371,
+      "text": "The one that found you is different. Thousands of years ago, this species split in two. One half stayed in the forest, biting animals, and that version still lives in Kenya.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.09104814814814814
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0007",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 7,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0019",
+        "U-QW-HkDOmA:s0020"
+      ],
+      "start_s": 59.471,
+      "end_s": 68.595,
+      "text": "The other moved in with people and rebuilt its nose around us. It sharpened one smell detector in particular, tuned to a chemical that humans give off far more than animals do.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.11013148148148147
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0008",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 8,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0021",
+        "U-QW-HkDOmA:s0022"
+      ],
+      "start_s": 68.755,
+      "end_s": 75.844,
+      "text": "So she wasn't looking for blood, she was looking for a person. Which leaves her two jobs, finding a person at all, and then choosing which person.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.12732407407407406
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0009",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 9,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0023",
+        "U-QW-HkDOmA:s0024",
+        "U-QW-HkDOmA:s0025"
+      ],
+      "start_s": 76.044,
+      "end_s": 85.757,
+      "text": "Nearly everything you've heard about how mosquitoes hunt only gets her as far as finding a person. None of it explains why she chose you. The hunt starts about 30 feet away.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.1408222222222222
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0010",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 10,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0026",
+        "U-QW-HkDOmA:s0027"
+      ],
+      "start_s": 85.957,
+      "end_s": 91.122,
+      "text": "At that distance, she has no idea you exist as a shape. What reaches her first is carbon dioxide.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.15917962962962962
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0011",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 11,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0028",
+        "U-QW-HkDOmA:s0029"
+      ],
+      "start_s": 91.242,
+      "end_s": 101.092,
+      "text": "The air leaving your lungs carries roughly a hundred times more of it than the air around you, and it doesn't dissolve politely into the room. It drifts off you in a ragged plume, and she catches the edge.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.16896666666666668
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0012",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 12,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0030",
+        "U-QW-HkDOmA:s0031"
+      ],
+      "start_s": 101.372,
+      "end_s": 106.898,
+      "text": "That first hit doesn't tell her where you are. It tells her a meal exists somewhere, and it switches her hunting system on.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.18772592592592593
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0013",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 13,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0032",
+        "U-QW-HkDOmA:s0033"
+      ],
+      "start_s": 107.098,
+      "end_s": 116.585,
+      "text": "She turns into the current carrying it, weaving across the plume, casting sideways every time she loses it. The first thing that gives you away is the one thing you'll never stop doing.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.19832962962962963
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0014",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 14,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0034",
+        "U-QW-HkDOmA:s0035",
+        "U-QW-HkDOmA:s0036"
+      ],
+      "start_s": 116.745,
+      "end_s": 125.111,
+      "text": "Then she closes in. For decades, the heat part seemed obvious. Warm skin, warm air rising off it, and she follows the warmth to its source.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.21619444444444444
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0015",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 15,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0037",
+        "U-QW-HkDOmA:s0038"
+      ],
+      "start_s": 125.491,
+      "end_s": 137.294,
+      "text": "In August 2024, a team at UC Santa Barbara showed it's stranger than that. They heated a surface to 93 degrees Fahrenheit, about the temperature of skin, and blocked the warm air from reaching the mosquitoes entirely.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.23239074074074073
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0016",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 16,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0039",
+        "U-QW-HkDOmA:s0040",
+        "U-QW-HkDOmA:s0041"
+      ],
+      "start_s": 137.474,
+      "end_s": 145.416,
+      "text": "The only thing left crossing the gap was infrared radiation. Host-seeking behavior doubled. She can pick that up from about two and a half feet away.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.25458148148148146
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0017",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 17,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0042",
+        "U-QW-HkDOmA:s0043"
+      ],
+      "start_s": 145.636,
+      "end_s": 151.697,
+      "text": "At arm's length, she isn't really looking at you anymore, she's feeling the shape of you. All of that found a human being.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.26969629629629627
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0018",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 18,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0044",
+        "U-QW-HkDOmA:s0045"
+      ],
+      "start_s": 152.077,
+      "end_s": 163.067,
+      "text": "It did not find you specifically, because it found everyone else in that room at the same moment, all breathing out the same gas and running the same body heat. Up to here, she should have been perfectly happy with any of you.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.2816240740740741
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0019",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 19,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0046",
+        "U-QW-HkDOmA:s0047",
+        "U-QW-HkDOmA:s0048",
+        "U-QW-HkDOmA:s0049"
+      ],
+      "start_s": 163.447,
+      "end_s": 172.976,
+      "text": "She wasn't. So the choosing happens somewhere else. Run a finger down your forehead at the end of a long day. That faint film is sebum, the oil your skin makes to waterproof itself.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.30267962962962963
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0020",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 20,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0050",
+        "U-QW-HkDOmA:s0051"
+      ],
+      "start_s": 173.376,
+      "end_s": 192.754,
+      "text": "And it's the entire reason you got picked, and they didn't. In 2022, Leslie Voss Hall's lab at Rockefeller University had 64 volunteers wear nylon stockings on their forearms for six hours, then cut the stockings up and ran them against each other, one person's odor versus another's, tournament style, with mosquitoes voting by flying.",
+      "n_words": 55,
+      "n_sentences": 2,
+      "pos_pct": 0.32106666666666667
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0021",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 21,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0052",
+        "U-QW-HkDOmA:s0053",
+        "U-QW-HkDOmA:s0054",
+        "U-QW-HkDOmA:s0055"
+      ],
+      "start_s": 192.914,
+      "end_s": 204.903,
+      "text": "The spread was ridiculous. The champion, known in the paper only as Subject 33, pulled about a hundred times more mosquitoes than the weakest competitor. That isn't a slight edge. That's a hundred to one.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.35724814814814815
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0022",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 22,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0056",
+        "U-QW-HkDOmA:s0057",
+        "U-QW-HkDOmA:s0058",
+        "U-QW-HkDOmA:s0059"
+      ],
+      "start_s": 205.123,
+      "end_s": 214.789,
+      "text": "Then they kept running it for years. The rankings barely moved. Subject 33 was still the one they wanted. What separated top from bottom was what that sebum was loaded with.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.37985740740740737
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0023",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 23,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0060",
+        "U-QW-HkDOmA:s0061"
+      ],
+      "start_s": 214.949,
+      "end_s": 224.737,
+      "text": "Carboxylic acids, which are the sharp, sour compounds behind the smell of sweat and gym socks, Everyone produces them. The people who get bitten most just produce far more.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.39805370370370374
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0024",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 24,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0062",
+        "U-QW-HkDOmA:s0063"
+      ],
+      "start_s": 224.957,
+      "end_s": 228.161,
+      "text": "And you don't make that smell on your own. Your sebum is food.",
+      "n_words": 13,
+      "n_sentences": 2,
+      "pos_pct": 0.41658703703703703
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0025",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 25,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0064",
+        "U-QW-HkDOmA:s0065"
+      ],
+      "start_s": 228.421,
+      "end_s": 240.653,
+      "text": "Your skin carries something like a trillion bacteria that break those oils down into the small airborne compounds that actually drift off your arm. What a mosquito smells across a room is the exhaust of the colony farming your skin.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.42300185185185185
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0026",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 26,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0066",
+        "U-QW-HkDOmA:s0067"
+      ],
+      "start_s": 240.873,
+      "end_s": 252.182,
+      "text": "We learned how powerful that exhaust is in an undignified way. In the 1990s, a Dutch entomologist named Bart Noels noticed malaria mosquitoes landing on his feet and almost nowhere else.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.4460611111111111
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0027",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 27,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0068",
+        "U-QW-HkDOmA:s0069"
+      ],
+      "start_s": 252.562,
+      "end_s": 257.485,
+      "text": "He tested them against Limburger cheese. and they went for it about as eagerly as a human foot.",
+      "n_words": 18,
+      "n_sentences": 2,
+      "pos_pct": 0.4677074074074074
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0028",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 28,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0070",
+        "U-QW-HkDOmA:s0071",
+        "U-QW-HkDOmA:s0072"
+      ],
+      "start_s": 257.645,
+      "end_s": 268.329,
+      "text": "The cheese is ripened with a close cousin of the bacterium, living between your toes, and both chew fats into the same acids. The mosquitoes weren't confused. Their target was never a person.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.47712037037037036
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0029",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 29,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0073",
+        "U-QW-HkDOmA:s0074",
+        "U-QW-HkDOmA:s0075"
+      ],
+      "start_s": 268.569,
+      "end_s": 281.341,
+      "text": "It was a smell bacteria make, and feet and Limburger make the same one. So, the ratio matters. In 2011, a group at Wageningen University sampled the skin bacteria of 48 men.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.49735
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0030",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 30,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0076",
+        "U-QW-HkDOmA:s0077"
+      ],
+      "start_s": 281.621,
+      "end_s": 293.455,
+      "text": "The ones who got swarmed carried more bacteria overall, but fewer different kinds. The ones mosquitoes ignored had a broader mix, possibly including species whose byproducts jam the signal.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.5215203703703704
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0031",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 31,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0078",
+        "U-QW-HkDOmA:s0079",
+        "U-QW-HkDOmA:s0080"
+      ],
+      "start_s": 293.655,
+      "end_s": 304.658,
+      "text": "So, the scent that marks you isn't exactly yours. It belongs to a colony you never chose. And scrubbing doesn't change it, because the population grows back within hours in the same proportions.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.5438055555555555
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0032",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 32,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0081",
+        "U-QW-HkDOmA:s0082"
+      ],
+      "start_s": 304.838,
+      "end_s": 313.58,
+      "text": "You didn't choose the genes underneath it, either. In 2015, researchers at the London School of Hygiene and Tropical Medicine ran this on twins.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.5645148148148148
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0033",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 33,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0083",
+        "U-QW-HkDOmA:s0084"
+      ],
+      "start_s": 313.94,
+      "end_s": 326.086,
+      "text": "They held one hand from each twin at the end of a Y-shaped tube and let mosquitoes fly toward whichever they preferred. Identical twins share all their genes, and the mosquitoes rated both about the same.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.5813703703703703
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0034",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 34,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0085",
+        "U-QW-HkDOmA:s0086"
+      ],
+      "start_s": 326.346,
+      "end_s": 335.593,
+      "text": "Non-identical twins share half, and the mosquitoes clearly picked a favorite. So, whatever makes a person appealing is mostly inherited, handed down like your height.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.6043444444444445
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0035",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 35,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0087",
+        "U-QW-HkDOmA:s0088"
+      ],
+      "start_s": 335.833,
+      "end_s": 345.723,
+      "text": "There is exactly one lever you can pull tonight, and it's a small one. In 2010, 43 men in Burkina Faso drank either a quart of local beer or a quart of water.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.6219129629629631
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0036",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 36,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0089",
+        "U-QW-HkDOmA:s0090",
+        "U-QW-HkDOmA:s0091",
+        "U-QW-HkDOmA:s0092"
+      ],
+      "start_s": 345.923,
+      "end_s": 356.434,
+      "text": "The water changed nothing. The beer drinkers became measurably more appealing to malaria mosquitoes within 15 minutes. So, the lever only turns one way. A beer makes you a better target.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.6405981481481482
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0037",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 37,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0093",
+        "U-QW-HkDOmA:s0094",
+        "U-QW-HkDOmA:s0095"
+      ],
+      "start_s": 356.775,
+      "end_s": 365.863,
+      "text": "Skipping it leaves you where you already were. There's an obvious objection here. Everyone thinks they get bitten the most because you notice your own welts and never audit anybody else's arms.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.6606944444444444
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0038",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 38,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0096",
+        "U-QW-HkDOmA:s0097",
+        "U-QW-HkDOmA:s0098",
+        "U-QW-HkDOmA:s0099"
+      ],
+      "start_s": 366.124,
+      "end_s": 377.033,
+      "text": "Part of that is real. Getting bitten and reacting to a bite are different things. The welt is an immune response to proteins in mosquito saliva. And how loudly your body answers varies enormously.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.6780074074074075
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0039",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 39,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0100",
+        "U-QW-HkDOmA:s0101"
+      ],
+      "start_s": 377.213,
+      "end_s": 384.957,
+      "text": "People bitten by the same species over and over slowly stop reacting at all. In one study, volunteers took 100 bites every two weeks for 10 months.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.6985425925925927
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0040",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 40,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0102",
+        "U-QW-HkDOmA:s0103",
+        "U-QW-HkDOmA:s0104"
+      ],
+      "start_s": 385.117,
+      "end_s": 392.38,
+      "text": "And by the end, their skin had mostly given up. So the person who walked out clean may not have walked out unbitten. They might just not show it.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.7131796296296297
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0041",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 41,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0105",
+        "U-QW-HkDOmA:s0106",
+        "U-QW-HkDOmA:s0107",
+        "U-QW-HkDOmA:s0108"
+      ],
+      "start_s": 392.54,
+      "end_s": 401.425,
+      "text": "But that's why the nylon experiment mattered. Nobody in it reported how bitten they felt. It was cut up stockings in a box. And the mosquitoes voted the same way for years.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.726925925925926
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0042",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 42,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0109",
+        "U-QW-HkDOmA:s0110",
+        "U-QW-HkDOmA:s0111",
+        "U-QW-HkDOmA:s0112"
+      ],
+      "start_s": 401.685,
+      "end_s": 411.213,
+      "text": "The far more interesting group is at the bottom of that tournament. They aren't invisible exactly. They still get bitten. But a mosquito choosing between them and you will take you close to every time.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.7438611111111111
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0043",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 43,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0113",
+        "U-QW-HkDOmA:s0114"
+      ],
+      "start_s": 411.414,
+      "end_s": 415.157,
+      "text": "We know what your skin has too much of. Nobody has worked out what theirs has instead.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.7618777777777778
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0044",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 44,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0115",
+        "U-QW-HkDOmA:s0116"
+      ],
+      "start_s": 415.317,
+      "end_s": 421.883,
+      "text": "If anyone could isolate whatever makes a person boring to a mosquito, the prize wouldn't be a spray that wears off. It would be camouflage.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.7691055555555556
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0045",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 45,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0117",
+        "U-QW-HkDOmA:s0118"
+      ],
+      "start_s": 422.343,
+      "end_s": 432.209,
+      "text": "so the same lab went at it from the other direction and tried to break the mosquito instead. They engineered insects with the receptor for carbon dioxide deleted, so the ignition switch this whole hunt runs on was gone.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.7821166666666667
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0046",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 46,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0119",
+        "U-QW-HkDOmA:s0120",
+        "U-QW-HkDOmA:s0121"
+      ],
+      "start_s": 432.409,
+      "end_s": 442.154,
+      "text": "Released into an enclosure with people inside, they were barely slowed down, so the team deleted entire families of odor-detecting genes. They still found the humans. The wiring explains it.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.8007574074074074
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0047",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 47,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0122",
+        "U-QW-HkDOmA:s0123"
+      ],
+      "start_s": 442.334,
+      "end_s": 454.4,
+      "text": "In most animals, each smell-detecting nerve cell carries one type of detector, so breaking the detector breaks the scents. A mosquito's nerve cells carry several detectors at once, tuned to different chemicals, running side by side.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.819137037037037
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0048",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 48,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0124",
+        "U-QW-HkDOmA:s0125",
+        "U-QW-HkDOmA:s0126"
+      ],
+      "start_s": 454.52,
+      "end_s": 461.602,
+      "text": "There is no single wire to cut. Take away one route to you and the others quietly pick up the slack. So the field flipped the problem over.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.8417037037037036
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0049",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 49,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0127",
+        "U-QW-HkDOmA:s0128"
+      ],
+      "start_s": 461.862,
+      "end_s": 471.264,
+      "text": "If you can't hide a person, use the smell instead. Traps baited with that same cheesy signature are now deployed in parts of Africa, built to out-compete the humans sleeping nearby.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.8553000000000001
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0050",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 50,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0129",
+        "U-QW-HkDOmA:s0130"
+      ],
+      "start_s": 471.444,
+      "end_s": 481.387,
+      "text": "Which is why anyone spends a career on this. In 2024, there were an estimated 282 million cases of malaria and about 610,000 deaths.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.8730444444444445
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0051",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 51,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0131",
+        "U-QW-HkDOmA:s0132",
+        "U-QW-HkDOmA:s0133"
+      ],
+      "start_s": 481.647,
+      "end_s": 490.79,
+      "text": "That's a full jumbo jet falling out of the sky every six hours, all year. And in Africa, about three quarters of the dead were children under five. Snakes kill somewhere near 100,000 a year.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.8919388888888888
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0052",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 52,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0134",
+        "U-QW-HkDOmA:s0135"
+      ],
+      "start_s": 491.97,
+      "end_s": 498.753,
+      "text": "Every large predator you'd name first added together doesn't come close to even that. To be fair to her, she isn't the one doing the killing.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.9110555555555556
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0053",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 53,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0136",
+        "U-QW-HkDOmA:s0137"
+      ],
+      "start_s": 499.033,
+      "end_s": 504.236,
+      "text": "She's the delivery system and the parasite in her spit does the rest. She's just very good at finding the address.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.9241351851851852
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0054",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 54,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0138",
+        "U-QW-HkDOmA:s0139"
+      ],
+      "start_s": 504.416,
+      "end_s": 512.32,
+      "text": "The deadliest animal on earth weighs about as much as a few grains of sand and dies if you clap. So why do mosquitoes always bite you specifically?",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.9341037037037037
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0055",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 55,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0140",
+        "U-QW-HkDOmA:s0141"
+      ],
+      "start_s": 512.5,
+      "end_s": 516.465,
+      "text": "Part of it is real, and part of it is in your head. The real part is your skin.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.9490740740740741
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0056",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 56,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0142",
+        "U-QW-HkDOmA:s0143"
+      ],
+      "start_s": 516.745,
+      "end_s": 526.638,
+      "text": "The bacteria on it give off more of the smell mosquitoes hunt by than the people standing around you, and you can't turn that off. The part that's in your head is the same thing that happens with yellow cars.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.9569351851851852
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0057",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 57,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0144",
+        "U-QW-HkDOmA:s0145",
+        "U-QW-HkDOmA:s0146"
+      ],
+      "start_s": 526.978,
+      "end_s": 532.405,
+      "text": "Once you start looking for them, the road is full of them. You count your own bites. You never count anyone else's.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.9758851851851851
+    },
+    {
+      "window_id": "U-QW-HkDOmA:j0058",
+      "video_id": "U-QW-HkDOmA",
+      "idx": 58,
+      "sent_ids": [
+        "U-QW-HkDOmA:s0147",
+        "U-QW-HkDOmA:s0148"
+      ],
+      "start_s": 532.585,
+      "end_s": 538.893,
+      "text": "But if your skin is the kind they go for, you are not imagining it. You are simply easier to find than the person sitting next to you.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.9862685185185186
+    }
+  ]
+}

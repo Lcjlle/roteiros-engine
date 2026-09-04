@@ -1,0 +1,779 @@
+{
+  "video_id": "d8lMW1uDN4s",
+  "generated_at": "2026-09-04T03:00:43.142350+00:00",
+  "windows": [
+    {
+      "window_id": "d8lMW1uDN4s:j0000",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 0,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0000",
+        "d8lMW1uDN4s:s0001",
+        "d8lMW1uDN4s:s0002"
+      ],
+      "start_s": 0.0,
+      "end_s": 11.24,
+      "text": "Open your fridge right now. A can of soda, some yogurt, leftover pizza, and maybe some fruit flown in from the other side of the planet. But to your ancestors, none of this is food.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0001",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 1,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0003",
+        "d8lMW1uDN4s:s0004",
+        "d8lMW1uDN4s:s0005",
+        "d8lMW1uDN4s:s0006"
+      ],
+      "start_s": 7.08,
+      "end_s": 22.52,
+      "text": "So, what did they actually eat? The answer would horrify most people alive today. Scientists have found proof in caves around the world. Proof that changes everything we thought we knew about our own species.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.014628099173553719
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0002",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 2,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0007",
+        "d8lMW1uDN4s:s0008",
+        "d8lMW1uDN4s:s0009"
+      ],
+      "start_s": 18.88,
+      "end_s": 30.68,
+      "text": "But to understand it, we have to go back to the beginning, roughly 3 million years ago. Your earliest ancestors were not hunters. They were scavengers.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.039008264462809916
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0003",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 3,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0010",
+        "d8lMW1uDN4s:s0011"
+      ],
+      "start_s": 26.48,
+      "end_s": 41.72,
+      "text": "When a lion killed an antelope on the African savanna, it ate parts first, the muscle, the liver, the heart. Then the hyenas came in for the rest, and they crunched through the ribs, the skin, and the smaller bones.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.054710743801652896
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0004",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 4,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0012",
+        "d8lMW1uDN4s:s0013"
+      ],
+      "start_s": 39.84,
+      "end_s": 52.52,
+      "text": "By the time our ancestors got there, what was left was scraps, thick leg bones, bones too thick even for hyena jaws to break. And this is what our ancestors ate.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.08231404958677686
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0005",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 5,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0014",
+        "d8lMW1uDN4s:s0015"
+      ],
+      "start_s": 48.28,
+      "end_s": 61.760000000000005,
+      "text": "Their signature meal was bone marrow. Early humans would creep up to a stripped carcass, grab the thickest leg bones, and smash them open with stone flakes called Oldowan tools.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.09975206611570248
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0006",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 6,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0016",
+        "d8lMW1uDN4s:s0017",
+        "d8lMW1uDN4s:s0018",
+        "d8lMW1uDN4s:s0019"
+      ],
+      "start_s": 58.88,
+      "end_s": 71.04,
+      "text": "Inside was marrow, gray, slick, dripping fat. They scooped it out with their fingers and ate it raw. For our ancestors, this was a feast. No other animal could get at it.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.12165289256198347
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0007",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 7,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0020",
+        "d8lMW1uDN4s:s0021"
+      ],
+      "start_s": 67.4,
+      "end_s": 80.04,
+      "text": "The marrow was sealed inside thick thigh bones, and we had the one thing no other scavenger had, hands that could grip a rock hard enough to break them open. They ate the brains, too.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.13925619834710745
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0008",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 8,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0022",
+        "d8lMW1uDN4s:s0023"
+      ],
+      "start_s": 76.04,
+      "end_s": 87.92,
+      "text": "A cracked skull holds almost a pound of solid fat, and fat is the most calorie-dense food in the animal. For an ancestor living on scraps, a skull was a jackpot.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.15710743801652893
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0009",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 9,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0024",
+        "d8lMW1uDN4s:s0025",
+        "d8lMW1uDN4s:s0026",
+        "d8lMW1uDN4s:s0027"
+      ],
+      "start_s": 83.56,
+      "end_s": 98.48,
+      "text": "This is why your body still treats fat like treasure. It still remembers. We also ate insects, termites, grubs, beetles, fat white larvae the size of your thumb. They crunched like shrimp.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.17264462809917355
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0010",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 10,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0028",
+        "d8lMW1uDN4s:s0029",
+        "d8lMW1uDN4s:s0030"
+      ],
+      "start_s": 94.76,
+      "end_s": 106.24,
+      "text": "For your deep ancestors, insects were not a last resort. They were dinner. This was life for over a million years, day after day, generation after generation.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.19578512396694217
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0011",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 11,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0031",
+        "d8lMW1uDN4s:s0032",
+        "d8lMW1uDN4s:s0033",
+        "d8lMW1uDN4s:s0034"
+      ],
+      "start_s": 103.0,
+      "end_s": 117.16,
+      "text": "But what came later is worse than you can imagine. First, fire. The oldest human fire we have ever found is inside Wonderwerk Cave in South Africa. It is about a million years old.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.2128099173553719
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0012",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 12,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0035",
+        "d8lMW1uDN4s:s0036",
+        "d8lMW1uDN4s:s0037"
+      ],
+      "start_s": 112.84,
+      "end_s": 127.24,
+      "text": "Once we had fire, we had cooking. Meat roasted over coals, roots buried in hot ashes, marrow bones dropped in the embers. Cooking is pre-digestion.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.2331404958677686
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0013",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 13,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0038",
+        "d8lMW1uDN4s:s0039"
+      ],
+      "start_s": 122.08,
+      "end_s": 133.04,
+      "text": "Raw meat and raw plants force your gut to do hours of chemical work to break them down. Cooked food is already partly broken apart.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.2522314049586777
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0014",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 14,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0040",
+        "d8lMW1uDN4s:s0041"
+      ],
+      "start_s": 129.2,
+      "end_s": 142.84,
+      "text": "Your body spends less energy digesting it and pulls more calories out of every bite. And scientists believe that as our ancestors started cooking, their guts shrank.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.26694214876033057
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0015",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 15,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0042",
+        "d8lMW1uDN4s:s0043"
+      ],
+      "start_s": 138.76,
+      "end_s": 151.76,
+      "text": "That freed up huge amounts of energy, and it all went to one place, the brain. It is only 2% of your body weight, but uses 20% of your body's calories.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.286694214876033
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0016",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 16,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0044",
+        "d8lMW1uDN4s:s0045",
+        "d8lMW1uDN4s:s0046",
+        "d8lMW1uDN4s:s0047"
+      ],
+      "start_s": 147.2,
+      "end_s": 163.44,
+      "text": "You cannot run that machine on raw leaves and termites. You need cooked, fat-rich food. Cooking gave us our brains, and our brains gave us everything else. That's when the menu exploded.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.30413223140495865
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0017",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 17,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0048",
+        "d8lMW1uDN4s:s0049"
+      ],
+      "start_s": 158.64,
+      "end_s": 174.35999999999999,
+      "text": "By 300,000 years ago, your ancestors looked much like you do today, and they were eating almost everything they could catch, dig up, or reach. Mammoth, bison, wild horse, and reindeer on the plains.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.3277685950413223
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0018",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 18,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0050",
+        "d8lMW1uDN4s:s0051",
+        "d8lMW1uDN4s:s0052",
+        "d8lMW1uDN4s:s0053"
+      ],
+      "start_s": 170.16,
+      "end_s": 183.96,
+      "text": "Fish and shellfish from the rivers and coasts. Roots, wild grains, berries, nuts, and mushrooms from the land itself. Eggs stolen from nests, and honey. Especially honey.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.3515702479338843
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0019",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 19,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0054",
+        "d8lMW1uDN4s:s0055"
+      ],
+      "start_s": 179.28,
+      "end_s": 192.96,
+      "text": "The Hadza, a hunter-gatherer tribe in Tanzania, still eat the way humans ate before farming existed. About 15% of their calories come from wild honey.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.37041322314049585
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0020",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 20,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0056",
+        "d8lMW1uDN4s:s0057"
+      ],
+      "start_s": 190.8,
+      "end_s": 206.76000000000002,
+      "text": "They climb dangerous trees, get stung hundreds of times, and keep going back because nothing else in the wild packs that many calories into one bite. And here's what's strange, that exact same craving is still alive in you today, sugar.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.3942148760330579
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0021",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 21,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0058",
+        "d8lMW1uDN4s:s0059"
+      ],
+      "start_s": 203.4,
+      "end_s": 219.83999999999997,
+      "text": "Your brain is wired for it because for hundreds of thousands of years, sugar gave your body two things at once, instant energy to use right now, and extra fuel your body stored as fat. That fat was the only thing that kept you alive when food ran out.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.42024793388429754
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0022",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 22,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0060",
+        "d8lMW1uDN4s:s0061"
+      ],
+      "start_s": 215.92,
+      "end_s": 227.16,
+      "text": "A dripping honeycomb was the richest meal most of your ancestors ever laid eyes on. This is the program running inside you right now.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.4461157024793388
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0023",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 23,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0062",
+        "d8lMW1uDN4s:s0063",
+        "d8lMW1uDN4s:s0064"
+      ],
+      "start_s": 223.72,
+      "end_s": 237.84,
+      "text": "Your body cannot tell the difference between honey in a tree and a donut. Modern food took that ancient signal and turned it into a business. Soda, candy, cereal, sauces, even most bread.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.4622314049586777
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0024",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 24,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0065",
+        "d8lMW1uDN4s:s0066",
+        "d8lMW1uDN4s:s0067"
+      ],
+      "start_s": 234.52,
+      "end_s": 247.92,
+      "text": "Almost every packaged food on Earth is sugar wearing a different costume. That is why you cannot stop eating it. Your body is still trying to store fat for the next time food runs out.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.48454545454545456
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0025",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 25,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0068",
+        "d8lMW1uDN4s:s0069",
+        "d8lMW1uDN4s:s0070",
+        "d8lMW1uDN4s:s0071"
+      ],
+      "start_s": 243.48,
+      "end_s": 256.28,
+      "text": "But sugar wasn't the only thing your body got hooked on. So, what else did your ancestors learn to crave? Meat. A single mammoth carcass could feed a tribe for weeks.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.5030578512396694
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0026",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 26,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0072",
+        "d8lMW1uDN4s:s0073"
+      ],
+      "start_s": 252.28,
+      "end_s": 268.52,
+      "text": "One big kill saved hundreds of hours that would otherwise have been spent picking berries and digging roots. That saved time became time to raise children, teach skills, make better tools, tell stories around fires.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.5212396694214876
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0027",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 27,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0074",
+        "d8lMW1uDN4s:s0075",
+        "d8lMW1uDN4s:s0076"
+      ],
+      "start_s": 264.52,
+      "end_s": 277.72,
+      "text": "This is why your body still craves protein. Every craving you have today was shaped by what kept them alive. But there was one craving we still have trouble admitting, each other.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.5465289256198347
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0028",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 28,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0077",
+        "d8lMW1uDN4s:s0078"
+      ],
+      "start_s": 275.6,
+      "end_s": 288.04,
+      "text": "In a cave in England called Gough's Cave, researchers found human bones from about 14,700 years ago. And the bones told a story no one wanted to read.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.5694214876033058
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0029",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 29,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0079",
+        "d8lMW1uDN4s:s0080",
+        "d8lMW1uDN4s:s0081"
+      ],
+      "start_s": 283.6,
+      "end_s": 299.12,
+      "text": "The skulls had been meticulously cleaned with stone tools. The face and the base had been carefully removed. What was left was the top of the skull, shaped rim by rim into a cup.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.5859504132231406
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0030",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 30,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0082",
+        "d8lMW1uDN4s:s0083",
+        "d8lMW1uDN4s:s0084"
+      ],
+      "start_s": 294.36,
+      "end_s": 309.84000000000003,
+      "text": "The long bones had been cracked open the same way your earliest ancestors cracked open antelope bones for the [snorts] marrow. And here is where it gets worse. This wasn't starvation.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.6081818181818182
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0031",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 31,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0085",
+        "d8lMW1uDN4s:s0086",
+        "d8lMW1uDN4s:s0087",
+        "d8lMW1uDN4s:s0088"
+      ],
+      "start_s": 305.68,
+      "end_s": 324.52,
+      "text": "The same cave contains the remains of horses, deer, and other animals. There was plenty to eat. A 2017 study calculated how many calories a human body actually provides. The answer is around 125,000.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.6315702479338843
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0032",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 32,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0089",
+        "d8lMW1uDN4s:s0090",
+        "d8lMW1uDN4s:s0091",
+        "d8lMW1uDN4s:s0092"
+      ],
+      "start_s": 320.72,
+      "end_s": 331.72,
+      "text": "A single bison holds 600,000. A mammoth, 3 million. Humans weren't efficient food. They were a choice.",
+      "n_words": 17,
+      "n_sentences": 4,
+      "pos_pct": 0.6626446280991736
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0033",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 33,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0093",
+        "d8lMW1uDN4s:s0094",
+        "d8lMW1uDN4s:s0095",
+        "d8lMW1uDN4s:s0096"
+      ],
+      "start_s": 326.8,
+      "end_s": 343.32,
+      "text": "One forearm bone found at Gough's Cave was carved with a zigzag pattern after the meat was gone. This wasn't a last resort. This was a ritual. And Gough's Cave isn't the only site.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.675206611570248
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0034",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 34,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0097",
+        "d8lMW1uDN4s:s0098"
+      ],
+      "start_s": 339.28,
+      "end_s": 354.16,
+      "text": "Similar remains have been found across Europe at sites in Germany, France, Spain, and Croatia. For hundreds of thousands of years in different parts of the world, humans were doing this to each other, not always to survive.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.7009917355371901
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0035",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 35,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0099",
+        "d8lMW1uDN4s:s0100",
+        "d8lMW1uDN4s:s0101",
+        "d8lMW1uDN4s:s0102"
+      ],
+      "start_s": 352.44,
+      "end_s": 362.32,
+      "text": "Because somewhere in our history, we decided it meant something. And it gets stranger. Your ancestors didn't just eat fresh meat. They ate rotten meat.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.7281818181818182
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0036",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 36,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0103",
+        "d8lMW1uDN4s:s0104"
+      ],
+      "start_s": 360.259,
+      "end_s": 372.71999999999997,
+      "text": "When a hunter killed an animal, they couldn't eat the whole thing at once. So, they buried it, stashed it in caves, hid it in cold streams for days, for weeks, sometimes months.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.7443367768595042
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0037",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 37,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0105",
+        "d8lMW1uDN4s:s0106",
+        "d8lMW1uDN4s:s0107"
+      ],
+      "start_s": 368.84,
+      "end_s": 380.71999999999997,
+      "text": "By the time they came back, the meat was crawling with maggots and reeked of decay. They ate it anyway. Some researchers think they even preferred it that way.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.7620661157024793
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0038",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 38,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0108",
+        "d8lMW1uDN4s:s0109",
+        "d8lMW1uDN4s:s0110"
+      ],
+      "start_s": 376.88,
+      "end_s": 393.04,
+      "text": "Rotting meat has already been partly broken down by bacteria, easier to chew, easier to absorb. The bacteria even produce B vitamins your body needs. Your body still remembers this.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.7786776859504132
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0039",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 39,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0111",
+        "d8lMW1uDN4s:s0112",
+        "d8lMW1uDN4s:s0113",
+        "d8lMW1uDN4s:s0114"
+      ],
+      "start_s": 387.44,
+      "end_s": 407.0,
+      "text": "Every fermented food you love is controlled rot. Cheese, yogurt, sourdough, beer, wine, soy sauce, pickles. They are all rot, slowed down and made safe. Your taste for cheese didn't develop in a French dairy.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.800495867768595
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0040",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 40,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0115",
+        "d8lMW1uDN4s:s0116"
+      ],
+      "start_s": 404.6,
+      "end_s": 419.48,
+      "text": "It developed on a savanna 100,000 years ago eating something far worse. Every craving you have today for fat, for salt, for sugar, for the richest thing you can find, is still running inside you right now.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.8359504132231406
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0041",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 41,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0117",
+        "d8lMW1uDN4s:s0118"
+      ],
+      "start_s": 415.8,
+      "end_s": 427.76,
+      "text": "Your body doesn't know about grocery stores or refrigerators. It only knows this, eat what's rich, eat what's rare, eat while you can, because tomorrow there might be nothing.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.8590909090909091
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0042",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 42,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0119",
+        "d8lMW1uDN4s:s0120"
+      ],
+      "start_s": 424.12,
+      "end_s": 439.71999999999997,
+      "text": "At 11:00 p.m., when you open the fridge even though you're not hungry, you're running a 3 million-year-old program, still scanning, still trying to keep you alive. But the world it was built for is gone.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.8762809917355372
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0043",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 43,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0121",
+        "d8lMW1uDN4s:s0122"
+      ],
+      "start_s": 435.84,
+      "end_s": 446.08000000000004,
+      "text": "If you took a modern human and dropped them into the world of 50,000 years ago, they would probably die in days. You would not know how to find water.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.900495867768595
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0044",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 44,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0123",
+        "d8lMW1uDN4s:s0124"
+      ],
+      "start_s": 443.04,
+      "end_s": 456.64,
+      "text": "Half the plants would be a mystery, and you would not be strong enough to run down an animal, climb a tree for honey, or crack open a thigh bone for marrow. You would die staring at a landscape full of food you could not see.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.9153719008264464
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0045",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 45,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0125",
+        "d8lMW1uDN4s:s0126",
+        "d8lMW1uDN4s:s0127"
+      ],
+      "start_s": 453.12,
+      "end_s": 466.52,
+      "text": "But if you dropped a 50,000-year-old human into your kitchen, they would think they had walked into a god's pantry. They would not understand any of it. A cold, sweet drink sealed in metal.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.936198347107438
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0046",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 46,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0128",
+        "d8lMW1uDN4s:s0129",
+        "d8lMW1uDN4s:s0130",
+        "d8lMW1uDN4s:s0131"
+      ],
+      "start_s": 462.52,
+      "end_s": 472.44,
+      "text": "Bread that someone else baked. Milk that sat sealed and fresh for weeks. Fruit from places they had never heard of. Food that nobody had to chase.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.9556198347107437
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0047",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 47,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0132",
+        "d8lMW1uDN4s:s0133",
+        "d8lMW1uDN4s:s0134"
+      ],
+      "start_s": 470.88,
+      "end_s": 485.03999999999996,
+      "text": "It would look like the richest place anyone had ever walked into. For 3 million years, every human who ever lived was hungry, cold, and tired. You might be the first one who isn't.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.9728925619834711
+    },
+    {
+      "window_id": "d8lMW1uDN4s:j0048",
+      "video_id": "d8lMW1uDN4s",
+      "idx": 48,
+      "sent_ids": [
+        "d8lMW1uDN4s:s0135"
+      ],
+      "start_s": 479.52,
+      "end_s": 485.04,
+      "text": "And you have no idea how rare that is.",
+      "n_words": 9,
+      "n_sentences": 1,
+      "pos_pct": 0.9907438016528926
+    }
+  ]
+}

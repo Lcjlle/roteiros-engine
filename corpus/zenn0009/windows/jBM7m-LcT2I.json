@@ -1,0 +1,770 @@
+{
+  "video_id": "jBM7m-LcT2I",
+  "generated_at": "2026-09-04T03:00:43.147330+00:00",
+  "windows": [
+    {
+      "window_id": "jBM7m-LcT2I:j0000",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 0,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0000",
+        "jBM7m-LcT2I:s0001",
+        "jBM7m-LcT2I:s0002"
+      ],
+      "start_s": 0.111,
+      "end_s": 5.496,
+      "text": "This crow is hurling itself at a man's head, screaming in his face. So is that one. And that one.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.00025995316159250587
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0001",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 1,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0003",
+        "jBM7m-LcT2I:s0004"
+      ],
+      "start_s": 5.656,
+      "end_s": 13.363,
+      "text": "On a single walk across one college campus, 47 of the 53 crows he passed broke off to come after him. But the crows are not really after the man.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.01324590163934426
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0002",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 2,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0005",
+        "jBM7m-LcT2I:s0006",
+        "jBM7m-LcT2I:s0007",
+        "jBM7m-LcT2I:s0008"
+      ],
+      "start_s": 13.503,
+      "end_s": 23.112,
+      "text": "They are after the rubber mask on his face. Take the mask off, and they ignore him completely. Put it back on, and they come screaming every time. What did he do to deserve this?",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.03162295081967213
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0003",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 3,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0009",
+        "jBM7m-LcT2I:s0010"
+      ],
+      "start_s": 23.432,
+      "end_s": 35.456,
+      "text": "Eight years ago, for a study on how crows recognize faces, he put on a rubber mask, trapped seven of them, and let them go unharmed minutes later. Put on a different mask and walk the same path, and the crows ignore you completely.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.05487587822014051
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0004",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 4,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0011",
+        "jBM7m-LcT2I:s0012",
+        "jBM7m-LcT2I:s0013",
+        "jBM7m-LcT2I:s0014"
+      ],
+      "start_s": 35.616,
+      "end_s": 44.621,
+      "text": "It is that one face they want. That was the whole crime. Yet, most of the crows coming after him today were never trapped. Many were not even alive when it happened.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.08340983606557377
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0005",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 5,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0015",
+        "jBM7m-LcT2I:s0016"
+      ],
+      "start_s": 44.761,
+      "end_s": 49.784,
+      "text": "So, how does a bird hold a grudge against a face most of them have never even seen? They inherit it.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.10482669789227167
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0006",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 6,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0017",
+        "jBM7m-LcT2I:s0018",
+        "jBM7m-LcT2I:s0019"
+      ],
+      "start_s": 49.944,
+      "end_s": 60.911,
+      "text": "The first crows taught their chicks which face to attack, and those chicks taught theirs. It gets handed down, generation after generation, like a family heirloom. It does not even stop at family.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.1169648711943794
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0007",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 7,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0020",
+        "jBM7m-LcT2I:s0021"
+      ],
+      "start_s": 60.971,
+      "end_s": 72.46,
+      "text": "When one crow starts screaming, the others fly in to see what the fuss is, and they learn the enemy on the spot. These birds have hated one human face for longer than most friendships last, and most of them have no idea why.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.14278922716627634
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0008",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 8,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0022",
+        "jBM7m-LcT2I:s0023"
+      ],
+      "start_s": 72.6,
+      "end_s": 81.048,
+      "text": "So if a bird has ever screamed at you and no one else nearby, that was probably not random. You did something once that it never forgot, and crows are only the beginning.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.17002341920374706
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0009",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 9,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0024",
+        "jBM7m-LcT2I:s0025"
+      ],
+      "start_s": 81.168,
+      "end_s": 90.937,
+      "text": "The deeper you go, the stranger and darker this gets, until you reach an animal that knew a man on sight after years in the wild, when it had every reason to kill him. It does not even take a clever bird.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.1900889929742389
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0010",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 10,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0026",
+        "jBM7m-LcT2I:s0027",
+        "jBM7m-LcT2I:s0028",
+        "jBM7m-LcT2I:s0029"
+      ],
+      "start_s": 91.037,
+      "end_s": 99.303,
+      "text": "The same memory turns up in animals we write off as too stupid to notice anything. Like the pigeon. The flying rat. In a park, two researchers fed the same flock.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.21320140515222483
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0011",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 11,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0030",
+        "jBM7m-LcT2I:s0031",
+        "jBM7m-LcT2I:s0032",
+        "jBM7m-LcT2I:s0033"
+      ],
+      "start_s": 99.563,
+      "end_s": 109.251,
+      "text": "One was gentle. The other chased them over and over. Then they switched roles, and to make it harder, they swapped jackets so the colors were reversed. Could the pigeons still tell them apart?",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.23316861826697893
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0012",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 12,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0034",
+        "jBM7m-LcT2I:s0035",
+        "jBM7m-LcT2I:s0036",
+        "jBM7m-LcT2I:s0037"
+      ],
+      "start_s": 109.591,
+      "end_s": 115.355,
+      "text": "Easily. They kept their distance from the one who used to chase them. no matter whose jacket he had on. They were not reading the clothes.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.2566533957845433
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0013",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 13,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0038",
+        "jBM7m-LcT2I:s0039",
+        "jBM7m-LcT2I:s0040"
+      ],
+      "start_s": 115.736,
+      "end_s": 122.061,
+      "text": "They were reading the face. And these were ordinary wild pigeons that had never been caught or trained. Nobody taught them to do this.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.2710444964871194
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0014",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 14,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0041",
+        "jBM7m-LcT2I:s0042"
+      ],
+      "start_s": 122.321,
+      "end_s": 131.229,
+      "text": "To the pigeon on the sidewalk, you are not part of the scenery. You might already be a face it has filed away, but a bird remembering whether you were kind or cruel is one thing.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.2864660421545667
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0015",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 15,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0043",
+        "jBM7m-LcT2I:s0044"
+      ],
+      "start_s": 131.449,
+      "end_s": 138.215,
+      "text": "What about an animal that remembers the look on your face? Researchers showed a group of horses a single photograph of a person making an angry face.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.3078430913348946
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0016",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 16,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0045",
+        "jBM7m-LcT2I:s0046",
+        "jBM7m-LcT2I:s0047",
+        "jBM7m-LcT2I:s0048"
+      ],
+      "start_s": 138.395,
+      "end_s": 144.737,
+      "text": "Hours later, that same person walked into the stable in the flesh. Calm now. Neutral. Nothing on their face at all.",
+      "n_words": 21,
+      "n_sentences": 4,
+      "pos_pct": 0.32411007025761124
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0017",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 17,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0049",
+        "jBM7m-LcT2I:s0050"
+      ],
+      "start_s": 144.938,
+      "end_s": 152.721,
+      "text": "The horses were not fooled. They watched that person warily, turning to study them with the left eye, the one wired straight to the part of the brain that handles threats.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.33943325526932083
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0018",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 18,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0051",
+        "jBM7m-LcT2I:s0052"
+      ],
+      "start_s": 153.001,
+      "end_s": 163.985,
+      "text": "They had never met this human, they had seen one picture of them in a bad mood, and they had already decided to keep an eye on them. A horse can hold your worst moment against you, from a photograph before you have said a single word.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.35831615925058546
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0019",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 19,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0053",
+        "jBM7m-LcT2I:s0054",
+        "jBM7m-LcT2I:s0055"
+      ],
+      "start_s": 164.165,
+      "end_s": 170.647,
+      "text": "And that is a big mammal with a big brain. surely something with almost no brain at all would be safe to ignore you. Think again.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.38446135831381734
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0020",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 20,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0056",
+        "jBM7m-LcT2I:s0057"
+      ],
+      "start_s": 170.948,
+      "end_s": 178.97,
+      "text": "An octopus has no bones, three hearts, blue blood, and most of its brain spread out through its arms. It is about as close to an alien as anything on this planet.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.4003466042154567
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0021",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 21,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0058",
+        "jBM7m-LcT2I:s0059",
+        "jBM7m-LcT2I:s0060"
+      ],
+      "start_s": 179.17,
+      "end_s": 187.893,
+      "text": "It can still pick you out of a crowd. In one experiment, a tank of octopuses met two keepers in identical uniforms. One fed them, the other poked them with a bristly stick.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.41960187353629974
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0022",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 22,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0061",
+        "jBM7m-LcT2I:s0062"
+      ],
+      "start_s": 188.053,
+      "end_s": 192.795,
+      "text": "It did not take long. The octopuses started reaching out for the nice keeper and shrinking away from the mean one.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.44040515222482435
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0023",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 23,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0063",
+        "jBM7m-LcT2I:s0064"
+      ],
+      "start_s": 192.975,
+      "end_s": 205.28,
+      "text": "and they began aiming a hard jet of water at the one they had learned to dislike. In another lab, an octopus took against one staff member for no reason anyone could see, and soaked her with a blast of water down the neck every time she walked past.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.45193208430913345
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0024",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 24,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0065",
+        "jBM7m-LcT2I:s0066"
+      ],
+      "start_s": 205.56,
+      "end_s": 211.942,
+      "text": "A creature with a mind nothing like ours, looking up at a human and thinking, not you again. So far, every one of these is a grudge.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.4814051522248244
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0025",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 25,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0067",
+        "jBM7m-LcT2I:s0068"
+      ],
+      "start_s": 212.182,
+      "end_s": 217.745,
+      "text": "But memory cuts both ways, and this is where it gets beautiful. Back to the crows, because a crow keeps two lists.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.4969133489461358
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0026",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 26,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0069",
+        "jBM7m-LcT2I:s0070"
+      ],
+      "start_s": 218.085,
+      "end_s": 226.067,
+      "text": "One for the people it cannot forgive, and one for the people it loves. In Seattle, a little girl named Gabby started feeding the crows in her yard when she was four.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.5107377049180328
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0027",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 27,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0071",
+        "jBM7m-LcT2I:s0072"
+      ],
+      "start_s": 226.327,
+      "end_s": 241.632,
+      "text": "Scraps on the way to the bus, a full birdbath, every day like clockwork, and the crows started paying her back. They left her gifts on the feeder, beads, buttons, an earring, a shard of polished glass, and a tiny piece of metal stamped with the word BEST, like half of a friendship charm.",
+      "n_words": 54,
+      "n_sentences": 2,
+      "pos_pct": 0.53003981264637
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0028",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 28,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0073",
+        "jBM7m-LcT2I:s0074",
+        "jBM7m-LcT2I:s0075",
+        "jBM7m-LcT2I:s0076"
+      ],
+      "start_s": 241.852,
+      "end_s": 250.354,
+      "text": "Crows do not normally do this. Most people who feed them get nothing but more crows. Gabby got treasures. Then her mother lost a lens cap in a nearby alley.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.5663981264637002
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0029",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 29,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0077",
+        "jBM7m-LcT2I:s0078"
+      ],
+      "start_s": 250.674,
+      "end_s": 257.015,
+      "text": "Days later, it turned up on the feeder, right where the crows leave their gifts. They had found the thing her family lost and carried it home.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.5870585480093677
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0030",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 30,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0079",
+        "jBM7m-LcT2I:s0080",
+        "jBM7m-LcT2I:s0081"
+      ],
+      "start_s": 257.235,
+      "end_s": 264.777,
+      "text": "To those crows, Gabby was not a random kid in a yard. She was a face worth keeping. So animals remember the faces that fed them, and the faces that hurt them.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.6024238875878221
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0031",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 31,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0082",
+        "jBM7m-LcT2I:s0083"
+      ],
+      "start_s": 264.877,
+      "end_s": 269.838,
+      "text": "But how long can a memory like that actually last? For that, look at the animals closest to us.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.620320843091335
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0032",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 32,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0084",
+        "jBM7m-LcT2I:s0085"
+      ],
+      "start_s": 270.118,
+      "end_s": 283.561,
+      "text": "Chimpanzees and bonobos' red faces almost exactly the way you do, and they almost never let one go. In one study, apes were shown photos of old groupmates and people they had not seen in years, and their attention went straight to the familiar face.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.6325948477751756
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0033",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 33,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0086",
+        "jBM7m-LcT2I:s0087"
+      ],
+      "start_s": 283.941,
+      "end_s": 291.003,
+      "text": "One bonobo picked out relatives she had not seen in 26 years. That is the longest face memory ever recorded in any animal but us.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.664967213114754
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0034",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 34,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0088",
+        "jBM7m-LcT2I:s0089"
+      ],
+      "start_s": 291.243,
+      "end_s": 303.06,
+      "text": "They have even recognized specific humans after decades apart, with half the face hidden behind a mask and still known exactly who they were. To an ape, a face you showed it once can still be sitting in its head a quarter of a century later.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.6820679156908664
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0035",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 35,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0090",
+        "jBM7m-LcT2I:s0091",
+        "jBM7m-LcT2I:s0092",
+        "jBM7m-LcT2I:s0093"
+      ],
+      "start_s": 303.201,
+      "end_s": 312.41,
+      "text": "But remembering a face for that long is one thing. The deepest memory of all is not about how long it lasts. It is about love. This is the moment from the very start.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.7100725995316159
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0036",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 36,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0094",
+        "jBM7m-LcT2I:s0095"
+      ],
+      "start_s": 312.61,
+      "end_s": 322.558,
+      "text": "The animal that knew a man after years in the wild, when it had every reason to kill him. In 1969, two young Australians walked into an exotic animal store and bought a lion cub.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7321077283372366
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0037",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 37,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0096",
+        "jBM7m-LcT2I:s0097"
+      ],
+      "start_s": 322.698,
+      "end_s": 327.521,
+      "text": "They named him Christian and raised him in the middle of the city. in the basement of the furniture shop where they worked.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.7557330210772834
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0038",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 38,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0098"
+      ],
+      "start_s": 327.661,
+      "end_s": 339.244,
+      "text": "But a lion does not stay small, so they did the hardest thing they could and gave him a wild life, handing him to a conservationist named George Adamson, who taught a city-raised cub how to be a real lion in the Kenyan bush.",
+      "n_words": 44,
+      "n_sentences": 1,
+      "pos_pct": 0.7673559718969555
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0039",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 39,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0099",
+        "jBM7m-LcT2I:s0100"
+      ],
+      "start_s": 339.544,
+      "end_s": 346.346,
+      "text": "A year passed. Christian was a wild lion now, leading his own pride, hunting his own food, hundreds of miles from the life he was born into.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.7951850117096019
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0040",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 40,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0101",
+        "jBM7m-LcT2I:s0102",
+        "jBM7m-LcT2I:s0103"
+      ],
+      "start_s": 346.526,
+      "end_s": 353.089,
+      "text": "And the two men flew back to Africa to find out if he would even remember them. Everyone told them it was pointless. A year is a long time.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.811536299765808
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0041",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 41,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0104",
+        "jBM7m-LcT2I:s0105",
+        "jBM7m-LcT2I:s0106",
+        "jBM7m-LcT2I:s0107"
+      ],
+      "start_s": 353.229,
+      "end_s": 359.832,
+      "text": "Christian was a grown wild male who had met other people since. He might not know them. He might charge. They climbed onto a rock and waited.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.8272341920374707
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0042",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 42,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0108",
+        "jBM7m-LcT2I:s0109",
+        "jBM7m-LcT2I:s0110"
+      ],
+      "start_s": 360.052,
+      "end_s": 368.517,
+      "text": "Christian came forward slowly, head low, studying them the way a wild lion studies a stranger. For a moment, nobody breathed. And then he stopped pretending to be wild.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.8432131147540984
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0043",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 43,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0111",
+        "jBM7m-LcT2I:s0112"
+      ],
+      "start_s": 368.777,
+      "end_s": 377.943,
+      "text": "He broke into a run, rose onto his back legs, threw his paws over their shoulders, and pushed his head into their faces like an overgrown house cat. A year apart, a whole new life.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.8636463700234192
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0044",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 44,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0113",
+        "jBM7m-LcT2I:s0114",
+        "jBM7m-LcT2I:s0115",
+        "jBM7m-LcT2I:s0116"
+      ],
+      "start_s": 378.224,
+      "end_s": 388.151,
+      "text": "And he knew them instantly. Even his lionesses, who had never trusted a human, let the two men walk right up. Because Christian had decided they were family. He had spent a year turning wild.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.8857704918032787
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0045",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 45,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0117",
+        "jBM7m-LcT2I:s0118"
+      ],
+      "start_s": 388.391,
+      "end_s": 396.776,
+      "text": "None of it had touched the part of him that remembered the two men who raised him. To almost everyone you pass today, you are a face in a crowd, gone the second you turn the corner.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.9095807962529274
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0046",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 46,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0119",
+        "jBM7m-LcT2I:s0120"
+      ],
+      "start_s": 396.996,
+      "end_s": 406.421,
+      "text": "But that is a human way of seeing it. A crow might know your face, a pigeon might know your walk, and somewhere, an animal you have completely forgotten still has not forgotten you.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.9297330210772833
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0047",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 47,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0121",
+        "jBM7m-LcT2I:s0122"
+      ],
+      "start_s": 406.601,
+      "end_s": 417.547,
+      "text": "You were never interchangeable to them, you were a specific person, remembered, and quietly judged, long after you forgot the moment ever happened. The kindness you showed an animal years ago might still be waiting to be repaid.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.9522271662763466
+    },
+    {
+      "window_id": "jBM7m-LcT2I:j0048",
+      "video_id": "jBM7m-LcT2I",
+      "idx": 48,
+      "sent_ids": [
+        "jBM7m-LcT2I:s0123",
+        "jBM7m-LcT2I:s0124",
+        "jBM7m-LcT2I:s0125",
+        "jBM7m-LcT2I:s0126"
+      ],
+      "start_s": 417.707,
+      "end_s": 426.366,
+      "text": "And so might the cruelty. So the next time you feel watched by something out there, you are probably right. Somewhere out there, an animal is still keeping score. And it knows your face.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.9782365339578454
+    }
+  ]
+}

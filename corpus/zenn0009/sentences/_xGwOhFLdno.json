@@ -1,0 +1,1744 @@
+{
+  "video_id": "_xGwOhFLdno",
+  "duration_s": 696.0,
+  "generated_at": "2026-09-04T02:59:13.409253+00:00",
+  "sentences": [
+    {
+      "sent_id": "_xGwOhFLdno:s0000",
+      "video_id": "_xGwOhFLdno",
+      "idx": 0,
+      "start_s": 0.08,
+      "end_s": 9.84,
+      "text": "In 1994, rangers at a game reserve in South Africa started finding dead rhinos, poachers.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0001",
+      "video_id": "_xGwOhFLdno",
+      "idx": 1,
+      "start_s": 5.92,
+      "end_s": 13.759,
+      "text": "Obviously, there was no second theory except the horn was still attached.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0002",
+      "video_id": "_xGwOhFLdno",
+      "idx": 2,
+      "start_s": 9.84,
+      "end_s": 19.92,
+      "text": "Whoever killed this rhino had left behind the only part of it worth money.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0003",
+      "video_id": "_xGwOhFLdno",
+      "idx": 3,
+      "start_s": 13.759,
+      "end_s": 22.560000000000002,
+      "text": "Then they found the next body and the next about one a month every month.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0004",
+      "video_id": "_xGwOhFLdno",
+      "idx": 4,
+      "start_s": 19.92,
+      "end_s": 30.799999999999997,
+      "text": "And on every carcass the same impossible wounds, deep punctures driven down into the back and shoulders from above, broken ribs.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0005",
+      "video_id": "_xGwOhFLdno",
+      "idx": 5,
+      "start_s": 26.88,
+      "end_s": 37.120000000000005,
+      "text": "One animal had internal injuries that could only have come from something enormous kneeling on top of it.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0006",
+      "video_id": "_xGwOhFLdno",
+      "idx": 6,
+      "start_s": 32.64,
+      "end_s": 38.800000000000004,
+      "text": "And around every kill site, the same signature.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0007",
+      "video_id": "_xGwOhFLdno",
+      "idx": 7,
+      "start_s": 34.88,
+      "end_s": 40.718999999999994,
+      "text": "Flattened brush, uprooted trees, and pressed into the dirt.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0008",
+      "video_id": "_xGwOhFLdno",
+      "idx": 8,
+      "start_s": 38.8,
+      "end_s": 42.959999999999994,
+      "text": "Footprints the size of dinner plates.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0009",
+      "video_id": "_xGwOhFLdno",
+      "idx": 9,
+      "start_s": 40.719,
+      "end_s": 45.120000000000005,
+      "text": "Elephant tracks.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0010",
+      "video_id": "_xGwOhFLdno",
+      "idx": 10,
+      "start_s": 40.719,
+      "end_s": 45.120000000000005,
+      "text": "This is Palanesburg.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0011",
+      "video_id": "_xGwOhFLdno",
+      "idx": 11,
+      "start_s": 42.96,
+      "end_s": 50.559,
+      "text": "It's the cleanest answer anyone has ever gotten to a much older question.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0012",
+      "video_id": "_xGwOhFLdno",
+      "idx": 12,
+      "start_s": 45.12,
+      "end_s": 52.8,
+      "text": "Why the young need the old?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0013",
+      "video_id": "_xGwOhFLdno",
+      "idx": 13,
+      "start_s": 47.76,
+      "end_s": 57.28,
+      "text": "The tracks made no sense because elephants do not kill rhinos.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0014",
+      "video_id": "_xGwOhFLdno",
+      "idx": 14,
+      "start_s": 52.8,
+      "end_s": 61.120000000000005,
+      "text": "The two species have shared a continent for millions of years, mostly by ignoring each other.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0015",
+      "video_id": "_xGwOhFLdno",
+      "idx": 15,
+      "start_s": 57.28,
+      "end_s": 66.72,
+      "text": "In the rare recorded cases where an elephant killed one, it was a mother defending her calf at a water hole.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0016",
+      "video_id": "_xGwOhFLdno",
+      "idx": 16,
+      "start_s": 63.12,
+      "end_s": 66.72,
+      "text": "This was different.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0017",
+      "video_id": "_xGwOhFLdno",
+      "idx": 17,
+      "start_s": 65.04,
+      "end_s": 69.6,
+      "text": "Some of the victims had been chased down first, attacked again and again.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0018",
+      "video_id": "_xGwOhFLdno",
+      "idx": 18,
+      "start_s": 68.32,
+      "end_s": 74.88,
+      "text": "Whatever was doing this was not defending anything.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0019",
+      "video_id": "_xGwOhFLdno",
+      "idx": 19,
+      "start_s": 69.6,
+      "end_s": 74.88,
+      "text": "It was hunting.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0020",
+      "video_id": "_xGwOhFLdno",
+      "idx": 20,
+      "start_s": 69.6,
+      "end_s": 84.32,
+      "text": "In 1979, South Africa took a ring of old volcanic hills covered in worn out farmland and decided to turn it back into wild Africa.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0021",
+      "video_id": "_xGwOhFLdno",
+      "idx": 21,
+      "start_s": 78.64,
+      "end_s": 86.96,
+      "text": "Around 6,000 animals were trucked in.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0022",
+      "video_id": "_xGwOhFLdno",
+      "idx": 22,
+      "start_s": 81.6,
+      "end_s": 89.36,
+      "text": "an entire ecosystem delivered by road.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0023",
+      "video_id": "_xGwOhFLdno",
+      "idx": 23,
+      "start_s": 84.32,
+      "end_s": 94.799,
+      "text": "And in 1980, the elephants arrived, 18 of them, every single one a child.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0024",
+      "video_id": "_xGwOhFLdno",
+      "idx": 24,
+      "start_s": 89.36,
+      "end_s": 96.64,
+      "text": "Orphans between 4 and 6 years old.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0025",
+      "video_id": "_xGwOhFLdno",
+      "idx": 25,
+      "start_s": 92.0,
+      "end_s": 98.4,
+      "text": "Not one adult came with them.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0026",
+      "video_id": "_xGwOhFLdno",
+      "idx": 26,
+      "start_s": 94.799,
+      "end_s": 100.64,
+      "text": "And the reason why is the dark heart of this story.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0027",
+      "video_id": "_xGwOhFLdno",
+      "idx": 27,
+      "start_s": 96.64,
+      "end_s": 102.32000000000001,
+      "text": "The orphans came from Krueger National Park.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0028",
+      "video_id": "_xGwOhFLdno",
+      "idx": 28,
+      "start_s": 98.4,
+      "end_s": 106.079,
+      "text": "Krueger had the opposite problem from almost every other park in Africa.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0029",
+      "video_id": "_xGwOhFLdno",
+      "idx": 29,
+      "start_s": 102.32,
+      "end_s": 111.119,
+      "text": "Fenced in and protected from poaching, it had too many elephants.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0030",
+      "video_id": "_xGwOhFLdno",
+      "idx": 30,
+      "start_s": 106.079,
+      "end_s": 114.88,
+      "text": "So from 1967 onward, it did what was considered responsible wildlife management at the time.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0031",
+      "video_id": "_xGwOhFLdno",
+      "idx": 31,
+      "start_s": 111.119,
+      "end_s": 116.799,
+      "text": "Every year it called them.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0032",
+      "video_id": "_xGwOhFLdno",
+      "idx": 32,
+      "start_s": 113.04,
+      "end_s": 124.15899999999999,
+      "text": "A helicopter would come in low over a herd and a marksman would shoot the matriarch first, the oldest female, the one carrying the family's entire memory.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0033",
+      "video_id": "_xGwOhFLdno",
+      "idx": 33,
+      "start_s": 120.719,
+      "end_s": 128.399,
+      "text": "Where the water is in a drought year, which things are dangerous, how worried to be.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0034",
+      "video_id": "_xGwOhFLdno",
+      "idx": 34,
+      "start_s": 124.159,
+      "end_s": 131.039,
+      "text": "When she is calm, everyone is calm.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0035",
+      "video_id": "_xGwOhFLdno",
+      "idx": 35,
+      "start_s": 126.079,
+      "end_s": 133.04,
+      "text": "And when she falls, nobody runs.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0036",
+      "video_id": "_xGwOhFLdno",
+      "idx": 36,
+      "start_s": 128.399,
+      "end_s": 134.72,
+      "text": "Elephants don't abandon their dead.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0037",
+      "video_id": "_xGwOhFLdno",
+      "idx": 37,
+      "start_s": 131.039,
+      "end_s": 138.16,
+      "text": "The family gathers around her body and tries to lift her back up.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0038",
+      "video_id": "_xGwOhFLdno",
+      "idx": 38,
+      "start_s": 134.72,
+      "end_s": 142.64,
+      "text": "So the shooters would work through them where they stood one by one until the whole herd was down.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0039",
+      "video_id": "_xGwOhFLdno",
+      "idx": 39,
+      "start_s": 138.16,
+      "end_s": 144.48000000000002,
+      "text": "The logic was that this was the humane version.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0040",
+      "video_id": "_xGwOhFLdno",
+      "idx": 40,
+      "start_s": 142.64,
+      "end_s": 153.44,
+      "text": "Leaving survivors in a species that remembers everything was considered cruer than erasing the whole unit at once.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0041",
+      "video_id": "_xGwOhFLdno",
+      "idx": 41,
+      "start_s": 148.56,
+      "end_s": 155.599,
+      "text": "More than 14,000 elephants were killed this way over three decades.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0042",
+      "video_id": "_xGwOhFLdno",
+      "idx": 42,
+      "start_s": 151.28,
+      "end_s": 157.76,
+      "text": "But the youngest calves were spared.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0043",
+      "video_id": "_xGwOhFLdno",
+      "idx": 43,
+      "start_s": 153.44,
+      "end_s": 159.44,
+      "text": "Not out of mercy exactly.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0044",
+      "video_id": "_xGwOhFLdno",
+      "idx": 44,
+      "start_s": 155.599,
+      "end_s": 163.44,
+      "text": "They were spared because they were the only ones small enough to move.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0045",
+      "video_id": "_xGwOhFLdno",
+      "idx": 45,
+      "start_s": 159.44,
+      "end_s": 165.76,
+      "text": "No crane in existence could transport a six-tonon adult.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0046",
+      "video_id": "_xGwOhFLdno",
+      "idx": 46,
+      "start_s": 161.44,
+      "end_s": 167.68,
+      "text": "a calf you could load.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0047",
+      "video_id": "_xGwOhFLdno",
+      "idx": 47,
+      "start_s": 163.44,
+      "end_s": 172.31900000000002,
+      "text": "So the calves stood by while their entire families were shot.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0048",
+      "video_id": "_xGwOhFLdno",
+      "idx": 48,
+      "start_s": 167.68,
+      "end_s": 176.16,
+      "text": "Then they were rounded up, put on trucks, and sold or donated to parks that wanted elephants again.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0049",
+      "video_id": "_xGwOhFLdno",
+      "idx": 49,
+      "start_s": 172.319,
+      "end_s": 177.92,
+      "text": "Parks like Palanisburg.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0050",
+      "video_id": "_xGwOhFLdno",
+      "idx": 50,
+      "start_s": 174.16,
+      "end_s": 178.959,
+      "text": "Nobody involved was a villain.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0051",
+      "video_id": "_xGwOhFLdno",
+      "idx": 51,
+      "start_s": 176.16,
+      "end_s": 182.56,
+      "text": "The officials knew the orphans might struggle, but the alternative was shooting them, too.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0052",
+      "video_id": "_xGwOhFLdno",
+      "idx": 52,
+      "start_s": 180.64,
+      "end_s": 193.68,
+      "text": "Saving the children was the good option, and so a brand new park received 18 traumatized orphans, tipped them out into the bush, and left them to raise themselves.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0053",
+      "video_id": "_xGwOhFLdno",
+      "idx": 53,
+      "start_s": 188.8,
+      "end_s": 195.35999999999999,
+      "text": "A wild calf grows up inside a moving wall of adults.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0054",
+      "video_id": "_xGwOhFLdno",
+      "idx": 54,
+      "start_s": 191.44,
+      "end_s": 198.87900000000002,
+      "text": "Every hour of its childhood, a demonstration of what an elephant is supposed to be.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0055",
+      "video_id": "_xGwOhFLdno",
+      "idx": 55,
+      "start_s": 195.36,
+      "end_s": 202.39999999999998,
+      "text": "At Palanesburg, the wall was made of other children.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0056",
+      "video_id": "_xGwOhFLdno",
+      "idx": 56,
+      "start_s": 198.879,
+      "end_s": 204.8,
+      "text": "Within 2 years, the managers could tell something was off.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0057",
+      "video_id": "_xGwOhFLdno",
+      "idx": 57,
+      "start_s": 200.959,
+      "end_s": 208.8,
+      "text": "The youngsters were nervous, unruly, aggressive.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0058",
+      "video_id": "_xGwOhFLdno",
+      "idx": 58,
+      "start_s": 204.8,
+      "end_s": 214.319,
+      "text": "So, in 1982, the park brought in two adult females, hoping a little supervision would settle them down.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0059",
+      "video_id": "_xGwOhFLdno",
+      "idx": 59,
+      "start_s": 210.48,
+      "end_s": 219.04,
+      "text": "Two mothers for a population of children that would eventually grow to around 70.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0060",
+      "video_id": "_xGwOhFLdno",
+      "idx": 60,
+      "start_s": 214.319,
+      "end_s": 221.76,
+      "text": "And the deliveries kept coming.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0061",
+      "video_id": "_xGwOhFLdno",
+      "idx": 61,
+      "start_s": 216.48,
+      "end_s": 221.76,
+      "text": "More calls, more orphans.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0062",
+      "video_id": "_xGwOhFLdno",
+      "idx": 62,
+      "start_s": 216.48,
+      "end_s": 225.35999999999999,
+      "text": "Year after year until 1993, the park was full of elephants and empty of adults.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0063",
+      "video_id": "_xGwOhFLdno",
+      "idx": 63,
+      "start_s": 221.76,
+      "end_s": 228.959,
+      "text": "The oldest elephants those orphans had ever known were each other.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0064",
+      "video_id": "_xGwOhFLdno",
+      "idx": 64,
+      "start_s": 225.36,
+      "end_s": 235.51899999999998,
+      "text": "Through the 1980s, they grew up and the park started seeing behavior never documented in elephants anywhere.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0065",
+      "video_id": "_xGwOhFLdno",
+      "idx": 65,
+      "start_s": 230.879,
+      "end_s": 238.4,
+      "text": "Safari vehicles got mock charged, then actually charged.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0066",
+      "video_id": "_xGwOhFLdno",
+      "idx": 66,
+      "start_s": 235.519,
+      "end_s": 240.239,
+      "text": "Tourists were chased.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0067",
+      "video_id": "_xGwOhFLdno",
+      "idx": 67,
+      "start_s": 235.519,
+      "end_s": 241.76000000000002,
+      "text": "In 1993, one of the young bulls killed a tourist.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0068",
+      "video_id": "_xGwOhFLdno",
+      "idx": 68,
+      "start_s": 238.4,
+      "end_s": 245.92,
+      "text": "A professional hunter was sent in to destroy him.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0069",
+      "video_id": "_xGwOhFLdno",
+      "idx": 69,
+      "start_s": 241.76,
+      "end_s": 247.92,
+      "text": "The elephant killed him, too, before he could take the shot.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0070",
+      "video_id": "_xGwOhFLdno",
+      "idx": 70,
+      "start_s": 243.92,
+      "end_s": 252.64,
+      "text": "And the following year, the rhinos started dying.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0071",
+      "video_id": "_xGwOhFLdno",
+      "idx": 71,
+      "start_s": 247.92,
+      "end_s": 258.71999999999997,
+      "text": "In a normal year, Palanisburg lost a rhino to natural causes every 2 or 3 months.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0072",
+      "video_id": "_xGwOhFLdno",
+      "idx": 72,
+      "start_s": 252.64,
+      "end_s": 260.56,
+      "text": "In the 3 months after April 1994, 10 rhinos died violently.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0073",
+      "video_id": "_xGwOhFLdno",
+      "idx": 73,
+      "start_s": 255.28,
+      "end_s": 263.04,
+      "text": "Five more were found wounded.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0074",
+      "video_id": "_xGwOhFLdno",
+      "idx": 74,
+      "start_s": 258.72,
+      "end_s": 264.88,
+      "text": "By the end of the year, the count was 20.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0075",
+      "video_id": "_xGwOhFLdno",
+      "idx": 75,
+      "start_s": 260.56,
+      "end_s": 271.44,
+      "text": "The white rhino had been down to a few dozen animals a century earlier, nursed back one calf at a time.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0076",
+      "video_id": "_xGwOhFLdno",
+      "idx": 76,
+      "start_s": 267.28,
+      "end_s": 275.199,
+      "text": "Now, something inside a protected reserve was killing them faster than poachers ever had.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0077",
+      "video_id": "_xGwOhFLdno",
+      "idx": 77,
+      "start_s": 271.44,
+      "end_s": 279.36,
+      "text": "The rangers responded the way detectives respond to a serial case.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0078",
+      "video_id": "_xGwOhFLdno",
+      "idx": 78,
+      "start_s": 275.199,
+      "end_s": 282.963,
+      "text": "They photographed every kill site and logged every set of tracks.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0079",
+      "video_id": "_xGwOhFLdno",
+      "idx": 79,
+      "start_s": 279.36,
+      "end_s": 291.52000000000004,
+      "text": "When a helicopter crew caught an attack in progress, they drove the elephant off and airlifted the wounded rhino out of the park.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0080",
+      "video_id": "_xGwOhFLdno",
+      "idx": 80,
+      "start_s": 286.8,
+      "end_s": 291.52000000000004,
+      "text": "It survived.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0081",
+      "video_id": "_xGwOhFLdno",
+      "idx": 81,
+      "start_s": 286.8,
+      "end_s": 293.36,
+      "text": "The attacker got away.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0082",
+      "video_id": "_xGwOhFLdno",
+      "idx": 82,
+      "start_s": 289.12,
+      "end_s": 295.35999999999996,
+      "text": "Scouts then found three teenage bulls loitering near the scene.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0083",
+      "video_id": "_xGwOhFLdno",
+      "idx": 83,
+      "start_s": 291.52,
+      "end_s": 301.68,
+      "text": "The evidence was circumstantial and the park knew it.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0084",
+      "video_id": "_xGwOhFLdno",
+      "idx": 84,
+      "start_s": 295.36,
+      "end_s": 301.68,
+      "text": "They shot all three anyway.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0085",
+      "video_id": "_xGwOhFLdno",
+      "idx": 85,
+      "start_s": 295.36,
+      "end_s": 304.0,
+      "text": "The killings stopped.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0086",
+      "video_id": "_xGwOhFLdno",
+      "idx": 86,
+      "start_s": 297.84,
+      "end_s": 306.08,
+      "text": "Then in 1996, 20 more rhinos died.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0087",
+      "video_id": "_xGwOhFLdno",
+      "idx": 87,
+      "start_s": 301.68,
+      "end_s": 309.35999999999996,
+      "text": "The park had shot the wrong elephants, or at least not the only ones.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0088",
+      "video_id": "_xGwOhFLdno",
+      "idx": 88,
+      "start_s": 306.08,
+      "end_s": 313.6,
+      "text": "So, they ran a two-year surveillance operation on their own animals.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0089",
+      "video_id": "_xGwOhFLdno",
+      "idx": 89,
+      "start_s": 309.36,
+      "end_s": 316.08,
+      "text": "Rangers marked suspects with paint from helicopters.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0090",
+      "video_id": "_xGwOhFLdno",
+      "idx": 90,
+      "start_s": 311.68,
+      "end_s": 321.19899999999996,
+      "text": "Researchers built an identicate file on every male in the park.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0091",
+      "video_id": "_xGwOhFLdno",
+      "idx": 91,
+      "start_s": 316.08,
+      "end_s": 323.199,
+      "text": "Ear notches, tusk shapes, scars.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0092",
+      "video_id": "_xGwOhFLdno",
+      "idx": 92,
+      "start_s": 319.039,
+      "end_s": 328.08000000000004,
+      "text": "They were effectively compiling wrap sheets and they gave their suspects names.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0093",
+      "video_id": "_xGwOhFLdno",
+      "idx": 93,
+      "start_s": 323.199,
+      "end_s": 330.72,
+      "text": "One young bull, a regular near the death scenes, they called Tom Thumb.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0094",
+      "video_id": "_xGwOhFLdno",
+      "idx": 94,
+      "start_s": 328.08,
+      "end_s": 334.40000000000003,
+      "text": "In 1997, they finally caught a young male in the act.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0095",
+      "video_id": "_xGwOhFLdno",
+      "idx": 95,
+      "start_s": 330.72,
+      "end_s": 336.40000000000003,
+      "text": "in daylight, killing a white rhino.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0096",
+      "video_id": "_xGwOhFLdno",
+      "idx": 96,
+      "start_s": 332.639,
+      "end_s": 338.15999999999997,
+      "text": "By now, there were two competing explanations.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0097",
+      "video_id": "_xGwOhFLdno",
+      "idx": 97,
+      "start_s": 334.4,
+      "end_s": 339.67999999999995,
+      "text": "The first was trauma.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0098",
+      "video_id": "_xGwOhFLdno",
+      "idx": 98,
+      "start_s": 336.4,
+      "end_s": 345.28000000000003,
+      "text": "These animals had watched their families die, and a childhood like that, some argued, could only end in violence.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0099",
+      "video_id": "_xGwOhFLdno",
+      "idx": 99,
+      "start_s": 341.6,
+      "end_s": 346.8,
+      "text": "The park's ecologists weren't convinced.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0100",
+      "video_id": "_xGwOhFLdno",
+      "idx": 100,
+      "start_s": 343.44,
+      "end_s": 348.63899999999995,
+      "text": "Trauma might explain the anger.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0101",
+      "video_id": "_xGwOhFLdno",
+      "idx": 101,
+      "start_s": 345.28,
+      "end_s": 354.88,
+      "text": "It couldn't explain the timing because the attacks came in clusters, and the clusters had a rhythm.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0102",
+      "video_id": "_xGwOhFLdno",
+      "idx": 102,
+      "start_s": 350.56,
+      "end_s": 357.35999999999996,
+      "text": "When the surveillance data came together, the rhythm was the answer.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0103",
+      "video_id": "_xGwOhFLdno",
+      "idx": 103,
+      "start_s": 354.88,
+      "end_s": 359.36,
+      "text": "Every attacker was male.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0104",
+      "video_id": "_xGwOhFLdno",
+      "idx": 104,
+      "start_s": 354.88,
+      "end_s": 364.24,
+      "text": "Every attacker was one of the orphans, now in his late teens or early 20s.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0105",
+      "video_id": "_xGwOhFLdno",
+      "idx": 105,
+      "start_s": 359.36,
+      "end_s": 370.16,
+      "text": "And every single one of them at the time of the attacks was in must.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0106",
+      "video_id": "_xGwOhFLdno",
+      "idx": 106,
+      "start_s": 364.24,
+      "end_s": 372.639,
+      "text": "Must is a hormonal state adult bulls cycle through.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0107",
+      "video_id": "_xGwOhFLdno",
+      "idx": 107,
+      "start_s": 367.68,
+      "end_s": 374.47900000000004,
+      "text": "Testosterone climbs to many times its normal level.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0108",
+      "video_id": "_xGwOhFLdno",
+      "idx": 108,
+      "start_s": 370.16,
+      "end_s": 380.0,
+      "text": "The glands on the sides of the head swell and stream an oily fluid.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0109",
+      "video_id": "_xGwOhFLdno",
+      "idx": 109,
+      "start_s": 374.479,
+      "end_s": 386.72,
+      "text": "The bull dribbles urine constantly, barely eats, and becomes for a while the most aggressive version of himself.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0110",
+      "video_id": "_xGwOhFLdno",
+      "idx": 110,
+      "start_s": 382.24,
+      "end_s": 389.199,
+      "text": "It's normal.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0111",
+      "video_id": "_xGwOhFLdno",
+      "idx": 111,
+      "start_s": 384.24,
+      "end_s": 394.479,
+      "text": "It's how bulls compete to breed, but it's meant to arrive late and arrive small.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0112",
+      "video_id": "_xGwOhFLdno",
+      "idx": 112,
+      "start_s": 389.199,
+      "end_s": 399.44,
+      "text": "In a wild herd, a male leaves his family in his early teens and joins bull society.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0113",
+      "video_id": "_xGwOhFLdno",
+      "idx": 113,
+      "start_s": 394.479,
+      "end_s": 401.28,
+      "text": "Loose bands of males anchored by giants in their 40s and 50s.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0114",
+      "video_id": "_xGwOhFLdno",
+      "idx": 114,
+      "start_s": 397.039,
+      "end_s": 406.4,
+      "text": "He starts at the bottom and his body knows it.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0115",
+      "video_id": "_xGwOhFLdno",
+      "idx": 115,
+      "start_s": 401.28,
+      "end_s": 417.68,
+      "text": "A bull hits his first musth around his late 20s and at first it lasts only days because when he runs into a real bull, his system registers that he's outranked and the state can simply switch off.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0116",
+      "video_id": "_xGwOhFLdno",
+      "idx": 116,
+      "start_s": 412.56,
+      "end_s": 420.08,
+      "text": "Older males act as a ceiling on younger ones just by existing.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0117",
+      "video_id": "_xGwOhFLdno",
+      "idx": 117,
+      "start_s": 415.28,
+      "end_s": 426.0,
+      "text": "The Pilinesberg males were entering must around 18, a decade too early.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0118",
+      "video_id": "_xGwOhFLdno",
+      "idx": 118,
+      "start_s": 420.08,
+      "end_s": 431.44,
+      "text": "And instead of days, it was lasting months, 3 months, 5 months.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0119",
+      "video_id": "_xGwOhFLdno",
+      "idx": 119,
+      "start_s": 426.0,
+      "end_s": 435.52,
+      "text": "Young bodies flooded with fight hormones on a hair trigger for close to half the year.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0120",
+      "video_id": "_xGwOhFLdno",
+      "idx": 120,
+      "start_s": 431.44,
+      "end_s": 440.479,
+      "text": "In a normal population, an older bull would have shut that down almost on contact.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0121",
+      "video_id": "_xGwOhFLdno",
+      "idx": 121,
+      "start_s": 437.68,
+      "end_s": 443.199,
+      "text": "Palanisburg didn't contain a single one.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0122",
+      "video_id": "_xGwOhFLdno",
+      "idx": 122,
+      "start_s": 440.479,
+      "end_s": 444.96,
+      "text": "Bull society didn't exist here.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0123",
+      "video_id": "_xGwOhFLdno",
+      "idx": 123,
+      "start_s": 440.479,
+      "end_s": 447.28000000000003,
+      "text": "Neither did the ceiling.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0124",
+      "video_id": "_xGwOhFLdno",
+      "idx": 124,
+      "start_s": 443.199,
+      "end_s": 454.0,
+      "text": "The famous killer animals of history almost always turned out to have something broken in their bodies.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0125",
+      "video_id": "_xGwOhFLdno",
+      "idx": 125,
+      "start_s": 449.039,
+      "end_s": 456.319,
+      "text": "A shattered jaw, a crippled foot.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0126",
+      "video_id": "_xGwOhFLdno",
+      "idx": 126,
+      "start_s": 451.68,
+      "end_s": 460.639,
+      "text": "The Pylonberg males were studied from every angle and their bodies were perfect.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0127",
+      "video_id": "_xGwOhFLdno",
+      "idx": 127,
+      "start_s": 456.319,
+      "end_s": 462.40000000000003,
+      "text": "The wound was in their biography.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0128",
+      "video_id": "_xGwOhFLdno",
+      "idx": 128,
+      "start_s": 458.16,
+      "end_s": 464.479,
+      "text": "The rhinos were the collision point.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0129",
+      "video_id": "_xGwOhFLdno",
+      "idx": 129,
+      "start_s": 460.639,
+      "end_s": 471.84000000000003,
+      "text": "The young males had grown up loosely mixed in with them, possibly because nothing had ever taught them where elephants end and other species begin.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0130",
+      "video_id": "_xGwOhFLdno",
+      "idx": 130,
+      "start_s": 467.675,
+      "end_s": 477.919,
+      "text": "When the hormones hit, the nearest thing they had to arrival was a two-tonon animal that couldn't outrank them and couldn't escape them.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0131",
+      "video_id": "_xGwOhFLdno",
+      "idx": 131,
+      "start_s": 476.24,
+      "end_s": 484.40000000000003,
+      "text": "By the time it was over, researchers estimated the elephants had killed as many as 49 rhinos.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0132",
+      "video_id": "_xGwOhFLdno",
+      "idx": 132,
+      "start_s": 479.759,
+      "end_s": 486.16,
+      "text": "Roughly 1 in 10 of the rhinos in the park.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0133",
+      "video_id": "_xGwOhFLdno",
+      "idx": 133,
+      "start_s": 482.639,
+      "end_s": 488.4,
+      "text": "Several of the orphans had been shot for it.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0134",
+      "video_id": "_xGwOhFLdno",
+      "idx": 134,
+      "start_s": 484.4,
+      "end_s": 491.84,
+      "text": "Shooting their way out was the obvious next step, and Palanesburg refused to take it.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0135",
+      "video_id": "_xGwOhFLdno",
+      "idx": 135,
+      "start_s": 490.4,
+      "end_s": 499.84,
+      "text": "Because by now, the park's field ecologist, Gus Van Djk, and his colleagues had arrived at a different diagnosis.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0136",
+      "video_id": "_xGwOhFLdno",
+      "idx": 136,
+      "start_s": 495.599,
+      "end_s": 501.599,
+      "text": "The park didn't have bad elephants.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0137",
+      "video_id": "_xGwOhFLdno",
+      "idx": 137,
+      "start_s": 497.599,
+      "end_s": 503.28,
+      "text": "The park was missing elephants.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0138",
+      "video_id": "_xGwOhFLdno",
+      "idx": 138,
+      "start_s": 499.84,
+      "end_s": 504.71999999999997,
+      "text": "The violence wasn't a property of the animals.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0139",
+      "video_id": "_xGwOhFLdno",
+      "idx": 139,
+      "start_s": 501.599,
+      "end_s": 509.03900000000004,
+      "text": "It was a property of the world they'd been handed.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0140",
+      "video_id": "_xGwOhFLdno",
+      "idx": 140,
+      "start_s": 504.72,
+      "end_s": 511.12,
+      "text": "So, the park proposed something nobody had ever done.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0141",
+      "video_id": "_xGwOhFLdno",
+      "idx": 141,
+      "start_s": 506.639,
+      "end_s": 512.959,
+      "text": "Import the missing adults.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0142",
+      "video_id": "_xGwOhFLdno",
+      "idx": 142,
+      "start_s": 509.039,
+      "end_s": 515.039,
+      "text": "For 20 years, that had been physically impossible.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0143",
+      "video_id": "_xGwOhFLdno",
+      "idx": 143,
+      "start_s": 511.12,
+      "end_s": 517.5189999999999,
+      "text": "It was the entire reason the orphans existed.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0144",
+      "video_id": "_xGwOhFLdno",
+      "idx": 144,
+      "start_s": 512.959,
+      "end_s": 525.7600000000001,
+      "text": "But by the late 1990s, engineers had built reinforced trucks and cranes that could handle six tons of living resisting animal.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0145",
+      "video_id": "_xGwOhFLdno",
+      "idx": 145,
+      "start_s": 521.44,
+      "end_s": 528.56,
+      "text": "For the first time in history, a full-grown bull elephant could be moved.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0146",
+      "video_id": "_xGwOhFLdno",
+      "idx": 146,
+      "start_s": 525.76,
+      "end_s": 537.76,
+      "text": "In early 1998 in Krueger, they captured six of them, adult bulls, 25 to 35 years old, each one bigger than anything the orphans had ever seen.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0147",
+      "video_id": "_xGwOhFLdno",
+      "idx": 147,
+      "start_s": 533.92,
+      "end_s": 543.2,
+      "text": "They were hauled across the country, held for 3 days in an enclosure to learn what an electric fence was, and released.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0148",
+      "video_id": "_xGwOhFLdno",
+      "idx": 148,
+      "start_s": 539.44,
+      "end_s": 545.36,
+      "text": "Nobody trained them.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0149",
+      "video_id": "_xGwOhFLdno",
+      "idx": 149,
+      "start_s": 541.44,
+      "end_s": 547.279,
+      "text": "Nobody managed what happened next.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0150",
+      "video_id": "_xGwOhFLdno",
+      "idx": 150,
+      "start_s": 543.2,
+      "end_s": 551.4399999999999,
+      "text": "Six older bulls walked out into the park and simply began existing.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0151",
+      "video_id": "_xGwOhFLdno",
+      "idx": 151,
+      "start_s": 547.279,
+      "end_s": 555.2790000000001,
+      "text": "Within a year, every elephant in Palanesburg had crossed paths with them.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0152",
+      "video_id": "_xGwOhFLdno",
+      "idx": 152,
+      "start_s": 551.44,
+      "end_s": 562.1600000000001,
+      "text": "Young males in must swaggered up to challenge the newcomers and discovered for the first time in their lives what it feels like to be outranked.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0153",
+      "video_id": "_xGwOhFLdno",
+      "idx": 153,
+      "start_s": 558.32,
+      "end_s": 565.6,
+      "text": "Researchers began noticing fresh puncture wounds just above the young bull's tails.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0154",
+      "video_id": "_xGwOhFLdno",
+      "idx": 154,
+      "start_s": 562.16,
+      "end_s": 570.3199999999999,
+      "text": "The best explanation, the older males were putting them in their place, tusk first.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0155",
+      "video_id": "_xGwOhFLdno",
+      "idx": 155,
+      "start_s": 567.236,
+      "end_s": 578.64,
+      "text": "The teenagers stopped wandering alone and started shadowing the big bulls the way they should have been doing since they were 12 and then their body chemistry reorganized itself.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0156",
+      "video_id": "_xGwOhFLdno",
+      "idx": 156,
+      "start_s": 576.399,
+      "end_s": 583.04,
+      "text": "Must that had been arriving at 18 was delayed.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0157",
+      "video_id": "_xGwOhFLdno",
+      "idx": 157,
+      "start_s": 578.64,
+      "end_s": 586.8,
+      "text": "must that had been running for months collapsed in some cases within minutes of meeting a bigger bull.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0158",
+      "video_id": "_xGwOhFLdno",
+      "idx": 158,
+      "start_s": 583.04,
+      "end_s": 588.64,
+      "text": "The park called it a total turnaround.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0159",
+      "video_id": "_xGwOhFLdno",
+      "idx": 159,
+      "start_s": 584.56,
+      "end_s": 595.6,
+      "text": "Van Dick compared it to a gang of teenagers who had been running wild, suddenly finding their fathers standing in the room.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0160",
+      "video_id": "_xGwOhFLdno",
+      "idx": 160,
+      "start_s": 592.08,
+      "end_s": 597.68,
+      "text": "The rhino killings didn't slow down.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0161",
+      "video_id": "_xGwOhFLdno",
+      "idx": 161,
+      "start_s": 593.92,
+      "end_s": 597.68,
+      "text": "They stopped.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0162",
+      "video_id": "_xGwOhFLdno",
+      "idx": 162,
+      "start_s": 593.92,
+      "end_s": 605.68,
+      "text": "In the years after the bulls arrived, Pilannesburg did not lose a single rhino to an elephant.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0163",
+      "video_id": "_xGwOhFLdno",
+      "idx": 163,
+      "start_s": 599.68,
+      "end_s": 607.2,
+      "text": "Even Tom Thumb left the rhinos alone.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0164",
+      "video_id": "_xGwOhFLdno",
+      "idx": 164,
+      "start_s": 602.399,
+      "end_s": 611.44,
+      "text": "The biologist Rob Slatau Van Dyk and their colleagues published the finding in Nature.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0165",
+      "video_id": "_xGwOhFLdno",
+      "idx": 165,
+      "start_s": 607.2,
+      "end_s": 613.9200000000001,
+      "text": "The title was six words long.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0166",
+      "video_id": "_xGwOhFLdno",
+      "idx": 166,
+      "start_s": 609.44,
+      "end_s": 615.12,
+      "text": "Older bull elephants control young males.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0167",
+      "video_id": "_xGwOhFLdno",
+      "idx": 167,
+      "start_s": 611.44,
+      "end_s": 615.12,
+      "text": "Strip everything else away.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0168",
+      "video_id": "_xGwOhFLdno",
+      "idx": 168,
+      "start_s": 613.92,
+      "end_s": 619.6,
+      "text": "And this is what the accident demonstrated.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0169",
+      "video_id": "_xGwOhFLdno",
+      "idx": 169,
+      "start_s": 615.12,
+      "end_s": 621.6800000000001,
+      "text": "A society is not food, space, and safety.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0170",
+      "video_id": "_xGwOhFLdno",
+      "idx": 170,
+      "start_s": 617.6,
+      "end_s": 623.6,
+      "text": "The orphans had all three.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0171",
+      "video_id": "_xGwOhFLdno",
+      "idx": 171,
+      "start_s": 619.6,
+      "end_s": 625.76,
+      "text": "A society has an architecture.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0172",
+      "video_id": "_xGwOhFLdno",
+      "idx": 172,
+      "start_s": 621.68,
+      "end_s": 630.079,
+      "text": "And the top layer of that architecture does work that is invisible until it's gone.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0173",
+      "video_id": "_xGwOhFLdno",
+      "idx": 173,
+      "start_s": 625.76,
+      "end_s": 632.0,
+      "text": "The presence of the old sets the clock on the young.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0174",
+      "video_id": "_xGwOhFLdno",
+      "idx": 174,
+      "start_s": 628.0,
+      "end_s": 635.36,
+      "text": "It decides when aggression arrives, how long it stays, and how far it's allowed to go.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0175",
+      "video_id": "_xGwOhFLdno",
+      "idx": 175,
+      "start_s": 634.0,
+      "end_s": 637.12,
+      "text": "None of that gets taught.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0176",
+      "video_id": "_xGwOhFLdno",
+      "idx": 176,
+      "start_s": 634.0,
+      "end_s": 639.279,
+      "text": "It's transmitted by standing there.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0177",
+      "video_id": "_xGwOhFLdno",
+      "idx": 177,
+      "start_s": 635.36,
+      "end_s": 641.279,
+      "text": "remove the layer and nothing happens at first.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0178",
+      "video_id": "_xGwOhFLdno",
+      "idx": 178,
+      "start_s": 639.279,
+      "end_s": 649.12,
+      "text": "The children are fed, they grow, the bill arrives 15 years later when adolescence walks into a world with nothing above it.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0179",
+      "video_id": "_xGwOhFLdno",
+      "idx": 179,
+      "start_s": 645.04,
+      "end_s": 653.44,
+      "text": "Put the layer back and the whole system reeregulates within a season.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0180",
+      "video_id": "_xGwOhFLdno",
+      "idx": 180,
+      "start_s": 649.12,
+      "end_s": 655.44,
+      "text": "And one detail makes the finding airtight.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0181",
+      "video_id": "_xGwOhFLdno",
+      "idx": 181,
+      "start_s": 651.12,
+      "end_s": 655.44,
+      "text": "The bulls healed nothing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0182",
+      "video_id": "_xGwOhFLdno",
+      "idx": 182,
+      "start_s": 653.44,
+      "end_s": 661.2,
+      "text": "Decades later, researchers went back and tested the Pilinisburg orphans and the damage was still in them.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0183",
+      "video_id": "_xGwOhFLdno",
+      "idx": 183,
+      "start_s": 657.519,
+      "end_s": 664.9590000000001,
+      "text": "They couldn't judge threats the way normal elephant families do.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0184",
+      "video_id": "_xGwOhFLdno",
+      "idx": 184,
+      "start_s": 661.2,
+      "end_s": 669.04,
+      "text": "The young need somewhere to look when they don't know what to be.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0185",
+      "video_id": "_xGwOhFLdno",
+      "idx": 185,
+      "start_s": 664.959,
+      "end_s": 670.9590000000001,
+      "text": "Elephants got the controlled experiment.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0186",
+      "video_id": "_xGwOhFLdno",
+      "idx": 186,
+      "start_s": 666.72,
+      "end_s": 670.9590000000001,
+      "text": "Humans never will.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0187",
+      "video_id": "_xGwOhFLdno",
+      "idx": 187,
+      "start_s": 666.72,
+      "end_s": 675.9200000000001,
+      "text": "Nobody gets to truck six father figures into a broken neighborhood and publish the result.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0188",
+      "video_id": "_xGwOhFLdno",
+      "idx": 188,
+      "start_s": 672.32,
+      "end_s": 679.68,
+      "text": "So, nobody can say for certain how much of this story is really about elephants.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0189",
+      "video_id": "_xGwOhFLdno",
+      "idx": 189,
+      "start_s": 675.92,
+      "end_s": 687.4399999999999,
+      "text": "The most violent elephants ever documented, animals with kill counts, animals that hunted, went back to being ordinary elephants within a single season.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0190",
+      "video_id": "_xGwOhFLdno",
+      "idx": 190,
+      "start_s": 683.68,
+      "end_s": 691.9590000000001,
+      "text": "Nothing about them had changed.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0191",
+      "video_id": "_xGwOhFLdno",
+      "idx": 191,
+      "start_s": 685.44,
+      "end_s": 691.9590000000001,
+      "text": "Not their past and not their scars.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "_xGwOhFLdno:s0192",
+      "video_id": "_xGwOhFLdno",
+      "idx": 192,
+      "start_s": 687.44,
+      "end_s": 695.0169999999999,
+      "text": "Everything around them had >>",
+      "n_words": 5
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+{
+  "video_id": "st_Ah6Ykbh4",
+  "duration_s": 512.0,
+  "generated_at": "2026-09-04T03:00:22.213967+00:00",
+  "sentences": [
+    {
+      "sent_id": "st_Ah6Ykbh4:s0000",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 0,
+      "start_s": 0.0,
+      "end_s": 4.88,
+      "text": "Tonight, when the sun goes down, you're going to flip a switch.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0001",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 1,
+      "start_s": 1.6,
+      "end_s": 9.36,
+      "text": "Light will flood the room, and you won't think twice about it.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0002",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 2,
+      "start_s": 4.88,
+      "end_s": 13.399999999999999,
+      "text": "But for 99.9% of human history, that switch didn't exist.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0003",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 3,
+      "start_s": 9.36,
+      "end_s": 15.44,
+      "text": "When the sun set, the world went dark.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0004",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 4,
+      "start_s": 11.44,
+      "end_s": 18.08,
+      "text": "You couldn't even see your own hand in front of your face.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0005",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 5,
+      "start_s": 13.4,
+      "end_s": 21.119999999999997,
+      "text": "But modern humans almost never experience this.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0006",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 6,
+      "start_s": 15.44,
+      "end_s": 27.24,
+      "text": "For over 300,000 years, every single one of your ancestors spent roughly half their life in near total darkness.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0007",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 7,
+      "start_s": 23.08,
+      "end_s": 32.839999999999996,
+      "text": "They didn't even have candles for most of that time, just the black sky, the stars, and whatever fire they could keep alive.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0008",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 8,
+      "start_s": 29.24,
+      "end_s": 37.720000000000006,
+      "text": "So, what did they actually do for all those hours?",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0009",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 9,
+      "start_s": 32.84,
+      "end_s": 41.199999999999996,
+      "text": "The answer changes everything we think we know about sleep, storytelling, and what it means to be human.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0010",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 10,
+      "start_s": 37.72,
+      "end_s": 44.68,
+      "text": "Let's start with fire, because fire is the reason any of this was possible.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0011",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 11,
+      "start_s": 41.2,
+      "end_s": 52.64,
+      "text": "The earliest solid evidence of humans controlling fire comes from Wonderwerk Cave in South Africa, roughly 1 million years ago.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0012",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 12,
+      "start_s": 49.24,
+      "end_s": 55.12,
+      "text": "But fire didn't just keep people warm.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0013",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 13,
+      "start_s": 51.12,
+      "end_s": 56.88,
+      "text": "Fire completely restructured the human day.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0014",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 14,
+      "start_s": 52.64,
+      "end_s": 60.64,
+      "text": "Before fire, our ancestors were like every other primate.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0015",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 15,
+      "start_s": 56.88,
+      "end_s": 64.72,
+      "text": "When the sun went down, you climbed a tree or found a sheltered spot, and you stayed still.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0016",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 16,
+      "start_s": 60.64,
+      "end_s": 66.44,
+      "text": "Moving at night meant becoming food.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0017",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 17,
+      "start_s": 62.32,
+      "end_s": 71.16,
+      "text": "Our eyes are terrible in the dark compared to the predators that hunted us.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0018",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 18,
+      "start_s": 66.44,
+      "end_s": 76.11999999999999,
+      "text": "Leopards, hyenas, wolves, all of them could see just fine.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0019",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 19,
+      "start_s": 71.16,
+      "end_s": 78.56,
+      "text": "Fire changed that equation overnight, literally.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0020",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 20,
+      "start_s": 73.4,
+      "end_s": 83.28,
+      "text": "A campfire creates a circle of safety roughly 30 ft in diameter.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0021",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 21,
+      "start_s": 78.56,
+      "end_s": 85.83999999999999,
+      "text": "Inside that circle, predators won't come.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0022",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 22,
+      "start_s": 80.96,
+      "end_s": 87.8,
+      "text": "Outside that circle, you die.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0023",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 23,
+      "start_s": 83.28,
+      "end_s": 87.8,
+      "text": "This is not an exaggeration.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0024",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 24,
+      "start_s": 85.84,
+      "end_s": 98.76,
+      "text": "Anthropologists studying modern hunter-gatherer groups have documented that people who wander away from the fire at night are significantly more likely to be killed by predators, even today.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0025",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 25,
+      "start_s": 94.76,
+      "end_s": 98.76,
+      "text": "But here's what's fascinating.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0026",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 26,
+      "start_s": 96.84,
+      "end_s": 102.92,
+      "text": "Fire didn't just protect humans at night.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0027",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 27,
+      "start_s": 98.76,
+      "end_s": 105.28,
+      "text": "It gave them something they'd never had before, extra hours.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0028",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 28,
+      "start_s": 100.24,
+      "end_s": 107.72,
+      "text": "Think about this.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0029",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 29,
+      "start_s": 102.92,
+      "end_s": 109.52,
+      "text": "Before fire, the useful day ended at sunset.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0030",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 30,
+      "start_s": 105.28,
+      "end_s": 111.72,
+      "text": "That's maybe 12 hours in summer, as few as eight in winter.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0031",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 31,
+      "start_s": 109.52,
+      "end_s": 115.4,
+      "text": "Fire suddenly added two to four usable hours to every single day.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0032",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 32,
+      "start_s": 111.72,
+      "end_s": 120.48,
+      "text": "And over thousands of generations, those extra hours changed our species.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0033",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 33,
+      "start_s": 115.4,
+      "end_s": 126.52000000000001,
+      "text": "In 2014, anthropologist Polly Wiessner published a study in the Proceedings of the National Academy of Sciences.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0034",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 34,
+      "start_s": 122.12,
+      "end_s": 137.8,
+      "text": "She spent years recording conversations among the Ju/’hoansi Bushmen of the Kalahari Desert, one of the last groups on Earth still living something close to the original human lifestyle.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0035",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 35,
+      "start_s": 132.52,
+      "end_s": 139.84,
+      "text": "What she found was striking.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0036",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 36,
+      "start_s": 134.68,
+      "end_s": 141.76000000000002,
+      "text": "During the day, about 80% of conversations were practical.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0037",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 37,
+      "start_s": 137.8,
+      "end_s": 143.8,
+      "text": "Who's hunting where?",
+      "n_words": 3
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0038",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 38,
+      "start_s": 139.84,
+      "end_s": 143.8,
+      "text": "Which plants are ready?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0039",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 39,
+      "start_s": 141.76,
+      "end_s": 148.44,
+      "text": "Complaints, logistics, economic negotiations.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0040",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 40,
+      "start_s": 143.8,
+      "end_s": 148.44,
+      "text": "Daytime talk was work.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0041",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 41,
+      "start_s": 143.8,
+      "end_s": 154.16,
+      "text": "But at night, around the fire, the entire character of conversation changed.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0042",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 42,
+      "start_s": 148.44,
+      "end_s": 162.04,
+      "text": "81% of conversations were stories, tales of people in distant places, adventures, myths about the origins of the world, jokes that made the whole camp laugh.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0043",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 43,
+      "start_s": 160.52,
+      "end_s": 168.16,
+      "text": "Wiessner argued that firelight conversation is where human culture was born.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0044",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 44,
+      "start_s": 164.0,
+      "end_s": 171.92,
+      "text": "The campfire was the original theater, the original classroom, the original church.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0045",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 45,
+      "start_s": 168.16,
+      "end_s": 178.08,
+      "text": "It's where humans learned to think beyond the immediate present and imagine things that don't exist yet.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0046",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 46,
+      "start_s": 173.72,
+      "end_s": 178.08,
+      "text": "It's where we became us.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0047",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 47,
+      "start_s": 173.72,
+      "end_s": 180.92000000000002,
+      "text": "But the night wasn't just about stories around the fire.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0048",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 48,
+      "start_s": 178.08,
+      "end_s": 187.72,
+      "text": "There was something else happening, something that scientists only rediscovered in the last 30 years.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0049",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 49,
+      "start_s": 183.0,
+      "end_s": 189.88000000000002,
+      "text": "You were not designed to sleep the way you sleep right now.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0050",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 50,
+      "start_s": 185.36,
+      "end_s": 193.79999999999998,
+      "text": "In 2001, historian Roger E. Ekirch published a paper that changed sleep science.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0051",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 51,
+      "start_s": 189.88,
+      "end_s": 211.64,
+      "text": "He had spent 16 years digging through historical records, and he found something nobody expected, over 500 references spanning centuries, prayer books from the 1400s, court records, diaries, medical texts, letters from ordinary people, even passages in Homer's Odyssey.",
+      "n_words": 39
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0052",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 52,
+      "start_s": 207.44,
+      "end_s": 216.48,
+      "text": "All of them mentioned the same thing, first sleep and second sleep.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0053",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 53,
+      "start_s": 211.64,
+      "end_s": 218.44,
+      "text": "Before the industrial age, people did not sleep in one continuous block.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0054",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 54,
+      "start_s": 216.48,
+      "end_s": 222.48,
+      "text": "They went to bed shortly after sunset, slept for about 4 hours, then woke up.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0055",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 55,
+      "start_s": 220.68,
+      "end_s": 226.2,
+      "text": "They stayed awake for 1 to 2 hours in the middle of the night.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0056",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 56,
+      "start_s": 222.48,
+      "end_s": 230.72,
+      "text": "Then they went back to sleep for another 4 hours until dawn.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0057",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 57,
+      "start_s": 226.2,
+      "end_s": 230.72,
+      "text": "This wasn't insomnia.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0058",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 58,
+      "start_s": 226.2,
+      "end_s": 232.92,
+      "text": "This was normal.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0059",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 59,
+      "start_s": 228.6,
+      "end_s": 234.4,
+      "text": "This was how every human on the planet slept for thousands of years.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0060",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 60,
+      "start_s": 230.72,
+      "end_s": 238.32,
+      "text": "And what did people do during that wakeful period in the middle of the night?",
+      "n_words": 15
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0061",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 61,
+      "start_s": 236.04,
+      "end_s": 239.72,
+      "text": "Everything.",
+      "n_words": 1
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0062",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 62,
+      "start_s": 236.04,
+      "end_s": 245.16,
+      "text": "A 16th-century French physician recommended that couples conceive children during this window, because they would do it better.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0063",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 63,
+      "start_s": 241.32,
+      "end_s": 246.4,
+      "text": "People visited neighbors.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0064",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 64,
+      "start_s": 243.4,
+      "end_s": 250.52,
+      "text": "They interpreted their dreams while they were still fresh.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0065",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 65,
+      "start_s": 246.4,
+      "end_s": 250.52,
+      "text": "They wrote.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0066",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 66,
+      "start_s": 246.4,
+      "end_s": 252.92,
+      "text": "They simply lay in bed in the dark and thought.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0067",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 67,
+      "start_s": 248.72,
+      "end_s": 265.12,
+      "text": "A doctor's manual from the 1500s advised patients that the best time to study and reflect was during the watch, as they called it, the quiet hours between first and second sleep, when the mind was calm and the world was still.",
+      "n_words": 42
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0068",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 68,
+      "start_s": 261.6,
+      "end_s": 276.52,
+      "text": "Now, historians had been reading these references for centuries, but they kept translating first sleep as something else, because they couldn't imagine that people ever slept differently than we do now.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0069",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 69,
+      "start_s": 272.0,
+      "end_s": 284.28,
+      "text": "The assumption was so deep that translators literally mistranslated ancient Greek and medieval Latin to make it fit their modern experience.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0070",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 70,
+      "start_s": 280.64,
+      "end_s": 289.76,
+      "text": "But then science confirmed what history had been saying all along.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0071",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 71,
+      "start_s": 284.28,
+      "end_s": 293.76,
+      "text": "In 1992, psychiatrist Thomas Wehr at the National Institute of Mental Health ran an experiment.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0072",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 72,
+      "start_s": 289.76,
+      "end_s": 298.12,
+      "text": "He took a group of volunteers and removed all artificial light from their lives.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0073",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 73,
+      "start_s": 293.76,
+      "end_s": 305.32,
+      "text": "For 1 month, they experienced 14 hours of darkness every night, just like our ancestors would have before fire extended the evening.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0074",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 74,
+      "start_s": 301.48,
+      "end_s": 314.24,
+      "text": "Within weeks, every single participant settled into the same pattern, 4 hours of sleep, 1 to 3 hours of quiet wakefulness, then 4 more hours of sleep.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0075",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 75,
+      "start_s": 310.64,
+      "end_s": 316.16,
+      "text": "Nobody told them to do this.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0076",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 76,
+      "start_s": 312.6,
+      "end_s": 316.16,
+      "text": "Nobody suggested it.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0077",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 77,
+      "start_s": 312.6,
+      "end_s": 324.08,
+      "text": "Their bodies just did it, as if some ancient program had been waiting inside them the whole time, buried under centuries of artificial light.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0078",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 78,
+      "start_s": 320.28,
+      "end_s": 327.68,
+      "text": "Wehr measured their hormone levels during the wakeful period and found something remarkable.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0079",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 79,
+      "start_s": 324.08,
+      "end_s": 331.8,
+      "text": "The participants were in a state unlike any normal waking state.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0080",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 80,
+      "start_s": 327.68,
+      "end_s": 337.68,
+      "text": "Their brains were producing elevated levels of prolactin, the same hormone released during meditation and after orgasm.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0081",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 81,
+      "start_s": 333.12,
+      "end_s": 341.92,
+      "text": "They described feeling peaceful, reflective, almost meditative.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0082",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 82,
+      "start_s": 337.68,
+      "end_s": 348.44,
+      "text": "It wasn't just a gap in sleep, it was its own distinct state of consciousness, one that most modern humans have never experienced.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0083",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 83,
+      "start_s": 343.8,
+      "end_s": 351.28000000000003,
+      "text": "So, what killed it?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0084",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 84,
+      "start_s": 346.12,
+      "end_s": 353.76,
+      "text": "The answer is simpler than you'd think, light.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0085",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 85,
+      "start_s": 348.44,
+      "end_s": 355.84,
+      "text": "In the 1600s, cities began installing street lamps.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0086",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 86,
+      "start_s": 351.28,
+      "end_s": 359.56,
+      "text": "Paris was one of the first under Louis XIV, who wanted to reduce crime.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0087",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 87,
+      "start_s": 355.84,
+      "end_s": 359.56,
+      "text": "London followed.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0088",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 88,
+      "start_s": 358.12,
+      "end_s": 366.8,
+      "text": "The night, which had been a place of danger and fear, slowly became navigable.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0089",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 89,
+      "start_s": 361.56,
+      "end_s": 369.8,
+      "text": "Then came cheaper candles, then gas lamps in the 1800s.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0090",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 90,
+      "start_s": 363.88,
+      "end_s": 377.71999999999997,
+      "text": "Then, in 1879, Thomas Edison commercialized the electric light bulb, and within a generation, the night as humans had known it for 300,000 years was gone.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0091",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 91,
+      "start_s": 373.28,
+      "end_s": 379.96,
+      "text": "And here's the part nobody talks about.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0092",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 92,
+      "start_s": 375.88,
+      "end_s": 384.08,
+      "text": "The word curfew comes from the French couvre-feu.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0093",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 93,
+      "start_s": 379.96,
+      "end_s": 385.76,
+      "text": "It literally means cover fire.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0094",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 94,
+      "start_s": 381.96,
+      "end_s": 392.96000000000004,
+      "text": "In medieval towns, a bell would ring at night, signaling everyone to cover or extinguish their fires, not because of safety, because night was supposed to be dark.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0095",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 95,
+      "start_s": 389.48,
+      "end_s": 394.92,
+      "text": "Night was when you slept.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0096",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 96,
+      "start_s": 391.32,
+      "end_s": 396.79999999999995,
+      "text": "Night was when you were vulnerable.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0097",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 97,
+      "start_s": 392.96,
+      "end_s": 398.6,
+      "text": "For most of history, being out at night was suspicious.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0098",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 98,
+      "start_s": 394.92,
+      "end_s": 404.8,
+      "text": "In many medieval European cities, walking outside after dark without a lantern was literally illegal.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0099",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 99,
+      "start_s": 400.56,
+      "end_s": 406.16,
+      "text": "Night belonged to criminals and the supernatural.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0100",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 100,
+      "start_s": 402.72,
+      "end_s": 409.84000000000003,
+      "text": "People feared it in a way that's almost impossible for us to understand today.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0101",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 101,
+      "start_s": 408.12,
+      "end_s": 411.32,
+      "text": "And then we conquered it.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0102",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 102,
+      "start_s": 408.12,
+      "end_s": 415.36,
+      "text": "We flooded it with light, and we thought that was progress.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0103",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 103,
+      "start_s": 411.32,
+      "end_s": 415.36,
+      "text": "But here's what we lost.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0104",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 104,
+      "start_s": 413.32,
+      "end_s": 421.40000000000003,
+      "text": "Modern humans are exposed to artificial light an average of 7 to 8 hours after sunset.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0105",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 105,
+      "start_s": 417.6,
+      "end_s": 426.20000000000005,
+      "text": "This light, especially the blue light from screens, suppresses your body's production of melatonin, the hormone that regulates sleep.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0106",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 106,
+      "start_s": 423.16,
+      "end_s": 430.15999999999997,
+      "text": "Your body doesn't know the difference between a light bulb and the sun.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0107",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 107,
+      "start_s": 426.2,
+      "end_s": 434.28000000000003,
+      "text": "When light hits your retina at 11:00 p.m., your brain interprets it as daytime.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0108",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 108,
+      "start_s": 430.16,
+      "end_s": 436.48,
+      "text": "It delays melatonin release.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0109",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 109,
+      "start_s": 432.32,
+      "end_s": 438.32,
+      "text": "It fragments your sleep.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0110",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 110,
+      "start_s": 434.28,
+      "end_s": 439.72,
+      "text": "It disrupts the circadian rhythm that evolved over millions of years.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0111",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 111,
+      "start_s": 438.32,
+      "end_s": 449.48,
+      "text": "Researchers have found that people who go camping for just 1 week with no artificial light at all have their melatonin cycles reset by nearly 2 hours.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0112",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 112,
+      "start_s": 445.6,
+      "end_s": 453.04,
+      "text": "Their bodies start producing melatonin at sunset instead of hours after it.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0113",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 113,
+      "start_s": 449.48,
+      "end_s": 457.24,
+      "text": "That's all it takes for 300,000 years of programming to reassert itself.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0114",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 114,
+      "start_s": 453.04,
+      "end_s": 459.44000000000005,
+      "text": "We didn't just change when we sleep.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0115",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 115,
+      "start_s": 454.72,
+      "end_s": 461.2,
+      "text": "We eliminated an entire phase of human consciousness.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0116",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 116,
+      "start_s": 457.24,
+      "end_s": 470.28000000000003,
+      "text": "That quiet, reflective state between first and second sleep, the state that Wehr's subjects described as peaceful and meditative, doesn't exist anymore for most people.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0117",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 117,
+      "start_s": 466.6,
+      "end_s": 471.79999999999995,
+      "text": "Instead, we have insomnia, and we treat it like a disorder.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0118",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 118,
+      "start_s": 468.84,
+      "end_s": 473.71999999999997,
+      "text": "But what if it's not a disorder at all?",
+      "n_words": 9
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0119",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 119,
+      "start_s": 470.28,
+      "end_s": 478.52000000000004,
+      "text": "What if waking up at 2:00 a.m. and lying there in the dark isn't your body malfunctioning?",
+      "n_words": 17
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0120",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 120,
+      "start_s": 475.16,
+      "end_s": 481.0,
+      "text": "What if it's your body remembering what it was built to do?",
+      "n_words": 12
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0121",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 121,
+      "start_s": 476.76,
+      "end_s": 486.36,
+      "text": "For 300,000 years, your ancestors spent their nights in a rhythm that modern science is only beginning to understand.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0122",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 122,
+      "start_s": 484.72,
+      "end_s": 490.32,
+      "text": "They gathered around fires and told stories that built civilizations.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0123",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 123,
+      "start_s": 486.36,
+      "end_s": 494.71999999999997,
+      "text": "They slept in two phases with a window of quiet reflection in between.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0124",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 124,
+      "start_s": 490.32,
+      "end_s": 500.04,
+      "text": "They lived in darkness so complete that the Milky Way wasn't something you had to drive to a national park to see.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0125",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 125,
+      "start_s": 496.44,
+      "end_s": 502.2,
+      "text": "It was just the sky.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0126",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 126,
+      "start_s": 498.24,
+      "end_s": 510.8,
+      "text": "And every night when they woke in the dark between first and second sleep, they lay there in silence and thought about their lives, their dreams, and the world they would wake up to in the morning.",
+      "n_words": 37
+    },
+    {
+      "sent_id": "st_Ah6Ykbh4:s0127",
+      "video_id": "st_Ah6Ykbh4",
+      "idx": 127,
+      "start_s": 507.12,
+      "end_s": 513.6800000000001,
+      "text": "We traded all of that for a light switch, and most of us never even knew it was gone.",
+      "n_words": 19
+    }
+  ]
+}

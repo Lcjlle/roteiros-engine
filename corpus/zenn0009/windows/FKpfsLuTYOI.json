@@ -1,0 +1,791 @@
+{
+  "video_id": "FKpfsLuTYOI",
+  "generated_at": "2026-09-04T03:00:43.121330+00:00",
+  "windows": [
+    {
+      "window_id": "FKpfsLuTYOI:j0000",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 0,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0000",
+        "FKpfsLuTYOI:s0001",
+        "FKpfsLuTYOI:s0002",
+        "FKpfsLuTYOI:s0003"
+      ],
+      "start_s": 0.031,
+      "end_s": 9.178,
+      "text": "we have a word for being unfaithful to your partner. Cheating. For almost the entire history of our species, that word would have meant nothing. Picture yourself in the world they lived in.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 6.418219461697723e-05
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0001",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 1,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0004",
+        "FKpfsLuTYOI:s0005"
+      ],
+      "start_s": 9.338,
+      "end_s": 24.63,
+      "text": "You belonged to a group of 30 or 40 people, moving together across open land 300,000 years ago, long before the first wedding, the first divorce, the first vow to last a lifetime. You slept in arm's length from your neighbors, and they slept in arm's length from you.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.01933333333333333
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0002",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 2,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0006",
+        "FKpfsLuTYOI:s0007",
+        "FKpfsLuTYOI:s0008"
+      ],
+      "start_s": 24.87,
+      "end_s": 34.078,
+      "text": "Every glance, every touch, every night spent in the wrong shelter was seen and known and remembered. There was nowhere to take a secret. And no one owned anyone.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.051490683229813664
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0003",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 3,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0009",
+        "FKpfsLuTYOI:s0010"
+      ],
+      "start_s": 34.338,
+      "end_s": 41.044,
+      "text": "A partner was never something you could keep, only someone who chose to stay. This was how humans lived for more than 90% of our time on Earth.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.07109316770186336
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0004",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 4,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0011",
+        "FKpfsLuTYOI:s0012"
+      ],
+      "start_s": 42.045,
+      "end_s": 51.85,
+      "text": "A man and a woman would find each other, build one shelter, feed one fire. He would come back from the hunt with meat across his shoulders, and she would have roots and berries already gathered.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.0870496894409938
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0005",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 5,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0013",
+        "FKpfsLuTYOI:s0014",
+        "FKpfsLuTYOI:s0015"
+      ],
+      "start_s": 52.23,
+      "end_s": 60.234,
+      "text": "At night they slept close, their children tucked between them against the cold. The bonds were real, and they were deep. And that alone made us strange.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.10813664596273291
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0006",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 6,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0016",
+        "FKpfsLuTYOI:s0017"
+      ],
+      "start_s": 60.454,
+      "end_s": 68.918,
+      "text": "Of every hundred kinds of mammal on earth, only three or four form a lasting pair bond at all. Humans are one of the rare few, but did a bond like that last a lifetime?",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.12516356107660456
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0007",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 7,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0018",
+        "FKpfsLuTYOI:s0019"
+      ],
+      "start_s": 69.098,
+      "end_s": 77.663,
+      "text": "We tend to imagine that marriage for life is the ancient, natural state, and that pairing up and splitting apart is something modern. The real story runs the other way.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.1430600414078675
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0008",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 8,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0020",
+        "FKpfsLuTYOI:s0021"
+      ],
+      "start_s": 77.963,
+      "end_s": 92.352,
+      "text": "Among the Hadza of Tanzania, who still live by hunting and gathering, the anthropologist Frank Marlowe found that only about one adult in five stays with the same partner for life. Most bond, raise a child or two, drift apart, and bond again.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.16141407867494822
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0009",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 9,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0022",
+        "FKpfsLuTYOI:s0023"
+      ],
+      "start_s": 92.632,
+      "end_s": 96.894,
+      "text": "And it had always been so. More often than not, it was the woman who ended it.",
+      "n_words": 17,
+      "n_sentences": 2,
+      "pos_pct": 0.19178467908902694
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0010",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 10,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0024",
+        "FKpfsLuTYOI:s0025"
+      ],
+      "start_s": 97.174,
+      "end_s": 105.277,
+      "text": "One day she would gather her few things, lift her youngest onto her hip, and walk to the far side of camp to make a new home with another man. No one stopped her.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.20118840579710145
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0011",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 11,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0026",
+        "FKpfsLuTYOI:s0027",
+        "FKpfsLuTYOI:s0028"
+      ],
+      "start_s": 105.557,
+      "end_s": 113.1,
+      "text": "There was no one who could. But this was not a marriage breaking down. There was no lifelong vow to break because no wedding had promised forever in the first place.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.21854451345755693
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0012",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 12,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0029",
+        "FKpfsLuTYOI:s0030",
+        "FKpfsLuTYOI:s0031"
+      ],
+      "start_s": 113.42,
+      "end_s": 122.467,
+      "text": "Pairing, and pairing again, was simply how a life took its shape. Loyalty was real. But loyalty for one whole lifetime was the rare and remarkable thing.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.234824016563147
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0013",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 13,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0032",
+        "FKpfsLuTYOI:s0033",
+        "FKpfsLuTYOI:s0034"
+      ],
+      "start_s": 122.707,
+      "end_s": 130.272,
+      "text": "And winning that partner in the first place was no small thing. Picture a young man who wanted one particular girl. He could not just take her hand.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.2540517598343685
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0014",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 14,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0035",
+        "FKpfsLuTYOI:s0036",
+        "FKpfsLuTYOI:s0037",
+        "FKpfsLuTYOI:s0038"
+      ],
+      "start_s": 130.613,
+      "end_s": 139.86,
+      "text": "He moved in with her family and went to work for them. Hunting, dragging his kills back to their camp day after day, season after season. She watched him do it. So did her parents.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.27042028985507244
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0015",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 15,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0039",
+        "FKpfsLuTYOI:s0040",
+        "FKpfsLuTYOI:s0041"
+      ],
+      "start_s": 140.22,
+      "end_s": 148.745,
+      "text": "Only when they were satisfied, sometimes after years, was she his? And if they never were, he left with nothing. Courtship was a long audition, paid in meat.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.29031055900621117
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0016",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 16,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0042",
+        "FKpfsLuTYOI:s0043"
+      ],
+      "start_s": 149.025,
+      "end_s": 154.908,
+      "text": "But was it always just one man and one woman? An anthropologist named George Murdoch set out to answer exactly that.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.3085403726708075
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0017",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 17,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0044",
+        "FKpfsLuTYOI:s0045"
+      ],
+      "start_s": 155.148,
+      "end_s": 163.232,
+      "text": "He gathered records on more than a thousand human societies from every corner of the world. In 8 out of 10, a man was allowed more than one wife.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.32121739130434784
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0018",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 18,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0046",
+        "FKpfsLuTYOI:s0047"
+      ],
+      "start_s": 163.473,
+      "end_s": 169.536,
+      "text": "The lifelong couple, one partner and no other, was not the natural human state. it was the rare exception.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.3384534161490684
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0019",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 19,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0048",
+        "FKpfsLuTYOI:s0049"
+      ],
+      "start_s": 169.716,
+      "end_s": 178.182,
+      "text": "When a man did keep two partners at once, it was almost always a great hunter or a respected elder. Someone who could feed two families instead of one.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.35137888198757766
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0020",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 20,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0050",
+        "FKpfsLuTYOI:s0051",
+        "FKpfsLuTYOI:s0052"
+      ],
+      "start_s": 178.522,
+      "end_s": 187.249,
+      "text": "Often the two women were sisters, married to the same man, sharing one home and one fire. But even that was rare. Most men were fortunate to hold onto one.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.36961076604554866
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0021",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 21,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0053",
+        "FKpfsLuTYOI:s0054"
+      ],
+      "start_s": 187.609,
+      "end_s": 196.775,
+      "text": "And what set one man above another came down to a single thing. It did not matter how strong or good-looking he was, A man who could not hunt was a man no woman would choose.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.38842443064182197
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0022",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 22,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0055",
+        "FKpfsLuTYOI:s0056"
+      ],
+      "start_s": 197.155,
+      "end_s": 210.685,
+      "text": "He was worth what he could carry home, and nothing more. Among the Ashe of Paraguay, who still forage in the forest, the best hunters fathered far more children than other men, sometimes close to twice as many, inside marriage and outside it.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.4081884057971015
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0023",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 23,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0057",
+        "FKpfsLuTYOI:s0058"
+      ],
+      "start_s": 210.965,
+      "end_s": 219.351,
+      "text": "The man who walked back into camp loaded with meat, again and again, was the one women chose, and chose again. A poor hunter could go a whole life overlooked.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.4367805383022774
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0024",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 24,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0059",
+        "FKpfsLuTYOI:s0060",
+        "FKpfsLuTYOI:s0061",
+        "FKpfsLuTYOI:s0062"
+      ],
+      "start_s": 219.611,
+      "end_s": 227.899,
+      "text": "None of this made the bond a calm thing. Just the opposite. You fell in love, packed shoulder to shoulder with everyone you knew. A rival always one fire away.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.45468115942028986
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0025",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 25,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0063",
+        "FKpfsLuTYOI:s0064",
+        "FKpfsLuTYOI:s0065"
+      ],
+      "start_s": 228.039,
+      "end_s": 238.071,
+      "text": "So you kept one eye always on the person beside you. And here's what's crazier. The deadliest force in that camp was not hunger, or cold, or the group over the hill.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.4721304347826087
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0026",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 26,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0066",
+        "FKpfsLuTYOI:s0067"
+      ],
+      "start_s": 238.231,
+      "end_s": 248.637,
+      "text": "When researchers like Martin Daly and Margo Wilson traced what actually drove people to kill, one cause rose to the top again and again. A partner who had strayed, and the jealousy that came after.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.493231884057971
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0027",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 27,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0068",
+        "FKpfsLuTYOI:s0069"
+      ],
+      "start_s": 249.057,
+      "end_s": 259.564,
+      "text": "In a camp with no walls, a lingering look or an empty bed at dawn was rarely a secret for long, and more than once it ended with someone dead. And yet, this was no loveless world.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.5156459627329192
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0028",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 28,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0070",
+        "FKpfsLuTYOI:s0071"
+      ],
+      "start_s": 259.824,
+      "end_s": 279.49,
+      "text": "Two anthropologists, William Jankowiak and Edward Fisher, went looking for romantic love across a hundred and sixty-six different cultures. They found it in a hundred and forty-seven of them, in love songs, in folk tales, in stories of young couples who ran off together against everyone's wishes, the sleepless nights, the ache, the helpless fall.",
+      "n_words": 55,
+      "n_sentences": 2,
+      "pos_pct": 0.5379378881987578
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0029",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 29,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0072",
+        "FKpfsLuTYOI:s0073",
+        "FKpfsLuTYOI:s0074"
+      ],
+      "start_s": 279.79,
+      "end_s": 289.612,
+      "text": "You did not invent that feeling. It was already old when our ancestors felt it around the fire, deep in the Stone Age. Tenderness and violence wound together from the very start.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.5792753623188406
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0030",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 30,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0075",
+        "FKpfsLuTYOI:s0076"
+      ],
+      "start_s": 289.912,
+      "end_s": 296.734,
+      "text": "So why not just pair off, stay faithful, and raise your children in peace? Because a human child is a creature of overwhelming need.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.600231884057971
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0031",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 31,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0077",
+        "FKpfsLuTYOI:s0078"
+      ],
+      "start_s": 297.034,
+      "end_s": 305.737,
+      "text": "Our brains had grown enormous, and the price was a baby born helpless, unable to walk, or feed itself, or last a single day alone. And it stayed that way for years.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.6149772256728778
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0032",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 32,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0079",
+        "FKpfsLuTYOI:s0080",
+        "FKpfsLuTYOI:s0081"
+      ],
+      "start_s": 306.057,
+      "end_s": 313.999,
+      "text": "No couple could carry that load by themselves. Not with predators in the dark, and hunger always a bad week away. It took more than two people to keep one child alive.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.6336583850931677
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0033",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 33,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0082",
+        "FKpfsLuTYOI:s0083"
+      ],
+      "start_s": 314.259,
+      "end_s": 322.542,
+      "text": "And out there, close to half of all children never reached the age of 15. Another provider, more meat, more watchful eyes, was not a luxury.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.6506397515527951
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0034",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 34,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0084",
+        "FKpfsLuTYOI:s0085"
+      ],
+      "start_s": 322.742,
+      "end_s": 329.585,
+      "text": "It was the thin line between a child who made it that far and one who did not. But one thing some peoples did was stranger than all of it.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.6682028985507247
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0035",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 35,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0086",
+        "FKpfsLuTYOI:s0087"
+      ],
+      "start_s": 329.785,
+      "end_s": 336.187,
+      "text": "They gave up loyalty to a single partner on purpose. Along the rivers of Venezuela live a people called the Bari.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.682784679089027
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0036",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 36,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0088"
+      ],
+      "start_s": 336.467,
+      "end_s": 345.812,
+      "text": "The Bari were certain a child could have more than one father, that every man a woman was with, in the months before the birth, had added something to the baby growing inside her.",
+      "n_words": 34,
+      "n_sentences": 1,
+      "pos_pct": 0.6966190476190476
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0037",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 37,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0089",
+        "FKpfsLuTYOI:s0090"
+      ],
+      "start_s": 346.032,
+      "end_s": 359.499,
+      "text": "So, a Beree woman would openly take a second man, a skilled fisherman, a steady hunter, and the whole group accepted both men as the child's fathers. When the baby came, two men might crouch beside the newborn, both claiming it as their own.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.7164223602484472
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0038",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 38,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0091",
+        "FKpfsLuTYOI:s0092",
+        "FKpfsLuTYOI:s0093"
+      ],
+      "start_s": 359.88,
+      "end_s": 369.125,
+      "text": "One bringing fish from the river, the other meat from the forest. But did a second father actually keep a child alive? The anthropologist Stephen Beckerman counted the children.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.7450931677018633
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0039",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 39,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0094",
+        "FKpfsLuTYOI:s0095"
+      ],
+      "start_s": 369.265,
+      "end_s": 376.908,
+      "text": "The ones with a second father reached the age of 15, 80 times out of 100. For the ones with only a single father, just 64 made it.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.7645238095238095
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0040",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 40,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0096",
+        "FKpfsLuTYOI:s0097"
+      ],
+      "start_s": 377.108,
+      "end_s": 386.031,
+      "text": "For the Bari, a second father simply meant another provider, another pair of hands, and a far better chance the child lived. And the reaching did not stop at the edge of the group.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.7807619047619048
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0041",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 41,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0098",
+        "FKpfsLuTYOI:s0099"
+      ],
+      "start_s": 386.371,
+      "end_s": 396.154,
+      "text": "Once or twice a year, scattered groups would flow together. Hundreds of people, walking for days, gathering at a river or a green valley to trade, to feast, to dance until dawn.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.7999399585921325
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0042",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 42,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0100",
+        "FKpfsLuTYOI:s0101"
+      ],
+      "start_s": 396.394,
+      "end_s": 411.702,
+      "text": "And running through all of it was the quiet work of finding someone new. A young woman who had known the same dozen faces her whole life might find herself across the fire from a stranger from far away, and by the time the gathering broke apart, walk off at his side toward land she had never seen before.",
+      "n_words": 59,
+      "n_sentences": 2,
+      "pos_pct": 0.8206915113871636
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0043",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 43,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0102",
+        "FKpfsLuTYOI:s0103"
+      ],
+      "start_s": 412.062,
+      "end_s": 421.647,
+      "text": "More partnerships began at these gatherings than anywhere else. For the young, a whole year could turn on a single night of firelight and dancing, on one stranger glimpsed across the crowd.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.8531304347826087
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0044",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 44,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0104",
+        "FKpfsLuTYOI:s0105",
+        "FKpfsLuTYOI:s0106"
+      ],
+      "start_s": 421.827,
+      "end_s": 427.511,
+      "text": "So what about the faithful couple? The two who stayed side by side for a whole lifetime. They did exist.",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.8733478260869565
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0045",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 45,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0107",
+        "FKpfsLuTYOI:s0108"
+      ],
+      "start_s": 427.691,
+      "end_s": 440.04,
+      "text": "Here and there, an old man and an old woman had weathered all of it together and still shared one fire into old age. But they were the rare pair the whole group knew by name, pointed out to the young the way we still talk about a couple married 70 years.",
+      "n_words": 52,
+      "n_sentences": 2,
+      "pos_pct": 0.8854886128364389
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0046",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 46,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0109",
+        "FKpfsLuTYOI:s0110",
+        "FKpfsLuTYOI:s0111",
+        "FKpfsLuTYOI:s0112"
+      ],
+      "start_s": 440.34,
+      "end_s": 446.886,
+      "text": "They were the exception. They were never the rule. So, were ancient humans loyal to one partner? They bonded, deeply.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.9116770186335403
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0047",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 47,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0113",
+        "FKpfsLuTYOI:s0114",
+        "FKpfsLuTYOI:s0115",
+        "FKpfsLuTYOI:s0116"
+      ],
+      "start_s": 447.126,
+      "end_s": 455.754,
+      "text": "And they bonded often. But one person, for life, with no exceptions, was never their world. They paired, and parted. They stayed, and they strayed.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.9257267080745342
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0048",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 48,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0117",
+        "FKpfsLuTYOI:s0118"
+      ],
+      "start_s": 456.134,
+      "end_s": 465.463,
+      "text": "They shared the very idea of fatherhood, and reached far across the land for love. The neat little picture, one faithful couple at the dawn of time, never really existed.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.944376811594203
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0049",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 49,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0119",
+        "FKpfsLuTYOI:s0120"
+      ],
+      "start_s": 465.763,
+      "end_s": 477.596,
+      "text": "It belongs to a much later chapter of the human story, and the people who lived it, restless and wandering and fiercely bonded all at once, are not gone. Their blood is in you, their loves and their jealousies are in you.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.9643126293995858
+    },
+    {
+      "window_id": "FKpfsLuTYOI:j0050",
+      "video_id": "FKpfsLuTYOI",
+      "idx": 50,
+      "sent_ids": [
+        "FKpfsLuTYOI:s0121"
+      ],
+      "start_s": 477.756,
+      "end_s": 482.53,
+      "text": "Whatever you feel when you fall for someone, they felt it first around a fire a very long time ago.",
+      "n_words": 20,
+      "n_sentences": 1,
+      "pos_pct": 0.9891428571428571
+    }
+  ]
+}

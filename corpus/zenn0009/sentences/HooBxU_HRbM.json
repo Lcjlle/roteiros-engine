@@ -1,0 +1,1141 @@
+{
+  "video_id": "HooBxU_HRbM",
+  "duration_s": 517.0,
+  "generated_at": "2026-09-04T02:59:44.917398+00:00",
+  "sentences": [
+    {
+      "sent_id": "HooBxU_HRbM:s0000",
+      "video_id": "HooBxU_HRbM",
+      "idx": 0,
+      "start_s": 0.0,
+      "end_s": 3.56,
+      "text": "Why are you right-handed or left-handed?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0001",
+      "video_id": "HooBxU_HRbM",
+      "idx": 1,
+      "start_s": 2.16,
+      "end_s": 7.92,
+      "text": "It feels like a question we should have answered by now.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0002",
+      "video_id": "HooBxU_HRbM",
+      "idx": 2,
+      "start_s": 3.56,
+      "end_s": 9.96,
+      "text": "We haven't, but what we have figured out is genuinely strange.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0003",
+      "video_id": "HooBxU_HRbM",
+      "idx": 3,
+      "start_s": 7.92,
+      "end_s": 14.240000000000002,
+      "text": "Your dominant hand was picked for you before you took your first breath.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0004",
+      "video_id": "HooBxU_HRbM",
+      "idx": 4,
+      "start_s": 11.68,
+      "end_s": 22.36,
+      "text": "Roughly one in 10 humans is left-handed, and that ratio has held for at least the last 500,000 years.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0005",
+      "video_id": "HooBxU_HRbM",
+      "idx": 5,
+      "start_s": 16.44,
+      "end_s": 31.0,
+      "text": "No human population anywhere has ever been mostly left-handed, and no other animal on Earth, not even chimpanzees, has the same strong one-sided preference we do.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0006",
+      "video_id": "HooBxU_HRbM",
+      "idx": 6,
+      "start_s": 29.0,
+      "end_s": 36.28,
+      "text": "Doctors can predict before a baby is even born whether they will be right-handed or left-handed.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0007",
+      "video_id": "HooBxU_HRbM",
+      "idx": 7,
+      "start_s": 32.4,
+      "end_s": 40.32,
+      "text": "They do it by watching which hand the fetus moves toward its own mouth on the ultrasound.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0008",
+      "video_id": "HooBxU_HRbM",
+      "idx": 8,
+      "start_s": 38.4,
+      "end_s": 45.72,
+      "text": "And once that pattern locks in, it almost never flips.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0009",
+      "video_id": "HooBxU_HRbM",
+      "idx": 9,
+      "start_s": 40.32,
+      "end_s": 48.56,
+      "text": "The 500,000-year part comes from bones.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0010",
+      "video_id": "HooBxU_HRbM",
+      "idx": 10,
+      "start_s": 43.36,
+      "end_s": 52.6,
+      "text": "The dominant arm gets longer, denser, slightly stronger from a lifetime of use.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0011",
+      "video_id": "HooBxU_HRbM",
+      "idx": 11,
+      "start_s": 48.56,
+      "end_s": 60.28,
+      "text": "When archaeologists dig up ancient skeletons, roughly 10% of them show the signs of being left-handed in life, exactly like the world today.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0012",
+      "video_id": "HooBxU_HRbM",
+      "idx": 12,
+      "start_s": 56.6,
+      "end_s": 66.2,
+      "text": "So, something specific is happening in your brain that pushes almost all of us toward one side, and that something is ancient.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0013",
+      "video_id": "HooBxU_HRbM",
+      "idx": 13,
+      "start_s": 62.24,
+      "end_s": 72.72,
+      "text": "In a cave in Croatia, scientists examined the teeth of a Neanderthal who died about 130,000 years ago.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0014",
+      "video_id": "HooBxU_HRbM",
+      "idx": 14,
+      "start_s": 69.08,
+      "end_s": 74.44,
+      "text": "Their front teeth had tiny diagonal scratches across them.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0015",
+      "video_id": "HooBxU_HRbM",
+      "idx": 15,
+      "start_s": 70.92,
+      "end_s": 77.8,
+      "text": "The Neanderthal had been cleaning an animal hide so it could be used as clothing.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0016",
+      "video_id": "HooBxU_HRbM",
+      "idx": 16,
+      "start_s": 76.12,
+      "end_s": 81.28,
+      "text": "They bit down on one edge to hold it steady.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0017",
+      "video_id": "HooBxU_HRbM",
+      "idx": 17,
+      "start_s": 77.8,
+      "end_s": 83.2,
+      "text": "They pulled the hide tight with one hand.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0018",
+      "video_id": "HooBxU_HRbM",
+      "idx": 18,
+      "start_s": 79.44,
+      "end_s": 85.08,
+      "text": "With the other, they scraped it clean with a sharp stone tool.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0019",
+      "video_id": "HooBxU_HRbM",
+      "idx": 19,
+      "start_s": 83.2,
+      "end_s": 88.39999999999999,
+      "text": "Sometimes the stone slipped and the edge scratched their front teeth.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0020",
+      "video_id": "HooBxU_HRbM",
+      "idx": 20,
+      "start_s": 85.08,
+      "end_s": 96.8,
+      "text": "The direction of those scratches reveals which hand held the tool, and the answer, again and again across the fossil record, is the right hand.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0021",
+      "video_id": "HooBxU_HRbM",
+      "idx": 21,
+      "start_s": 92.24,
+      "end_s": 103.44,
+      "text": "Even a Homo habilis specimen from nearly 2 million years ago left the same scratch pattern on its teeth.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0022",
+      "video_id": "HooBxU_HRbM",
+      "idx": 22,
+      "start_s": 98.92,
+      "end_s": 109.56,
+      "text": "Long before language, before farming, before any art we have ever found, our family was already favoring the right.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0023",
+      "video_id": "HooBxU_HRbM",
+      "idx": 23,
+      "start_s": 105.4,
+      "end_s": 111.47999999999999,
+      "text": "The cave paintings agree.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0024",
+      "video_id": "HooBxU_HRbM",
+      "idx": 24,
+      "start_s": 107.32,
+      "end_s": 120.6,
+      "text": "On rock walls across Europe, Indonesia, and Argentina, ancient artists pressed one hand to the stone and blew pigment around it to make an outline.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0025",
+      "video_id": "HooBxU_HRbM",
+      "idx": 25,
+      "start_s": 116.0,
+      "end_s": 127.96,
+      "text": "The vast majority of those outlined hands are left hands, which means the hand doing the blowing, the one steady enough to hold the pigment tube, was the right.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0026",
+      "video_id": "HooBxU_HRbM",
+      "idx": 26,
+      "start_s": 124.0,
+      "end_s": 129.84,
+      "text": "So, this is not a recent quirk.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0027",
+      "video_id": "HooBxU_HRbM",
+      "idx": 27,
+      "start_s": 126.0,
+      "end_s": 131.84,
+      "text": "This goes deep, and it is not really a choice you ever made.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0028",
+      "video_id": "HooBxU_HRbM",
+      "idx": 28,
+      "start_s": 127.96,
+      "end_s": 135.56,
+      "text": "You did not pick your dominant hand the way you picked your favorite color.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0029",
+      "video_id": "HooBxU_HRbM",
+      "idx": 29,
+      "start_s": 133.32,
+      "end_s": 140.84,
+      "text": "Identical twins who share the exact same DNA can have different dominant hands.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0030",
+      "video_id": "HooBxU_HRbM",
+      "idx": 30,
+      "start_s": 138.32,
+      "end_s": 145.12,
+      "text": "About one in four identical twin pairs split this way.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0031",
+      "video_id": "HooBxU_HRbM",
+      "idx": 31,
+      "start_s": 140.84,
+      "end_s": 148.72,
+      "text": "So, genetics on its own does not decide it, but genetics does load the dice.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0032",
+      "video_id": "HooBxU_HRbM",
+      "idx": 32,
+      "start_s": 145.12,
+      "end_s": 154.32,
+      "text": "If both your parents are right-handed, you have about a 10% chance of being left-handed, same as the global average.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0033",
+      "video_id": "HooBxU_HRbM",
+      "idx": 33,
+      "start_s": 150.76,
+      "end_s": 159.84,
+      "text": "If one parent is left-handed, your odds jump to roughly 17%.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0034",
+      "video_id": "HooBxU_HRbM",
+      "idx": 34,
+      "start_s": 154.32,
+      "end_s": 161.88,
+      "text": "If both parents are left-handed, the number climbs to around 26%.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0035",
+      "video_id": "HooBxU_HRbM",
+      "idx": 35,
+      "start_s": 157.24,
+      "end_s": 163.92000000000002,
+      "text": "There is also a small gender gap.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0036",
+      "video_id": "HooBxU_HRbM",
+      "idx": 36,
+      "start_s": 159.84,
+      "end_s": 170.28,
+      "text": "Men are slightly more likely to be left-handed than women by a few percentage points, and researchers still are not sure why.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0037",
+      "video_id": "HooBxU_HRbM",
+      "idx": 37,
+      "start_s": 168.4,
+      "end_s": 174.36,
+      "text": "The current best guess is that there is no single gene for left-handedness.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0038",
+      "video_id": "HooBxU_HRbM",
+      "idx": 38,
+      "start_s": 172.72,
+      "end_s": 181.239,
+      "text": "There is a cluster of small genetic effects, and one specific tendency that geneticists have nicknamed right shift.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0039",
+      "video_id": "HooBxU_HRbM",
+      "idx": 39,
+      "start_s": 179.56,
+      "end_s": 183.48,
+      "text": "Here is how it works.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0040",
+      "video_id": "HooBxU_HRbM",
+      "idx": 40,
+      "start_s": 179.56,
+      "end_s": 185.48000000000002,
+      "text": "Your brain is cross-wired.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0041",
+      "video_id": "HooBxU_HRbM",
+      "idx": 41,
+      "start_s": 181.239,
+      "end_s": 188.48,
+      "text": "The left side of your brain controls the right side of your body.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0042",
+      "video_id": "HooBxU_HRbM",
+      "idx": 42,
+      "start_s": 185.48,
+      "end_s": 190.72,
+      "text": "The right side controls the left.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0043",
+      "video_id": "HooBxU_HRbM",
+      "idx": 43,
+      "start_s": 185.48,
+      "end_s": 196.239,
+      "text": "In 99% of right-handers, language lives almost entirely in the left hemisphere in a region called Broca's area.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0044",
+      "video_id": "HooBxU_HRbM",
+      "idx": 44,
+      "start_s": 192.76,
+      "end_s": 200.20000000000002,
+      "text": "It is named after the French scientist who discovered it in the 1860s.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0045",
+      "video_id": "HooBxU_HRbM",
+      "idx": 45,
+      "start_s": 196.239,
+      "end_s": 204.16,
+      "text": "The same hemisphere that runs your dominant hand also runs your speech.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0046",
+      "video_id": "HooBxU_HRbM",
+      "idx": 46,
+      "start_s": 200.2,
+      "end_s": 211.35999999999999,
+      "text": "There is even a small patch in that same left hemisphere called BA44 that fires up specifically when you make and use tools.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0047",
+      "video_id": "HooBxU_HRbM",
+      "idx": 47,
+      "start_s": 207.64,
+      "end_s": 215.959,
+      "text": "The side of your brain built for speech is also the side built for handling objects.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0048",
+      "video_id": "HooBxU_HRbM",
+      "idx": 48,
+      "start_s": 211.36,
+      "end_s": 222.16,
+      "text": "Hand control, language, and tool use all clustering on the same side of the brain.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0049",
+      "video_id": "HooBxU_HRbM",
+      "idx": 49,
+      "start_s": 217.44,
+      "end_s": 224.16,
+      "text": "That clustering is what the right shift tendency creates.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0050",
+      "video_id": "HooBxU_HRbM",
+      "idx": 50,
+      "start_s": 219.6,
+      "end_s": 230.72000000000003,
+      "text": "If you carry the shift, your dominant hand and your language both go to the left hemisphere, which means you end up right-handed.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0051",
+      "video_id": "HooBxU_HRbM",
+      "idx": 51,
+      "start_s": 226.36,
+      "end_s": 237.72,
+      "text": "If you do not carry it, your your does not get a clear instruction, and your body picks a side more or less by chance.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0052",
+      "video_id": "HooBxU_HRbM",
+      "idx": 52,
+      "start_s": 232.84,
+      "end_s": 241.88,
+      "text": "So, left-handedness is not really a gene for being left-handed.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0053",
+      "video_id": "HooBxU_HRbM",
+      "idx": 53,
+      "start_s": 237.72,
+      "end_s": 243.56,
+      "text": "It is the absence of the instruction to be right-handed.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0054",
+      "video_id": "HooBxU_HRbM",
+      "idx": 54,
+      "start_s": 241.88,
+      "end_s": 247.36,
+      "text": "There is a clue about why we favor the right hand and not the left.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0055",
+      "video_id": "HooBxU_HRbM",
+      "idx": 55,
+      "start_s": 243.56,
+      "end_s": 251.76000000000002,
+      "text": "It might come from something even older than tools.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0056",
+      "video_id": "HooBxU_HRbM",
+      "idx": 56,
+      "start_s": 247.36,
+      "end_s": 253.4,
+      "text": "It might come from walking on two legs.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0057",
+      "video_id": "HooBxU_HRbM",
+      "idx": 57,
+      "start_s": 249.44,
+      "end_s": 253.4,
+      "text": "Kangaroos walk upright, too.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0058",
+      "video_id": "HooBxU_HRbM",
+      "idx": 58,
+      "start_s": 249.44,
+      "end_s": 260.079,
+      "text": "And as far as we know, they are the only other mammals on Earth that show the same kind of species-wide hand preference humans do.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0059",
+      "video_id": "HooBxU_HRbM",
+      "idx": 59,
+      "start_s": 256.76,
+      "end_s": 262.36,
+      "text": "Theirs goes the other way.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0060",
+      "video_id": "HooBxU_HRbM",
+      "idx": 60,
+      "start_s": 258.56,
+      "end_s": 271.96,
+      "text": "Most kangaroos are left-handed, which suggests that walking upright on two legs and freeing up the hands somehow forces a brain to pick a side, no matter what species you are, which raises the obvious question.",
+      "n_words": 36
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0061",
+      "video_id": "HooBxU_HRbM",
+      "idx": 61,
+      "start_s": 268.52,
+      "end_s": 278.52000000000004,
+      "text": "If being right-handed is the default our species drifted toward, why are there any lefties at all?",
+      "n_words": 17
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0062",
+      "video_id": "HooBxU_HRbM",
+      "idx": 62,
+      "start_s": 273.8,
+      "end_s": 280.64,
+      "text": "Why has the 10% not disappeared?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0063",
+      "video_id": "HooBxU_HRbM",
+      "idx": 63,
+      "start_s": 276.84,
+      "end_s": 282.59999999999997,
+      "text": "The answer comes from baseball.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0064",
+      "video_id": "HooBxU_HRbM",
+      "idx": 64,
+      "start_s": 278.52,
+      "end_s": 288.919,
+      "text": "Among the top hitters in Major League history, roughly half of them bat left-handed from a population where left-handers are only 10%.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0065",
+      "video_id": "HooBxU_HRbM",
+      "idx": 65,
+      "start_s": 284.28,
+      "end_s": 293.79999999999995,
+      "text": "The same pattern shows up in boxing, fencing, tennis, cricket, and mixed martial arts.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0066",
+      "video_id": "HooBxU_HRbM",
+      "idx": 66,
+      "start_s": 291.12,
+      "end_s": 303.56,
+      "text": "A 2019 study looked at thousands of professional combat sport matches and found that left-handed fighters win significantly more often than their right-handed opponents.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0067",
+      "video_id": "HooBxU_HRbM",
+      "idx": 67,
+      "start_s": 299.4,
+      "end_s": 304.68,
+      "text": "Not because they are stronger, because they are rare.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0068",
+      "video_id": "HooBxU_HRbM",
+      "idx": 68,
+      "start_s": 301.44,
+      "end_s": 310.12,
+      "text": "If you grow up training against right-handed opponents, your reflexes get tuned for right-handed attacks.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0069",
+      "video_id": "HooBxU_HRbM",
+      "idx": 69,
+      "start_s": 308.56,
+      "end_s": 314.6,
+      "text": "Their shots come from one expected angle.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0070",
+      "video_id": "HooBxU_HRbM",
+      "idx": 70,
+      "start_s": 310.12,
+      "end_s": 316.59999999999997,
+      "text": "Their stance points one expected way.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0071",
+      "video_id": "HooBxU_HRbM",
+      "idx": 71,
+      "start_s": 312.28,
+      "end_s": 318.32000000000005,
+      "text": "Then a lefty walks in, and everything is mirrored.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0072",
+      "video_id": "HooBxU_HRbM",
+      "idx": 72,
+      "start_s": 314.6,
+      "end_s": 323.919,
+      "text": "You are off by a fraction of a second, which in a fight is the difference between landing a punch and eating one.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0073",
+      "video_id": "HooBxU_HRbM",
+      "idx": 73,
+      "start_s": 319.76,
+      "end_s": 326.08,
+      "text": "The logic is simple.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0074",
+      "video_id": "HooBxU_HRbM",
+      "idx": 74,
+      "start_s": 321.84,
+      "end_s": 327.79999999999995,
+      "text": "When something is rare, being that rare thing is an advantage.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0075",
+      "video_id": "HooBxU_HRbM",
+      "idx": 75,
+      "start_s": 323.919,
+      "end_s": 333.08,
+      "text": "When it becomes common, the advantage disappears.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0076",
+      "video_id": "HooBxU_HRbM",
+      "idx": 76,
+      "start_s": 327.8,
+      "end_s": 334.8,
+      "text": "That is why the number stays stuck around 10%.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0077",
+      "video_id": "HooBxU_HRbM",
+      "idx": 77,
+      "start_s": 330.32,
+      "end_s": 338.919,
+      "text": "If too many people were lefty, the surprise factor would die, and the edge would vanish.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0078",
+      "video_id": "HooBxU_HRbM",
+      "idx": 78,
+      "start_s": 334.8,
+      "end_s": 343.59999999999997,
+      "text": "If too few were lefty, the genetic odds would push the number back up.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0079",
+      "video_id": "HooBxU_HRbM",
+      "idx": 79,
+      "start_s": 338.919,
+      "end_s": 345.47999999999996,
+      "text": "The 10% is an evolutionary balance point.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0080",
+      "video_id": "HooBxU_HRbM",
+      "idx": 80,
+      "start_s": 341.64,
+      "end_s": 348.12,
+      "text": "There is a second piece to this, though.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0081",
+      "video_id": "HooBxU_HRbM",
+      "idx": 81,
+      "start_s": 343.6,
+      "end_s": 350.8,
+      "text": "A A of life is not combat.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0082",
+      "video_id": "HooBxU_HRbM",
+      "idx": 82,
+      "start_s": 345.48,
+      "end_s": 360.08,
+      "text": "It is cooperation, using tools, sharing equipment, copying what someone else is doing, and tools, going all the way back, are built for the majority.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0083",
+      "video_id": "HooBxU_HRbM",
+      "idx": 83,
+      "start_s": 355.08,
+      "end_s": 364.8,
+      "text": "Scissors, can openers, school desks, guitars, even the way cards are dealt in poker.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0084",
+      "video_id": "HooBxU_HRbM",
+      "idx": 84,
+      "start_s": 360.08,
+      "end_s": 369.36,
+      "text": "Among the top golfers in the world, only about 4% are left-handed.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0085",
+      "video_id": "HooBxU_HRbM",
+      "idx": 85,
+      "start_s": 364.8,
+      "end_s": 371.0,
+      "text": "In golf, you are not facing an opponent.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0086",
+      "video_id": "HooBxU_HRbM",
+      "idx": 86,
+      "start_s": 367.28,
+      "end_s": 373.52000000000004,
+      "text": "You are alone against the course.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0087",
+      "video_id": "HooBxU_HRbM",
+      "idx": 87,
+      "start_s": 369.36,
+      "end_s": 377.44,
+      "text": "The surprise advantage that lefties have in combat does not exist there.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0088",
+      "video_id": "HooBxU_HRbM",
+      "idx": 88,
+      "start_s": 373.52,
+      "end_s": 381.0,
+      "text": "What does exist is the world of right-handed clubs, right-handed coaching, and right-handed instruction.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0089",
+      "video_id": "HooBxU_HRbM",
+      "idx": 89,
+      "start_s": 379.52,
+      "end_s": 386.72,
+      "text": "So, in tasks where you compete head-to-head, being a lefty is an advantage.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0090",
+      "video_id": "HooBxU_HRbM",
+      "idx": 90,
+      "start_s": 382.72,
+      "end_s": 391.96000000000004,
+      "text": "But, in tasks where you cooperate or use shared tools, being a lefty is a disadvantage.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0091",
+      "video_id": "HooBxU_HRbM",
+      "idx": 91,
+      "start_s": 386.72,
+      "end_s": 398.72,
+      "text": "The 10% you see today is the math working itself out across both pressures, generation after generation.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0092",
+      "video_id": "HooBxU_HRbM",
+      "idx": 92,
+      "start_s": 394.6,
+      "end_s": 400.48,
+      "text": "There is one more strange thing about left-handed brains.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0093",
+      "video_id": "HooBxU_HRbM",
+      "idx": 93,
+      "start_s": 396.6,
+      "end_s": 405.16,
+      "text": "In most people, the two halves of the brain divide up work very strictly.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0094",
+      "video_id": "HooBxU_HRbM",
+      "idx": 94,
+      "start_s": 400.48,
+      "end_s": 409.16,
+      "text": "Language happens almost entirely on the left side.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0095",
+      "video_id": "HooBxU_HRbM",
+      "idx": 95,
+      "start_s": 405.16,
+      "end_s": 414.16,
+      "text": "Pictured in things in your head, recognizing faces, and knowing where you are, all happen mostly on the right.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0096",
+      "video_id": "HooBxU_HRbM",
+      "idx": 96,
+      "start_s": 409.16,
+      "end_s": 416.15999999999997,
+      "text": "The two sides rarely overlap.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0097",
+      "video_id": "HooBxU_HRbM",
+      "idx": 97,
+      "start_s": 411.64,
+      "end_s": 418.72,
+      "text": "Lefties are different.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0098",
+      "video_id": "HooBxU_HRbM",
+      "idx": 98,
+      "start_s": 414.16,
+      "end_s": 422.72,
+      "text": "The same tasks that stay locked to one side in a righty often get spread across both sides in a lefty.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0099",
+      "video_id": "HooBxU_HRbM",
+      "idx": 99,
+      "start_s": 421.08,
+      "end_s": 426.36,
+      "text": "Researchers have linked this to a few small effects.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0100",
+      "video_id": "HooBxU_HRbM",
+      "idx": 100,
+      "start_s": 422.72,
+      "end_s": 434.8,
+      "text": "When the part of the brain that handles speech gets damaged, lefties often recover their language faster because their other hemisphere can step in and take over.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0101",
+      "video_id": "HooBxU_HRbM",
+      "idx": 101,
+      "start_s": 430.44,
+      "end_s": 438.04,
+      "text": "Communication between the two sides of the brain also runs a bit quicker.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0102",
+      "video_id": "HooBxU_HRbM",
+      "idx": 102,
+      "start_s": 434.8,
+      "end_s": 443.79999999999995,
+      "text": "And on tasks that require pulling information from different brain regions at once, lefties do slightly better.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0103",
+      "video_id": "HooBxU_HRbM",
+      "idx": 103,
+      "start_s": 440.28,
+      "end_s": 453.12,
+      "text": "The British psychologist Chris McManus, who spent most of his career studying handedness, describes a left-hander's brain as just a little more spread out, less strict about which side does what.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0104",
+      "video_id": "HooBxU_HRbM",
+      "idx": 104,
+      "start_s": 449.52,
+      "end_s": 454.88,
+      "text": "It is not a superpower.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0105",
+      "video_id": "HooBxU_HRbM",
+      "idx": 105,
+      "start_s": 451.44,
+      "end_s": 457.4,
+      "text": "Plenty of lefties are completely average.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0106",
+      "video_id": "HooBxU_HRbM",
+      "idx": 106,
+      "start_s": 453.12,
+      "end_s": 460.59999999999997,
+      "text": "But, across a population, the wiring really is a bit different.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0107",
+      "video_id": "HooBxU_HRbM",
+      "idx": 107,
+      "start_s": 457.4,
+      "end_s": 463.03999999999996,
+      "text": "Now, think about how language has treated this difference.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0108",
+      "video_id": "HooBxU_HRbM",
+      "idx": 108,
+      "start_s": 458.96,
+      "end_s": 465.40000000000003,
+      "text": "The Latin word for left is sinister.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0109",
+      "video_id": "HooBxU_HRbM",
+      "idx": 109,
+      "start_s": 460.6,
+      "end_s": 468.0,
+      "text": "We still use it today to mean evil.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0110",
+      "video_id": "HooBxU_HRbM",
+      "idx": 110,
+      "start_s": 463.04,
+      "end_s": 472.12,
+      "text": "Gauche, the French word for left, also means clumsy or socially awkward.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0111",
+      "video_id": "HooBxU_HRbM",
+      "idx": 111,
+      "start_s": 468.0,
+      "end_s": 476.24,
+      "text": "And in English, your right hand is the skillful one, and being right means being correct.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0112",
+      "video_id": "HooBxU_HRbM",
+      "idx": 112,
+      "start_s": 472.12,
+      "end_s": 479.88,
+      "text": "For most of recorded history, left-handed children were forced to switch.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0113",
+      "video_id": "HooBxU_HRbM",
+      "idx": 113,
+      "start_s": 476.24,
+      "end_s": 484.64,
+      "text": "Teachers tied their left hands behind their backs.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0114",
+      "video_id": "HooBxU_HRbM",
+      "idx": 114,
+      "start_s": 479.88,
+      "end_s": 484.64,
+      "text": "Parents slapped pens out of them.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0115",
+      "video_id": "HooBxU_HRbM",
+      "idx": 115,
+      "start_s": 482.48,
+      "end_s": 491.71999999999997,
+      "text": "Schools across Europe and the Americas treated it as a defect to be corrected in some places into the 1960s.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0116",
+      "video_id": "HooBxU_HRbM",
+      "idx": 116,
+      "start_s": 486.84,
+      "end_s": 493.68,
+      "text": "And it almost never worked.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0117",
+      "video_id": "HooBxU_HRbM",
+      "idx": 117,
+      "start_s": 489.48,
+      "end_s": 496.0,
+      "text": "The brain had already chosen.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0118",
+      "video_id": "HooBxU_HRbM",
+      "idx": 118,
+      "start_s": 491.72,
+      "end_s": 497.68,
+      "text": "The brain was not negotiating.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0119",
+      "video_id": "HooBxU_HRbM",
+      "idx": 119,
+      "start_s": 493.68,
+      "end_s": 499.24,
+      "text": "You did not decide which hand would be yours.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0120",
+      "video_id": "HooBxU_HRbM",
+      "idx": 120,
+      "start_s": 496.0,
+      "end_s": 502.44,
+      "text": "Your brain had already picked a side before you took your first breath.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0121",
+      "video_id": "HooBxU_HRbM",
+      "idx": 121,
+      "start_s": 499.24,
+      "end_s": 506.48,
+      "text": "And it was following a pattern that has held for half a million years.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0122",
+      "video_id": "HooBxU_HRbM",
+      "idx": 122,
+      "start_s": 502.44,
+      "end_s": 510.12,
+      "text": "The hand you wave with, the one you write with, that hand is older than civilization.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0123",
+      "video_id": "HooBxU_HRbM",
+      "idx": 123,
+      "start_s": 506.48,
+      "end_s": 512.0,
+      "text": "It is older than language.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0124",
+      "video_id": "HooBxU_HRbM",
+      "idx": 124,
+      "start_s": 508.32,
+      "end_s": 515.68,
+      "text": "And the small fraction of you who reach with the other one are not a mistake.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "HooBxU_HRbM:s0125",
+      "video_id": "HooBxU_HRbM",
+      "idx": 125,
+      "start_s": 512.0,
+      "end_s": 518.88,
+      "text": "You are the reason the rest of us still have to be ready for a punch we did not see coming.",
+      "n_words": 21
+    }
+  ]
+}

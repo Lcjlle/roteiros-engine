@@ -1,0 +1,788 @@
+{
+  "video_id": "OkR_u0neUc8",
+  "generated_at": "2026-09-04T03:00:43.126715+00:00",
+  "windows": [
+    {
+      "window_id": "OkR_u0neUc8:j0000",
+      "video_id": "OkR_u0neUc8",
+      "idx": 0,
+      "sent_ids": [
+        "OkR_u0neUc8:s0000",
+        "OkR_u0neUc8:s0001"
+      ],
+      "start_s": 0.0,
+      "end_s": 8.88,
+      "text": "Look around your room. The walls around you, the light overhead, the air going in and out of your lungs without you ever thinking about it.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0001",
+      "video_id": "OkR_u0neUc8",
+      "idx": 1,
+      "sent_ids": [
+        "OkR_u0neUc8:s0002",
+        "OkR_u0neUc8:s0003",
+        "OkR_u0neUc8:s0004"
+      ],
+      "start_s": 5.2,
+      "end_s": 18.68,
+      "text": "All of it feels permanent, like the world has always been like this. It hasn't. Rewind far enough and this exact spot becomes a place that would kill you in under a minute.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.010810810810810811
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0002",
+      "video_id": "OkR_u0neUc8",
+      "idx": 2,
+      "sent_ids": [
+        "OkR_u0neUc8:s0005",
+        "OkR_u0neUc8:s0006"
+      ],
+      "start_s": 15.28,
+      "end_s": 24.96,
+      "text": "There is no air you could breathe. The ground is literally liquid rock and the sky glows orange like the inside of a furnace.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.031767151767151766
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0003",
+      "video_id": "OkR_u0neUc8",
+      "idx": 3,
+      "sent_ids": [
+        "OkR_u0neUc8:s0007",
+        "OkR_u0neUc8:s0008"
+      ],
+      "start_s": 20.76,
+      "end_s": 33.76,
+      "text": "For more than 99% of this planet's existence, nothing remotely like you was here. Earth got along just fine without us for 4 and 1/2 billion years.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.043160083160083164
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0004",
+      "video_id": "OkR_u0neUc8",
+      "idx": 4,
+      "sent_ids": [
+        "OkR_u0neUc8:s0009",
+        "OkR_u0neUc8:s0010"
+      ],
+      "start_s": 29.24,
+      "end_s": 41.800000000000004,
+      "text": "Something was ruling the planet that entire time and for almost all of it it was nothing you'd recognize. 4 and 1/2 billion years is a number your brain simply can't hold.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.060790020790020785
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0005",
+      "video_id": "OkR_u0neUc8",
+      "idx": 5,
+      "sent_ids": [
+        "OkR_u0neUc8:s0011",
+        "OkR_u0neUc8:s0012",
+        "OkR_u0neUc8:s0013"
+      ],
+      "start_s": 37.52,
+      "end_s": 47.12,
+      "text": "So, forget the numbers for a second. Think of it like this. Imagine a stadium filled with popcorn.",
+      "n_words": 18,
+      "n_sentences": 3,
+      "pos_pct": 0.07800415800415801
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0006",
+      "video_id": "OkR_u0neUc8",
+      "idx": 6,
+      "sent_ids": [
+        "OkR_u0neUc8:s0014",
+        "OkR_u0neUc8:s0015"
+      ],
+      "start_s": 43.64,
+      "end_s": 56.72,
+      "text": "If all of that popcorn represented the entire history of Earth, then all of human history would be equal to one single kernel near the top of the pile. That is how small we actually are.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.09072765072765072
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0007",
+      "video_id": "OkR_u0neUc8",
+      "idx": 7,
+      "sent_ids": [
+        "OkR_u0neUc8:s0016",
+        "OkR_u0neUc8:s0017"
+      ],
+      "start_s": 53.04,
+      "end_s": 62.559999999999995,
+      "text": "We are a single grain of sand in the whole Sahara desert. A single drop of water in the entire ocean.",
+      "n_words": 21,
+      "n_sentences": 2,
+      "pos_pct": 0.11027027027027027
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0008",
+      "video_id": "OkR_u0neUc8",
+      "idx": 8,
+      "sent_ids": [
+        "OkR_u0neUc8:s0018",
+        "OkR_u0neUc8:s0019"
+      ],
+      "start_s": 58.76,
+      "end_s": 69.88,
+      "text": "So, what would happen if you stepped out onto Earth as it was 4 and 1/2 billion years ago? Well, the first thing that happens is you die.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.12216216216216216
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0009",
+      "video_id": "OkR_u0neUc8",
+      "idx": 9,
+      "sent_ids": [
+        "OkR_u0neUc8:s0020",
+        "OkR_u0neUc8:s0021",
+        "OkR_u0neUc8:s0022"
+      ],
+      "start_s": 65.36,
+      "end_s": 78.03999999999999,
+      "text": "The entire surface is an ocean of lava under a thick orange haze of carbon dioxide. There's no moon in the sky, either. It hasn't formed yet.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.13588357588357589
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0010",
+      "video_id": "OkR_u0neUc8",
+      "idx": 10,
+      "sent_ids": [
+        "OkR_u0neUc8:s0023",
+        "OkR_u0neUc8:s0024"
+      ],
+      "start_s": 73.88,
+      "end_s": 94.48,
+      "text": "A planet about the size of Mars, which scientists named Theia, has just slammed into the young Earth at an angle. The crash threw an enormous spray of debris into orbit and over millions of years that debris will slowly clump together into the moon you see in the sky.",
+      "n_words": 50,
+      "n_sentences": 2,
+      "pos_pct": 0.1535966735966736
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0011",
+      "video_id": "OkR_u0neUc8",
+      "idx": 11,
+      "sent_ids": [
+        "OkR_u0neUc8:s0025",
+        "OkR_u0neUc8:s0026"
+      ],
+      "start_s": 89.08,
+      "end_s": 100.52000000000001,
+      "text": "The same impact also knocked the planet over by about 23°. And that little tilt is the only reason we have seasons at all.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.1851975051975052
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0012",
+      "video_id": "OkR_u0neUc8",
+      "idx": 12,
+      "sent_ids": [
+        "OkR_u0neUc8:s0027",
+        "OkR_u0neUc8:s0028",
+        "OkR_u0neUc8:s0029"
+      ],
+      "start_s": 96.48,
+      "end_s": 110.24000000000001,
+      "text": "Day one and a slightly different impact would have meant we never happened. Once the lava cooled and the first oceans formed, life appeared. But, you would not have recognized it as life at all.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.20058212058212058
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0013",
+      "video_id": "OkR_u0neUc8",
+      "idx": 13,
+      "sent_ids": [
+        "OkR_u0neUc8:s0030",
+        "OkR_u0neUc8:s0031"
+      ],
+      "start_s": 106.4,
+      "end_s": 119.80000000000001,
+      "text": "For the next 2 billion years, this planet belonged to things too small to see. They were single-celled microbes, a whole [snorts] living world that was invisible to the naked eye.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.22120582120582122
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0014",
+      "video_id": "OkR_u0neUc8",
+      "idx": 14,
+      "sent_ids": [
+        "OkR_u0neUc8:s0032",
+        "OkR_u0neUc8:s0033"
+      ],
+      "start_s": 115.76,
+      "end_s": 128.72,
+      "text": "There were no plants, no animals, nothing with a face at all, just specs of slime running the entire Earth. Do not mistake them for primitive.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.24066528066528067
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0015",
+      "video_id": "OkR_u0neUc8",
+      "idx": 15,
+      "sent_ids": [
+        "OkR_u0neUc8:s0034",
+        "OkR_u0neUc8:s0035"
+      ],
+      "start_s": 124.44,
+      "end_s": 135.64000000000001,
+      "text": "These specs ruled longer than every plant, every animal, and every dinosaur that ever lived combined. The air back then would have killed you.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.2587110187110187
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0016",
+      "video_id": "OkR_u0neUc8",
+      "idx": 16,
+      "sent_ids": [
+        "OkR_u0neUc8:s0036",
+        "OkR_u0neUc8:s0037",
+        "OkR_u0neUc8:s0038",
+        "OkR_u0neUc8:s0039"
+      ],
+      "start_s": 133.36,
+      "end_s": 148.16,
+      "text": "One breath of it with no oxygen at all, and you'd drop where you stood. Then those microbes did something that almost ended everything. Some of them learned to eat sunlight. We call it photosynthesis.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.2772557172557173
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0017",
+      "video_id": "OkR_u0neUc8",
+      "idx": 17,
+      "sent_ids": [
+        "OkR_u0neUc8:s0040",
+        "OkR_u0neUc8:s0041",
+        "OkR_u0neUc8:s0042"
+      ],
+      "start_s": 142.4,
+      "end_s": 154.76000000000002,
+      "text": "Photosynthesis gives off a waste gas, oxygen. To you, oxygen is life. To almost everything alive back then, it was poison.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.29604989604989607
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0018",
+      "video_id": "OkR_u0neUc8",
+      "idx": 18,
+      "sent_ids": [
+        "OkR_u0neUc8:s0043",
+        "OkR_u0neUc8:s0044"
+      ],
+      "start_s": 150.8,
+      "end_s": 166.6,
+      "text": "As it built up in the air, it wiped out huge amounts of the life that couldn't handle it. Geologists call this the Great Oxidation Event, which is a very polite name for one of the biggest die-offs the planet has ever seen.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.31351351351351353
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0019",
+      "video_id": "OkR_u0neUc8",
+      "idx": 19,
+      "sent_ids": [
+        "OkR_u0neUc8:s0045",
+        "OkR_u0neUc8:s0046"
+      ],
+      "start_s": 162.959,
+      "end_s": 174.32000000000002,
+      "text": "But the same gas did something else. It stripped away the gases that had been trapping the planet's heat, and without them, the whole thing froze over.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.3387920997920998
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0020",
+      "video_id": "OkR_u0neUc8",
+      "idx": 20,
+      "sent_ids": [
+        "OkR_u0neUc8:s0047",
+        "OkR_u0neUc8:s0048"
+      ],
+      "start_s": 169.8,
+      "end_s": 183.84,
+      "text": "Very possibly from pole to pole, into a single ball of ice. So, the air sitting in your lungs right now is the leftover from a catastrophe, one that nearly wiped out the very life that created it.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.35301455301455303
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0021",
+      "video_id": "OkR_u0neUc8",
+      "idx": 21,
+      "sent_ids": [
+        "OkR_u0neUc8:s0049",
+        "OkR_u0neUc8:s0050"
+      ],
+      "start_s": 179.959,
+      "end_s": 198.79999999999998,
+      "text": "Life clung on under the ice, but for more than a billion years after that, the biggest thing alive was still microscopic. Then, a little over half a billion years ago, in a burst called the Cambrian Explosion, life suddenly got big, and weird, and fast.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.37413513513513513
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0022",
+      "video_id": "OkR_u0neUc8",
+      "idx": 22,
+      "sent_ids": [
+        "OkR_u0neUc8:s0051",
+        "OkR_u0neUc8:s0052",
+        "OkR_u0neUc8:s0053"
+      ],
+      "start_s": 194.48,
+      "end_s": 209.84,
+      "text": "For the first time, the oceans filled with creatures you could actually see. Plants crept out onto bare rock and built the first soil. Then, fish in the shallows slowly grew legs.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.4043243243243243
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0023",
+      "video_id": "OkR_u0neUc8",
+      "idx": 23,
+      "sent_ids": [
+        "OkR_u0neUc8:s0054",
+        "OkR_u0neUc8:s0055",
+        "OkR_u0neUc8:s0056",
+        "OkR_u0neUc8:s0057"
+      ],
+      "start_s": 205.48,
+      "end_s": 221.48000000000002,
+      "text": "And the first uneasy animals hauled themselves up onto dry land. Forests rose. Swamps spread for thousands of miles. The coal we dig up and burn today is the buried remains of those exact forests.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.4271933471933472
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0024",
+      "video_id": "OkR_u0neUc8",
+      "idx": 24,
+      "sent_ids": [
+        "OkR_u0neUc8:s0058",
+        "OkR_u0neUc8:s0059",
+        "OkR_u0neUc8:s0060"
+      ],
+      "start_s": 216.239,
+      "end_s": 231.11999999999998,
+      "text": "After 4 billion years of fire, ice, and poison, Earth was finally green, and warm, and alive. And then it tried to die again. This is where the world gets genuinely alien.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.4495613305613306
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0025",
+      "video_id": "OkR_u0neUc8",
+      "idx": 25,
+      "sent_ids": [
+        "OkR_u0neUc8:s0061",
+        "OkR_u0neUc8:s0062"
+      ],
+      "start_s": 228.28,
+      "end_s": 241.0,
+      "text": "Picture Earth around 260 million years ago, long before a single dinosaur exists. The days are shorter here, only about 22 hours long, because the planet is spinning faster than it does today.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.4745945945945946
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0026",
+      "video_id": "OkR_u0neUc8",
+      "idx": 26,
+      "sent_ids": [
+        "OkR_u0neUc8:s0063",
+        "OkR_u0neUc8:s0064",
+        "OkR_u0neUc8:s0065"
+      ],
+      "start_s": 239.68,
+      "end_s": 248.08,
+      "text": "And the thing in charge isn't a dinosaur. Dinosaurs don't exist yet. It's something older and arguably worse.",
+      "n_words": 18,
+      "n_sentences": 3,
+      "pos_pct": 0.49829521829521833
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0027",
+      "video_id": "OkR_u0neUc8",
+      "idx": 27,
+      "sent_ids": [
+        "OkR_u0neUc8:s0066",
+        "OkR_u0neUc8:s0067"
+      ],
+      "start_s": 246.28,
+      "end_s": 265.8,
+      "text": "They were called gorgonopsids and they were among the very first animals on Earth to grow saber teeth. The biggest of them was a monster called Inostrancevia, which is basically the scientific name for a bear-sized killing machine with curved fangs as long as your hand, built to slice straight through flesh.",
+      "n_words": 52,
+      "n_sentences": 2,
+      "pos_pct": 0.5120166320166321
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0028",
+      "video_id": "OkR_u0neUc8",
+      "idx": 28,
+      "sent_ids": [
+        "OkR_u0neUc8:s0068",
+        "OkR_u0neUc8:s0069"
+      ],
+      "start_s": 262.24,
+      "end_s": 270.88,
+      "text": "For a long stretch of this world, if you were a plant eater, it didn't matter how big you grew. One of these things was waiting for you.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.5451975051975052
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0029",
+      "video_id": "OkR_u0neUc8",
+      "idx": 29,
+      "sent_ids": [
+        "OkR_u0neUc8:s0070",
+        "OkR_u0neUc8:s0071",
+        "OkR_u0neUc8:s0072"
+      ],
+      "start_s": 269.04,
+      "end_s": 282.04,
+      "text": "Strangely, the safest place to be was underwater. The seas back then were calm and mostly free of anything big enough to hurt you. On land, there were no breaks at all.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.5593347193347193
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0030",
+      "video_id": "OkR_u0neUc8",
+      "idx": 30,
+      "sent_ids": [
+        "OkR_u0neUc8:s0073",
+        "OkR_u0neUc8:s0074"
+      ],
+      "start_s": 277.68,
+      "end_s": 295.72,
+      "text": "And then came the closest call life on Earth has ever had. Around 252 million years ago, a region of what's now Siberia tore open and stayed open, pouring out lava across an area the size of Western Europe, on and off for hundreds of thousands of years.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.5772972972972973
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0031",
+      "video_id": "OkR_u0neUc8",
+      "idx": 31,
+      "sent_ids": [
+        "OkR_u0neUc8:s0075",
+        "OkR_u0neUc8:s0076"
+      ],
+      "start_s": 291.68,
+      "end_s": 305.52,
+      "text": "It pumped so much carbon dioxide into the air that the whole planet roasted. The oceans heated toward bathwater temperatures and the oxygen in the sea crashed.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.6064033264033264
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0032",
+      "video_id": "OkR_u0neUc8",
+      "idx": 32,
+      "sent_ids": [
+        "OkR_u0neUc8:s0077",
+        "OkR_u0neUc8:s0078",
+        "OkR_u0neUc8:s0079"
+      ],
+      "start_s": 301.28,
+      "end_s": 315.76,
+      "text": "By the time it finally ended, the overwhelming majority of species on Earth were simply gone. By some estimates, as many as nine in every 10. This is the event geologists call the Great Dying.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.6263617463617464
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0033",
+      "video_id": "OkR_u0neUc8",
+      "idx": 33,
+      "sent_ids": [
+        "OkR_u0neUc8:s0080",
+        "OkR_u0neUc8:s0081"
+      ],
+      "start_s": 311.64,
+      "end_s": 322.04,
+      "text": "Life did not recover in a few thousand years. It came within a hair of ending altogether and it stayed broken for a very long time.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.6479002079002079
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0034",
+      "video_id": "OkR_u0neUc8",
+      "idx": 34,
+      "sent_ids": [
+        "OkR_u0neUc8:s0082",
+        "OkR_u0neUc8:s0083"
+      ],
+      "start_s": 317.8,
+      "end_s": 333.91900000000004,
+      "text": "Recovery, when it came, arrived in the strangest possible form, rain. Starting around 234 million years ago, the skies opened and then they simply kept going for about 2 million years.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.6607068607068607
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0035",
+      "video_id": "OkR_u0neUc8",
+      "idx": 35,
+      "sent_ids": [
+        "OkR_u0neUc8:s0084",
+        "OkR_u0neUc8:s0085"
+      ],
+      "start_s": 329.48,
+      "end_s": 343.76,
+      "text": "A world that had been hot and bone dry turned into a planet of constant storms. In that soggy, transformed landscape, a group of animals that had been minor background players finally got their shot.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.684989604989605
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0036",
+      "video_id": "OkR_u0neUc8",
+      "idx": 36,
+      "sent_ids": [
+        "OkR_u0neUc8:s0086",
+        "OkR_u0neUc8:s0087"
+      ],
+      "start_s": 339.96,
+      "end_s": 353.0,
+      "text": "At the start of all that rain, dinosaurs were maybe 5% of the land animals. By the time it stopped, they were more than 90%.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.7067775467775468
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0037",
+      "video_id": "OkR_u0neUc8",
+      "idx": 37,
+      "sent_ids": [
+        "OkR_u0neUc8:s0088",
+        "OkR_u0neUc8:s0089"
+      ],
+      "start_s": 347.84,
+      "end_s": 364.64,
+      "text": "The rain didn't just refill the rivers, it handed the entire planet over to the dinosaurs, and they held on to it for more than 150 million years. You probably know roughly how their reign ends.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.7231600831600831
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0038",
+      "video_id": "OkR_u0neUc8",
+      "idx": 38,
+      "sent_ids": [
+        "OkR_u0neUc8:s0090",
+        "OkR_u0neUc8:s0091"
+      ],
+      "start_s": 359.4,
+      "end_s": 374.32,
+      "text": "66 million years ago, a rock around 10 km wide slammed into the Earth and rewrote the rules in a single afternoon. The impact threw so much rock and ash into the sky that the sun effectively went out for months.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.7471933471933472
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0039",
+      "video_id": "OkR_u0neUc8",
+      "idx": 39,
+      "sent_ids": [
+        "OkR_u0neUc8:s0092",
+        "OkR_u0neUc8:s0093",
+        "OkR_u0neUc8:s0094",
+        "OkR_u0neUc8:s0095"
+      ],
+      "start_s": 370.28,
+      "end_s": 383.56,
+      "text": "Plants died in the dark. Everything that ate plants starved. And everything that ate those animals starved right behind them. The giants had no chance.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.7698128898128898
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0040",
+      "video_id": "OkR_u0neUc8",
+      "idx": 40,
+      "sent_ids": [
+        "OkR_u0neUc8:s0096",
+        "OkR_u0neUc8:s0097"
+      ],
+      "start_s": 379.08,
+      "end_s": 397.15999999999997,
+      "text": "But the small, furry, frightened little things that could burrow underground, waited out, and eat almost anything crawled through the wreckage and survived. Those small, furry survivors were mammals, your ancestors.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.788108108108108
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0041",
+      "video_id": "OkR_u0neUc8",
+      "idx": 41,
+      "sent_ids": [
+        "OkR_u0neUc8:s0098",
+        "OkR_u0neUc8:s0099",
+        "OkR_u0neUc8:s0100"
+      ],
+      "start_s": 392.88,
+      "end_s": 406.36,
+      "text": "And here is the part actually worth sitting with. If that asteroid misses, the dinosaurs almost certainly keep running the show. And those little survivors stay small and forgettable forever.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.8167983367983368
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0042",
+      "video_id": "OkR_u0neUc8",
+      "idx": 42,
+      "sent_ids": [
+        "OkR_u0neUc8:s0101",
+        "OkR_u0neUc8:s0102"
+      ],
+      "start_s": 402.16,
+      "end_s": 415.08,
+      "text": "That rock didn't just end a world, it opened the only door we ever had. The single worst day in the history of large life on Earth is the entire reason you exist.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.8360914760914762
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0043",
+      "video_id": "OkR_u0neUc8",
+      "idx": 43,
+      "sent_ids": [
+        "OkR_u0neUc8:s0103",
+        "OkR_u0neUc8:s0104"
+      ],
+      "start_s": 410.88,
+      "end_s": 423.56,
+      "text": "Even then, we very nearly didn't make it. When our own species, Homo sapiens, finally appeared around 300,000 years ago, we were not the only humans alive.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.8542203742203742
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0044",
+      "video_id": "OkR_u0neUc8",
+      "idx": 44,
+      "sent_ids": [
+        "OkR_u0neUc8:s0105",
+        "OkR_u0neUc8:s0106"
+      ],
+      "start_s": 419.919,
+      "end_s": 431.88,
+      "text": "At least four other human species were here at the very same time. Other kinds of people, as real as we are, sharing the same world.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.873012474012474
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0045",
+      "video_id": "OkR_u0neUc8",
+      "idx": 45,
+      "sent_ids": [
+        "OkR_u0neUc8:s0107",
+        "OkR_u0neUc8:s0108"
+      ],
+      "start_s": 427.44,
+      "end_s": 437.96000000000004,
+      "text": "Some of them had been around far longer than we had. Today, every single one of them is gone, and we are the only kind of human left standing.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.8886486486486487
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0046",
+      "video_id": "OkR_u0neUc8",
+      "idx": 46,
+      "sent_ids": [
+        "OkR_u0neUc8:s0109",
+        "OkR_u0neUc8:s0110",
+        "OkR_u0neUc8:s0111"
+      ],
+      "start_s": 433.8,
+      "end_s": 445.71999999999997,
+      "text": "We are not the main characters of this story. We are the survivors of the survivors of the survivors. So, look around the room one more time.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.9018711018711019
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0047",
+      "video_id": "OkR_u0neUc8",
+      "idx": 47,
+      "sent_ids": [
+        "OkR_u0neUc8:s0112",
+        "OkR_u0neUc8:s0113"
+      ],
+      "start_s": 441.88,
+      "end_s": 455.919,
+      "text": "Everything in it is balanced on top of a stack of disasters. A frozen planet, an extinction that almost wiped the board clean, and a rock from space that erased an entire world to make room for yours.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.9186694386694386
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0048",
+      "video_id": "OkR_u0neUc8",
+      "idx": 48,
+      "sent_ids": [
+        "OkR_u0neUc8:s0114",
+        "OkR_u0neUc8:s0115"
+      ],
+      "start_s": 451.919,
+      "end_s": 465.92,
+      "text": "Take away any single one of those, and the air never reaches your lungs, and this exact moment never happens. The world before for was never a warm-up act waiting around for humans to show up.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.9395405405405405
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0049",
+      "video_id": "OkR_u0neUc8",
+      "idx": 49,
+      "sent_ids": [
+        "OkR_u0neUc8:s0116",
+        "OkR_u0neUc8:s0117"
+      ],
+      "start_s": 461.8,
+      "end_s": 478.4,
+      "text": "It was 4 and 1/2 billion years of a planet that did not need us at all, running on lava and microbes and monsters and luck. We are new here, almost impossibly new, and the strangest part is that you were never the point of any of it.",
+      "n_words": 48,
+      "n_sentences": 2,
+      "pos_pct": 0.9600831600831601
+    },
+    {
+      "window_id": "OkR_u0neUc8:j0050",
+      "video_id": "OkR_u0neUc8",
+      "idx": 50,
+      "sent_ids": [
+        "OkR_u0neUc8:s0118"
+      ],
+      "start_s": 474.32,
+      "end_s": 481.79999999999995,
+      "text": "You are simply what happened to be left standing when the dust finally settled.",
+      "n_words": 14,
+      "n_sentences": 1,
+      "pos_pct": 0.9861122661122661
+    }
+  ]
+}

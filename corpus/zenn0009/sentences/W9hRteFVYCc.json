@@ -1,0 +1,1375 @@
+{
+  "video_id": "W9hRteFVYCc",
+  "duration_s": 500.0,
+  "generated_at": "2026-09-04T03:00:03.295694+00:00",
+  "sentences": [
+    {
+      "sent_id": "W9hRteFVYCc:s0000",
+      "video_id": "W9hRteFVYCc",
+      "idx": 0,
+      "start_s": 0.0,
+      "end_s": 4.2,
+      "text": "You walk into a room 5 minutes late.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0001",
+      "video_id": "W9hRteFVYCc",
+      "idx": 1,
+      "start_s": 2.04,
+      "end_s": 5.52,
+      "text": "Every head turns.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0002",
+      "video_id": "W9hRteFVYCc",
+      "idx": 2,
+      "start_s": 2.04,
+      "end_s": 7.5600000000000005,
+      "text": "Everyone is looking at you.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0003",
+      "video_id": "W9hRteFVYCc",
+      "idx": 3,
+      "start_s": 4.2,
+      "end_s": 11.64,
+      "text": "There's a coffee stain on your sleeve, your hair is a mess, and sweat is dripping down your forehead.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0004",
+      "video_id": "W9hRteFVYCc",
+      "idx": 4,
+      "start_s": 7.56,
+      "end_s": 13.879999999999999,
+      "text": "Everyone saw everything.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0005",
+      "video_id": "W9hRteFVYCc",
+      "idx": 5,
+      "start_s": 9.52,
+      "end_s": 13.879999999999999,
+      "text": "Everyone is judging you.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0006",
+      "video_id": "W9hRteFVYCc",
+      "idx": 6,
+      "start_s": 11.64,
+      "end_s": 15.68,
+      "text": "At least, that's what it feels like.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0007",
+      "video_id": "W9hRteFVYCc",
+      "idx": 7,
+      "start_s": 13.88,
+      "end_s": 17.6,
+      "text": "But, here's what actually happened.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0008",
+      "video_id": "W9hRteFVYCc",
+      "idx": 8,
+      "start_s": 15.68,
+      "end_s": 18.88,
+      "text": "Maybe two people glanced up.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0009",
+      "video_id": "W9hRteFVYCc",
+      "idx": 9,
+      "start_s": 15.68,
+      "end_s": 22.119999999999997,
+      "text": "One of them was looking at the door because they were expecting someone else.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0010",
+      "video_id": "W9hRteFVYCc",
+      "idx": 10,
+      "start_s": 18.88,
+      "end_s": 25.76,
+      "text": "The other looked back down at their phone before you even sat down.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0011",
+      "video_id": "W9hRteFVYCc",
+      "idx": 11,
+      "start_s": 22.12,
+      "end_s": 27.72,
+      "text": "Nobody noticed the coffee stain.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0012",
+      "video_id": "W9hRteFVYCc",
+      "idx": 12,
+      "start_s": 23.84,
+      "end_s": 27.72,
+      "text": "Nobody saw the sweat.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0013",
+      "video_id": "W9hRteFVYCc",
+      "idx": 13,
+      "start_s": 25.76,
+      "end_s": 29.68,
+      "text": "Nobody cared.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0014",
+      "video_id": "W9hRteFVYCc",
+      "idx": 14,
+      "start_s": 25.76,
+      "end_s": 33.04,
+      "text": "And the ones who did register your entrance forgot about it before you even found your seat.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0015",
+      "video_id": "W9hRteFVYCc",
+      "idx": 15,
+      "start_s": 31.2,
+      "end_s": 36.68,
+      "text": "Psychologists have a name for this, the spotlight effect.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0016",
+      "video_id": "W9hRteFVYCc",
+      "idx": 16,
+      "start_s": 33.04,
+      "end_s": 41.12,
+      "text": "And once you understand it, you might stop living like the whole world is an audience.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0017",
+      "video_id": "W9hRteFVYCc",
+      "idx": 17,
+      "start_s": 36.68,
+      "end_s": 48.32,
+      "text": "In 2000, a psychologist named Thomas Gilovich ran a study at Cornell University that would change how we understand self-consciousness.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0018",
+      "video_id": "W9hRteFVYCc",
+      "idx": 18,
+      "start_s": 44.72,
+      "end_s": 49.839999999999996,
+      "text": "The experiment was brilliantly simple.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0019",
+      "video_id": "W9hRteFVYCc",
+      "idx": 19,
+      "start_s": 46.4,
+      "end_s": 57.0,
+      "text": "They took a group of college students and asked each one to put on a t-shirt with a large photograph of Barry Manilow printed on the front.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0020",
+      "video_id": "W9hRteFVYCc",
+      "idx": 20,
+      "start_s": 53.56,
+      "end_s": 65.16,
+      "text": "At the time, among college students, wearing a Barry Manilow shirt was the social equivalent of walking into a room with a sign that says, \"Please judge me.\"",
+      "n_words": 28
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0021",
+      "video_id": "W9hRteFVYCc",
+      "idx": 21,
+      "start_s": 60.92,
+      "end_s": 70.0,
+      "text": "Each student was then told to walk into a room where a group of other students were already sitting.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0022",
+      "video_id": "W9hRteFVYCc",
+      "idx": 22,
+      "start_s": 66.8,
+      "end_s": 74.12,
+      "text": "They walked in, sat down briefly, and were then pulled out of the room.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0023",
+      "video_id": "W9hRteFVYCc",
+      "idx": 23,
+      "start_s": 70.0,
+      "end_s": 75.96,
+      "text": "Once outside, researchers asked a single question.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0024",
+      "video_id": "W9hRteFVYCc",
+      "idx": 24,
+      "start_s": 72.16,
+      "end_s": 77.4,
+      "text": "How many people in that room do you think noticed your t-shirt?",
+      "n_words": 12
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0025",
+      "video_id": "W9hRteFVYCc",
+      "idx": 25,
+      "start_s": 75.96,
+      "end_s": 83.32000000000001,
+      "text": "On average, the students wearing the shirt guessed that about 50% of the room had noticed it.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0026",
+      "video_id": "W9hRteFVYCc",
+      "idx": 26,
+      "start_s": 79.64,
+      "end_s": 87.08,
+      "text": "Half the people, they assumed, had seen Barry Manilow's face staring back at them.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0027",
+      "video_id": "W9hRteFVYCc",
+      "idx": 27,
+      "start_s": 83.32,
+      "end_s": 94.36,
+      "text": "Then, Gilovich asked the students who had been sitting in the room what they actually remembered about the person who walked in.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0028",
+      "video_id": "W9hRteFVYCc",
+      "idx": 28,
+      "start_s": 90.12,
+      "end_s": 95.8,
+      "text": "Fewer than 25% of the room noticed the shirt.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0029",
+      "video_id": "W9hRteFVYCc",
+      "idx": 29,
+      "start_s": 92.72,
+      "end_s": 97.56,
+      "text": "Some didn't even remember anyone walking in.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0030",
+      "video_id": "W9hRteFVYCc",
+      "idx": 30,
+      "start_s": 94.36,
+      "end_s": 101.52,
+      "text": "They thought they were twice as visible as they actually were.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0031",
+      "video_id": "W9hRteFVYCc",
+      "idx": 31,
+      "start_s": 97.56,
+      "end_s": 101.52,
+      "text": "And this wasn't a fluke.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0032",
+      "video_id": "W9hRteFVYCc",
+      "idx": 32,
+      "start_s": 97.56,
+      "end_s": 105.44,
+      "text": "Gilovich and Savitsky ran variation after variation.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0033",
+      "video_id": "W9hRteFVYCc",
+      "idx": 33,
+      "start_s": 101.52,
+      "end_s": 106.88,
+      "text": "They tested it with positive attention, too.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0034",
+      "video_id": "W9hRteFVYCc",
+      "idx": 34,
+      "start_s": 103.52,
+      "end_s": 112.6,
+      "text": "Students wore flattering shirts with images of people they admired, like Bob Marley or Martin Luther King Jr.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0035",
+      "video_id": "W9hRteFVYCc",
+      "idx": 35,
+      "start_s": 109.08,
+      "end_s": 112.6,
+      "text": "Same result.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0036",
+      "video_id": "W9hRteFVYCc",
+      "idx": 36,
+      "start_s": 109.08,
+      "end_s": 119.0,
+      "text": "Whether the attention was embarrassing or flattering, people believed they were being noticed far more than they actually were.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0037",
+      "video_id": "W9hRteFVYCc",
+      "idx": 37,
+      "start_s": 115.52,
+      "end_s": 120.92,
+      "text": "They tested it beyond clothing, too.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0038",
+      "video_id": "W9hRteFVYCc",
+      "idx": 38,
+      "start_s": 117.36,
+      "end_s": 124.16,
+      "text": "Students had group discussions, then were asked how much the group noticed what they said.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0039",
+      "video_id": "W9hRteFVYCc",
+      "idx": 39,
+      "start_s": 120.92,
+      "end_s": 128.6,
+      "text": "Their best comments, their worst moments, their awkward pauses.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0040",
+      "video_id": "W9hRteFVYCc",
+      "idx": 40,
+      "start_s": 124.16,
+      "end_s": 131.72,
+      "text": "Every single time, people thought others were paying far more attention than they actually were.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0041",
+      "video_id": "W9hRteFVYCc",
+      "idx": 41,
+      "start_s": 130.399,
+      "end_s": 137.48000000000002,
+      "text": "Whether it was something good or something embarrassing, it didn't matter.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0042",
+      "video_id": "W9hRteFVYCc",
+      "idx": 42,
+      "start_s": 133.24,
+      "end_s": 139.52,
+      "text": "They just weren't as visible as they felt.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0043",
+      "video_id": "W9hRteFVYCc",
+      "idx": 43,
+      "start_s": 135.24,
+      "end_s": 141.6,
+      "text": "So, why does your brain do this?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0044",
+      "video_id": "W9hRteFVYCc",
+      "idx": 44,
+      "start_s": 137.48,
+      "end_s": 143.96,
+      "text": "It comes down to something called anchoring.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0045",
+      "video_id": "W9hRteFVYCc",
+      "idx": 45,
+      "start_s": 139.52,
+      "end_s": 145.48,
+      "text": "You experience the world from one perspective, yours.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0046",
+      "video_id": "W9hRteFVYCc",
+      "idx": 46,
+      "start_s": 141.6,
+      "end_s": 146.92000000000002,
+      "text": "You feel your own nervousness.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0047",
+      "video_id": "W9hRteFVYCc",
+      "idx": 47,
+      "start_s": 143.96,
+      "end_s": 148.76,
+      "text": "You see your own blemishes when you look in the mirror.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0048",
+      "video_id": "W9hRteFVYCc",
+      "idx": 48,
+      "start_s": 146.92,
+      "end_s": 152.67999999999998,
+      "text": "You hear your voice crack in the middle of a sentence.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0049",
+      "video_id": "W9hRteFVYCc",
+      "idx": 49,
+      "start_s": 148.76,
+      "end_s": 162.32,
+      "text": "When you try to estimate how much other people noticed these things, you start from your own vivid experience and try to adjust for the fact that other people have their own concerns.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0050",
+      "video_id": "W9hRteFVYCc",
+      "idx": 50,
+      "start_s": 158.2,
+      "end_s": 164.4,
+      "text": "But, the adjustment is never enough.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0051",
+      "video_id": "W9hRteFVYCc",
+      "idx": 51,
+      "start_s": 160.28,
+      "end_s": 166.64,
+      "text": "You're anchored to the intensity of your own self-awareness.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0052",
+      "video_id": "W9hRteFVYCc",
+      "idx": 52,
+      "start_s": 162.32,
+      "end_s": 173.32,
+      "text": "You know exactly how embarrassed you felt, so you assume that intensity must be radiating outward for everyone to see.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0053",
+      "video_id": "W9hRteFVYCc",
+      "idx": 53,
+      "start_s": 169.0,
+      "end_s": 174.88,
+      "text": "But, it's not radiating anywhere.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0054",
+      "video_id": "W9hRteFVYCc",
+      "idx": 54,
+      "start_s": 170.84,
+      "end_s": 176.48,
+      "text": "It stays with you.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0055",
+      "video_id": "W9hRteFVYCc",
+      "idx": 55,
+      "start_s": 173.32,
+      "end_s": 178.04,
+      "text": "Here's what makes this even more striking.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0056",
+      "video_id": "W9hRteFVYCc",
+      "idx": 56,
+      "start_s": 174.88,
+      "end_s": 179.44,
+      "text": "Think about the last time you were in an elevator with a stranger.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0057",
+      "video_id": "W9hRteFVYCc",
+      "idx": 57,
+      "start_s": 176.48,
+      "end_s": 181.0,
+      "text": "Can you remember what they were wearing?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0058",
+      "video_id": "W9hRteFVYCc",
+      "idx": 58,
+      "start_s": 178.04,
+      "end_s": 183.48,
+      "text": "The color of their shoes?",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0059",
+      "video_id": "W9hRteFVYCc",
+      "idx": 59,
+      "start_s": 179.44,
+      "end_s": 184.64,
+      "text": "Whether they looked happy or tired?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0060",
+      "video_id": "W9hRteFVYCc",
+      "idx": 60,
+      "start_s": 181.0,
+      "end_s": 184.64,
+      "text": "Probably not.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0061",
+      "video_id": "W9hRteFVYCc",
+      "idx": 61,
+      "start_s": 181.0,
+      "end_s": 191.44,
+      "text": "You were thinking about where you were going, or what you were going to have for lunch, or the email you forgot to send.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0062",
+      "video_id": "W9hRteFVYCc",
+      "idx": 62,
+      "start_s": 187.96,
+      "end_s": 194.44,
+      "text": "That stranger, meanwhile, might have spent 10 minutes that morning choosing their outfit.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0063",
+      "video_id": "W9hRteFVYCc",
+      "idx": 63,
+      "start_s": 191.44,
+      "end_s": 197.52,
+      "text": "They might have been self-conscious about a pimple on their chin.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0064",
+      "video_id": "W9hRteFVYCc",
+      "idx": 64,
+      "start_s": 194.44,
+      "end_s": 199.4,
+      "text": "They might have been worried that their cologne was too strong.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0065",
+      "video_id": "W9hRteFVYCc",
+      "idx": 65,
+      "start_s": 195.72,
+      "end_s": 202.64000000000001,
+      "text": "And you didn't notice any of it because you were the star of your own movie.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0066",
+      "video_id": "W9hRteFVYCc",
+      "idx": 66,
+      "start_s": 199.4,
+      "end_s": 206.83999999999997,
+      "text": "And in your movie, they were background scenery.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0067",
+      "video_id": "W9hRteFVYCc",
+      "idx": 67,
+      "start_s": 202.64,
+      "end_s": 208.04,
+      "text": "This is the spotlight effect in its purest form.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0068",
+      "video_id": "W9hRteFVYCc",
+      "idx": 68,
+      "start_s": 204.84,
+      "end_s": 215.64,
+      "text": "Everyone walking around trapped in the illusion that they're being watched while simultaneously paying almost no attention to anyone else.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0069",
+      "video_id": "W9hRteFVYCc",
+      "idx": 69,
+      "start_s": 211.72,
+      "end_s": 217.6,
+      "text": "The roots of this go deep, far deeper than modern psychology.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0070",
+      "video_id": "W9hRteFVYCc",
+      "idx": 70,
+      "start_s": 213.6,
+      "end_s": 222.6,
+      "text": "For most of human history, humans lived in small groups, tribes of 50 to 150 people.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0071",
+      "video_id": "W9hRteFVYCc",
+      "idx": 71,
+      "start_s": 217.6,
+      "end_s": 226.79999999999998,
+      "text": "In that world, your reputation wasn't just important.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0072",
+      "video_id": "W9hRteFVYCc",
+      "idx": 72,
+      "start_s": 222.6,
+      "end_s": 226.79999999999998,
+      "text": "It was a survival tool.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0073",
+      "video_id": "W9hRteFVYCc",
+      "idx": 73,
+      "start_s": 222.6,
+      "end_s": 235.92,
+      "text": "If the tribe saw you as weak or strange, you could be pushed out, away from the group, away from the fire, away from safety.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0074",
+      "video_id": "W9hRteFVYCc",
+      "idx": 74,
+      "start_s": 231.04,
+      "end_s": 238.16000000000003,
+      "text": "For tens of thousands of years, standing out meant danger.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0075",
+      "video_id": "W9hRteFVYCc",
+      "idx": 75,
+      "start_s": 233.36,
+      "end_s": 241.04,
+      "text": "Your brain evolved in that environment.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0076",
+      "video_id": "W9hRteFVYCc",
+      "idx": 76,
+      "start_s": 235.92,
+      "end_s": 247.44,
+      "text": "It learned to assume the worst because then, being wrong about whether someone was watching you could get you killed.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0077",
+      "video_id": "W9hRteFVYCc",
+      "idx": 77,
+      "start_s": 242.84,
+      "end_s": 250.04,
+      "text": "But, you don't live in a tribe of 150 anymore.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0078",
+      "video_id": "W9hRteFVYCc",
+      "idx": 78,
+      "start_s": 244.84,
+      "end_s": 251.72,
+      "text": "You live in a world of 8 billion people.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0079",
+      "video_id": "W9hRteFVYCc",
+      "idx": 79,
+      "start_s": 247.44,
+      "end_s": 255.88,
+      "text": "You pass more strangers in a single week than your ancestors met in a lifetime.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0080",
+      "video_id": "W9hRteFVYCc",
+      "idx": 80,
+      "start_s": 251.72,
+      "end_s": 257.799,
+      "text": "And your brain hasn't caught up.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0081",
+      "video_id": "W9hRteFVYCc",
+      "idx": 81,
+      "start_s": 253.6,
+      "end_s": 265.16,
+      "text": "It's still running ancient software, still convinced that every pair of eyes is a potential threat, still screaming that everyone is watching.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0082",
+      "video_id": "W9hRteFVYCc",
+      "idx": 82,
+      "start_s": 261.72,
+      "end_s": 266.84,
+      "text": "But, they're not, and they never were.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0083",
+      "video_id": "W9hRteFVYCc",
+      "idx": 83,
+      "start_s": 263.44,
+      "end_s": 272.68,
+      "text": "Gilovich and Savitsky discovered something else during their research, something that cuts even deeper.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0084",
+      "video_id": "W9hRteFVYCc",
+      "idx": 84,
+      "start_s": 268.44,
+      "end_s": 274.52000000000004,
+      "text": "They called it the illusion of transparency.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0085",
+      "video_id": "W9hRteFVYCc",
+      "idx": 85,
+      "start_s": 270.36,
+      "end_s": 277.91999999999996,
+      "text": "This is the belief that your internal emotions are visible on your face.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0086",
+      "video_id": "W9hRteFVYCc",
+      "idx": 86,
+      "start_s": 274.52,
+      "end_s": 281.32,
+      "text": "That when you're anxious during a job interview, the interviewer can see your fear.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0087",
+      "video_id": "W9hRteFVYCc",
+      "idx": 87,
+      "start_s": 277.92,
+      "end_s": 286.88,
+      "text": "That when you're hiding sadness at a party, everyone at the table knows something is wrong.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0088",
+      "video_id": "W9hRteFVYCc",
+      "idx": 88,
+      "start_s": 283.0,
+      "end_s": 288.76000000000005,
+      "text": "They tested this by having people give speeches while feeling nervous.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0089",
+      "video_id": "W9hRteFVYCc",
+      "idx": 89,
+      "start_s": 286.88,
+      "end_s": 293.96,
+      "text": "Afterward, the speakers rated how much they believed their nervousness was visible to the audience.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0090",
+      "video_id": "W9hRteFVYCc",
+      "idx": 90,
+      "start_s": 290.2,
+      "end_s": 297.56,
+      "text": "They also asked the audience members to rate how nervous the speaker seemed.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0091",
+      "video_id": "W9hRteFVYCc",
+      "idx": 91,
+      "start_s": 293.96,
+      "end_s": 302.0,
+      "text": "The speakers consistently believed their anxiety was far more obvious than it actually was.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0092",
+      "video_id": "W9hRteFVYCc",
+      "idx": 92,
+      "start_s": 300.0,
+      "end_s": 303.96,
+      "text": "The audience barely registered it.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0093",
+      "video_id": "W9hRteFVYCc",
+      "idx": 93,
+      "start_s": 300.0,
+      "end_s": 307.79999999999995,
+      "text": "In another version, participants tasted drinks while being watched.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0094",
+      "video_id": "W9hRteFVYCc",
+      "idx": 94,
+      "start_s": 303.96,
+      "end_s": 309.0,
+      "text": "Some pleasant, some bitter and disgusting.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0095",
+      "video_id": "W9hRteFVYCc",
+      "idx": 95,
+      "start_s": 307.8,
+      "end_s": 316.23999999999995,
+      "text": "The tasters were convinced that observers could tell which drink they were tasting just from their facial reactions.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0096",
+      "video_id": "W9hRteFVYCc",
+      "idx": 96,
+      "start_s": 312.28,
+      "end_s": 318.0,
+      "text": "The observers could barely tell at all.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0097",
+      "video_id": "W9hRteFVYCc",
+      "idx": 97,
+      "start_s": 314.4,
+      "end_s": 319.68,
+      "text": "Your inner world is far more hidden than you think.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0098",
+      "video_id": "W9hRteFVYCc",
+      "idx": 98,
+      "start_s": 316.24,
+      "end_s": 323.56,
+      "text": "The anxiety pulsing through your chest is invisible to everyone but you.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0099",
+      "video_id": "W9hRteFVYCc",
+      "idx": 99,
+      "start_s": 319.68,
+      "end_s": 326.6,
+      "text": "The embarrassment that makes your ears burn doesn't show on your face the way you think it does.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0100",
+      "video_id": "W9hRteFVYCc",
+      "idx": 100,
+      "start_s": 325.28,
+      "end_s": 332.72,
+      "text": "And the sadness you carried into the room is behind a wall that other people almost never see through.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0101",
+      "video_id": "W9hRteFVYCc",
+      "idx": 101,
+      "start_s": 328.6,
+      "end_s": 334.32,
+      "text": "People can't read you nearly as you think they can.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0102",
+      "video_id": "W9hRteFVYCc",
+      "idx": 102,
+      "start_s": 332.72,
+      "end_s": 339.28,
+      "text": "And here's the part that makes this actually useful.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0103",
+      "video_id": "W9hRteFVYCc",
+      "idx": 103,
+      "start_s": 334.32,
+      "end_s": 340.84000000000003,
+      "text": "In 2003, Savitsky and Gilovich ran a follow-up study.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0104",
+      "video_id": "W9hRteFVYCc",
+      "idx": 104,
+      "start_s": 337.16,
+      "end_s": 347.8,
+      "text": "They took a group of people who were about to give a speech and told half of them about the illusion of transparency before they went on stage.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0105",
+      "video_id": "W9hRteFVYCc",
+      "idx": 105,
+      "start_s": 344.36,
+      "end_s": 352.84,
+      "text": "They explained that audiences can't actually see your nervousness the way you think they can.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0106",
+      "video_id": "W9hRteFVYCc",
+      "idx": 106,
+      "start_s": 349.4,
+      "end_s": 352.84,
+      "text": "The result was striking.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0107",
+      "video_id": "W9hRteFVYCc",
+      "idx": 107,
+      "start_s": 349.4,
+      "end_s": 358.8,
+      "text": "The people who were told about the illusion didn't just feel less anxious, they actually performed better.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0108",
+      "video_id": "W9hRteFVYCc",
+      "idx": 108,
+      "start_s": 354.92,
+      "end_s": 364.56,
+      "text": "The audience rated them as more confident, more composed, and more compelling than the group that wasn't told.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0109",
+      "video_id": "W9hRteFVYCc",
+      "idx": 109,
+      "start_s": 360.8,
+      "end_s": 367.72,
+      "text": "Just knowing about this effect made them better at the thing they were afraid of.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0110",
+      "video_id": "W9hRteFVYCc",
+      "idx": 110,
+      "start_s": 364.56,
+      "end_s": 371.48,
+      "text": "They just needed to know that nobody could see what they were feeling inside.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0111",
+      "video_id": "W9hRteFVYCc",
+      "idx": 111,
+      "start_s": 367.72,
+      "end_s": 373.03999999999996,
+      "text": "Now, there's an obvious counterpoint here.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0112",
+      "video_id": "W9hRteFVYCc",
+      "idx": 112,
+      "start_s": 371.48,
+      "end_s": 375.12,
+      "text": "What about social media?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0113",
+      "video_id": "W9hRteFVYCc",
+      "idx": 113,
+      "start_s": 371.48,
+      "end_s": 377.12,
+      "text": "Doesn't that change things?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0114",
+      "video_id": "W9hRteFVYCc",
+      "idx": 114,
+      "start_s": 373.04,
+      "end_s": 377.12,
+      "text": "In some ways, yes.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0115",
+      "video_id": "W9hRteFVYCc",
+      "idx": 115,
+      "start_s": 375.12,
+      "end_s": 381.36,
+      "text": "Platforms are designed to make you feel watched.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0116",
+      "video_id": "W9hRteFVYCc",
+      "idx": 116,
+      "start_s": 377.12,
+      "end_s": 387.4,
+      "text": "Follower counts, view counts, the knowledge that anything you post could be screenshotted, shared, critiqued.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0117",
+      "video_id": "W9hRteFVYCc",
+      "idx": 117,
+      "start_s": 383.28,
+      "end_s": 389.6,
+      "text": "But, the research still holds.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0118",
+      "video_id": "W9hRteFVYCc",
+      "idx": 118,
+      "start_s": 385.04,
+      "end_s": 393.52000000000004,
+      "text": "You agonize over a photo caption for 20 minutes, convinced everyone on your feed will scrutinize it.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0119",
+      "video_id": "W9hRteFVYCc",
+      "idx": 119,
+      "start_s": 389.6,
+      "end_s": 395.91999999999996,
+      "text": "Most of them never even see it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0120",
+      "video_id": "W9hRteFVYCc",
+      "idx": 120,
+      "start_s": 391.4,
+      "end_s": 397.52,
+      "text": "And the ones who do scroll past in under 2 seconds.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0121",
+      "video_id": "W9hRteFVYCc",
+      "idx": 121,
+      "start_s": 395.92,
+      "end_s": 400.91999999999996,
+      "text": "They're not studying your post, they're thinking about what to post next.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0122",
+      "video_id": "W9hRteFVYCc",
+      "idx": 122,
+      "start_s": 397.52,
+      "end_s": 404.52000000000004,
+      "text": "The spotlight effect doesn't disappear online.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0123",
+      "video_id": "W9hRteFVYCc",
+      "idx": 123,
+      "start_s": 400.92,
+      "end_s": 404.52000000000004,
+      "text": "It follows you there, too.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0124",
+      "video_id": "W9hRteFVYCc",
+      "idx": 124,
+      "start_s": 400.92,
+      "end_s": 407.84,
+      "text": "Think about what this actually means for your life.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0125",
+      "video_id": "W9hRteFVYCc",
+      "idx": 125,
+      "start_s": 404.52,
+      "end_s": 411.64,
+      "text": "Think about every opportunity you've avoided because you were afraid of being seen failing.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0126",
+      "video_id": "W9hRteFVYCc",
+      "idx": 126,
+      "start_s": 407.84,
+      "end_s": 413.68,
+      "text": "Every hand you didn't raise.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0127",
+      "video_id": "W9hRteFVYCc",
+      "idx": 127,
+      "start_s": 409.72,
+      "end_s": 415.44,
+      "text": "Every conversation you didn't start.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0128",
+      "video_id": "W9hRteFVYCc",
+      "idx": 128,
+      "start_s": 411.64,
+      "end_s": 417.40000000000003,
+      "text": "Every idea you didn't share.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0129",
+      "video_id": "W9hRteFVYCc",
+      "idx": 129,
+      "start_s": 413.68,
+      "end_s": 421.67999999999995,
+      "text": "Every room you walked into already performing, already managing how you'd be perceived.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0130",
+      "video_id": "W9hRteFVYCc",
+      "idx": 130,
+      "start_s": 417.4,
+      "end_s": 425.68,
+      "text": "All of that energy spent managing an audience that barely exists.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0131",
+      "video_id": "W9hRteFVYCc",
+      "idx": 131,
+      "start_s": 421.68,
+      "end_s": 428.52,
+      "text": "The person you said something awkward to last Tuesday is not thinking about it.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0132",
+      "video_id": "W9hRteFVYCc",
+      "idx": 132,
+      "start_s": 425.68,
+      "end_s": 432.08,
+      "text": "They're thinking about the awkward thing they said to someone else last Wednesday.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0133",
+      "video_id": "W9hRteFVYCc",
+      "idx": 133,
+      "start_s": 428.52,
+      "end_s": 439.84,
+      "text": "The coworker who saw you trip in the hallway forgot about it within minutes, replaced by their own concerns, their own deadlines, their own worries about being seen.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0134",
+      "video_id": "W9hRteFVYCc",
+      "idx": 134,
+      "start_s": 436.0,
+      "end_s": 446.08000000000004,
+      "text": "That time you mispronounced a word in front of your entire class, you remember the exact moment, the exact word.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0135",
+      "video_id": "W9hRteFVYCc",
+      "idx": 135,
+      "start_s": 442.36,
+      "end_s": 448.96,
+      "text": "You probably still feel something in your stomach when you think about it.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0136",
+      "video_id": "W9hRteFVYCc",
+      "idx": 136,
+      "start_s": 446.08,
+      "end_s": 452.91999999999996,
+      "text": "The rest of the class doesn't even remember being in class that day.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0137",
+      "video_id": "W9hRteFVYCc",
+      "idx": 137,
+      "start_s": 448.96,
+      "end_s": 454.96,
+      "text": "This is not a comforting lie.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0138",
+      "video_id": "W9hRteFVYCc",
+      "idx": 138,
+      "start_s": 450.88,
+      "end_s": 458.56,
+      "text": "This is decades of research that keeps showing the same thing everywhere it's been tested.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0139",
+      "video_id": "W9hRteFVYCc",
+      "idx": 139,
+      "start_s": 454.96,
+      "end_s": 460.56,
+      "text": "You are being watched far less than you think.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0140",
+      "video_id": "W9hRteFVYCc",
+      "idx": 140,
+      "start_s": 456.72,
+      "end_s": 462.4,
+      "text": "And that should make you feel free because you are.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0141",
+      "video_id": "W9hRteFVYCc",
+      "idx": 141,
+      "start_s": 460.56,
+      "end_s": 466.0,
+      "text": "Because if the spotlight isn't real, then neither is the stage.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0142",
+      "video_id": "W9hRteFVYCc",
+      "idx": 142,
+      "start_s": 462.4,
+      "end_s": 471.72,
+      "text": "And if there's no stage, there's no audience to perform for, which means you can stop performing.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0143",
+      "video_id": "W9hRteFVYCc",
+      "idx": 143,
+      "start_s": 468.36,
+      "end_s": 473.76000000000005,
+      "text": "You can go to the restaurant alone.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0144",
+      "video_id": "W9hRteFVYCc",
+      "idx": 144,
+      "start_s": 470.04,
+      "end_s": 475.56,
+      "text": "Ask the question that might sound stupid.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0145",
+      "video_id": "W9hRteFVYCc",
+      "idx": 145,
+      "start_s": 471.72,
+      "end_s": 477.64,
+      "text": "Wear the shirt you actually like instead of the safe one.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0146",
+      "video_id": "W9hRteFVYCc",
+      "idx": 146,
+      "start_s": 473.76,
+      "end_s": 483.68,
+      "text": "Try the thing you might fail at because publicly failing is a much smaller audience than your brain tells you it is.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0147",
+      "video_id": "W9hRteFVYCc",
+      "idx": 147,
+      "start_s": 479.72,
+      "end_s": 485.40000000000003,
+      "text": "The spotlight isn't real, it never was.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0148",
+      "video_id": "W9hRteFVYCc",
+      "idx": 148,
+      "start_s": 481.24,
+      "end_s": 494.40000000000003,
+      "text": "It's just your brain doing what it was designed to do in a world that no longer exists, protecting you from a tribe that isn't watching, warning you about judgment that isn't coming.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0149",
+      "video_id": "W9hRteFVYCc",
+      "idx": 149,
+      "start_s": 491.24,
+      "end_s": 497.96,
+      "text": "The next time you feel every eye in the room locking onto you, remember this.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0150",
+      "video_id": "W9hRteFVYCc",
+      "idx": 150,
+      "start_s": 494.4,
+      "end_s": 501.71999999999997,
+      "text": "They're not looking at you.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "W9hRteFVYCc:s0151",
+      "video_id": "W9hRteFVYCc",
+      "idx": 151,
+      "start_s": 496.32,
+      "end_s": 501.71999999999997,
+      "text": "They're worried about who's looking at them.",
+      "n_words": 7
+    }
+  ]
+}

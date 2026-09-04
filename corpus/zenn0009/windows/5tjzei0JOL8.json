@@ -1,0 +1,787 @@
+{
+  "video_id": "5tjzei0JOL8",
+  "generated_at": "2026-09-04T03:00:43.118932+00:00",
+  "windows": [
+    {
+      "window_id": "5tjzei0JOL8:j0000",
+      "video_id": "5tjzei0JOL8",
+      "idx": 0,
+      "sent_ids": [
+        "5tjzei0JOL8:s0000",
+        "5tjzei0JOL8:s0001",
+        "5tjzei0JOL8:s0002"
+      ],
+      "start_s": 0.0,
+      "end_s": 9.04,
+      "text": "Your heart just stopped. One second it was beating and now it's not. That fast, that simple.",
+      "n_words": 17,
+      "n_sentences": 3,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0001",
+      "video_id": "5tjzei0JOL8",
+      "idx": 1,
+      "sent_ids": [
+        "5tjzei0JOL8:s0003",
+        "5tjzei0JOL8:s0004"
+      ],
+      "start_s": 4.76,
+      "end_s": 19.0,
+      "text": "This is second zero and what happens over the next 60 seconds is something science is only now beginning to understand. Because it turns out the moment you die might be the most alive your brain has ever been.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.009596774193548386
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0002",
+      "video_id": "5tjzei0JOL8",
+      "idx": 2,
+      "sent_ids": [
+        "5tjzei0JOL8:s0005",
+        "5tjzei0JOL8:s0006",
+        "5tjzei0JOL8:s0007",
+        "5tjzei0JOL8:s0008"
+      ],
+      "start_s": 15.56,
+      "end_s": 28.0,
+      "text": "Let's start at the beginning. The very first thing that happens when your heart stops is nothing. At least nothing you can feel. Your blood pressure drops to zero.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.031370967741935485
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0003",
+      "video_id": "5tjzei0JOL8",
+      "idx": 3,
+      "sent_ids": [
+        "5tjzei0JOL8:s0009",
+        "5tjzei0JOL8:s0010"
+      ],
+      "start_s": 23.76,
+      "end_s": 35.24,
+      "text": "The 5 L of blood that were circulating through your body just a moment ago are now almost sitting still. Without a pump there is no flow or delivery.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.047903225806451614
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0004",
+      "video_id": "5tjzei0JOL8",
+      "idx": 4,
+      "sent_ids": [
+        "5tjzei0JOL8:s0011",
+        "5tjzei0JOL8:s0012",
+        "5tjzei0JOL8:s0013"
+      ],
+      "start_s": 31.68,
+      "end_s": 44.440000000000005,
+      "text": "But here's the thing, your brain doesn't know that yet. For the first 10 seconds your brain is still running on whatever oxygen is left in your blood. Your neurons are still firing.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.06387096774193549
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0005",
+      "video_id": "5tjzei0JOL8",
+      "idx": 5,
+      "sent_ids": [
+        "5tjzei0JOL8:s0014",
+        "5tjzei0JOL8:s0015",
+        "5tjzei0JOL8:s0016",
+        "5tjzei0JOL8:s0017"
+      ],
+      "start_s": 40.56,
+      "end_s": 54.56,
+      "text": "Your thoughts, whatever they were, are still happening. You are still technically you. But that window is closing fast. Around 10 seconds in something changes.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.0817741935483871
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0006",
+      "video_id": "5tjzei0JOL8",
+      "idx": 6,
+      "sent_ids": [
+        "5tjzei0JOL8:s0018",
+        "5tjzei0JOL8:s0019"
+      ],
+      "start_s": 49.64,
+      "end_s": 68.0,
+      "text": "Your brain, the most oxygen hungry organ in your entire body, consuming roughly 20% of your total oxygen supply at any given moment, starts to notice that the deliveries have stopped. The cerebral cortex, the part of your brain responsible for conscious thought, begins to shut down.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.10008064516129032
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0007",
+      "video_id": "5tjzei0JOL8",
+      "idx": 7,
+      "sent_ids": [
+        "5tjzei0JOL8:s0020",
+        "5tjzei0JOL8:s0021",
+        "5tjzei0JOL8:s0022",
+        "5tjzei0JOL8:s0023"
+      ],
+      "start_s": 66.48,
+      "end_s": 76.92,
+      "text": "This is the moment most people lose consciousness. Your eyes stop processing images. Your ears stop registering sound. From the outside you look gone.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.13403225806451613
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0008",
+      "video_id": "5tjzei0JOL8",
+      "idx": 8,
+      "sent_ids": [
+        "5tjzei0JOL8:s0024",
+        "5tjzei0JOL8:s0025"
+      ],
+      "start_s": 75.12,
+      "end_s": 89.60000000000001,
+      "text": "But from the inside something very different might be happening. In 2023 a neuroscientist named Jimo Borjigin at the University of Michigan published a study that changed the way we think about dying.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.1514516129032258
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0009",
+      "video_id": "5tjzei0JOL8",
+      "idx": 9,
+      "sent_ids": [
+        "5tjzei0JOL8:s0026",
+        "5tjzei0JOL8:s0027"
+      ],
+      "start_s": 85.4,
+      "end_s": 97.16000000000001,
+      "text": "Her team monitored the brain activity of four comatose patients as they were taken off life support. What they expected to see was a quiet fade to black.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.1721774193548387
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0010",
+      "video_id": "5tjzei0JOL8",
+      "idx": 10,
+      "sent_ids": [
+        "5tjzei0JOL8:s0028",
+        "5tjzei0JOL8:s0029",
+        "5tjzei0JOL8:s0030",
+        "5tjzei0JOL8:s0031"
+      ],
+      "start_s": 93.04,
+      "end_s": 108.96000000000001,
+      "text": "Brain activity slowly winding down like a machine losing power. That's not what they found. In two of the four patients within seconds of losing oxygen the brain did something no one predicted. It surged.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.18758064516129033
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0011",
+      "video_id": "5tjzei0JOL8",
+      "idx": 11,
+      "sent_ids": [
+        "5tjzei0JOL8:s0032",
+        "5tjzei0JOL8:s0033",
+        "5tjzei0JOL8:s0034"
+      ],
+      "start_s": 103.68,
+      "end_s": 124.52,
+      "text": "A massive spike of gamma wave activity exploded across the brain. Gamma waves, the same type of brain waves associated with consciousness, heightened awareness, memory retrieval, and even dreaming. And it wasn't random noise.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.20903225806451614
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0012",
+      "video_id": "5tjzei0JOL8",
+      "idx": 12,
+      "sent_ids": [
+        "5tjzei0JOL8:s0035",
+        "5tjzei0JOL8:s0036"
+      ],
+      "start_s": 118.96,
+      "end_s": 137.48000000000002,
+      "text": "The activity was organized, structured, concentrated in a region called the temporoparietal occipital junction. A part of the brain that previous research has linked to out-of-body experiences and visual processing.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.23983870967741935
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0013",
+      "video_id": "5tjzei0JOL8",
+      "idx": 13,
+      "sent_ids": [
+        "5tjzei0JOL8:s0037",
+        "5tjzei0JOL8:s0038",
+        "5tjzei0JOL8:s0039"
+      ],
+      "start_s": 133.24,
+      "end_s": 148.4,
+      "text": "Borjigin's response to her own findings was blunt. She said the surge was, quote, crazy high. Now let's pause here because this is where the science meets something much harder to explain.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.26862903225806456
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0014",
+      "video_id": "5tjzei0JOL8",
+      "idx": 14,
+      "sent_ids": [
+        "5tjzei0JOL8:s0040",
+        "5tjzei0JOL8:s0041"
+      ],
+      "start_s": 144.52,
+      "end_s": 162.72000000000003,
+      "text": "For decades people who have been brought back from clinical death have reported experiences that sound eerily similar to what this brain surge might produce. Bright lights, a sense of floating above their own body, a feeling of peace so deep it defies description.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.2913709677419355
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0015",
+      "video_id": "5tjzei0JOL8",
+      "idx": 15,
+      "sent_ids": [
+        "5tjzei0JOL8:s0042",
+        "5tjzei0JOL8:s0043",
+        "5tjzei0JOL8:s0044",
+        "5tjzei0JOL8:s0045"
+      ],
+      "start_s": 160.72,
+      "end_s": 174.64000000000001,
+      "text": "And then there's the life review. You've probably heard the phrase life flashes before your eyes. Most people assume that means the highlights. Your wedding, the birth of your child, your greatest achievements.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.32403225806451613
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0016",
+      "video_id": "5tjzei0JOL8",
+      "idx": 16,
+      "sent_ids": [
+        "5tjzei0JOL8:s0046",
+        "5tjzei0JOL8:s0047",
+        "5tjzei0JOL8:s0048"
+      ],
+      "start_s": 171.56,
+      "end_s": 182.16,
+      "text": "But people who have actually experienced it say that's not how it works at all. It's not the big moments, it's the small ones. It's riding your bike as a kid.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.34588709677419355
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0017",
+      "video_id": "5tjzei0JOL8",
+      "idx": 17,
+      "sent_ids": [
+        "5tjzei0JOL8:s0049",
+        "5tjzei0JOL8:s0050",
+        "5tjzei0JOL8:s0051"
+      ],
+      "start_s": 178.64,
+      "end_s": 190.39999999999998,
+      "text": "It's sitting at a desk checking your email on a random Tuesday. It's a white cat on a staircase you don't even remember. That last one is real.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.3601612903225806
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0018",
+      "video_id": "5tjzei0JOL8",
+      "idx": 18,
+      "sent_ids": [
+        "5tjzei0JOL8:s0052",
+        "5tjzei0JOL8:s0053"
+      ],
+      "start_s": 186.76,
+      "end_s": 197.39999999999998,
+      "text": "A young man who was resuscitated after clinical death described seeing a white cat on a staircase during his life review. He couldn't place the memory.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.3765322580645161
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0019",
+      "video_id": "5tjzei0JOL8",
+      "idx": 19,
+      "sent_ids": [
+        "5tjzei0JOL8:s0054",
+        "5tjzei0JOL8:s0055"
+      ],
+      "start_s": 193.92,
+      "end_s": 205.4,
+      "text": "He had no recollection of ever being in that building. So after he recovered he described the staircase, the apartment layout, and the cat to his mother.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.39096774193548384
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0020",
+      "video_id": "5tjzei0JOL8",
+      "idx": 20,
+      "sent_ids": [
+        "5tjzei0JOL8:s0056",
+        "5tjzei0JOL8:s0057"
+      ],
+      "start_s": 201.24,
+      "end_s": 213.92,
+      "text": "She told him they had lived in that exact building with that exact staircase next to a neighbor who owned a white cat. He was 14 months old when they moved out.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.40572580645161294
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0021",
+      "video_id": "5tjzei0JOL8",
+      "idx": 21,
+      "sent_ids": [
+        "5tjzei0JOL8:s0058",
+        "5tjzei0JOL8:s0059",
+        "5tjzei0JOL8:s0060"
+      ],
+      "start_s": 212.04,
+      "end_s": 223.79999999999998,
+      "text": "This raises a question that neuroscience still cannot answer. Are all of our memories still in there? Every single one?",
+      "n_words": 20,
+      "n_sentences": 3,
+      "pos_pct": 0.4275
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0022",
+      "video_id": "5tjzei0JOL8",
+      "idx": 22,
+      "sent_ids": [
+        "5tjzei0JOL8:s0061",
+        "5tjzei0JOL8:s0062",
+        "5tjzei0JOL8:s0063"
+      ],
+      "start_s": 218.76,
+      "end_s": 234.51999999999998,
+      "text": "And does the dying brain in its final surge of activity somehow unlock the entire archive? We don't know. But the brainwave data suggests something is happening that goes beyond a simple shutdown.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.4410483870967742
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0023",
+      "video_id": "5tjzei0JOL8",
+      "idx": 23,
+      "sent_ids": [
+        "5tjzei0JOL8:s0064",
+        "5tjzei0JOL8:s0065"
+      ],
+      "start_s": 231.2,
+      "end_s": 245.76,
+      "text": "Let's go back to the body because while your brain may be lighting up the rest of you is going dark. Around 30 seconds after your heart stops your blood is no longer carrying oxygen anywhere.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.4661290322580645
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0024",
+      "video_id": "5tjzei0JOL8",
+      "idx": 24,
+      "sent_ids": [
+        "5tjzei0JOL8:s0066",
+        "5tjzei0JOL8:s0067"
+      ],
+      "start_s": 240.56,
+      "end_s": 253.76,
+      "text": "Your cells, all 37 trillion of them, are starting to notice. They begin switching from aerobic respiration, which requires oxygen, to anaerobic respiration, which doesn't.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.485
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0025",
+      "video_id": "5tjzei0JOL8",
+      "idx": 25,
+      "sent_ids": [
+        "5tjzei0JOL8:s0068",
+        "5tjzei0JOL8:s0069",
+        "5tjzei0JOL8:s0070"
+      ],
+      "start_s": 249.76,
+      "end_s": 265.76,
+      "text": "This backup system produces energy but it also produces lactic acid. And that acid starts to build up fast. Your muscles, no longer receiving instructions from a functioning brain, begin to relax completely.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.5035483870967742
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0026",
+      "video_id": "5tjzei0JOL8",
+      "idx": 26,
+      "sent_ids": [
+        "5tjzei0JOL8:s0071",
+        "5tjzei0JOL8:s0072",
+        "5tjzei0JOL8:s0073",
+        "5tjzei0JOL8:s0074"
+      ],
+      "start_s": 261.56,
+      "end_s": 272.04,
+      "text": "Your jaw drops open. Your eyelids stop holding themselves shut. If you were standing you've already fallen. Your pupils dilate and become fixed.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.5273387096774194
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0027",
+      "video_id": "5tjzei0JOL8",
+      "idx": 27,
+      "sent_ids": [
+        "5tjzei0JOL8:s0075",
+        "5tjzei0JOL8:s0076",
+        "5tjzei0JOL8:s0077"
+      ],
+      "start_s": 267.72,
+      "end_s": 282.12,
+      "text": "The muscles that normally adjust the size of your pupils to control light have gone slack. Your eyes, still technically intact, are now just lenses with no one behind them. Or are they?",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.5397580645161291
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0028",
+      "video_id": "5tjzei0JOL8",
+      "idx": 28,
+      "sent_ids": [
+        "5tjzei0JOL8:s0078",
+        "5tjzei0JOL8:s0079"
+      ],
+      "start_s": 278.4,
+      "end_s": 292.79999999999995,
+      "text": "Because here's where it gets strange again. Doctor Sam Parnia, a resuscitation researcher at the New York University, has spent over two decades studying what happens to consciousness during cardiac arrest.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.5612903225806452
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0029",
+      "video_id": "5tjzei0JOL8",
+      "idx": 29,
+      "sent_ids": [
+        "5tjzei0JOL8:s0080",
+        "5tjzei0JOL8:s0081"
+      ],
+      "start_s": 288.4,
+      "end_s": 303.08,
+      "text": "His AWARE studies, the largest of their kind, have examined hundreds of cardiac arrest patients across 25 hospitals. The findings are hard to dismiss.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.5814516129032258
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0030",
+      "video_id": "5tjzei0JOL8",
+      "idx": 30,
+      "sent_ids": [
+        "5tjzei0JOL8:s0082",
+        "5tjzei0JOL8:s0083"
+      ],
+      "start_s": 298.24,
+      "end_s": 318.88,
+      "text": "In the AWARE II study, published in 2023, roughly 40% of cardiac arrest survivors reported some perception of consciousness during the time they were clinically dead. About 20% described what researchers now call a recalled experience of death.",
+      "n_words": 38,
+      "n_sentences": 2,
+      "pos_pct": 0.6012903225806452
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0031",
+      "video_id": "5tjzei0JOL8",
+      "idx": 31,
+      "sent_ids": [
+        "5tjzei0JOL8:s0084",
+        "5tjzei0JOL8:s0085",
+        "5tjzei0JOL8:s0086",
+        "5tjzei0JOL8:s0087"
+      ],
+      "start_s": 314.28,
+      "end_s": 327.68,
+      "text": "Structured thoughts, clear memories, a sense of awareness. And around 3% reported full visual and auditory awareness. They could see. They could hear.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.6336290322580644
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0032",
+      "video_id": "5tjzei0JOL8",
+      "idx": 32,
+      "sent_ids": [
+        "5tjzei0JOL8:s0088",
+        "5tjzei0JOL8:s0089"
+      ],
+      "start_s": 324.0,
+      "end_s": 339.24,
+      "text": "While their hearts were not beating and their brains showed no visible signs of activity to the people around them. One of the most consistent reports from people who come back is the feeling that they were not alone.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.6532258064516129
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0033",
+      "video_id": "5tjzei0JOL8",
+      "idx": 33,
+      "sent_ids": [
+        "5tjzei0JOL8:s0090",
+        "5tjzei0JOL8:s0091"
+      ],
+      "start_s": 334.48,
+      "end_s": 347.12,
+      "text": "They describe seeing a deceased relative, a grandparent, a parent, someone who seems to be there specifically to meet them. Some say this person told them it wasn't their time yet.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.6743548387096775
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0034",
+      "video_id": "5tjzei0JOL8",
+      "idx": 34,
+      "sent_ids": [
+        "5tjzei0JOL8:s0092",
+        "5tjzei0JOL8:s0093"
+      ],
+      "start_s": 343.96,
+      "end_s": 356.48,
+      "text": "Others say they were guided somewhere. Whether this is the brain creating a final comforting hallucination or something else entirely is a question that science has not been able to settle.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.6934677419354839
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0035",
+      "video_id": "5tjzei0JOL8",
+      "idx": 35,
+      "sent_ids": [
+        "5tjzei0JOL8:s0094",
+        "5tjzei0JOL8:s0095",
+        "5tjzei0JOL8:s0096",
+        "5tjzei0JOL8:s0097"
+      ],
+      "start_s": 352.56,
+      "end_s": 364.24,
+      "text": "But what the data does tell us is this. The experience of dying for many people is not painful. It is not dark. It is not empty.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.7108064516129032
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0036",
+      "video_id": "5tjzei0JOL8",
+      "idx": 36,
+      "sent_ids": [
+        "5tjzei0JOL8:s0098",
+        "5tjzei0JOL8:s0099",
+        "5tjzei0JOL8:s0100"
+      ],
+      "start_s": 359.0,
+      "end_s": 372.0,
+      "text": "It is by most accounts peaceful. Now, let's get back to the body once again. At around 60 seconds the damage to your cells is becoming serious but not yet permanent.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.7237903225806451
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0037",
+      "video_id": "5tjzei0JOL8",
+      "idx": 37,
+      "sent_ids": [
+        "5tjzei0JOL8:s0101",
+        "5tjzei0JOL8:s0102"
+      ],
+      "start_s": 370.12,
+      "end_s": 384.71999999999997,
+      "text": "This is an important distinction because this is the window where resuscitation is still possible. If someone starts CPR right now, if a defibrillator delivers a shock, there is still a chance to reverse what has happened.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.7462096774193548
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0038",
+      "video_id": "5tjzei0JOL8",
+      "idx": 38,
+      "sent_ids": [
+        "5tjzei0JOL8:s0103",
+        "5tjzei0JOL8:s0104"
+      ],
+      "start_s": 380.2,
+      "end_s": 394.8,
+      "text": "Brain cells can survive without oxygen for roughly 4 to 6 minutes before permanent damage sets in. That means at the 1-minute mark you are in a kind of biological limbo.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.7665322580645161
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0039",
+      "video_id": "5tjzei0JOL8",
+      "idx": 39,
+      "sent_ids": [
+        "5tjzei0JOL8:s0105",
+        "5tjzei0JOL8:s0106"
+      ],
+      "start_s": 392.12,
+      "end_s": 401.84000000000003,
+      "text": "Not alive in any traditional sense but not gone in an irreversible one either. Your body temperature has barely changed.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.7905645161290322
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0040",
+      "video_id": "5tjzei0JOL8",
+      "idx": 40,
+      "sent_ids": [
+        "5tjzei0JOL8:s0107",
+        "5tjzei0JOL8:s0108"
+      ],
+      "start_s": 398.36,
+      "end_s": 414.4,
+      "text": "Your skin is just beginning to pale as blood drains from the capillaries near the surface. Inside your cells enzymes that were safely contained behind membranes are starting to leak out as those membranes weaken from the acid buildup.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.8031451612903227
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0041",
+      "video_id": "5tjzei0JOL8",
+      "idx": 41,
+      "sent_ids": [
+        "5tjzei0JOL8:s0109",
+        "5tjzei0JOL8:s0110",
+        "5tjzei0JOL8:s0111",
+        "5tjzei0JOL8:s0112"
+      ],
+      "start_s": 410.08,
+      "end_s": 424.0,
+      "text": "This is the very beginning of a process called autolysis. Self-digestion. Your own cells beginning to break themselves down. But it's barely started.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.8267741935483871
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0042",
+      "video_id": "5tjzei0JOL8",
+      "idx": 42,
+      "sent_ids": [
+        "5tjzei0JOL8:s0113",
+        "5tjzei0JOL8:s0114",
+        "5tjzei0JOL8:s0115"
+      ],
+      "start_s": 418.8,
+      "end_s": 434.20000000000005,
+      "text": "At 1 minute most of your body's cells are still intact, still structurally whole, still waiting. The question is waiting for what? There are two answers to that question and both of them are true.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.8443548387096774
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0043",
+      "video_id": "5tjzei0JOL8",
+      "idx": 43,
+      "sent_ids": [
+        "5tjzei0JOL8:s0116",
+        "5tjzei0JOL8:s0117",
+        "5tjzei0JOL8:s0118"
+      ],
+      "start_s": 430.48,
+      "end_s": 441.0,
+      "text": "The medical answer is that they're waiting for oxygen. If blood flow is restored within the next few minutes many of these cells will recover. The process can be reversed.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.8679032258064516
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0044",
+      "video_id": "5tjzei0JOL8",
+      "idx": 44,
+      "sent_ids": [
+        "5tjzei0JOL8:s0119",
+        "5tjzei0JOL8:s0120"
+      ],
+      "start_s": 439.4,
+      "end_s": 458.12,
+      "text": "People come back from this every single day in hospitals around the world. But the other answer is harder to put into words because if no one comes, if there is no CPR, no defibrillator, no intervention, then this minute was your last minute of existence on this side of life.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.8858870967741935
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0045",
+      "video_id": "5tjzei0JOL8",
+      "idx": 45,
+      "sent_ids": [
+        "5tjzei0JOL8:s0121",
+        "5tjzei0JOL8:s0122"
+      ],
+      "start_s": 454.24,
+      "end_s": 469.16,
+      "text": "And based on everything we now know, based on the brainwave data, the survivor accounts, the decades of research, it appears that your brain did not use that minute to shut down quietly. It used it to turn on.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.9158064516129032
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0046",
+      "video_id": "5tjzei0JOL8",
+      "idx": 46,
+      "sent_ids": [
+        "5tjzei0JOL8:s0123",
+        "5tjzei0JOL8:s0124"
+      ],
+      "start_s": 464.0,
+      "end_s": 476.20000000000005,
+      "text": "Every second you have is a second someone else already lost. The people who come back from the other side don't come back wanting more money or more status.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.9354838709677419
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0047",
+      "video_id": "5tjzei0JOL8",
+      "idx": 47,
+      "sent_ids": [
+        "5tjzei0JOL8:s0125",
+        "5tjzei0JOL8:s0126"
+      ],
+      "start_s": 472.6,
+      "end_s": 487.64,
+      "text": "They come back wanting more time with the people they love. More presence in the moments that don't seem to matter because it turns out those are the moments that flash before your eyes in the end.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.9528225806451613
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0048",
+      "video_id": "5tjzei0JOL8",
+      "idx": 48,
+      "sent_ids": [
+        "5tjzei0JOL8:s0127",
+        "5tjzei0JOL8:s0128",
+        "5tjzei0JOL8:s0129"
+      ],
+      "start_s": 483.76,
+      "end_s": 497.12,
+      "text": "It's not the achievements or the milestones. It's the ordinary Tuesday afternoons you didn't think anyone was recording. Your brain was recording all of it.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.9753225806451613
+    },
+    {
+      "window_id": "5tjzei0JOL8:j0049",
+      "video_id": "5tjzei0JOL8",
+      "idx": 49,
+      "sent_ids": [
+        "5tjzei0JOL8:s0130"
+      ],
+      "start_s": 491.04,
+      "end_s": 497.12,
+      "text": "And in your final minute it might just play it all back.",
+      "n_words": 12,
+      "n_sentences": 1,
+      "pos_pct": 0.99
+    }
+  ]
+}

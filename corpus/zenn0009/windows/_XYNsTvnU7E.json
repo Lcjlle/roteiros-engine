@@ -1,0 +1,1018 @@
+{
+  "video_id": "_XYNsTvnU7E",
+  "generated_at": "2026-09-04T03:00:43.138008+00:00",
+  "windows": [
+    {
+      "window_id": "_XYNsTvnU7E:j0000",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 0,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0000",
+        "_XYNsTvnU7E:s0001",
+        "_XYNsTvnU7E:s0002",
+        "_XYNsTvnU7E:s0003"
+      ],
+      "start_s": 0.0,
+      "end_s": 15.16,
+      "text": "Every single species on this planet has spent millions of years adapting to Earth. Fish developed gills to breathe underwater. Birds evolved hollow bones to fly. Polar bears grew thick fur to survive the Arctic.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0001",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 1,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0004",
+        "_XYNsTvnU7E:s0005",
+        "_XYNsTvnU7E:s0006",
+        "_XYNsTvnU7E:s0007"
+      ],
+      "start_s": 11.0,
+      "end_s": 22.88,
+      "text": "And then there's us. We burn in our own sunlight. Our spines are falling apart. We give birth in a process so violent it kills us more than any other mammal on the planet.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.01740506329113924
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0002",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 2,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0008",
+        "_XYNsTvnU7E:s0009"
+      ],
+      "start_s": 19.4,
+      "end_s": 33.0,
+      "text": "And we're the only species that looked around at the world it evolved in and thought, \"Something's off.\" What if the reason we don't fit on Earth is because we're not from here?",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.030696202531645567
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0003",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 3,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0010",
+        "_XYNsTvnU7E:s0011"
+      ],
+      "start_s": 28.24,
+      "end_s": 42.12,
+      "text": "Lizards sit in direct sunlight for hours. Dogs, cats, horses, elephants, they spend their entire lives under the same sun and handle it just fine.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.044683544303797465
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0004",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 4,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0012",
+        "_XYNsTvnU7E:s0013",
+        "_XYNsTvnU7E:s0014"
+      ],
+      "start_s": 37.12,
+      "end_s": 52.199999999999996,
+      "text": "Their fur, their scales, their pigmentation, all perfectly calibrated for our star. Ours isn't. We literally had to invent a chemical paste and rub it on ourselves just to go outside safely.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.05873417721518987
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0005",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 5,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0015",
+        "_XYNsTvnU7E:s0016",
+        "_XYNsTvnU7E:s0017"
+      ],
+      "start_s": 48.48,
+      "end_s": 58.8,
+      "text": "Think about that for a second. We invented sunscreen because our own sun is trying to kill us. Now, look at your back.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.07670886075949367
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0006",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 6,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0018",
+        "_XYNsTvnU7E:s0019"
+      ],
+      "start_s": 54.04,
+      "end_s": 69.92,
+      "text": "80% of humans will experience chronic back pain at some point in their lives. When four out of five members of your species share the same structural problem, you stop blaming the individual and start looking at the blueprint.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.08550632911392404
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0007",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 7,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0020",
+        "_XYNsTvnU7E:s0021"
+      ],
+      "start_s": 66.0,
+      "end_s": 80.32,
+      "text": "Our spines are essentially a horizontal bridge that evolution tried to stand upright. The discs between our vertebrae compress under gravity in ways they were never meant to handle.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.10443037974683544
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0008",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 8,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0022",
+        "_XYNsTvnU7E:s0023",
+        "_XYNsTvnU7E:s0024",
+        "_XYNsTvnU7E:s0025"
+      ],
+      "start_s": 75.88,
+      "end_s": 89.60000000000001,
+      "text": "Other bipedal animals like kangaroos and ostriches don't have this issue. [clears throat] Their bodies were built from the ground up for standing. Ours were retrofitted, badly. Then there's childbirth.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.1200632911392405
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0009",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 9,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0026",
+        "_XYNsTvnU7E:s0027",
+        "_XYNsTvnU7E:s0028"
+      ],
+      "start_s": 85.84,
+      "end_s": 98.36,
+      "text": "This one's rough. Human childbirth is the most dangerous birth process of any mammal on the planet. Our babies' heads are so big they barely fit through the birth canal.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.13582278481012658
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0010",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 10,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0029",
+        "_XYNsTvnU7E:s0030",
+        "_XYNsTvnU7E:s0031"
+      ],
+      "start_s": 96.36,
+      "end_s": 110.24,
+      "text": "Before modern medicine, giving birth was one of the leading causes of death for women throughout all of human history. No other species routinely dies trying to deliver healthy offspring. That's just us.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.15246835443037973
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0011",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 11,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0032",
+        "_XYNsTvnU7E:s0033",
+        "_XYNsTvnU7E:s0034"
+      ],
+      "start_s": 105.8,
+      "end_s": 116.84,
+      "text": "A horse gives birth in about 30 minutes. The foal stands up and walks within the hour. A human baby can't even hold up its own head for months.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.16740506329113924
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0012",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 12,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0035",
+        "_XYNsTvnU7E:s0036"
+      ],
+      "start_s": 112.36,
+      "end_s": 126.68,
+      "text": "We show up completely useless, dependent on others for years, more helpless than any other animal that has ever existed on this planet. And then there are allergies.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.1777848101265823
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0013",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 13,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0037",
+        "_XYNsTvnU7E:s0038",
+        "_XYNsTvnU7E:s0039"
+      ],
+      "start_s": 122.04,
+      "end_s": 138.04,
+      "text": "Your immune system has one job, protect you. But in humans, this system regularly goes to war against things that are completely harmless. Pollen, peanuts, dust, cat hair, shellfish.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.1931012658227848
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0014",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 14,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0040",
+        "_XYNsTvnU7E:s0041"
+      ],
+      "start_s": 133.48,
+      "end_s": 144.64000000000001,
+      "text": "About 30% of the global population has allergies. Your own defense system is attacking the air you breathe and the food you eat.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.2112025316455696
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0015",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 15,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0042",
+        "_XYNsTvnU7E:s0043",
+        "_XYNsTvnU7E:s0044",
+        "_XYNsTvnU7E:s0045"
+      ],
+      "start_s": 140.08,
+      "end_s": 154.48,
+      "text": "Either evolution made a serious mistake or your body is calibrated for somewhere else entirely. But the strangest part isn't physical. It's in your head. No other animal on Earth knows it's going to die.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.2216455696202532
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0016",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 16,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0046",
+        "_XYNsTvnU7E:s0047",
+        "_XYNsTvnU7E:s0048",
+        "_XYNsTvnU7E:s0049"
+      ],
+      "start_s": 152.6,
+      "end_s": 165.88,
+      "text": "Dogs don't lie awake wondering what happens after death. Dolphins don't have existential crises. Elephants don't build religions to cope with the terror of mortality. But we do, all of us.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.24145569620253163
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0017",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 17,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0050",
+        "_XYNsTvnU7E:s0051"
+      ],
+      "start_s": 160.84,
+      "end_s": 175.28,
+      "text": "We are the only species walking around with the full awareness that one day we'll stop existing. And instead of just dealing with it, we've spent our entire history trying to solve it.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.25449367088607594
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0018",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 18,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0052",
+        "_XYNsTvnU7E:s0053",
+        "_XYNsTvnU7E:s0054",
+        "_XYNsTvnU7E:s0055"
+      ],
+      "start_s": 171.48,
+      "end_s": 187.48,
+      "text": "We build temples, we write philosophies, we create entire civilizations organized around the question of what happens when we die. Why would evolution do this to us? Seriously. What survival advantage does existential dread provide?",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.2713291139240506
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0019",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 19,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0056",
+        "_XYNsTvnU7E:s0057"
+      ],
+      "start_s": 183.56,
+      "end_s": 198.84,
+      "text": "For most of human history, this awareness has driven people to despair, to madness, to war. It feels like a feature you'd find in a species that's out of place, conscious enough to sense something is wrong, but unable to figure out what.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.29044303797468357
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0020",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 20,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0058",
+        "_XYNsTvnU7E:s0059",
+        "_XYNsTvnU7E:s0060",
+        "_XYNsTvnU7E:s0061"
+      ],
+      "start_s": 197.4,
+      "end_s": 212.55999999999997,
+      "text": "And then there's the one that's hardest to explain away. Every species on this planet exists in some kind of balance with its ecosystem. Predators keep prey in check. Prey keeps plant life in check.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.31234177215189873
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0021",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 21,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0062",
+        "_XYNsTvnU7E:s0063",
+        "_XYNsTvnU7E:s0064",
+        "_XYNsTvnU7E:s0065"
+      ],
+      "start_s": 207.64,
+      "end_s": 223.08,
+      "text": "Decomposers recycle nutrients back into the soil. It's a closed loop. Everybody plays their part, except us. We clear-cut forests, we poison rivers, we pump the atmosphere full of gases that heat the planet.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.32854430379746835
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0022",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 22,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0066",
+        "_XYNsTvnU7E:s0067",
+        "_XYNsTvnU7E:s0068"
+      ],
+      "start_s": 219.4,
+      "end_s": 230.48,
+      "text": "We've driven thousands of species to extinction and we're not even close to slowing down. We're not participating in Earth's ecosystem. We're taking it apart.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.34715189873417723
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0023",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 23,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0069",
+        "_XYNsTvnU7E:s0070"
+      ],
+      "start_s": 226.6,
+      "end_s": 243.36,
+      "text": "And if you think about it, that's exactly what you'd expect from an invasive species, something dropped onto a planet it wasn't built for. It doesn't know the rules because the rules weren't written for it.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.3585443037974683
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0024",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 24,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0071",
+        "_XYNsTvnU7E:s0072"
+      ],
+      "start_s": 237.8,
+      "end_s": 249.72,
+      "text": "So, if we really don't belong here, where did we come from? In 1973, Francis Crick published a paper that should have shaken the scientific world.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.37626582278481013
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0025",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 25,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0073",
+        "_XYNsTvnU7E:s0074"
+      ],
+      "start_s": 246.88,
+      "end_s": 260.04,
+      "text": "He won the Nobel Prize in 1962 for figuring out how the molecule that carries all of life's instructions actually works. He's one of the most important scientists who ever lived.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.3906329113924051
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0026",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 26,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0075",
+        "_XYNsTvnU7E:s0076"
+      ],
+      "start_s": 255.12,
+      "end_s": 274.4,
+      "text": "And in that 1973 paper, written with chemist Leslie Orgel, he proposed something wild. He called it directed panspermia, the idea that life on Earth didn't start here, that it was deliberately seeded by an intelligent civilization from somewhere else in the galaxy.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.40367088607594936
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0027",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 27,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0077",
+        "_XYNsTvnU7E:s0078"
+      ],
+      "start_s": 270.44,
+      "end_s": 283.68,
+      "text": "The man who decoded DNA looked at the story of life on Earth and said, \"I don't think this adds up.\" And honestly, the evidence backing him up is hard to dismiss.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.42791139240506326
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0028",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 28,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0079",
+        "_XYNsTvnU7E:s0080",
+        "_XYNsTvnU7E:s0081"
+      ],
+      "start_s": 278.88,
+      "end_s": 294.4,
+      "text": "Life showed up on Earth roughly 3.8 billion years ago. The planet itself is only about 4.5 billion years old. That means complex organic chemistry appeared just 700 million years after Earth formed.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.44126582278481014
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0029",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 29,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0082",
+        "_XYNsTvnU7E:s0083"
+      ],
+      "start_s": 290.76,
+      "end_s": 303.64000000000004,
+      "text": "In geological time, that's basically overnight. The planet was still getting hammered by asteroids, still cooling from a molten hellscape of rock and toxic gas.",
+      "n_words": 25,
+      "n_sentences": 2,
+      "pos_pct": 0.4600632911392405
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0030",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 30,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0084",
+        "_XYNsTvnU7E:s0085",
+        "_XYNsTvnU7E:s0086",
+        "_XYNsTvnU7E:s0087"
+      ],
+      "start_s": 298.6,
+      "end_s": 316.40000000000003,
+      "text": "And somehow, life popped up almost the second conditions allowed it. Biologists have always found the timing suspicious. Then there's the Murchison meteorite. In 1969, a rock from space crashed into southeastern Australia.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.47246835443037977
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0031",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 31,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0088",
+        "_XYNsTvnU7E:s0089"
+      ],
+      "start_s": 312.16,
+      "end_s": 325.52000000000004,
+      "text": "When scientists cracked it open, they found over 90 different amino acids inside, the building blocks of life. And some of those amino acids are the exact same ones found in every living thing on Earth.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.49392405063291145
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0032",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 32,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0090",
+        "_XYNsTvnU7E:s0091",
+        "_XYNsTvnU7E:s0092"
+      ],
+      "start_s": 322.16,
+      "end_s": 331.04,
+      "text": "Organic chemistry, just riding through space on a rock. And here's the thing. We know life can actually survive out there.",
+      "n_words": 21,
+      "n_sentences": 3,
+      "pos_pct": 0.509746835443038
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0033",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 33,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0093",
+        "_XYNsTvnU7E:s0094"
+      ],
+      "start_s": 329.04,
+      "end_s": 347.91999999999996,
+      "text": "Tardigrades, those microscopic little guys that look like eight-legged gummy bears, have been exposed to the vacuum of space, to cosmic radiation, to temperatures near absolute zero, and they made it. In 2019, an Israeli spacecraft carrying tardigrades crashed on the moon.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.5206329113924051
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0034",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 34,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0095",
+        "_XYNsTvnU7E:s0096",
+        "_XYNsTvnU7E:s0097"
+      ],
+      "start_s": 344.08,
+      "end_s": 359.56,
+      "text": "Scientists think some of them might still be viable up there, just sitting on the lunar surface, waiting. Life doesn't just exist on Earth. It can hitch a ride between worlds.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.5444303797468354
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0035",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 35,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0098",
+        "_XYNsTvnU7E:s0099"
+      ],
+      "start_s": 353.64,
+      "end_s": 376.08,
+      "text": "In 2013, ecologist Dr. Ellis Silver published a book called Humans Are Not From Earth, pulling together all the physiological evidence that we're poorly adapted to this planet. The sunburn, the back pain, the allergies, the dangerous childbirth, even our circadian rhythm being slightly off from a 24-hour cycle.",
+      "n_words": 49,
+      "n_sentences": 2,
+      "pos_pct": 0.5595569620253165
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0036",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 36,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0100",
+        "_XYNsTvnU7E:s0101"
+      ],
+      "start_s": 371.96,
+      "end_s": 380.0,
+      "text": "He argued these weren't just quirks of evolution. They were signs we came from somewhere else.",
+      "n_words": 16,
+      "n_sentences": 2,
+      "pos_pct": 0.5885443037974684
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0037",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 37,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0102",
+        "_XYNsTvnU7E:s0103"
+      ],
+      "start_s": 376.08,
+      "end_s": 387.12,
+      "text": "But here's where it gets complicated because mainstream biology actually has a pretty good answer for almost all of it. It's called evolutionary mismatch.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.5950632911392405
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0038",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 38,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0104",
+        "_XYNsTvnU7E:s0105",
+        "_XYNsTvnU7E:s0106",
+        "_XYNsTvnU7E:s0107"
+      ],
+      "start_s": 383.76,
+      "end_s": 397.04,
+      "text": "And honestly, it might be even more interesting than the alien theory. Back pain. We only started walking upright about 6 million years ago. Sounds ancient, right?",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.6072151898734177
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0039",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 39,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0108",
+        "_XYNsTvnU7E:s0109",
+        "_XYNsTvnU7E:s0110",
+        "_XYNsTvnU7E:s0111"
+      ],
+      "start_s": 392.92,
+      "end_s": 408.08,
+      "text": "But evolution moves slow, really slow. Our spines haven't had enough generations to fully figure out this whole standing thing. We're basically walking around in a prototype that never got its final update. Sunburn.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.6217088607594937
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0040",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 40,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0112",
+        "_XYNsTvnU7E:s0113",
+        "_XYNsTvnU7E:s0114"
+      ],
+      "start_s": 403.8,
+      "end_s": 416.88,
+      "text": "We lost our body hair. Best theory is thermoregulation. When our ancestors moved from forests onto open savannas, they needed to cool down while running for hours under the African sun.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.6389240506329114
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0041",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 41,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0115",
+        "_XYNsTvnU7E:s0116"
+      ],
+      "start_s": 414.64,
+      "end_s": 427.12,
+      "text": "Sweat works way better on bare skin than through fur. So, we traded our protective coat for the ability to outrun literally every other animal on the planet.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.6560759493670886
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0042",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 42,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0117",
+        "_XYNsTvnU7E:s0118",
+        "_XYNsTvnU7E:s0119",
+        "_XYNsTvnU7E:s0120"
+      ],
+      "start_s": 422.64,
+      "end_s": 434.76,
+      "text": "The sunburn is just the price we pay. Childbirth. Our brains got bigger faster than our birth canals could keep up. Scientists call it the obstetric dilemma.",
+      "n_words": 27,
+      "n_sentences": 4,
+      "pos_pct": 0.6687341772151899
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0043",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 43,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0121",
+        "_XYNsTvnU7E:s0122",
+        "_XYNsTvnU7E:s0123",
+        "_XYNsTvnU7E:s0124"
+      ],
+      "start_s": 430.88,
+      "end_s": 443.72,
+      "text": "Evolution was trying to make us smarter and keep us upright at the same time, and the pelvis basically got caught in the middle. It's messy. It's dangerous. But it makes sense.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.6817721518987342
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0044",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 44,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0125",
+        "_XYNsTvnU7E:s0126"
+      ],
+      "start_s": 440.6,
+      "end_s": 453.16,
+      "text": "Even the environmental destruction thing has a rational explanation. We evolved in small groups on the savanna where resources felt endless compared to how few of us there were.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.6971518987341773
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0045",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 45,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0127",
+        "_XYNsTvnU7E:s0128",
+        "_XYNsTvnU7E:s0129"
+      ],
+      "start_s": 449.56,
+      "end_s": 464.40000000000003,
+      "text": "Our brains are wired for short-term survival, not managing an entire planet's ecosystem. We're not alien invaders. We're just an animal that got way too powerful, way too fast for its own wiring to handle.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.7113291139240506
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0046",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 46,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0130",
+        "_XYNsTvnU7E:s0131",
+        "_XYNsTvnU7E:s0132"
+      ],
+      "start_s": 459.8,
+      "end_s": 473.48,
+      "text": "So, that settles it, right? Well, not quite. Because even after all those explanations, there's one thing evolutionary biology still can't fully account for, the speed.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.7275316455696202
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0047",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 47,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0133",
+        "_XYNsTvnU7E:s0134",
+        "_XYNsTvnU7E:s0135",
+        "_XYNsTvnU7E:s0136"
+      ],
+      "start_s": 469.16,
+      "end_s": 482.6,
+      "text": "No species in the 4-billion-year history of life on Earth has ever done what we did. Dolphins have been around for roughly 50 million years. They're smart. They have complex social lives.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.7423417721518988
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0048",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 48,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0137",
+        "_XYNsTvnU7E:s0138",
+        "_XYNsTvnU7E:s0139",
+        "_XYNsTvnU7E:s0140"
+      ],
+      "start_s": 478.72,
+      "end_s": 492.08,
+      "text": "They communicate. And in all that time, they have never built a single tool, not one. Chimpanzees figured out sticks about 4 million years ago. They have not filed a single upgrade since.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.7574683544303797
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0049",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 49,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0141",
+        "_XYNsTvnU7E:s0142"
+      ],
+      "start_s": 488.44,
+      "end_s": 507.64,
+      "text": "And then there's us. We went from sharpened rocks to nuclear weapons in about 2 million years, from fire to the International Space Station, from cave paintings to artificial intelligence, from banging flint together to landing robots on Mars.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.7728481012658228
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0050",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 50,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0143",
+        "_XYNsTvnU7E:s0144",
+        "_XYNsTvnU7E:s0145",
+        "_XYNsTvnU7E:s0146"
+      ],
+      "start_s": 502.44,
+      "end_s": 516.12,
+      "text": "200 years ago, we didn't have railroads. 125 years ago, airplanes didn't exist. 75 years ago, we hadn't been to space. 35 years ago, there was no internet.",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.795
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0051",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 51,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0147",
+        "_XYNsTvnU7E:s0148",
+        "_XYNsTvnU7E:s0149",
+        "_XYNsTvnU7E:s0150"
+      ],
+      "start_s": 512.24,
+      "end_s": 525.2800000000001,
+      "text": "Nothing in the entire history of life on this planet has ever accelerated like that. Nothing even comes close. And scientists still can't agree on why. Some think it was language.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.8105063291139241
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0052",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 52,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0151",
+        "_XYNsTvnU7E:s0152"
+      ],
+      "start_s": 521.719,
+      "end_s": 535.32,
+      "text": "Some think it was cooking, which gave us more calories and let our brains get bigger. Some point to a mutation in a gene called FOXP2 that may have unlocked complex speech.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.8255047468354432
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0053",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 53,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0153",
+        "_XYNsTvnU7E:s0154"
+      ],
+      "start_s": 533.24,
+      "end_s": 547.64,
+      "text": "Others say it was our ability to teach, to stack knowledge across generations, so each one picked up where the last left off. All of those probably played a role, but none of them fully explain the sheer speed of it.",
+      "n_words": 41,
+      "n_sentences": 2,
+      "pos_pct": 0.8437341772151898
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0054",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 54,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0155",
+        "_XYNsTvnU7E:s0156"
+      ],
+      "start_s": 543.68,
+      "end_s": 556.92,
+      "text": "Every other intelligent species on Earth took tens of millions of years to develop gradually. We went from prey animal to running the entire planet in what amounts to a geological blink.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.860253164556962
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0055",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 55,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0157",
+        "_XYNsTvnU7E:s0158",
+        "_XYNsTvnU7E:s0159"
+      ],
+      "start_s": 552.88,
+      "end_s": 565.64,
+      "text": "Crick couldn't explain it. Silver couldn't explain it. And modern evolutionary biology can explain pieces of it, but not the whole thing, not yet.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.8748101265822785
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0056",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 56,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0160",
+        "_XYNsTvnU7E:s0161",
+        "_XYNsTvnU7E:s0162",
+        "_XYNsTvnU7E:s0163"
+      ],
+      "start_s": 560.64,
+      "end_s": 572.88,
+      "text": "The most honest answer science has right now is, we don't fully know. We've got pieces. We don't have the full picture. And that's what keeps the question alive.",
+      "n_words": 29,
+      "n_sentences": 4,
+      "pos_pct": 0.8870886075949367
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0057",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 57,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0164",
+        "_XYNsTvnU7E:s0165",
+        "_XYNsTvnU7E:s0166"
+      ],
+      "start_s": 571.12,
+      "end_s": 580.7199999999999,
+      "text": "Look, it's probably not true that we're aliens. The evolutionary evidence is strong. Mismatch theory handles most of the weird stuff about our bodies.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.9036708860759494
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0058",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 58,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0167",
+        "_XYNsTvnU7E:s0168"
+      ],
+      "start_s": 577.16,
+      "end_s": 588.9599999999999,
+      "text": "We're almost certainly a product of this planet, shaped by the same forces that shaped everything else here. But almost certainly is not definitely.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.9132278481012658
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0059",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 59,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0169",
+        "_XYNsTvnU7E:s0170",
+        "_XYNsTvnU7E:s0171"
+      ],
+      "start_s": 584.8,
+      "end_s": 600.0,
+      "text": "And when real scientists, including one of the founders of modern genetics, look at the evidence and say, \"Something here doesn't quite add up.\" That's not conspiracy talk. That's just science doing what science does.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.9253164556962025
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0060",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 60,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0172",
+        "_XYNsTvnU7E:s0173"
+      ],
+      "start_s": 596.08,
+      "end_s": 607.04,
+      "text": "Asking the uncomfortable questions and being honest when the answers don't come out clean. It's the same curiosity that made us look up at the stars in the first place.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.9431645569620254
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0061",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 61,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0174",
+        "_XYNsTvnU7E:s0175",
+        "_XYNsTvnU7E:s0176"
+      ],
+      "start_s": 605.24,
+      "end_s": 616.16,
+      "text": "The same restlessness that made us build rockets and telescopes and send little robots to other planets just to see what's there. Maybe that restlessness isn't a flaw. Maybe it's a clue.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.9576582278481013
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0062",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 62,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0177",
+        "_XYNsTvnU7E:s0178"
+      ],
+      "start_s": 612.52,
+      "end_s": 627.6800000000001,
+      "text": "Because if we are from here, then we're the strangest thing this planet has ever produced. A species that burns in its own sunlight, breaks under its own gravity, and can't stop looking at the sky wondering where it really came from.",
+      "n_words": 42,
+      "n_sentences": 2,
+      "pos_pct": 0.9691772151898734
+    },
+    {
+      "window_id": "_XYNsTvnU7E:j0063",
+      "video_id": "_XYNsTvnU7E",
+      "idx": 63,
+      "sent_ids": [
+        "_XYNsTvnU7E:s0179"
+      ],
+      "start_s": 626.16,
+      "end_s": 633.7199999999999,
+      "text": "And if we're not from here, then we've been trying to find our way home for 200,000 years and we don't even know it.",
+      "n_words": 24,
+      "n_sentences": 1,
+      "pos_pct": 0.990759493670886
+    }
+  ]
+}

@@ -1,0 +1,1186 @@
+{
+  "video_id": "9k817syA7SY",
+  "duration_s": 500.0,
+  "generated_at": "2026-09-04T03:00:30.893144+00:00",
+  "sentences": [
+    {
+      "sent_id": "9k817syA7SY:s0000",
+      "video_id": "9k817syA7SY",
+      "idx": 0,
+      "start_s": 0.111,
+      "end_s": 5.298,
+      "text": "A four-year-old sits down for a simple test, one that is supposed to predict how their whole life will turn out.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "9k817syA7SY:s0001",
+      "video_id": "9k817syA7SY",
+      "idx": 1,
+      "start_s": 5.458,
+      "end_s": 7.361,
+      "text": "The test is a single marshmallow.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "9k817syA7SY:s0002",
+      "video_id": "9k817syA7SY",
+      "idx": 2,
+      "start_s": 7.541,
+      "end_s": 13.088,
+      "text": "It became one of the most famous experiments in the history of psychology, but there is something terribly wrong with it.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "9k817syA7SY:s0003",
+      "video_id": "9k817syA7SY",
+      "idx": 3,
+      "start_s": 13.509,
+      "end_s": 16.893,
+      "text": "The child is alone at a table, the marshmallow on a plate in front of them.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "9k817syA7SY:s0004",
+      "video_id": "9k817syA7SY",
+      "idx": 4,
+      "start_s": 17.093,
+      "end_s": 20.475,
+      "text": "A researcher explains the deal in words plain enough for a four-year-old.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "9k817syA7SY:s0005",
+      "video_id": "9k817syA7SY",
+      "idx": 5,
+      "start_s": 20.756,
+      "end_s": 26.259,
+      "text": "You can eat this one now, or you can wait 15 minutes until I come back, and then you get two marshmallows.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "9k817syA7SY:s0006",
+      "video_id": "9k817syA7SY",
+      "idx": 6,
+      "start_s": 26.559,
+      "end_s": 30.842,
+      "text": "Then the adult leaves the room, and the child is left alone with the hardest decision of their tiny life.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "9k817syA7SY:s0007",
+      "video_id": "9k817syA7SY",
+      "idx": 7,
+      "start_s": 31.143,
+      "end_s": 33.044,
+      "text": "Some grab it the second the door clicks shut.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0008",
+      "video_id": "9k817syA7SY",
+      "idx": 8,
+      "start_s": 33.284,
+      "end_s": 39.41,
+      "text": "Some hold out, squirming, covering their eyes, singing to themselves, sitting on their own hands so they can't reach.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "9k817syA7SY:s0009",
+      "video_id": "9k817syA7SY",
+      "idx": 9,
+      "start_s": 39.61,
+      "end_s": 42.653,
+      "text": "For decades, that claim was treated as settled fact.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0010",
+      "video_id": "9k817syA7SY",
+      "idx": 10,
+      "start_s": 42.873,
+      "end_s": 43.974,
+      "text": "Here is how the story went.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "9k817syA7SY:s0011",
+      "video_id": "9k817syA7SY",
+      "idx": 11,
+      "start_s": 44.174,
+      "end_s": 46.036,
+      "text": "The kids who waited grew up to be the winners.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0012",
+      "video_id": "9k817syA7SY",
+      "idx": 12,
+      "start_s": 46.296,
+      "end_s": 49.419,
+      "text": "Higher test scores, better jobs, healthier bodies.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0013",
+      "video_id": "9k817syA7SY",
+      "idx": 13,
+      "start_s": 49.6,
+      "end_s": 51.341,
+      "text": "The kids who grabbed it grew up to struggle.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0014",
+      "video_id": "9k817syA7SY",
+      "idx": 14,
+      "start_s": 51.501,
+      "end_s": 56.186,
+      "text": "And you could supposedly read all of it off a preschooler years before they could read a single sentence.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "9k817syA7SY:s0015",
+      "video_id": "9k817syA7SY",
+      "idx": 15,
+      "start_s": 56.526,
+      "end_s": 60.412,
+      "text": "One test, one marshmallow, a whole life decided at four years old.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "9k817syA7SY:s0016",
+      "video_id": "9k817syA7SY",
+      "idx": 16,
+      "start_s": 60.572,
+      "end_s": 63.897,
+      "text": "There were a thousand talks about it, and a shelf full of parenting books.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "9k817syA7SY:s0017",
+      "video_id": "9k817syA7SY",
+      "idx": 17,
+      "start_s": 64.137,
+      "end_s": 67.762,
+      "text": "It built an entire industry around one word, willpower.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0018",
+      "video_id": "9k817syA7SY",
+      "idx": 18,
+      "start_s": 68.022,
+      "end_s": 71.968,
+      "text": "Except when scientists finally tested that idea properly, it mostly fell apart.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "9k817syA7SY:s0019",
+      "video_id": "9k817syA7SY",
+      "idx": 19,
+      "start_s": 72.188,
+      "end_s": 73.849,
+      "text": "The experiment itself was real.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0020",
+      "video_id": "9k817syA7SY",
+      "idx": 20,
+      "start_s": 74.009,
+      "end_s": 75.45,
+      "text": "That part was never in question.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "9k817syA7SY:s0021",
+      "video_id": "9k817syA7SY",
+      "idx": 21,
+      "start_s": 75.61,
+      "end_s": 81.153,
+      "text": "It started at Stanford University, at a preschool called the Bing Nursery School, in the late 1960s.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "9k817syA7SY:s0022",
+      "video_id": "9k817syA7SY",
+      "idx": 22,
+      "start_s": 81.353,
+      "end_s": 84.455,
+      "text": "The psychologist behind it was a man named Walter Mischel.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0023",
+      "video_id": "9k817syA7SY",
+      "idx": 23,
+      "start_s": 84.655,
+      "end_s": 87.517,
+      "text": "Between 1968 and 1974, more than 600 children sat down in front of that treat.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "9k817syA7SY:s0024",
+      "video_id": "9k817syA7SY",
+      "idx": 24,
+      "start_s": 90.018,
+      "end_s": 92.88,
+      "text": "At first, Mischel was not even trying to predict anyone's future.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "9k817syA7SY:s0025",
+      "video_id": "9k817syA7SY",
+      "idx": 25,
+      "start_s": 93.26,
+      "end_s": 94.561,
+      "text": "He was studying something smaller.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0026",
+      "video_id": "9k817syA7SY",
+      "idx": 26,
+      "start_s": 94.801,
+      "end_s": 97.263,
+      "text": "How children distract themselves to fight temptation.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0027",
+      "video_id": "9k817syA7SY",
+      "idx": 27,
+      "start_s": 97.463,
+      "end_s": 101.226,
+      "text": "The ones who lasted longest weren't powering through on raw willpower.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "9k817syA7SY:s0028",
+      "video_id": "9k817syA7SY",
+      "idx": 28,
+      "start_s": 101.426,
+      "end_s": 105.829,
+      "text": "They were looking away, turning around, telling themselves the marshmallow was just a picture.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "9k817syA7SY:s0029",
+      "video_id": "9k817syA7SY",
+      "idx": 29,
+      "start_s": 105.989,
+      "end_s": 107.35,
+      "text": "The famous part came later.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0030",
+      "video_id": "9k817syA7SY",
+      "idx": 30,
+      "start_s": 107.61,
+      "end_s": 112.574,
+      "text": "Years after the original test, Mischel and two colleagues went looking for the kids who had taken it.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "9k817syA7SY:s0031",
+      "video_id": "9k817syA7SY",
+      "idx": 31,
+      "start_s": 112.694,
+      "end_s": 113.935,
+      "text": "They were teenagers now.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "9k817syA7SY:s0032",
+      "video_id": "9k817syA7SY",
+      "idx": 32,
+      "start_s": 114.135,
+      "end_s": 121.579,
+      "text": "and when the researchers lined up how long each child had waited as a preschooler against how they were doing as adolescents, the numbers were staggering.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "9k817syA7SY:s0033",
+      "video_id": "9k817syA7SY",
+      "idx": 33,
+      "start_s": 121.739,
+      "end_s": 127.462,
+      "text": "The children who had waited the longest scored, on average, about 210 points higher on the SAT.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "9k817syA7SY:s0034",
+      "video_id": "9k817syA7SY",
+      "idx": 34,
+      "start_s": 127.742,
+      "end_s": 133.525,
+      "text": "That is the moment a lab result turned into a legend, because it told a story people desperately wanted to hear.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "9k817syA7SY:s0035",
+      "video_id": "9k817syA7SY",
+      "idx": 35,
+      "start_s": 133.745,
+      "end_s": 137.487,
+      "text": "That success is not about luck, or money, or where you happened to be born.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "9k817syA7SY:s0036",
+      "video_id": "9k817syA7SY",
+      "idx": 36,
+      "start_s": 137.707,
+      "end_s": 144.215,
+      "text": "They will tell you it is about character or grit, the strength to say no to what you want now for something better later.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "9k817syA7SY:s0037",
+      "video_id": "9k817syA7SY",
+      "idx": 37,
+      "start_s": 144.456,
+      "end_s": 145.737,
+      "text": "That is a beautiful idea.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0038",
+      "video_id": "9k817syA7SY",
+      "idx": 38,
+      "start_s": 146.018,
+      "end_s": 148.24,
+      "text": "It puts your whole life back in your own hands.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0039",
+      "video_id": "9k817syA7SY",
+      "idx": 39,
+      "start_s": 148.501,
+      "end_s": 152.486,
+      "text": "And it quietly tells the people who already made it that they earned every bit of it.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "9k817syA7SY:s0040",
+      "video_id": "9k817syA7SY",
+      "idx": 40,
+      "start_s": 152.566,
+      "end_s": 154.929,
+      "text": "So the willpower gospel spread everywhere.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "9k817syA7SY:s0041",
+      "video_id": "9k817syA7SY",
+      "idx": 41,
+      "start_s": 155.249,
+      "end_s": 156.69,
+      "text": "Schools built lessons around it.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0042",
+      "video_id": "9k817syA7SY",
+      "idx": 42,
+      "start_s": 156.811,
+      "end_s": 158.492,
+      "text": "Companies built training around it.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0043",
+      "video_id": "9k817syA7SY",
+      "idx": 43,
+      "start_s": 158.572,
+      "end_s": 162.676,
+      "text": "Parents watched their own kids hover over a cookie and quietly wondered what they were seeing.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "9k817syA7SY:s0044",
+      "video_id": "9k817syA7SY",
+      "idx": 44,
+      "start_s": 162.916,
+      "end_s": 171.365,
+      "text": "Mischel himself wrote a best-selling book about it decades later, and the title said the quiet part out loud, The Marshmallow Test, mastering self-control.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "9k817syA7SY:s0045",
+      "video_id": "9k817syA7SY",
+      "idx": 45,
+      "start_s": 171.505,
+      "end_s": 176.93,
+      "text": "This one skill, it promised, was the engine of a good life, something you could train like a muscle.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "9k817syA7SY:s0046",
+      "video_id": "9k817syA7SY",
+      "idx": 46,
+      "start_s": 177.05,
+      "end_s": 181.152,
+      "text": "There was just one problem, hiding in plain sight inside the original study.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "9k817syA7SY:s0047",
+      "video_id": "9k817syA7SY",
+      "idx": 47,
+      "start_s": 181.312,
+      "end_s": 182.933,
+      "text": "Look at who those children actually were.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0048",
+      "video_id": "9k817syA7SY",
+      "idx": 48,
+      "start_s": 183.273,
+      "end_s": 187.475,
+      "text": "They were the sons and daughters of Stanford professors, graduate students, and staff.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "9k817syA7SY:s0049",
+      "video_id": "9k817syA7SY",
+      "idx": 49,
+      "start_s": 187.675,
+      "end_s": 191.977,
+      "text": "Kids growing up on or around one of the most elite university campuses on Earth.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "9k817syA7SY:s0050",
+      "video_id": "9k817syA7SY",
+      "idx": 50,
+      "start_s": 192.157,
+      "end_s": 197.319,
+      "text": "And the famous follow-up, the one with the SAT scores, tracked down fewer than a hundred of them.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "9k817syA7SY:s0051",
+      "video_id": "9k817syA7SY",
+      "idx": 51,
+      "start_s": 197.579,
+      "end_s": 198.66,
+      "text": "Ninety or so children.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "9k817syA7SY:s0052",
+      "video_id": "9k817syA7SY",
+      "idx": 52,
+      "start_s": 198.76,
+      "end_s": 200.801,
+      "text": "from one of the most comfortable corners of America.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0053",
+      "video_id": "9k817syA7SY",
+      "idx": 53,
+      "start_s": 200.941,
+      "end_s": 204.943,
+      "text": "From that narrow little group, the world decided it had found a law of human nature.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "9k817syA7SY:s0054",
+      "video_id": "9k817syA7SY",
+      "idx": 54,
+      "start_s": 205.143,
+      "end_s": 207.224,
+      "text": "And there is a deeper trap in a sample like that.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "9k817syA7SY:s0055",
+      "video_id": "9k817syA7SY",
+      "idx": 55,
+      "start_s": 207.444,
+      "end_s": 211.366,
+      "text": "You can't measure the effect of a hard childhood in a room where nobody had one.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "9k817syA7SY:s0056",
+      "video_id": "9k817syA7SY",
+      "idx": 56,
+      "start_s": 211.626,
+      "end_s": 215.168,
+      "text": "For almost 30 years, nobody ran it again at real scale.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "9k817syA7SY:s0057",
+      "video_id": "9k817syA7SY",
+      "idx": 57,
+      "start_s": 215.368,
+      "end_s": 218.73,
+      "text": "In 2018, three researchers finally re-ran it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0058",
+      "video_id": "9k817syA7SY",
+      "idx": 58,
+      "start_s": 219.01,
+      "end_s": 222.772,
+      "text": "Their names were Tyler Watts, Greg Duncan, and Haonan Kwan.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0059",
+      "video_id": "9k817syA7SY",
+      "idx": 59,
+      "start_s": 222.932,
+      "end_s": 226.073,
+      "text": "They rebuilt the test, but bigger and fairer.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "9k817syA7SY:s0060",
+      "video_id": "9k817syA7SY",
+      "idx": 60,
+      "start_s": 226.254,
+      "end_s": 235.418,
+      "text": "Instead of 90 children from a single elite preschool, they used a sample of around 900 kids from across the country, spanning different incomes, races, and kinds of homes.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "9k817syA7SY:s0061",
+      "video_id": "9k817syA7SY",
+      "idx": 61,
+      "start_s": 235.598,
+      "end_s": 239.66,
+      "text": "The range the original never had, and they did one more thing that changed everything.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "9k817syA7SY:s0062",
+      "video_id": "9k817syA7SY",
+      "idx": 62,
+      "start_s": 239.8,
+      "end_s": 248.202,
+      "text": "They accounted for the family each child came from, the money the parents had, their level of education, the stability of the home, then they checked whether the magic held up.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "9k817syA7SY:s0063",
+      "video_id": "9k817syA7SY",
+      "idx": 63,
+      "start_s": 248.462,
+      "end_s": 249.342,
+      "text": "It mostly did not.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "9k817syA7SY:s0064",
+      "video_id": "9k817syA7SY",
+      "idx": 64,
+      "start_s": 249.562,
+      "end_s": 254.763,
+      "text": "The link between waiting and later success was still there, but it was about half the size everyone believed.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "9k817syA7SY:s0065",
+      "video_id": "9k817syA7SY",
+      "idx": 65,
+      "start_s": 254.903,
+      "end_s": 259.524,
+      "text": "And once they factored in the child's background, most of what was left simply melted away.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "9k817syA7SY:s0066",
+      "video_id": "9k817syA7SY",
+      "idx": 66,
+      "start_s": 259.744,
+      "end_s": 263.205,
+      "text": "Waiting for the marshmallow, it turned out, barely predicted anything on its own.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "9k817syA7SY:s0067",
+      "video_id": "9k817syA7SY",
+      "idx": 67,
+      "start_s": 263.405,
+      "end_s": 265.765,
+      "text": "What it actually tracked was where the child came from.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0068",
+      "video_id": "9k817syA7SY",
+      "idx": 68,
+      "start_s": 266.025,
+      "end_s": 268.386,
+      "text": "Now, here's the part that flips the whole story.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0069",
+      "video_id": "9k817syA7SY",
+      "idx": 69,
+      "start_s": 268.606,
+      "end_s": 273.447,
+      "text": "For years, everyone saw the kid who grabbed the marshmallow as weak, impulsive, and doomed.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "9k817syA7SY:s0070",
+      "video_id": "9k817syA7SY",
+      "idx": 70,
+      "start_s": 273.567,
+      "end_s": 275.928,
+      "text": "But that child was not failing a test of character.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0071",
+      "video_id": "9k817syA7SY",
+      "idx": 71,
+      "start_s": 276.168,
+      "end_s": 277.869,
+      "text": "That child was being rational.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0072",
+      "video_id": "9k817syA7SY",
+      "idx": 72,
+      "start_s": 278.069,
+      "end_s": 281.17,
+      "text": "Waiting asks you to believe that the second marshmallow is really coming.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "9k817syA7SY:s0073",
+      "video_id": "9k817syA7SY",
+      "idx": 73,
+      "start_s": 281.33,
+      "end_s": 284.371,
+      "text": "To trust that the adult who promised it will come back and keep their word.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "9k817syA7SY:s0074",
+      "video_id": "9k817syA7SY",
+      "idx": 74,
+      "start_s": 284.491,
+      "end_s": 287.071,
+      "text": "And not every child has been given a reason to believe that.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "9k817syA7SY:s0075",
+      "video_id": "9k817syA7SY",
+      "idx": 75,
+      "start_s": 287.272,
+      "end_s": 292.273,
+      "text": "In 2013, researchers at the University of Rochester showed this in the cleanest way imaginable.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "9k817syA7SY:s0076",
+      "video_id": "9k817syA7SY",
+      "idx": 76,
+      "start_s": 292.373,
+      "end_s": 298.896,
+      "text": "Before any marshmallow appeared, they had each child sit down for a small art project with an adult, and that adult made a promise.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "9k817syA7SY:s0077",
+      "video_id": "9k817syA7SY",
+      "idx": 77,
+      "start_s": 299.156,
+      "end_s": 302.557,
+      "text": "Wait a few minutes and I will come back with a brand new set of art supplies.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "9k817syA7SY:s0078",
+      "video_id": "9k817syA7SY",
+      "idx": 78,
+      "start_s": 302.797,
+      "end_s": 309.94,
+      "text": "For half the children, the adult kept that promise and returned with a tray of the good stuff, then made a second promise and kept that one too.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "9k817syA7SY:s0079",
+      "video_id": "9k817syA7SY",
+      "idx": 79,
+      "start_s": 310.08,
+      "end_s": 311.861,
+      "text": "For the other half, the adult lied.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0080",
+      "video_id": "9k817syA7SY",
+      "idx": 80,
+      "start_s": 312.001,
+      "end_s": 314.142,
+      "text": "They walked out and came back with empty hands.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0081",
+      "video_id": "9k817syA7SY",
+      "idx": 81,
+      "start_s": 314.462,
+      "end_s": 315.762,
+      "text": "Sorry, I made a mistake.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0082",
+      "video_id": "9k817syA7SY",
+      "idx": 82,
+      "start_s": 315.942,
+      "end_s": 317.323,
+      "text": "We do not have anything after all.\"",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0083",
+      "video_id": "9k817syA7SY",
+      "idx": 83,
+      "start_s": 317.483,
+      "end_s": 318.623,
+      "text": "Then made a second promise.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0084",
+      "video_id": "9k817syA7SY",
+      "idx": 84,
+      "start_s": 318.823,
+      "end_s": 319.883,
+      "text": "And broke that one too.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0085",
+      "video_id": "9k817syA7SY",
+      "idx": 85,
+      "start_s": 320.064,
+      "end_s": 325.505,
+      "text": "So before the real test even started, every child had already learned whether the grown-up's word was worth anything.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "9k817syA7SY:s0086",
+      "video_id": "9k817syA7SY",
+      "idx": 86,
+      "start_s": 325.745,
+      "end_s": 327.966,
+      "text": "Then, and only then, came the marshmallow.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0087",
+      "video_id": "9k817syA7SY",
+      "idx": 87,
+      "start_s": 328.106,
+      "end_s": 332.107,
+      "text": "The children who had just learned the adult was reliable waited an average of 12 minutes.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "9k817syA7SY:s0088",
+      "video_id": "9k817syA7SY",
+      "idx": 88,
+      "start_s": 332.307,
+      "end_s": 336.168,
+      "text": "The children who had learned the adult could not be trusted waited only about 3 minutes.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "9k817syA7SY:s0089",
+      "video_id": "9k817syA7SY",
+      "idx": 89,
+      "start_s": 336.548,
+      "end_s": 337.388,
+      "text": "Same marshmallow.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "9k817syA7SY:s0090",
+      "video_id": "9k817syA7SY",
+      "idx": 90,
+      "start_s": 337.668,
+      "end_s": 338.248,
+      "text": "Same room.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "9k817syA7SY:s0091",
+      "video_id": "9k817syA7SY",
+      "idx": 91,
+      "start_s": 338.448,
+      "end_s": 339.489,
+      "text": "Children of the same age.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "9k817syA7SY:s0092",
+      "video_id": "9k817syA7SY",
+      "idx": 92,
+      "start_s": 339.669,
+      "end_s": 344.21,
+      "text": "Four times the patience from nothing but one lesson about whether a grown-up keeps their word.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "9k817syA7SY:s0093",
+      "video_id": "9k817syA7SY",
+      "idx": 93,
+      "start_s": 344.35,
+      "end_s": 349.732,
+      "text": "Picture a child who has been told to wait a hundred times and watched the reward quietly turn into nothing.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "9k817syA7SY:s0094",
+      "video_id": "9k817syA7SY",
+      "idx": 94,
+      "start_s": 349.932,
+      "end_s": 352.192,
+      "text": "The toy that was always coming and never came.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0095",
+      "video_id": "9k817syA7SY",
+      "idx": 95,
+      "start_s": 352.332,
+      "end_s": 354.713,
+      "text": "The parent who promised to be there and was not.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0096",
+      "video_id": "9k817syA7SY",
+      "idx": 96,
+      "start_s": 354.973,
+      "end_s": 360.115,
+      "text": "To that child, a stranger offering a second marshmallow is just one more adult who probably will not deliver.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "9k817syA7SY:s0097",
+      "video_id": "9k817syA7SY",
+      "idx": 97,
+      "start_s": 360.335,
+      "end_s": 363.095,
+      "text": "Taking the sure thing is not a crack in their character.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "9k817syA7SY:s0098",
+      "video_id": "9k817syA7SY",
+      "idx": 98,
+      "start_s": 363.336,
+      "end_s": 365.136,
+      "text": "It is the only guaranteed win in the room.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0099",
+      "video_id": "9k817syA7SY",
+      "idx": 99,
+      "start_s": 365.336,
+      "end_s": 368.097,
+      "text": "So think about what that test was really measuring all those years.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "9k817syA7SY:s0100",
+      "video_id": "9k817syA7SY",
+      "idx": 100,
+      "start_s": 368.337,
+      "end_s": 372.243,
+      "text": "It didn't measure the strength inside the child, it only measured the stability around them.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "9k817syA7SY:s0101",
+      "video_id": "9k817syA7SY",
+      "idx": 101,
+      "start_s": 372.443,
+      "end_s": 378.812,
+      "text": "A kid whose parents keep their promises usually has money and time, and a calm house where dinner shows up when it is supposed to.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "9k817syA7SY:s0102",
+      "video_id": "9k817syA7SY",
+      "idx": 102,
+      "start_s": 379.033,
+      "end_s": 383.8,
+      "text": "A kid who grabs early has often lived a life where good things are here now and gone by morning.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "9k817syA7SY:s0103",
+      "video_id": "9k817syA7SY",
+      "idx": 103,
+      "start_s": 384.08,
+      "end_s": 387.003,
+      "text": "One of those children looks patient, the other looks impulsive.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0104",
+      "video_id": "9k817syA7SY",
+      "idx": 104,
+      "start_s": 387.143,
+      "end_s": 391.347,
+      "text": "But the gap between them was mostly written long before either of them sat down at that table.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "9k817syA7SY:s0105",
+      "video_id": "9k817syA7SY",
+      "idx": 105,
+      "start_s": 391.527,
+      "end_s": 393.809,
+      "text": "We took that gap and we called it character.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "9k817syA7SY:s0106",
+      "video_id": "9k817syA7SY",
+      "idx": 106,
+      "start_s": 394.01,
+      "end_s": 397.413,
+      "text": "That is the quiet trick underneath the entire willpower story.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0107",
+      "video_id": "9k817syA7SY",
+      "idx": 107,
+      "start_s": 397.573,
+      "end_s": 401.296,
+      "text": "It lets comfortable people believe their comfort is a prize for being strong.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "9k817syA7SY:s0108",
+      "video_id": "9k817syA7SY",
+      "idx": 108,
+      "start_s": 401.497,
+      "end_s": 407.162,
+      "text": "And it lets us look at someone who is struggling and decide, deep down, that they just didn't want it badly enough.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "9k817syA7SY:s0109",
+      "video_id": "9k817syA7SY",
+      "idx": 109,
+      "start_s": 407.302,
+      "end_s": 411.924,
+      "text": "What we called discipline was often just a childhood where the future felt safe to bet on.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "9k817syA7SY:s0110",
+      "video_id": "9k817syA7SY",
+      "idx": 110,
+      "start_s": 412.024,
+      "end_s": 415.966,
+      "text": "What we called weakness was often just a childhood that never felt safe.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "9k817syA7SY:s0111",
+      "video_id": "9k817syA7SY",
+      "idx": 111,
+      "start_s": 416.146,
+      "end_s": 418.067,
+      "text": "And this does not end when childhood does.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "9k817syA7SY:s0112",
+      "video_id": "9k817syA7SY",
+      "idx": 112,
+      "start_s": 418.307,
+      "end_s": 421.309,
+      "text": "The same logic quietly follows people for the rest of their lives.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "9k817syA7SY:s0113",
+      "video_id": "9k817syA7SY",
+      "idx": 113,
+      "start_s": 421.549,
+      "end_s": 426.531,
+      "text": "When you watch someone spend their last few dollars instead of saving them, it is easy to call it bad discipline.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "9k817syA7SY:s0114",
+      "video_id": "9k817syA7SY",
+      "idx": 114,
+      "start_s": 426.671,
+      "end_s": 437.898,
+      "text": "But, if your world keeps teaching you that savings get wiped out by the next emergency, the next late fee, the next crisis you did nothing to cause, then enjoying that money while you have it is the rational move.",
+      "n_words": 40
+    },
+    {
+      "sent_id": "9k817syA7SY:s0115",
+      "video_id": "9k817syA7SY",
+      "idx": 115,
+      "start_s": 438.098,
+      "end_s": 439.519,
+      "text": "Patience is a bet on the future.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0116",
+      "video_id": "9k817syA7SY",
+      "idx": 116,
+      "start_s": 439.679,
+      "end_s": 443.522,
+      "text": "You only place that bet if someone has handed you a future steady enough to bet on.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "9k817syA7SY:s0117",
+      "video_id": "9k817syA7SY",
+      "idx": 117,
+      "start_s": 443.682,
+      "end_s": 447.745,
+      "text": "Now, to be fair, there is a small, real signal buried in all this.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "9k817syA7SY:s0118",
+      "video_id": "9k817syA7SY",
+      "idx": 118,
+      "start_s": 448.005,
+      "end_s": 449.566,
+      "text": "Self-control is not nothing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "9k817syA7SY:s0119",
+      "video_id": "9k817syA7SY",
+      "idx": 119,
+      "start_s": 449.786,
+      "end_s": 455.651,
+      "text": "A little of that early patience does seem to carry forward, but it is a whisper, not the roar we turned it into.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "9k817syA7SY:s0120",
+      "video_id": "9k817syA7SY",
+      "idx": 120,
+      "start_s": 455.891,
+      "end_s": 458.834,
+      "text": "Mostly, that marshmallow was never a window into the child.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0121",
+      "video_id": "9k817syA7SY",
+      "idx": 121,
+      "start_s": 459.054,
+      "end_s": 461.336,
+      "text": "It was a mirror for the home standing behind them.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0122",
+      "video_id": "9k817syA7SY",
+      "idx": 122,
+      "start_s": 461.556,
+      "end_s": 469.723,
+      "text": "Somewhere in that original experiment is a four-year-old who looked at that marshmallow, decided the promise wasn't worth trusting, and took the sure thing while they still could.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "9k817syA7SY:s0123",
+      "video_id": "9k817syA7SY",
+      "idx": 123,
+      "start_s": 469.923,
+      "end_s": 471.725,
+      "text": "For that, we called them a failure.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "9k817syA7SY:s0124",
+      "video_id": "9k817syA7SY",
+      "idx": 124,
+      "start_s": 471.905,
+      "end_s": 473.847,
+      "text": "The kid who couldn't control themselves.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "9k817syA7SY:s0125",
+      "video_id": "9k817syA7SY",
+      "idx": 125,
+      "start_s": 474.027,
+      "end_s": 477.19,
+      "text": "When all along, they may have been the most honest judge in the room.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "9k817syA7SY:s0126",
+      "video_id": "9k817syA7SY",
+      "idx": 126,
+      "start_s": 477.39,
+      "end_s": 482.395,
+      "text": "They had simply learned, earlier than the rest of us, that the second marshmallow does not always come.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "9k817syA7SY:s0127",
+      "video_id": "9k817syA7SY",
+      "idx": 127,
+      "start_s": 482.555,
+      "end_s": 492.303,
+      "text": "So the next time you watch someone reach for the thing they want right now, and you feel that little flicker of judgment, that easy story about weakness and willpower, maybe try to hold it for a second.",
+      "n_words": 38
+    },
+    {
+      "sent_id": "9k817syA7SY:s0128",
+      "video_id": "9k817syA7SY",
+      "idx": 128,
+      "start_s": 492.463,
+      "end_s": 495.266,
+      "text": "And ask yourself what the world had already taught them about waiting.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "9k817syA7SY:s0129",
+      "video_id": "9k817syA7SY",
+      "idx": 129,
+      "start_s": 495.546,
+      "end_s": 497.288,
+      "text": "Some of us were handed a world we could trust.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "9k817syA7SY:s0130",
+      "video_id": "9k817syA7SY",
+      "idx": 130,
+      "start_s": 497.588,
+      "end_s": 499.77,
+      "text": "The rest of us were handed every reason not to.",
+      "n_words": 10
+    }
+  ]
+}

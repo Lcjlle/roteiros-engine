@@ -1,0 +1,663 @@
+{
+  "video_id": "royoy7-PyTw",
+  "generated_at": "2026-09-04T03:00:43.149593+00:00",
+  "windows": [
+    {
+      "window_id": "royoy7-PyTw:j0000",
+      "video_id": "royoy7-PyTw",
+      "idx": 0,
+      "sent_ids": [
+        "royoy7-PyTw:s0000",
+        "royoy7-PyTw:s0001",
+        "royoy7-PyTw:s0002",
+        "royoy7-PyTw:s0003"
+      ],
+      "start_s": 0.0,
+      "end_s": 9.48,
+      "text": "You lived an entire life before the age of three. You were born. You opened your eyes for the first time. You heard your mother's voice.",
+      "n_words": 26,
+      "n_sentences": 4,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "royoy7-PyTw:j0001",
+      "video_id": "royoy7-PyTw",
+      "idx": 1,
+      "sent_ids": [
+        "royoy7-PyTw:s0004",
+        "royoy7-PyTw:s0005",
+        "royoy7-PyTw:s0006",
+        "royoy7-PyTw:s0007"
+      ],
+      "start_s": 5.56,
+      "end_s": 15.48,
+      "text": "You tasted food. You took your first steps. You said your first word, and you remember none of it. Not a single moment.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.013429951690821255
+    },
+    {
+      "window_id": "royoy7-PyTw:j0002",
+      "video_id": "royoy7-PyTw",
+      "idx": 2,
+      "sent_ids": [
+        "royoy7-PyTw:s0008",
+        "royoy7-PyTw:s0009",
+        "royoy7-PyTw:s0010",
+        "royoy7-PyTw:s0011"
+      ],
+      "start_s": 11.44,
+      "end_s": 23.88,
+      "text": "Most people assume the answer is simple. Your brain wasn't ready yet. You were too young. But, that's not quite right, and the real answer is far stranger than you'd expect.",
+      "n_words": 31,
+      "n_sentences": 4,
+      "pos_pct": 0.02763285024154589
+    },
+    {
+      "window_id": "royoy7-PyTw:j0003",
+      "video_id": "royoy7-PyTw",
+      "idx": 3,
+      "sent_ids": [
+        "royoy7-PyTw:s0012",
+        "royoy7-PyTw:s0013",
+        "royoy7-PyTw:s0014"
+      ],
+      "start_s": 20.16,
+      "end_s": 30.72,
+      "text": "Because your baby brain wasn't failing to record your life. It was recording everything. Your memories were there, but something destroyed them.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.04869565217391304
+    },
+    {
+      "window_id": "royoy7-PyTw:j0004",
+      "video_id": "royoy7-PyTw",
+      "idx": 4,
+      "sent_ids": [
+        "royoy7-PyTw:s0015",
+        "royoy7-PyTw:s0016",
+        "royoy7-PyTw:s0017",
+        "royoy7-PyTw:s0018"
+      ],
+      "start_s": 25.8,
+      "end_s": 42.120000000000005,
+      "text": "In 1905, Sigmund Freud became the first person to put a name to this phenomenon. He called it infantile amnesia. Babies can form memories. We know this for a fact.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.06231884057971015
+    },
+    {
+      "window_id": "royoy7-PyTw:j0005",
+      "video_id": "royoy7-PyTw",
+      "idx": 5,
+      "sent_ids": [
+        "royoy7-PyTw:s0019",
+        "royoy7-PyTw:s0020"
+      ],
+      "start_s": 36.88,
+      "end_s": 49.48,
+      "text": "In the 1980s, psychologist Carolyn Rovee-Collier at Rutgers University ran an elegant experiment. She tied a ribbon from a baby's ankle to a mobile hanging above their crib.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.08908212560386473
+    },
+    {
+      "window_id": "royoy7-PyTw:j0006",
+      "video_id": "royoy7-PyTw",
+      "idx": 6,
+      "sent_ids": [
+        "royoy7-PyTw:s0021",
+        "royoy7-PyTw:s0022",
+        "royoy7-PyTw:s0023"
+      ],
+      "start_s": 46.4,
+      "end_s": 58.36,
+      "text": "The babies quickly learned that kicking made the mobile move, and they loved it. When she brought the same babies back days later, they remembered. They started kicking immediately.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.11207729468599033
+    },
+    {
+      "window_id": "royoy7-PyTw:j0007",
+      "video_id": "royoy7-PyTw",
+      "idx": 7,
+      "sent_ids": [
+        "royoy7-PyTw:s0024",
+        "royoy7-PyTw:s0025",
+        "royoy7-PyTw:s0026",
+        "royoy7-PyTw:s0027"
+      ],
+      "start_s": 54.68,
+      "end_s": 66.96000000000001,
+      "text": "Even 2-month-olds could hold that memory for a couple of days. 6-month-olds remembered for weeks. So, infant brains can learn. They can store information.",
+      "n_words": 24,
+      "n_sentences": 4,
+      "pos_pct": 0.13207729468599033
+    },
+    {
+      "window_id": "royoy7-PyTw:j0008",
+      "video_id": "royoy7-PyTw",
+      "idx": 8,
+      "sent_ids": [
+        "royoy7-PyTw:s0028",
+        "royoy7-PyTw:s0029",
+        "royoy7-PyTw:s0030",
+        "royoy7-PyTw:s0031"
+      ],
+      "start_s": 62.56,
+      "end_s": 72.88,
+      "text": "They can recall it. But, those memories don't last. By adulthood, every trace is gone. And for decades, scientists couldn't fully explain why.",
+      "n_words": 23,
+      "n_sentences": 4,
+      "pos_pct": 0.1511111111111111
+    },
+    {
+      "window_id": "royoy7-PyTw:j0009",
+      "video_id": "royoy7-PyTw",
+      "idx": 9,
+      "sent_ids": [
+        "royoy7-PyTw:s0032",
+        "royoy7-PyTw:s0033"
+      ],
+      "start_s": 71.6,
+      "end_s": 80.32,
+      "text": "The first part of the answer is structural. The hippocampus, a small curved structure deep in your brain, is the engine of memory formation.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.17294685990338163
+    },
+    {
+      "window_id": "royoy7-PyTw:j0010",
+      "video_id": "royoy7-PyTw",
+      "idx": 10,
+      "sent_ids": [
+        "royoy7-PyTw:s0034",
+        "royoy7-PyTw:s0035"
+      ],
+      "start_s": 77.16,
+      "end_s": 97.16,
+      "text": "It's what allows you to take a lived experience, a birthday, a conversation, a walk in the rain, and encode it as an episode you can later replay in your mind. In adults, the hippocampus works with the prefrontal cortex to tag, store, and retrieve these episodes.",
+      "n_words": 47,
+      "n_sentences": 2,
+      "pos_pct": 0.18637681159420288
+    },
+    {
+      "window_id": "royoy7-PyTw:j0011",
+      "video_id": "royoy7-PyTw",
+      "idx": 11,
+      "sent_ids": [
+        "royoy7-PyTw:s0036",
+        "royoy7-PyTw:s0037"
+      ],
+      "start_s": 92.0,
+      "end_s": 105.28,
+      "text": "But, in infants, this system is severely underdeveloped. The connections between the hippocampus and the cortex are still being built.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.2222222222222222
+    },
+    {
+      "window_id": "royoy7-PyTw:j0012",
+      "video_id": "royoy7-PyTw",
+      "idx": 12,
+      "sent_ids": [
+        "royoy7-PyTw:s0038",
+        "royoy7-PyTw:s0039"
+      ],
+      "start_s": 101.08,
+      "end_s": 115.64,
+      "text": "Key regions like the dentate gyrus, which acts as a gateway for new memories, aren't fully wired until somewhere between ages 2 and 4. So, your infant brain could form short-term memories.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.24415458937198067
+    },
+    {
+      "window_id": "royoy7-PyTw:j0013",
+      "video_id": "royoy7-PyTw",
+      "idx": 13,
+      "sent_ids": [
+        "royoy7-PyTw:s0040",
+        "royoy7-PyTw:s0041",
+        "royoy7-PyTw:s0042"
+      ],
+      "start_s": 111.36,
+      "end_s": 124.56,
+      "text": "It just couldn't move them into long-term storage the way an adult brain does. But, that's only half the story. And honestly, what comes next is even stranger.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.2689855072463768
+    },
+    {
+      "window_id": "royoy7-PyTw:j0014",
+      "video_id": "royoy7-PyTw",
+      "idx": 14,
+      "sent_ids": [
+        "royoy7-PyTw:s0043",
+        "royoy7-PyTw:s0044"
+      ],
+      "start_s": 119.68,
+      "end_s": 136.6,
+      "text": "Because in 2014, two neuroscientists in Toronto discovered something that changed how we think about infant memory entirely. Sheena Josselyn and Paul Frankland at the Hospital for Sick Children had a hypothesis that sounded almost absurd.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.28908212560386476
+    },
+    {
+      "window_id": "royoy7-PyTw:j0015",
+      "video_id": "royoy7-PyTw",
+      "idx": 15,
+      "sent_ids": [
+        "royoy7-PyTw:s0045",
+        "royoy7-PyTw:s0046",
+        "royoy7-PyTw:s0047"
+      ],
+      "start_s": 134.68,
+      "end_s": 149.28,
+      "text": "What if the very process that builds your brain is also what destroys your memories? Here's what they meant. In the first years of life, your hippocampus is producing new neurons at an extraordinary rate.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.32531400966183577
+    },
+    {
+      "window_id": "royoy7-PyTw:j0016",
+      "video_id": "royoy7-PyTw",
+      "idx": 16,
+      "sent_ids": [
+        "royoy7-PyTw:s0048",
+        "royoy7-PyTw:s0049",
+        "royoy7-PyTw:s0050"
+      ],
+      "start_s": 144.92,
+      "end_s": 158.68,
+      "text": "This is called neurogenesis, and it's essential. Those new brain cells are what wire up the circuits you'll use for the rest of your life. But, Josselyn and Frankland suspected there was a cost.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.3500483091787439
+    },
+    {
+      "window_id": "royoy7-PyTw:j0017",
+      "video_id": "royoy7-PyTw",
+      "idx": 17,
+      "sent_ids": [
+        "royoy7-PyTw:s0051",
+        "royoy7-PyTw:s0052",
+        "royoy7-PyTw:s0053"
+      ],
+      "start_s": 154.52,
+      "end_s": 168.24,
+      "text": "Every time a new neuron integrates into an existing circuit, it disrupts the connections that were already there. The connections that were holding your memories. To test this, they ran experiments on mice.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.37323671497584543
+    },
+    {
+      "window_id": "royoy7-PyTw:j0018",
+      "video_id": "royoy7-PyTw",
+      "idx": 18,
+      "sent_ids": [
+        "royoy7-PyTw:s0054",
+        "royoy7-PyTw:s0055"
+      ],
+      "start_s": 164.28,
+      "end_s": 180.88,
+      "text": "When they artificially increased neurogenesis in adult mice, those mice started forgetting things they had previously learned. And when they slowed neurogenesis in infant mice, those infant mice held onto their memories longer than normal.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.3968115942028986
+    },
+    {
+      "window_id": "royoy7-PyTw:j0019",
+      "video_id": "royoy7-PyTw",
+      "idx": 19,
+      "sent_ids": [
+        "royoy7-PyTw:s0056",
+        "royoy7-PyTw:s0057",
+        "royoy7-PyTw:s0058"
+      ],
+      "start_s": 177.6,
+      "end_s": 190.76,
+      "text": "The results, published in the journal Science, pointed to a deeply counterintuitive conclusion. Your baby brain wasn't too weak to hold memories. It was too busy growing.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.4289855072463768
+    },
+    {
+      "window_id": "royoy7-PyTw:j0020",
+      "video_id": "royoy7-PyTw",
+      "idx": 20,
+      "sent_ids": [
+        "royoy7-PyTw:s0059",
+        "royoy7-PyTw:s0060"
+      ],
+      "start_s": 187.28,
+      "end_s": 198.4,
+      "text": "The same explosion of new neurons that built your brain also overwrote the memories stored inside it. Your earliest experiences weren't lost because they were never saved.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.4523671497584541
+    },
+    {
+      "window_id": "royoy7-PyTw:j0021",
+      "video_id": "royoy7-PyTw",
+      "idx": 21,
+      "sent_ids": [
+        "royoy7-PyTw:s0061",
+        "royoy7-PyTw:s0062"
+      ],
+      "start_s": 195.08,
+      "end_s": 208.64,
+      "text": "They were lost because your brain kept building new rooms and tearing down the old walls in the process. But, there's another layer to this, and it might be the strangest part of all.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.47120772946859907
+    },
+    {
+      "window_id": "royoy7-PyTw:j0022",
+      "video_id": "royoy7-PyTw",
+      "idx": 22,
+      "sent_ids": [
+        "royoy7-PyTw:s0063",
+        "royoy7-PyTw:s0064"
+      ],
+      "start_s": 203.88,
+      "end_s": 219.4,
+      "text": "To form what scientists call autobiographical memory, the kind of memory where you are the main character of an experience you can replay in your mind, you need something most people take for granted. You need a sense of self.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.492463768115942
+    },
+    {
+      "window_id": "royoy7-PyTw:j0023",
+      "video_id": "royoy7-PyTw",
+      "idx": 23,
+      "sent_ids": [
+        "royoy7-PyTw:s0065",
+        "royoy7-PyTw:s0066"
+      ],
+      "start_s": 215.44,
+      "end_s": 225.48,
+      "text": "You need to understand that you exist as a person, separate from the world around you. That things are happening to you.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.5203864734299517
+    },
+    {
+      "window_id": "royoy7-PyTw:j0024",
+      "video_id": "royoy7-PyTw",
+      "idx": 24,
+      "sent_ids": [
+        "royoy7-PyTw:s0067",
+        "royoy7-PyTw:s0068"
+      ],
+      "start_s": 221.44,
+      "end_s": 238.2,
+      "text": "Developmental psychologists Mark Howe and Mary Courage argued in the late 1990s that this is a critical missing piece. Before roughly 18 to 24 months of age, infants don't recognize themselves as distinct individuals.",
+      "n_words": 34,
+      "n_sentences": 2,
+      "pos_pct": 0.5348792270531401
+    },
+    {
+      "window_id": "royoy7-PyTw:j0025",
+      "video_id": "royoy7-PyTw",
+      "idx": 25,
+      "sent_ids": [
+        "royoy7-PyTw:s0069",
+        "royoy7-PyTw:s0070",
+        "royoy7-PyTw:s0071"
+      ],
+      "start_s": 234.44,
+      "end_s": 246.0,
+      "text": "The classic test for this is simple. Put a dot of rouge on a baby's nose and place them in front of a mirror. Before 18 months, babies treat the reflection like another child.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.566280193236715
+    },
+    {
+      "window_id": "royoy7-PyTw:j0026",
+      "video_id": "royoy7-PyTw",
+      "idx": 26,
+      "sent_ids": [
+        "royoy7-PyTw:s0072",
+        "royoy7-PyTw:s0073",
+        "royoy7-PyTw:s0074"
+      ],
+      "start_s": 242.56,
+      "end_s": 254.48000000000002,
+      "text": "They don't reach for the mark on their own face. After 18 months, they do. They recognize that the person in the mirror is them.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.5858937198067633
+    },
+    {
+      "window_id": "royoy7-PyTw:j0027",
+      "video_id": "royoy7-PyTw",
+      "idx": 27,
+      "sent_ids": [
+        "royoy7-PyTw:s0075",
+        "royoy7-PyTw:s0076"
+      ],
+      "start_s": 250.08,
+      "end_s": 265.96000000000004,
+      "text": "And that moment, the birth of self-recognition, closely tracks with the earliest age at which autobiographical memories can form. In other words, you can't remember being a baby partly because there was no you yet.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.6040579710144928
+    },
+    {
+      "window_id": "royoy7-PyTw:j0028",
+      "video_id": "royoy7-PyTw",
+      "idx": 28,
+      "sent_ids": [
+        "royoy7-PyTw:s0077",
+        "royoy7-PyTw:s0078"
+      ],
+      "start_s": 262.36,
+      "end_s": 274.56,
+      "text": "Not in the way that you experience yourself now. There was no narrator inside your head packaging experiences into a story that belonged to a person called you, which raises an uncomfortable question.",
+      "n_words": 33,
+      "n_sentences": 2,
+      "pos_pct": 0.6337198067632851
+    },
+    {
+      "window_id": "royoy7-PyTw:j0029",
+      "video_id": "royoy7-PyTw",
+      "idx": 29,
+      "sent_ids": [
+        "royoy7-PyTw:s0079",
+        "royoy7-PyTw:s0080"
+      ],
+      "start_s": 270.96,
+      "end_s": 286.16,
+      "text": "If you had no continuous sense of self, and the brain that held your earliest experiences physically rewired itself beyond recognition, is the baby in your old photos actually you? Or is it someone else entirely?",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.6544927536231884
+    },
+    {
+      "window_id": "royoy7-PyTw:j0030",
+      "video_id": "royoy7-PyTw",
+      "idx": 30,
+      "sent_ids": [
+        "royoy7-PyTw:s0081",
+        "royoy7-PyTw:s0082"
+      ],
+      "start_s": 284.44,
+      "end_s": 295.8,
+      "text": "Someone who lived in the same body, but whose mind was literally disassembled and rebuilt, neuron by neuron, into the person you became? There's one more piece, language.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.6870531400966183
+    },
+    {
+      "window_id": "royoy7-PyTw:j0031",
+      "video_id": "royoy7-PyTw",
+      "idx": 31,
+      "sent_ids": [
+        "royoy7-PyTw:s0083",
+        "royoy7-PyTw:s0084",
+        "royoy7-PyTw:s0085"
+      ],
+      "start_s": 294.04,
+      "end_s": 305.03999999999996,
+      "text": "Developmental psychologist Catherine Nelson spent years studying how children form lasting memories. Her conclusion was that language doesn't just describe our memories. It structures them.",
+      "n_words": 25,
+      "n_sentences": 3,
+      "pos_pct": 0.7102415458937199
+    },
+    {
+      "window_id": "royoy7-PyTw:j0032",
+      "video_id": "royoy7-PyTw",
+      "idx": 32,
+      "sent_ids": [
+        "royoy7-PyTw:s0086",
+        "royoy7-PyTw:s0087",
+        "royoy7-PyTw:s0088"
+      ],
+      "start_s": 301.4,
+      "end_s": 318.92,
+      "text": "Before you could speak, your experiences were encoded as raw sensory impressions. Sounds, textures, emotions, light. But, without words to organize them, those impressions had no framework to attach to.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.7280193236714976
+    },
+    {
+      "window_id": "royoy7-PyTw:j0033",
+      "video_id": "royoy7-PyTw",
+      "idx": 33,
+      "sent_ids": [
+        "royoy7-PyTw:s0089",
+        "royoy7-PyTw:s0090"
+      ],
+      "start_s": 315.24,
+      "end_s": 331.08,
+      "text": "Once children begin speaking, and especially once they begin having conversations with adults about past events, \"Remember when we went to the park?\" their ability to form lasting memories improves dramatically. Language gives memory a skeleton.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.7614492753623189
+    },
+    {
+      "window_id": "royoy7-PyTw:j0034",
+      "video_id": "royoy7-PyTw",
+      "idx": 34,
+      "sent_ids": [
+        "royoy7-PyTw:s0091",
+        "royoy7-PyTw:s0092",
+        "royoy7-PyTw:s0093"
+      ],
+      "start_s": 327.12,
+      "end_s": 339.88,
+      "text": "Without it, experiences are like water with no container. They exist in the moment, then they're gone. And this isn't just theory.",
+      "n_words": 22,
+      "n_sentences": 3,
+      "pos_pct": 0.7901449275362319
+    },
+    {
+      "window_id": "royoy7-PyTw:j0035",
+      "video_id": "royoy7-PyTw",
+      "idx": 35,
+      "sent_ids": [
+        "royoy7-PyTw:s0094",
+        "royoy7-PyTw:s0095"
+      ],
+      "start_s": 335.76,
+      "end_s": 355.64,
+      "text": "Psychologist Qi Wang at Cornell found that the age of your earliest memory actually varies depending on your culture. In Western cultures, where parents frequently narrate their children's experiences, asking questions, telling stories, building personal narratives, earliest memories tend to start around age 3 and 1/2.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.8110144927536231
+    },
+    {
+      "window_id": "royoy7-PyTw:j0036",
+      "video_id": "royoy7-PyTw",
+      "idx": 36,
+      "sent_ids": [
+        "royoy7-PyTw:s0096",
+        "royoy7-PyTw:s0097"
+      ],
+      "start_s": 353.64,
+      "end_s": 374.84,
+      "text": "Among the Maori of New Zealand, whose oral tradition places extraordinary emphasis on personal history and storytelling, average first memories reach all the way back to age 2 and 1/2. In some East Asian cultures, where early childhood narratives focus less on the individual, first memories tend to start closer to age 4 or later.",
+      "n_words": 55,
+      "n_sentences": 2,
+      "pos_pct": 0.8542028985507246
+    },
+    {
+      "window_id": "royoy7-PyTw:j0037",
+      "video_id": "royoy7-PyTw",
+      "idx": 37,
+      "sent_ids": [
+        "royoy7-PyTw:s0098",
+        "royoy7-PyTw:s0099",
+        "royoy7-PyTw:s0100"
+      ],
+      "start_s": 370.32,
+      "end_s": 384.56,
+      "text": "The culture you grow up in literally shapes how far back your memory reaches. So, here's what actually happened to your earliest years. Your hippocampus wasn't ready to build long-term memories.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.8944927536231884
+    },
+    {
+      "window_id": "royoy7-PyTw:j0038",
+      "video_id": "royoy7-PyTw",
+      "idx": 38,
+      "sent_ids": [
+        "royoy7-PyTw:s0101",
+        "royoy7-PyTw:s0102"
+      ],
+      "start_s": 380.32,
+      "end_s": 391.84,
+      "text": "And even when it started to, the flood of new neurons tore through the circuits that held them. You had no concept of self to anchor experiences to.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.918647342995169
+    },
+    {
+      "window_id": "royoy7-PyTw:j0039",
+      "video_id": "royoy7-PyTw",
+      "idx": 39,
+      "sent_ids": [
+        "royoy7-PyTw:s0103",
+        "royoy7-PyTw:s0104",
+        "royoy7-PyTw:s0105",
+        "royoy7-PyTw:s0106"
+      ],
+      "start_s": 388.28,
+      "end_s": 400.88,
+      "text": "And you had no language to give those experiences a structure that could survive. It wasn't one thing. It was everything all at once. Every human being who has ever lived went through this.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.9378743961352657
+    },
+    {
+      "window_id": "royoy7-PyTw:j0040",
+      "video_id": "royoy7-PyTw",
+      "idx": 40,
+      "sent_ids": [
+        "royoy7-PyTw:s0107",
+        "royoy7-PyTw:s0108"
+      ],
+      "start_s": 397.32,
+      "end_s": 407.28000000000003,
+      "text": "Every person you've ever met has a black hole where the first years of their life should be. And the answer to why isn't that your brain was too simple.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.9597101449275363
+    },
+    {
+      "window_id": "royoy7-PyTw:j0041",
+      "video_id": "royoy7-PyTw",
+      "idx": 41,
+      "sent_ids": [
+        "royoy7-PyTw:s0109",
+        "royoy7-PyTw:s0110"
+      ],
+      "start_s": 404.04,
+      "end_s": 415.6,
+      "text": "It's that your brain was doing something far more important than remembering. It was becoming you, and that required, quite literally, destroying the person who came before.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.9759420289855073
+    }
+  ]
+}
