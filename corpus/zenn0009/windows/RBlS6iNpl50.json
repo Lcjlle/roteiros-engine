@@ -1,0 +1,760 @@
+{
+  "video_id": "RBlS6iNpl50",
+  "generated_at": "2026-09-04T03:00:43.131713+00:00",
+  "windows": [
+    {
+      "window_id": "RBlS6iNpl50:j0000",
+      "video_id": "RBlS6iNpl50",
+      "idx": 0,
+      "sent_ids": [
+        "RBlS6iNpl50:s0000",
+        "RBlS6iNpl50:s0001",
+        "RBlS6iNpl50:s0002",
+        "RBlS6iNpl50:s0003"
+      ],
+      "start_s": 0.0,
+      "end_s": 13.52,
+      "text": "Nature has built almost everything you can imagine. Animals that can survive being frozen, boiled, and thrown into outer space. Fish that generate their own electricity. Lizards that literally shoot blood out of their eyes.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0001",
+      "video_id": "RBlS6iNpl50",
+      "idx": 1,
+      "sent_ids": [
+        "RBlS6iNpl50:s0004",
+        "RBlS6iNpl50:s0005",
+        "RBlS6iNpl50:s0006",
+        "RBlS6iNpl50:s0007"
+      ],
+      "start_s": 9.52,
+      "end_s": 23.96,
+      "text": "Jellyfish that technically never have to die. And octopuses that taste everything they touch with their arms. But there is one creature nature simply refused to build. So humans invented it anyway.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.01859375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0002",
+      "video_id": "RBlS6iNpl50",
+      "idx": 2,
+      "sent_ids": [
+        "RBlS6iNpl50:s0008",
+        "RBlS6iNpl50:s0009",
+        "RBlS6iNpl50:s0010",
+        "RBlS6iNpl50:s0011"
+      ],
+      "start_s": 19.76,
+      "end_s": 34.48,
+      "text": "We call it a dragon. When you picture a dragon, you probably see the western version. A giant winged reptile breathing fire. But look at the monsters dreamed up that never touched each other.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.03859375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0003",
+      "video_id": "RBlS6iNpl50",
+      "idx": 3,
+      "sent_ids": [
+        "RBlS6iNpl50:s0012",
+        "RBlS6iNpl50:s0013",
+        "RBlS6iNpl50:s0014",
+        "RBlS6iNpl50:s0015"
+      ],
+      "start_s": 30.68,
+      "end_s": 44.08,
+      "text": "A serpent dragon winding through ancient China. A feathered snake god in the Americas. A rainbow serpent in Australia. A fire-breathing lizard in medieval Europe.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.059921875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0004",
+      "video_id": "RBlS6iNpl50",
+      "idx": 4,
+      "sent_ids": [
+        "RBlS6iNpl50:s0016",
+        "RBlS6iNpl50:s0017",
+        "RBlS6iNpl50:s0018",
+        "RBlS6iNpl50:s0019"
+      ],
+      "start_s": 40.04,
+      "end_s": 52.04,
+      "text": "The details shift from place to place. Underneath though, people kept reaching for the same handful of parts. The scales and bulk of a giant reptile. The coiling body of a snake.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.078203125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0005",
+      "video_id": "RBlS6iNpl50",
+      "idx": 5,
+      "sent_ids": [
+        "RBlS6iNpl50:s0020",
+        "RBlS6iNpl50:s0021",
+        "RBlS6iNpl50:s0022"
+      ],
+      "start_s": 48.4,
+      "end_s": 62.760000000000005,
+      "text": "And the raw menace of a great predator. The same monster invented from scratch on continent after continent. Evolution had 4 billion years and a whole planet to work with.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.09453125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0006",
+      "video_id": "RBlS6iNpl50",
+      "idx": 6,
+      "sent_ids": [
+        "RBlS6iNpl50:s0023",
+        "RBlS6iNpl50:s0024",
+        "RBlS6iNpl50:s0025",
+        "RBlS6iNpl50:s0026"
+      ],
+      "start_s": 59.2,
+      "end_s": 70.52,
+      "text": "It came close to a dragon more than once. So why did it never happen? And stranger still, why did humans invent it anyway? That answer isn't about the animals at all.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.115625
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0007",
+      "video_id": "RBlS6iNpl50",
+      "idx": 7,
+      "sent_ids": [
+        "RBlS6iNpl50:s0027",
+        "RBlS6iNpl50:s0028",
+        "RBlS6iNpl50:s0029",
+        "RBlS6iNpl50:s0030"
+      ],
+      "start_s": 66.72,
+      "end_s": 80.44,
+      "text": "It's about you. Start with the fire because that's the part that sounds the most impossible. And weirdly, it's the part nature got closest to. There's an insect called the bombardier beetle.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.1303125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0008",
+      "video_id": "RBlS6iNpl50",
+      "idx": 8,
+      "sent_ids": [
+        "RBlS6iNpl50:s0031",
+        "RBlS6iNpl50:s0032"
+      ],
+      "start_s": 76.72,
+      "end_s": 99.96000000000001,
+      "text": "When something threatens it, it mixes two chemicals, hydrogen peroxide and a compound called hydroquinone, inside a tiny armored chamber in its abdomen. The reaction is so violent, it heats the liquid to nearly 212° Fahrenheit, the temperature of boiling water, and blasts it out the back with a sound like a pop gun.",
+      "n_words": 54,
+      "n_sentences": 2,
+      "pos_pct": 0.14984375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0009",
+      "video_id": "RBlS6iNpl50",
+      "idx": 9,
+      "sent_ids": [
+        "RBlS6iNpl50:s0033",
+        "RBlS6iNpl50:s0034"
+      ],
+      "start_s": 96.12,
+      "end_s": 109.47999999999999,
+      "text": "It can swivel the tip of its abdomen to aim and fire that spray around 20 times in a row at whatever's trying to eat it. That is the closest thing to a flamethrower in the entire animal kingdom.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.187734375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0010",
+      "video_id": "RBlS6iNpl50",
+      "idx": 10,
+      "sent_ids": [
+        "RBlS6iNpl50:s0035",
+        "RBlS6iNpl50:s0036",
+        "RBlS6iNpl50:s0037"
+      ],
+      "start_s": 105.24,
+      "end_s": 115.60000000000001,
+      "text": "And it still isn't fire. It's boiling spray, not a flame. In fact, no animal we know of ever evolved a way to set something on fire.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.205546875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0011",
+      "video_id": "RBlS6iNpl50",
+      "idx": 11,
+      "sent_ids": [
+        "RBlS6iNpl50:s0038",
+        "RBlS6iNpl50:s0039",
+        "RBlS6iNpl50:s0040"
+      ],
+      "start_s": 113.48,
+      "end_s": 127.479,
+      "text": "So already the single most famous dragon feature is the one nature flatly refused to sign off on. Now, the body. We actually have an animal we named after the myth itself, the Komodo dragon.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.221640625
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0012",
+      "video_id": "RBlS6iNpl50",
+      "idx": 12,
+      "sent_ids": [
+        "RBlS6iNpl50:s0041",
+        "RBlS6iNpl50:s0042"
+      ],
+      "start_s": 122.0,
+      "end_s": 139.88,
+      "text": "It's the largest lizard alive today, about 10 ft long, the length of a small car with a venomous bite that can take down prey far bigger than itself. But, the Komodo is a leftover.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.23828125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0013",
+      "video_id": "RBlS6iNpl50",
+      "idx": 13,
+      "sent_ids": [
+        "RBlS6iNpl50:s0043",
+        "RBlS6iNpl50:s0044",
+        "RBlS6iNpl50:s0045"
+      ],
+      "start_s": 134.56,
+      "end_s": 149.64,
+      "text": "Its ancestors were much worse. Until around 50,000 years ago, Australia was home to a monitor lizard called Megalania. It could reach anywhere from 18 ft to even 23 ft long.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.2628125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0014",
+      "video_id": "RBlS6iNpl50",
+      "idx": 14,
+      "sent_ids": [
+        "RBlS6iNpl50:s0046",
+        "RBlS6iNpl50:s0047"
+      ],
+      "start_s": 147.44,
+      "end_s": 159.88,
+      "text": "A venomous reptile longer than a car, and the first humans who reached Australia very likely shared the land with it. That's not a dragon, but it's a real reptile big enough to pass for one.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.28796875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0015",
+      "video_id": "RBlS6iNpl50",
+      "idx": 15,
+      "sent_ids": [
+        "RBlS6iNpl50:s0048",
+        "RBlS6iNpl50:s0049",
+        "RBlS6iNpl50:s0050",
+        "RBlS6iNpl50:s0051"
+      ],
+      "start_s": 157.8,
+      "end_s": 169.959,
+      "text": "Then, there's flight. And there is a lizard alive right now that flies, sort of. It's called Draco, and it lives in the forests of Southeast Asia. Those wings didn't come from nowhere.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.308203125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0016",
+      "video_id": "RBlS6iNpl50",
+      "idx": 16,
+      "sent_ids": [
+        "RBlS6iNpl50:s0052",
+        "RBlS6iNpl50:s0053"
+      ],
+      "start_s": 166.12,
+      "end_s": 183.44,
+      "text": "It took the ribs inside its own chest, stretched them way out to the sides, and pulled a flap of skin across them like a folding fan. It leaps off a tree, those ribs open, and glides as far as 200 ft to the next trunk.",
+      "n_words": 46,
+      "n_sentences": 2,
+      "pos_pct": 0.324453125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0017",
+      "video_id": "RBlS6iNpl50",
+      "idx": 17,
+      "sent_ids": [
+        "RBlS6iNpl50:s0054",
+        "RBlS6iNpl50:s0055",
+        "RBlS6iNpl50:s0056"
+      ],
+      "start_s": 179.4,
+      "end_s": 189.48000000000002,
+      "text": "That's 2/3 of a football field. Draco didn't grow new limbs. It just built a wing out of the bones it already had.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.350390625
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0018",
+      "video_id": "RBlS6iNpl50",
+      "idx": 18,
+      "sent_ids": [
+        "RBlS6iNpl50:s0057"
+      ],
+      "start_s": 185.36,
+      "end_s": 210.67999999999998,
+      "text": "In the last days of the dinosaurs, around 68 million years ago, the sky belonged to Quetzalcoatlus, a flying reptile with a 36-ft wingspan, as tall as a giraffe when it folded up and stood on the ground, weighing somewhere near 550 lb, a living creature the size of a small plane that got into the air by vaulting off its own arms like a pole vaulter, and then actually flew.",
+      "n_words": 71,
+      "n_sentences": 1,
+      "pos_pct": 0.36203125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0019",
+      "video_id": "RBlS6iNpl50",
+      "idx": 19,
+      "sent_ids": [
+        "RBlS6iNpl50:s0058",
+        "RBlS6iNpl50:s0059",
+        "RBlS6iNpl50:s0060"
+      ],
+      "start_s": 206.2,
+      "end_s": 222.48,
+      "text": "Yes, a giraffe-sized reptile really did pole vault into the sky. So, every piece of a dragon already exists, or used to exist. Nature just never let one animal have them all at once.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.402734375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0020",
+      "video_id": "RBlS6iNpl50",
+      "idx": 20,
+      "sent_ids": [
+        "RBlS6iNpl50:s0061",
+        "RBlS6iNpl50:s0062",
+        "RBlS6iNpl50:s0063",
+        "RBlS6iNpl50:s0064"
+      ],
+      "start_s": 218.56,
+      "end_s": 232.4,
+      "text": "And that isn't bad luck. There are hard reasons. The first one is hiding in plain sight, right there on the Welsh flag. A classic Western dragon has four legs and two wings.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.426875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0021",
+      "video_id": "RBlS6iNpl50",
+      "idx": 21,
+      "sent_ids": [
+        "RBlS6iNpl50:s0065",
+        "RBlS6iNpl50:s0066"
+      ],
+      "start_s": 228.08,
+      "end_s": 243.76,
+      "text": "Add those up, and you get six limbs. Every animal with a backbone, you, a bird, a snake, a whale, a Tyrannosaurus, traces back to the same four-limbed fish that first crawled out of the water.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.44546875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0022",
+      "video_id": "RBlS6iNpl50",
+      "idx": 22,
+      "sent_ids": [
+        "RBlS6iNpl50:s0067",
+        "RBlS6iNpl50:s0068",
+        "RBlS6iNpl50:s0069",
+        "RBlS6iNpl50:s0070"
+      ],
+      "start_s": 239.76,
+      "end_s": 250.36,
+      "text": "Four limbs. That's the starting kit. And nobody since has ever been handed a spare pair. When a bird flies, it isn't using extra arms.",
+      "n_words": 25,
+      "n_sentences": 4,
+      "pos_pct": 0.46828125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0023",
+      "video_id": "RBlS6iNpl50",
+      "idx": 23,
+      "sent_ids": [
+        "RBlS6iNpl50:s0071",
+        "RBlS6iNpl50:s0072",
+        "RBlS6iNpl50:s0073",
+        "RBlS6iNpl50:s0074"
+      ],
+      "start_s": 245.56,
+      "end_s": 262.15999999999997,
+      "text": "Its wings are its arms. Bats did the same thing. So did those giant pterosaurs. To grow wings, a backbone animal has to give up its front legs and rebuild them into the wings.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.479609375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0024",
+      "video_id": "RBlS6iNpl50",
+      "idx": 24,
+      "sent_ids": [
+        "RBlS6iNpl50:s0075",
+        "RBlS6iNpl50:s0076",
+        "RBlS6iNpl50:s0077"
+      ],
+      "start_s": 257.239,
+      "end_s": 268.919,
+      "text": "You can have arms or you can have wings. Nature does not hand out both. That is exactly why poor Draco had to build its glider out of rib bones.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.502419921875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0025",
+      "video_id": "RBlS6iNpl50",
+      "idx": 25,
+      "sent_ids": [
+        "RBlS6iNpl50:s0078",
+        "RBlS6iNpl50:s0079"
+      ],
+      "start_s": 266.8,
+      "end_s": 277.64000000000004,
+      "text": "The ribs were the only spare parts lying around. A four-legged, two-winged dragon needs a body plan no backbone animal has ever had.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.52109375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0026",
+      "video_id": "RBlS6iNpl50",
+      "idx": 26,
+      "sent_ids": [
+        "RBlS6iNpl50:s0080",
+        "RBlS6iNpl50:s0081"
+      ],
+      "start_s": 274.04,
+      "end_s": 286.08,
+      "text": "It would have to break a four-limbed rule that has held since the first of them crawled onto land more than 350 million years ago. The second reason is pure size.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.535234375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0027",
+      "video_id": "RBlS6iNpl50",
+      "idx": 27,
+      "sent_ids": [
+        "RBlS6iNpl50:s0082",
+        "RBlS6iNpl50:s0083"
+      ],
+      "start_s": 282.28,
+      "end_s": 297.48,
+      "text": "Make any animal twice as long and it becomes roughly eight times as heavy, but its bones and muscles only get about four times as strong. Scale a creature up far enough and its own weight begins to crush it from the inside.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.551328125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0028",
+      "video_id": "RBlS6iNpl50",
+      "idx": 28,
+      "sent_ids": [
+        "RBlS6iNpl50:s0084",
+        "RBlS6iNpl50:s0085"
+      ],
+      "start_s": 295.04,
+      "end_s": 312.56,
+      "text": "Quetzalcoatlus, that giraffe-sized flyer, was already scraping against the absolute ceiling for how big a thing can get and still haul itself off the ground. A dragon the size of a house with wings isn't just a bigger Quetzalcoatlus.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.57625
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0029",
+      "video_id": "RBlS6iNpl50",
+      "idx": 29,
+      "sent_ids": [
+        "RBlS6iNpl50:s0086",
+        "RBlS6iNpl50:s0087",
+        "RBlS6iNpl50:s0088"
+      ],
+      "start_s": 307.48,
+      "end_s": 322.79999999999995,
+      "text": "It's a pile of snapped bones that never leaves the cliff edge. And the third reason loops right back to the fire. Flying is the most metabolically expensive thing an animal can do.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.600546875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0030",
+      "video_id": "RBlS6iNpl50",
+      "idx": 30,
+      "sent_ids": [
+        "RBlS6iNpl50:s0089",
+        "RBlS6iNpl50:s0090"
+      ],
+      "start_s": 317.84,
+      "end_s": 330.6,
+      "text": "It burns oxygen and energy at a rate that shoves a body to its physical limit just to stay in the air. There is nothing left in that budget to also run a furnace in your chest.",
+      "n_words": 37,
+      "n_sentences": 2,
+      "pos_pct": 0.62078125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0031",
+      "video_id": "RBlS6iNpl50",
+      "idx": 31,
+      "sent_ids": [
+        "RBlS6iNpl50:s0091",
+        "RBlS6iNpl50:s0092"
+      ],
+      "start_s": 326.8,
+      "end_s": 339.04,
+      "text": "And evolution never sits down to design an animal towards some final goal. It just tinkers with whatever already exists, one tiny accidental step at a time.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.63828125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0032",
+      "video_id": "RBlS6iNpl50",
+      "idx": 32,
+      "sent_ids": [
+        "RBlS6iNpl50:s0093",
+        "RBlS6iNpl50:s0094",
+        "RBlS6iNpl50:s0095"
+      ],
+      "start_s": 335.16,
+      "end_s": 349.76,
+      "text": "No chain of those tiny steps ever stumbled into a winged, six-limbed, self-igniting reptile. The dragon isn't blocked by one rule. It's blocked by all of them at once, stacked on top of each other.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.654609375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0033",
+      "video_id": "RBlS6iNpl50",
+      "idx": 33,
+      "sent_ids": [
+        "RBlS6iNpl50:s0096",
+        "RBlS6iNpl50:s0097",
+        "RBlS6iNpl50:s0098"
+      ],
+      "start_s": 345.36,
+      "end_s": 360.36,
+      "text": "If a dragon is that impossible, that thoroughly forbidden by both biology and physics, then why on earth did everyone draw one? There are two leading ideas. The first idea is bones.",
+      "n_words": 32,
+      "n_sentences": 3,
+      "pos_pct": 0.67453125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0034",
+      "video_id": "RBlS6iNpl50",
+      "idx": 34,
+      "sent_ids": [
+        "RBlS6iNpl50:s0099",
+        "RBlS6iNpl50:s0100"
+      ],
+      "start_s": 356.48,
+      "end_s": 372.76000000000005,
+      "text": "Long before anyone on the planet knew what a dinosaur was, people were digging enormous fossils out of the ground and trying to make sense of them. A historian at Stanford named Adrienne Mayor traced one of these cases directly.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.69625
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0035",
+      "video_id": "RBlS6iNpl50",
+      "idx": 35,
+      "sent_ids": [
+        "RBlS6iNpl50:s0101",
+        "RBlS6iNpl50:s0102"
+      ],
+      "start_s": 368.6,
+      "end_s": 388.919,
+      "text": "Thousands of years ago, Scythian gold miners crossing the Gobi Desert kept unearthing the skeletons of a beaked, four-legged creature we now call Protoceratops. They had absolutely no concept of an extinct animal, so they rebuilt those bones in their minds into a guardian beast, and that became the legend of the Griffin.",
+      "n_words": 53,
+      "n_sentences": 2,
+      "pos_pct": 0.719921875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0036",
+      "video_id": "RBlS6iNpl50",
+      "idx": 36,
+      "sent_ids": [
+        "RBlS6iNpl50:s0103",
+        "RBlS6iNpl50:s0104"
+      ],
+      "start_s": 387.6,
+      "end_s": 397.96,
+      "text": "It happened on the other side of the world, too. In China, the fossils people dug up and ground into medicine were called, quite literally, dragon bones.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.75703125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0037",
+      "video_id": "RBlS6iNpl50",
+      "idx": 37,
+      "sent_ids": [
+        "RBlS6iNpl50:s0105",
+        "RBlS6iNpl50:s0106"
+      ],
+      "start_s": 395.72,
+      "end_s": 408.52,
+      "text": "All over the planet, humans found giant, impossible skeletons in the dirt and invented monsters to explain them. The second idea is darker, and it's about what's inside your own head.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.772890625
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0038",
+      "video_id": "RBlS6iNpl50",
+      "idx": 38,
+      "sent_ids": [
+        "RBlS6iNpl50:s0107",
+        "RBlS6iNpl50:s0108"
+      ],
+      "start_s": 403.76,
+      "end_s": 419.04,
+      "text": "There's an anthropologist named David E. Jones who noticed something strange about monkeys. Vervet monkeys have three separate alarm calls, three specific screams for three specific killers.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.78859375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0039",
+      "video_id": "RBlS6iNpl50",
+      "idx": 39,
+      "sent_ids": [
+        "RBlS6iNpl50:s0109",
+        "RBlS6iNpl50:s0110",
+        "RBlS6iNpl50:s0111"
+      ],
+      "start_s": 414.56,
+      "end_s": 427.03999999999996,
+      "text": "One warns the troop about big cats on the ground. Another means an eagle is diving in from above. The last one means snake.",
+      "n_words": 24,
+      "n_sentences": 3,
+      "pos_pct": 0.8096875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0040",
+      "video_id": "RBlS6iNpl50",
+      "idx": 40,
+      "sent_ids": [
+        "RBlS6iNpl50:s0112",
+        "RBlS6iNpl50:s0113"
+      ],
+      "start_s": 423.84,
+      "end_s": 445.48,
+      "text": "Those three animals, the cat, the eagle, and the snake, are the exact predators that hunted primates like us for millions upon millions of years. Jones's idea is that the fear of all three got burned so deep into our brains that over time they melted together into one single image.",
+      "n_words": 51,
+      "n_sentences": 2,
+      "pos_pct": 0.8278125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0041",
+      "video_id": "RBlS6iNpl50",
+      "idx": 41,
+      "sent_ids": [
+        "RBlS6iNpl50:s0114",
+        "RBlS6iNpl50:s0115"
+      ],
+      "start_s": 441.24,
+      "end_s": 458.32000000000005,
+      "text": "Take the fangs and raking claws of the great cat, bolt on the wings and the killing dive of the eagle, wrap the whole thing in the long, coiling, scaled body of the snake. Put those three together and you have just built a dragon.",
+      "n_words": 45,
+      "n_sentences": 2,
+      "pos_pct": 0.861796875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0042",
+      "video_id": "RBlS6iNpl50",
+      "idx": 42,
+      "sent_ids": [
+        "RBlS6iNpl50:s0116",
+        "RBlS6iNpl50:s0117"
+      ],
+      "start_s": 454.16,
+      "end_s": 469.0,
+      "text": "This one is only a theory, and a hotly argued one. You can't dig an instinct out of the ground, and plenty of serious researchers think it reaches way too far, but it explains the thing the fossils can't.",
+      "n_words": 39,
+      "n_sentences": 2,
+      "pos_pct": 0.88703125
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0043",
+      "video_id": "RBlS6iNpl50",
+      "idx": 43,
+      "sent_ids": [
+        "RBlS6iNpl50:s0118",
+        "RBlS6iNpl50:s0119"
+      ],
+      "start_s": 466.52,
+      "end_s": 478.84000000000003,
+      "text": "Not just why we invented a monster, why we kept inventing this exact one. The same parts bolted together the same way on every continent by people who had never once spoken to each other.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.911171875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0044",
+      "video_id": "RBlS6iNpl50",
+      "idx": 44,
+      "sent_ids": [
+        "RBlS6iNpl50:s0120",
+        "RBlS6iNpl50:s0121",
+        "RBlS6iNpl50:s0122"
+      ],
+      "start_s": 475.36,
+      "end_s": 488.64,
+      "text": "The reason nature never built a dragon is that the dragon was never actually an animal. Every single piece of it is real. The fire is a beetle's boiling spray.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.9284375
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0045",
+      "video_id": "RBlS6iNpl50",
+      "idx": 45,
+      "sent_ids": [
+        "RBlS6iNpl50:s0123",
+        "RBlS6iNpl50:s0124",
+        "RBlS6iNpl50:s0125"
+      ],
+      "start_s": 484.76,
+      "end_s": 496.88,
+      "text": "The size was a monitor lizard hunting across Australia. Real pterosaurs owned the wings. And the fear underneath all of it is a memory far older than our whole species.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.946796875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0046",
+      "video_id": "RBlS6iNpl50",
+      "idx": 46,
+      "sent_ids": [
+        "RBlS6iNpl50:s0126",
+        "RBlS6iNpl50:s0127"
+      ],
+      "start_s": 493.08,
+      "end_s": 501.8,
+      "text": "But the assembly never once happened out in the wild. It happened in here.",
+      "n_words": 14,
+      "n_sentences": 2,
+      "pos_pct": 0.963046875
+    },
+    {
+      "window_id": "RBlS6iNpl50:j0047",
+      "video_id": "RBlS6iNpl50",
+      "idx": 47,
+      "sent_ids": [
+        "RBlS6iNpl50:s0128",
+        "RBlS6iNpl50:s0129"
+      ],
+      "start_s": 496.88,
+      "end_s": 513.56,
+      "text": "The dragon is the shape your ancestors nightmares took when every predator that ever wanted to eat them got stitched together into a single body. Nature never made a dragon, but we did out of everything that used to hunt us in the dark.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.97046875
+    }
+  ]
+}

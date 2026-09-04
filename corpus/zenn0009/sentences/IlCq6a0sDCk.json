@@ -1,0 +1,1582 @@
+{
+  "video_id": "IlCq6a0sDCk",
+  "duration_s": 623.0,
+  "generated_at": "2026-09-04T02:59:48.311359+00:00",
+  "sentences": [
+    {
+      "sent_id": "IlCq6a0sDCk:s0000",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 0,
+      "start_s": 0.0,
+      "end_s": 4.720000000000001,
+      "text": "The Titanic is sitting at the bottom of the Atlantic Ocean right now.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0001",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 1,
+      "start_s": 1.52,
+      "end_s": 6.4399999999999995,
+      "text": "We know exactly where it is.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0002",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 2,
+      "start_s": 3.04,
+      "end_s": 8.44,
+      "text": "We've sent cameras down.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0003",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 3,
+      "start_s": 4.72,
+      "end_s": 8.44,
+      "text": "We've sent submarines.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0004",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 4,
+      "start_s": 4.72,
+      "end_s": 10.600000000000001,
+      "text": "We've even sent tourists.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0005",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 5,
+      "start_s": 6.44,
+      "end_s": 12.2,
+      "text": "So, why hasn't anyone just brought it back up?",
+      "n_words": 9
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0006",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 6,
+      "start_s": 8.44,
+      "end_s": 14.04,
+      "text": "It seems like the obvious move, right?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0007",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 7,
+      "start_s": 10.6,
+      "end_s": 18.16,
+      "text": "You've got the most famous ship in history sitting on the ocean floor.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0008",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 8,
+      "start_s": 14.04,
+      "end_s": 18.16,
+      "text": "Turn it into a museum.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0009",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 9,
+      "start_s": 16.08,
+      "end_s": 20.24,
+      "text": "Charge admission.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0010",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 10,
+      "start_s": 16.08,
+      "end_s": 20.24,
+      "text": "You'd make a fortune.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0011",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 11,
+      "start_s": 18.16,
+      "end_s": 22.32,
+      "text": "And people have tried.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0012",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 12,
+      "start_s": 18.16,
+      "end_s": 28.52,
+      "text": "Over the past century, engineers, billionaires, and salvage companies have proposed dozens of plans to raise the Titanic.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0013",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 13,
+      "start_s": 24.2,
+      "end_s": 30.8,
+      "text": "Some were creative.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0014",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 14,
+      "start_s": 26.16,
+      "end_s": 30.8,
+      "text": "Some were completely insane.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0015",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 15,
+      "start_s": 28.52,
+      "end_s": 32.84,
+      "text": "And every single one of them failed.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0016",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 16,
+      "start_s": 28.52,
+      "end_s": 34.4,
+      "text": "And here's why.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0017",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 17,
+      "start_s": 30.8,
+      "end_s": 39.72,
+      "text": "The Titanic rests about 12,500 ft below the surface of the North Atlantic.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0018",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 18,
+      "start_s": 35.92,
+      "end_s": 41.44,
+      "text": "That's roughly 2 and 1/2 mi straight down.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0019",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 19,
+      "start_s": 38.12,
+      "end_s": 48.96,
+      "text": "To put that in perspective, if you stacked the Empire State Building on top of itself more than eight times, it still wouldn't reach the wreck from the surface.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0020",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 20,
+      "start_s": 45.2,
+      "end_s": 54.0,
+      "text": "At that depth, the water pressure is around 6,000 lb per square inch.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0021",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 21,
+      "start_s": 48.96,
+      "end_s": 58.04,
+      "text": "That's about 400 times the pressure you feel standing on the beach right now.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0022",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 22,
+      "start_s": 54.0,
+      "end_s": 60.2,
+      "text": "Your lungs would be crushed instantly.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0023",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 23,
+      "start_s": 55.56,
+      "end_s": 63.28,
+      "text": "A normal submarine hull would crumple like a soda can.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0024",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 24,
+      "start_s": 58.04,
+      "end_s": 67.76,
+      "text": "And in June of 2023, the world saw exactly what that pressure can do.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0025",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 25,
+      "start_s": 63.28,
+      "end_s": 73.16000000000001,
+      "text": "The Titan submersible, carrying five people down to visit the Titanic, suffered a catastrophic implosion.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0026",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 26,
+      "start_s": 69.4,
+      "end_s": 77.52,
+      "text": "The carbon fiber hull collapsed in a fraction of a second.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0027",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 27,
+      "start_s": 73.16,
+      "end_s": 79.36,
+      "text": "Everyone on board was killed instantly.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0028",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 28,
+      "start_s": 75.16,
+      "end_s": 85.96,
+      "text": "The force was so extreme that the entire vessel was reduced to fragments scattered across the ocean floor.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0029",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 29,
+      "start_s": 81.32,
+      "end_s": 90.19999999999999,
+      "text": "That's what 6,000 lb per square inch does to a purpose-built deep-sea submersible.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0030",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 30,
+      "start_s": 85.96,
+      "end_s": 97.16000000000001,
+      "text": "Now, imagine trying to attach cables, rig lifting equipment, and raise an entire ship in those conditions.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0031",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 31,
+      "start_s": 92.04,
+      "end_s": 97.16000000000001,
+      "text": "In complete darkness.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0032",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 32,
+      "start_s": 92.04,
+      "end_s": 98.84,
+      "text": "In near-freezing water.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0033",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 33,
+      "start_s": 94.48,
+      "end_s": 100.52,
+      "text": "2 and 1/2 mi below the nearest breath of air.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0034",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 34,
+      "start_s": 97.16,
+      "end_s": 102.32000000000001,
+      "text": "But let's say you solve the pressure problem.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0035",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 35,
+      "start_s": 98.84,
+      "end_s": 107.68,
+      "text": "Let's say you build equipment that can handle it and operate at the bottom of the ocean.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0036",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 36,
+      "start_s": 103.92,
+      "end_s": 107.68,
+      "text": "You've still got another problem.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0037",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 37,
+      "start_s": 105.96,
+      "end_s": 110.6,
+      "text": "And that is weight.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0038",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 38,
+      "start_s": 105.96,
+      "end_s": 113.76,
+      "text": "The Titanic displaces over 52,000 tons.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0039",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 39,
+      "start_s": 107.68,
+      "end_s": 115.96,
+      "text": "That's the weight of roughly 36,000 cars.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0040",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 40,
+      "start_s": 110.6,
+      "end_s": 117.36,
+      "text": "No crane on Earth can lift that.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0041",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 41,
+      "start_s": 113.76,
+      "end_s": 121.28,
+      "text": "No cable system ever built could handle that kind of load from that depth.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0042",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 42,
+      "start_s": 117.36,
+      "end_s": 125.2,
+      "text": "The tensile strength required doesn't exist in any we currently manufacture at that scale.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0043",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 43,
+      "start_s": 123.52,
+      "end_s": 130.16,
+      "text": "And even if you could somehow generate enough upward force, the ship itself would fall apart the moment you tried.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0044",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 44,
+      "start_s": 128.88,
+      "end_s": 134.04,
+      "text": "Because here's the thing most people don't realize.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0045",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 45,
+      "start_s": 130.16,
+      "end_s": 136.16,
+      "text": "The Titanic isn't sitting down there in one piece.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0046",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 46,
+      "start_s": 132.28,
+      "end_s": 138.79999999999998,
+      "text": "It broke in half as it sank.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0047",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 47,
+      "start_s": 134.04,
+      "end_s": 142.8,
+      "text": "The bow and the stern are separated by about 2,000 ft of open ocean floor.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0048",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 48,
+      "start_s": 138.8,
+      "end_s": 144.84,
+      "text": "The bow section looks surprisingly intact in photographs.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0049",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 49,
+      "start_s": 140.56,
+      "end_s": 146.92000000000002,
+      "text": "But the stern is barely recognizable.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0050",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 50,
+      "start_s": 142.8,
+      "end_s": 152.84,
+      "text": "It's a twisted, compressed pile of steel that doesn't even look like part of a ship anymore.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0051",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 51,
+      "start_s": 148.56,
+      "end_s": 157.32,
+      "text": "And even the bow, which appears solid from the outside, is incredibly fragile.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0052",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 52,
+      "start_s": 152.84,
+      "end_s": 158.92,
+      "text": "The steel has been weakened by over a century of corrosion.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0053",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 53,
+      "start_s": 155.0,
+      "end_s": 162.83999999999997,
+      "text": "Entire sections of railing have already collapsed.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0054",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 54,
+      "start_s": 158.92,
+      "end_s": 164.64000000000001,
+      "text": "The decks are buckling inward.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0055",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 55,
+      "start_s": 160.84,
+      "end_s": 169.67999999999998,
+      "text": "If you attached cable to the hull and started pulling, the ship wouldn't rise.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0056",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 56,
+      "start_s": 164.64,
+      "end_s": 169.67999999999998,
+      "text": "It would disintegrate.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0057",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 57,
+      "start_s": 166.84,
+      "end_s": 171.4,
+      "text": "So, you can't lift it as one piece.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0058",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 58,
+      "start_s": 166.84,
+      "end_s": 175.52,
+      "text": "But that hasn't stopped people from coming up with some truly wild ideas.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0059",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 59,
+      "start_s": 171.4,
+      "end_s": 179.88000000000002,
+      "text": "One of the most famous proposals suggested filling the wreck with ping pong balls.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0060",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 60,
+      "start_s": 177.64,
+      "end_s": 181.48,
+      "text": "Millions and millions of them.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0061",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 61,
+      "start_s": 177.64,
+      "end_s": 189.0,
+      "text": "The theory was that all those tiny air-filled balls would create enough buoyancy to float the ship to the surface.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0062",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 62,
+      "start_s": 184.56,
+      "end_s": 191.56,
+      "text": "It's actually a clever idea on paper.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0063",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 63,
+      "start_s": 186.72,
+      "end_s": 191.56,
+      "text": "But here's the problem.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0064",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 64,
+      "start_s": 186.72,
+      "end_s": 198.16,
+      "text": "At 6,000 lb per square inch, every single ping pong ball would be crushed flat the instant it reached the wreck.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0065",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 65,
+      "start_s": 193.68,
+      "end_s": 199.64,
+      "text": "Completely useless.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0066",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 66,
+      "start_s": 195.88,
+      "end_s": 203.79999999999998,
+      "text": "Another plan proposed injecting the hull with petroleum jelly to displace the water and create buoyancy.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0067",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 67,
+      "start_s": 201.96,
+      "end_s": 212.0,
+      "text": "Someone else suggested encasing the entire ship in a giant block of ice, which would theoretically float it to the surface.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0068",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 68,
+      "start_s": 207.76,
+      "end_s": 216.76,
+      "text": "Engineers at the BOC Group actually calculated what that would require.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0069",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 69,
+      "start_s": 212.0,
+      "end_s": 224.88,
+      "text": "The answer was 500,000 tons of liquid nitrogen pumped down to the seafloor, which is, to put it mildly, not practical.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0070",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 70,
+      "start_s": 219.48,
+      "end_s": 227.44,
+      "text": "And then there was the idea from Clive Cussler's 1976 novel",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0071",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 71,
+      "start_s": 224.88,
+      "end_s": 229.35999999999999,
+      "text": "Raise the Titanic.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0072",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 72,
+      "start_s": 224.88,
+      "end_s": 237.64,
+      "text": "In the book, the hero patches the holes in the hull, fills the ship with compressed air, and the Titanic rockets to the surface like a submarine blowing its ballast tanks.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0073",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 73,
+      "start_s": 235.36,
+      "end_s": 239.56,
+      "text": "Great scene.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0074",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 74,
+      "start_s": 235.36,
+      "end_s": 241.6,
+      "text": "Made for a dramatic movie poster.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0075",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 75,
+      "start_s": 237.64,
+      "end_s": 246.28,
+      "text": "But it was written when people still believed the Titanic sank in one piece.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0076",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 76,
+      "start_s": 241.6,
+      "end_s": 246.28,
+      "text": "It didn't.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0077",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 77,
+      "start_s": 241.6,
+      "end_s": 251.08,
+      "text": "And even if it had, compressed air at that depth would require pressures no hull could contain.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0078",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 78,
+      "start_s": 248.84,
+      "end_s": 253.20000000000002,
+      "text": "None of these ideas would work.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0079",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 79,
+      "start_s": 248.84,
+      "end_s": 255.24,
+      "text": "Not even close.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0080",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 80,
+      "start_s": 251.08,
+      "end_s": 257.32,
+      "text": "But someone did manage to bring part of the Titanic to the surface.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0081",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 81,
+      "start_s": 253.2,
+      "end_s": 263.28,
+      "text": "And the story of how it happened is almost as dramatic as the sinking itself.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0082",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 82,
+      "start_s": 257.32,
+      "end_s": 271.28000000000003,
+      "text": "In 1994, a company called RMS Titanic Incorporated spotted a massive section of the ship's outer hull lying in the debris field.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0083",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 83,
+      "start_s": 267.6,
+      "end_s": 275.67999999999995,
+      "text": "It was a piece of the starboard side, roughly the size of a bus, with four portholes still intact.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0084",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 84,
+      "start_s": 273.96,
+      "end_s": 277.56,
+      "text": "Three of them still had glass in them.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0085",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 85,
+      "start_s": 275.68,
+      "end_s": 281.72,
+      "text": "They called it the big piece, and they decided to bring it home.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0086",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 86,
+      "start_s": 277.56,
+      "end_s": 283.88,
+      "text": "The first attempt came in 1996.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0087",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 87,
+      "start_s": 279.2,
+      "end_s": 292.59999999999997,
+      "text": "The plan was to attach diesel-filled flotation bags to the section, inflate them, and slowly float the 15-ton fragment to the surface.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0088",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 88,
+      "start_s": 287.84,
+      "end_s": 294.48,
+      "text": "They had three expedition ships on site.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0089",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 89,
+      "start_s": 290.24,
+      "end_s": 301.08,
+      "text": "Two full-size cruise ships circled nearby, packed with paying spectators, Titanic survivors, and even celebrities.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0090",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 90,
+      "start_s": 297.12,
+      "end_s": 305.2,
+      "text": "Thousands of people stood at the rails as the flotation bags were released.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0091",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 91,
+      "start_s": 301.08,
+      "end_s": 307.44,
+      "text": "And the big piece began its 2-hour ascent.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0092",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 92,
+      "start_s": 303.16,
+      "end_s": 309.4,
+      "text": "The bags broke the surface.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0093",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 93,
+      "start_s": 305.2,
+      "end_s": 309.4,
+      "text": "The crowd cheered.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0094",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 94,
+      "start_s": 305.2,
+      "end_s": 311.2,
+      "text": "And then a hurricane arrived.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0095",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 95,
+      "start_s": 307.44,
+      "end_s": 313.2,
+      "text": "The weather tore through the recovery site.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0096",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 96,
+      "start_s": 309.4,
+      "end_s": 320.72,
+      "text": "The lines holding the big piece snapped, and the 15-ton section of hull plummeted back to the bottom of the Atlantic.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0097",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 97,
+      "start_s": 315.8,
+      "end_s": 322.64,
+      "text": "The mission was abandoned.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0098",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 98,
+      "start_s": 317.52,
+      "end_s": 325.04,
+      "text": "Two years later, in 1998, they went back.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0099",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 99,
+      "start_s": 320.72,
+      "end_s": 325.04,
+      "text": "New plan.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0100",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 100,
+      "start_s": 320.72,
+      "end_s": 327.12,
+      "text": "Better equipment.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0101",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 101,
+      "start_s": 322.64,
+      "end_s": 329.16,
+      "text": "This time, when the big piece broke the surface, it stayed.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0102",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 102,
+      "start_s": 325.04,
+      "end_s": 340.88000000000005,
+      "text": "It was carefully pulled onto a recovery vessel, and is now on permanent display at the Titanic exhibition in Las Vegas, where over 22 million people have come to see it.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0103",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 103,
+      "start_s": 336.16,
+      "end_s": 340.88000000000005,
+      "text": "But here's the reality.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0104",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 104,
+      "start_s": 336.16,
+      "end_s": 348.44,
+      "text": "That one piece took four years, two full expeditions, millions of dollars, and the kind of luck you can't plan for.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0105",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 105,
+      "start_s": 343.16,
+      "end_s": 351.56,
+      "text": "And it weighed 15 tons.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0106",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 106,
+      "start_s": 345.4,
+      "end_s": 354.8,
+      "text": "The full ship is over 52,000.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0107",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 107,
+      "start_s": 348.44,
+      "end_s": 360.2,
+      "text": "Over the decades, salvage teams have recovered more than 5,500 artifacts from the wreck site.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0108",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 108,
+      "start_s": 354.8,
+      "end_s": 365.08,
+      "text": "Plates, jewelry, coins, a violin, even the ship's engine telegraphs.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0109",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 109,
+      "start_s": 360.2,
+      "end_s": 370.8,
+      "text": "Each recovery required specialized submersibles that cost tens of thousands of dollars per dive.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0110",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 110,
+      "start_s": 367.08,
+      "end_s": 376.52,
+      "text": "And every single one of those objects came from the debris field scattered between the two halves of the ship.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0111",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 111,
+      "start_s": 372.52,
+      "end_s": 376.52,
+      "text": "Not from inside the hull itself.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0112",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 112,
+      "start_s": 374.92,
+      "end_s": 382.47999999999996,
+      "text": "But while humans argue about what to save, something else is quietly eating the Titanic alive.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0113",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 113,
+      "start_s": 378.84,
+      "end_s": 387.68,
+      "text": "If you've ever seen footage of the wreck, you've probably noticed the strange reddish-brown formations hanging from the hull.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0114",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 114,
+      "start_s": 384.08,
+      "end_s": 389.92,
+      "text": "They look like icicles made of rust.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0115",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 115,
+      "start_s": 387.68,
+      "end_s": 391.76,
+      "text": "Scientists call them rusticles.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0116",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 116,
+      "start_s": 389.92,
+      "end_s": 396.52,
+      "text": "Rusticles are created by colonies of bacteria that feed on iron.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0117",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 117,
+      "start_s": 391.76,
+      "end_s": 401.03999999999996,
+      "text": "They latch onto the steel, consume it, and leave behind these fragile hollow tubes.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0118",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 118,
+      "start_s": 396.52,
+      "end_s": 403.0,
+      "text": "When you touch one, it crumbles to dust.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0119",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 119,
+      "start_s": 398.92,
+      "end_s": 407.4,
+      "text": "And when it falls away, it takes a piece of the Titanic with it.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0120",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 120,
+      "start_s": 403.0,
+      "end_s": 411.76,
+      "text": "In 2010, researchers from Dalhousie University in Canada discovered something remarkable.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0121",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 121,
+      "start_s": 409.6,
+      "end_s": 419.76,
+      "text": "Living inside those rusticles was a species of bacteria that had never been found anywhere else on Earth.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0122",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 122,
+      "start_s": 413.96,
+      "end_s": 424.44,
+      "text": "They named it Halomonas Titanicae, the salt-loving bacteria of the Titanic.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0123",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 123,
+      "start_s": 419.76,
+      "end_s": 429.0,
+      "text": "This organism is specifically adapted to consume the ship's steel.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0124",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 124,
+      "start_s": 424.44,
+      "end_s": 432.48,
+      "text": "It creates tiny mounds of corrosion that eat deeper and deeper into the hull plates.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0125",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 125,
+      "start_s": 429.0,
+      "end_s": 438.72,
+      "text": "Scientists estimate that the Titanic is losing hundreds of pounds of iron every single day.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0126",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 126,
+      "start_s": 434.72,
+      "end_s": 438.72,
+      "text": "The hull is getting thinner.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0127",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 127,
+      "start_s": 436.68,
+      "end_s": 440.6,
+      "text": "Support beams are weakening.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0128",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 128,
+      "start_s": 436.68,
+      "end_s": 444.16,
+      "text": "Entire sections of deck have already collapsed into the interior.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0129",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 129,
+      "start_s": 440.6,
+      "end_s": 448.6,
+      "text": "Features that were clearly visible in photographs from the 1980s are now buried under rubble.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0130",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 130,
+      "start_s": 444.16,
+      "end_s": 454.71999999999997,
+      "text": "At the current rate of decay, some researchers believe the Titanic could be completely gone within 20 to 30 years.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0131",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 131,
+      "start_s": 453.08,
+      "end_s": 456.68,
+      "text": "Others give it a century.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0132",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 132,
+      "start_s": 453.08,
+      "end_s": 458.40000000000003,
+      "text": "But the outcome is the same.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0133",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 133,
+      "start_s": 454.72,
+      "end_s": 463.15999999999997,
+      "text": "The ship is disappearing, and there is nothing anyone can do to stop it.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0134",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 134,
+      "start_s": 458.4,
+      "end_s": 466.36,
+      "text": "And honestly, a lot of people think that's exactly how it should be.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0135",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 135,
+      "start_s": 463.16,
+      "end_s": 474.32,
+      "text": "Because beyond all the engineering impossibilities and the biological decay, there is another reason the Titanic has never been raised.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0136",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 136,
+      "start_s": 470.04,
+      "end_s": 477.24,
+      "text": "One that has nothing to do with technology or bacteria or money.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0137",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 137,
+      "start_s": 472.0,
+      "end_s": 479.76,
+      "text": "It's a grave site.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0138",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 138,
+      "start_s": 474.32,
+      "end_s": 484.59999999999997,
+      "text": "More than 1,500 people died when the Titanic sank on April 15th, 1912.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0139",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 139,
+      "start_s": 479.76,
+      "end_s": 486.44,
+      "text": "Most of them went down with the ship.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0140",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 140,
+      "start_s": 482.96,
+      "end_s": 488.84000000000003,
+      "text": "Their bodies were never recovered.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0141",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 141,
+      "start_s": 484.6,
+      "end_s": 492.88,
+      "text": "When Robert Ballard first found the wreck in 1985, his initial reaction wasn't celebration.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0142",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 142,
+      "start_s": 488.84,
+      "end_s": 496.44,
+      "text": "After a few moments of excitement, the reality hit him.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0143",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 143,
+      "start_s": 492.88,
+      "end_s": 503.08,
+      "text": "He and his crew held a moment of silence on the deck of their research vessel, standing over the graves of 1,500 people in the darkness below.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0144",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 144,
+      "start_s": 498.2,
+      "end_s": 506.71999999999997,
+      "text": "And what Ballard saw on the ocean floor made the weight of that even heavier.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0145",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 145,
+      "start_s": 503.08,
+      "end_s": 508.68,
+      "text": "The bodies themselves are gone.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0146",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 146,
+      "start_s": 504.96,
+      "end_s": 514.7189999999999,
+      "text": "Over a century in the deep ocean, the cold water and marine organisms have consumed them entirely.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0147",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 147,
+      "start_s": 510.76,
+      "end_s": 514.7189999999999,
+      "text": "But their shoes remain.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0148",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 148,
+      "start_s": 513.08,
+      "end_s": 518.44,
+      "text": "Leather contains chemicals that sea creatures avoid.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0149",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 149,
+      "start_s": 514.719,
+      "end_s": 524.005,
+      "text": "So, scattered across the debris field, exactly where passengers fell, are pairs of shoes, sitting undisturbed on the sediment.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0150",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 150,
+      "start_s": 520.52,
+      "end_s": 525.08,
+      "text": "A mother's shoes next to her daughter's.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0151",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 151,
+      "start_s": 524.005,
+      "end_s": 526.68,
+      "text": "[clears throat] That's all that's left.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0152",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 152,
+      "start_s": 525.08,
+      "end_s": 533.52,
+      "text": "Since the discovery, multiple governments have moved to protect the site.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0153",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 153,
+      "start_s": 528.4,
+      "end_s": 539.84,
+      "text": "In 2012, exactly one century after the sinking, the United Nations officially declared the wreck a protected site.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0154",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 154,
+      "start_s": 535.24,
+      "end_s": 543.8000000000001,
+      "text": "Anything underwater for over 100 years now counts as cultural heritage.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0155",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 155,
+      "start_s": 539.84,
+      "end_s": 552.2,
+      "text": "The United States and the United Kingdom ratified a separate treaty in 2019 that specifically regulates who can visit the wreck and what they can remove.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0156",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 156,
+      "start_s": 548.48,
+      "end_s": 558.8,
+      "text": "Both governments now have the power to grant or deny licenses for any activity within 1 km of the site.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0157",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 157,
+      "start_s": 555.28,
+      "end_s": 560.9599999999999,
+      "text": "The wreck is treated with the same respect as a cemetery.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0158",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 158,
+      "start_s": 556.92,
+      "end_s": 562.92,
+      "text": "Because that's what it is.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0159",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 159,
+      "start_s": 558.8,
+      "end_s": 565.4000000000001,
+      "text": "So, the real answer to the question is layered.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0160",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 160,
+      "start_s": 560.96,
+      "end_s": 567.68,
+      "text": "We haven't raised the Titanic because we can't.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0161",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 161,
+      "start_s": 562.92,
+      "end_s": 570.04,
+      "text": "The depth is too extreme.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0162",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 162,
+      "start_s": 565.4,
+      "end_s": 572.3199999999999,
+      "text": "The pressure is too crushing.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0163",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 163,
+      "start_s": 567.68,
+      "end_s": 574.1999999999999,
+      "text": "The ship is too heavy, too fragile, and too far gone.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0164",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 164,
+      "start_s": 570.04,
+      "end_s": 576.44,
+      "text": "But we also haven't raised it because we shouldn't.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0165",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 165,
+      "start_s": 574.2,
+      "end_s": 584.12,
+      "text": "Somewhere in that wreck, tangled in the corroding steel and settling into the sediment, are the last traces of people who never made it home.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0166",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 166,
+      "start_s": 580.44,
+      "end_s": 588.96,
+      "text": "Families who sold everything they owned for a ticket to America.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0167",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 167,
+      "start_s": 584.12,
+      "end_s": 591.56,
+      "text": "Workers who saved for months to afford a third-class fare.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0168",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 168,
+      "start_s": 586.56,
+      "end_s": 599.0,
+      "text": "A Mexican lawyer named Manuel Uruchurtu, who sent his mother a postcard of the ship the day he boarded, promising to visit her when he got home.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0169",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 169,
+      "start_s": 595.12,
+      "end_s": 601.56,
+      "text": "She never saw him again.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0170",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 170,
+      "start_s": 596.76,
+      "end_s": 603.8,
+      "text": "The ocean is taking the Titanic back.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0171",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 171,
+      "start_s": 599.0,
+      "end_s": 612.1999999999999,
+      "text": "Piece by piece, day by day, the bacteria will keep eating, the steel will keep thinning, the decks will keep collapsing, and in a few decades there may be nothing left at all.",
+      "n_words": 33
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0172",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 172,
+      "start_s": 608.28,
+      "end_s": 616.6800000000001,
+      "text": "Just a faint impression on the seafloor where a ship once rested.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0173",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 173,
+      "start_s": 612.2,
+      "end_s": 621.16,
+      "text": "For the 1,500 people who went down with it, maybe that's the most fitting end there is.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "IlCq6a0sDCk:s0174",
+      "video_id": "IlCq6a0sDCk",
+      "idx": 174,
+      "start_s": 616.68,
+      "end_s": 624.76,
+      "text": "Not a museum, not an attraction, just the quiet deep, and time doing what time does.",
+      "n_words": 16
+    }
+  ]
+}

@@ -1,0 +1,1168 @@
+{
+  "video_id": "L7FSwztrda4",
+  "duration_s": 499.0,
+  "generated_at": "2026-09-04T02:59:50.483051+00:00",
+  "sentences": [
+    {
+      "sent_id": "L7FSwztrda4:s0000",
+      "video_id": "L7FSwztrda4",
+      "idx": 0,
+      "start_s": 0.0,
+      "end_s": 4.48,
+      "text": "Look at your hand.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0001",
+      "video_id": "L7FSwztrda4",
+      "idx": 1,
+      "start_s": 0.0,
+      "end_s": 6.76,
+      "text": "How many fingers do you have?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0002",
+      "video_id": "L7FSwztrda4",
+      "idx": 2,
+      "start_s": 1.88,
+      "end_s": 6.76,
+      "text": "You can see them.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0003",
+      "video_id": "L7FSwztrda4",
+      "idx": 3,
+      "start_s": 1.88,
+      "end_s": 9.16,
+      "text": "You can feel them.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0004",
+      "video_id": "L7FSwztrda4",
+      "idx": 4,
+      "start_s": 4.48,
+      "end_s": 9.16,
+      "text": "You are certain they're there.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0005",
+      "video_id": "L7FSwztrda4",
+      "idx": 5,
+      "start_s": 4.48,
+      "end_s": 11.44,
+      "text": "You shouldn't be.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0006",
+      "video_id": "L7FSwztrda4",
+      "idx": 6,
+      "start_s": 6.76,
+      "end_s": 15.32,
+      "text": "From inside your own head, you can't actually prove a single one of those fingers is real.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0007",
+      "video_id": "L7FSwztrda4",
+      "idx": 7,
+      "start_s": 11.44,
+      "end_s": 16.72,
+      "text": "The same goes for the hand they're attached to.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0008",
+      "video_id": "L7FSwztrda4",
+      "idx": 8,
+      "start_s": 13.6,
+      "end_s": 22.64,
+      "text": "And the room around you that feels like it's just there, whether you look at it or not.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0009",
+      "video_id": "L7FSwztrda4",
+      "idx": 9,
+      "start_s": 18.36,
+      "end_s": 22.64,
+      "text": "Try it yourself.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0010",
+      "video_id": "L7FSwztrda4",
+      "idx": 10,
+      "start_s": 18.36,
+      "end_s": 29.080000000000002,
+      "text": "Right now, find one piece of evidence that what you're experiencing is real and not a flawless imitation of it.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0011",
+      "video_id": "L7FSwztrda4",
+      "idx": 11,
+      "start_s": 25.28,
+      "end_s": 29.080000000000002,
+      "text": "You won't be able to.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0012",
+      "video_id": "L7FSwztrda4",
+      "idx": 12,
+      "start_s": 27.48,
+      "end_s": 32.879999999999995,
+      "text": "And the reason why is stranger than it sounds.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0013",
+      "video_id": "L7FSwztrda4",
+      "idx": 13,
+      "start_s": 29.08,
+      "end_s": 35.04,
+      "text": "Everything you know about the world arrives the same way.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0014",
+      "video_id": "L7FSwztrda4",
+      "idx": 14,
+      "start_s": 30.72,
+      "end_s": 39.44,
+      "text": "Light hits your eyes and your brain turns it into color and shape.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0015",
+      "video_id": "L7FSwztrda4",
+      "idx": 15,
+      "start_s": 35.04,
+      "end_s": 42.120000000000005,
+      "text": "Pressure lands on your skin and becomes the feeling of touch.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0016",
+      "video_id": "L7FSwztrda4",
+      "idx": 16,
+      "start_s": 39.44,
+      "end_s": 44.32,
+      "text": "Air vibrates and you call it sound.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0017",
+      "video_id": "L7FSwztrda4",
+      "idx": 17,
+      "start_s": 39.44,
+      "end_s": 51.879999999999995,
+      "text": "Your brain takes those raw signals and builds a picture out of them and that picture is the only world you will ever actually meet.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0018",
+      "video_id": "L7FSwztrda4",
+      "idx": 18,
+      "start_s": 48.04,
+      "end_s": 53.76,
+      "text": "You have never once touched reality directly.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0019",
+      "video_id": "L7FSwztrda4",
+      "idx": 19,
+      "start_s": 50.0,
+      "end_s": 55.440000000000005,
+      "text": "You have only ever touched your brain's version of it.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0020",
+      "video_id": "L7FSwztrda4",
+      "idx": 20,
+      "start_s": 51.88,
+      "end_s": 57.08,
+      "text": "And that's where it gets strange.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0021",
+      "video_id": "L7FSwztrda4",
+      "idx": 21,
+      "start_s": 53.76,
+      "end_s": 64.559,
+      "text": "If the only thing you can ever inspect is the picture in your head, you have no way to step outside the picture and hold it up against the real thing.",
+      "n_words": 31
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0022",
+      "video_id": "L7FSwztrda4",
+      "idx": 22,
+      "start_s": 60.72,
+      "end_s": 66.8,
+      "text": "There is no door.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0023",
+      "video_id": "L7FSwztrda4",
+      "idx": 23,
+      "start_s": 62.36,
+      "end_s": 73.88000000000001,
+      "text": "The final stop for every sight, every sound, every fact you've ever learned is you, alone, inside your own skull.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0024",
+      "video_id": "L7FSwztrda4",
+      "idx": 24,
+      "start_s": 69.84,
+      "end_s": 76.84,
+      "text": "Philosophers call this the egocentric predicament.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0025",
+      "video_id": "L7FSwztrda4",
+      "idx": 25,
+      "start_s": 71.64,
+      "end_s": 79.11999999999999,
+      "text": "You are sealed in.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0026",
+      "video_id": "L7FSwztrda4",
+      "idx": 26,
+      "start_s": 73.88,
+      "end_s": 82.92,
+      "text": "And from the inside, a perfect fake and the real thing look exactly the same.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0027",
+      "video_id": "L7FSwztrda4",
+      "idx": 27,
+      "start_s": 79.12,
+      "end_s": 85.08,
+      "text": "You already live through a version of this.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0028",
+      "video_id": "L7FSwztrda4",
+      "idx": 28,
+      "start_s": 80.92,
+      "end_s": 86.76,
+      "text": "When you dream, all of it feels completely real while you're inside it.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0029",
+      "video_id": "L7FSwztrda4",
+      "idx": 29,
+      "start_s": 85.08,
+      "end_s": 91.92,
+      "text": "You're being chased and your legs won't move like you're running through wet cement.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0030",
+      "video_id": "L7FSwztrda4",
+      "idx": 30,
+      "start_s": 88.2,
+      "end_s": 94.36,
+      "text": "The ground drops away and you're falling with nothing to grab onto.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0031",
+      "video_id": "L7FSwztrda4",
+      "idx": 31,
+      "start_s": 90.16,
+      "end_s": 96.04,
+      "text": "Your teeth crumble and fall out one by one.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0032",
+      "video_id": "L7FSwztrda4",
+      "idx": 32,
+      "start_s": 94.36,
+      "end_s": 100.04,
+      "text": "And while it's happening, you never once stop to think any of it is strange.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0033",
+      "video_id": "L7FSwztrda4",
+      "idx": 33,
+      "start_s": 97.96,
+      "end_s": 103.56,
+      "text": "Inside the dream, that's just how the world is.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0034",
+      "video_id": "L7FSwztrda4",
+      "idx": 34,
+      "start_s": 100.04,
+      "end_s": 105.48,
+      "text": "And you can't test your way out of it.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0035",
+      "video_id": "L7FSwztrda4",
+      "idx": 35,
+      "start_s": 101.92,
+      "end_s": 110.64,
+      "text": "If you stop to check your hands or pinch yourself to be sure, the dream just produces the hands and the pinch along with everything else.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0036",
+      "video_id": "L7FSwztrda4",
+      "idx": 36,
+      "start_s": 109.04,
+      "end_s": 114.52,
+      "text": "Every test you could run is made of the same dream.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0037",
+      "video_id": "L7FSwztrda4",
+      "idx": 37,
+      "start_s": 110.64,
+      "end_s": 120.04,
+      "text": "You only realize none of it was real after you wake up, when you finally have the solid waking world to hold it against.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0038",
+      "video_id": "L7FSwztrda4",
+      "idx": 38,
+      "start_s": 116.64,
+      "end_s": 122.16,
+      "text": "So, here's the uncomfortable version.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0039",
+      "video_id": "L7FSwztrda4",
+      "idx": 39,
+      "start_s": 118.0,
+      "end_s": 126.92,
+      "text": "Right now, while you're awake, what wider world are you measuring this against?",
+      "n_words": 13
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0040",
+      "video_id": "L7FSwztrda4",
+      "idx": 40,
+      "start_s": 122.16,
+      "end_s": 130.399,
+      "text": "Nearly 400 years ago, René Descartes sat with that exact thought and couldn't shake it.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0041",
+      "video_id": "L7FSwztrda4",
+      "idx": 41,
+      "start_s": 126.92,
+      "end_s": 136.36,
+      "text": "If a dream can feel this convincing from the inside, then nothing you're sensing in this moment can prove it isn't one.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0042",
+      "video_id": "L7FSwztrda4",
+      "idx": 42,
+      "start_s": 132.24,
+      "end_s": 143.52,
+      "text": "He pushed it further and imagined an evil demon devoted to deceiving him about everything.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0043",
+      "video_id": "L7FSwztrda4",
+      "idx": 43,
+      "start_s": 138.44,
+      "end_s": 145.28,
+      "text": "The ground, the sky, his own body.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0044",
+      "video_id": "L7FSwztrda4",
+      "idx": 44,
+      "start_s": 141.32,
+      "end_s": 147.52,
+      "text": "He went hunting for one single thing that demon couldn't fake.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0045",
+      "video_id": "L7FSwztrda4",
+      "idx": 45,
+      "start_s": 143.52,
+      "end_s": 150.6,
+      "text": "And he found almost nothing left standing.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0046",
+      "video_id": "L7FSwztrda4",
+      "idx": 46,
+      "start_s": 145.28,
+      "end_s": 154.51999999999998,
+      "text": "In 1981, the philosopher Hilary Putnam made the same doubt even harder to escape.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0047",
+      "video_id": "L7FSwztrda4",
+      "idx": 47,
+      "start_s": 152.68,
+      "end_s": 161.51999999999998,
+      "text": "Picture a brain floating in a tank of fluid, kept alive, wired into a computer that feeds it electrical signals.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0048",
+      "video_id": "L7FSwztrda4",
+      "idx": 48,
+      "start_s": 157.2,
+      "end_s": 163.04,
+      "text": "The exact signals a real body would send.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0049",
+      "video_id": "L7FSwztrda4",
+      "idx": 49,
+      "start_s": 161.52,
+      "end_s": 167.88,
+      "text": "The taste of coffee, the weight of a blanket, the face of someone it loves.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0050",
+      "video_id": "L7FSwztrda4",
+      "idx": 50,
+      "start_s": 165.24,
+      "end_s": 170.44,
+      "text": "That brain would feel an entire life.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0051",
+      "video_id": "L7FSwztrda4",
+      "idx": 51,
+      "start_s": 165.24,
+      "end_s": 172.04,
+      "text": "A childhood, a hometown, a name.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0052",
+      "video_id": "L7FSwztrda4",
+      "idx": 52,
+      "start_s": 167.88,
+      "end_s": 176.28,
+      "text": "And it would have no way at all to discover the tank.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0053",
+      "video_id": "L7FSwztrda4",
+      "idx": 53,
+      "start_s": 172.04,
+      "end_s": 181.72,
+      "text": "Because every test it could run, every pinch, every glance down at its own hands, would just be more signal from the same machine.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0054",
+      "video_id": "L7FSwztrda4",
+      "idx": 54,
+      "start_s": 178.28,
+      "end_s": 183.959,
+      "text": "Then, notice the part that should bother you.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0055",
+      "video_id": "L7FSwztrda4",
+      "idx": 55,
+      "start_s": 180.28,
+      "end_s": 187.88,
+      "text": "From the inside, that brain's experience would be identical to yours.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0056",
+      "video_id": "L7FSwztrda4",
+      "idx": 56,
+      "start_s": 183.959,
+      "end_s": 194.239,
+      "text": "So, you cannot rule out that the body you think you're sitting in is one more signal arriving right on time.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0057",
+      "video_id": "L7FSwztrda4",
+      "idx": 57,
+      "start_s": 190.28,
+      "end_s": 198.32,
+      "text": "For most of history, this stayed a thought experiment because nobody could build the machine.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0058",
+      "video_id": "L7FSwztrda4",
+      "idx": 58,
+      "start_s": 194.239,
+      "end_s": 200.72,
+      "text": "But, that is starting to change.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0059",
+      "video_id": "L7FSwztrda4",
+      "idx": 59,
+      "start_s": 195.88,
+      "end_s": 206.519,
+      "text": "In 2003, an Oxford philosopher named Nick Bostrom pointed out something simple and hard to argue with.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0060",
+      "video_id": "L7FSwztrda4",
+      "idx": 60,
+      "start_s": 203.0,
+      "end_s": 212.88,
+      "text": "If a civilization ever gets advanced enough to simulate conscious minds, it won't run that simulation once.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0061",
+      "video_id": "L7FSwztrda4",
+      "idx": 61,
+      "start_s": 208.519,
+      "end_s": 214.92000000000002,
+      "text": "It'll run it thousands of times, millions.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0062",
+      "video_id": "L7FSwztrda4",
+      "idx": 62,
+      "start_s": 210.959,
+      "end_s": 220.07999999999998,
+      "text": "They might recreate their own past to study how they got here or build it simply for fun, the way we create entire worlds inside video games.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0063",
+      "video_id": "L7FSwztrda4",
+      "idx": 63,
+      "start_s": 216.64,
+      "end_s": 225.12,
+      "text": "And every one of those simulated worlds would be packed with people who are completely sure they're real.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0064",
+      "video_id": "L7FSwztrda4",
+      "idx": 64,
+      "start_s": 221.519,
+      "end_s": 227.11999999999998,
+      "text": "And it wouldn't take much to fool you.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0065",
+      "video_id": "L7FSwztrda4",
+      "idx": 65,
+      "start_s": 223.2,
+      "end_s": 233.04,
+      "text": "A simulation wouldn't have to render every galaxy, just the slice you happen to be looking at.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0066",
+      "video_id": "L7FSwztrda4",
+      "idx": 66,
+      "start_s": 229.239,
+      "end_s": 236.6,
+      "text": "The inside of an atom could stay blank until someone splits one open.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0067",
+      "video_id": "L7FSwztrda4",
+      "idx": 67,
+      "start_s": 233.04,
+      "end_s": 241.04,
+      "text": "The chair underneath you could be empty until the moment you decide to check.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0068",
+      "video_id": "L7FSwztrda4",
+      "idx": 68,
+      "start_s": 236.6,
+      "end_s": 245.84,
+      "text": "The only thing that truly has to be simulated is the part doing the experiencing, the mind, your mind.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0069",
+      "video_id": "L7FSwztrda4",
+      "idx": 69,
+      "start_s": 243.662,
+      "end_s": 250.20000000000002,
+      "text": "And a mind, for all its mystery, might be a finite thing to compute.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0070",
+      "video_id": "L7FSwztrda4",
+      "idx": 70,
+      "start_s": 245.84,
+      "end_s": 254.92,
+      "text": "Your brain runs on something like 100 trillion connections firing in patterns.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0071",
+      "video_id": "L7FSwztrda4",
+      "idx": 71,
+      "start_s": 252.52,
+      "end_s": 256.519,
+      "text": "Enormous, but not infinite.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0072",
+      "video_id": "L7FSwztrda4",
+      "idx": 72,
+      "start_s": 252.52,
+      "end_s": 263.0,
+      "text": "Build a machine big enough and you'd have room to run not just one mind, but billions of them at once.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0073",
+      "video_id": "L7FSwztrda4",
+      "idx": 73,
+      "start_s": 258.72,
+      "end_s": 271.08,
+      "text": "If real conscious beings ever build even a handful of these worlds, then simulated minds would outnumber flesh and blood ones by something like a billion to one.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0074",
+      "video_id": "L7FSwztrda4",
+      "idx": 74,
+      "start_s": 267.24,
+      "end_s": 276.28,
+      "text": "So, when you ask which kind you are, the math doesn't flatter you.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0075",
+      "video_id": "L7FSwztrda4",
+      "idx": 75,
+      "start_s": 271.08,
+      "end_s": 278.2,
+      "text": "The odds say simulated.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0076",
+      "video_id": "L7FSwztrda4",
+      "idx": 76,
+      "start_s": 273.96,
+      "end_s": 282.44,
+      "text": "Plenty of scientists argue this can't be tested at all, and they may well be right.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0077",
+      "video_id": "L7FSwztrda4",
+      "idx": 77,
+      "start_s": 278.2,
+      "end_s": 286.08,
+      "text": "But notice that none of them has managed to find the floor under your feet.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0078",
+      "video_id": "L7FSwztrda4",
+      "idx": 78,
+      "start_s": 282.44,
+      "end_s": 288.12,
+      "text": "But here's the bigger problem.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0079",
+      "video_id": "L7FSwztrda4",
+      "idx": 79,
+      "start_s": 284.12,
+      "end_s": 290.12,
+      "text": "You assume the people around you feel things the way you do.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0080",
+      "video_id": "L7FSwztrda4",
+      "idx": 80,
+      "start_s": 286.08,
+      "end_s": 294.4,
+      "text": "But you have never once felt anyone's experience except your own.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0081",
+      "video_id": "L7FSwztrda4",
+      "idx": 81,
+      "start_s": 290.12,
+      "end_s": 296.12,
+      "text": "You're the one filling in the rest.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0082",
+      "video_id": "L7FSwztrda4",
+      "idx": 82,
+      "start_s": 292.32,
+      "end_s": 302.8,
+      "text": "You watch a friend laugh and you assume there's a real experience happening inside them, that being them actually feels like something.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0083",
+      "video_id": "L7FSwztrda4",
+      "idx": 83,
+      "start_s": 298.2,
+      "end_s": 305.35999999999996,
+      "text": "You can't check.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0084",
+      "video_id": "L7FSwztrda4",
+      "idx": 84,
+      "start_s": 300.84,
+      "end_s": 307.68,
+      "text": "Philosophers describe a creature called a philosophical zombie.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0085",
+      "video_id": "L7FSwztrda4",
+      "idx": 85,
+      "start_s": 302.8,
+      "end_s": 313.72,
+      "text": "It walks, talks, flinches when it stubs its toe, says all the right things at all the right moments.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0086",
+      "video_id": "L7FSwztrda4",
+      "idx": 86,
+      "start_s": 309.48,
+      "end_s": 317.72,
+      "text": "From the outside, it's a flawless human being, but inside, the lights are off.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0087",
+      "video_id": "L7FSwztrda4",
+      "idx": 87,
+      "start_s": 313.72,
+      "end_s": 317.72,
+      "text": "Nobody home.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0088",
+      "video_id": "L7FSwztrda4",
+      "idx": 88,
+      "start_s": 313.72,
+      "end_s": 320.04,
+      "text": "Nothing is being felt in there at all.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0089",
+      "video_id": "L7FSwztrda4",
+      "idx": 89,
+      "start_s": 316.16,
+      "end_s": 327.8,
+      "text": "The unsettling part is that no test could ever tell a zombie apart from a real person, because their behavior is identical.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0090",
+      "video_id": "L7FSwztrda4",
+      "idx": 90,
+      "start_s": 323.32,
+      "end_s": 332.32,
+      "text": "The philosopher David Chalmers called this the hard problem of consciousness.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0091",
+      "video_id": "L7FSwztrda4",
+      "idx": 91,
+      "start_s": 327.8,
+      "end_s": 334.44,
+      "text": "We can map exactly which neurons fire when you see the color red.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0092",
+      "video_id": "L7FSwztrda4",
+      "idx": 92,
+      "start_s": 332.32,
+      "end_s": 343.52000000000004,
+      "text": "We cannot explain why that firing comes wrapped in an experience of redness, instead of happening silently in the dark, the way the rest of the universe seems to.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0093",
+      "video_id": "L7FSwztrda4",
+      "idx": 93,
+      "start_s": 339.72,
+      "end_s": 347.88,
+      "text": "If we can't explain how a brain produces experience, we can't be sure that only brains can do it.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0094",
+      "video_id": "L7FSwztrda4",
+      "idx": 94,
+      "start_s": 343.52,
+      "end_s": 349.52,
+      "text": "Maybe a powerful enough computer could, too.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0095",
+      "video_id": "L7FSwztrda4",
+      "idx": 95,
+      "start_s": 345.88,
+      "end_s": 352.88,
+      "text": "And that is exactly the loophole a simulation would need.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0096",
+      "video_id": "L7FSwztrda4",
+      "idx": 96,
+      "start_s": 349.52,
+      "end_s": 359.71999999999997,
+      "text": "Then there are the corners of physics that a few scientists point out half seriously with one eyebrow raised.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0097",
+      "video_id": "L7FSwztrda4",
+      "idx": 97,
+      "start_s": 355.32,
+      "end_s": 367.76,
+      "text": "Reality seems to have a smallest possible size, a scale below which distance stops meaning anything, the way an image stops making sense once you zoom in past its pixels.",
+      "n_words": 30
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0098",
+      "video_id": "L7FSwztrda4",
+      "idx": 98,
+      "start_s": 366.04,
+      "end_s": 376.24,
+      "text": "The speed of light behaves less like a law and more like a hard ceiling, the kind of cap you'd write into a system to stop it from overloading.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0099",
+      "video_id": "L7FSwztrda4",
+      "idx": 99,
+      "start_s": 371.8,
+      "end_s": 386.4,
+      "text": "And a physicist named James Gates says he found something buried in the math that looked like error correcting code, the same kind of code that runs inside your computer to catch its own mistakes.",
+      "n_words": 35
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0100",
+      "video_id": "L7FSwztrda4",
+      "idx": 100,
+      "start_s": 382.52,
+      "end_s": 394.12,
+      "text": "None of this proves anything, and Gates is the first to say so, but it's the sort of thing that once you've heard it, you can't fully unhear.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0101",
+      "video_id": "L7FSwztrda4",
+      "idx": 101,
+      "start_s": 390.08,
+      "end_s": 396.0,
+      "text": "So, step all the way back and try to find the bottom of it.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0102",
+      "video_id": "L7FSwztrda4",
+      "idx": 102,
+      "start_s": 394.12,
+      "end_s": 399.32,
+      "text": "Every belief you hold is propped up by another belief.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0103",
+      "video_id": "L7FSwztrda4",
+      "idx": 103,
+      "start_s": 396.0,
+      "end_s": 400.84,
+      "text": "You trust your senses because they've worked before.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0104",
+      "video_id": "L7FSwztrda4",
+      "idx": 104,
+      "start_s": 397.919,
+      "end_s": 405.0,
+      "text": "You believe they worked before because you remember it.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0105",
+      "video_id": "L7FSwztrda4",
+      "idx": 105,
+      "start_s": 400.84,
+      "end_s": 406.88,
+      "text": "And you lean on that memory because so far it has felt reliable.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0106",
+      "video_id": "L7FSwztrda4",
+      "idx": 106,
+      "start_s": 405.0,
+      "end_s": 408.68,
+      "text": "Each rung hangs off the one above it.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0107",
+      "video_id": "L7FSwztrda4",
+      "idx": 107,
+      "start_s": 406.88,
+      "end_s": 414.68,
+      "text": "And when you finally climb to the top, there's nothing holding the whole ladder up.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0108",
+      "video_id": "L7FSwztrda4",
+      "idx": 108,
+      "start_s": 410.2,
+      "end_s": 420.68,
+      "text": "You either argue in a circle, or you chase the justifications forever, or you stop somewhere and quietly declare, \"This part I'll just take on faith.\"",
+      "n_words": 26
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0109",
+      "video_id": "L7FSwztrda4",
+      "idx": 109,
+      "start_s": 418.84,
+      "end_s": 422.84,
+      "text": "There is no fourth option.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0110",
+      "video_id": "L7FSwztrda4",
+      "idx": 110,
+      "start_s": 418.84,
+      "end_s": 433.2,
+      "text": "A German philosopher named Hans Albert laid this trap out and named it after an old folk tale about a man who tried to haul himself out of a swamp by yanking on his own hair.",
+      "n_words": 36
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0111",
+      "video_id": "L7FSwztrda4",
+      "idx": 111,
+      "start_s": 428.64,
+      "end_s": 440.68,
+      "text": "That is what proving your own reality from the inside comes down to, reaching up, grabbing a fistful of your own hair, and pulling.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0112",
+      "video_id": "L7FSwztrda4",
+      "idx": 112,
+      "start_s": 435.24,
+      "end_s": 440.68,
+      "text": "So, are you real?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0113",
+      "video_id": "L7FSwztrda4",
+      "idx": 113,
+      "start_s": 438.919,
+      "end_s": 446.28000000000003,
+      "text": "Nobody can prove that you are, not the smartest philosopher who ever lived, and not you either.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0114",
+      "video_id": "L7FSwztrda4",
+      "idx": 114,
+      "start_s": 442.6,
+      "end_s": 447.88000000000005,
+      "text": "And just as importantly, nobody can prove that you aren't.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0115",
+      "video_id": "L7FSwztrda4",
+      "idx": 115,
+      "start_s": 446.28,
+      "end_s": 454.0,
+      "text": "There's no argument and no view from outside the picture that settles it in either direction.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0116",
+      "video_id": "L7FSwztrda4",
+      "idx": 116,
+      "start_s": 449.52,
+      "end_s": 457.88,
+      "text": "The question just sits there, permanently open with you stuck inside it.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0117",
+      "video_id": "L7FSwztrda4",
+      "idx": 117,
+      "start_s": 454.0,
+      "end_s": 461.2,
+      "text": "The mathematician Martin Gardner was once asked how he lived with that.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0118",
+      "video_id": "L7FSwztrda4",
+      "idx": 118,
+      "start_s": 457.88,
+      "end_s": 466.88,
+      "text": "He said he chose to believe the world is real, not because he could prove it, but because that belief is healthier and it works.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0119",
+      "video_id": "L7FSwztrda4",
+      "idx": 119,
+      "start_s": 462.92,
+      "end_s": 470.44,
+      "text": "That might be the most honest answer anyone has ever given.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0120",
+      "video_id": "L7FSwztrda4",
+      "idx": 120,
+      "start_s": 466.88,
+      "end_s": 472.12,
+      "text": "You will never get to touch reality bear.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0121",
+      "video_id": "L7FSwztrda4",
+      "idx": 121,
+      "start_s": 468.68,
+      "end_s": 479.96,
+      "text": "You're stuck in here behind your own eyes working from a picture you can't fully verify, but the warmth of the person beside you still feels like warmth.",
+      "n_words": 28
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0122",
+      "video_id": "L7FSwztrda4",
+      "idx": 122,
+      "start_s": 476.2,
+      "end_s": 481.88,
+      "text": "The questions still feel worth asking.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0123",
+      "video_id": "L7FSwztrda4",
+      "idx": 123,
+      "start_s": 478.32,
+      "end_s": 489.52,
+      "text": "And whether the ground under you is solid rock or running code, you're the one standing on it getting to wonder about any of this at all.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0124",
+      "video_id": "L7FSwztrda4",
+      "idx": 124,
+      "start_s": 485.24,
+      "end_s": 492.919,
+      "text": "There's exactly one thing in here that no demon, no tank, and no computer can take from you.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0125",
+      "video_id": "L7FSwztrda4",
+      "idx": 125,
+      "start_s": 489.52,
+      "end_s": 496.24,
+      "text": "It's the fact that something right now is being experienced at all.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0126",
+      "video_id": "L7FSwztrda4",
+      "idx": 126,
+      "start_s": 492.919,
+      "end_s": 498.15999999999997,
+      "text": "That part is happening.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0127",
+      "video_id": "L7FSwztrda4",
+      "idx": 127,
+      "start_s": 494.64,
+      "end_s": 500.48,
+      "text": "Whatever this is, you're in it.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "L7FSwztrda4:s0128",
+      "video_id": "L7FSwztrda4",
+      "idx": 128,
+      "start_s": 496.24,
+      "end_s": 500.48,
+      "text": "So, you might as well be here for it.",
+      "n_words": 9
+    }
+  ]
+}

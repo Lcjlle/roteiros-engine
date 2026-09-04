@@ -1,0 +1,1816 @@
+{
+  "video_id": "gEnnt7fDn5Y",
+  "duration_s": 778.0,
+  "generated_at": "2026-09-04T03:00:18.284426+00:00",
+  "sentences": [
+    {
+      "sent_id": "gEnnt7fDn5Y:s0000",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 0,
+      "start_s": 0.0,
+      "end_s": 3.72,
+      "text": "You've been told a story about money.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0001",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 1,
+      "start_s": 0.0,
+      "end_s": 6.04,
+      "text": "It goes like this.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0002",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 2,
+      "start_s": 1.64,
+      "end_s": 8.040000000000001,
+      "text": "A long time ago, before money existed, people traded.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0003",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 3,
+      "start_s": 3.72,
+      "end_s": 16.64,
+      "text": "You had chickens, your neighbor had bread, you swapped, and one day the story says this got too clumsy, so somebody invented money to fix it.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0004",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 4,
+      "start_s": 12.4,
+      "end_s": 26.4,
+      "text": "That story is in your old school books, and for the last 100 years anthropologists have searched for a single society that actually worked this way.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0005",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 5,
+      "start_s": 21.48,
+      "end_s": 28.48,
+      "text": "They have never found one, not even one.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0006",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 6,
+      "start_s": 24.52,
+      "end_s": 32.480000000000004,
+      "text": "The barter economy that supposedly gave birth to money is a myth.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0007",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 7,
+      "start_s": 28.48,
+      "end_s": 32.480000000000004,
+      "text": "Money did not come from trade.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0008",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 8,
+      "start_s": 28.48,
+      "end_s": 34.56,
+      "text": "It came from something darker.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0009",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 9,
+      "start_s": 30.76,
+      "end_s": 38.64,
+      "text": "And once you see what money really is, you start to notice a pattern.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0010",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 10,
+      "start_s": 34.56,
+      "end_s": 43.56,
+      "text": "Every form of money humans have ever invented has followed the same arc.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0011",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 11,
+      "start_s": 38.64,
+      "end_s": 51.84,
+      "text": "It gets created, people come to trust it, then power captures it, quietly drains its value, and it collapses.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0012",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 12,
+      "start_s": 45.56,
+      "end_s": 54.800000000000004,
+      "text": "Shells, coins, paper, gold, the money you work for every day.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0013",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 13,
+      "start_s": 49.6,
+      "end_s": 59.31999999999999,
+      "text": "The same story over and over for 10,000 years.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0014",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 14,
+      "start_s": 54.8,
+      "end_s": 63.08,
+      "text": "This is the entire history of money, and it ends somewhere you are not going to expect.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0015",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 15,
+      "start_s": 59.32,
+      "end_s": 64.67999999999999,
+      "text": "So, if money didn't start with barter, where did it start?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0016",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 16,
+      "start_s": 63.08,
+      "end_s": 69.64,
+      "text": "Before there were coins, before there were even shells, there was debt.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0017",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 17,
+      "start_s": 66.96,
+      "end_s": 71.6,
+      "text": "Picture a village 10,000 years ago.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0018",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 18,
+      "start_s": 66.96,
+      "end_s": 74.0,
+      "text": "You help your neighbor fix his roof.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0019",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 19,
+      "start_s": 69.64,
+      "end_s": 76.19999999999999,
+      "text": "He doesn't pay you, he just owes you.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0020",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 20,
+      "start_s": 71.6,
+      "end_s": 80.76,
+      "text": "That favor sits there until one day he hands you grain, and the debt is settled.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0021",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 21,
+      "start_s": 76.2,
+      "end_s": 83.28,
+      "text": "That is the real first money.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0022",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 22,
+      "start_s": 78.36,
+      "end_s": 87.4,
+      "text": "It was not an object, it was a memory, a record of who owes what to whom.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0023",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 23,
+      "start_s": 83.28,
+      "end_s": 87.4,
+      "text": "And we can prove it.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0024",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 24,
+      "start_s": 85.48,
+      "end_s": 95.64,
+      "text": "The temples of ancient Mesopotamia were recording these debts in silver 5,000 years ago, long before the first coin existed.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0025",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 25,
+      "start_s": 91.72,
+      "end_s": 97.44,
+      "text": "Money was never invented to make shopping easier.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0026",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 26,
+      "start_s": 93.72,
+      "end_s": 99.64,
+      "text": "It was invented to keep score.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0027",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 27,
+      "start_s": 95.64,
+      "end_s": 101.32,
+      "text": "And the moment you can keep score, you can rig the game.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0028",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 28,
+      "start_s": 97.44,
+      "end_s": 103.6,
+      "text": "Everything that comes next is that one story.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0029",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 29,
+      "start_s": 101.32,
+      "end_s": 107.8,
+      "text": "10,000 years of people finding new ways to rig it.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0030",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 30,
+      "start_s": 103.6,
+      "end_s": 112.0,
+      "text": "As villages grew into cities, that web of memory got too big to hold in anyone's head.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0031",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 31,
+      "start_s": 107.8,
+      "end_s": 116.88,
+      "text": "So, people needed a physical stand-in, an object everyone agreed was valuable.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0032",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 32,
+      "start_s": 112.0,
+      "end_s": 119.47999999999999,
+      "text": "And humans tried almost everything.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0033",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 33,
+      "start_s": 114.24,
+      "end_s": 119.47999999999999,
+      "text": "Cattle, salt.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0034",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 34,
+      "start_s": 114.24,
+      "end_s": 123.64,
+      "text": "On the island of Yap, giant stone discs too heavy to ever move.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0035",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 35,
+      "start_s": 119.48,
+      "end_s": 130.28,
+      "text": "Across Africa and Asia, the cowrie shell became one of the most widely used currencies in human history.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0036",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 36,
+      "start_s": 125.76,
+      "end_s": 132.92,
+      "text": "Each of these worked for one reason.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0037",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 37,
+      "start_s": 127.96,
+      "end_s": 132.92,
+      "text": "Everyone agreed it was scarce.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0038",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 38,
+      "start_s": 130.28,
+      "end_s": 134.88,
+      "text": "But, scarcity is fragile.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0039",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 39,
+      "start_s": 130.28,
+      "end_s": 141.72,
+      "text": "The moment outsiders flooded a region with cheap shells from elsewhere, the local money collapsed overnight.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0040",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 40,
+      "start_s": 136.88,
+      "end_s": 144.959,
+      "text": "The objects kept changing.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0041",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 41,
+      "start_s": 139.0,
+      "end_s": 144.959,
+      "text": "The weakness never did.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0042",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 42,
+      "start_s": 141.72,
+      "end_s": 151.28,
+      "text": "The real fix arrived around 600 BC in the kingdom called Lydia in what is now western Turkey.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0043",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 43,
+      "start_s": 147.16,
+      "end_s": 159.12,
+      "text": "Their rivers carried electrum, a natural blend of gold and silver, but every lump had a different purity, so nobody could agree what it was worth.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0044",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 44,
+      "start_s": 155.12,
+      "end_s": 165.92000000000002,
+      "text": "So, the Lydian kings melted it down, fixed the weight, fixed the purity, and stamped each piece with the royal seal.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0045",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 45,
+      "start_s": 161.36,
+      "end_s": 165.92000000000002,
+      "text": "That stamp was a promise.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0046",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 46,
+      "start_s": 163.76,
+      "end_s": 167.6,
+      "text": "The king guarantees this.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0047",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 47,
+      "start_s": 163.76,
+      "end_s": 169.6,
+      "text": "You no longer had to weigh it or test it.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0048",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 48,
+      "start_s": 165.92,
+      "end_s": 171.92,
+      "text": "You just trusted the face on the coin.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0049",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 49,
+      "start_s": 167.6,
+      "end_s": 177.51999999999998,
+      "text": "This was the first true coinage, and within two centuries it had spread across the ancient world.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0050",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 50,
+      "start_s": 173.88,
+      "end_s": 179.56,
+      "text": "But, notice what happened.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0051",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 51,
+      "start_s": 175.48,
+      "end_s": 181.64000000000001,
+      "text": "For the first time, money carried a ruler's face.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0052",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 52,
+      "start_s": 177.52,
+      "end_s": 190.72,
+      "text": "Money and political power had fused into the same object, and that handed whoever wore the crown a temptation no ruler has ever resisted.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0053",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 53,
+      "start_s": 186.32,
+      "end_s": 192.20000000000002,
+      "text": "Rome is where that temptation became a science.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0054",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 54,
+      "start_s": 188.519,
+      "end_s": 196.83999999999997,
+      "text": "The Roman denarius started as a silver coin you could trust.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0055",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 55,
+      "start_s": 192.2,
+      "end_s": 199.239,
+      "text": "Under the Emperor Augustus, it was almost pure silver.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0056",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 56,
+      "start_s": 194.4,
+      "end_s": 203.64000000000001,
+      "text": "But, running an empire is expensive, and the emperors discovered a trick that felt like magic.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0057",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 57,
+      "start_s": 201.56,
+      "end_s": 212.6,
+      "text": "Take the silver coins back in through taxes, melt them down, mix in cheap copper, restamp them at the same face value.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0058",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 58,
+      "start_s": 208.44,
+      "end_s": 214.72,
+      "text": "Now, you have more coins than you started with.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0059",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 59,
+      "start_s": 210.6,
+      "end_s": 217.2,
+      "text": "You have created money out of nothing.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0060",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 60,
+      "start_s": 212.6,
+      "end_s": 219.08,
+      "text": "Each emperor did it a little more than the last.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0061",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 61,
+      "start_s": 214.72,
+      "end_s": 223.72,
+      "text": "By the year 270, the denarius that was once nearly pure silver contained barely 5%.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0062",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 62,
+      "start_s": 219.08,
+      "end_s": 225.67999999999998,
+      "text": "The coin looked the same.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0063",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 63,
+      "start_s": 221.92,
+      "end_s": 229.88,
+      "text": "The number on it was the same, but it was mostly worthless metal.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0064",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 64,
+      "start_s": 225.68,
+      "end_s": 229.88,
+      "text": "Romans were not stupid.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0065",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 65,
+      "start_s": 225.68,
+      "end_s": 235.56,
+      "text": "They watched prices climb and started hiding the the good coins while spending the new bad ones.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0066",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 66,
+      "start_s": 231.44,
+      "end_s": 240.08,
+      "text": "The empire was inflating its way into a crisis, and the money collapsed long before the empire did.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0067",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 67,
+      "start_s": 237.96,
+      "end_s": 242.0,
+      "text": "Rome would not be the last to try this.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0068",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 68,
+      "start_s": 240.08,
+      "end_s": 244.0,
+      "text": "It was just the first to do it at scale.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0069",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 69,
+      "start_s": 242.0,
+      "end_s": 249.959,
+      "text": "While Rome shaved its coins, the other side of the world made a leap nobody had dared before.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0070",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 70,
+      "start_s": 246.08,
+      "end_s": 253.52,
+      "text": "In China, hauling strings of heavy copper coins around was exhausting.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0071",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 71,
+      "start_s": 249.959,
+      "end_s": 259.48,
+      "text": "So, merchants began leaving their coins with a trusted shop and walking away with a paper receipt instead.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0072",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 72,
+      "start_s": 255.04,
+      "end_s": 263.44,
+      "text": "By the 11th century, under the Song Dynasty, the government issued the world's first official paper money.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0073",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 73,
+      "start_s": 259.48,
+      "end_s": 265.84000000000003,
+      "text": "For a while, it was brilliant.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0074",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 74,
+      "start_s": 261.6,
+      "end_s": 274.15999999999997,
+      "text": "Then, the Mongols conquered China, and Kublai Khan made paper money the only legal currency in his empire, backed by nothing but his own command.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0075",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 75,
+      "start_s": 270.28,
+      "end_s": 280.88,
+      "text": "When Marco Polo saw it, he wrote that the Khan had mastered the secret of alchemy, turning plain paper into the wealth of a kingdom.",
+      "n_words": 25
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0076",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 76,
+      "start_s": 276.52,
+      "end_s": 285.2,
+      "text": "But, paper has the same flaw as a Roman coin, only worse.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0077",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 77,
+      "start_s": 280.88,
+      "end_s": 287.59999999999997,
+      "text": "A coin you have to physically melt down, paper you just print.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0078",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 78,
+      "start_s": 282.84,
+      "end_s": 290.08,
+      "text": "And the emperors printed and printed.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0079",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 79,
+      "start_s": 285.2,
+      "end_s": 297.84000000000003,
+      "text": "The money lost so much value that the Ming Dynasty eventually gave up on paper entirely and crawled back to metal.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0080",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 80,
+      "start_s": 292.68,
+      "end_s": 302.23999999999995,
+      "text": "Different empire, different material, the same ending Rome had already lived through.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0081",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 81,
+      "start_s": 297.84,
+      "end_s": 304.84,
+      "text": "For most of history, money sat still.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0082",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 82,
+      "start_s": 299.84,
+      "end_s": 307.40000000000003,
+      "text": "Renaissance Italy changed that.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0083",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 83,
+      "start_s": 302.24,
+      "end_s": 312.44,
+      "text": "It turned money into something that moves and grows on its own.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0084",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 84,
+      "start_s": 307.4,
+      "end_s": 315.64,
+      "text": "The stars of this story are one family, the Medici of Florence.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0085",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 85,
+      "start_s": 310.2,
+      "end_s": 320.64,
+      "text": "The Medici Bank, founded in 1397, did not get rich mining gold or conquering land.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0086",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 86,
+      "start_s": 318.32,
+      "end_s": 324.76,
+      "text": "It got rich on a piece of paper called a bill of exchange.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0087",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 87,
+      "start_s": 320.64,
+      "end_s": 327.12,
+      "text": "The church had banned charging interest on loans.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0088",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 88,
+      "start_s": 322.52,
+      "end_s": 328.71999999999997,
+      "text": "They called it usury, and they called it a sin.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0089",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 89,
+      "start_s": 324.76,
+      "end_s": 332.64000000000004,
+      "text": "So, the Medici dressed interest up as a currency exchange.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0090",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 90,
+      "start_s": 328.72,
+      "end_s": 343.76,
+      "text": "A merchant deposited money in Florence and collected it months later in London in another currency, and the bank's profit was hidden inside the exchange rate, alone, with the sin neatly removed.",
+      "n_words": 32
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0091",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 91,
+      "start_s": 338.919,
+      "end_s": 347.92,
+      "text": "The Medici used that power to fund popes, crown kings, and bankroll the Renaissance.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0092",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 92,
+      "start_s": 346.08,
+      "end_s": 352.24,
+      "text": "Money had stopped being a pile of metal you could count.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0093",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 93,
+      "start_s": 347.92,
+      "end_s": 357.79999999999995,
+      "text": "It had become a network, invisible, fast, abstract, and the harder money is to see, the easier it becomes to quietly drain.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0094",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 94,
+      "start_s": 353.96,
+      "end_s": 361.52000000000004,
+      "text": "The oldest pattern was about to get much harder to spot.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0095",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 95,
+      "start_s": 357.8,
+      "end_s": 366.56,
+      "text": "For centuries after, the world tried to anchor money to something a king could not fake, gold.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0096",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 96,
+      "start_s": 361.52,
+      "end_s": 368.4,
+      "text": "The logic was simple.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0097",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 97,
+      "start_s": 364.28,
+      "end_s": 368.4,
+      "text": "Every paper note was a promise.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0098",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 98,
+      "start_s": 366.56,
+      "end_s": 372.35999999999996,
+      "text": "Carry it to a bank and you could swap it for a fixed amount of real gold.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0099",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 99,
+      "start_s": 368.4,
+      "end_s": 377.88,
+      "text": "The money supply was chained to how much metal a country actually held.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0100",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 100,
+      "start_s": 372.36,
+      "end_s": 383.35999999999996,
+      "text": "Britain led the way and by the late 1800s, most of the trading world had followed onto the gold standard.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0101",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 101,
+      "start_s": 379.4,
+      "end_s": 385.56,
+      "text": "For a few decades, it worked beautifully.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0102",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 102,
+      "start_s": 381.32,
+      "end_s": 391.72,
+      "text": "Prices were stable, but gold has a hard limit and when a war comes, a government needs to spend far more than its gold reserves allow.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0103",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 103,
+      "start_s": 387.8,
+      "end_s": 398.28,
+      "text": "So, during the First World War, country after country quietly suspended the rule and printed what they needed.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0104",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 104,
+      "start_s": 394.28,
+      "end_s": 406.56,
+      "text": "The anchor, it turned out, was only ever attached when it was convenient and one country showed the world what happens when you let go completely.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0105",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 105,
+      "start_s": 402.6,
+      "end_s": 410.64,
+      "text": "After losing the First World War, Germany was forced to pay enormous sums it did not have.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0106",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 106,
+      "start_s": 408.8,
+      "end_s": 413.24,
+      "text": "So, it printed around the clock.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0107",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 107,
+      "start_s": 408.8,
+      "end_s": 415.03999999999996,
+      "text": "By 1923, the money broke.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0108",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 108,
+      "start_s": 410.64,
+      "end_s": 416.6,
+      "text": "Prices doubled every couple of days.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0109",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 109,
+      "start_s": 413.24,
+      "end_s": 422.64000000000004,
+      "text": "A loaf of bread that cost a couple of marks before the war cost hundreds of billions by the end of the year.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0110",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 110,
+      "start_s": 418.6,
+      "end_s": 428.8,
+      "text": "People burned banknotes for heat because the paper was cheaper than firewood and entire nation's savings was wiped out in a matter of months.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0111",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 111,
+      "start_s": 425.08,
+      "end_s": 436.28000000000003,
+      "text": "It was the same pattern as Rome, the same pattern as China, only now it took months, not centuries.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0112",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 112,
+      "start_s": 431.24,
+      "end_s": 441.79999999999995,
+      "text": "And the ruin it left behind helped drag the world into another war.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0113",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 113,
+      "start_s": 436.28,
+      "end_s": 444.0,
+      "text": "After the Second World War, the world needed a new system.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0114",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 114,
+      "start_s": 438.4,
+      "end_s": 448.64,
+      "text": "In 1944, delegates from 44 countries gathered at a hotel in Bretton Woods, New Hampshire.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0115",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 115,
+      "start_s": 446.2,
+      "end_s": 458.52000000000004,
+      "text": "The deal was this, the US dollar would be tied to gold at $35 an ounce and every other currency would be tied to the dollar.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0116",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 116,
+      "start_s": 453.72,
+      "end_s": 460.91900000000004,
+      "text": "The world no longer trusted gold directly.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0117",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 117,
+      "start_s": 456.04,
+      "end_s": 463.12,
+      "text": "It trusted America's promise to hold the gold for everyone.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0118",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 118,
+      "start_s": 460.919,
+      "end_s": 472.64,
+      "text": "This is the moment the US dollar quietly became the center of the entire planet's money, and it all worked on one assumption, that America would always keep enough gold to honor the promise.",
+      "n_words": 34
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0119",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 119,
+      "start_s": 470.6,
+      "end_s": 477.0,
+      "text": "For about 25 years it held, and then America started spending.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0120",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 120,
+      "start_s": 472.64,
+      "end_s": 483.0,
+      "text": "By the late 1960s, the United States was paying for a war in Vietnam, and expensive new programs at home, all at once.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0121",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 121,
+      "start_s": 478.84,
+      "end_s": 486.84,
+      "text": "It was sending far more dollars into the world than it had gold to back them.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0122",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 122,
+      "start_s": 483.0,
+      "end_s": 491.52,
+      "text": "France did the math and started demanding actual gold for its dollars.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0123",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 123,
+      "start_s": 486.84,
+      "end_s": 494.20000000000005,
+      "text": "The vaults were draining fast.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0124",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 124,
+      "start_s": 489.16,
+      "end_s": 499.76,
+      "text": "On August 15th, 1971, President Richard Nixon went on television and told the world the dollar could no longer be exchanged for gold.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0125",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 125,
+      "start_s": 498.12,
+      "end_s": 501.6,
+      "text": "He called it temporary.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0126",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 126,
+      "start_s": 498.12,
+      "end_s": 503.88,
+      "text": "It was permanent.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0127",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 127,
+      "start_s": 499.76,
+      "end_s": 507.919,
+      "text": "In that one announcement, the last link between money and any physical thing on Earth was cut.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0128",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 128,
+      "start_s": 503.88,
+      "end_s": 516.5600000000001,
+      "text": "For the first time in history, the money of the entire planet was backed by nothing you could hold, only trust in the government that printed it.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0129",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 129,
+      "start_s": 511.68,
+      "end_s": 519.159,
+      "text": "We had arrived at pure fiat money.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0130",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 130,
+      "start_s": 513.68,
+      "end_s": 519.159,
+      "text": "Fiat is a Latin word.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0131",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 131,
+      "start_s": 513.68,
+      "end_s": 520.919,
+      "text": "It means let it be done.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0132",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 132,
+      "start_s": 516.56,
+      "end_s": 522.84,
+      "text": "Fiat money has value because the government says it does.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0133",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 133,
+      "start_s": 519.159,
+      "end_s": 524.8,
+      "text": "For no other reason.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0134",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 134,
+      "start_s": 520.919,
+      "end_s": 527.0,
+      "text": "The note in your wallet is not a claim on gold.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0135",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 135,
+      "start_s": 522.84,
+      "end_s": 528.9599999999999,
+      "text": "It is not a claim on anything.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0136",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 136,
+      "start_s": 524.8,
+      "end_s": 532.88,
+      "text": "It is worth something because everyone around you agrees to keep pretending that it is.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0137",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 137,
+      "start_s": 528.96,
+      "end_s": 537.2,
+      "text": "And once money is no longer chained to a rock, the supply has no limit.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0138",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 138,
+      "start_s": 532.88,
+      "end_s": 541.839,
+      "text": "A government can create more whenever it chooses with a single keystroke.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0139",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 139,
+      "start_s": 537.2,
+      "end_s": 548.2,
+      "text": "The US dollar has lost more than 80% of its purchasing power since Nixon cut it loose from gold.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0140",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 140,
+      "start_s": 543.6,
+      "end_s": 550.24,
+      "text": "The number on the bill never changes.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0141",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 141,
+      "start_s": 545.4,
+      "end_s": 552.2,
+      "text": "It just quietly buys you less every year.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0142",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 142,
+      "start_s": 548.2,
+      "end_s": 554.32,
+      "text": "This is the same trick the Roman emperors used.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0143",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 143,
+      "start_s": 550.24,
+      "end_s": 556.2,
+      "text": "The same trick the Chinese emperors used.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0144",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 144,
+      "start_s": 552.2,
+      "end_s": 558.6,
+      "text": "We just stopped calling it watering down the money.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0145",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 145,
+      "start_s": 554.32,
+      "end_s": 561.88,
+      "text": "We started calling it monetary policy.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0146",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 146,
+      "start_s": 556.2,
+      "end_s": 563.96,
+      "text": "For decades the system held, until 2008.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0147",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 147,
+      "start_s": 561.88,
+      "end_s": 571.6400000000001,
+      "text": "Banks had bundled millions of risky home loans into products they sold as perfectly safe, then placed enormous bets on them, layer on layer.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0148",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 148,
+      "start_s": 567.44,
+      "end_s": 576.4,
+      "text": "When American house prices stopped rising, the tower came down.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0149",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 149,
+      "start_s": 571.64,
+      "end_s": 582.72,
+      "text": "In September 2008, Lehman Brothers, a bank that had survived over 150 years, collapsed in a single weekend.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0150",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 150,
+      "start_s": 579.12,
+      "end_s": 588.48,
+      "text": "For a few days, the global financial system looked like it might stop, and the response revealed what fiat money really is.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0151",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 151,
+      "start_s": 584.48,
+      "end_s": 596.52,
+      "text": "Governments and central banks created trillions of new dollars from nothing and used them to rescue the very banks that had caused the crisis.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0152",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 152,
+      "start_s": 592.16,
+      "end_s": 598.52,
+      "text": "The people who took the risk got bailed out.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0153",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 153,
+      "start_s": 594.28,
+      "end_s": 602.0,
+      "text": "The public absorbed the cost through the slow erosion of their savings.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0154",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 154,
+      "start_s": 598.52,
+      "end_s": 608.16,
+      "text": "Millions lost their homes and their jobs, then watched the institutions responsible get rescued with money conjured on a screen.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0155",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 155,
+      "start_s": 604.04,
+      "end_s": 611.92,
+      "text": "And a lot of those people came out of 2008 asking a dangerous question.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0156",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 156,
+      "start_s": 608.16,
+      "end_s": 615.8,
+      "text": "Why do we trust these institutions with our money at all?",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0157",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 157,
+      "start_s": 611.92,
+      "end_s": 619.2800000000001,
+      "text": "Someone was asking that question while the crisis was still unfolding.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0158",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 158,
+      "start_s": 613.84,
+      "end_s": 625.44,
+      "text": "On October 31st, 2008, a person or group using the name Satoshi Nakamoto published a nine-page document.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0159",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 159,
+      "start_s": 621.32,
+      "end_s": 632.7199999999999,
+      "text": "It described a new kind of money called Bitcoin, money with no government, no bank, no central authority of any kind.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0160",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 160,
+      "start_s": 630.64,
+      "end_s": 643.6800000000001,
+      "text": "Instead of trusting an institution, you would trust a shared public record kept by thousands of computers around the world at once that nobody could secretly edit.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0161",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 161,
+      "start_s": 639.2,
+      "end_s": 648.4,
+      "text": "In a strange way, it was a return to the first idea, money as a record of who [snorts] owes what to whom.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0162",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 162,
+      "start_s": 643.68,
+      "end_s": 653.04,
+      "text": "Except this one answered to no king and no emperor, and the supply was capped.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0163",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 163,
+      "start_s": 648.4,
+      "end_s": 654.76,
+      "text": "Only 21 million Bitcoin will ever exist.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0164",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 164,
+      "start_s": 653.04,
+      "end_s": 657.5999999999999,
+      "text": "Nobody can print more.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0165",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 165,
+      "start_s": 653.04,
+      "end_s": 666.04,
+      "text": "When Satoshi launched it in January 2009, he buried a message inside the very first block, a newspaper headline about banks getting bailed out.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0166",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 166,
+      "start_s": 661.56,
+      "end_s": 670.4399999999999,
+      "text": "For the first time in 10,000 years, here was money that power could not quietly debase.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0167",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 167,
+      "start_s": 666.04,
+      "end_s": 672.5600000000001,
+      "text": "At least, that was the promise.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0168",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 168,
+      "start_s": 668.32,
+      "end_s": 674.2,
+      "text": "But power does not give up control of money.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0169",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 169,
+      "start_s": 670.44,
+      "end_s": 674.2,
+      "text": "It never has.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0170",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 170,
+      "start_s": 672.56,
+      "end_s": 678.9200000000001,
+      "text": "Governments watched the rise of digital currency and drew their own conclusion.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0171",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 171,
+      "start_s": 676.32,
+      "end_s": 684.9599999999999,
+      "text": "If money is going digital, it should be their digital money.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0172",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 172,
+      "start_s": 678.92,
+      "end_s": 695.3199999999999,
+      "text": "That is the central bank digital currency, a CBDC, your national currency in a purely digital form issued directly by the central bank.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0173",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 173,
+      "start_s": 689.64,
+      "end_s": 697.44,
+      "text": "It sounds harmless, convenient even.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0174",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 174,
+      "start_s": 692.0,
+      "end_s": 697.44,
+      "text": "But, physical cash is private.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0175",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 175,
+      "start_s": 692.0,
+      "end_s": 701.96,
+      "text": "A digital currency issued by the state is not.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0176",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 176,
+      "start_s": 697.44,
+      "end_s": 707.64,
+      "text": "Every transaction can be seen, every transaction can be tracked, and money that is programmable can be controlled.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0177",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 177,
+      "start_s": 703.64,
+      "end_s": 709.4799999999999,
+      "text": "It could be set to expire if you do not spend it fast enough.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0178",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 178,
+      "start_s": 705.92,
+      "end_s": 711.48,
+      "text": "It could be blocked from certain purchases.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0179",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 179,
+      "start_s": 709.48,
+      "end_s": 714.9200000000001,
+      "text": "China is already rolling out its digital yuan to hundreds of millions of people.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0180",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 180,
+      "start_s": 713.48,
+      "end_s": 719.5999999999999,
+      "text": "More than 100 countries are now exploring some version of the same idea.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0181",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 181,
+      "start_s": 717.28,
+      "end_s": 721.64,
+      "text": "Money began as a tool to keep score.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0182",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 182,
+      "start_s": 719.6,
+      "end_s": 723.36,
+      "text": "Because this is not history anymore.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0183",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 183,
+      "start_s": 719.6,
+      "end_s": 729.6,
+      "text": "The next form of money is being decided right now in rooms you will never sit in.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0184",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 184,
+      "start_s": 725.48,
+      "end_s": 729.6,
+      "text": "And it comes down to two versions.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0185",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 185,
+      "start_s": 727.4,
+      "end_s": 733.96,
+      "text": "One has no owner, a hard limit nobody can print past.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0186",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 186,
+      "start_s": 729.6,
+      "end_s": 736.3599999999999,
+      "text": "The other sees everything.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0187",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 187,
+      "start_s": 731.8,
+      "end_s": 741.7199999999999,
+      "text": "Money that can be tracked to the cent, switched off, or told what it is allowed to buy by whoever holds the keys.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0188",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 188,
+      "start_s": 738.16,
+      "end_s": 741.7199999999999,
+      "text": "One of them is going to win.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0189",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 189,
+      "start_s": 738.16,
+      "end_s": 746.0,
+      "text": "It could be running on your phone inside 10 years.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0190",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 190,
+      "start_s": 741.72,
+      "end_s": 748.4399999999999,
+      "text": "And no one is going to stop and ask which one you wanted.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0191",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 191,
+      "start_s": 743.64,
+      "end_s": 752.5600000000001,
+      "text": "For 10,000 years, money has never once been just money.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0192",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 192,
+      "start_s": 748.44,
+      "end_s": 754.5200000000001,
+      "text": "It has been the quiet machine that decides who holds power over whom.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0193",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 193,
+      "start_s": 752.56,
+      "end_s": 761.36,
+      "text": "Every ruler in this story understood that, from Rome to that hotel room in 1944.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0194",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 194,
+      "start_s": 757.08,
+      "end_s": 765.48,
+      "text": "The only people who never seem to understand it are the ones holding the money.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0195",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 195,
+      "start_s": 761.36,
+      "end_s": 765.48,
+      "text": "That is the real trick.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0196",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 196,
+      "start_s": 761.36,
+      "end_s": 769.52,
+      "text": "Money works on you best when you are not paying attention to it.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0197",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 197,
+      "start_s": 765.48,
+      "end_s": 771.1999999999999,
+      "text": "Right now, you are paying attention.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0198",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 198,
+      "start_s": 767.8,
+      "end_s": 776.6400000000001,
+      "text": "So, when the next kind arrives, the only question that matters is the one humans have faced in every age before this.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0199",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 199,
+      "start_s": 773.2,
+      "end_s": 779.12,
+      "text": "Who will be holding the controls?",
+      "n_words": 6
+    },
+    {
+      "sent_id": "gEnnt7fDn5Y:s0200",
+      "video_id": "gEnnt7fDn5Y",
+      "idx": 200,
+      "start_s": 774.92,
+      "end_s": 779.12,
+      "text": "And will it be you?",
+      "n_words": 5
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "video_id": "QZNB21kQCgQ",
+  "generated_at": "2026-09-04T03:00:43.130108+00:00",
+  "windows": [
+    {
+      "window_id": "QZNB21kQCgQ:j0000",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 0,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0000",
+        "QZNB21kQCgQ:s0001"
+      ],
+      "start_s": 0.0,
+      "end_s": 9.44,
+      "text": "Right now, somewhere in northern Tanzania, a Hadza man is napping in the shade. He's done with his work for the day.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.0
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0001",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 1,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0002",
+        "QZNB21kQCgQ:s0003"
+      ],
+      "start_s": 5.52,
+      "end_s": 22.44,
+      "text": "The Hadza are one of the last hunter-gatherer groups left on Earth, and they still live the way every human lived for 300,000 years. Ancient humans worked about 2 and 1/2 hours a day, hunting, gathering, cooking, every chore that kept them alive.",
+      "n_words": 43,
+      "n_sentences": 2,
+      "pos_pct": 0.010434782608695651
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0002",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 2,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0004",
+        "QZNB21kQCgQ:s0005",
+        "QZNB21kQCgQ:s0006"
+      ],
+      "start_s": 18.96,
+      "end_s": 29.32,
+      "text": "Most of us hit that before lunch. They have never been told to be somewhere at a specific time. They have almost none of the chronic diseases that kill us.",
+      "n_words": 30,
+      "n_sentences": 3,
+      "pos_pct": 0.03584120982986767
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0003",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 3,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0007",
+        "QZNB21kQCgQ:s0008"
+      ],
+      "start_s": 25.84,
+      "end_s": 38.12,
+      "text": "They laugh with their families more in one afternoon than most of us laugh with ours all week. And every researcher who has lived with them comes back saying the same thing.",
+      "n_words": 32,
+      "n_sentences": 2,
+      "pos_pct": 0.0488468809073724
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0004",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 4,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0009",
+        "QZNB21kQCgQ:s0010",
+        "QZNB21kQCgQ:s0011"
+      ],
+      "start_s": 34.04,
+      "end_s": 46.44,
+      "text": "They look happier than we are. So, what do they actually do all day? In 1968, an anthropologist named Richard Lee published years of data on the Kung Bushmen of the Kalahari Desert.",
+      "n_words": 33,
+      "n_sentences": 3,
+      "pos_pct": 0.06434782608695652
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0005",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 5,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0012",
+        "QZNB21kQCgQ:s0013",
+        "QZNB21kQCgQ:s0014",
+        "QZNB21kQCgQ:s0015"
+      ],
+      "start_s": 42.68,
+      "end_s": 53.879999999999995,
+      "text": "He had tracked their time down to the minute. His total came to about 15 hours of work per week. Your ancestors did not have a boss. They did not pay rent.",
+      "n_words": 32,
+      "n_sentences": 4,
+      "pos_pct": 0.08068052930056711
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0006",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 6,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0016",
+        "QZNB21kQCgQ:s0017",
+        "QZNB21kQCgQ:s0018",
+        "QZNB21kQCgQ:s0019"
+      ],
+      "start_s": 50.48,
+      "end_s": 64.16,
+      "text": "They did not have weekends because every day was already mostly a weekend. So, let's walk through their day. Sunrise. You wake to the sky getting lighter, the temperature shifting, the camp moving around you.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.09542533081285444
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0007",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 7,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0020",
+        "QZNB21kQCgQ:s0021"
+      ],
+      "start_s": 62.32,
+      "end_s": 76.72,
+      "text": "You sleep on a hide laid over flattened grass, maybe a small fire that someone fed during the night. Everything you own fits in a single bag, a digging stick or a bow, a few hides, maybe beads from a daughter or a sister.",
+      "n_words": 44,
+      "n_sentences": 2,
+      "pos_pct": 0.11780718336483932
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0008",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 8,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0022",
+        "QZNB21kQCgQ:s0023",
+        "QZNB21kQCgQ:s0024",
+        "QZNB21kQCgQ:s0025"
+      ],
+      "start_s": 72.48,
+      "end_s": 83.8,
+      "text": "There are roughly 25 to 30 people in your camp. You know every single one of them. You have known them your entire life. Your grandmother sleeps a few feet from your children.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.1370132325141777
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0009",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 9,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0026",
+        "QZNB21kQCgQ:s0027",
+        "QZNB21kQCgQ:s0028",
+        "QZNB21kQCgQ:s0029"
+      ],
+      "start_s": 81.84,
+      "end_s": 95.0,
+      "text": "Nobody is on a clock. The first hour is talking. A study by anthropologist Polly Wiessner found that Bushmen spend hours every day in casual conversation. This is not gossip in the trivial sense.",
+      "n_words": 34,
+      "n_sentences": 4,
+      "pos_pct": 0.15470699432892251
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0010",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 10,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0030",
+        "QZNB21kQCgQ:s0031",
+        "QZNB21kQCgQ:s0032",
+        "QZNB21kQCgQ:s0033"
+      ],
+      "start_s": 90.96,
+      "end_s": 102.88000000000001,
+      "text": "This conversation is the operating system of the camp. Who is sleeping with whom? Who took more than their share yesterday? Who told a good joke last week?",
+      "n_words": 28,
+      "n_sentences": 4,
+      "pos_pct": 0.1719470699432892
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0011",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 11,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0034",
+        "QZNB21kQCgQ:s0035",
+        "QZNB21kQCgQ:s0036"
+      ],
+      "start_s": 98.84,
+      "end_s": 110.56,
+      "text": "Who has been quiet and might be sick? This is also the entire legal system. The way the Kung kept order was by talking about each other.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.1868431001890359
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0012",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 12,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0037",
+        "QZNB21kQCgQ:s0038"
+      ],
+      "start_s": 107.28,
+      "end_s": 118.76,
+      "text": "If a man hoarded meat, people made jokes about him until he stopped. If a woman broke a promise, the whispers traveled to every camp within a day's walk.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.2027977315689981
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0013",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 13,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0039",
+        "QZNB21kQCgQ:s0040"
+      ],
+      "start_s": 114.48,
+      "end_s": 127.2,
+      "text": "If you became unbearable, eventually no camp would have you, and that is the harshest punishment a hunter-gatherer can face. It almost never had to be used.",
+      "n_words": 27,
+      "n_sentences": 2,
+      "pos_pct": 0.21640831758034026
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0014",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 14,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0041",
+        "QZNB21kQCgQ:s0042",
+        "QZNB21kQCgQ:s0043"
+      ],
+      "start_s": 122.72,
+      "end_s": 137.12,
+      "text": "In 1969, the anthropologist Richard Lee saw this happen to himself. He had been living with the Kung for years. When Christmas came, he wanted to do something nice for them.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.23198487712665405
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0015",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 15,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0044",
+        "QZNB21kQCgQ:s0045"
+      ],
+      "start_s": 132.84,
+      "end_s": 141.6,
+      "text": "So, he bought the biggest, fattest ox he could find and brought it to camp. The Kung made fun of the gift for weeks.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.2511153119092628
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0016",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 16,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0046",
+        "QZNB21kQCgQ:s0047",
+        "QZNB21kQCgQ:s0048",
+        "QZNB21kQCgQ:s0049"
+      ],
+      "start_s": 139.16,
+      "end_s": 151.24,
+      "text": "They told Lee the ox was too skinny, the meat would be terrible, and he had wasted everyone's time. Lee was confused. He had checked the ox carefully. It was a great animal.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.263062381852552
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0017",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 17,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0050",
+        "QZNB21kQCgQ:s0051",
+        "QZNB21kQCgQ:s0052"
+      ],
+      "start_s": 146.72,
+      "end_s": 160.56,
+      "text": "So, he finally asked an old man what was going on. The old man explained, \"When a Kung hunter brings home a big kill, the camp doesn't celebrate. They mock it.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.2773534971644612
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0018",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 18,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0053",
+        "QZNB21kQCgQ:s0054",
+        "QZNB21kQCgQ:s0055"
+      ],
+      "start_s": 155.36,
+      "end_s": 169.76,
+      "text": "They say the kill is small, the meat is bad. The bigger the kill, the harder they mock. That is how the Kung keep their hunters from thinking they are better than everyone else.\"",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.29368620037807186
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0019",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 19,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0056",
+        "QZNB21kQCgQ:s0057"
+      ],
+      "start_s": 166.44,
+      "end_s": 176.52,
+      "text": "They had been doing the same thing to Lee. He had brought a great gift, so they had to cut him down to size.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.3146313799621928
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0020",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 20,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0058",
+        "QZNB21kQCgQ:s0059",
+        "QZNB21kQCgQ:s0060"
+      ],
+      "start_s": 172.0,
+      "end_s": 185.56,
+      "text": "In a Kung camp, no one is allowed to feel above anyone else. Every joke, every complaint, every whispered story is a tiny tool for keeping people equal. We built prisons.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.32514177693761814
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0021",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 21,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0061",
+        "QZNB21kQCgQ:s0062",
+        "QZNB21kQCgQ:s0063",
+        "QZNB21kQCgQ:s0064"
+      ],
+      "start_s": 181.28,
+      "end_s": 192.68,
+      "text": "They handled things by talking to each other. Mid-morning. The men start to gather for the hunt. Hunting is dramatic.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.3426843100189036
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0022",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 22,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0065",
+        "QZNB21kQCgQ:s0066",
+        "QZNB21kQCgQ:s0067"
+      ],
+      "start_s": 188.6,
+      "end_s": 206.84,
+      "text": "It is also unreliable. Frank Marlowe, who studied the Hadza for decades, found that on any given day, most hunters come home empty-handed. A successful kill happens maybe once every few days, sometimes less.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.3565217391304348
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0023",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 23,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0068",
+        "QZNB21kQCgQ:s0069"
+      ],
+      "start_s": 201.8,
+      "end_s": 214.88,
+      "text": "A Hadza hunter might walk 20 mi in a day, track a wounded animal for hours, lose it, and come home with nothing but a few small birds and a sore back. But, when they do connect, they connect hard.",
+      "n_words": 40,
+      "n_sentences": 2,
+      "pos_pct": 0.38147448015122876
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0024",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 24,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0070",
+        "QZNB21kQCgQ:s0071"
+      ],
+      "start_s": 213.2,
+      "end_s": 221.76,
+      "text": "Their arrows are tipped with poison from the sap of a desert rose. The hunter shoots, then tracks the animal for hours while the poison works.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.4030245746691871
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0025",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 25,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0072",
+        "QZNB21kQCgQ:s0073",
+        "QZNB21kQCgQ:s0074"
+      ],
+      "start_s": 218.84,
+      "end_s": 230.08,
+      "text": "They have brought down everything from antelope to giraffe this way. And yet, the hunters are not the ones who feed the camp. The women are.",
+      "n_words": 26,
+      "n_sentences": 3,
+      "pos_pct": 0.41368620037807186
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0026",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 26,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0075",
+        "QZNB21kQCgQ:s0076"
+      ],
+      "start_s": 226.28,
+      "end_s": 236.44,
+      "text": "Among the Hadza, women provide more than half of the camp's calories. They go out in groups of three to eight every day.",
+      "n_words": 23,
+      "n_sentences": 2,
+      "pos_pct": 0.42775047258979204
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0027",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 27,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0077",
+        "QZNB21kQCgQ:s0078"
+      ],
+      "start_s": 231.96,
+      "end_s": 244.96,
+      "text": "They climb, dig, and gather, returning with steady food that does not depend on luck. That walk back is where most of the camp's gossip and decisions actually happen.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.4384877126654064
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0028",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 28,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0079",
+        "QZNB21kQCgQ:s0080"
+      ],
+      "start_s": 242.52,
+      "end_s": 250.72,
+      "text": "The men feast you, the women feed you. The most productive gatherers in the camp are usually the grandmothers.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.4584499054820416
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0029",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 29,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0081",
+        "QZNB21kQCgQ:s0082"
+      ],
+      "start_s": 246.52,
+      "end_s": 259.15999999999997,
+      "text": "Women in their 50s and 60s bring back more food per day than mothers in their 20s. Many of them are still walking 5 to 10 miles into their 70s.",
+      "n_words": 30,
+      "n_sentences": 2,
+      "pos_pct": 0.46601134215500944
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0030",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 30,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0083",
+        "QZNB21kQCgQ:s0084"
+      ],
+      "start_s": 254.76,
+      "end_s": 266.2,
+      "text": "Anthropologists call this the grandmother hypothesis. It explains why humans are the only primate species whose women live for decades past menopause.",
+      "n_words": 22,
+      "n_sentences": 2,
+      "pos_pct": 0.4815879017013232
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0031",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 31,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0085",
+        "QZNB21kQCgQ:s0086"
+      ],
+      "start_s": 262.76,
+      "end_s": 271.64,
+      "text": "The idea is that grandmothers feeding their grandchildren made the whole species more successful. The children come with them.",
+      "n_words": 19,
+      "n_sentences": 2,
+      "pos_pct": 0.49671077504725897
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0032",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 32,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0087",
+        "QZNB21kQCgQ:s0088"
+      ],
+      "start_s": 268.2,
+      "end_s": 279.40000000000003,
+      "text": "A Hadza 3-year-old plays with a small digging stick next to her mother, who is digging up the day's food. By six, she can find food on her own.",
+      "n_words": 29,
+      "n_sentences": 2,
+      "pos_pct": 0.5069943289224953
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0033",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 33,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0089",
+        "QZNB21kQCgQ:s0090",
+        "QZNB21kQCgQ:s0091"
+      ],
+      "start_s": 275.48,
+      "end_s": 289.67999999999995,
+      "text": "By 10, she is contributing meaningfully to the family. By eight, a Hadza boy can be sent out alone with his bow and come back with a bird. That is just what an 8-year-old does.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.5207561436672968
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0034",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 34,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0092",
+        "QZNB21kQCgQ:s0093",
+        "QZNB21kQCgQ:s0094"
+      ],
+      "start_s": 285.84,
+      "end_s": 300.28,
+      "text": "Anthropologist David Lansey studied dozens of traditional communities and found that children spent most of their day in mixed-age play groups. Older kids taught younger kids. Adults rarely interfered.",
+      "n_words": 29,
+      "n_sentences": 3,
+      "pos_pct": 0.5403402646502835
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0035",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 35,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0095",
+        "QZNB21kQCgQ:s0096"
+      ],
+      "start_s": 296.0,
+      "end_s": 306.8,
+      "text": "A child who fell down was usually picked up by another child. A child who asked a question was usually answered by a sibling.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.5595463137996219
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0036",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 36,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0097",
+        "QZNB21kQCgQ:s0098"
+      ],
+      "start_s": 303.56,
+      "end_s": 316.919,
+      "text": "This is how human children learned for hundreds of thousands of years, through watching, copying, and playing at the work the adults were doing right next to them. This is the school humans evolved to attend.",
+      "n_words": 36,
+      "n_sentences": 2,
+      "pos_pct": 0.5738374291115312
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0037",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 37,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0099",
+        "QZNB21kQCgQ:s0100",
+        "QZNB21kQCgQ:s0101",
+        "QZNB21kQCgQ:s0102"
+      ],
+      "start_s": 311.56,
+      "end_s": 322.96,
+      "text": "Midday. The first food returns to camp. It gets shared immediately. Sharing is not optional.",
+      "n_words": 15,
+      "n_sentences": 4,
+      "pos_pct": 0.5889603024574669
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0038",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 38,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0103",
+        "QZNB21kQCgQ:s0104",
+        "QZNB21kQCgQ:s0105",
+        "QZNB21kQCgQ:s0106"
+      ],
+      "start_s": 318.84,
+      "end_s": 330.32000000000005,
+      "text": "It's a rule. If a Hadza man kills a large animal, he does not own that meat. He distributes it. The hunter himself often gets one of the worst cuts.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.6027221172022684
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0039",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 39,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0107",
+        "QZNB21kQCgQ:s0108"
+      ],
+      "start_s": 326.72,
+      "end_s": 336.12,
+      "text": "The camp gets the rest. Anthropologists think this constant sharing is one of the things that built the human brain.",
+      "n_words": 20,
+      "n_sentences": 2,
+      "pos_pct": 0.6176181474480151
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0040",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 40,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0109",
+        "QZNB21kQCgQ:s0110",
+        "QZNB21kQCgQ:s0111",
+        "QZNB21kQCgQ:s0112"
+      ],
+      "start_s": 331.96,
+      "end_s": 346.84,
+      "text": "Tracking who gave what to whom, who skipped a turn, who stepped up when it mattered. That is a level of social arithmetic no other species has ever needed. Generosity is the savings account. Afternoon.",
+      "n_words": 35,
+      "n_sentences": 4,
+      "pos_pct": 0.6275236294896029
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0041",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 41,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0113",
+        "QZNB21kQCgQ:s0114",
+        "QZNB21kQCgQ:s0115"
+      ],
+      "start_s": 342.28,
+      "end_s": 351.91999999999996,
+      "text": "After eating, the camp slows. The middle of the day is hot. Nobody works through the heat.",
+      "n_words": 17,
+      "n_sentences": 3,
+      "pos_pct": 0.6470321361058601
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0042",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 42,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0116"
+      ],
+      "start_s": 348.88,
+      "end_s": 362.96,
+      "text": "People nap, sit in shade, repair arrows, weave grass into baskets, pick lice from each other's hair, which sounds gross but takes an hour and is mostly an excuse to be physically close to people you love.",
+      "n_words": 37,
+      "n_sentences": 1,
+      "pos_pct": 0.659508506616257
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0043",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 43,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0117",
+        "QZNB21kQCgQ:s0118",
+        "QZNB21kQCgQ:s0119",
+        "QZNB21kQCgQ:s0120"
+      ],
+      "start_s": 359.52,
+      "end_s": 371.11999999999995,
+      "text": "The middle of the day is for the body. If you have to relieve yourself, you walk a short distance into the bush. There is no toilet paper. There are leaves, sand, water.",
+      "n_words": 33,
+      "n_sentences": 4,
+      "pos_pct": 0.6796219281663516
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0044",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 44,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0121",
+        "QZNB21kQCgQ:s0122",
+        "QZNB21kQCgQ:s0123",
+        "QZNB21kQCgQ:s0124"
+      ],
+      "start_s": 366.84,
+      "end_s": 379.48,
+      "text": "You don't think much about it. If you are a woman and you are bleeding, you use soft grass or moss. Some groups isolate menstruating women. The Hadza do not.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.6934593572778828
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0045",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 45,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0125",
+        "QZNB21kQCgQ:s0126",
+        "QZNB21kQCgQ:s0127"
+      ],
+      "start_s": 377.76,
+      "end_s": 385.96,
+      "text": "You go about your day. If you want to have sex, you have sex. Hunter-gatherer cultures don't pile shame on top of it.",
+      "n_words": 23,
+      "n_sentences": 3,
+      "pos_pct": 0.7141020793950851
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0046",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 46,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0128",
+        "QZNB21kQCgQ:s0129",
+        "QZNB21kQCgQ:s0130"
+      ],
+      "start_s": 384.16,
+      "end_s": 395.6,
+      "text": "There is privacy when people want it, but not the heavy taboo we attach to it. And yes, conflicts do happen sometimes. These people are human, not saints.",
+      "n_words": 28,
+      "n_sentences": 3,
+      "pos_pct": 0.7262003780718337
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0047",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 47,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0131",
+        "QZNB21kQCgQ:s0132"
+      ],
+      "start_s": 392.72,
+      "end_s": 400.72,
+      "text": "Affairs, jealousy, stolen tools, old grudges that flare up. But the way conflicts ended was different.",
+      "n_words": 16,
+      "n_sentences": 2,
+      "pos_pct": 0.742381852551985
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0048",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 48,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0133",
+        "QZNB21kQCgQ:s0134"
+      ],
+      "start_s": 397.12,
+      "end_s": 410.24,
+      "text": "In a culture where you can pack everything you own in 15 minutes and walk to the next camp, most disputes ended by one party simply leaving. The Bushmen called this voting with your feet.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.7506994328922495
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0049",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 49,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0135",
+        "QZNB21kQCgQ:s0136",
+        "QZNB21kQCgQ:s0137"
+      ],
+      "start_s": 407.16,
+      "end_s": 420.16,
+      "text": "If you couldn't stand someone, you went somewhere else for a few weeks. By the time you came back, the heat had passed. Most of us cannot do that with a mortgage and a job.",
+      "n_words": 35,
+      "n_sentences": 3,
+      "pos_pct": 0.7696786389413989
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0050",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 50,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0138",
+        "QZNB21kQCgQ:s0139"
+      ],
+      "start_s": 415.24,
+      "end_s": 429.0,
+      "text": "Late afternoon, the pace picks up again. People visit other camps, a few miles walk to see relatives, trade gossip, maybe arrange a marriage.",
+      "n_words": 24,
+      "n_sentences": 2,
+      "pos_pct": 0.7849527410207939
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0051",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 51,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0140",
+        "QZNB21kQCgQ:s0141",
+        "QZNB21kQCgQ:s0142"
+      ],
+      "start_s": 424.4,
+      "end_s": 439.64,
+      "text": "The same handful of camps stay connected this way year after year, generation after generation. By adulthood, you know more than a hundred people personally. Every one of them by name and full history.",
+      "n_words": 34,
+      "n_sentences": 3,
+      "pos_pct": 0.8022684310018903
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0052",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 52,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0143",
+        "QZNB21kQCgQ:s0144"
+      ],
+      "start_s": 435.28,
+      "end_s": 443.76,
+      "text": "The hunters return. Some days they have a kill, most days they don't.",
+      "n_words": 13,
+      "n_sentences": 2,
+      "pos_pct": 0.8228355387523629
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0053",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 53,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0145",
+        "QZNB21kQCgQ:s0146"
+      ],
+      "start_s": 439.64,
+      "end_s": 453.32000000000005,
+      "text": "The women who gathered all day quietly become the day's heroes whenever the hunters come back empty-handed, which is most of the time. Evening, cooking begins.",
+      "n_words": 26,
+      "n_sentences": 2,
+      "pos_pct": 0.8310775047258979
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0054",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 54,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0147",
+        "QZNB21kQCgQ:s0148",
+        "QZNB21kQCgQ:s0149"
+      ],
+      "start_s": 448.6,
+      "end_s": 462.16,
+      "text": "Roasting roots in coals, boiling meat in pouches with hot stones, splitting fruit, chewing seeds soft for the children. Then comes the meal. The whole camp, everyone.",
+      "n_words": 27,
+      "n_sentences": 3,
+      "pos_pct": 0.848015122873346
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0055",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 55,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0150",
+        "QZNB21kQCgQ:s0151",
+        "QZNB21kQCgQ:s0152",
+        "QZNB21kQCgQ:s0153"
+      ],
+      "start_s": 457.72,
+      "end_s": 473.0,
+      "text": "They have done this together every night for 300,000 years. This is not paradise. They get sick, bury children, lose people they love. They fight and grieve like anyone else.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.8652551984877127
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0056",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 56,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0154",
+        "QZNB21kQCgQ:s0155"
+      ],
+      "start_s": 469.32,
+      "end_s": 481.03999999999996,
+      "text": "But there is a kind of suffering they do not seem to know. The slow modern ache of working at a job we don't believe in to pay for a life that never quite arrives.",
+      "n_words": 35,
+      "n_sentences": 2,
+      "pos_pct": 0.8871833648393195
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0057",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 57,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0156",
+        "QZNB21kQCgQ:s0157"
+      ],
+      "start_s": 477.08,
+      "end_s": 491.2,
+      "text": "Lying awake comparing ourselves to strangers we suspect are happier than we are. In the late 1960s, an anthropologist looking at all this evidence called early humans the original affluent society.",
+      "n_words": 31,
+      "n_sentences": 2,
+      "pos_pct": 0.9018525519848771
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0058",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 58,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0158",
+        "QZNB21kQCgQ:s0159",
+        "QZNB21kQCgQ:s0160",
+        "QZNB21kQCgQ:s0161"
+      ],
+      "start_s": 487.44,
+      "end_s": 497.71999999999997,
+      "text": "He didn't mean they had wealth. They had almost nothing. He meant they had time. We made trades, real ones.",
+      "n_words": 20,
+      "n_sentences": 4,
+      "pos_pct": 0.9214366729678639
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0059",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 59,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0162",
+        "QZNB21kQCgQ:s0163"
+      ],
+      "start_s": 493.28,
+      "end_s": 502.79999999999995,
+      "text": "We got vaccines, antibiotics, and refrigeration, and indoor plumbing. We got much longer lives.",
+      "n_words": 14,
+      "n_sentences": 2,
+      "pos_pct": 0.9324763705103969
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0060",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 60,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0164",
+        "QZNB21kQCgQ:s0165"
+      ],
+      "start_s": 499.52,
+      "end_s": 510.56,
+      "text": "We got fewer children dying before they turned five, which in a hunter-gatherer camp used to happen to roughly four out of every 10. We got real wins.",
+      "n_words": 28,
+      "n_sentences": 2,
+      "pos_pct": 0.9442722117202268
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0061",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 61,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0166",
+        "QZNB21kQCgQ:s0167",
+        "QZNB21kQCgQ:s0168",
+        "QZNB21kQCgQ:s0169"
+      ],
+      "start_s": 506.48,
+      "end_s": 519.52,
+      "text": "Nobody is suggesting we go back, but we also made trades we don't talk about. We invented agriculture. We invented work that someone else owns. We invented bosses and bills.",
+      "n_words": 30,
+      "n_sentences": 4,
+      "pos_pct": 0.9574291115311909
+    },
+    {
+      "window_id": "QZNB21kQCgQ:j0062",
+      "video_id": "QZNB21kQCgQ",
+      "idx": 62,
+      "sent_ids": [
+        "QZNB21kQCgQ:s0170",
+        "QZNB21kQCgQ:s0171",
+        "QZNB21kQCgQ:s0172"
+      ],
+      "start_s": 514.88,
+      "end_s": 530.76,
+      "text": "You inherited their bodies, the same nervous systems, the same need for sun, sleep, touch, conversation, and time spent doing genuinely nothing. We are still hunter-gatherers. We just stopped doing it.",
+      "n_words": 31,
+      "n_sentences": 3,
+      "pos_pct": 0.9733081285444234
+    }
+  ]
+}

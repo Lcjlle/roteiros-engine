@@ -1,0 +1,1393 @@
+{
+  "video_id": "ZYG4Dg9JEMw",
+  "duration_s": 626.0,
+  "generated_at": "2026-09-04T03:00:06.349895+00:00",
+  "sentences": [
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0000",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 0,
+      "start_s": 0.0,
+      "end_s": 3.68,
+      "text": "Let me ask you something.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0001",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 1,
+      "start_s": 0.0,
+      "end_s": 8.84,
+      "text": "Do you consider yourself smarter than your parents?",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0002",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 2,
+      "start_s": 3.68,
+      "end_s": 8.84,
+      "text": "How about your grandparents?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0003",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 3,
+      "start_s": 6.2,
+      "end_s": 16.72,
+      "text": "For 50 years every generation of humans scored higher on intelligence tests than the one before.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0004",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 4,
+      "start_s": 11.08,
+      "end_s": 18.84,
+      "text": "Not just slightly higher, measurably, consistently higher.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0005",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 5,
+      "start_s": 16.72,
+      "end_s": 25.32,
+      "text": "Across every country that tracked it, from the 1930s to the 1990s.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0006",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 6,
+      "start_s": 18.84,
+      "end_s": 30.08,
+      "text": "A child born in 1980 was, on paper, smarter than their parents.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0007",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 7,
+      "start_s": 25.32,
+      "end_s": 31.88,
+      "text": "Researchers called it the Flynn effect.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0008",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 8,
+      "start_s": 27.52,
+      "end_s": 37.64,
+      "text": "And for half a century it was one of the most reliable findings in all of cognitive science.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0009",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 9,
+      "start_s": 31.88,
+      "end_s": 42.4,
+      "text": "Then, somewhere around 1995, the line stopped rising.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0010",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 10,
+      "start_s": 37.64,
+      "end_s": 42.4,
+      "text": "And then it reversed.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0011",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 11,
+      "start_s": 37.64,
+      "end_s": 49.120000000000005,
+      "text": "The data from over 1 million people across eight countries now confirm something no one expected when they started measuring.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0012",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 12,
+      "start_s": 46.4,
+      "end_s": 51.0,
+      "text": "The scores are falling.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0013",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 13,
+      "start_s": 46.4,
+      "end_s": 55.32,
+      "text": "By amounts so large that researchers described them as alarming.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0014",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 14,
+      "start_s": 51.0,
+      "end_s": 62.0,
+      "text": "But what the data also shows, and what almost no one covering this story has put side by side, is what is rising on the same timeline.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0015",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 15,
+      "start_s": 60.2,
+      "end_s": 66.96,
+      "text": "That's where this gets genuinely hard to look away from.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0016",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 16,
+      "start_s": 62.0,
+      "end_s": 72.47999999999999,
+      "text": "A 2018 Norwegian study confirmed the reversal was real and accelerating.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0017",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 17,
+      "start_s": 66.96,
+      "end_s": 74.56,
+      "text": "The study tracked over 700,000 men across three decades.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0018",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 18,
+      "start_s": 69.2,
+      "end_s": 81.92,
+      "text": "A separate American study measured around 400,000 people across four cognitive domains.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0019",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 19,
+      "start_s": 77.44,
+      "end_s": 84.0,
+      "text": "Three of the four were declining.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0020",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 20,
+      "start_s": 79.52,
+      "end_s": 90.11999999999999,
+      "text": "By the end of this you will know what is pulling those scores down and why it is happening to you right now, whether you realize it or not.",
+      "n_words": 29
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0021",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 21,
+      "start_s": 87.72,
+      "end_s": 91.84,
+      "text": "There are three things driving this.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0022",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 22,
+      "start_s": 87.72,
+      "end_s": 96.48,
+      "text": "The third one is the part that makes the first two feel like a warm-up.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0023",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 23,
+      "start_s": 91.84,
+      "end_s": 103.80000000000001,
+      "text": "And there is something planted in the opening of this video that by the end you will understand differently than you do right now.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0024",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 24,
+      "start_s": 101.84,
+      "end_s": 110.8,
+      "text": "When the reversal was confirmed, the explanation that spread fastest was also the most comfortable one.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0025",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 25,
+      "start_s": 106.2,
+      "end_s": 112.32000000000001,
+      "text": "At least if you weren't the group being blamed.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0026",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 26,
+      "start_s": 108.64,
+      "end_s": 115.32,
+      "text": "The theory was this.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0027",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 27,
+      "start_s": 112.32,
+      "end_s": 117.83999999999999,
+      "text": "Smarter people have fewer children.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0028",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 28,
+      "start_s": 112.32,
+      "end_s": 120.03999999999999,
+      "text": "Less educated populations have more.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0029",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 29,
+      "start_s": 117.84,
+      "end_s": 125.24000000000001,
+      "text": "Over generations the math works against average intelligence.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0030",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 30,
+      "start_s": 120.04,
+      "end_s": 129.92,
+      "text": "It had a name, the dysgenics hypothesis, and it carried the cold authority of arithmetic.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0031",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 31,
+      "start_s": 125.24,
+      "end_s": 132.12,
+      "text": "It felt like science.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0032",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 32,
+      "start_s": 128.0,
+      "end_s": 136.0,
+      "text": "It spread through articles, comment sections, and dinner table arguments.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0033",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 33,
+      "start_s": 132.12,
+      "end_s": 138.84,
+      "text": "You've probably heard a version of it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0034",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 34,
+      "start_s": 134.08,
+      "end_s": 140.36,
+      "text": "You may even have half believed it.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0035",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 35,
+      "start_s": 136.0,
+      "end_s": 145.76000000000002,
+      "text": "But in 2018 a group of Norwegian researchers published something that cut the legs out from under it completely.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0036",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 36,
+      "start_s": 141.96,
+      "end_s": 149.32000000000002,
+      "text": "They didn't compare different families.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0037",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 37,
+      "start_s": 144.08,
+      "end_s": 152.04,
+      "text": "They compared brothers.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0038",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 38,
+      "start_s": 145.76,
+      "end_s": 156.28,
+      "text": "Same parents, same house, same genes, same neighborhood, same dinner table.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0039",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 39,
+      "start_s": 152.04,
+      "end_s": 158.4,
+      "text": "The only variable was when each brother came of age.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0040",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 40,
+      "start_s": 154.12,
+      "end_s": 161.32,
+      "text": "The younger brother scored lower.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0041",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 41,
+      "start_s": 156.28,
+      "end_s": 164.20000000000002,
+      "text": "Think about what that means.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0042",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 42,
+      "start_s": 158.4,
+      "end_s": 164.20000000000002,
+      "text": "The decline wasn't in their DNA.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0043",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 43,
+      "start_s": 161.32,
+      "end_s": 165.88,
+      "text": "It couldn't be.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0044",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 44,
+      "start_s": 161.32,
+      "end_s": 167.67999999999998,
+      "text": "They shared DNA with the older brother who scored higher.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0045",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 45,
+      "start_s": 165.88,
+      "end_s": 173.39999999999998,
+      "text": "Something in the world changed between when the older brother grew up and when the younger one did.",
+      "n_words": 18
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0046",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 46,
+      "start_s": 169.2,
+      "end_s": 175.35999999999999,
+      "text": "The environment shifted.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0047",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 47,
+      "start_s": 171.44,
+      "end_s": 177.6,
+      "text": "And whatever shifted, it shifted everywhere.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0048",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 48,
+      "start_s": 173.4,
+      "end_s": 187.0,
+      "text": "Because the same pattern appeared in Denmark, in Finland, in France, in the Netherlands, in Estonia, and across multiple American studies.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0049",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 49,
+      "start_s": 182.32,
+      "end_s": 194.72,
+      "text": "It's like two plants from the same seed, grown in the same pot, but one of them, the one that sprouted later, grew up with less light.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0050",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 50,
+      "start_s": 188.72,
+      "end_s": 196.48,
+      "text": "The seed didn't change.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0051",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 51,
+      "start_s": 192.04,
+      "end_s": 196.48,
+      "text": "The conditions did.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0052",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 52,
+      "start_s": 192.04,
+      "end_s": 199.95999999999998,
+      "text": "So this is not about who is having children with whom.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0053",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 53,
+      "start_s": 196.48,
+      "end_s": 204.52,
+      "text": "It is about something that changed in the shared environment after 1975.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0054",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 54,
+      "start_s": 199.96,
+      "end_s": 210.32000000000002,
+      "text": "Something that depresses the specific cognitive skills these tests measure.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0055",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 55,
+      "start_s": 204.52,
+      "end_s": 216.79999999999998,
+      "text": "Abstract reasoning, working memory, processing speed, the ability to hold several things in your mind at once and manipulate them.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0056",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 56,
+      "start_s": 212.48,
+      "end_s": 216.79999999999998,
+      "text": "There are suspects.",
+      "n_words": 3
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0057",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 57,
+      "start_s": 214.96,
+      "end_s": 221.44,
+      "text": "You interact with at least two of them every day.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0058",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 58,
+      "start_s": 216.8,
+      "end_s": 224.0,
+      "text": "But the first one is not what you think it is.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0059",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 59,
+      "start_s": 219.16,
+      "end_s": 226.2,
+      "text": "The cognitive skills declining fastest are not random.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0060",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 60,
+      "start_s": 221.44,
+      "end_s": 231.35999999999999,
+      "text": "They form a specific cluster, and that cluster has a name.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0061",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 61,
+      "start_s": 226.2,
+      "end_s": 240.32,
+      "text": "Researchers call it executive function, sustained attention, working memory, the ability to resist an immediate reward in favor of a delayed one, fluid reasoning under pressure.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0062",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 62,
+      "start_s": 238.48,
+      "end_s": 244.44,
+      "text": "What made those skills rise during the Flynn effect?",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0063",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 63,
+      "start_s": 240.32,
+      "end_s": 246.44,
+      "text": "And what is making them fall now?",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0064",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 64,
+      "start_s": 242.12,
+      "end_s": 246.44,
+      "text": "Here is the mechanism.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0065",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 65,
+      "start_s": 244.44,
+      "end_s": 252.52,
+      "text": "Executive function is not fixed at birth.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0066",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 66,
+      "start_s": 246.44,
+      "end_s": 254.72,
+      "text": "It builds like a muscle through repeated effortful use.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0067",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 67,
+      "start_s": 249.32,
+      "end_s": 262.0,
+      "text": "And the specific exercise that builds it is one that has become structurally scarce in modern life.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0068",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 68,
+      "start_s": 256.68,
+      "end_s": 262.0,
+      "text": "That exercise is boredom.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0069",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 69,
+      "start_s": 256.68,
+      "end_s": 267.44,
+      "text": "The specific cognitive state of staying with something difficult when an easier option is available.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0070",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 70,
+      "start_s": 263.56,
+      "end_s": 269.40000000000003,
+      "text": "Reading a long argument through to its conclusion.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0071",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 71,
+      "start_s": 267.44,
+      "end_s": 273.03999999999996,
+      "text": "Sitting with an unsolved problem without reaching for distraction.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0072",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 72,
+      "start_s": 269.4,
+      "end_s": 277.84000000000003,
+      "text": "Following a thought to where it actually leads instead of jumping to the next one.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0073",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 73,
+      "start_s": 273.04,
+      "end_s": 284.04,
+      "text": "In 2023, researchers tracked more than 80,000 people and found something hard to believe.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0074",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 74,
+      "start_s": 282.0,
+      "end_s": 292.76,
+      "text": "The average time a person could focus on one screen without switching dropped from 2.5 minutes in 2004 to 47 seconds.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0075",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 75,
+      "start_s": 290.68,
+      "end_s": 299.4,
+      "text": "And it's not because people got dumber, but because nothing around them required focus anymore.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0076",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 76,
+      "start_s": 294.4,
+      "end_s": 303.79999999999995,
+      "text": "Every app, every feed, every platform is built to interrupt you.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0077",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 77,
+      "start_s": 299.4,
+      "end_s": 305.48,
+      "text": "Interruption keeps you scrolling, and scrolling makes money.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0078",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 78,
+      "start_s": 301.56,
+      "end_s": 309.8,
+      "text": "The business model and the cognitive cost are the same thing.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0079",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 79,
+      "start_s": 305.48,
+      "end_s": 312.0,
+      "text": "Now return to the Norwegian brothers.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0080",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 80,
+      "start_s": 308.0,
+      "end_s": 325.79999999999995,
+      "text": "They grew up in the same house, but the younger brother came of age in an environment with measurably more interruption, more fragmentation, more passive consumption, and fewer hours of the effortful, uninterrupted thought that built his older brother's working memory.",
+      "n_words": 41
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0081",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 81,
+      "start_s": 323.32,
+      "end_s": 328.2,
+      "text": "The seed was identical.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0082",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 82,
+      "start_s": 323.32,
+      "end_s": 331.04,
+      "text": "The light was different.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0083",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 83,
+      "start_s": 325.8,
+      "end_s": 333.08,
+      "text": "The attention environment is the primary driver.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0084",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 84,
+      "start_s": 328.2,
+      "end_s": 335.48,
+      "text": "But it is not operating alone.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0085",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 85,
+      "start_s": 331.04,
+      "end_s": 337.64,
+      "text": "There are two more suspects.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0086",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 86,
+      "start_s": 333.08,
+      "end_s": 343.44,
+      "text": "And the second one was removed from your food without any announcement by people who almost certainly knew what they were doing.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0087",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 87,
+      "start_s": 339.64,
+      "end_s": 348.76,
+      "text": "Some of what's driving the decline was not an accident of modern life.",
+      "n_words": 13
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0088",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 88,
+      "start_s": 343.44,
+      "end_s": 350.48,
+      "text": "It was a decision, a quiet one, made without any public notice.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0089",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 89,
+      "start_s": 348.76,
+      "end_s": 357.52,
+      "text": "Through most of the 20th century, commercial bread in the United States and Europe was made with iodized dough conditioners.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0090",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 90,
+      "start_s": 355.72,
+      "end_s": 367.56,
+      "text": "Iodine is essential for thyroid function, and thyroid function is directly linked to cognitive development, especially in children and in utero.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0091",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 91,
+      "start_s": 363.24,
+      "end_s": 375.64,
+      "text": "The Flynn effect's rise tracked almost perfectly with improvements in nutrition, including iodine availability.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0092",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 92,
+      "start_s": 372.04,
+      "end_s": 380.03999999999996,
+      "text": "In the 1970s and 1980s, manufacturers switched.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0093",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 93,
+      "start_s": 375.64,
+      "end_s": 384.0,
+      "text": "Bromine-based alternatives replaced iodized conditioners in commercial bread production.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0094",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 94,
+      "start_s": 380.04,
+      "end_s": 388.52,
+      "text": "Iodine deficiency, a condition considered solved, quietly returned.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0095",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 95,
+      "start_s": 384.0,
+      "end_s": 396.15999999999997,
+      "text": "In developing populations, iodine deficiency is documented to reduce IQ scores by 10 to 15 points.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0096",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 96,
+      "start_s": 391.08,
+      "end_s": 397.40000000000003,
+      "text": "In developed nations, the effect is smaller, but it is measurable.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0097",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 97,
+      "start_s": 396.16,
+      "end_s": 401.4,
+      "text": "And it happened without a single announcement.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0098",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 98,
+      "start_s": 397.4,
+      "end_s": 407.79999999999995,
+      "text": "You were probably exposed to lower iodine levels than your parents were, and you had no way to know it.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0099",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 99,
+      "start_s": 403.64,
+      "end_s": 409.44,
+      "text": "Lead in aviation fuel ran until 1996.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0100",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 100,
+      "start_s": 407.8,
+      "end_s": 418.71999999999997,
+      "text": "Researchers estimate it caused measurable cognitive losses across entire birth cohorts who grew up near small airports.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0101",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 101,
+      "start_s": 413.44,
+      "end_s": 420.52,
+      "text": "Nutrition, chemical exposure, the attention environment.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0102",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 102,
+      "start_s": 418.72,
+      "end_s": 426.59999999999997,
+      "text": "Three converging forces running simultaneously for 50 years.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0103",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 103,
+      "start_s": 420.52,
+      "end_s": 434.04,
+      "text": "But none of them, not even one, explains what you see when you put the decline on the same graph as something else.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0104",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 104,
+      "start_s": 428.44,
+      "end_s": 435.92,
+      "text": "Something that has been rising quietly since 2015.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0105",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 105,
+      "start_s": 430.32,
+      "end_s": 440.52000000000004,
+      "text": "That graph is what this video is actually about.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0106",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 106,
+      "start_s": 435.92,
+      "end_s": 442.44,
+      "text": "Go back to the opening of this video for a moment.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0107",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 107,
+      "start_s": 437.84,
+      "end_s": 448.04,
+      "text": "The Flynn effect, every generation scoring higher than the last, ran for 50 years.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0108",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 108,
+      "start_s": 442.44,
+      "end_s": 448.04,
+      "text": "Then reversed.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0109",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 109,
+      "start_s": 446.04,
+      "end_s": 449.72,
+      "text": "Here is what I didn't tell you yet.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0110",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 110,
+      "start_s": 448.04,
+      "end_s": 456.52,
+      "text": "Researchers studying the reversal noticed a pattern in which scores are falling.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0111",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 111,
+      "start_s": 451.96,
+      "end_s": 458.92,
+      "text": "Not all cognitive skills are declining equally.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0112",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 112,
+      "start_s": 454.32,
+      "end_s": 465.88,
+      "text": "The ones falling fastest are a specific cluster, and when you look at that cluster carefully, you realize it is not random.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0113",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 113,
+      "start_s": 460.92,
+      "end_s": 468.08000000000004,
+      "text": "It looks almost designed.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0114",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 114,
+      "start_s": 463.72,
+      "end_s": 474.76,
+      "text": "Not by anyone in particular, but by a combination of forces that happen to target the same set of skills in your brain.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0115",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 115,
+      "start_s": 472.32,
+      "end_s": 480.4,
+      "text": "The exact skills that only one other system on Earth has been getting better at.",
+      "n_words": 15
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0116",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 116,
+      "start_s": 476.4,
+      "end_s": 489.88,
+      "text": "The abilities falling fastest in humans are the ability to reason through problems, hold multiple things in your mind at once, stay focused, and think under pressure.",
+      "n_words": 27
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0117",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 117,
+      "start_s": 485.6,
+      "end_s": 491.88,
+      "text": "Those are not random skills.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0118",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 118,
+      "start_s": 487.68,
+      "end_s": 494.32,
+      "text": "They are the hardest ones we ever developed.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0119",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 119,
+      "start_s": 489.88,
+      "end_s": 496.36,
+      "text": "They are the ones that built everything.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0120",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 120,
+      "start_s": 491.88,
+      "end_s": 498.15999999999997,
+      "text": "And I'm not talking about things like reading or talking.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0121",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 121,
+      "start_s": 496.36,
+      "end_s": 504.64000000000004,
+      "text": "I'm talking about the deeper ability to sit with a hard problem and actually think it through.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0122",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 122,
+      "start_s": 500.16,
+      "end_s": 507.92,
+      "text": "To ignore the obvious answer and find the real one.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0123",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 123,
+      "start_s": 502.16,
+      "end_s": 515.4789999999999,
+      "text": "And they are precisely, specifically, measurably the skills that AI systems have improved at fastest since 2015.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0124",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 124,
+      "start_s": 513.52,
+      "end_s": 517.12,
+      "text": "Is this a coincidence?",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0125",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 125,
+      "start_s": 513.52,
+      "end_s": 522.2,
+      "text": "We have been measuring how well humans think since the 1930s.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0126",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 126,
+      "start_s": 517.12,
+      "end_s": 524.12,
+      "text": "We have been measuring how well AI thinks since about 2015.",
+      "n_words": 11
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0127",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 127,
+      "start_s": 519.4,
+      "end_s": 528.5600000000001,
+      "text": "When you put both on the same graph, there is nothing subtle about it.",
+      "n_words": 14
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0128",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 128,
+      "start_s": 524.12,
+      "end_s": 530.1600000000001,
+      "text": "One line goes down, one line goes up.",
+      "n_words": 8
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0129",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 129,
+      "start_s": 526.2,
+      "end_s": 534.0,
+      "text": "And right now they are closer together than they have ever been.",
+      "n_words": 12
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0130",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 130,
+      "start_s": 530.16,
+      "end_s": 535.9599999999999,
+      "text": "Researchers will tell you the tests measure slightly different things.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0131",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 131,
+      "start_s": 534.0,
+      "end_s": 538.24,
+      "text": "And they are right.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0132",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 132,
+      "start_s": 534.0,
+      "end_s": 540.1600000000001,
+      "text": "But even they admit the overlap is not a coincidence.",
+      "n_words": 10
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0133",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 133,
+      "start_s": 535.96,
+      "end_s": 544.4399999999999,
+      "text": "The skills both lines track are the same ones.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0134",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 134,
+      "start_s": 540.16,
+      "end_s": 546.4,
+      "text": "They are heading toward the same place.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0135",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 135,
+      "start_s": 542.28,
+      "end_s": 552.6400000000001,
+      "text": "Now here is the part that almost no one reporting on this tells you because it changes everything about what you just learned.",
+      "n_words": 23
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0136",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 136,
+      "start_s": 548.32,
+      "end_s": 554.56,
+      "text": "The reverse Flynn effect is environmental.",
+      "n_words": 6
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0137",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 137,
+      "start_s": 550.16,
+      "end_s": 556.56,
+      "text": "It's not genetic, and it's not permanent.",
+      "n_words": 7
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0138",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 138,
+      "start_s": 554.56,
+      "end_s": 563.16,
+      "text": "Something in the world changed, and the things that changed are, at least in principle, things that can change back.",
+      "n_words": 20
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0139",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 139,
+      "start_s": 560.84,
+      "end_s": 573.36,
+      "text": "The Norwegian brothers prove it because the only variable that could explain brothers in the same household scoring differently is the world they grew up in.",
+      "n_words": 26
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0140",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 140,
+      "start_s": 568.96,
+      "end_s": 573.36,
+      "text": "Not who they were.",
+      "n_words": 4
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0141",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 141,
+      "start_s": 568.96,
+      "end_s": 577.08,
+      "text": "No generation before this one has had the data to see the decline happening in real time.",
+      "n_words": 17
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0142",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 142,
+      "start_s": 573.36,
+      "end_s": 583.44,
+      "text": "The researchers who first confirmed the Flynn effect had no way to know it would reverse.",
+      "n_words": 16
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0143",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 143,
+      "start_s": 578.84,
+      "end_s": 589.92,
+      "text": "The scientists who confirmed the reversal in 2018 had no way to know AI would benchmark on the same cognitive tasks within seven years.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0144",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 144,
+      "start_s": 585.64,
+      "end_s": 592.04,
+      "text": "You have that data now.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0145",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 145,
+      "start_s": 588.0,
+      "end_s": 594.24,
+      "text": "You are watching the lines converge in real time.",
+      "n_words": 9
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0146",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 146,
+      "start_s": 589.92,
+      "end_s": 598.16,
+      "text": "And you are doing it at the one moment in history when the decline is confirmed to be reversible.",
+      "n_words": 19
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0147",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 147,
+      "start_s": 596.52,
+      "end_s": 604.24,
+      "text": "And when the cost of not reversing it has never been higher, the question is not whether humans are getting dumber.",
+      "n_words": 21
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0148",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 148,
+      "start_s": 602.24,
+      "end_s": 606.6,
+      "text": "They are.",
+      "n_words": 2
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0149",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 149,
+      "start_s": 602.24,
+      "end_s": 612.52,
+      "text": "The question is whether the line goes back up, and whether you are part of the answer, or part of the trend.",
+      "n_words": 22
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0150",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 150,
+      "start_s": 608.68,
+      "end_s": 622.0,
+      "text": "The cognitive science on reversing this points to a specific set of conditions, almost the exact opposite of what most productivity advice tells you.",
+      "n_words": 24
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0151",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 151,
+      "start_s": 617.2,
+      "end_s": 622.0,
+      "text": "The line is not fixed.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0152",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 152,
+      "start_s": 617.2,
+      "end_s": 623.88,
+      "text": "The window is not permanent.",
+      "n_words": 5
+    },
+    {
+      "sent_id": "ZYG4Dg9JEMw:s0153",
+      "video_id": "ZYG4Dg9JEMw",
+      "idx": 153,
+      "start_s": 619.72,
+      "end_s": 627.76,
+      "text": "And right now, you are one of the only generations in history that knows the line exists at all.",
+      "n_words": 19
+    }
+  ]
+}
