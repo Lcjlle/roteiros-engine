@@ -1374,3 +1374,209 @@ than from word counts - no word-count arithmetic remains in the codebook.
 Confirmed unaffected, same as the original entry: `transition`'s removal,
 `cosmic`'s removal, `scale` staying in v1, the 20/205 gate ceiling, seeds,
 the sampled video pair, and the codebook's citation format.
+
+## 20. Issue #11 (`function` boundary tie-breaker, `#19`): anchored to the context an annotator actually receives in the call, not the whole video; "developed before" operationalized as semantic, never lexical - a near-miss on the same defect this project has now caught four times, this time in measurement before it reached a rule
+
+`#19` fixed the wrong scope. It replaced "requires the next window"
+(asymmetric - the real Fase 5 annotator never sees it) with "requires the
+whole video read backward" - still more evidence than the annotator that
+actually applies the rule receives. `_docs/plano_implementacao.md` line
+478 (Fase 5A, step 2): the prompt's user turn is "as 3 janelas anteriores
+(só texto, sem rótulos)" - three prior windows, text only, no labels -
+then the window to classify. A rule requiring "not developed anywhere
+earlier in the video" cannot be applied consistently by an annotator
+holding three windows of context, independent of whether the missing
+evidence is semantic or lexical.
+
+**Principle.** A codebook rule may only require evidence its applier
+actually receives in the call.
+
+**Rule, re-anchored (supersedes `#19`'s "prior windows in the same
+video").** The normative text does not name a window count - the codebook
+feeds the Fase 5 prompt, and the context budget is a call-shape parameter
+the plan leaves open to experimentation (`_docs/plano_implementacao.md`
+line 479, "teste um campo por chamada vs. todos juntos"), not something
+the codebook should freeze inside its own rule text:
+
+> A trailing pivot exists when the window's final sentence(s) name or
+> introduce a specific subject, claim, or event that is not otherwise
+> developed in this window or in the context previously provided in this
+> call - a bare transitional phrase with no new specific content ("Let's
+> go further," "there's one more thing") is not a pivot.
+
+Everything else in `#19`'s rule is unchanged: when a pivot exists, code
+the closing content, never the opening/preview, regardless of word count,
+sentence count, or salience.
+
+**The budget itself: fixed at three windows, as a separate decision of
+this entry, not folded into the rule's wording.** `_docs/plano_implementacao.md`
+line 478 sets three prior windows for Fase 5's actual calls. This entry
+adopts three as the budget the codebook's examples and the Fase 3
+worksheet are audited against. Consequence, stated because it is a real
+cost: changing the budget changes what the rule's "context previously
+provided" means, so it changes which windows are pivots - a run measured
+under a five-window budget is not comparable to one measured under three.
+`_docs/plano_implementacao.md` line 495 already requires the Fase 5 run
+record to persist model, ontology version, date, and α by field; this
+entry adds the context budget to that record, same precaution family as
+persisting `fase2_gate.json`'s constants (`#14`) and `fase3_gate.json`'s
+`ontology_version` - so a future run measured under a different budget is
+never silently compared against this one.
+
+**"Developed before," operationalized - the change this entry actually
+makes.** `#19` left this phrase undefined, and a competent reader (this
+project's own orchestrator, verifying `#19`'s application against the real
+corpus) fell into exactly the gap: flagged `lkLwp9o7Djk:j0076` as a false
+pivot because the word "asylums" appears at `j0074`, two windows earlier,
+and again at `j0071`. Read against the actual narrative (`j0070`-`j0078`):
+`j0071` names a specific institution, the Bicetre Asylum, inside the
+18th-century reform story; `j0074` uses "asylums" as a comparison baseline
+("the York Retreat's outcomes were dramatically better than contemporary
+asylums"); neither develops `j0076`'s actual claim - that the 19th century
+built asylums at scale and overcrowded them to catastrophic levels - which
+`j0077`-`j0078` go on to develop. `j0076` is a genuine pivot under any
+context budget. The word recurring is not what "developed" means.
+
+> "Developed before" means the context previously provided already
+> supports the same claim, event, or subject - not that it shares a word
+> with it. A passing mention, a use as a comparison baseline, or the same
+> word applied to a different referent do not constitute development. The
+> test is semantic, never lexical: term repetition decides neither for nor
+> against.
+
+**Worked negative example, built from exactly this pair** (more valuable
+than a positive example, because it is the one case that teaches an
+annotator not to make the mistake this project's own verification just
+made): `lkLwp9o7Djk:j0074` says "asylums," and `lkLwp9o7Djk:j0071` names a
+specific asylum by name - and `j0076` is still a pivot, because neither
+window develops the claim `j0076` opens (mass-scale 19th-century
+overcrowding to catastrophic conditions) - that claim first appears at
+`j0076` and is developed at `j0077`-`j0078`.
+
+**The named-vs-developed distinction dissolves.** It previously decided a
+label without being written anywhere - the codebook justified `j0027` by
+saying Greece was not discussed "anywhere before this window," when Greece
+is literally named at `j0011`. Under the semantic test above, that
+sentence is now precise: Greece is *named* at `j0011`, in an unrelated
+list (trepanation across cultures); the specific claim `j0027` opens -
+Greece as philosophically fascinating and occasionally horrifying - is not
+developed until `j0027` itself. Naming is not developing.
+
+**Evidence - measurement and recheck, both performed read-only before
+this entry was written, and one self-correction made in the open.**
+Reapplying `#19`'s pivot test with the three-window budget to the seven
+windows previously examined (`lkLwp9o7Djk:j0027`, `j0064`, `j0076`;
+`5unhHRFkC7I:j0064`, `j0017`, `j0075`, `j0039`), using verbatim text and
+independently measured distances-to-prior-mention (matched exactly on the
+four the project owner supplied for cross-check: Greece 16 windows before
+`j0027`; horses 9 before `5unhHRFkC7I:j0064`; neuroscience 9 before
+`j0017`; "that couch" 36/73 before `j0075`):
+
+- `lkLwp9o7Djk:j0027`, `lkLwp9o7Djk:j0064`, `5unhHRFkC7I:j0064`,
+  `5unhHRFkC7I:j0017` are pivots under both the full-video and the
+  three-window budget - their pivot subject's nearest prior mention
+  already exceeds three windows (16, never, 9, 9), or is never mentioned
+  at all.
+- `5unhHRFkC7I:j0039` is a pivot under neither budget - its trailing
+  sentence ("Smell is only one piece of this") names nothing specific, so
+  the test fails at the naming step regardless of context size.
+- **`5unhHRFkC7I:j0075` is a pivot under the three-window budget.** The
+  round-2 correction to `#19` (commit `66c54d6`) had argued it out of the
+  confirmed list using `5unhHRFkC7I:j0002` and `:j0039` - 73 and 36
+  windows before `j0075` - to show "that couch" was already established.
+  That argument used exactly the kind of context this entry now forbids:
+  evidence the real annotator never receives. Under the budget this entry
+  fixes, `j0075` is a pivot, full stop; `66c54d6`'s reasoning for removing
+  it is superseded by this entry, not confirmed by it. Its recorded label
+  does not change (`implication`) - the closing clause the rule codes
+  carries the same generalizing content whether or not the trailing
+  sentence is read as a pivot - but its *classification* as a confirmed
+  boundary window does.
+- **`lkLwp9o7Djk:j0076`'s first read (this entry's own draft, before this
+  correction) called it a false pivot on lexical grounds** - "asylums"
+  recurs at `j0074`, two windows earlier, so a bare keyword check says
+  "already developed." Re-read semantically (see "developed before," and
+  the worked example, above), it is a genuine pivot under any budget. This
+  is the fourth instance, on this project, of a countable or lexical
+  surface trace standing in for semantic judgment - after the
+  sentence-boundary punctuation heuristic and the SaT confidence threshold
+  (`#15`), and `#19`'s own word-count rule. The first three reached code or
+  a recorded label before being caught. This one was caught in a
+  measurement, before it became a rule - which is the outcome this
+  project's verification discipline exists to produce, and is worth more
+  as precedent than the rule this entry writes.
+
+**Corrected list: six windows, not five - `#19`'s rate was undercounted,
+not wrong in kind.** `lkLwp9o7Djk:j0027`, `lkLwp9o7Djk:j0064`,
+`lkLwp9o7Djk:j0076`, `5unhHRFkC7I:j0064`, `5unhHRFkC7I:j0017`,
+`5unhHRFkC7I:j0075` - **6/205 = 2.9%**, not `#19`'s 5/205 = 2.4%. Direction
+B's rejection does not need to be reargued at this rate: 2.9% remains far
+short of justifying a new field with its own six-test defense, its own
+worksheet column, its own `fase3_gate.json` thermometer, and its own line
+in every one of the ~3,600-per-channel Fase 5 calls, for a signal
+`function`'s own deterministic tie-breaker already resolves. `j0017`
+entered the confirmed list on its own merits in the round-4 resolution and
+is unaffected by this correction; `66c54d6` treated `j0075`'s exit and
+`j0017`'s entry as one seat changing occupants, which this entry corrects:
+they are two independent facts, and both windows are now confirmed.
+
+**6/205 is a floor, not a final result, and this entry does not claim
+otherwise.** The scan that found the original five (now six) read the
+whole video for each window - a wider net than the three-window budget
+this entry fixes. Narrowing the budget can only ever add pivots, never
+remove them (less visible context cannot resolve an ambiguity the full
+video could), so windows exist in the other 199 rows of
+`corpus/mackexplains7/fase3_coverage.md` that were coded as a single unit
+under full-video judgment and would show a pivot under the three-window
+test - the same failure mode `5unhHRFkC7I:j0075` already demonstrates.
+This does not threaten Direction B's rejection (the rate would have to
+roughly triple before a new field's fixed overhead became proportionate),
+it threatens individual labels: a window whose pivot went undetected was
+coded as a whole unit when it should have been coded by its closing clause
+alone, and the two readings only coincide when the closing clause already
+dominates. The next engineering round re-sweeps all 205 rows under the
+rule and budget this entry fixes, not just the seven already examined, and
+reports the re-measured rate and gate - not the assumption that 6/205
+holds.
+
+**`schema/codebook.md`'s existing worked example for `5unhHRFkC7I:j0075`
+inverts under this entry and cannot be left as written.** It currently
+reads "not a pivot, because 'that couch' refers back to the video's
+opening scene (`j0002`, revisited at `j0039`)" - the exact 36-/73-window
+reach this entry's rule forbids. Left unedited, that paragraph teaches an
+annotator to do what this entry's own evidence section just showed is
+wrong. The next engineering round either rewrites it as a positive example
+(pivot confirmed under the three-window budget, closing clause coded,
+`implication` unchanged) or removes it - it does not survive as a negative
+example under the rule this entry writes.
+
+**Consequence for Fase 4, stated as a mechanism, not an intention.**
+"Anotar sob o mesmo orçamento" fails silently if left as instruction: a
+human with the full transcript in front of them reads past a three-window
+boundary without noticing they crossed it. The gold-annotation material
+must present, per window, exactly the context block the Fase 5 prompt
+assembles (`_docs/plano_implementacao.md` line 478's three prior windows,
+text only, no labels) and nothing more - not the full transcript, not the
+doccano project's usual whole-video view. This is a requirement on the
+Fase 4 tooling (`src/gold.py` or wherever `_docs/plano_implementacao.md`'s
+Fase 4 issues land it), not a note in the codebook.
+
+**Retroactive effect, declared rather than discovered later.** The 205
+windows of Fase 3's coverage test (`corpus/mackexplains7/fase3_coverage.md`)
+were classified with the whole transcript available - the budget this
+entry now forbids for the rule that codebook enforces. This does **not**
+invalidate the coverage gate: `0/205` in `outro`/`dúvida` holds under any
+context budget, because a wider budget can only resolve more ambiguity,
+never manufacture it, and the gate counts genuine ambiguity, not pivot
+classification. It does **not** invalidate the ontology or the field/value
+set. It **does** invalidate using the Fase 3 worksheet's `function`
+distribution as a predictor of Fase 5's α (`_docs/plano_implementacao.md`
+line 497, "α ≥ 0,667 por campo, no nível de janela," gate table at line
+699): that distribution was produced under a more generous context budget
+than the model receives, so agreement measured against it would overstate
+what the codebook alone, at the budget Fase 5 actually uses, can achieve.
+
+**What this does not reopen.** Direction A itself, `transition`'s removal
+from `function`, `cosmic`'s removal from `scale`, the 20/205 gate ceiling,
+`SAMPLE_SEED = 42` and the sampled video pair, or the codebook's
+verbatim-quote citation format.
