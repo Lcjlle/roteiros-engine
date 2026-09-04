@@ -63,20 +63,50 @@ Evidence is drawn from hand-classifying all 205 coverage-test windows
    start with cats. They deserve the floor."), `promise` when it names the
    upcoming subject (`lkLwp9o7Djk:j0027`, "Now we cross the Mediterranean, and
    we have to talk about ancient Greece, because ancient Greece is where
-   things get philosophically fascinating..."), or the dominant substantive
-   clause when a closer and an opener share a window (`lkLwp9o7Djk:j0064`,
-   `5unhHRFkC7I:j0054`, `j0075` - all three resolved by the "dominant clause"
-   tie-breaker below). **Decision: `transition` is removed from `function`'s
+   things get philosophically fascinating..."), or by the boundary tie-breaker
+   below when a closer and an opener genuinely share a window
+   (`lkLwp9o7Djk:j0027`, `j0064`, `5unhHRFkC7I:j0075` - all three resolved by
+   it; `5unhHRFkC7I:j0054`, on inspection below, turns out not to need it at
+   all). **Decision: `transition` is removed from `function`'s
    value set (11 -> 10 values, option 3 of the three the task named).** This is
    the outcome backed by direct evidence rather than an a priori preference for
    simplicity: keeping `transition` bought no coverage `hook`/`promise` did not
    already provide, while creating the exact test-3 collisions the Fase 2 gate
-   measured. General tie-breaker adopted for every boundary window (a window
-   spanning the end of one topic and the start of the next): **code by
-   whichever clause carries the dominant substantive content (more new
-   information, more words); default to the closing clause when truly tied**,
-   since the window is anchored to the content it concludes and the opening
-   pivot is developed by the next window.
+   measured. General tie-breaker adopted for every genuine boundary window (a
+   window whose closing sentence(s) conclude one topic while its final
+   sentence(s) preview specific content the *next* window then develops - not
+   merely any window with more than one sentence): **default to the closing
+   clause, since the window is anchored to the content it concludes and the
+   opening pivot is developed by the next window; code by the opening/pivot
+   clause instead only when it has strictly more words than the closing
+   clause.** Word count is the single, countable signal used - "more new
+   information" is dropped as a separate criterion, since it is not
+   independently decidable from word count and the two can point opposite
+   ways, which is exactly the ambiguity a tie-breaker exists to remove.
+   Applied: `lkLwp9o7Djk:j0027`'s closing clause ("Pointing at the right
+   building, wrong floor.", 7 words) loses to its opening pivot ("Now we cross
+   the Mediterranean...suffering.", 42 words) -> `promise`.
+   `lkLwp9o7Djk:j0064`'s closing clause ("The people of a small Belgian
+   town...doing it.", 19 words) beats its opening pivot ("Then comes the
+   early modern period...better.", 17 words) -> `implication`.
+   `5unhHRFkC7I:j0075`'s closing clause ("And some animals...particular
+   frequency.", 26 words) beats its opening pivot ("Let's come back to that
+   couch.", 6 words) -> `implication`. All three keep the label already on
+   record. `5unhHRFkC7I:j0054` was cited alongside these three in the
+   pre-rework text but does not actually qualify as a boundary window at all:
+   its trailing sentences ("Now, dogs are an obvious case. They've been
+   shaped by thousands of years of selective pressure specifically around
+   human interaction.") do not preview the next window's topic -
+   `5unhHRFkC7I:j0055` opens on "other animals" (cats/horses/elephants), which
+   neither sentence names or previews; the whole window stays on one topic
+   (dogs). Read as a single unit against `implication`'s own definition
+   ("extends established content to a broader consequence, generalization, or
+   meaning"), it is a direct match without any tie-break: it generalizes the
+   prior window's evidence about cognitive machinery into "they became...
+   experts in being human," and the trailing sentences elaborate that same
+   generalization rather than pivoting away from it. Label: `implication`,
+   unchanged - but for the correct reason, not the boundary tie-breaker the
+   pre-rework text cited.
 4. **Aggregable** - yes; counting/averaging the `function` distribution per
    video is exactly the profile signal the project wants (hook/resolution
    ratio, evidence density, etc.).
@@ -163,24 +193,36 @@ Evidence is drawn from hand-classifying all 205 coverage-test windows
      claim about a single animal species in this corpus (dogs, cats, horses,
      elephants, each covered individually) would have no home among the other
      values.
-   - **`cosmic` is cut.** A full-corpus search
-     (`corpus/mackexplains7/windows/*.json`, all 30 videos, 3,106 windows) for
-     literal universe/cosmos/galaxy/space content found **zero** genuine
-     cosmic-scale claims - the 9 hits for the word "universe" are all
-     figurative/idiomatic (`5unhHRFkC7I:j0086` "the hardest thing in the
-     universe to verify", `pJYm-8WQbEE:j0000` "the most important being in the
-     universe") describing individual- or human-scale content, not literal
-     astronomical scope. Per the codebook's own rule (two real positive
-     examples required for every value that survives into v1, with no
-     constructed-example escape hatch for positive examples - only for
-     negatives), `cosmic` cannot be honestly retained: it never fires once in
-     this channel's real output, and the idiomatic "universe" hits are a live
-     annotator trap that would tempt a false-positive `cosmic` code on
-     ordinary individual-scale hyperbole, degrading exactly the
-     inter-annotator agreement Fase 5's gate measures. **Decision: `cosmic` is
-     cut from `scale`** (5 -> 4 values), left available to be reintroduced in a
-     future `v2` if a channel that actually covers astronomy/physics enters
-     the corpus, with real examples to anchor it.
+   - **`cosmic` is cut.** Two lines of evidence. First, all 205 windows
+     hand-classified across the two coverage-test videos
+     (`_docs/decisions.md#16c`) never once needed `cosmic` for `scale`.
+     Second, a full-corpus lexical scan
+     (`corpus/mackexplains7/windows/*.json`, all 30 videos, **3,103**
+     windows) for the four terms `universe`/`cosmos`/`galaxy`(`galaxies`)/
+     `space` found **32 hits total** - `universe` **7**, `cosmos` 0, `galaxy`/
+     `galaxies` 0, `space` 25 - every one of them read individually, none of
+     literal cosmic scope. The 7 `universe` hits are all figurative/idiomatic
+     (`5unhHRFkC7I:j0086` "the hardest thing in the universe to verify",
+     `pJYm-8WQbEE:j0000` "the most important being in the universe")
+     describing individual- or human-scale content. The 25 `space` hits are
+     unambiguously non-astronomical ("personal space", "space for
+     correction", "private space", "how space is used in communication"),
+     with one exception - `z1StpnRL4k4:j0031`, "the earliest ancestors of
+     modern military and space rocketry" - whose claim is scoped to
+     technological history, not cosmic scale. Outside this four-term scan,
+     the word `cosmic` itself occurs once in the corpus (`th-0rmRYBSg:j0002`,
+     "It wasn't some cosmic roll of the dice") - also idiomatic/negated, and
+     consistent with the same conclusion. Per the codebook's own rule (two
+     real positive examples required for every value that survives into v1,
+     with no constructed-example escape hatch for positive examples - only
+     for negatives), `cosmic` cannot be honestly retained: it never fires
+     once in this channel's real output, and the idiomatic "universe" hits
+     are a live annotator trap that would tempt a false-positive `cosmic`
+     code on ordinary individual-scale hyperbole, degrading exactly the
+     inter-annotator agreement Fase 5's gate measures. **Decision: `cosmic`
+     is cut from `scale`** (5 -> 4 values), left available to be reintroduced
+     in a future `v2` if a channel that actually covers astronomy/physics
+     enters the corpus, with real examples to anchor it.
 
 **Outcome: accept with adjustment - redefine `human`, cut `cosmic`.**
 
