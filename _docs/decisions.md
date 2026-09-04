@@ -1580,3 +1580,77 @@ what the codebook alone, at the budget Fase 5 actually uses, can achieve.
 from `function`, `cosmic`'s removal from `scale`, the 20/205 gate ceiling,
 `SAMPLE_SEED = 42` and the sampled video pair, or the codebook's
 verbatim-quote citation format.
+
+## 21. `scale` stays in v1 and Fase 6 (`M7`) aggregates it by narrative third, not as a marginal distribution - measured now, before Fase 6 is groomed
+
+Project owner's decision, made during Fase 3: `scale` stays in
+`schema/ontologia.v1.json`'s v1 field set. This entry is not that decision -
+it is the aggregation consequence the decision requires, measured now so
+Fase 6's grooming does not have to re-derive it, same posture as issue #6
+(found during one phase's grooming, filed against the phase that actually
+needs it, decided before that phase is touched).
+
+**Why a marginal distribution would throw away the only thing `scale`
+measures.** `perfis/<canal>.perfil.json`'s schema already carries
+`style.scale_trajectory` as an ordered value
+(`_docs/plano_implementacao.md` line 572, `["individual","human","planetary"]`),
+not a `field: [p20, p80]` percentile-band shape like every other
+`structure`/`pacing` metric in that schema - the plan's own example already
+points at position-dependent structure, three elements, without ever
+saying so in prose. Measured against the real evidence, `scale`'s
+**by-third** distribution over the 205-window Fase 3 coverage worksheet
+(`corpus/mackexplains7/fase3_coverage.md`, `_docs/decisions.md#16c`'s two
+videos, windows ordered by index, each video split into thirds of
+32/33/33 and 35/36/36, then combined by matching third position across
+both videos):
+
+| third | n | human | individual | planetary | abstract |
+|---|---|---|---|---|---|
+| 1st | 67 | 56.7% | 19.4% | 17.9% | 6.0% |
+| 2nd | 69 | 81.2% | 14.5% | 0.0% | 4.3% |
+| 3rd | 69 | 49.3% | 10.1% | 11.6% | 29.0% |
+
+`planetary` appears only at the open and close of a video (17.9% and
+11.6% of their thirds) and is **entirely absent from the middle third**
+(0/69); `abstract` is rare everywhere except the final third, where it is
+nearly a third of all windows (29.0%, against 4-6% elsewhere); `human`
+peaks in the middle (81.2%) and dips at both ends. This is a real
+narrative arc - open wide or personal, narrow to human-scale substance for
+the body, widen again to implication at the close - not noise. **A flat
+marginal distribution across all 205 windows (`human` 62.4%, `individual`
+14.6%, `abstract` 13.2%, `planetary` 9.8%) erases this shape entirely** -
+it would report the same three numbers for a video that opens planetary
+and closes abstract as for one that stays human-scale throughout, which is
+exactly the failure mode `position_pct`/`density_by_third`
+(`_docs/plano_implementacao.md` lines 552/560) already avoid for `function`
+and pacing, and the reason those two fields are stored positionally rather
+than as a single marginal number.
+
+**`scale` is not redundant with `function`, so this is not spending effort
+on a field `function` already covers.** Mutual information between `scale`
+and `function` over the same 205 rows: **0.29 bits**, against `scale`'s
+own entropy of 1.54 bits (H(function) = 2.84 bits) - `scale` shares only
+about 19% of its own information content with `function`
+(0.29 / 1.54 ≈ 0.19), confirmed by the contingency table: `evidence` and
+`implication` both occur at every `scale` value, `hook` skews individual
+(10/15), `context`/`escalation` never occur at `abstract` or `planetary`
+at all in this sample - real association, not independence, but nowhere
+near collinearity. A field that mostly duplicated `function` would not
+earn its ~3,600-per-channel annotation cost or its own line in Fase 5's
+per-field α gate; this one carries information `function` does not.
+
+**Decision: Fase 6's `structure.scale_trajectory` computes the dominant
+(mode) `scale` value per narrative third of each video** (or the
+distribution per third, if a single mode per third proves too lossy once
+real per-channel corpora exist - that refinement is Fase 6's grooming to
+make, not this entry's), never a single marginal `scale_distribution`
+across the whole video. The percentile-band convention
+(`_docs/plano_implementacao.md` line 587, 20-80 not min-max) still applies
+per third, across the 30 videos of a profile, not instead of the by-third
+split.
+
+**What this does not reopen.** Whether `scale`'s value set is right
+(`cosmic`'s removal, `#19`/`#20`) or should have more/fewer values -
+separate question, Fase 5's confusion-matrix gate is what tests that, not
+this entry. This entry only fixes how the field already frozen in v1 gets
+aggregated, not what it contains.
