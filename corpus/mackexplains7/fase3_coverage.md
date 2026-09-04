@@ -8,6 +8,26 @@ Classificacao a mao de todas as 205 janelas dos 2 videos sorteados por
 caso ambiguo abaixo - nenhuma linha foi marcada `outro`/`duvida` sem antes tentar os
 tie-breakers documentados no codebook.
 
+**Processo (rounds, plano linha 424-425).** Round 1 classificou `lkLwp9o7Djk`
+(98 janelas) contra a v0 da proposta de partida (`_docs/plano_implementacao.md`
+linhas 350-374, com os 11 valores originais de `function` e os 5 de `scale`).
+Round 1 nao encontrou nenhuma janela cujo melhor ajuste fosse `transition`
+isolado (ver `schema/codebook.md`, secao "Field evaluation", teste 3 de
+`function`) - achado que so ficou definitivo apos o Round 2. Round 2
+classificou `5unhHRFkC7I` (107 janelas) e revelou dois achados reais que
+mudaram a ontologia: (a) `transition` nunca e o melhor ajuste em nenhuma das
+205 janelas - cortado; (b) `scale=human` como "seres humanos" literal nao
+cobre janelas sobre populacoes de animais (`5unhHRFkC7I:j0026`, cachorros
+coletivamente) - `human` foi redefinido (token mantido) para "coletivo social
+ou populacional, humano ou animal"; e `scale=cosmic` nunca ocorre em nenhum
+dos 205 (nem nos 3.106 do corpus inteiro, ver codebook) - cortado. **Video 1
+(`lkLwp9o7Djk`) foi reconferido contra a ontologia final apos essas mudancas:
+nenhuma das suas 98 linhas usava `transition` ou `cosmic`, e nenhuma dependia
+da leitura literal de `human` - as 98 classificacoes originais do Round 1
+permanecem validas sem alteracao sob a ontologia final.** A tabela abaixo ja
+reflete a ontologia final (identica a `schema/ontologia.v1.json`) para os 205
+janelas, round 1 e round 2 combinados.
+
 - Semente: `42`
 - Videos: `lkLwp9o7Djk` (98 janelas), `5unhHRFkC7I` (107 janelas) - 205 no total
 - Portao (`_docs/decisions.md#16c`, copiado verbatim): < 10% das janelas em "outro" ou

@@ -1,0 +1,51 @@
+{
+  "version": "v1",
+  "created_at": "2026-09-04",
+  "annotation_unit": "window",
+  "corpus_language": "en",
+  "fields": [
+    {
+      "name": "function",
+      "type": "categorical",
+      "required": true,
+      "values": [
+        "hook",
+        "promise",
+        "context",
+        "escalation",
+        "mechanism",
+        "evidence",
+        "objection",
+        "resolution",
+        "implication",
+        "cta"
+      ]
+    },
+    {
+      "name": "loop",
+      "type": "categorical",
+      "required": true,
+      "values": ["opens", "closes", "holds", "none"]
+    },
+    {
+      "name": "evidence_type",
+      "type": "categorical",
+      "required": false,
+      "condition": "function == 'evidence'",
+      "values": ["study", "statistic", "case", "analogy", "authority"]
+    },
+    {
+      "name": "scale",
+      "type": "categorical",
+      "required": true,
+      "values": ["individual", "human", "planetary", "abstract"]
+    },
+    {
+      "name": "density",
+      "type": "integer",
+      "required": true,
+      "min": 0,
+      "max": 2
+    }
+  ]
+}
