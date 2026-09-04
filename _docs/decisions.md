@@ -841,6 +841,40 @@ ontology's fields and codebook examples still all come from
 `@MackExplains7`, only the transfer check's ~20 windows come from
 `@Zenn0009`.
 
+**Ratified by the project owner, addendum in place (round 2 amendment, Issue
+#11).** What changes here is the status of (a) above, not its content: it was
+a technical call the PM made while grooming; the project owner now ratifies
+it explicitly, for a reason worth recording because it also sets the limit of
+what the transfer test can prove.
+
+**Why ratified.** A second channel that resembles `@MackExplains7` too
+closely would pass trivially and prove nothing - the six-test evaluation
+would find no gap because there was never a real chance to find one.
+`@Zenn0009` shares the format (a) already establishes (single narrator,
+English, hook-first, question-style titling) and diverges on the two axes
+that matter for a transfer test: duration (`@MackExplains7` 17.3-26.4 min vs.
+`@Zenn0009` ~4.0-13.0 min) and subject domain (behavioral-effects explainers
+vs. history/science explainers) - the right kind of distance, not too close,
+not a different format. It is also already collected, cleaned, and committed
+(Fase 1, items #3/#4), so using it costs nothing further; picking any other
+channel now would reopen a Fase 1 collection pass from zero, with a real,
+previously-hit risk of repeating the YouTube per-IP caption block items
+#3/#4/#9 already document.
+
+**The limit of what this test proves - more load-bearing than the reason
+above.** This test proves the ontology's categories are not idiosyncratic to
+`@MackExplains7` specifically - that a second channel, same format, different
+domain and duration, produces windows the same `function`/`scale`/`evidence_type`
+vocabulary can code without inventing new values. It does **not** prove the
+ontology generalizes across *format*: an interview, a multi-narrator video, a
+listicle, or a channel fronted by more than one presenter are untested by this
+check, because `@Zenn0009` is the same format as `@MackExplains7` on purpose
+(per (a) above). Real format generalization is only tested for free the day a
+second channel with a genuinely different format enters the corpus - nothing
+in this issue substitutes for that. Any future citation of this transfer test
+as evidence the ontology generalizes beyond format is a misreading of what was
+actually measured here.
+
 **(b) Deterministic recipe to produce those ~20 windows, verified during
 grooming (scratch directory, not committed).** `@Zenn0009` has no
 `sentences/`/`windows/` yet - Fase 2 was scoped to `@MackExplains7` only
@@ -897,6 +931,53 @@ for real (this entry only proves the recipe works) - re-running the same
 seed against the same committed input is expected to reproduce the same
 video/window draw; if it does not, the mismatch itself is worth flagging,
 not silently accepted.
+
+**Correction, in place (round 2 amendment, Issue #11) - sample size, not the
+recipe.** The draw above used `n_videos=1`, which the project owner is
+reopening on a real asymmetry: fixing an undersized transfer sample now costs
+one line in the recipe; discovering in Fase 5 that the ontology does not
+transfer costs a full `v2` and re-annotating the whole batch (~3,600 calls,
+`_docs/decisions.md#3`/`#9`'s corpus scale). A single 238s video
+(`ZJai7C3tb1M`, the shortest in the `@Zenn0009` manifest) gives 20 windows too
+little runway to exercise most of the `function` vocabulary - "no gap found"
+there risks meaning "no opportunity to find one," not "the ontology holds."
+
+What changes: `sample_videos(..., n_videos=1)` becomes
+`sample_videos(..., n_videos=2)`, same seed 42, same 20-window total via
+`sample_windows`'s existing per-video quota (`n_windows // len(video_ids)`,
+with its documented backfill if either video has too few windows -
+`src/amostragem.py`). Re-run live (scratch directory outside the repository
+and outside `/tmp`, deleted after verifying, nothing committed by this entry -
+same posture as the original verification above): the seed-42 draw over the
+real `corpus/zenn0009/windows/` now returns `["ZJai7C3tb1M", "Dw2Pifv1JrM"]`.
+`ZJai7C3tb1M` has 24 windows available and `Dw2Pifv1JrM` has 56 - both
+comfortably above the quota of 10, so the split is the plain
+`n_windows // len(video_ids)` quota, no backfill triggered:
+
+- `ZJai7C3tb1M` ("The Pratfall Effect", 238s / ~4.0min - the same shortest
+  video the round-1 draw picked): `j0000`, `j0002`, `j0003`, `j0004`, `j0007`,
+  `j0008`, `j0009`, `j0019`, `j0020`, `j0022`.
+- `Dw2Pifv1JrM` ("What Did Surgery Feel Like Before Anesthesia?", 547s /
+  ~9.1min - well above the manifest's median duration, not another short
+  video): `j0001`, `j0002`, `j0005`, `j0013`, `j0014`, `j0027`, `j0032`,
+  `j0035`, `j0038`, `j0053`.
+
+Flagged, not hidden: the two videos are not equally short - `Dw2Pifv1JrM`
+sits in the upper third of `@Zenn0009`'s 29-video duration range (238-778s),
+so this draw did not land on the failure mode the project owner named as a
+reason to escalate rather than hand-pick a replacement pair. Had it landed
+there, this entry would report that fact for the project owner to decide, not
+swap in a different pair or re-seed - same posture item #17 already sets for
+near-miss gate results.
+
+What does not change: (a)'s channel choice, (c)'s coverage-test video pair
+(`lkLwp9o7Djk`/`5unhHRFkC7I`, untouched, still `n_videos=2` from Fase 2's own
+default), (d)'s codebook citation format, and `SAMPLE_SEED = 42` everywhere it
+is already used. The engineer's real run must still produce and commit
+`corpus/zenn0009/sentences/*.json` and `corpus/zenn0009/windows/*.json` for
+real (this entry only re-proves the recipe); re-running the same seed against
+the same committed input is expected to reproduce this same two-video,
+20-window draw.
 
 **(c) Fase 3 coverage-test video pair: reuse the Fase 2 human-sample draw.**
 The plan's steps 2-3 (line 424-425) name "1 vídeo" then "um segundo vídeo"
