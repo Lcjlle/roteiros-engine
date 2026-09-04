@@ -19,13 +19,17 @@ O corpus e os roteiros gerados são em **inglês**. A comunicação do projeto c
 | Inglês, obrigatoriamente | PT-BR |
 |---|---|
 | `schema/codebook.md` (definições, exemplos, tie-breakers) | `README.md`, `_docs/plano_implementacao.md`, `_docs/blueprint.md` |
-| `schema/ontologia.vN.json` (nomes de campo e valores) | `_docs/decisions.md`, `DECISOES.md` |
-| prompts de anotação e de geração | `_docs/process.md`, `_docs/team/*` |
-| `tone_examples` e `forbidden` no perfil | corpo de issues, comentários de QA, commits |
-| roteiros em `saidas/` | prosa dos relatórios de concordância e fusão |
-| identificadores de código: variáveis, funções, colunas, docstrings, nomes de teste | mensagens de CLI e log destinadas a você |
+| `schema/ontologia.vN.json` (nomes de campo e valores) | `DECISOES.md`, `_docs/process.md`, `AGENTS.md` |
+| prompts de anotação e de geração | corpo de issues, comentários de QA, mensagens de commit |
+| `tone_examples` e `forbidden` no perfil | prosa dos relatórios de concordância e fusão |
+| roteiros em `saidas/` | **docstrings e comentários dentro do código** |
+| identificadores de código: variáveis, funções, colunas, nomes de teste | mensagens de CLI e log destinadas a você |
+| `_docs/team/*` e `_docs/task-template.md` — instrução operacional que entra literalmente no prompt de um agente | — |
+| `_docs/decisions.md` — ver `_docs/decisions.md#18` | — |
 
 Números e nomes de campo dentro de um texto em PT-BR permanecem em inglês, porque são identificadores. Um relatório diz "a função `hook` ficou em 4,2% dos blocos".
+
+**O teste que decide um caso novo.** O texto é *vocabulário do sistema* — algo que o modelo precisa escolher, produzir ou casar exatamente? Então é inglês. É *explicação para o dono do projeto* — narrativa, justificativa, diagnóstico? Então é PT-BR. Não use "um agente vai ler isso" como critério: agentes leem o repositório inteiro, inclusive tudo que está em PT-BR. `_docs/team/*` é inglês porque é instrução operacional colada dentro do prompt de um agente; docstrings são PT-BR porque são explicação ao lado do código, enquanto os identificadores que elas descrevem seguem em inglês.
 
 **`schema/codebook.md` é o único artefato bilíngue.** Cada entrada tem definição normativa em inglês e glosa em PT-BR marcada como não normativa. **Onde divergirem, a definição EN vence.** Não há sincronização automática: alterou a definição, altere a glosa no mesmo commit. Essa regra também vive no cabeçalho do próprio codebook.
 

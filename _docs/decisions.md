@@ -971,3 +971,69 @@ evidence about the annotation unit rather than about either gate, and it goes
 back to the project owner as an EDU/RST question - not to an engineer, and
 not as a threshold adjustment. A single near-miss on one gate is a number to
 record, which is what this entry does.
+
+## 18. Language policy: the README table was wrong in three places, the files were right - reclassify the table, translate nothing
+
+The v3.0 language policy is normative and unchanged in intent: **machine-facing
+or prompt-bound text is English; text whose only reader is the project owner is
+PT-BR.** An audit of the repository against that policy's own table
+(`README.md`, "Política de idioma") found three mismatches. In all three the
+file is right and the table was wrong, so the table moves and no file is
+translated.
+
+**Measured, not assumed** (word-frequency pass over each file, plus an AST pass
+over `src/*.py` for docstrings):
+
+| Artifact | Table said | File actually is | Resolution |
+|---|---|---|---|
+| `_docs/decisions.md` | PT-BR | English (1,028 EN markers vs. 2 PT) | table -> English |
+| `_docs/team/*.md`, `_docs/task-template.md` | PT-BR | English (all four) | table -> English |
+| docstrings in `src/*.py` | English | PT-BR (51 of 52; `src/db.py`'s module docstring is the lone English one) | table -> PT-BR |
+
+Consistent with the table already, left untouched: 99 test names (English),
+code identifiers (English), `README.md`/`plano_implementacao.md`/`blueprint.md`/
+`process.md`/`AGENTS.md`/`DECISOES.md`/issues/commits (PT-BR).
+
+**Why each file is right and the table was wrong.**
+
+- `_docs/team/*` and `_docs/task-template.md` are not documentation *about* the
+  squad - they are the operating instructions pasted verbatim into a PM's,
+  engineer's or QA agent's prompt. They are prompt-bound by construction, which
+  the policy already sends to English.
+- `_docs/decisions.md` is the boundary case, and it lands in English on
+  content, not on convenience: it is near-entirely constants, function names,
+  measured numbers and file paths - all of which the policy mandates in English
+  anyway - and it is cited *by identifier* (`#14`, `#16b`) from issue bodies,
+  commit messages and module docstrings. A PT-BR wrapper around English
+  identifiers is the worst of both. Translating it would also break every
+  existing citation and produce a ~900-line diff across 18 entries settled in
+  closed issues.
+- Docstrings are the mirror argument. They are prose sitting next to the code,
+  explaining to the project owner what a function does and why - exactly the
+  "explanation for a human" side of the policy. They are not vocabulary the
+  model has to choose from, unlike the ontology labels, the annotation prompt,
+  or the generated script. The *identifiers* they describe stay English, which
+  is what the policy was actually protecting.
+
+**Operational test for future cases, so this does not get re-litigated per
+file.** Ask whether the text is *system vocabulary* - something a model must
+choose, emit, or match exactly (ontology labels, field names and values,
+annotation and generation prompts, code identifiers, test names, an agent's
+own operating instructions). If yes, English. Otherwise it is *explanation for
+the project owner* - narrative, rationale, diagnosis - and it is PT-BR.
+Explicitly **not** the test: "an agent will read this." Agents read the whole
+repository, PT-BR included; that criterion would send everything to English and
+is why the original table drifted.
+
+**Scope: zero translation in either direction.** No file changes language under
+this entry. The only edit is the `README.md` table plus the paragraph stating
+the test above. `src/db.py`'s English module docstring is left as-is - a
+one-line inconsistency is not worth a commit, and it corrects itself the next
+time that file is edited for a real reason.
+
+**Escape hatch, if reading `_docs/decisions.md` in English ever becomes a real
+cost:** add a PT-BR index at the top of the file - one line per entry, entry
+number plus what it decided - not a translation of the entries. That keeps the
+citations, the numbers and the diff history intact while restoring
+skimmability. Not done now, because 18 entries have been read in English
+without friction.
