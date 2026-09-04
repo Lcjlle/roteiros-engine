@@ -1316,3 +1316,61 @@ are not edited by this entry - they stay worktree-only and unmerged
 since `9d1182c`'s QA FAIL). The next engineering round applies the rule
 above, corrects the two rows named, re-verifies the other three, resolves
 the two borderline candidates, and re-measures the coverage gate.
+
+**Correction, in place (round 4 resolution, Issue #11) - list composition,
+not the rate.** This entry's "five confirmed cases" list above named
+`5unhHRFkC7I:j0075` as one of the five genuine boundary windows. That is
+false, found when the next engineering round finally applied the rule to
+it (this entry flagged it as owed but never carried out the application -
+see "What this does not reopen," which listed `5unhHRFkC7I:j0075` among
+windows still needing verification). Read against its neighbors
+(`5unhHRFkC7I:j0002`, `j0039`, `j0074`): its trailing sentence, "Let's come
+back to that couch," is not a pivot under this entry's own test - "that
+couch" is the video's own opening scenario, already established twice
+before (`j0002`, revisited at `j0039`), not a new subject. The window has
+no internal pivot and is coded as a whole, unchanged at `implication`.
+
+The seat `5unhHRFkC7I:j0075` wrongly occupied belongs to
+`5unhHRFkC7I:j0017`, one of the two windows this entry left as "borderline
+candidates, flagged... not decided." Resolved: its opening ("Then came
+neuroscience... brains of mammals... reframed the entire conversation")
+names a specific subject - mammalian-brain neuroscience research - not
+developed anywhere earlier in the video (only in the following window,
+`j0018`, "the limbic system...") - a genuine pivot. Rule: code the closing
+clause ("Machines don't make detours to visit the dead"), which continues
+the same anti-"biological machine model" evidence chain as `j0014`-`j0016`
+("Machines don't grieve") - `evidence`/`case`, not `promise`.
+
+**Corrected five-window list:** `lkLwp9o7Djk:j0027`, `lkLwp9o7Djk:j0064`,
+`lkLwp9o7Djk:j0076`, `5unhHRFkC7I:j0064`, `5unhHRFkC7I:j0017` - still five,
+still 5/205 = 2.4%. The rate this entry used to reject Direction B is
+unchanged and was never wrong; only the citation of which fifth window
+earned the count was.
+
+The other borderline candidate, `5unhHRFkC7I:j0039`, resolved the other
+way: its trailing sentence ("Smell is only one piece of this") withholds
+which piece, naming nothing specific - the same shape as this entry's own
+negative example ("there's one more thing") - so it is not a pivot either,
+and does not join the five. The whole window is coded directly, and the
+codebook's pre-existing `hook`-vs-`promise` tie-breaker (subject withheld
+-> `hook`, subject named -> `promise`) - not the boundary rule this entry
+wrote - moves it from the `promise` recorded pre-Fase-3-rework to `hook`.
+
+**Net effect on the 205-row worksheet, final count.** Four rows change
+(all `promise` before this and the prior round's fixes): `lkLwp9o7Djk:j0027`
+-> `implication`, `5unhHRFkC7I:j0064` -> `implication`, `5unhHRFkC7I:j0017`
+-> `evidence`/`case` (three via this entry's boundary rule), and
+`5unhHRFkC7I:j0039` -> `hook` (via the pre-existing `hook`/`promise`
+tie-breaker, not this entry's rule). None becomes `outro`/`dúvida`; the
+coverage gate remains **0/205, PASSOU, teto 20**
+(`corpus/mackexplains7/fase3_gate.json`, regenerated) - unaffected and not
+reopened by this correction, same as the original entry concluded.
+
+`schema/codebook.md`'s worked examples for the boundary rule (previously
+the three word-count arithmetic examples this entry's rule replaced) are
+also rewritten in the same round to argue from the rule text above rather
+than from word counts - no word-count arithmetic remains in the codebook.
+
+Confirmed unaffected, same as the original entry: `transition`'s removal,
+`cosmic`'s removal, `scale` staying in v1, the 20/205 gate ceiling, seeds,
+the sampled video pair, and the codebook's citation format.
