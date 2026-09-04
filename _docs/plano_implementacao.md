@@ -753,8 +753,8 @@ em outros documentos foram aplicadas no mesmo commit:
 
 ## Próximo passo
 
-Duas frentes independentes, nenhuma mais bloqueada por decisão pendente:
+Fases 0, 1 e 2 concluídas. A Fase 1 rodou contra os dois canais (`_docs/decisions.md#3`, `#4`, `#9`) e a Fase 2 fechou o portão inteiro contra `@MackExplains7`: critérios 1 e 2 por julgamento humano na Issue #10 (5 de 50 e 0 de 50, depois da correção de sentenciação da Issue #9), critérios 3a/3b/3c/3d automáticos em `corpus/mackexplains7/fase2_gate.json` (30 vídeos, 3.103 janelas, `passed: true`).
 
-**Sem bloqueio:** groomar a Fase 2 e rodar sobre o fixture `zenn0009`. Sentenciação e janelamento não dependem do canal definitivo, e o portão pode ser medido com o corpus que já existe.
+**Próxima onda:** a Fase 3 (Issue #11) — `schema/ontologia.v1.json` + `schema/codebook.md`. Issue única, sem paralelismo: os dois arquivos estão na lista de conflito de `_docs/process.md`. As quatro lacunas de grooming já estão fechadas em `_docs/decisions.md#16` — canal do teste de transferência (`@Zenn0009`), receita determinística das ~20 janelas, par de vídeos do teste de cobertura (`lkLwp9o7Djk` + `5unhHRFkC7I`, 205 janelas, teto de 20 em "outro"/dúvida) e formato de citação do codebook (citação literal + `window_id`).
 
-**Destrava a Fase 3:** abrir e groomar a issue de Fase 1 (Coleta) contra `@MackExplains7` — canal e modelo de anotação já estão registrados em `DECISOES.md#4` e `#5`; falta rodar a coleta real e verificar o portão contra esse canal, do jeito que a Issue #1 fez para `@Zenn0009`.
+**Fora da onda, sem bloquear a Fase 3:** Issue #6 (Fase 8 — métricas de perfil por taxa/minuto) e Issue #5 (dívida de dev-infra). A #5 toca `_docs/decisions.md` e `_docs/process.md`, ambos na lista de conflito, então não entra na mesma onda que a #11.

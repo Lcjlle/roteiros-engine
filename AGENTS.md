@@ -86,8 +86,9 @@ roteiros-engine/
 
 Portoes de qualidade
 
-Cada fase do plano tem um portao numerico objetivo (Pk, cobertura de
-ontologia, Krippendorff's alpha, % de criterios). Um QA que aprova uma fase
+Cada fase do plano tem um portao numerico objetivo (portao 3a-3d da Fase 2,
+cobertura de ontologia, Krippendorff's alpha, % de criterios). Um QA que
+aprova uma fase
 sem rodar o script de verificacao daquela fase e reportar o numero medido
 nao fez QA - ver `_docs/plano_implementacao.md` para o portao de cada fase e
 `_docs/team/qa-engineer.md` para como isso vira veredito.

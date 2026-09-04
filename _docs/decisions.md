@@ -844,11 +844,25 @@ ontology's fields and codebook examples still all come from
 **(b) Deterministic recipe to produce those ~20 windows, verified during
 grooming (scratch directory, not committed).** `@Zenn0009` has no
 `sentences/`/`windows/` yet - Fase 2 was scoped to `@MackExplains7` only
-(`_docs/decisions.md#10d`). Producing them needs zero new code: `src.coleta.read_manifesto`
-already defaults a missing `role` column to `profile` (`ROLE_PROFILE`,
-`src/coleta.py:476`), and `src.sentencia.run()`/`src.janelas.run()` already
-accept `manifest_path`/`raw_dir`/`sentences_dir`/`windows_dir` as
+(`_docs/decisions.md#10d`). Producing them needs zero new code:
+`src.sentencia.run()` treats a missing `role` column as `profile`
+(`row.get("role", ROLE_PROFILE)`, `src/sentencia.py:676`; `src.coleta.check_gate`
+does the same at `src/coleta.py:505`), and `src.sentencia.run()`/`src.janelas.run()`
+already accept `manifest_path`/`raw_dir`/`sentences_dir`/`windows_dir` as
 parameters instead of their `corpus/mackexplains7` module-level defaults.
+
+**Correction, in place** (same posture as item #11's median/mean fix - the
+decision is unchanged, only a factual claim inside its justification was
+wrong): the original text of this paragraph credited the `role` defaulting to
+`src.coleta.read_manifesto` at `src/coleta.py:476`. That is false, and
+checkable in one read - `read_manifesto` is a bare `csv.DictReader` and
+returns exactly the columns the file has. The recipe below is unaffected,
+because it is `sentencia.run()` that filters. `read_manifesto` is
+deliberately left as-is rather than changed to make the old sentence true:
+injecting a default there would hide from every future consumer that
+`corpus/zenn0009/manifesto.csv` genuinely predates the `role` column (item
+#7). The absence should stay visible at the read boundary, and each consumer
+should pick its own default explicitly.
 Verified live against the real `corpus/zenn0009/raw/` (30 videos, scratch
 output directory, deleted after verifying, nothing committed by this
 entry):
@@ -912,3 +926,48 @@ None of this reopens `DECISOES.md#4` (the ontology is still derived from
 `@MackExplains7` alone) or touches any already-frozen Fase 2 artifact
 (`corpus/mackexplains7/fase2_gate.json`, `fase2_sample.md`,
 `sentences/`, `windows/` stay read-only inputs to Fase 3).
+
+## 17. Fase 2 gate criterion 1 passed at exactly its limit (5/50) - accepted as a pass, recorded, not re-measured
+
+Issue #10's human judgement of `corpus/mackexplains7/fase2_sample.md` (50
+windows, `SAMPLE_SEED = 42`, videos `lkLwp9o7Djk`/`5unhHRFkC7I`, judged fresh
+after Issue #9's sentence-boundary fix, not reused from Issue #4) returned
+`sentence_cut = sim` on 0 of 50 - criterion 2 passed with full margin - and
+`two_functions = sim` on exactly 5 of 50. Criterion 1's threshold is `<= 5 em
+50`. It passed with **zero margin**.
+
+The five flagged windows, so this entry is checkable against the committed
+sample rather than taken on trust: `lkLwp9o7Djk:j0027`, `lkLwp9o7Djk:j0054`,
+`lkLwp9o7Djk:j0064`, `5unhHRFkC7I:j0054`, `5unhHRFkC7I:j0075`.
+
+`_docs/plano_implementacao.md` (Fase 2, criterion 1) reads a window carrying
+two distinct narrative functions as a signal that the word threshold may be
+too high. **Project owner's decision: accept the result as a pass, record the
+zero margin here, and do not re-measure, re-sample, or lower
+`WINDOW_MAX_WORDS`.** Reasons, in order:
+
+- A pass at the threshold is a pass. Re-drawing the sample after seeing the
+  number is the mirror image of the softening `_docs/team/pm.md` forbids, and
+  it would spend the seed-42 reproducibility that is the only reason QA can
+  re-measure exactly what the engineer measured.
+- Lowering `WINDOW_MAX_WORDS` is the contingency item #11 already measured as
+  strictly worse for this corpus (2,927 problems at 25 vs. 1,527 at 35) and
+  item #14 closed for good. Nothing here reopens it.
+- The five flagged windows are not noise to be tuned away - they are the
+  population Fase 3 exists to handle. A window carrying two functions is a
+  window whose `function` label is genuinely contested, which is what the
+  codebook's tie-breakers are for.
+
+**Carried into Fase 3 as an input, not as a blocker.** Whoever writes
+`schema/codebook.md` reads those five `window_id`s in `fase2_sample.md`
+before writing the tie-breakers: they are the cheapest real examples of the
+boundary cases the tie-breakers have to decide, from the same corpus and the
+same two videos Fase 3's coverage test already uses (item #16c).
+
+**What would reopen this.** Not this entry alone. If Fase 3's own coverage
+gate (`< 10%` of the 205 windows in "outro"/genuine doubt, i.e. at most 20 -
+item #16c) also lands at or near its limit, that *pair* of near-misses is
+evidence about the annotation unit rather than about either gate, and it goes
+back to the project owner as an EDU/RST question - not to an engineer, and
+not as a threshold adjustment. A single near-miss on one gate is a number to
+record, which is what this entry does.

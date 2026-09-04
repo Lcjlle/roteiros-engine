@@ -35,15 +35,17 @@ Números e nomes de campo dentro de um texto em PT-BR permanecem em inglês, por
 
 ## Estado
 
-Fase 0 decidida. Código da Fase 1 implementado e validado contra o canal-fixture `zenn0009` (30 vídeos: 21 legenda, 9 whisperX — `_docs/decisions.md#3` e `#4`).
+Fase 0 decidida — as cinco decisões de `DECISOES.md` estão preenchidas, incluindo canal de referência definitivo (`@MackExplains7`, #4) e modelo de anotação (Claude Sonnet 5, #5).
 
-**`zenn0009` é fixture de validação da coleta, não corpus de perfil.** Serviu para testar o M1 e cumpriu esse papel.
+**Fase 1 concluída** nos dois canais: `zenn0009` (30 vídeos: 21 legenda, 9 whisperX — `_docs/decisions.md#3` e `#4`) e `mackexplains7` (30 `profile` + 5 `holdout`, whisperX nos 30 — `_docs/decisions.md#9`).
 
-**Pode rodar agora:** Fase 2 (sentenciação), sobre o fixture. Não depende do canal definitivo.
+**`zenn0009` é fixture de validação da coleta, não corpus de perfil.** Serviu para testar o M1 e cumpriu esse papel. Na Fase 3 ele reaparece uma vez só, como canal do teste de transferência (`_docs/decisions.md#16a`) — o que não o torna corpus de perfil.
 
-**Bloqueado:** Fase 3, até rodar a Fase 1 e a Fase 2 sobre o canal de referência definitivo (`@MackExplains7`, `DECISOES.md#4`) — a ontologia precisa do corpus real dele, não só da decisão de qual canal é.
+**Fase 2 concluída** sobre `mackexplains7`, com os três critérios do portão medidos e dentro do limite: critério 1 = 5 de 50 e critério 2 = 0 de 50 (julgamento humano, Issue #10, refeito depois da correção de sentenciação da Issue #9); critérios 3a/3b/3c/3d automáticos, persistidos em `corpus/mackexplains7/fase2_gate.json` (30 vídeos, 3.103 janelas, `passed: true`).
 
-**Resolvido em `DECISOES.md`:** canal de referência definitivo (`@MackExplains7`, #4) e modelo de anotação (Claude Sonnet 5, #5).
+**Pode rodar agora:** Fase 3 — a ontologia global (`schema/ontologia.v1.json` + `schema/codebook.md`). Issue única, sem paralelismo.
+
+**Não iniciadas:** Fases 4 a 10.
 
 ---
 
@@ -227,7 +229,7 @@ canal ─▶ M1 coleta ─▶ M2 sentencia ─▶ M4 anota ─▶ M5 valida ─�
 | Portão | Onde | Critério | Se falhar |
 |---|---|---|---|
 | Corpus | M1 | 30 `profile` + 4–5 `holdout` | canal pequeno demais |
-| Sentenciação | M2 | ≤ 5 de 50 janelas com duas funções; 0 sentenças cortadas; 0 janelas fora da faixa | reduzir limiar para 25 palavras |
+| Sentenciação | M2 | ≤ 5 de 50 janelas com duas funções; 0 sentenças cortadas; critério 3 dividido em 3a/3b (invariantes, 0 tolerância) e 3c/3d (tolerâncias) — `_docs/decisions.md#14` | 3a/3b: defeito em `src/janelas.py`. 3c estourado: reavaliar a unidade de anotação (EDU/RST), decisão do dono. **Não** baixar `WINDOW_MAX_WORDS` — medido pior (`#11`) |
 | Ontologia | M3 | < 10% das janelas em "outro"/dúvida | simplificar a lista |
 | Autoconcordância | M4 | α ≥ 0,8 humano × humano | codebook está vago |
 | **Concordância** | **M5** | **α ≥ 0,667 modelo × humano, por campo, em janela** | **reescrever, fundir valores ou remover o campo** |
