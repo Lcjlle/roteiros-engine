@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-09-04T03:16:00.822406+00:00",
+  "ontology_version": "v0.1",
+  "fields_evaluated": [
+    "function",
+    "scale",
+    "evidence_type"
+  ],
+  "n_fields": 3,
+  "n_windows": 205,
+  "videos": {
+    "lkLwp9o7Djk": 98,
+    "5unhHRFkC7I": 107
+  },
+  "sample_seed": 42,
+  "gate": {
+    "field": "function",
+    "threshold_ratio": 0.1,
+    "threshold_count": 20,
+    "n_outro_or_duvida": 0,
+    "passed": true
+  },
+  "thermometers": {
+    "scale": {
+      "n_outro_or_duvida": 0,
+      "n_windows": 205,
+      "note": "medido, sem threshold - mesmo desenho do 3c da Fase 2 (_docs/decisions.md#14)"
+    },
+    "evidence_type": {
+      "n_outro_or_duvida": 0,
+      "n_applicable_rows": 50,
+      "note": "medido so nas linhas function == 'evidence'; demais linhas sao 'n/a', nao contam no denominador"
+    }
+  },
+  "function_distribution": {
+    "hook": 14,
+    "promise": 18,
+    "evidence": 50,
+    "mechanism": 28,
+    "escalation": 3,
+    "implication": 46,
+    "context": 16,
+    "objection": 19,
+    "resolution": 11
+  },
+  "scale_distribution": {
+    "individual": 30,
+    "human": 128,
+    "abstract": 27,
+    "planetary": 20
+  },
+  "evidence_type_distribution": {
+    "n/a": 155,
+    "case": 23,
+    "authority": 6,
+    "statistic": 4,
+    "analogy": 3,
+    "study": 14
+  }
+}
