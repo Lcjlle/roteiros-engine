@@ -72,41 +72,49 @@ Evidence is drawn from hand-classifying all 205 coverage-test windows
    the outcome backed by direct evidence rather than an a priori preference for
    simplicity: keeping `transition` bought no coverage `hook`/`promise` did not
    already provide, while creating the exact test-3 collisions the Fase 2 gate
-   measured. General tie-breaker adopted for every genuine boundary window (a
-   window whose closing sentence(s) conclude one topic while its final
-   sentence(s) preview specific content the *next* window then develops - not
-   merely any window with more than one sentence): **default to the closing
-   clause, since the window is anchored to the content it concludes and the
-   opening pivot is developed by the next window; code by the opening/pivot
-   clause instead only when it has strictly more words than the closing
-   clause.** Word count is the single, countable signal used - "more new
-   information" is dropped as a separate criterion, since it is not
-   independently decidable from word count and the two can point opposite
-   ways, which is exactly the ambiguity a tie-breaker exists to remove.
-   Applied: `lkLwp9o7Djk:j0027`'s closing clause ("Pointing at the right
-   building, wrong floor.", 7 words) loses to its opening pivot ("Now we cross
-   the Mediterranean...suffering.", 42 words) -> `promise`.
-   `lkLwp9o7Djk:j0064`'s closing clause ("The people of a small Belgian
-   town...doing it.", 19 words) beats its opening pivot ("Then comes the
-   early modern period...better.", 17 words) -> `implication`.
-   `5unhHRFkC7I:j0075`'s closing clause ("And some animals...particular
-   frequency.", 26 words) beats its opening pivot ("Let's come back to that
-   couch.", 6 words) -> `implication`. All three keep the label already on
-   record. `5unhHRFkC7I:j0054` was cited alongside these three in the
-   pre-rework text but does not actually qualify as a boundary window at all:
-   its trailing sentences ("Now, dogs are an obvious case. They've been
-   shaped by thousands of years of selective pressure specifically around
-   human interaction.") do not preview the next window's topic -
-   `5unhHRFkC7I:j0055` opens on "other animals" (cats/horses/elephants), which
-   neither sentence names or previews; the whole window stays on one topic
-   (dogs). Read as a single unit against `implication`'s own definition
-   ("extends established content to a broader consequence, generalization, or
-   meaning"), it is a direct match without any tie-break: it generalizes the
-   prior window's evidence about cognitive machinery into "they became...
-   experts in being human," and the trailing sentences elaborate that same
-   generalization rather than pivoting away from it. Label: `implication`,
-   unchanged - but for the correct reason, not the boundary tie-breaker the
-   pre-rework text cited.
+   measured. A window may contain content that concludes an established topic
+   and a trailing pivot that opens a new one; detecting the pivot never
+   requires the next window (`_docs/decisions.md#19`): a trailing pivot exists
+   when the window's final sentence(s) name or introduce a specific subject,
+   claim, or event not otherwise developed earlier in this window or by prior
+   windows in the same video - a bare transitional phrase with no new specific
+   content ("Let's go further," "there's one more thing") is not a pivot. When
+   a window contains such a pivot, code `function` for the content the window
+   concludes, never for the content it only opens or previews - regardless of
+   relative word count, sentence count, or which half reads as more salient. A
+   window with no internal pivot is coded normally, from its own content as a
+   whole. Applied: `lkLwp9o7Djk:j0027`'s opening pivot ("Now we cross the
+   Mediterranean, and we have to talk about ancient Greece...suffering.") names
+   a specific new subject - ancient Greece - not discussed anywhere before this
+   window, so the window is coded for what it concludes: the closing clause
+   ("Pointing at the right building, wrong floor.") generalizes `j0026`'s
+   near-miss theory about Egypt into a broader consequence, without being tied
+   to one posed question -> `implication`. `lkLwp9o7Djk:j0064`'s opening pivot
+   ("Then comes the early modern period...better.") names a new era not
+   discussed before, so the window is coded for its closing clause ("The people
+   of a small Belgian town...doing it."), which generalizes the Gilles/Belgium
+   case just established -> `implication`. `5unhHRFkC7I:j0075`'s trailing
+   sentence ("Let's come back to that couch.") is *not* a pivot at all: "that
+   couch" refers to the video's own opening scenario (`5unhHRFkC7I:j0002`,
+   revisited at `j0039`), already-established content, not a new subject - so
+   the window is coded normally, as a whole unit: it generalizes
+   `j0073`-`j0074`'s claim about empathy crossing species boundaries into a
+   broader statement about which animals read human emotion -> `implication`.
+   All three keep the label already on record. `5unhHRFkC7I:j0054` was cited
+   alongside these three in the pre-rework text but does not actually qualify
+   as a boundary window at all: its trailing sentences ("Now, dogs are an
+   obvious case. They've been shaped by thousands of years of selective
+   pressure specifically around human interaction.") do not name or introduce
+   anything new - `5unhHRFkC7I:j0055` opens on "other animals"
+   (cats/horses/elephants), which neither sentence names or previews; the whole
+   window stays on one topic (dogs), so there is no pivot to detect. Read as a
+   single unit against `implication`'s own definition ("extends established
+   content to a broader consequence, generalization, or meaning"), it is a
+   direct match without any tie-break: it generalizes the prior window's
+   evidence about cognitive machinery into "they became... experts in being
+   human," and the trailing sentences elaborate that same generalization
+   rather than pivoting away from it. Label: `implication`, unchanged - but for
+   the correct reason, not the boundary tie-breaker the pre-rework text cited.
 4. **Aggregable** - yes; counting/averaging the `function` distribution per
    video is exactly the profile signal the project wants (hook/resolution
    ratio, evidence density, etc.).

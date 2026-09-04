@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:44:37.107620+00:00",
+  "generated_at": "2026-09-04T15:17:07.748526+00:00",
   "ontology_version": "v1",
   "fields_evaluated": [
     "function",
@@ -28,17 +28,17 @@
     },
     "evidence_type": {
       "n_outro_or_duvida": 0,
-      "n_applicable_rows": 50,
+      "n_applicable_rows": 51,
       "note": "medido so nas linhas function == 'evidence'; demais linhas sao 'n/a', nao contam no denominador"
     }
   },
   "function_distribution": {
-    "hook": 14,
-    "promise": 18,
-    "evidence": 50,
+    "hook": 15,
+    "promise": 14,
+    "evidence": 51,
     "mechanism": 28,
     "escalation": 3,
-    "implication": 46,
+    "implication": 48,
     "context": 16,
     "objection": 19,
     "resolution": 11
@@ -50,8 +50,8 @@
     "planetary": 20
   },
   "evidence_type_distribution": {
-    "n/a": 155,
-    "case": 23,
+    "n/a": 154,
+    "case": 24,
     "authority": 6,
     "statistic": 4,
     "analogy": 3,
