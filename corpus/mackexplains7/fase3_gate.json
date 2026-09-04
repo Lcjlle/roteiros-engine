@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:17:07.748526+00:00",
+  "generated_at": "2026-09-04T19:52:17.520781+00:00",
   "ontology_version": "v1",
   "fields_evaluated": [
     "function",
@@ -56,5 +56,27 @@
     "statistic": 4,
     "analogy": 3,
     "study": 14
+  },
+  "boundary_pivot": {
+    "note": "Informativo, nao bloqueante - resolve a colisao de mutual-exclusividade de function.transition (cortado), nao um campo separado. Reancorado em _docs/decisions.md#20, superseding #19.",
+    "rule_ref": "_docs/decisions.md#20",
+    "context_budget_windows": 3,
+    "context_budget_shape": "3 janelas anteriores no mesmo video, so texto, sem rotulos - mesmo shape de _docs/plano_implementacao.md linha 478 (Fase 5A)",
+    "n_confirmed": 6,
+    "n_windows": 205,
+    "rate": 0.02926829268292683,
+    "confirmed_window_ids": [
+      "lkLwp9o7Djk:j0027",
+      "lkLwp9o7Djk:j0064",
+      "lkLwp9o7Djk:j0076",
+      "5unhHRFkC7I:j0064",
+      "5unhHRFkC7I:j0017",
+      "5unhHRFkC7I:j0075"
+    ],
+    "full_resweep_this_round": true,
+    "resweep_result": "Todas as 199 linhas restantes (205 - 6 confirmadas) reexaminadas contra a regra reancorada e o orcamento de 3 janelas; nenhuma janela adicional atendeu ao teste de pivo genuino (fechamento autonomo + pivo nomeando assunto/alegacao/evento nao desenvolvido nas 3 janelas anteriores). O piso de 6/205 herdado de #19/#20 e confirmado como o resultado medido desta rodada, nao presumido.",
+    "prior_round_count": 5,
+    "prior_round_rate": 0.024390243902439025,
+    "change_from_prior_round": "5unhHRFkC7I:j0075 volta a lista (estava fora, corrigido incorretamente em #19 usando contexto a 36/73 janelas de distancia, fora do orcamento de 3 janelas que #20 fixa); rotulo function nao muda (implication) - so a classificacao como janela de fronteira confirmada muda."
   }
 }

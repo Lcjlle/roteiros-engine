@@ -61,60 +61,106 @@ Evidence is drawn from hand-classifying all 205 coverage-test windows
    better captured by an existing value - `hook` when it poses a new open
    question (`5unhHRFkC7I:j0055`, "But what about other animals? ... Let's
    start with cats. They deserve the floor."), `promise` when it names the
-   upcoming subject (`lkLwp9o7Djk:j0027`, "Now we cross the Mediterranean, and
-   we have to talk about ancient Greece, because ancient Greece is where
-   things get philosophically fascinating..."), or by the boundary tie-breaker
-   below when a closer and an opener genuinely share a window
-   (`lkLwp9o7Djk:j0027`, `j0064`, `5unhHRFkC7I:j0075` - all three resolved by
-   it; `5unhHRFkC7I:j0054`, on inspection below, turns out not to need it at
+   upcoming subject (`lkLwp9o7Djk:j0021`, "Egypt is where things take a
+   slightly more interesting turn, and I say interesting like someone who
+   has just found out that ancient Egyptians were arguably more progressive
+   about mental health than a large portion of the modern world."), or by
+   the boundary tie-breaker below when a closer and an opener genuinely
+   share a window (confirmed cases audited in
+   `corpus/mackexplains7/fase3_coverage.md`, `_docs/decisions.md#20`;
+   `5unhHRFkC7I:j0054`, on inspection below, turns out not to need it at
    all). **Decision: `transition` is removed from `function`'s
    value set (11 -> 10 values, option 3 of the three the task named).** This is
    the outcome backed by direct evidence rather than an a priori preference for
    simplicity: keeping `transition` bought no coverage `hook`/`promise` did not
    already provide, while creating the exact test-3 collisions the Fase 2 gate
-   measured. A window may contain content that concludes an established topic
-   and a trailing pivot that opens a new one; detecting the pivot never
-   requires the next window (`_docs/decisions.md#19`): a trailing pivot exists
-   when the window's final sentence(s) name or introduce a specific subject,
-   claim, or event not otherwise developed earlier in this window or by prior
-   windows in the same video - a bare transitional phrase with no new specific
-   content ("Let's go further," "there's one more thing") is not a pivot. When
-   a window contains such a pivot, code `function` for the content the window
-   concludes, never for the content it only opens or previews - regardless of
-   relative word count, sentence count, or which half reads as more salient. A
-   window with no internal pivot is coded normally, from its own content as a
-   whole. Applied: `lkLwp9o7Djk:j0027`'s opening pivot ("Now we cross the
-   Mediterranean, and we have to talk about ancient Greece...suffering.") names
-   a specific new subject - ancient Greece - not discussed anywhere before this
-   window, so the window is coded for what it concludes: the closing clause
-   ("Pointing at the right building, wrong floor.") generalizes `j0026`'s
-   near-miss theory about Egypt into a broader consequence, without being tied
-   to one posed question -> `implication`. `lkLwp9o7Djk:j0064`'s opening pivot
-   ("Then comes the early modern period...better.") names a new era not
-   discussed before, so the window is coded for its closing clause ("The people
-   of a small Belgian town...doing it."), which generalizes the Gilles/Belgium
-   case just established -> `implication`. `5unhHRFkC7I:j0075`'s trailing
-   sentence ("Let's come back to that couch.") is *not* a pivot at all: "that
-   couch" refers to the video's own opening scenario (`5unhHRFkC7I:j0002`,
-   revisited at `j0039`), already-established content, not a new subject - so
-   the window is coded normally, as a whole unit: it generalizes
-   `j0073`-`j0074`'s claim about empathy crossing species boundaries into a
-   broader statement about which animals read human emotion -> `implication`.
-   All three keep the label already on record. `5unhHRFkC7I:j0054` was cited
-   alongside these three in the pre-rework text but does not actually qualify
-   as a boundary window at all: its trailing sentences ("Now, dogs are an
+   measured.
+   A window may contain content that concludes an established topic and a
+   trailing pivot that opens a new one. Detecting the pivot never requires
+   the next window, and it never requires more context than the annotator
+   actually receives when applying this rule (`_docs/decisions.md#20`,
+   superseding `#19`'s "prior windows in the same video" - a full-video read
+   no real Fase 5 annotator gets): a trailing pivot exists when the window's
+   final sentence(s) name or introduce a specific subject, claim, or event
+   that is not otherwise developed in this window or in the context
+   previously provided in this call - a bare transitional phrase with no new
+   specific content ("Let's go further," "there's one more thing") is not a
+   pivot. When a window contains such a pivot, code `function` for the
+   content the window concludes, never for the content it only opens or
+   previews - regardless of relative word count, sentence count, or which
+   half reads as more salient. A window with no internal pivot is coded
+   normally, from its own content as a whole. **Context budget: three prior
+   windows, same video, text only, no labels** - the same shape
+   `_docs/plano_implementacao.md` line 478 (Fase 5A) hands the real
+   annotator, so "the context previously provided in this call" above is
+   audited, in this codebook and in `corpus/mackexplains7/fase3_coverage.md`,
+   against those three prior windows, never the whole video; changing the
+   budget changes which windows are pivots (`_docs/decisions.md#20`).
+   **"Developed before" is semantic, never lexical:** the context previously
+   provided has to already support the same claim, event, or subject, not
+   merely share a word with it - a passing mention, a use as a comparison
+   baseline, or the same word applied to a different referent do not
+   constitute development; term repetition decides neither for nor against.
+   Worked negative example, the case that teaches the trap rather than just
+   the rule: `lkLwp9o7Djk:j0076` closes "Unevenly. With enormous suffering in
+   the gaps. But the direction was right." - qualifying the Enlightenment-era
+   reform account just established (`j0070`-`j0075`) - and opens "And then
+   the 19th century arrived and built enormous asylums and overcrowded them
+   to catastrophic levels." A bare lexical check finds "asylums" already
+   said twice in the three prior windows (`j0074`, "the York Retreat's
+   outcomes were dramatically better than contemporary asylums"; `j0071`,
+   "...ordered the chains removed from patients at the Bicetre Asylum in
+   Paris in 1793") and could wrongly call this "already developed, not a
+   pivot." Read semantically instead: `j0074` uses "asylums" only as a
+   comparison baseline for the York Retreat's outcomes; `j0071` names one
+   specific asylum inside the reform story. Neither develops `j0076`'s
+   actual claim - mass-scale 19th-century overcrowding to catastrophic
+   conditions - which first appears at `j0076` itself and is developed only
+   afterward, at `j0077`-`j0078`. `j0076` is a genuine pivot under the
+   three-window budget; the word recurring is not what "developed" means.
+   Code the closing clause, which qualifies the prior claim of steady
+   progress -> `objection`. Two more positive examples, closing coded:
+   `lkLwp9o7Djk:j0027`'s opening pivot ("Now we cross the Mediterranean, and
+   we have to talk about ancient Greece...suffering.") names a specific new
+   subject - ancient Greece - not developed in this window or in
+   `j0024`-`j0026`, so the window is coded for what it concludes: the
+   closing clause ("Pointing at the right building, wrong floor.")
+   generalizes `j0026`'s near-miss theory about Egypt into a broader
+   consequence, without being tied to one posed question -> `implication`.
+   `lkLwp9o7Djk:j0064`'s opening pivot ("Then comes the early modern
+   period...better.") names a new era not developed in `j0061`-`j0063`, so
+   the window is coded for its closing clause ("The people of a small
+   Belgian town...doing it."), which generalizes the Gilles/Belgium case
+   just established -> `implication`. **`5unhHRFkC7I:j0075` is a pivot under
+   the three-window budget, and stays `implication` either way.** Its
+   trailing sentence, "Let's come back to that couch," names "that couch" -
+   the video's own opening scenario - but the only prior windows that
+   develop it are `5unhHRFkC7I:j0002` and `j0039`, 73 and 36 windows
+   earlier, both far outside the three-window budget this codebook is
+   audited against; nothing in `j0072`-`j0074` develops it, so it is a
+   genuine pivot. The window is still coded for what it concludes: the
+   closing clause generalizes `j0073`-`j0074`'s claim about empathy crossing
+   species boundaries into a broader statement about which animals read
+   human emotion -> `implication` - the same label a non-pivot reading would
+   have given, because the closing content already dominates the window
+   either way; a wider, whole-video budget can resolve a pivot the
+   three-window budget cannot, never the reverse. Not every candidate is a
+   pivot: `5unhHRFkC7I:j0054` was cited alongside these in earlier drafts
+   but does not actually qualify - its trailing sentences ("Now, dogs are an
    obvious case. They've been shaped by thousands of years of selective
-   pressure specifically around human interaction.") do not name or introduce
-   anything new - `5unhHRFkC7I:j0055` opens on "other animals"
-   (cats/horses/elephants), which neither sentence names or previews; the whole
-   window stays on one topic (dogs), so there is no pivot to detect. Read as a
-   single unit against `implication`'s own definition ("extends established
-   content to a broader consequence, generalization, or meaning"), it is a
-   direct match without any tie-break: it generalizes the prior window's
-   evidence about cognitive machinery into "they became... experts in being
-   human," and the trailing sentences elaborate that same generalization
-   rather than pivoting away from it. Label: `implication`, unchanged - but for
-   the correct reason, not the boundary tie-breaker the pre-rework text cited.
+   pressure specifically around human interaction.") do not name or
+   introduce anything new; `5unhHRFkC7I:j0055` opens on "other animals"
+   (cats/horses/elephants), which neither sentence names or previews, so the
+   whole window stays on one topic (dogs) with no pivot to detect. Read as a
+   single unit against `implication`'s own definition, it is a direct match
+   without any tie-break -> `implication`, unchanged, but for the correct
+   reason, not the boundary tie-breaker earlier drafts cited. The full,
+   audited list of confirmed boundary windows for the 205-window coverage
+   worksheet, measured under this budget, lives in
+   `corpus/mackexplains7/fase3_coverage.md` and `fase3_gate.json`, not
+   hardcoded here - narrowing the context budget can only ever add pivots,
+   never remove them, so that list is a floor, not a ceiling, re-audited
+   whenever the budget or the corpus changes.
 4. **Aggregable** - yes; counting/averaging the `function` distribution per
    video is exactly the profile signal the project wants (hook/resolution
    ratio, evidence density, etc.).
