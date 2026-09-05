@@ -85,6 +85,11 @@ um agente tocar nela:
 - `uv sync` - a worktree tem seu proprio `.venv`
 - `.env` copiado do checkout principal, com `DATABASE_URL` apontado para um
   banco proprio, `roteiros_wt<issue>`
+- `uv run python scripts/pin_worktree_database.py` - grava um
+  `sitecustomize.py` no `site-packages` do `.venv` da worktree, para que
+  toda worktree leia `DATABASE_URL` do proprio `.env` mesmo quando o shell
+  que abriu a sessao ja exporta um `DATABASE_URL` real - ver
+  `_docs/decisions.md#26`
 - `CREATE DATABASE roteiros_wt<issue>` dentro do container Postgres. Se o
   nome ja estiver em uso, escolha um novo em vez de derrubar o existente
 - `uv run alembic upgrade head` contra esse banco, antes de qualquer teste
