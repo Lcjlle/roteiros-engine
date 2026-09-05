@@ -2505,6 +2505,79 @@ This round's own audit re-confirmed `#25(a)`'s mechanism; it did not
 discover it. Recorded here only so a future pass does not re-flag the
 same fact as a new defect.
 
+**Correction, in place** - the original fundamentation above only cited
+`#25(a)`'s existing gate-table entry and its "a fact about the channel,
+not a per-row label" phrase (line 2135 of this file); it never actually
+examined the fallback mechanism's discriminating power or the render's
+disclosure, which is exactly what a later QA advisory pass named as the
+real risk worth checking - the same class of defect Issue #15 existed to
+kill: a gate that renders "passed" without having verified anything
+discriminating. Completing the reasoning here, in place, because the
+conclusion below does not change - only what supports it does.
+
+*Chronology, checked against this file's own line numbers, not assumed.*
+`#3` (line 150) and `#4` (line 180), which fix `@Zenn0009`'s corpus
+shape, predate `#6` (holdout draw, line 256) and `#7` (the manifest's
+`role` column, line 273). The manifest's missing `role` column is
+therefore not, at authoring time, evidence of an intentional "this
+channel will never be split" call - the split concept did not exist yet.
+`#25(a)`'s "a fact about the channel, not a per-row label" phrasing is
+imprecise about that origin: read literally it suggests the manifest's
+shape was chosen *because* the channel would never split, when the
+causality runs the other way. That imprecision is real.
+
+It does not change the conclusion, because `#16` - written after
+`#6`/`#7`, before `#25`, and independently of it - already made the
+deliberate call directly: "`role` defaulting makes every row `profile`,
+which is correct here: `@Zenn0009` was never split into profile/holdout"
+(lines 1010-1012). By the time `#25(a)` restated the same fact several
+entries later, it was citing an already-decided position (`#16`'s own
+explicit "correct here," on top of `#6`/`#9` deciding which channels
+split at all), not inventing retroactive intent on the spot. The
+chronological-accident point is correct about the manifest's *origin*; it
+is not correct about whether the current behavior is *deliberate* - `#16`
+settles that independently of `#25`.
+
+*Discriminating power, checked against the real code, not assumed.*
+`row.get("role", ROLE_PROFILE)` (`src/coleta.py:505`,
+`src/estado.py:496`) does not make `fase1-profile-row-floor` check
+nothing for `zenn0009`: it counts real rows in a real, committed
+`manifesto.csv` against a real floor (`>= 30`), and that count fails if
+rows are ever removed from the file. What it correctly does not do is
+discriminate profile from holdout rows - because `zenn0009` legitimately
+has zero holdout rows by design (`#6`/`#9`/`#16` exclude it from the
+split), so there is no role distinction left to get wrong. The audit's
+own observation that the check "can never fail" is accurate only as a
+consequence of the corpus being frozen at exactly 30 rows (`#4`), a
+property shared by *every* already-passing floor gate against a
+committed, frozen corpus - `mackexplains7`'s own
+`fase1-profile-row-floor`/`fase1-holdout-row-floor` are equally
+frozen-passing at 30/5 rows (`#9`) - not something the role-fallback
+mechanism introduces or is unique to.
+
+*Disclosure, checked against the rendered file, not assumed.*
+`_docs/estado.md` renders the gate's `note` ("rows with no role column
+count as profile too, per `src/coleta.py::check_gate`") in the same
+`Metrica` cell, on the same row, as the `Status` cell's `passou (30
+linhas profile)` (`_docs/estado.md` line 24,
+`fase1-profile-row-floor (zenn0009)`) - a reader who reads the row, not
+only the `Status` column, sees the mechanism named right next to the
+result. That is a real, if easy-to-skim, co-located disclosure -
+categorically different from Issue #15's actual defect: a
+`human_judgment` gate's `result_ref` inheriting another channel's
+citation (`_docs/decisions.md#17`) with **no** caveat anywhere in the
+render for the channel that was never actually judged. That is exactly
+what `#25(b)`, implemented by Issue #15 (`fd3228c`), fixed - per-channel
+`result_ref` keying so a missing key renders "declarado, nao medido"
+instead of silently inheriting.
+
+So the analogy the advisory raised fails on both axes it has to hold on
+to land: `fase1-profile-row-floor`/`zenn0009` has a real, if narrow,
+discriminating check (row count against a real file) and a visible
+caveat (co-located in the render); Issue #15's actual defect had neither.
+**Conclusion, unchanged: correct, existing, deliberate behavior, now with
+the fundamentation the original text skipped over. No code change.**
+
 **(c) `_open_phase_issues()`'s silent `gh` failure: a second, distinct
 gap from `#25(c)` - named, accepted, not implemented.**
 
