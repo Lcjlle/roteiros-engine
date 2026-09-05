@@ -92,6 +92,9 @@ Status: vigente
 **#27** (transversal) - Exemplo de código do `#25(a)(3)` parcialmente superseded pelo `exists=False` real da Issue #15 (primeiro uso real da regra de correção in-place do `#25(d)`); `fase1-profile-row-floor` em @Zenn0009 reconfirmado como mecanismo já decidido pelo `#25(a)`, não achado novo; falha silenciosa do `gh issue list` em `_open_phase_issues()` registrada como vão aceito, distinto do drift do `#25(c)`.
 Status: vigente
 
+**#28** (Fase 4) - Orçamento de contexto da Fase 4↔Fase 5 (bundle de 3 janelas de contexto + alvo) garantido por construção via uma única função de geração de bundle, compartilhada entre o exportador de gold da Fase 4 e o prompt builder da Fase 5; o alfa de `density` passa a usar a métrica ordinal de Krippendorff via `nltk.metrics.agreement.AnnotationTask` (Apache-2.0), rejeitando o pacote `krippendorff` (GPL-3.0).
+Status: vigente
+
 <!-- DECISIONS_INDEX_END -->
 
 ## 1. Postgres joins the stack, alongside file - not instead of it
