@@ -8,8 +8,8 @@ e o que a CI roda para garantir que este arquivo nunca fica desatualizado
 comparado ao dado real.
 
 <!-- METADATA_START -->
-- commit: `b04ce60761825900c63138ad0c2d4e44d2dac117`
-- gerado em: 2026-09-05T12:14:00.717019+00:00
+- commit: `dc91f112fd18794edb1359b18d1f21e7de355490`
+- gerado em: 2026-09-05T13:32:12.782046+00:00
 <!-- METADATA_END -->
 
 ## Portoes
@@ -53,9 +53,10 @@ aqui, edite la e regenere.
 
 ## Fases abertas (por label `fase-N`)
 
-Instantaneo do GitHub em 2026-09-05T12:14:00.717019+00:00 - uma issue pode abrir ou fechar sem gerar nenhum commit aqui; para o estado real, rode `gh issue list --repo Lcjlle/roteiros-engine --label fase-N`.
+Instantaneo do GitHub em 2026-09-05T13:32:12.782046+00:00 - uma issue pode abrir ou fechar sem gerar nenhum commit aqui; para o estado real, rode `gh issue list --repo Lcjlle/roteiros-engine --label fase-N`.
 
 <!-- OPEN_ISSUES_START -->
+- **fase-3**: #16 Fase 3 (F3-b) — src/schema_loader.py: Enum per categorical field from schema/ontologia.v1.json + Pydantic model + JSON↔Enum consistency test
 - **fase-5**: #12 Fase 5: cta com 0 ocorrências em 205 janelas indo para um portão de α por campo
 - **fase-8**: #13 Fase 8: portão único (≥ 90% dos critérios) mistura calibração anticircular (uma vez) com relatório por roteiro gerado (por canal e por vídeo); #6 Fase 8: métricas de perfil por-vídeo (blocks_per_video, opened_per_video) devem virar taxa por minuto
 <!-- OPEN_ISSUES_END -->

@@ -58,8 +58,10 @@ jobs:
         test_amostragem.py 6
         test_coleta.py 44
         test_db_isolation.py 2
-        test_estado.py 26
+        test_estado.py 39
         test_janelas.py 27
+        test_pin_worktree_database.py 3
+        test_schema_loader.py 9
         test_sentencia.py 47
     steps:
       - uses: actions/checkout@v7
