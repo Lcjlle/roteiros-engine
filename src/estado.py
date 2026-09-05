@@ -306,6 +306,19 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         ),
         "status": "vigente",
     },
+    {
+        "number": 25,
+        "phase": "transversal",
+        "sentence": (
+            "`schema/portoes.json` ganha um registro de papel por canal (`channels`) e um filtro "
+            "`applies_to_roles` por portão `per_channel`; `result_ref` de portão "
+            "`human_judgment` vira por canal, sem herança entre canais; a seção `Fases abertas` "
+            "de `_docs/estado.md` ganha uma ressalva de obsolescência gerada a partir do mesmo "
+            "timestamp do bloco de metadados; `_docs/decisions.md` ganha uma regra real de "
+            "fronteira para correção in-place de uma entrada já publicada."
+        ),
+        "status": "vigente",
+    },
 )
 
 
@@ -398,6 +411,31 @@ def check_formula_params(gates: list[dict], modules=FORMULA_SOURCE_MODULES) -> l
                     f"{gate['id']}: params[{name!r}] nao foi encontrado em nenhum de "
                     f"{[m.__name__ for m in modules]}"
                 )
+    return problems
+
+
+def check_channel_roles(
+    gates: list[dict], channels: dict, corpus_dir: Path = CORPUS_DIR
+) -> list[str]:
+    """`_docs/decisions.md#25(a)`: falha se (i) um gate `scope: "per_channel"`
+    nao declarar `applies_to_roles` nao-vazio, ou (ii) um slug de `channels`
+    nao bater com um diretorio real de `_iter_channels()`."""
+    problems: list[str] = []
+    for gate in gates:
+        if gate.get("scope") != "per_channel":
+            continue
+        if not gate.get("applies_to_roles"):
+            problems.append(
+                f'{gate["id"]}: scope "per_channel" mas applies_to_roles ausente ou vazio'
+            )
+
+    real_channels = set(_iter_channels(corpus_dir))
+    for slug in channels:
+        if slug not in real_channels:
+            problems.append(
+                f"channels[{slug!r}]: nao bate com nenhum diretorio real em corpus/ "
+                f"({sorted(real_channels)!r})"
+            )
     return problems
 
 
@@ -529,9 +567,38 @@ def _measure_schema_valid(perfil_path: Path) -> Measurement:
     return Measurement(True, True, "valido")
 
 
-def measure_gate(gate: dict, channel: str | None) -> Measurement:
+def measure_gate(gate: dict, channel: str | None, channel_roles: dict | None = None) -> Measurement:
+    """`_docs/decisions.md#25(a)(3)`: um gate `per_channel` cujo `channel` nao
+    tem o papel exigido por `applies_to_roles` nunca chega as ramificacoes de
+    leitura de CSV/JSON abaixo - retorna `passed=None` com o texto
+    "nao aplicavel" antes de qualquer outra checagem. `exists=False` aqui
+    segue a mesma convencao que "declarado, nao medido" ja usa em todo o
+    resto deste modulo: nenhuma leitura de artefato foi sequer tentada.
+
+    `_docs/decisions.md#25(b)`: para um gate `human_judgment` com
+    `scope: "per_channel"`, `result_ref` e um dict `{slug: [...]}` - a busca
+    e por `channel` exato, sem fallback para a primeira chave nem para
+    nenhuma outra. Um `scope: "global"` (ou gate de teste sem `scope`
+    declarado) mantem `result_ref` como lista plana, sem eixo de canal.
+    """
+    applies_to_roles = gate.get("applies_to_roles")
+    if channel is not None and applies_to_roles:
+        role = (channel_roles or {}).get(channel, {}).get("role")
+        if role not in applies_to_roles:
+            return Measurement(
+                False,
+                None,
+                f"nao aplicavel (papel do canal: {role}; portao exige: {applies_to_roles})",
+            )
+
     if gate["evaluation"] == "human_judgment":
-        result_ref = gate.get("result_ref") or []
+        result_ref = gate.get("result_ref")
+        if gate.get("scope") == "per_channel":
+            refs = (result_ref or {}).get(channel) if channel is not None else None
+            if refs:
+                return Measurement(True, None, f"registrado em {'; '.join(refs)}")
+            return Measurement(False, None, "declarado, nao medido")
+        result_ref = result_ref or []
         if result_ref:
             return Measurement(True, None, f"registrado em {'; '.join(result_ref)}")
         return Measurement(False, None, "declarado, nao medido")
@@ -581,15 +648,16 @@ def render_portoes_table(portoes: dict) -> str:
     sep = "|---|---|---|---|---|---|---|"
     rows = [header, sep]
 
-    channels = _iter_channels()
+    channel_slugs = _iter_channels()
+    channel_roles = portoes.get("channels", {})
     for gate in portoes["gates"]:
         threshold_cell = render_threshold(gate["threshold"]).replace("|", "\\|")
         metric_cell = gate["metric"].replace("|", "\\|")
-        targets: list[str | None] = channels if gate["scope"] == "per_channel" else [None]
+        targets: list[str | None] = channel_slugs if gate["scope"] == "per_channel" else [None]
         if not targets:
             targets = [None]
         for channel in targets:
-            measurement = measure_gate(gate, channel)
+            measurement = measure_gate(gate, channel, channel_roles)
             gate_label = f"`{gate['id']}`" + (f" ({channel})" if channel else "")
             rows.append(
                 f"| {gate['phase']} | {gate_label} | {metric_cell} | {threshold_cell} | "
@@ -672,6 +740,14 @@ def render_estado_md(portoes: dict) -> str:
     head = _git_head()
     open_issues = _open_phase_issues()
     portoes_table = render_portoes_table(portoes)
+    # `_docs/decisions.md#25(c)`: a mesma `generated_at` do bloco de
+    # metadados abaixo - nunca uma segunda chamada a datetime.now(), que
+    # poderia divergir por alguns microssegundos da que o bloco usa.
+    open_issues_caveat = (
+        f"Instantaneo do GitHub em {generated_at} - uma issue pode abrir ou fechar sem gerar "
+        "nenhum commit aqui; para o estado real, rode "
+        "`gh issue list --repo Lcjlle/roteiros-engine --label fase-N`."
+    )
 
     return f"""# Estado do projeto
 
@@ -697,6 +773,8 @@ aqui, edite la e regenere.
 {PORTOES_TABLE_END}
 
 ## Fases abertas (por label `fase-N`)
+
+{open_issues_caveat}
 
 <!-- OPEN_ISSUES_START -->
 {open_issues}
@@ -750,6 +828,7 @@ def check() -> int:
 
     problems += check_formula_params(portoes["gates"])
     problems += check_decision_refs(portoes["gates"])
+    problems += check_channel_roles(portoes["gates"], portoes.get("channels", {}))
 
     fresh_estado = render_estado_md(portoes)
     fresh_table = _extract_block(fresh_estado, PORTOES_TABLE_START, PORTOES_TABLE_END)
