@@ -357,6 +357,20 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         ),
         "status": "vigente",
     },
+    {
+        "number": 29,
+        "phase": 4,
+        "sentence": (
+            "Mecanismo de anotação-ouro da Fase 4 tornado concreto: `doccano` descartado em "
+            "favor de um worksheet JSONL com `display_id`/`window_id` em arquivos separados, "
+            "nomes de módulo fixados (`src/context_budget.py`, `src/valida.py`), o scan de "
+            "candidatos a `cta` e o sorteio do gold/reanotação de `#28(c)` executados de "
+            "verdade contra `@MackExplains7` (8/30 candidatos, gold sorteado, vídeo de "
+            "reanotação `7xgt_LQxedc`), e `evidence_type` excluído do `passed` binário de "
+            "`fase4-self-agreement-alpha`."
+        ),
+        "status": "vigente",
+    },
 )
 
 

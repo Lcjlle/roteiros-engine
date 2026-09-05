@@ -95,6 +95,9 @@ Status: vigente
 **#28** (Fase 4) - Orçamento de contexto da Fase 4↔Fase 5 (bundle de 3 janelas de contexto + alvo) garantido por construção via uma única função de geração de bundle, compartilhada entre o exportador de gold da Fase 4 e o prompt builder da Fase 5; o alfa de `density` passa a usar uma distância ordinal de Krippendorff implementada pelo próprio projeto como closure, consumida por `nltk.metrics.agreement.AnnotationTask` (Apache-2.0), rejeitando o pacote `krippendorff` (GPL-3.0).
 Status: vigente
 
+**#29** (Fase 4) - Mecanismo de anotação-ouro da Fase 4 tornado concreto: `doccano` descartado em favor de um worksheet JSONL com `display_id`/`window_id` em arquivos separados, nomes de módulo fixados (`src/context_budget.py`, `src/valida.py`), o scan de candidatos a `cta` e o sorteio do gold/reanotação de `#28(c)` executados de verdade contra `@MackExplains7` (8/30 candidatos, gold sorteado, vídeo de reanotação `7xgt_LQxedc`), e `evidence_type` excluído do `passed` binário de `fase4-self-agreement-alpha`.
+Status: vigente
+
 <!-- DECISIONS_INDEX_END -->
 
 ## 1. Postgres joins the stack, alongside file - not instead of it
@@ -3276,3 +3279,186 @@ and recording the real result (video ids, durations) in a future
 `fase5-model-human-agreement-alpha` notes plus
 `_docs/plano_implementacao.md`'s Fase 4/5A/5B text to point here once the
 mechanism is real, per this file's own precedence rule over the plan.
+
+## 29. Fase 4 gold-annotation mechanism made concrete: `doccano` dropped for a display-id/window-id split JSONL worksheet, `src/context_budget.py`/`src/valida.py` module names fixed, `#28(c)`'s cta-candidate scan and seeded gold/reannotation draw executed for real against `@MackExplains7`, and `evidence_type` excluded from `fase4-self-agreement-alpha`'s binary pass/fail
+
+`#28` fixed the Fase 4↔Fase 5 bundle mechanism and the α handling for
+`density`/`evidence_type`, but left the annotation tool/file format, two
+module names, and the `#28(c)` cta-candidate scan/seeded draw as "the
+follow-up issue's call" (`#28`'s own closing paragraph). Grooming the Fase 4
+backlog into five issues (F4-a through F4-e) closed all of these. Eight
+decisions below, (a)-(h).
+
+**(a) `doccano` is dropped for this implementation pass; the Fase 4 gold
+export uses a file-per-video JSONL worksheet instead.**
+
+`_docs/plano_implementacao.md:447` names `doccano` as the Fase 4 tool, and
+`#28(a)` explicitly leaves room to drop it ("ou escrita em um worksheet
+mais leve, arquivo-por-janela, se a issue eventual abandonar doccano para
+esta passada"). Reasons to exercise that option: the ontology has 5 fields
+per window (`schema/ontologia.v1.json`), and doccano's text-classification
+project model does not support multiple independent categorical fields per
+document - the plan's own contingency for that case ("se a ferramenta não
+suportar múltiplos campos por item, um projeto por campo", line 455) would
+require 5 separate doccano projects, imports, and exports reconciled back
+into one record per window, for ~610 windows across 5 gold videos. Nothing
+else in this project runs a service; `schema/`, `codebook.md`, and
+`perfis/<canal>.perfil.json` are already versioned files, diffed in review,
+per `#1`. A file the project owner edits directly is the same pattern
+applied to annotation, with no new infrastructure, no multi-project
+reconciliation, and a diff-reviewable history.
+
+**(b) Worksheet format: `display_id`, never `window_id`, is what the
+annotator's file contains; the two are split into separate files.**
+
+Embedding `window_id` in the same JSON record the annotator edits, in
+video order, would reopen exactly the leak `#28(a)` closes for doccano's
+own metadata field - a human editing 100+ records in a text editor sees
+the monotonic `j0027`, `j0028`, ... sequence trivially, worse than
+doccano's hidden document browser. Decision:
+`gold/<canal>/round{1,2}/<video_id>.worksheet.jsonl` (the file the
+annotator opens - `display_id`, `context`, `target`, and the 5 ontology
+fields blank) is a separate file from
+`gold/<canal>/round{1,2}/<video_id>.index.json` (`display_id ->
+window_id`, consulted only by the merge step, never by the annotator).
+`window_id` re-enters the record only in the persisted, merged gold
+artifact (`round{1,2}.gold.json`) - which `#28(a)` already permits
+("`window_id`... written only into the persisted gold artifact... which
+the annotator does not read during annotation").
+
+**(c) Shared bundle module named `src/context_budget.py`.**
+
+`#28(a)` leaves the exact name open ("the exact name is the follow-up
+issue's call") while floating `src/context_budget.py` as its own example.
+Adopted literally - it is the name the decision itself already put
+forward, avoids inventing a third candidate, and does not imply ownership
+by either phase's own module (`src/gold.py` for Fase 4, a not-yet-written
+Fase 5 prompt builder).
+
+**(d) `src/valida.py` (the Fase 5 module name the plan already gives,
+`_docs/plano_implementacao.md` F5-b) is built now, under Fase 4, and
+reused later by Fase 5 without a second implementation.**
+
+`#28`'s own follow-up paragraph places the ordinal-distance closure and
+the `evidence_type` exclusion logic "into `nltk.metrics.agreement.AnnotationTask`
+calls inside the Fase 5 validation module (`src/valida.py`, not yet
+written)" - but Fase 4's own gate, `fase4-self-agreement-alpha`, needs a
+working Krippendorff's α now, on the same two fields (`density`'s ordinal
+closure, `evidence_type`'s exclusion), computed the same way. Building
+the generic `compute_field_alpha()` machinery once, under a `fase-4`
+issue, and letting a future Fase 5 issue call it for model×human data
+(never reimplementing it) is the same "one function, two call sites"
+posture `#28(a)` already established for `context_budget.build_bundle`.
+
+**(e) The `#28(c)` cta-candidate scan reads each profile video's full
+transcript text, not only its ending.**
+
+`#28(c)` suggests "solicitation language near each video's end" as an
+untested heuristic and explicitly defers the exact scan window to
+whoever reads real endings first ("found by reading a handful of real
+endings first"). Read for this grooming pass: the strongest real
+solicitation pattern found in `@MackExplains7`'s 30 `profile`
+transcripts - "Link in the description. See you inside." (an in-video
+plug for an external PDF guide) - occurs at `pos_pct` 0.39-0.65,
+mid-video, not near the end (first seen at
+`corpus/mackexplains7/windows/pPm3vHUQCpo.json`'s `j0073`, and five more
+videos listed in (f) below). A tail-only scan would have missed every one
+of those. Decision: `scan_cta_candidates()` scans a video's entire
+window-text sequence, not a suffix window.
+
+**(f) cta-candidate phrase list fixed by evidence against the real
+corpus: `["link in the description", "let me know in the comments", "let
+us know in the comments"]` - and the scan executed for real finds 8 of 30
+`@MackExplains7` profile videos.**
+
+Tested against all 30 `profile` transcripts before fixing the list:
+`subscri` matched only `"no newsletter to unsubscribe from"` (negated,
+not a solicitation); `follow`/`notification` matched only narrative uses
+(`"the years that followed"`, `"a notification to check"`), zero real
+hits; `"hit the bell"`/`"smash that like"`/`"comment below"` never
+matched at all. The three phrases retained each matched a genuine
+viewer-facing solicitation, and two of the resulting videos are not a new
+finding - `Qgz_k2JQ3UY:j0113` and `yKqe_ey3QOs:j0101` are the exact two
+windows `schema/codebook.md`'s own already-written positive examples for
+`cta` already cite (lines 443-444) - the scan rediscovers the codebook
+author's own known cases via a reproducible mechanism, rather than
+replacing them with an unrelated heuristic. **Executed for real, not a
+still-open procedure**: sorted, the 8 candidates are `0neQIzWDXaM`,
+`7xgt_LQxedc`, `kLYsABip8tI`, `MMycNJ05f8M`, `pPm3vHUQCpo`, `Qgz_k2JQ3UY`,
+`Y_-aMBlHWgE`, `yKqe_ey3QOs` - `#28(c)`'s own closing sentence ("this
+procedure is not yet run") is superseded for this specific execution.
+
+**(g) `#28(c)`'s seeded gold draw executed for real, plus a new rule for
+which of the 5 gold videos gets the 48h reannotation.**
+
+Per `#28(c)`'s procedure (candidates non-empty): `rng =
+random.Random(42)`; `anchor = rng.choice(sorted(candidates))` ->
+`7xgt_LQxedc`; `rest = rng.sample(sorted(v for v in all_30_profile if v
+!= anchor), 4)` -> `['0neQIzWDXaM', 'rk7qIWcLJ40', 'Leol0DxxGe4',
+'C27Dd23jZzA']`. Gold set, logged the same way `#16`'s Fase 3 draws
+logged their picks (video id + real `duracao_s` from
+`corpus/mackexplains7/manifesto.csv`): `7xgt_LQxedc` (1400s),
+`0neQIzWDXaM` (1395s), `rk7qIWcLJ40` (1281s), `Leol0DxxGe4` (1196s),
+`C27Dd23jZzA` (1314s). `#28(c)` fixes the 5-video draw but never names
+which one gets reannotated 48h later (`_docs/plano_implementacao.md:457`
+only says "1 vídeo", no rule). New decision: the reannotation video is
+drawn from the same `random.Random(42)` sequence, immediately after the
+5-video draw completes - `rng.choice(sorted(gold_videos))` ->
+`7xgt_LQxedc` - rather than hand-picked, for the same reproducibility
+every other seeded draw in this project already has (`SAMPLE_SEED=42` in
+`src/amostragem.py`, `HOLDOUT_SEED=42` in `#6`). `7xgt_LQxedc` also being
+the scan's own anchor video is a coincidence of the draw, not a selection
+criterion - nothing in the procedure filters or ranks by cta-candidate
+status past the first draw. **Executed for real**: these are the video
+ids the follow-up issue (F4-a) persists to
+`gold/mackexplains7/selection.json`, not a still-open procedure.
+
+**(h) `evidence_type` does not count toward
+`fase4-self-agreement-alpha`'s binary `passed`; only the four `required:
+true` fields do.**
+
+`_docs/plano_implementacao.md:465` states the gate as "α ≥ 0,8, por
+campo" without naming an exception, and `evidence_type` is one of the
+five fields `schema/ontologia.v1.json` defines. `#28(e)` already
+establishes that `evidence_type`'s α is computed over a fundamentally
+different, occurrence-conditioned population ("not comparable to the
+other four fields' α figures") and must be "read against its own... N" -
+but does not itself say `evidence_type` is excluded from the gate's own
+pass/fail, which is a distinct question from how its α is computed. New
+decision: `fase4-self-agreement-alpha`'s `passed` is `True` iff
+`function`, `loop`, `scale`, and `density` (the four `required: true`
+fields) each have α ≥ 0.8; `evidence_type`'s α is computed and persisted
+in the same `gold/{channel}/fase4_gate.json` artifact but never folds
+into that boolean. Reasoning: `evidence_type`'s `required: false`/
+`condition` status in the ontology itself already marks it as
+structurally different from the other four - `AnnotationTask.alpha()`
+can return `None` for it whenever fewer than 2 windows in the compared
+sample have `function == 'evidence'` on both sides (a real possibility at
+5-video gold scale, independent of `cta`'s occurrence gap), and treating
+a `None`/undersampled `evidence_type` α identically to a real failure on
+a `required: true` field would block Fase 5 over a field the gate was
+never in a position to measure meaningfully. This entry does not update
+`schema/portoes.json`'s `fase4-self-agreement-alpha` note - it still
+reads "Fase 4 ainda não rodou para nenhum canal - declarado, não medido"
+- wiring the artifact for real and pointing the note here is F4-e's own
+deliverable, per `#28`'s own follow-up paragraph.
+
+**What this does not reopen.** `#28`'s bundle mechanism, the three-window
+budget, the ordinal-distance formula for `density`, the
+exclusion-based handling of `evidence_type`'s missing data, or the
+rejection of the `krippendorff` PyPI package - all unchanged. Issue
+`#12(a)`'s open question (whether `cta`'s rate is a channel property or a
+segmentation artifact) is not resolved by (f)/(g)'s measured candidate
+count - a non-zero candidate count from a cheap text heuristic is not an
+annotated, agreed-upon `cta` rate. The duration question
+(`_docs/decisions.md#11`/`#12`, GitHub Issues #6/#13, `fase-8`) is
+untouched; the seeded draws in (g) rank and filter by nothing but the
+cta-candidate scan and profile-video membership, never by `duracao_s`.
+
+**Follow-up work this entry authorizes but does not itself perform**: the
+five Fase 4 issues (F4-a through F4-e) implementing (a)-(h) above; a
+future Fase 5 issue consuming `src/valida.py`'s `compute_field_alpha()`
+for `fase5-model-human-agreement-alpha` without reimplementing it, per
+(d); wiring `gold/mackexplains7/fase4_gate.json` for real once round 1
+and round 2 are actually annotated, and updating
+`schema/portoes.json`'s notes to point here, per (h).
