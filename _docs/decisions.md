@@ -3505,9 +3505,13 @@ untouched; the seeded draws in (g) rank and filter by nothing but the
 cta-candidate scan and profile-video membership, never by `duracao_s`.
 
 **Follow-up work this entry authorizes but does not itself perform**: the
-five Fase 4 issues (F4-a through F4-e) implementing (a)-(h) above; a
-future Fase 5 issue consuming `src/valida.py`'s `compute_field_alpha()`
-for `fase5-model-human-agreement-alpha` without reimplementing it, per
-(d); wiring `gold/mackexplains7/fase4_gate.json` for real once round 1
-and round 2 are actually annotated, and updating
-`schema/portoes.json`'s notes to point here, per (h).
+five Fase 4 issues (F4-a through F4-e, GitHub Issues `#18` through `#22`)
+implementing (a)-(h) above; a future Fase 5 issue consuming
+`src/valida.py`'s `compute_field_alpha()` for
+`fase5-model-human-agreement-alpha` without reimplementing it, per (d);
+and real human measurement, real generation of
+`gold/mackexplains7/fase4_gate.json`, and actual Fase 4 closure - tracked
+by Issue `#23`, not by Issue `#22` and not as undated future work of this
+entry. `schema/portoes.json` was already aligned in this same grooming
+round (per (h)) and is not future work of Issue `#22`, which only
+consumes that definition.
