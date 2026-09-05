@@ -8,8 +8,8 @@ e o que a CI roda para garantir que este arquivo nunca fica desatualizado
 comparado ao dado real.
 
 <!-- METADATA_START -->
-- commit: `4101f7259d980124c405c75cc815fdbbdf8fbc68`
-- gerado em: 2026-09-05T01:55:11.679646+00:00
+- commit: `88243c231f2cb75f79cc30f27737e3be613b2819`
+- gerado em: 2026-09-05T02:19:09.161537+00:00
 <!-- METADATA_END -->
 
 ## Portoes
@@ -57,5 +57,4 @@ aqui, edite la e regenere.
 - **fase-2**: #5 Auto-pin DATABASE_URL per worktree via sitecustomize.py (dev-infra debt, not phase content)
 - **fase-5**: #12 Fase 5: cta com 0 ocorrências em 205 janelas indo para um portão de α por campo
 - **fase-8**: #13 Fase 8: portão único (≥ 90% dos critérios) mistura calibração anticircular (uma vez) com relatório por roteiro gerado (por canal e por vídeo); #6 Fase 8: métricas de perfil por-vídeo (blocks_per_video, opened_per_video) devem virar taxa por minuto
-- **sem fase-N**: #14 Documentação vira dado: schema/portoes.json, _docs/estado.md gerado, índice de _docs/decisions.md, cabeçalho de estado por fase, desduplicação (_docs/decisions.md#22)
 <!-- OPEN_ISSUES_END -->
