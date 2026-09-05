@@ -13,7 +13,7 @@
       "scope": "per_channel",
       "artifact": "corpus/{channel}/manifesto.csv",
       "artifact_pointer": null,
-      "decision_ref": ["_docs/plano_implementacao.md:274"],
+      "decision_ref": ["_docs/plano_implementacao.md:272"],
       "note": "Piso original do plano (30), inalterado pelo file-loader ainda a construir - matches src/coleta.py::MIN_ROWS. Nao confundir com o piso >= 21 que _docs/decisions.md#3 autorizou so para @Zenn0009 e que #4 ja fechou de volta em 30 para aquele canal."
     },
     {
@@ -41,7 +41,7 @@
       "scope": "per_channel",
       "artifact": "corpus/{channel}/manifesto.csv",
       "artifact_pointer": null,
-      "decision_ref": ["_docs/plano_implementacao.md:274", "_docs/decisions.md#8"],
+      "decision_ref": ["_docs/plano_implementacao.md:272", "_docs/decisions.md#8"],
       "note": "Piso de 60% do plano (plano:274); #8 e quem reconcilia a constante de src/coleta.py (WORDS_PER_MINUTE) com a taxa de ~150 palavras/minuto que o plano sempre citou - a constante viveu em 140 ate #8 corrigir."
     },
     {
@@ -149,7 +149,7 @@
       "scope": "global",
       "artifact": "corpus/mackexplains7/fase3_gate.json",
       "artifact_pointer": "gate",
-      "decision_ref": ["_docs/plano_implementacao.md:430", "_docs/decisions.md#16c"],
+      "decision_ref": ["_docs/plano_implementacao.md:431", "_docs/decisions.md#16c"],
       "note": "plano:430 fixa a regra abstrata (< 10%); #16c e quem converte para o absoluto desta amostra (205 janelas -> 20). Nenhuma das duas referencias supera a outra. Nao inclui o bloco boundary_pivot (#19/#20) - o proprio fase3_gate.json marca esse bloco como informativo, nao bloqueante, uma medicao separada."
     },
     {
@@ -163,7 +163,7 @@
       "scope": "per_channel",
       "artifact": "gold/{channel}/fase4_gate.json",
       "artifact_pointer": null,
-      "decision_ref": ["_docs/plano_implementacao.md:462"],
+      "decision_ref": ["_docs/plano_implementacao.md:465"],
       "note": "Fase 4 ainda nao rodou para nenhum canal - declarado, nao medido. Caminho do artefato segue a convencao faseN_gate.json ja usada nas Fases 2/3; ainda nao e uma decisao tomada, so o padrao mais proximo disponivel."
     },
     {
@@ -177,7 +177,7 @@
       "scope": "per_channel",
       "artifact": "corpus/{channel}/fase5_gate.json",
       "artifact_pointer": null,
-      "decision_ref": ["_docs/plano_implementacao.md:497"],
+      "decision_ref": ["_docs/plano_implementacao.md:502"],
       "note": "Fase 5 ainda nao rodou para nenhum canal - declarado, nao medido. O requisito de persistencia do orcamento de contexto que #20 adiciona pertence ao registro do run que este portao le, nao a este arquivo. Caminho do artefato e convencao provisoria, nao decisao tomada."
     },
     {
@@ -191,7 +191,7 @@
       "scope": "per_channel",
       "artifact": "corpus/{channel}/fase5c_gate.json",
       "artifact_pointer": null,
-      "decision_ref": ["_docs/plano_implementacao.md:516"],
+      "decision_ref": ["_docs/plano_implementacao.md:521"],
       "note": "Fusao (M6) ainda nao rodou para nenhum canal - declarado, nao medido. Caminho do artefato e convencao provisoria, nao decisao tomada."
     },
     {
@@ -209,7 +209,7 @@
       "artifact": null,
       "artifact_pointer": null,
       "result_ref": [],
-      "decision_ref": ["_docs/plano_implementacao.md:595"],
+      "decision_ref": ["_docs/plano_implementacao.md:606"],
       "note": "Segundo criterio do portao da Fase 6, deliberadamente subjetivo, do dono, nao do QA (plano:595). Nenhum canal passou pela Fase 6 ainda; result_ref vazio ate um veredito ser registrado."
     },
     {
@@ -223,7 +223,7 @@
       "scope": "per_channel",
       "artifact": "perfis/{channel}.perfil.json",
       "artifact_pointer": null,
-      "decision_ref": ["_docs/plano_implementacao.md:595"],
+      "decision_ref": ["_docs/plano_implementacao.md:606"],
       "note": "Primeiro criterio do portao da Fase 6 (mesma frase de plano:595 que o segundo criterio, fase6-owner-recognizes-channel) - mecanico, distinto do julgamento do dono. schema/perfil.schema.json ainda nao existe (Fase 6 nao comecou); declarado, nao medido."
     }
   ]
