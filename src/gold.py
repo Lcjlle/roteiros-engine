@@ -20,7 +20,7 @@ from __future__ import annotations
 import csv
 import json
 import random
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 CORPUS_DIR = Path("corpus/mackexplains7")
@@ -89,7 +89,7 @@ def select_gold_videos(
     if candidates:
         anchor = rng.choice(sorted(candidates))
         rest = rng.sample(sorted(v for v in all_profile_video_ids if v != anchor), N_GOLD - 1)
-        return [anchor] + rest
+        return [anchor, *rest]
     return rng.sample(sorted(all_profile_video_ids), N_GOLD)
 
 
@@ -116,7 +116,7 @@ def write_selection_artifact(
     sua `duracao_s` real do manifesto) e o video da reanotacao."""
     durations = {row["id"]: int(row["duracao_s"]) for row in _load_manifest(manifest_path)}
     payload = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": datetime.now(UTC).isoformat(),
         "seed": GOLD_SEED,
         "cta_candidates_found": cta_candidates_found,
         "gold_video_ids": [

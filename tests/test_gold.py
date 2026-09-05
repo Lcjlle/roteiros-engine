@@ -212,7 +212,8 @@ class TestWriteSelectionArtifact:
     def test_allows_empty_candidates_list(self, tmp_path):
         manifest_path = tmp_path / "manifesto.csv"
         manifest_path.write_text(
-            "id,titulo,duracao_s,contagem_palavras,fonte,role\nA,Titulo A,100,10,whisperX,profile\n",
+            "id,titulo,duracao_s,contagem_palavras,fonte,role\n"
+            "A,Titulo A,100,10,whisperX,profile\n",
             encoding="utf-8",
         )
         out_path = tmp_path / "selection.json"
