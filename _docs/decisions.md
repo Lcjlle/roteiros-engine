@@ -2077,3 +2077,295 @@ wording) and nothing else in `#22` - `#22`'s four-layer model, its
 "Rejected, not reopened" clause all remain unchanged and in force. When
 the generated index is built, `#22`'s own row reads `Status: parcialmente
 superseded por #24 (a definicao binaria de Status no campo decision_ref)`.
+
+## 25. `schema/portoes.json` gets a channel-role registry and a per-gate `applies_to_roles` filter; human-judgment `result_ref` becomes per-channel, never inherited; `_docs/estado.md`'s open-issues block stays, with an explicit staleness caveat; `_docs/decisions.md` gets a real in-place-correction boundary rule, not just five emergent examples
+
+Four open technical calls left over by Issue #14 (`#22`/`#23`/`#24`), found
+while `_docs/estado.md` was regenerated for real against a channel
+(`@Zenn0009`) whose corpus predates any notion of "channel role." Made here
+per `_docs/team/pm.md`, before the follow-up issue is groomed - the pattern
+`#22`/`#23`/`#24` already used for this same wave.
+
+**(a) `schema/portoes.json` needs a channel-role registry, and each
+`scope: "per_channel"` gate needs to declare which roles it applies to.**
+
+Root cause, read directly in `src/estado.py`: `render_portoes_table`
+(lines 579-598) computes `channels = _iter_channels()` (every directory
+under `corpus/`, line 584) and, for a `scope: "per_channel"` gate, expands
+it over every one of those channels unconditionally (`targets = channels
+if gate["scope"] == "per_channel" else [None]`, line 588) - there is no
+concept, anywhere in `schema/portoes.json`'s field spec (`#22`), of which
+channels a given per-channel gate is even meant to run against. This is
+exactly why `fase1-holdout-row-floor` prints "falhou (0 linhas holdout)"
+for `zenn0009`: the gate is correct (`#6`), the expansion is correct
+(the gate is genuinely `per_channel`), and the channel is correct (it went
+through Fase 1) - what is missing is that `@Zenn0009` was deliberately never
+split into `profile`/`holdout` (`#6`, `#9`), so this gate was never
+supposed to run against it at all.
+
+*(1) New field, `applies_to_roles`, on the gate.* Added to every gate
+object where `scope == "per_channel"`; absent/ignored where
+`scope == "global"` (a global gate has no channel axis to filter). Value:
+a non-empty array of role strings, e.g. `["profile_channel"]`. Required,
+not defaulted - a `per_channel` gate with no `applies_to_roles` is exactly
+the kind of silent gap `#22`'s "declared, not assumed" posture exists to
+prevent, so the follow-up issue's acceptance criteria must assert every
+`scope: "per_channel"` gate carries a non-empty `applies_to_roles`. Values
+are English, snake_case - matching this file's existing convention for
+enum-like string values (`type: "tolerance"`/`"invariant"`/`"thermometer"`/
+`"judgment"`, `evaluation: "automatic"`/`"human_judgment"`), not the
+kebab-case reserved for `id` (`#22`'s field spec). Two roles exist today:
+`profile_channel` (a channel like `@MackExplains7` that gets a real
+`profile`/`holdout` split and a real Fase 2 human-judgment sample) and
+`fixture_channel` (a channel like `@Zenn0009` that, by design, never gets
+either - `#6`/`#9` for the split, `#16` for its actual role: validating
+collection code and, later, transfer-testing the ontology). These are a
+different axis from the manifest's per-**video** `role` column
+(`profile`/`holdout`, `#7`) - a `profile_channel` is made of rows with both
+manifest roles; a `fixture_channel`'s rows are all manifest-`profile`
+because it was never split, which is a fact about the channel, not a
+per-row label.
+
+Checked one by one against every existing gate, not assumed from
+proximity, because this is exactly the discipline `#22`/`#24` require of
+`decision_ref` and it applies equally here:
+
+| Gate | `applies_to_roles` | Why |
+|---|---|---|
+| `fase1-profile-row-floor` | `["profile_channel", "fixture_channel"]` | Both channel kinds get 30 `profile` rows (`@Zenn0009`: `#4`; `@MackExplains7`: `#9`) |
+| `fase1-holdout-row-floor` | `["profile_channel"]` | Only a channel that gets split has holdout rows by design (`#6`/`#9`); `@Zenn0009` never does (`#6`/`#9`) |
+| `fase1-word-count-floor` | `["profile_channel", "fixture_channel"]` | Ratio check runs on `profile` rows, which both kinds have |
+| `fase2-oversized-window-parity`, `fase2-nonlast-single-window-residual`, `fase2-nonlast-single-window-ratio`, `fase2-window-rate-band` | `["profile_channel", "fixture_channel"]` | Construction-algorithm properties of `sentences/`/`windows/`; `@Zenn0009` has its own (`#16b`), same pipeline |
+| `fase2-two-narrative-functions`, `fase2-sentence-cut-midclause` | `["profile_channel"]` | The fixed-seed 50-window **human-judged** sample only ever ran, and is only scoped to run, against a `profile_channel` (`#10`'s `@MackExplains7`-only scope); `#16` never gave `@Zenn0009` an equivalent sample |
+| `fase3-outro-duvida-coverage` | n/a | `scope: "global"`, no per-channel expansion to filter |
+| `fase4-self-agreement-alpha`, `fase5-model-human-agreement-alpha`, `fase5c-smoothing-rate`, `fase6-owner-recognizes-channel`, `fase6-schema-valid` | `["profile_channel"]` | Fase 4-6 only ever run against a channel that completed a real Fase 1/2 `profile`/`holdout` split and Fase 2 human judgment; a `fixture_channel`'s role (`#16`) stops at Fase 3's transfer test |
+
+*(2) Where the channel-to-role mapping itself lives.* A new top-level key
+in `schema/portoes.json`, sibling to `gates`, not a new file and not a
+hardcoded table in `src/estado.py`: `"channels": {"<slug>": {"role":
+"profile_channel" | "fixture_channel"}, ...}`. `<slug>` matches
+`_iter_channels()`'s output exactly - the `corpus/<slug>/` directory name
+(`mackexplains7`, `zenn0009`), never the `@Handle` form. Weighed against
+`#22`'s four/five-layer table: a channel's role does not age (fixed once,
+in Fase 1 grooming, same shelf life as `#6`'s seed/floor) and only changes
+with a new decision (e.g. a future entry promoting `@Zenn0009` to
+`profile_channel` if it were ever split) - that is exactly the "gates and
+constants, never ages, only with a new decision" layer, i.e.
+`schema/portoes.json`, not narrative and not a fifth generated artifact. A
+separate file would split one fact (which channels exist and what they
+are) across two files for no reason; a hardcoded table in `src/estado.py`
+would put decided data inside the generator, the exact anti-pattern `#22`
+wrote `portoes.json` to stop happening. One map, in the file that already
+owns every other gate constant - "one number, one place" applied to a new
+kind of number.
+
+*(3) `_docs/estado.md` rendering for a gate outside a channel's role.* Must
+not print "passou (...)"/"falhou (...)" - the gate genuinely was not
+evaluated - and must not silently omit the row either, or a reader
+auditing the table cannot tell "this gate was never meant to run here"
+from "this gate row went missing by accident." `measure_gate` already has
+the right mechanism for a status that is neither pass nor fail:
+`Measurement(passed=None, ...)` renders as bare text with no
+`passou`/`falhou` wrapper (`_status_cell`, `src/estado.py:572-576` - this
+is exactly how `"declarado, nao medido"` already renders today,
+lines 425/451/462/512/537/541). The new case reuses that same mechanism
+with **different text**, so it is never confused with "not yet measured":
+`_status_cell` must print a row for every `(gate, channel)` pair as
+today, and when `channels[channel]["role"] not in gate["applies_to_roles"]`,
+`measure_gate` returns `Measurement(None, None, "nao aplicavel (papel do
+canal: <role>; portao exige: <applies_to_roles>)")` before it ever reaches
+the CSV/JSON-reading branches. `"declarado, nao medido"` keeps meaning
+"this gate applies to this channel and has not run yet, run it"; `"nao
+aplicavel"` means "this gate will never run against this channel unless a
+new decision changes its role" - two different futures, two different
+sentences, same non-blocking rendering family `#22` already established
+for "declared, not measured is not a fail."
+
+**(b) `result_ref` on a `human_judgment` gate must be keyed per channel -
+distinct axis from (a), independently closed.**
+
+(a) fixes *which* channels a gate runs against; it does nothing about
+*whose* judgment gets reported once a channel passes the role filter. As
+written today, `result_ref` is a flat `list[string]` on the gate object
+(`schema/portoes.json:122`, `:137`; field spec, `#22` lines 1848-1852) and
+`measure_gate`'s `human_judgment` branch (`src/estado.py:533-537`) returns
+`f"registrado em {'; '.join(result_ref)}"` for **any** channel the gate
+runs against - it has no channel parameter in that branch at all. A second
+real `profile_channel` added after (a) ships passes the role filter
+correctly and then inherits `_docs/decisions.md#17` verbatim, exactly as
+`@Zenn0009` (whom (a) alone excludes) would have - `#17` only records a
+judgment made on `@MackExplains7`'s sample, and it is undefined how a
+second channel's own, never-yet-made judgment could already be "registrado
+em #17."
+
+**Decision: `result_ref` on every `evaluation: "human_judgment"` **and**
+`scope: "per_channel"` gate becomes an object keyed by channel slug, not a
+flat list:** `"result_ref": {"<slug>": ["_docs/decisions.md#N", ...], ...}`.
+A channel absent from the keys - including one for which the gate's
+`applies_to_roles` filter would otherwise let it through - renders
+`"declarado, nao medido"` (the exact existing "not yet measured" phrase
+from (a)3, deliberately reused rather than coined a third way: an unjudged
+channel is the same kind of gap as an unmeasured automatic gate, not a new
+kind). `measure_gate` **never** falls back to another channel's key,
+never to the first key, never to a channel-less default - a missing key is
+"not measured for this channel," full stop, even when every other
+condition for running the gate is satisfied. Concretely, the two gates
+`#17` already backs:
+
+```json
+"result_ref": {"mackexplains7": ["_docs/decisions.md#17"]}
+```
+
+for both `fase2-two-narrative-functions` and `fase2-sentence-cut-midclause`
+(replacing today's `["_docs/decisions.md#17"]`), and
+`fase6-owner-recognizes-channel`'s already-empty `result_ref: []`
+(line 211, "`result_ref` vazio ate um veredito ser registrado") becomes
+`result_ref: {}` - same meaning, correct shape. A `scope: "global"` gate
+with `evaluation: "human_judgment"` (none exists today) keeps the flat
+list unchanged: with no channel axis to key by, there is nothing to
+mis-inherit across.
+
+**(c) `_docs/estado.md`'s open-issues block: kept, with its own explicit
+staleness sentence - not removed, not automated.**
+
+`_open_phase_issues()` (`src/estado.py:627-667`) fetches live GitHub issue
+state into a file whose only CI-enforced check, `check()`
+(`src/estado.py:747-789`), diffs regenerated-vs-committed for exactly two
+blocks - `PORTOES_TABLE` (line 755-763) and `DECISIONS_INDEX`
+(line 765-775) - and nothing else, by the module's own stated design (the
+`cddb2cb` commit message: the metadata block and the open-issues section
+are excluded from that diff "de proposito... porque sao inerentemente
+variaveis no tempo"). An issue closing produces no commit, so this block
+can go stale for an arbitrarily long time with zero signal, unlike the
+gates table (which only goes stale when a gate is actually re-measured,
+a rare, committed event).
+
+Weighed against `#22`'s layer table: GitHub already owns open-issue state
+(that is why the block is fetched, not hand-maintained) - `_docs/estado.md`
+republishing it is a **read-only mirror of a layer it does not own**, not
+a duplicate value inside a layer that does (the "one number, one place"
+violation `#22` targets is a value living in two owned places at once;
+this is one authoritative place, GitHub, echoed into a snapshot). That
+distinction is why removal (option 1) is rejected, not just deferred: the
+block is genuinely useful - a reader gets the phase-open state without a
+`gh` call - and nothing about it duplicates a number this file itself
+owns.
+
+A scheduled job that keeps the block fresh (option 3) is rejected too, and
+explicitly, not silently: it would trade a stale-but-honestly-timestamped
+snapshot for a **new moving part with its own failure modes** - `gh` auth
+expiring, a cron silently failing, a job overwriting `main` outside this
+project's entire worktree/branch/QA lifecycle (`_docs/process.md`). A
+process that can fail invisibly is worse than a snapshot that is visibly,
+honestly a snapshot.
+
+**Decision: option 2, kept, with its own caveat sentence - the shared
+`gerado em <timestamp>` under the metadata block is not sufficient on its
+own**, because a reader has no reason to expect the gates table (real data
+that only changes when a gate is remeasured) and the open-issues block
+(state that can flip the instant this file finishes generating) carry
+different, much shorter shelf lives, from one shared timestamp alone. The
+"Fases abertas" section gains one line, directly under its heading:
+`Instantaneo do GitHub em <mesmo timestamp do bloco de metadados> - uma
+issue pode abrir ou fechar sem gerar nenhum commit aqui; para o estado
+real, rode` `` `gh issue list --repo Lcjlle/roteiros-engine --label
+fase-N` ``. This sentence is generated text (part of `render_estado_md`'s
+output for that section), not hand-maintained prose, so it never drifts
+from the timestamp it names.
+
+**(d) In-place correction of an already-published `decisions.md` entry: a
+real boundary rule, not five emergent examples with no stated line
+between them.**
+
+Read all five existing `**Correction, in place**` paragraphs against
+`git blame`, not just their text, because the git history is what actually
+shows whether each one edited settled, already-depended-on history or
+merely fixed a draft before anything downstream existed:
+
+| Line (this file) | Commit | What it fixed | Existed downstream at edit time? |
+|---|---|---|---|
+| ~888 (`#16b`) | `1f3a88b`, after `#16`'s own `d7968c6` | False claim about which function defaults `role` (`read_manifesto` vs. `sentencia.run()`) | No - narrative aside, cited nowhere |
+| ~929 (`#16b`) | `78e277c`, after `d7968c6` and `1f3a88b` | Wrong window count for a named video ("56" vs. real "24") | No - descriptive fact from an admittedly scratch, uncommitted verification |
+| ~950 (`#16b`) | `599b656`, after `d7968c6` | **Changed the actual decision** - `n_videos=1` reopened to a larger sample | No - the recipe itself was still "scratch directory, not committed" (`#16b`'s own words); no gate, entry, or artifact yet depended on `n_videos=1` |
+| ~1320 (`#19`) | `66c54d6`, after `#19`'s own `99f72ad` | List-composition error: `5unhHRFkC7I:j0075` wrongly named a confirmed boundary window, real seat is `j0017` | No - `#20` did not exist yet (`06e7cd7` is later the same day); no `decision_ref` anywhere targets the boundary-pivot list (`schema/portoes.json`'s `fase3-outro-duvida-coverage` note says so explicitly: that block is "informativo, nao bloqueante, uma medicao separada") |
+| ~1951 (`#24`) | part of `#24`'s own original commit, `40b32d8` - **not** a later edit | Completed `#24`'s own worked-example fragment list for `#19`/`#20` (added the `5/205 -> 6/205` fragment it had initially omitted) | n/a - corrected before the entry was ever published, in the same commit that first published it |
+
+That last row is a real finding, not assumed from the task's framing: the
+`5/205 -> 6/205` fragment addition is **not** a later in-place edit of
+already-settled history at all - `git show 40b32d8:_docs/decisions.md`
+already contains the complete, corrected paragraph. What actually happened
+one day later, in `88243c2`, is narrower and different in kind: it
+**reworded** that same paragraph's attribution clause - "item #16's
+median/mean and `read_manifesto` fixes" became "item #11's median/mean fix
+and item #16's `read_manifesto` fix" (`git show 88243c2` - a 3-line,
+wording-only diff) - a pure citation-credit fix (which numbered entry set
+the precedent for the "Correction, in place" convention itself: `#11`, not
+`#16`, per direct check of `#11`'s own text). This one **left no visible
+trail inside the entry** - no new `**Correction, in place**` paragraph, no
+sentence anywhere in `#24`'s body - only `git log` shows it happened. It
+is the one genuinely silent edit in this file's history.
+
+**Testing the candidate rule ("in-place only when the correction does not
+change what the entry decides or any fact the entry asserts that something
+else could cite") against all five, honestly, including where it fails:**
+the `read_manifesto` fix, the window-count fix, and the `j0075 -> j0017`
+fix all pass cleanly - none changes a decision, none is cited by any
+`decision_ref` or `result_ref` anywhere. The `88243c2` attribution reword
+also passes cleanly - nothing cites "which entry gets credit," and no
+number or decision changes. But the **`n_videos` amendment fails the
+literal rule** - it plainly does change what `#16` decided (the sample
+size) - and yet it is the one correction whose posture (`"round 2
+amendment, Issue #11"`) this project's own subsequent practice never
+revisited or flagged as wrong; `#22`/`#24` audited this file in detail
+(`#22`'s whole opening section, `#24`'s `#19`/`#20` analysis) and neither
+one names it as a problem. The literal rule is therefore too strict as
+stated: it would forbid an amendment nobody has actually treated as
+improper. What distinguishes it from the `#19` -> `#20` case (where a real
+new entry, not an in-place edit, was required to re-anchor the pivot rule)
+is not "did the ruling change" but **whether anything downstream had
+already come to depend on the original ruling** - at the time of the
+`n_videos` amendment, nothing had (no commit, no other entry, no
+`portoes.json` field cited `n_videos=1`); by the time `#19`'s pivot rule
+needed re-anchoring, it had already been implemented for real and measured
+against the committed corpus (the very rounds 3-4 corrections inside `#19`
+itself), so a further substantive change went to a new entry (`#20`)
+instead.
+
+**Final rule, precise enough to apply without re-deriving it:**
+
+1. An in-place edit to an already-published entry's text is allowed only
+   to fix a **factual or enumeration error in that entry's own prose**
+   (a wrong code reference, a wrong count, a wrong item in a list) or to
+   **amend a decision that nothing outside the entry has yet come to rely
+   on** - checked, not assumed: no other `decisions.md` entry's `Status`
+   or prose names this entry as a citation target for the specific value
+   being changed, no `schema/portoes.json` field (`decision_ref`,
+   `result_ref`, a `note`) cites it, and no committed artifact under
+   `corpus/`/`gold/`/`perfis/`/`schema/` already embodies the original
+   value as something that ran for real.
+2. The moment any of those three things exists - another entry cites it,
+   `portoes.json` cites it, or a real artifact was built against it - a
+   further substantive change to what the entry decided is **not** an
+   in-place edit. It is a new numbered entry, and the changed entry's
+   `Status` becomes `superseded por #N` (nothing survives) or
+   `parcialmente superseded por #N (fragmento)` (naming the exact
+   fragment, per `#24`) - never a silent rewrite of the original text.
+3. **Required, going forward, with no exception:** every in-place edit
+   permitted by rule 1 must leave a visible, permanent trail *inside the
+   entry itself* - a `**Correction, in place**` paragraph (or, for a
+   wording-only fix too small to warrant a full paragraph, at minimum one
+   sentence in the same place) stating what was wrong and what changed.
+   `git log` is not that trail; a reader of the rendered file, not of its
+   history, must be able to see that a correction happened. `88243c2` is
+   the counter-example this rule closes: a substantively harmless edit
+   that nonetheless left zero trace inside the file.
+
+This entry does not reopen any gate threshold, any corpus number, or any
+ontology content - `#3`/`#4`/`#6`/`#7`/`#9`/`#10`/`#14`/`#16`/`#17`/`#19`/
+`#20`/`#22`/`#24` all stay exactly as they read. It authorizes, and does
+not itself perform: adding `channels`/`applies_to_roles` to
+`schema/portoes.json`, reshaping the affected `result_ref` fields, editing
+`src/estado.py`'s `render_portoes_table`/`measure_gate`/`_open_phase_issues`
+call site, and regenerating `_docs/estado.md` - all of that is the
+follow-up issue's work, in a worktree, per `_docs/process.md`, same
+posture `#22` set for its own follow-up.

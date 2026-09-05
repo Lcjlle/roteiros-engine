@@ -12,7 +12,13 @@ Background
 
 - `_docs/decisions.md` - as chamadas tecnicas ja feitas, com o motivo. Ler
   antes de gromear ou implementar, e nao reabrir uma decisao sem muda-la la
-  primeiro
+  primeiro. E append-only - uma entrada corrigida no lugar (marcada com um
+  paragrafo `**Correction, in place**` dentro da propria entrada, nunca so
+  no `git log`) so vale para um erro de fato/lista ou para uma decisao que
+  nada fora da entrada ainda dependia; qualquer outra mudanca de decisao vai
+  numa entrada nova, com `Status: superseded por #N` ou `parcialmente
+  superseded por #N (fragmento)` na entrada mudada - ver `_docs/decisions.md#25`
+
 - `DECISOES.md` - as decisoes de produto da Fase 0; descricao completa no
   proprio arquivo. Sao do dono do projeto, nao do PM - nenhuma issue de
   Fase 1 em diante e groomada enquanto uma estiver "em aberto"
