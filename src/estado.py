@@ -71,9 +71,9 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 1,
         "phase": "transversal",
         "sentence": (
-            "Postgres entra no stack ao lado do arquivo, nao no lugar dele - schema/, "
+            "Postgres entra no stack ao lado do arquivo, não no lugar dele - schema/, "
             "codebook.md e perfis/ continuam arquivo; estado operacional pode virar tabela, "
-            "decisao de issue futura."
+            "decisão de issue futura."
         ),
         "status": "vigente",
     },
@@ -82,7 +82,7 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "phase": "transversal",
         "sentence": (
             "Isolamento de teste: banco `<db>_test` dedicado por worktree, cada teste roda numa "
-            'transacao com rollback (`join_transaction_mode="create_savepoint"`).'
+            'transação com rollback (`join_transaction_mode="create_savepoint"`).'
         ),
         "status": "vigente",
     },
@@ -90,17 +90,17 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 3,
         "phase": 1,
         "sentence": (
-            "Corpus do Fase 1 de @Zenn0009 aceito com 21 videos (nao 30) depois do bloqueio de "
-            "IP no video 22/30 - reducao autorizada pelo dono, nao bug."
+            "Corpus da Fase 1 de @Zenn0009 aceito com 21 vídeos (não 30) depois do bloqueio de "
+            "IP no vídeo 22/30 - redução autorizada pelo dono, não bug."
         ),
-        "status": 'parcialmente superseded por #4 (o piso ">= 21" videos para @Zenn0009)',
+        "status": 'parcialmente superseded por #4 (o piso ">= 21" vídeos para @Zenn0009)',
     },
     {
         "number": 4,
         "phase": 1,
         "sentence": (
             "Corpus de @Zenn0009 completado para 30 via fallback whisperX (GPU, batch_size=4, um "
-            "subprocesso por video) em vez de esperar o bloqueio de IP das legendas ceder."
+            "subprocesso por vídeo) em vez de esperar o bloqueio de IP das legendas ceder."
         ),
         "status": "vigente",
     },
@@ -108,7 +108,7 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 5,
         "phase": 1,
         "sentence": (
-            "whisperX continua fallback, nao vira caminho padrao de coleta - legenda continua "
+            "whisperX continua fallback, não vira caminho padrão de coleta - legenda continua "
             "primeira tentativa mesmo sabendo que o bloqueio de IP vai se repetir a cada canal "
             "novo."
         ),
@@ -118,8 +118,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 6,
         "phase": 1,
         "sentence": (
-            "Sorteio de holdout: semente fixa 42, alvo 5 videos, piso 4 - abaixo disso o canal "
-            "reprova o criterio pratico em vez de encolher mais."
+            "Sorteio de holdout: semente fixa 42, alvo 5 vídeos, piso 4 - abaixo disso o canal "
+            "reprova o critério prático em vez de encolher mais."
         ),
         "status": "vigente",
     },
@@ -127,8 +127,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 7,
         "phase": 1,
         "sentence": (
-            "Manifesto ganha coluna `role` (`profile`/`holdout`), em ingles por ser "
-            "identificador de dado novo, mesmo o resto do manifesto sendo PT-BR por divida "
+            "Manifesto ganha coluna `role` (`profile`/`holdout`), em inglês por ser "
+            "identificador de dado novo, mesmo o resto do manifesto sendo PT-BR por dívida "
             "aceita."
         ),
         "status": "vigente",
@@ -138,7 +138,7 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "phase": 1,
         "sentence": (
             "`WORDS_PER_MINUTE` de `src/coleta.py` corrigido de 140 para 150, para bater com o "
-            "texto do portao da Fase 1 que sempre disse ~150 palavras/minuto."
+            "texto do portão da Fase 1 que sempre disse ~150 palavras/minuto."
         ),
         "status": "vigente",
     },
@@ -155,8 +155,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 10,
         "phase": 2,
         "sentence": (
-            "Fase 2 grooming: storage em arquivo (nao Postgres), modelo `sat-3l-sm` do wtpsplit, "
-            "`SAMPLE_SEED = 42`, escopo desta passada e so @MackExplains7."
+            "Fase 2 grooming: storage em arquivo (não Postgres), modelo `sat-3l-sm` do wtpsplit, "
+            "`SAMPLE_SEED = 42`, escopo desta passada é só @MackExplains7."
         ),
         "status": "vigente",
     },
@@ -164,10 +164,10 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 11,
         "phase": 2,
         "sentence": (
-            "Portao da Fase 2, criterio 3, medido FAIL real contra @MackExplains7 (106-141 "
-            "janelas/video) - contingencia do plano (baixar `WINDOW_MAX_WORDS`) tentada e medida "
+            "Portão da Fase 2, critério 3, medido FAIL real contra @MackExplains7 (106-141 "
+            "janelas/vídeo) - contingência do plano (baixar `WINDOW_MAX_WORDS`) tentada e medida "
             "pior, causa raiz identificada como `WINDOW_MAX_SENTENCES` combinado com as "
-            "sentencas reais do canal."
+            "sentenças reais do canal."
         ),
         "status": "vigente",
     },
@@ -175,8 +175,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 12,
         "phase": 2,
         "sentence": (
-            "Bandas fixas do criterio 3 (`GATE_MIN/MAX_WINDOWS_PER_VIDEO = 25/60`) substituidas "
-            "por uma banda proporcional a duracao, `GATE_WINDOWS_PER_MINUTE = 5.6 +-40%`."
+            "Bandas fixas do critério 3 (`GATE_MIN/MAX_WINDOWS_PER_VIDEO = 25/60`) substituídas "
+            "por uma banda proporcional à duração, `GATE_WINDOWS_PER_MINUTE = 5.6 +-40%`."
         ),
         "status": "superseded por #14",
     },
@@ -185,8 +185,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "phase": 2,
         "sentence": (
             "`group_windows()` passa a perseguir ativamente `WINDOW_MIN_SENTENCES` antes de "
-            "fechar uma janela nao-final, aceitando estourar `WINDOW_MAX_WORDS` ate "
-            "`GATE_MAX_WINDOW_WORDS` para chegar la - correcao de especificacao, nao decisao "
+            "fechar uma janela não-final, aceitando estourar `WINDOW_MAX_WORDS` até "
+            "`GATE_MAX_WINDOW_WORDS` para chegar lá - correção de especificação, não decisão "
             "nova."
         ),
         "status": "vigente",
@@ -195,8 +195,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 14,
         "phase": 2,
         "sentence": (
-            "Criterio 3 do portao da Fase 2 reestruturado em 3a/3b (invariantes, tolerancia "
-            "zero), 3c (termometro do canal, `blocking: false`, <= 15%) e 3d (tolerancia, banda "
+            "Critério 3 do portão da Fase 2 reestruturado em 3a/3b (invariantes, tolerância "
+            "zero), 3c (termômetro do canal, `blocking: false`, <= 15%) e 3d (tolerância, banda "
             "recalibrada para `GATE_WINDOWS_PER_MINUTE = 4.86 +-40%`)."
         ),
         "status": "vigente",
@@ -205,8 +205,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 15,
         "phase": 2,
         "sentence": (
-            "Issue #8 (`sentence_cut` FAIL): causa raiz fixada na sentenciacao (M2), nao no "
-            "portao de janelas - confianca de fronteira do SaT sozinha nao discrimina os casos."
+            "Issue #8 (`sentence_cut` FAIL): causa raiz fixada na sentenciação (M2), não no "
+            "portão de janelas - confiança de fronteira do SaT sozinha não discrimina os casos."
         ),
         "status": "vigente",
     },
@@ -214,10 +214,10 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 16,
         "phase": 3,
         "sentence": (
-            "Grooming da Fase 3: @Zenn0009 ratificado como canal do teste de transferencia, "
-            "receita deterministica de ~20 janelas (2 videos, semente 42), par de videos do "
+            "Grooming da Fase 3: @Zenn0009 ratificado como canal do teste de transferência, "
+            "receita determinística de ~20 janelas (2 vídeos, semente 42), par de vídeos do "
             "teste de cobertura reaproveitado da Fase 2 (`lkLwp9o7Djk`/`5unhHRFkC7I`, 205 "
-            "janelas, teto absoluto de 20), formato de citacao do codebook (citacao literal + "
+            "janelas, teto absoluto de 20), formato de citação do codebook (citação literal + "
             "`window_id`)."
         ),
         "status": "vigente",
@@ -226,8 +226,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 17,
         "phase": 2,
         "sentence": (
-            "Criterio 1 do portao da Fase 2 passou exatamente no limite (5 de 50) - aceito como "
-            "pass, registrado, nao remedido nem reamostrado."
+            "Critério 1 do portão da Fase 2 passou exatamente no limite (5 de 50) - aceito como "
+            "pass, registrado, não remedido nem reamostrado."
         ),
         "status": "vigente",
     },
@@ -235,7 +235,7 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 18,
         "phase": "transversal",
         "sentence": (
-            "Politica de idioma: a tabela do README estava errada em tres pontos (os arquivos "
+            "Política de idioma: a tabela do README estava errada em três pontos (os arquivos "
             "reais estavam certos) - tabela reclassificada, nada traduzido."
         ),
         "status": "vigente",
@@ -250,7 +250,7 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         ),
         "status": (
             'parcialmente superseded por #20 (a frase "prior windows in the same video" da regra '
-            "de pivo; classificacao de boundary de 5unhHRFkC7I:j0075; taxa e lista de janelas de "
+            "de pivô; classificação de boundary de 5unhHRFkC7I:j0075; taxa e lista de janelas de "
             "fronteira confirmadas, 5/205 -> 6/205)"
         ),
     },
@@ -259,8 +259,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "phase": 3,
         "sentence": (
             "Tie-breaker de fronteira de `function` reancorado ao contexto real que o anotador "
-            'recebe na chamada (3 janelas anteriores, nao o video inteiro); "developed before" '
-            "operacionalizado como semantico, nunca lexical."
+            'recebe na chamada (3 janelas anteriores, não o vídeo inteiro); "developed before" '
+            "operacionalizado como semântico, nunca lexical."
         ),
         "status": "vigente",
     },
@@ -268,8 +268,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 21,
         "phase": 6,
         "sentence": (
-            "`scale` fica em v1 e a Fase 6 (`M7`) agrega `scale_trajectory` por terco narrativo "
-            "do video, nunca como distribuicao marginal - decidido durante a Fase 3, medido "
+            "`scale` fica em v1 e a Fase 6 (`M7`) agrega `scale_trajectory` por terço narrativo "
+            "do vídeo, nunca como distribuição marginal - decidido durante a Fase 3, medido "
             "antes de a Fase 6 ser groomada."
         ),
         "status": "vigente",
@@ -278,20 +278,20 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 22,
         "phase": "transversal",
         "sentence": (
-            "Documentacao ganha quatro camadas com prazo de validade declarado: portoes e estado "
+            "Documentação ganha quatro camadas com prazo de validade declarado: portões e estado "
             "viram dado (`schema/portoes.json`, `_docs/estado.md` gerado), documentos narrativos "
-            'param de ser lidos como estado vivo - "um numero, um lugar".'
+            'param de ser lidos como estado vivo - "um número, um lugar".'
         ),
         "status": (
-            "parcialmente superseded por #24 (a definicao binaria de Status no campo decision_ref)"
+            "parcialmente superseded por #24 (a definição binária de Status no campo decision_ref)"
         ),
     },
     {
         "number": 23,
         "phase": "transversal",
         "sentence": (
-            "Duas correcoes de processo: `fase-N` e regra de issue de fase, nao de toda issue; "
-            '"main e para... os docs" so vale para o conteudo da documentacao, nao para a '
+            "Duas correções de processo: `fase-N` é regra de issue de fase, não de toda issue; "
+            '"main é para... os docs" só vale para o conteúdo da documentação, não para a '
             "ferramenta que a gera."
         ),
         "status": "vigente",
@@ -300,8 +300,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
         "number": 24,
         "phase": "transversal",
         "sentence": (
-            "Indice de `_docs/decisions.md` ganha um terceiro `Status`: `parcialmente superseded "
-            "por #N (fragmento)`, alem de vigente/superseded - o binario do #22 nao dava conta "
+            "Índice de `_docs/decisions.md` ganha um terceiro `Status`: `parcialmente superseded "
+            "por #N (fragmento)`, além de vigente/superseded - o binário do #22 não dava conta "
             "do caso #19/#20."
         ),
         "status": "vigente",
