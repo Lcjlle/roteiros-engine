@@ -350,7 +350,8 @@ DECISIONS_INDEX: tuple[dict, ...] = (
             "Orçamento de contexto da Fase 4↔Fase 5 (bundle de 3 janelas de contexto + alvo) "
             "garantido por construção via uma única função de geração de bundle, compartilhada "
             "entre o exportador de gold da Fase 4 e o prompt builder da Fase 5; o alfa de "
-            "`density` passa a usar a métrica ordinal de Krippendorff via "
+            "`density` passa a usar uma distância ordinal de Krippendorff implementada pelo "
+            "próprio projeto como closure, consumida por "
             "`nltk.metrics.agreement.AnnotationTask` (Apache-2.0), rejeitando o pacote "
             "`krippendorff` (GPL-3.0)."
         ),

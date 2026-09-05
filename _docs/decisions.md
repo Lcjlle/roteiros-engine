@@ -92,7 +92,7 @@ Status: vigente
 **#27** (transversal) - Exemplo de código do `#25(a)(3)` parcialmente superseded pelo `exists=False` real da Issue #15 (primeiro uso real da regra de correção in-place do `#25(d)`); `fase1-profile-row-floor` em @Zenn0009 reconfirmado como mecanismo já decidido pelo `#25(a)`, não achado novo; falha silenciosa do `gh issue list` em `_open_phase_issues()` registrada como vão aceito, distinto do drift do `#25(c)`.
 Status: vigente
 
-**#28** (Fase 4) - Orçamento de contexto da Fase 4↔Fase 5 (bundle de 3 janelas de contexto + alvo) garantido por construção via uma única função de geração de bundle, compartilhada entre o exportador de gold da Fase 4 e o prompt builder da Fase 5; o alfa de `density` passa a usar a métrica ordinal de Krippendorff via `nltk.metrics.agreement.AnnotationTask` (Apache-2.0), rejeitando o pacote `krippendorff` (GPL-3.0).
+**#28** (Fase 4) - Orçamento de contexto da Fase 4↔Fase 5 (bundle de 3 janelas de contexto + alvo) garantido por construção via uma única função de geração de bundle, compartilhada entre o exportador de gold da Fase 4 e o prompt builder da Fase 5; o alfa de `density` passa a usar uma distância ordinal de Krippendorff implementada pelo próprio projeto como closure, consumida por `nltk.metrics.agreement.AnnotationTask` (Apache-2.0), rejeitando o pacote `krippendorff` (GPL-3.0).
 Status: vigente
 
 <!-- DECISIONS_INDEX_END -->
@@ -2622,7 +2622,7 @@ Issue #15; only this entry's text changes), and (b)/(c) each close with a
 named conclusion - reconfirmed-correct and accepted-risk, respectively -
 that requires no code.
 
-## 28. Fase 4↔Fase 5 context budget for gold annotation enforced by one bundle-generation function shared between the export and the prompt builder, by construction rather than instruction; `density`'s field-level alpha adopts `nltk.metrics.agreement.AnnotationTask`'s ordinal metric (Apache-2.0), rejecting the GPL-3.0 `krippendorff` package
+## 28. Fase 4↔Fase 5 context budget for gold annotation enforced by one bundle-generation function shared between the export and the prompt builder, by construction rather than instruction; `density`'s field-level alpha uses a project-implemented Krippendorff ordinal-distance closure with `nltk.metrics.agreement.AnnotationTask` (Apache-2.0), rejecting the GPL-3.0 `krippendorff` package
 
 `#20` already named the problem for Fase 4 without settling the mechanism:
 "'Anotar sob o mesmo orçamento' fails silently if left as instruction: a
@@ -2950,7 +2950,14 @@ uses Krippendorff's `ordinal` distance metric for its field-level α, not
 the `nominal` default every other field in this ontology uses - computed
 via `nltk.metrics.agreement.AnnotationTask` with a project-implemented
 ordinal-distance closure, not the `krippendorff` PyPI package this
-entry's prior revision adopted.** `schema/codebook.md`'s own normative
+entry's prior revision adopted.** **Correction, in place**: this entry's
+own title/index line previously read as if `AnnotationTask` supplied the
+ordinal metric itself ("adopts `nltk.metrics.agreement.AnnotationTask`'s
+ordinal metric") - false, and contradicted by this very paragraph: the
+ordinal distance is this project's own closure, merely consumed by
+`AnnotationTask` via its `distance=` parameter. Title corrected to match
+the paragraph below; no fact this paragraph asserts changed.
+`schema/codebook.md`'s own normative
 definitions (lines 642-686) make this a censored count, not an
 equal-interval scale: `0` = no new concept, `1` = exactly one new
 concept, `2` = "two or more distinct new concepts" - an open-ended
