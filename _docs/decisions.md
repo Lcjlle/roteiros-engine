@@ -83,6 +83,9 @@ Status: vigente
 **#24** (transversal) - Índice de `_docs/decisions.md` ganha um terceiro `Status`: `parcialmente superseded por #N (fragmento)`, além de vigente/superseded - o binário do #22 não dava conta do caso #19/#20.
 Status: vigente
 
+**#25** (transversal) - `schema/portoes.json` ganha um registro de papel por canal (`channels`) e um filtro `applies_to_roles` por portão `per_channel`; `result_ref` de portão `human_judgment` vira por canal, sem herança entre canais; a seção `Fases abertas` de `_docs/estado.md` ganha uma ressalva de obsolescência gerada a partir do mesmo timestamp do bloco de metadados; `_docs/decisions.md` ganha uma regra real de fronteira para correção in-place de uma entrada já publicada.
+Status: vigente
+
 <!-- DECISIONS_INDEX_END -->
 
 ## 1. Postgres joins the stack, alongside file - not instead of it
