@@ -13,10 +13,8 @@ Background
 - `_docs/decisions.md` - as chamadas tecnicas ja feitas, com o motivo. Ler
   antes de gromear ou implementar, e nao reabrir uma decisao sem muda-la la
   primeiro
-- `DECISOES.md` - as decisoes de produto da Fase 0: as tres originais
-  (canal-fixture, duracao-alvo, uso comercial) mais duas que a
-  substituicao oficial v3.0 introduziu (canal de referencia definitivo,
-  modelo de anotacao). Sao do dono do projeto, nao do PM - nenhuma issue de
+- `DECISOES.md` - as decisoes de produto da Fase 0; descricao completa no
+  proprio arquivo. Sao do dono do projeto, nao do PM - nenhuma issue de
   Fase 1 em diante e groomada enquanto uma estiver "em aberto"
 - `_docs/plano_implementacao.md` e `_docs/blueprint.md` - o plano de dez
   fases e o levantamento de ferramentas. Referencia, nao backlog - onde
@@ -174,19 +172,22 @@ dependencia:
 
 1. Rebase o branch na main atual
 2. Rode a suite inteira e o linter de novo, na worktree, depois do rebase
-3. Se a issue for a ultima da fase, rode tambem o script de portao da fase
+3. Regenere `_docs/estado.md` e o indice de `_docs/decisions.md`
+   (`uv run python -m src.estado --write`) e commite se algum dos dois
+   tiver mudado - mesmo passo que a CI cobra em `--check`
+4. Se a issue for a ultima da fase, rode tambem o script de portao da fase
    (`src/verifica.py` ou o que `_docs/plano_implementacao.md` nomear) e
    confirme que o numero medido passa no limite
-4. Merge na main so se os passos acima estiverem limpos
-5. Push na main
-6. Feche a issue
-7. Rebase todo branch ainda aberto da onda na nova main
+5. Merge na main so se os passos acima estiverem limpos
+6. Push na main
+7. Feche a issue
+8. Rebase todo branch ainda aberto da onda na nova main
 
-O passo 7 e o que mantem a onda honesta. O segundo branch a mergear esta
+O passo 8 e o que mantem a onda honesta. O segundo branch a mergear esta
 sendo testado contra codigo que seu autor nunca viu, entao roda de novo
 contra o resultado mergeado antes de ser confiado.
 
-O passo 5 nao e burocracia. Um commit local e invisivel: quem e dono do
+O passo 6 nao e burocracia. Um commit local e invisivel: quem e dono do
 projeto abre o GitHub, nao ve nada, e nao tem como distinguir uma sessao
 trabalhando de uma parada. Faca push da main assim que ela se mover.
 

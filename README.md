@@ -39,17 +39,9 @@ Números e nomes de campo dentro de um texto em PT-BR permanecem em inglês, por
 
 ## Estado
 
-Fase 0 decidida — as cinco decisões de `DECISOES.md` estão preenchidas, incluindo canal de referência definitivo (`@MackExplains7`, #4) e modelo de anotação (Claude Sonnet 5, #5).
+Ver o cabeçalho `**Estado:**` de cada fase em `_docs/plano_implementacao.md`, e a tabela de portões sempre-atual em `_docs/estado.md` (gerado, `_docs/decisions.md#22`) — este README não mantém uma narrativa própria por fase para não virar uma segunda cópia que diverge da primeira.
 
-**Fase 1 concluída** nos dois canais: `zenn0009` (30 vídeos: 21 legenda, 9 whisperX — `_docs/decisions.md#3` e `#4`) e `mackexplains7` (30 `profile` + 5 `holdout`, whisperX nos 30 — `_docs/decisions.md#9`).
-
-**`zenn0009` é fixture de validação da coleta, não corpus de perfil.** Serviu para testar o M1 e cumpriu esse papel. Na Fase 3 ele reaparece uma vez só, como canal do teste de transferência (`_docs/decisions.md#16a`) — o que não o torna corpus de perfil.
-
-**Fase 2 concluída** sobre `mackexplains7`, com os três critérios do portão medidos e dentro do limite: critério 1 = 5 de 50 e critério 2 = 0 de 50 (julgamento humano, Issue #10, refeito depois da correção de sentenciação da Issue #9); critérios 3a/3b/3c/3d automáticos, persistidos em `corpus/mackexplains7/fase2_gate.json` (30 vídeos, 3.103 janelas, `passed: true`).
-
-**Pode rodar agora:** Fase 3 — a ontologia global (`schema/ontologia.v1.json` + `schema/codebook.md`). Issue única, sem paralelismo.
-
-**Não iniciadas:** Fases 4 a 10.
+Resumo: Fases 0-3 executadas (Fase 3 via Issue #11, `main@4c3e165`); Fase 4 — Gold standard é o próximo passo, sem issue ainda; Fases 5-10 não iniciadas.
 
 ---
 
@@ -130,7 +122,7 @@ Nove módulos. Cada um tem uma responsabilidade, uma entrada e uma saída persis
 - **Crítico:** preserva o `start_s` de cada chunk. Os timestamps voltam no M7 e no M9.
 - **Resolvido — whisperX segue fallback:** o bloqueio de IP das legendas é comportamento normal do endpoint sob coleta em lote, não incidente, e vai se repetir a cada canal — mas o dono do projeto optou por manter legenda como caminho padrão e whisperX como fallback, tratando o bloqueio como esperado em vez de mudar `collect_transcript()`. Ver `_docs/decisions.md#5`.
 
-### M2 · Sentenciação — *por canal* · **pode rodar agora**
+### M2 · Sentenciação — *por canal*
 
 - **Entrada:** transcrições cruas
 - **Saída:** sentenças e janelas
@@ -195,7 +187,7 @@ A lista fechada de campos e valores. **Não é código; é o ativo intelectual d
 - **Ferramentas:** `instructor` na direção inversa; verificação em Python puro, sem LLM
 - **Duas etapas obrigatórias:** primeiro o plano (blocos vazios com função e alvo de palavras), validado contra o perfil em código; só depois a prosa, bloco a bloco. Gerar o roteiro inteiro em uma chamada sempre produz texto que ignora o perfil.
 - **Correção cirúrgica:** critério reprovado reescreve só os blocos afetados, máximo 3 vezes.
-- `src/verifica.py` é o script de portão que `_docs/process.md` nomeia no passo 3 da fila de merge.
+- `src/verifica.py` é o script de portão que `_docs/process.md` nomeia no passo 4 da fila de merge.
 
 ### M9 · Produção *(opcional, última prioridade)*
 
@@ -230,16 +222,18 @@ canal ─▶ M1 coleta ─▶ M2 sentencia ─▶ M4 anota ─▶ M5 valida ─�
 
 ## Portões de qualidade
 
-| Portão | Onde | Critério | Se falhar |
-|---|---|---|---|
-| Corpus | M1 | 30 `profile` + 4–5 `holdout` | canal pequeno demais |
-| Sentenciação | M2 | ≤ 5 de 50 janelas com duas funções; 0 sentenças cortadas; critério 3 dividido em 3a/3b (invariantes, 0 tolerância) e 3c/3d (tolerâncias) — `_docs/decisions.md#14` | 3a/3b: defeito em `src/janelas.py`. 3c estourado: reavaliar a unidade de anotação (EDU/RST), decisão do dono. **Não** baixar `WINDOW_MAX_WORDS` — medido pior (`#11`) |
-| Ontologia | M3 | < 10% das janelas em "outro"/dúvida | simplificar a lista |
-| Autoconcordância | M4 | α ≥ 0,8 humano × humano | codebook está vago |
-| **Concordância** | **M5** | **α ≥ 0,667 modelo × humano, por campo, em janela** | **reescrever, fundir valores ou remover o campo** |
-| Fusão | M6 | taxa de suavização ≤ 15% | ontologia confusa naquele par |
-| Perfil | M7 | schema valida e o dono reconhece o canal | corpus incoerente ou ontologia rasa |
-| Roteiro | M8 | ≥ 90% dos critérios | reescrever os blocos afetados |
+O limiar em vigor de cada portão vive em `schema/portoes.json`; a leitura sempre-atual, validada por CI, é a tabela de portões renderizada em `_docs/estado.md` - não repita o número aqui.
+
+| Portão | Onde | Por que existe |
+|---|---|---|
+| Corpus | M1 | canal pequeno demais ou transcrição ruim não sustenta um perfil |
+| Sentenciação | M2 | janela grande demais, com duas funções, ou cortada no meio confunde o anotador antes mesmo de a ontologia existir |
+| Ontologia | M3 | categoria demais em "outro"/dúvida é ontologia incompleta |
+| Autoconcordância | M4 | codebook vago não sobrevive nem a você mesmo lendo duas vezes |
+| **Concordância** | **M5** | **é o portão principal do sistema — abaixo dele o perfil é ruído com aparência de dado** |
+| Fusão | M6 | suavizar demais indica ontologia confusa, não ruído |
+| Perfil | M7 | perfil malformado ou canal irreconhecível não deveria virar arquivo congelado |
+| Roteiro | M8 | fora do escopo desta issue — Issue #13 já reabriu esse portão antes de virar dado |
 
 **Calibração anticircular do M8:** rode o verificador nos vídeos de holdout e depois no corpus. Eles deveriam passar. Se os vídeos reais reprovam, as faixas do perfil estão erradas. Sem holdout, esse teste é circular e não vale nada — daí ele ser reservado já no M1.
 

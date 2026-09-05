@@ -8,8 +8,8 @@ e o que a CI roda para garantir que este arquivo nunca fica desatualizado
 comparado ao dado real.
 
 <!-- METADATA_START -->
-- commit: `40b32d8baa69e91e3fed8c4046a26c95fb548f73`
-- gerado em: 2026-09-05T01:28:56.993242+00:00
+- commit: `cddb2cb2cb7cdcfb0d36c34bd70ddf0afcaee7e3`
+- gerado em: 2026-09-05T01:36:36.915033+00:00
 <!-- METADATA_END -->
 
 ## Portoes

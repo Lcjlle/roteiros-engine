@@ -7,10 +7,8 @@ Documents
 - `_docs/process.md` - como o trabalho e organizado
 - `_docs/plano_implementacao.md` - as dez fases, portoes e entregaveis
 - `_docs/decisions.md` - decisoes tecnicas tomadas ao longo do grooming
-- `DECISOES.md` - as decisoes de produto da Fase 0: as tres originais
-  (canal-fixture, duracao-alvo, uso comercial) mais duas que a
-  substituicao oficial v3.0 introduziu (canal de referencia definitivo,
-  modelo de anotacao). Nada da Fase 1 em diante comeca antes desse arquivo
+- `DECISOES.md` - as decisoes de produto da Fase 0; descricao completa no
+  proprio arquivo. Nada da Fase 1 em diante comeca antes desse arquivo
   estar preenchido
 
 Commands
@@ -118,6 +116,16 @@ ruff, depois a suite inteira.
           [print(f'{n} {c[n]}') for n in sorted(c)]
   raise SystemExit(pytest.main(['--collect-only','-p','no:cacheprovider'],plugins=[P()]))" 2>/dev/null
   ```
+- `_docs/estado.md` e o indice de `_docs/decisions.md` sao gerados de
+  `schema/portoes.json` (`_docs/decisions.md#22`) e a CI falha se o
+  commitado divergir do regenerado - mesma postura do `TEST_COUNTS`. Nao
+  edite os dois a mao. Regenere e commite no mesmo commit que mudou
+  `schema/portoes.json` ou qualquer `fase*_gate.json`/`manifesto.csv`:
+  ```
+  uv run python -m src.estado --write
+  ```
+  `uv run python -m src.estado --check` roda a mesma comparacao que a CI
+  roda, sem escrever nada.
 - Reproduza um run de CI localmente com um comando (com `db` de pe):
-  `uv sync --locked && uv run alembic upgrade head && uv run alembic check && uv run ruff check . && uv run ruff format --check . && uv run pytest -rs`
+  `uv sync --locked && uv run alembic upgrade head && uv run alembic check && uv run python -m src.estado --check && uv run ruff check . && uv run ruff format --check . && uv run pytest -rs`
   O `-rs` e o ponto: lista todo skip, que o CI transforma em falha.
