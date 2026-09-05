@@ -95,7 +95,7 @@ Status: vigente
 **#28** (Fase 4) - Orçamento de contexto da Fase 4↔Fase 5 (bundle de 3 janelas de contexto + alvo) garantido por construção via uma única função de geração de bundle, compartilhada entre o exportador de gold da Fase 4 e o prompt builder da Fase 5; o alfa de `density` passa a usar uma distância ordinal de Krippendorff implementada pelo próprio projeto como closure, consumida por `nltk.metrics.agreement.AnnotationTask` (Apache-2.0), rejeitando o pacote `krippendorff` (GPL-3.0).
 Status: vigente
 
-**#29** (Fase 4) - Mecanismo de anotação-ouro da Fase 4 tornado concreto: `doccano` descartado em favor de um worksheet JSONL com `display_id`/`window_id` em arquivos separados, nomes de módulo fixados (`src/context_budget.py`, `src/valida.py`), o scan de candidatos a `cta` e o sorteio do gold/reanotação de `#28(c)` executados de verdade contra `@MackExplains7` (8/30 candidatos, gold sorteado, vídeo de reanotação `7xgt_LQxedc`), e `evidence_type` excluído do `passed` binário de `fase4-self-agreement-alpha`.
+**#29** (Fase 4) - Mecanismo de anotação-ouro da Fase 4 tornado concreto: `doccano` descartado em favor de um worksheet JSONL com `display_id`/`window_id` em arquivos separados, nomes de módulo fixados (`src/context_budget.py`, `src/valida.py`), o scan de candidatos a `cta` e o sorteio do gold/reanotação de `#28(c)` calculados como exemplo verificável contra `@MackExplains7` (8/30 candidatos, sorteio de exemplo) para as acceptance criteria da issue #18 - a seleção oficial continua sendo entregável dessa issue, não desta entrada -, e `evidence_type` excluído do `passed` binário de `fase4-self-agreement-alpha`.
 Status: vigente
 
 <!-- DECISIONS_INDEX_END -->
@@ -3280,7 +3280,7 @@ and recording the real result (video ids, durations) in a future
 `_docs/plano_implementacao.md`'s Fase 4/5A/5B text to point here once the
 mechanism is real, per this file's own precedence rule over the plan.
 
-## 29. Fase 4 gold-annotation mechanism made concrete: `doccano` dropped for a display-id/window-id split JSONL worksheet, `src/context_budget.py`/`src/valida.py` module names fixed, `#28(c)`'s cta-candidate scan and seeded gold/reannotation draw executed for real against `@MackExplains7`, and `evidence_type` excluded from `fase4-self-agreement-alpha`'s binary pass/fail
+## 29. Fase 4 gold-annotation mechanism made concrete: `doccano` dropped for a display-id/window-id split JSONL worksheet, `src/context_budget.py`/`src/valida.py` module names fixed, `#28(c)`'s cta-candidate scan and seeded gold/reannotation draw worked out as a checkable example against `@MackExplains7` for the follow-up issue's own acceptance criteria - not yet the frozen selection, which is that issue's deliverable - and `evidence_type` excluded from `fase4-self-agreement-alpha`'s binary pass/fail
 
 `#28` fixed the Fase 4↔Fase 5 bundle mechanism and the α handling for
 `density`/`evidence_type`, but left the annotation tool/file format, two
@@ -3288,6 +3288,21 @@ module names, and the `#28(c)` cta-candidate scan/seeded draw as "the
 follow-up issue's call" (`#28`'s own closing paragraph). Grooming the Fase 4
 backlog into five issues (F4-a through F4-e) closed all of these. Eight
 decisions below, (a)-(h).
+
+**Correction, in place**: an earlier revision of (f)/(g) below stated the
+cta-candidate scan and the seeded gold/reannotation draw as already
+"executed for real" and the resulting 5 videos as the decided "gold
+set," logged the same way `#16`'s Fase 3 picks were. That overstated
+what a grooming pass may settle: `#28(c)` itself assigns running this
+procedure for real, and persisting `gold/mackexplains7/selection.json`,
+to "the follow-up issue" - issue #18 - not to the entry that grooms it.
+Nothing changes about the algorithm, the phrase list, or the
+reannotation-draw rule (all still decided below); what changes is that
+the specific video ids computed below are a verification example this
+grooming pass ran to make issue #18's acceptance criteria checkable
+against real data, not Fase 4's actual, settled selection - that
+remains issue #18's own deliverable, produced by its own code, tests,
+and QA.
 
 **(a) `doccano` is dropped for this implementation pass; the Fase 4 gold
 export uses a file-per-video JSONL worksheet instead.**
@@ -3368,8 +3383,7 @@ window-text sequence, not a suffix window.
 
 **(f) cta-candidate phrase list fixed by evidence against the real
 corpus: `["link in the description", "let me know in the comments", "let
-us know in the comments"]` - and the scan executed for real finds 8 of 30
-`@MackExplains7` profile videos.**
+us know in the comments"]`.**
 
 Tested against all 30 `profile` transcripts before fixing the list:
 `subscri` matched only `"no newsletter to unsubscribe from"` (negated,
@@ -3382,36 +3396,52 @@ finding - `Qgz_k2JQ3UY:j0113` and `yKqe_ey3QOs:j0101` are the exact two
 windows `schema/codebook.md`'s own already-written positive examples for
 `cta` already cite (lines 443-444) - the scan rediscovers the codebook
 author's own known cases via a reproducible mechanism, rather than
-replacing them with an unrelated heuristic. **Executed for real, not a
-still-open procedure**: sorted, the 8 candidates are `0neQIzWDXaM`,
-`7xgt_LQxedc`, `kLYsABip8tI`, `MMycNJ05f8M`, `pPm3vHUQCpo`, `Qgz_k2JQ3UY`,
-`Y_-aMBlHWgE`, `yKqe_ey3QOs` - `#28(c)`'s own closing sentence ("this
-procedure is not yet run") is superseded for this specific execution.
+replacing them with an unrelated heuristic. **Computed once during this
+grooming pass, to make issue #18's acceptance criteria checkable against
+real data - not an implementation of Fase 4 itself, and not the
+persisted artifact `#28(c)` names**: sorted, the 8 candidates this
+one-off computation found are `0neQIzWDXaM`, `7xgt_LQxedc`,
+`kLYsABip8tI`, `MMycNJ05f8M`, `pPm3vHUQCpo`, `Qgz_k2JQ3UY`,
+`Y_-aMBlHWgE`, `yKqe_ey3QOs`. `#28(c)`'s own closing sentence ("this
+procedure is not yet run") stands: issue #18's own implementation is
+what actually runs `scan_cta_candidates()` for real and persists
+`gold/mackexplains7/selection.json`; the values above are a
+verification target for that issue's tests, not a substitute for
+running it.
 
-**(g) `#28(c)`'s seeded gold draw executed for real, plus a new rule for
-which of the 5 gold videos gets the 48h reannotation.**
+**(g) New rule for which of the 5 gold videos gets the 48h
+reannotation: drawn from the same `random.Random(42)` sequence,
+immediately after the 5-video draw, never hand-picked.**
 
-Per `#28(c)`'s procedure (candidates non-empty): `rng =
-random.Random(42)`; `anchor = rng.choice(sorted(candidates))` ->
+`#28(c)` fixes the 5-video draw's algorithm but never names which one
+gets reannotated 48h later (`_docs/plano_implementacao.md:457` only
+says "1 vídeo", no rule). New decision: the reannotation video is drawn
+from the same `random.Random(42)` sequence used for the 5-video draw,
+continued (`rng.choice(sorted(gold_videos))`) rather than hand-picked -
+the same reproducibility every other seeded draw in this project already
+has (`SAMPLE_SEED=42` in `src/amostragem.py`, `HOLDOUT_SEED=42` in
+`#6`).
+
+**Worked example, not the official selection.** Running `#28(c)`'s
+procedure (candidates non-empty) against this grooming pass's one-off
+computation of (f)'s candidate list and the real 30-video profile pool:
+`rng = random.Random(42)`; `anchor = rng.choice(sorted(candidates))` ->
 `7xgt_LQxedc`; `rest = rng.sample(sorted(v for v in all_30_profile if v
 != anchor), 4)` -> `['0neQIzWDXaM', 'rk7qIWcLJ40', 'Leol0DxxGe4',
-'C27Dd23jZzA']`. Gold set, logged the same way `#16`'s Fase 3 draws
-logged their picks (video id + real `duracao_s` from
-`corpus/mackexplains7/manifesto.csv`): `7xgt_LQxedc` (1400s),
-`0neQIzWDXaM` (1395s), `rk7qIWcLJ40` (1281s), `Leol0DxxGe4` (1196s),
-`C27Dd23jZzA` (1314s). `#28(c)` fixes the 5-video draw but never names
-which one gets reannotated 48h later (`_docs/plano_implementacao.md:457`
-only says "1 vídeo", no rule). New decision: the reannotation video is
-drawn from the same `random.Random(42)` sequence, immediately after the
-5-video draw completes - `rng.choice(sorted(gold_videos))` ->
-`7xgt_LQxedc` - rather than hand-picked, for the same reproducibility
-every other seeded draw in this project already has (`SAMPLE_SEED=42` in
-`src/amostragem.py`, `HOLDOUT_SEED=42` in `#6`). `7xgt_LQxedc` also being
-the scan's own anchor video is a coincidence of the draw, not a selection
-criterion - nothing in the procedure filters or ranks by cta-candidate
-status past the first draw. **Executed for real**: these are the video
-ids the follow-up issue (F4-a) persists to
-`gold/mackexplains7/selection.json`, not a still-open procedure.
+'C27Dd23jZzA']`; reannotation video (same `rng`, continued) ->
+`7xgt_LQxedc` - a coincidence of the draw order, not a selection
+criterion; nothing in the procedure filters or ranks by cta-candidate
+status past the first draw. Real `duracao_s` from
+`corpus/mackexplains7/manifesto.csv`, for reference: `7xgt_LQxedc`
+(1400s), `0neQIzWDXaM` (1395s), `rk7qIWcLJ40` (1281s), `Leol0DxxGe4`
+(1196s), `C27Dd23jZzA` (1314s). **This is a verification computation
+this grooming pass ran to make issue #18's acceptance criteria
+checkable, not Fase 4's official gold-video selection.** Issue #18's own
+implementation is what runs `select_gold_videos()`/
+`select_reannotation_video()` for real and persists
+`gold/mackexplains7/selection.json` - the artifact `#28(c)` names as the
+actual decided output. Until that issue's code, tests, and QA pass, the
+gold sample is not settled.
 
 **(h) `evidence_type` does not count toward
 `fase4-self-agreement-alpha`'s binary `passed`; only the four `required:
