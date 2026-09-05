@@ -23,7 +23,7 @@ esta revisão e a aprovação final).
 
 ---
 
-## 28. Fase 4↔Fase 5 context-budget symmetry - not round-1↔round-2 within Fase 4 - enforced by one bundle-generation function shared by the Fase 4 export and the Fase 5 prompt builder; the bundle's own `window_id` ordinality closed as a positional leak on both sides; the 48h self-agreement reannotation resolved by construction, not instruction; `cta`'s 0/205 sample gap gets a seeded, duration-blind gold-selection procedure instead of a silent pass; `density` moves to Krippendorff's ordinal metric instead of nominal; `evidence_type`'s not-applicable case excluded from its own alpha, conditional on `function` agreement, rather than counted as agreement
+## 28. Fase 4↔Fase 5 context-budget symmetry - not round-1↔round-2 within Fase 4 - enforced by one bundle-generation function shared by the Fase 4 export and the Fase 5 prompt builder; the bundle's own `window_id` ordinality closed as a positional leak on both sides; the 48h self-agreement reannotation resolved by construction, not instruction; `cta`'s 0/205 sample gap gets a seeded, duration-blind gold-selection procedure instead of a silent pass; `density` moves to Krippendorff's ordinal metric instead of nominal, computed via `nltk.metrics.agreement.AnnotationTask` rather than the GPL-3.0 `krippendorff` package; `evidence_type`'s not-applicable case excluded from its own alpha, conditional on `function` agreement, rather than counted as agreement
 
 `#20` already named the problem for Fase 4 without settling the mechanism:
 "'Anotar sob o mesmo orçamento' fails silently if left as instruction: a
@@ -348,49 +348,179 @@ filters by `duracao_s`.
 
 **(d) `density` (integer 0-2, `schema/ontologia.v1.json` lines 43-49)
 uses Krippendorff's `ordinal` distance metric for its field-level α, not
-the `nominal` default every other field in this ontology uses.**
-`schema/codebook.md`'s own normative definitions (lines 642-686) make
-this a censored count, not an equal-interval scale: `0` = no new
-concept, `1` = exactly one new concept, `2` = "two or more distinct new
-concepts" - an open-ended ceiling bucket that absorbs 2, 3, 4, or more
-concepts identically. A nominal metric would score a 0-vs-2 disagreement
-identically to a 0-vs-1 disagreement, discarding the ordering the
-codebook itself asserts; an `interval` metric would instead treat the
-1-to-2 gap as numerically equal to the 0-to-1 gap, which the
-ceiling-bucket definition of `2` makes false. Krippendorff's `ordinal`
-metric derives inter-category distance from the observed marginal
-distribution's cumulative frequencies rather than assuming a fixed
-numeric gap, which is the correct fit for an ordered-but-unequally-spaced
-scale. Implementation consequence: the `krippendorff` PyPI package
-exposes `level_of_measurement='ordinal'` directly; `simpledorff` (the
-plan's other named option, line 475) exposes no such parameter.
+the `nominal` default every other field in this ontology uses - computed
+via `nltk.metrics.agreement.AnnotationTask` with a project-implemented
+ordinal-distance closure, not the `krippendorff` PyPI package this
+entry's prior revision adopted.** `schema/codebook.md`'s own normative
+definitions (lines 642-686) make this a censored count, not an
+equal-interval scale: `0` = no new concept, `1` = exactly one new
+concept, `2` = "two or more distinct new concepts" - an open-ended
+ceiling bucket that absorbs 2, 3, 4, or more concepts identically. A
+nominal metric would score a 0-vs-2 disagreement identically to a
+0-vs-1 disagreement, discarding the ordering the codebook itself
+asserts; an `interval` metric would instead treat the 1-to-2 gap as
+numerically equal to the 0-to-1 gap, which the ceiling-bucket
+definition of `2` makes false. Krippendorff's `ordinal` metric derives
+inter-category distance from the observed marginal distribution's
+cumulative frequencies rather than assuming a fixed numeric gap, which
+is the correct fit for an ordered-but-unequally-spaced scale.
 
-**License checked before adoption, not assumed - and it is not the same
-class of license every other dependency this project has adopted
-carries.** `krippendorff` (PyPI, `pln-fing-udelar/fast-krippendorff`) is
-**GPL-3.0** - confirmed against the package's own `LICENSE.txt` (full GPLv3
-text) and its PyPI trove classifier ("License :: OSI Approved :: GNU
-General Public License v3 (GPLv3)"), not against a secondary source.
-`_docs/blueprint.md` line 68 named `simpledorff`/`krippendorff`/
-`nltk.metrics.agreement` in one enumeration with no license attributed to
-any of the three - the same gap the Pydantic entry closed for `pydantic`
-this same revision round (`_docs/blueprint.md` line 59). Own line added
-to `_docs/blueprint.md`'s Peça 5 section for `krippendorff` specifically
-(the one this alínea actually decides to use), naming GPL-3.0 - see that
-file's diff. **This does not block adoption**: `DECISOES.md` item 3 fixes
-the project's current scope as non-commercial, and `krippendorff` is only
-ever an internal measurement dependency during Fase 5B - never conveyed
-or distributed as part of a product, the condition under which GPL-3.0's
-copyleft terms actually engage. It **is** a real, load-bearing difference
-from every other dependency this project has adopted so far (all
-MIT/BSD-2-Clause/Apache-2.0/Unlicense per `_docs/blueprint.md`), and must
-be re-examined the day `roteiros-engine`'s own pipeline code - not the
-generated video scripts, which are not a derivative work of
-`krippendorff` under any reading - is ever distributed or open-sourced,
-not only the day the project's commercial-use decision changes.
-**Decision: the Fase 5 validation module uses the `krippendorff` package
-specifically for `density`'s α**, whichever library it uses (or doesn't)
-for the other four nominal fields.
+**Reversed from this entry's prior revision: the `krippendorff` PyPI
+package (`pln-fing-udelar/fast-krippendorff`) is not adopted - the
+owner's decision, not a new finding by this revision.** It is
+**GPL-3.0** (confirmed against the package's own `LICENSE.txt` and PyPI
+trove classifier, as the prior revision already established).
+`_docs/blueprint.md` gets its own "NÃO ADOTADO — GPL-3.0" entry for it
+(see that file's diff) - the copyleft risk the prior revision judged
+tolerable for a non-commercial phase ("does not block adoption... must
+be re-examined the day... is ever distributed") is, on reflection, a
+door `DECISOES.md` item 3 explicitly leaves open ("ver
+`_docs/decisions.md` se algum dia isso mudar"): a GPL-3.0 dependency is
+not a mere footnote for that future revision, it is a real blocker that
+would have to be excised. Not adopting it now, while `density`'s α is
+not yet wired into any module, costs nothing; adopting it now and
+un-adopting it later costs a rewrite. `nltk` (Apache-2.0) replaces it as
+the concordance library for every field, `density` included.
+
+**`nltk.metrics.agreement.AnnotationTask` accepts an arbitrary distance
+function, but that function is a pure two-argument callable - it is
+never given access to the dataset's frequency table, so the ordinal
+distance cannot be a stateless formula and must be built as a
+closure.** Confirmed directly against `nltk/metrics/agreement.py`
+(branch `develop`, `nltk/nltk` on GitHub, read for this revision, not
+inherited from a prior citation): `AnnotationTask.__init__(self,
+data=None, distance=binary_distance, missing_values=None)` takes
+`distance` as its second parameter, defaulting to `binary_distance`;
+every call site - `agr()`, `Do_Kw_pairwise()`,
+`weighted_kappa_pairwise()`, and `Disagreement(self, label_freqs)`
+(called from `alpha()`) - invokes `self.distance(l, k)` with exactly
+two label arguments inside a loop that itself already holds the
+frequency table (`label_freqs`, a `FreqDist` built by `alpha()` per item
+and accumulated across items into `all_valid_labels_freq`). `distance`
+itself never receives `label_freqs`. The only way to give the ordinal
+distance access to the marginals `n_g` it needs is to compute those
+marginals independently - one pass over the same dataset, before
+`AnnotationTask` is constructed - and close over them:
+
+```
+δ²(c, k) = ( Σ_{g=c}^{k} n_g − (n_c + n_k) / 2 )²        for c ≤ k
+```
+
+where `n_g` is the observed marginal frequency of category `g` (a count
+over every valid `density` value in the dataset being measured, not
+per-item), and the sum runs over every integer category from `c` to `k`
+inclusive. **This closure is a required implementation detail, not an
+option**: `density_ordinal_distance = build_ordinal_distance
+(all_density_values)` must run once against a `FreqDist` over the
+dataset's own observed `density` labels (the full label set actually
+seen, both round-1/round-2 or model/human sides being compared) *before*
+`AnnotationTask(data, distance=density_ordinal_distance)` is
+constructed - never a bare `lambda c, k: abs(c - k)` or
+`lambda c, k: (c - k) ** 2`. Both of those are interval distances
+wearing an ordinal
+name for exactly the reason this alínea's own codebook paragraph above
+already rejects an `interval` metric for `density`: they assign a fixed
+numeric gap to each adjacent pair of categories (1 for `|c−k|`, an even
+more pronounced fixed gap for `(c−k)²`), which is precisely what the
+`2`-or-more ceiling bucket makes indefensible. Krippendorff's ordinal
+distance is the one construction that lets the *data itself*, not an
+assumed scale, say how far apart `1` and `2` really are relative to `0`
+and `1`.
+
+**Test requirement: reproduce the nominal, ordinal, and interval α of
+the worked example Krippendorff (2011) itself publishes, against
+hard-coded data in the test - not just the nominal figure.** Source:
+Klaus Krippendorff, "Computing Krippendorff's Alpha-Reliability"
+(Annenberg School for Communication, University of Pennsylvania,
+2011.1.25, literature updated 2013.9.13;
+`https://www.asc.upenn.edu/sites/default/files/2021-03/Computing%20Krippendorff's%20Alpha-Reliability.pdf`,
+identical text mirrored at
+`https://www.infoamerica.org/documentos_pdf/kripen.pdf`; also
+`repository.upenn.edu/asc_papers/242`) - read directly for this
+revision, not taken from a secondary description. Section C/D's own
+worked example, 4 coders × 12 units, values 1-5, missing data as `.`:
+
+```
+Coder A: 1 2 3 3 2 1 4 1 2 . . .
+Coder B: 1 2 3 3 2 2 4 1 2 5 . 3
+Coder C: . 3 3 3 2 3 4 2 2 5 1 .
+Coder D: 1 2 3 3 2 4 4 1 2 5 1 .
+```
+
+The paper's own published results for this exact matrix: **α_nominal =
+0.743** (Section C), **α_ordinal = 0.815**, **α_interval = 0.849** (both
+Section D; the paper also gives α_ratio = 0.797, not required here).
+**Reproducing only the nominal figure does not validate anything about
+this alínea's decision**: the nominal metric is the library default
+(`binary_distance`-equivalent for exact match), exercises no custom
+`distance` callable, and would pass identically whether or not the
+ordinal closure is implemented correctly, or at all. Only the ordinal
+figure exercises the marginals-dependent closure this alínea requires;
+the interval figure (a much simpler, stateless `(c−k)²`) is included as
+a second, independent check that the harness wiring itself - feeding a
+custom `distance` into `AnnotationTask` and reading `alpha()` back out -
+is correct, isolating closure-specific bugs from wiring-specific ones.
+
+**Confirmed directly in the same source file, not assumed:
+`AnnotationTask.alpha()` already excludes any unit with fewer than two
+valid values natively - by omission of the triple, not by a filtering
+step before the call - which is exactly what (e) below assumes for
+`evidence_type`.** `alpha()`'s own body (`nltk/metrics/agreement.py`,
+read for this revision):
+
+```python
+for i, itemdata in self._grouped_data("item"):
+    label_freqs = FreqDist(x["labels"] for x in itemdata)
+    labels_count = sum(label_freqs.values())
+    if labels_count < 2:
+        # Ignore the item.
+        continue
+```
+
+and the constructor's own docstring states the same rule in prose:
+"Missing data (a coder not annotating an item) is represented by simply
+omitting that `(coder, item, label)` triple: Krippendorff's `alpha`
+drops items annotated by fewer than two coders." No pre-filtering step
+is required or should be written: a window where a given annotator did
+not code a value for a conditional field (e.g. `evidence_type` when
+`function != 'evidence'`) is handled correctly by never constructing
+that `(coder, item, label)` triple in the first place - `alpha()`'s own
+grouping-and-count logic above drops the resulting under-populated item
+on its own.
+
+**Alternative rejected: implement Krippendorff's alpha from scratch,
+from the coincidence matrix, with no new dependency at all.** This was
+considered because it would sidestep any dependency-license question
+entirely. Rejected: the ordinal-distance closure over the dataset's
+marginals (above) is required work either way - it is not optional
+scaffolding that a from-scratch implementation would avoid. Once that
+closure exists, what a from-scratch `alpha()` would still have to
+reimplement - grouping ratings by item, computing observed and expected
+disagreement from the resulting coincidence matrix, and dropping
+under-populated items - is exactly what `AnnotationTask`/`alpha()`
+already does, correctly, under a permissive license (Apache-2.0), with
+no restriction this project's own use triggers. The test requirement
+above (reproducing all three of Krippendorff (2011)'s own published α
+values against hard-coded data) validates the *combination* of the
+ordinal closure and whichever `alpha()` implementation computes the
+coefficient - a from-scratch implementation would need to pass the
+identical test to be trusted, buying no additional correctness
+guarantee over reusing `nltk`'s. Writing and maintaining a second
+implementation of coincidence-matrix bookkeeping this project does not
+need to own is effort spent, not risk avoided.
+
+**Decision: the Fase 5 validation module computes `density`'s
+field-level α via `nltk.metrics.agreement.AnnotationTask(data,
+distance=density_ordinal_distance)`, where `density_ordinal_distance`
+is a closure built by the project over a `FreqDist` of the dataset's
+own observed `density` values, implementing `δ²(c, k)` above - never a
+bare function of two integers, and never the `krippendorff` PyPI
+package.** Whichever library or bespoke code the other four nominal
+fields' α uses is unaffected by this decision either way;
+`nltk.metrics.agreement.AnnotationTask` is adopted as this project's one
+concordance-computation entry point regardless, since its default
+(`binary_distance`) already covers the nominal case those four fields
+need.
 
 **(e) `evidence_type` (categorical, `required: false`, `condition:
 function == 'evidence'`, `schema/ontologia.v1.json` lines 30-36) treats
@@ -409,12 +539,15 @@ call a window `hook` instead of `evidence` will *always* "agree" on
 `evidence_type: n/a` for it, regardless of whether `study` vs.
 `statistic` vs. `case` vs. `analogy` vs. `authority` are discriminable at
 all on the much smaller subset of windows where the field actually
-fires. Krippendorff's alpha already has a native way to handle a value a
-coder does not provide: a unit with fewer than two valid values for a
-field contributes nothing to that field's reliability estimate and is
-dropped - exactly what happens if `evidence_type` is passed to
-`krippendorff.alpha()` as `None`/missing whenever `function != 'evidence'`
-for that annotator, instead of coding it as its own category.
+fires. `nltk.metrics.agreement.AnnotationTask.alpha()` already has a
+native way to handle a value a coder does not provide - confirmed
+directly in `nltk/metrics/agreement.py`, quoted in (d) above: a unit
+with fewer than two valid values for a field contributes nothing to
+that field's reliability estimate and is dropped. Exactly what happens
+if the `(coder, item, label)` triple for `evidence_type` is simply
+omitted from the data fed to `AnnotationTask` whenever `function !=
+'evidence'` for that annotator/window, instead of coding a sentinel
+`n/a` category.
 **Decision: option (b), exclude.** `evidence_type`'s α is computed only
 over windows where the annotators being compared both coded `function ==
 'evidence'` and both filled the field.
@@ -468,9 +601,11 @@ this is logic/tooling, not documentation content, so it needs an issue
 and a worktree, not a direct commit): writing the shared bundle-generation
 function (a) specifies, in a shared module the follow-up issue names
 (not `src/gold.py` alone, since Fase 5 has no reason to import a module
-named for Fase 4's own export step); wiring `krippendorff`'s `ordinal`
-level for `density` and missing-data exclusion for `evidence_type` into
-the Fase 5 validation module (`src/valida.py`, not yet written); running
+named for Fase 4's own export step); wiring the project-implemented
+ordinal-distance closure for `density` and the triple-omission-based
+missing-data exclusion for `evidence_type` into
+`nltk.metrics.agreement.AnnotationTask` calls inside the Fase 5
+validation module (`src/valida.py`, not yet written); running
 the 30-video CTA heuristic scan and the seeded gold-video draw from (c),
 and recording the real result (video ids, durations) in a future
 `decisions.md` entry once it is actually run; and updating
