@@ -8,7 +8,7 @@ from __future__ import annotations
 
 import hashlib
 import json
-import re
+from dataclasses import FrozenInstanceError
 from pathlib import Path
 
 import pytest
@@ -17,18 +17,10 @@ from src.context_budget import CONTEXT_BUDGET, Bundle, build_bundle
 
 CORPUS_WINDOWS_DIR = Path(__file__).resolve().parent.parent / "corpus/mackexplains7/windows"
 
-WINDOW_ID_RE = re.compile(r"^(?P<video_id>.+):j(?P<idx>\d+)$")
-
 
 def _load_windows(video_id: str) -> list[dict]:
     data = json.loads((CORPUS_WINDOWS_DIR / f"{video_id}.json").read_text(encoding="utf-8"))
     return data["windows"]
-
-
-def _idx_from_window_id(window_id: str) -> int:
-    match = WINDOW_ID_RE.match(window_id)
-    assert match is not None, f"window_id inesperado: {window_id!r}"
-    return int(match.group("idx"))
 
 
 @pytest.fixture(scope="module")
@@ -46,7 +38,7 @@ def real_windows() -> dict[str, list[dict]]:
 
 def test_bundle_is_frozen_dataclass() -> None:
     bundle = Bundle(window_id="v:j0001", display_id="deadbeef", context=["a"], target="b")
-    with pytest.raises(Exception):
+    with pytest.raises(FrozenInstanceError):
         bundle.window_id = "v:j0002"  # type: ignore[misc]
 
 
@@ -140,9 +132,7 @@ def test_context_never_mixes_other_video() -> None:
 
     bundle = build_bundle("vidB", 2, windows_by_video)
 
-    assert bundle.context == [
-        w["text"] for w in windows_target[:2]
-    ]
+    assert bundle.context == [w["text"] for w in windows_target[:2]]
     assert all(not text.startswith("OUTRO VIDEO") for text in bundle.context)
 
 
