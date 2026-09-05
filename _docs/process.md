@@ -54,6 +54,12 @@ construidas ao mesmo tempo sem esperar uma pela outra.
 - Toda issue de uma onda ganha sua propria worktree git e seu proprio branch
 - Nada e implementado no checkout principal. Main e para grooming,
   integracao e os docs
+- No inicio e no fim de cada onda, o orchestrator roda `git -C <checkout
+  da main> status --short` e reporta o resultado - duas rodadas seguidas
+  (Issue #14: decisoes #22-24 e `portoes.json` apareceram no checkout sem
+  commit pedido; Issue #15: desalinhamento do tool de edicao) tiveram
+  conteudo nao commitado aparecendo na main sem ninguem pedir, pego so por
+  atencao manual, nao por processo
 
 Uma issue so entra numa onda quando todas estas condicoes valem:
 

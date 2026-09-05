@@ -8,8 +8,8 @@ e o que a CI roda para garantir que este arquivo nunca fica desatualizado
 comparado ao dado real.
 
 <!-- METADATA_START -->
-- commit: `fc3a08f2603fe076d5c7ccc642aeab6936e977c8`
-- gerado em: 2026-09-05T11:09:55.455058+00:00
+- commit: `b04ce60761825900c63138ad0c2d4e44d2dac117`
+- gerado em: 2026-09-05T12:14:00.717019+00:00
 <!-- METADATA_END -->
 
 ## Portoes
@@ -53,7 +53,7 @@ aqui, edite la e regenere.
 
 ## Fases abertas (por label `fase-N`)
 
-Instantaneo do GitHub em 2026-09-05T11:09:55.455058+00:00 - uma issue pode abrir ou fechar sem gerar nenhum commit aqui; para o estado real, rode `gh issue list --repo Lcjlle/roteiros-engine --label fase-N`.
+Instantaneo do GitHub em 2026-09-05T12:14:00.717019+00:00 - uma issue pode abrir ou fechar sem gerar nenhum commit aqui; para o estado real, rode `gh issue list --repo Lcjlle/roteiros-engine --label fase-N`.
 
 <!-- OPEN_ISSUES_START -->
 - **fase-5**: #12 Fase 5: cta com 0 ocorrências em 205 janelas indo para um portão de α por campo

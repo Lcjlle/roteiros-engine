@@ -317,6 +317,30 @@ DECISIONS_INDEX: tuple[dict, ...] = (
             "timestamp do bloco de metadados; `_docs/decisions.md` ganha uma regra real de "
             "fronteira para correção in-place de uma entrada já publicada."
         ),
+        "status": (
+            "parcialmente superseded por #27 (fragmento: o exemplo de codigo inline do (a)(3))"
+        ),
+    },
+    {
+        "number": 26,
+        "phase": "transversal",
+        "sentence": (
+            "`scripts/pin_worktree_database.py` fixa o `DATABASE_URL` de cada worktree via um "
+            "`sitecustomize.py` gerado, iniciando a convenção do diretório `scripts/` para "
+            "tooling de dev-infra avulso."
+        ),
+        "status": "vigente",
+    },
+    {
+        "number": 27,
+        "phase": "transversal",
+        "sentence": (
+            "Exemplo de código do `#25(a)(3)` parcialmente superseded pelo `exists=False` real "
+            "da Issue #15 (primeiro uso real da regra de correção in-place do `#25(d)`); "
+            "`fase1-profile-row-floor` em @Zenn0009 reconfirmado como mecanismo já decidido "
+            "pelo `#25(a)`, não achado novo; falha silenciosa do `gh issue list` em "
+            "`_open_phase_issues()` registrada como vão aceito, distinto do drift do `#25(c)`."
+        ),
         "status": "vigente",
     },
 )

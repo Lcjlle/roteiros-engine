@@ -84,6 +84,12 @@ Status: vigente
 Status: vigente
 
 **#25** (transversal) - `schema/portoes.json` ganha um registro de papel por canal (`channels`) e um filtro `applies_to_roles` por portão `per_channel`; `result_ref` de portão `human_judgment` vira por canal, sem herança entre canais; a seção `Fases abertas` de `_docs/estado.md` ganha uma ressalva de obsolescência gerada a partir do mesmo timestamp do bloco de metadados; `_docs/decisions.md` ganha uma regra real de fronteira para correção in-place de uma entrada já publicada.
+Status: parcialmente superseded por #27 (fragmento: o exemplo de codigo inline do (a)(3))
+
+**#26** (transversal) - `scripts/pin_worktree_database.py` fixa o `DATABASE_URL` de cada worktree via um `sitecustomize.py` gerado, iniciando a convenção do diretório `scripts/` para tooling de dev-infra avulso.
+Status: vigente
+
+**#27** (transversal) - Exemplo de código do `#25(a)(3)` parcialmente superseded pelo `exists=False` real da Issue #15 (primeiro uso real da regra de correção in-place do `#25(d)`); `fase1-profile-row-floor` em @Zenn0009 reconfirmado como mecanismo já decidido pelo `#25(a)`, não achado novo; falha silenciosa do `gh issue list` em `_open_phase_issues()` registrada como vão aceito, distinto do drift do `#25(c)`.
 Status: vigente
 
 <!-- DECISIONS_INDEX_END -->
@@ -2403,3 +2409,139 @@ No new dependency in `pyproject.toml` - the script and the
 only. No database table added or changed; `src/db.py`'s documented
 production/CI behavior (a real env var with no `.env` present keeps
 winning) is unchanged.
+
+## 27. `#25(a)(3)`'s inline code example is partially superseded by Issue #15's real `exists=False` - the first exercise of the `#25(d)` in-place-correction rule since it was written; `fase1-profile-row-floor` in `@Zenn0009` reconfirmed as `#25(a)`'s already-decided mechanism, not a new finding; `_open_phase_issues()`'s silent `gh` failure fallback named as a second, distinct gap from `#25(c)` - accepted, not implemented
+
+Three items surfaced during a routine audit pass, before any new work was
+groomed. Handled together here because all three touch `#25` directly and
+none of them authorizes a worktree: one is a real supersession under the
+rule `#25(d)` itself just wrote, one is a reconfirmation that must not be
+mistaken for a new defect, and one is a named, accepted gap distinct from
+one `#25(c)` already covers.
+
+**(a) `#25(a)(3)`'s inline code example: `parcialmente superseded por #27`
+- the first real exercise of the `#25(d)` boundary rule.**
+
+The divergence, read directly: `#25(a)(3)`'s prose (`_docs/decisions.md`
+line 2171) says `Measurement(passed=None, ...)`; the code block two lines
+below it (lines 2178-2179) writes positionally,
+`Measurement(None, None, "nao aplicavel (...)")`. `Measurement`
+(`src/estado.py:448-451`) is a dataclass typed `exists: bool; passed: bool
+| None; display: str` - a positional `None` in the first slot sets
+`exists=None`, which is not a legal value for a field typed `bool`, only
+for `bool | None`.
+
+The real implementation, built for Issue #15, does not do that.
+`measure_gate` (`src/estado.py:584-592`) returns
+`Measurement(False, None, f"nao aplicavel (...)")` for exactly this case -
+`exists=False`, never `exists=None`. Its own docstring
+(`src/estado.py:574-576`) states the reasoning: the same convention
+`_measure_manifesto_gate`/`_measure_json_pointer_gate` already use
+elsewhere in this module, where `exists=False` means "no artifact read
+was even attempted," not "the gate does not exist." QA on Issue #15
+confirmed this reading against the real code, not against `#25`'s
+example.
+
+Applying `#25(d)`'s rule to this exact case, not assuming the answer:
+rule 1's third condition - "no committed artifact already embodies the
+original value as something that ran for real" - is false here. A
+committed, tested artifact (`measure_gate`) embodies a *different* value
+(`exists=False`) than the entry's own example implied (`exists=None`),
+and it does so having read the entry and consciously departed from it,
+not by accident or oversight. That is rule 2's trigger, read literally:
+"another entry cites it... or a real artifact was built against it."
+Silently editing `#25`'s code block now to read
+`Measurement(False, None, ...)` would erase the fact that Issue #15 made
+a considered call diverging from published guidance - exactly the
+silent-rewrite failure mode rule 3 exists to prevent, the same one
+`88243c2` was the counter-example for. So: not an in-place fix.
+`#25`'s `Status` becomes `parcialmente superseded por #27 (fragmento: o
+exemplo de codigo inline do (a)(3))`; nothing else in `#25` moves - the
+`channels`/`applies_to_roles` registry, per-channel `result_ref`, the
+`_docs/estado.md` staleness caveat, and the `#25(d)` rule's own text all
+stand as written.
+
+**Decision, for the record:** the corrected example, going forward, is
+`Measurement(exists=False, passed=None, display="nao aplicavel (papel do
+canal: <role>; portao exige: <applies_to_roles>)")` - matching the real
+`measure_gate` code exactly, and written with keyword arguments this
+time, precisely to remove the positional ambiguity that produced the
+original error.
+
+This is the first real invocation of the `#25(d)` rule since it was
+written, in the same entry, the same day. What it decides here, as
+precedent: a code example inside a `decisions.md` entry is not exempt
+from the citation test just because it reads as illustrative rather than
+declarative. An engineer who reads it and implements consciously against
+it counts as "a real artifact was built against it" for rule 2's
+purposes, exactly as a `schema/portoes.json` field citing the entry
+would - the example does not get a lower bar than the prose around it
+just because it is fenced as code.
+
+**(b) `fase1-profile-row-floor` in `@Zenn0009`: a reconfirmation of
+`#25(a)`'s mechanism, not a new finding.**
+
+`corpus/zenn0009/manifesto.csv`'s header is `id,titulo,duracao_s,
+contagem_palavras,fonte` - no `role` column, across all 30 rows. Both
+`src/coleta.py::check_gate` (line 505) and `src/estado.py`'s
+`_measure_manifesto_gate` (line 472) count a row with no `role` key as
+`profile` (`row.get("role", ROLE_PROFILE)`), matching `check_gate`'s own
+docstring ("Linhas sem coluna `role` (manifesto pre-holdout) contam como
+`profile`, entao manifestos antigos continuam validados exatamente como
+antes," lines 497-498) and `schema/portoes.json`'s `fase1-profile-row-floor`
+`note` ("rows with no role column count as profile too, per
+`src/coleta.py::check_gate`," line 8).
+
+This is not an unnoticed mechanism. `#25(a)` already named it and decided
+against it directly (`_docs/decisions.md:2126-2130`): "a fixture_channel's
+rows are all manifest-profile because it was never split, which is a fact
+about the channel, not a per-row label" - and `#25(a)`'s own gate table
+already set `fase1-profile-row-floor`'s `applies_to_roles` to
+`["profile_channel", "fixture_channel"]` with exactly this reasoning
+named as the cause.
+
+**Conclusion: correct, existing, deliberate behavior. No code change.**
+This round's own audit re-confirmed `#25(a)`'s mechanism; it did not
+discover it. Recorded here only so a future pass does not re-flag the
+same fact as a new defect.
+
+**(c) `_open_phase_issues()`'s silent `gh` failure: a second, distinct
+gap from `#25(c)` - named, accepted, not implemented.**
+
+`check()` (`src/estado.py:825-854`) diffs exactly two regenerated-vs-
+committed blocks, `PORTOES_TABLE` and `DECISIONS_INDEX` - never
+`OPEN_ISSUES`/"Fases abertas," by the module's own documented design
+(module docstring, `src/estado.py:17-25`). `#25(c)` already names and
+accepts the consequence of that design: an issue can open or close with
+no commit, so the block can go silently stale, and the staleness caveat
+sentence `render_estado_md` writes into "Fases abertas"
+(`src/estado.py:743-750`) is `#25(c)`'s answer to exactly that risk.
+
+What `#25(c)` does not name is a second, different failure mode.
+`_open_phase_issues()` (`src/estado.py:695-720`) wraps its `gh issue
+list` call in a bare `except Exception` and, on failure - expired auth,
+no network, `gh` not installed - returns the string "nao foi possivel
+consultar issues abertas no GitHub agora (...)" instead of raising. That
+string is ordinary rendered text, not an error signal: a `--write` run
+during an outage commits it into `_docs/estado.md`'s `OPEN_ISSUES` block
+for real, and `--check` never notices, for the same reason `#25(c)`
+already gives - the block is never compared. This is not `#25(c)`'s
+drift case restated: drift is the block being *stale but correct as of
+its own last real fetch*; this is the block recording a *failed fetch*
+as though it were data.
+
+**Decision: accepted, not implemented - same posture `#24` gave the
+`decision_ref`-fragment gap** (`_docs/decisions.md:2057-2074`, "a real,
+accepted gap, not a solved problem"). Naming the risk here is the entire
+action taken. A caveat sentence keyed to fetch success, or a retry, would
+be a new moving part with its own failure modes - the exact reasoning
+`#25(c)` already used to reject a scheduled refresh job for the whole
+block. No code change follows from this item.
+
+This entry does not reopen `#25`'s channel-role registry, per-channel
+`result_ref`, or the `#25(d)` rule's own text - only the one inline code
+example named in (a). It authorizes no follow-up issue and no worktree:
+(a) is documentation-only (`measure_gate` has read `exists=False` since
+Issue #15; only this entry's text changes), and (b)/(c) each close with a
+named conclusion - reconfirmed-correct and accepted-risk, respectively -
+that requires no code.
