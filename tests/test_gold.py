@@ -1,16 +1,19 @@
-"""Testes de `src/gold.py` (Fase 4 - selecao do gold, issue #18)."""
+"""Testes de `src/gold.py` (Fase 4 - selecao do gold, issue #18, e
+exportacao dos worksheets de anotacao, issue #20)."""
 
 from __future__ import annotations
 
 import json
 import random
+import shutil
+from pathlib import Path
 
 from src import gold
+from src.schema_loader import load_ontology
 
 
-def _write_windows(windows_dir, video_id, texts):
-    windows_dir.mkdir(parents=True, exist_ok=True)
-    windows = [
+def _make_windows(video_id, texts):
+    return [
         {
             "window_id": f"{video_id}:j{i:04d}",
             "video_id": video_id,
@@ -25,6 +28,11 @@ def _write_windows(windows_dir, video_id, texts):
         }
         for i, text in enumerate(texts)
     ]
+
+
+def _write_windows(windows_dir, video_id, texts):
+    windows_dir.mkdir(parents=True, exist_ok=True)
+    windows = _make_windows(video_id, texts)
     payload = {"video_id": video_id, "generated_at": "2026-01-01T00:00:00Z", "windows": windows}
     (windows_dir / f"{video_id}.json").write_text(json.dumps(payload), encoding="utf-8")
 
@@ -259,3 +267,210 @@ class TestRealSelectionArtifact:
         ]
         assert payload["reannotation_video_id"] == "7xgt_LQxedc"
         assert all(isinstance(g["duracao_s"], int) for g in payload["gold_video_ids"])
+
+
+# --------------------------------------------------------------------------
+# export_round - schema exato das chaves do worksheet (sem window_id), issue #20
+# --------------------------------------------------------------------------
+
+
+def _expected_worksheet_keys():
+    ontology = load_ontology()
+    return {"display_id", "context", "target"} | {f["name"] for f in ontology["fields"]}
+
+
+class TestExportRoundWorksheetSchema:
+    def test_every_worksheet_line_has_exactly_the_public_schema_keys(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["a b c", "d e", "f", "g h i j"])}
+
+        worksheet_path, _ = gold.export_round("V", "round1", windows_by_video, tmp_path)
+
+        expected_keys = _expected_worksheet_keys()
+        lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+        assert len(lines) == 4
+        for line in lines:
+            record = json.loads(line)
+            assert set(record.keys()) == expected_keys
+            assert "window_id" not in record.keys()
+
+    def test_every_ontology_field_starts_as_null(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["a", "b"])}
+
+        worksheet_path, _ = gold.export_round("V", "round1", windows_by_video, tmp_path)
+
+        ontology_field_names = [f["name"] for f in load_ontology()["fields"]]
+        for line in worksheet_path.read_text(encoding="utf-8").splitlines():
+            record = json.loads(line)
+            for name in ontology_field_names:
+                assert record[name] is None
+
+
+# --------------------------------------------------------------------------
+# export_round - .index.json mapeia display_id -> window_id, nunca no worksheet
+# --------------------------------------------------------------------------
+
+
+class TestExportRoundIndex:
+    def test_index_has_one_entry_per_window_mapping_display_id_to_window_id(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["a", "b", "c"])}
+
+        _, index_path = gold.export_round("V", "round1", windows_by_video, tmp_path)
+
+        index = json.loads(index_path.read_text(encoding="utf-8"))
+        assert len(index) == 3
+        assert set(index.values()) == {"V:j0000", "V:j0001", "V:j0002"}
+
+    def test_display_ids_in_worksheet_match_index_keys(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["a", "b"])}
+
+        worksheet_path, index_path = gold.export_round("V", "round1", windows_by_video, tmp_path)
+
+        index = json.loads(index_path.read_text(encoding="utf-8"))
+        lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+        worksheet_display_ids = {json.loads(line)["display_id"] for line in lines}
+        assert worksheet_display_ids == set(index.keys())
+
+
+# --------------------------------------------------------------------------
+# export_round - ordem, contagem e localizacao dos artefatos
+# --------------------------------------------------------------------------
+
+
+class TestExportRoundOrderingAndCount:
+    def test_line_count_matches_window_count(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", [f"texto {i}" for i in range(7)])}
+
+        worksheet_path, _ = gold.export_round("V", "round1", windows_by_video, tmp_path)
+
+        lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+        assert len(lines) == 7
+
+    def test_lines_are_in_video_order(self, tmp_path):
+        texts = [f"texto {i}" for i in range(5)]
+        windows_by_video = {"V": _make_windows("V", texts)}
+
+        worksheet_path, _ = gold.export_round("V", "round1", windows_by_video, tmp_path)
+
+        lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+        targets = [json.loads(line)["target"] for line in lines]
+        assert targets == texts
+
+    def test_writes_files_under_out_dir_round_subdirectory(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["a"])}
+
+        worksheet_path, index_path = gold.export_round("V", "round2", windows_by_video, tmp_path)
+
+        assert worksheet_path == tmp_path / "round2" / "V.worksheet.jsonl"
+        assert index_path == tmp_path / "round2" / "V.index.json"
+
+
+# --------------------------------------------------------------------------
+# export_round - contexto nunca inclui janela futura nem cruza video
+# --------------------------------------------------------------------------
+
+
+class TestExportRoundContextBoundaries:
+    def test_context_never_includes_a_future_window_of_the_same_video(self, tmp_path):
+        texts = [f"texto {i}" for i in range(6)]
+        windows_by_video = {"V": _make_windows("V", texts)}
+
+        worksheet_path, _ = gold.export_round("V", "round1", windows_by_video, tmp_path)
+
+        lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+        for idx, line in enumerate(lines):
+            record = json.loads(line)
+            future_texts = set(texts[idx:])
+            assert not (set(record["context"]) & future_texts)
+
+    def test_context_never_crosses_video_boundaries(self, tmp_path):
+        windows_by_video = {
+            "A": _make_windows("A", ["a0", "a1", "a2"]),
+            "B": _make_windows("B", ["b0", "b1", "b2"]),
+        }
+
+        worksheet_a, _ = gold.export_round("A", "round1", windows_by_video, tmp_path)
+        worksheet_b, _ = gold.export_round("B", "round1", windows_by_video, tmp_path)
+
+        for line in worksheet_a.read_text(encoding="utf-8").splitlines():
+            record = json.loads(line)
+            assert all(text.startswith("a") for text in record["context"])
+            assert record["target"].startswith("a")
+
+        for line in worksheet_b.read_text(encoding="utf-8").splitlines():
+            record = json.loads(line)
+            assert all(text.startswith("b") for text in record["context"])
+            assert record["target"].startswith("b")
+
+
+# --------------------------------------------------------------------------
+# export_round - independencia comportamental entre round1 e round2
+# --------------------------------------------------------------------------
+
+
+class TestExportRoundIndependence:
+    def test_round2_reproduces_round1_bytes_after_round1_is_physically_deleted(self, tmp_path):
+        windows_by_video = {
+            "7xgt_LQxedc": _make_windows("7xgt_LQxedc", [f"texto {i}" for i in range(9)])
+        }
+        out_dir = tmp_path / "gold" / "mackexplains7"
+
+        worksheet1, index1 = gold.export_round("7xgt_LQxedc", "round1", windows_by_video, out_dir)
+        worksheet1_bytes = worksheet1.read_bytes()
+        index1_bytes = index1.read_bytes()
+
+        round1_dir = out_dir / "round1"
+        shutil.rmtree(round1_dir)
+        assert not round1_dir.exists()
+
+        worksheet2, index2 = gold.export_round("7xgt_LQxedc", "round2", windows_by_video, out_dir)
+
+        assert worksheet2.read_bytes() == worksheet1_bytes
+        assert index2.read_bytes() == index1_bytes
+
+
+# --------------------------------------------------------------------------
+# Real round1/round2 artifacts committed for the channel
+# --------------------------------------------------------------------------
+
+
+def _load_real_windows(video_id):
+    payload = (gold.WINDOWS_DIR / f"{video_id}.json").read_text(encoding="utf-8")
+    return json.loads(payload)["windows"]
+
+
+class TestRealRoundArtifacts:
+    def test_round1_worksheets_match_the_real_windows_for_every_gold_video(self):
+        selection = json.loads(gold.SELECTION_PATH.read_text(encoding="utf-8"))
+        ontology = load_ontology()
+        expected_keys = _expected_worksheet_keys()
+        round1_dir = Path("gold/mackexplains7/round1")
+
+        for entry in selection["gold_video_ids"]:
+            video_id = entry["video_id"]
+            windows = _load_real_windows(video_id)
+
+            worksheet_path = round1_dir / f"{video_id}.worksheet.jsonl"
+            lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+            assert len(lines) == len(windows)
+            for line in lines:
+                record = json.loads(line)
+                assert set(record.keys()) == expected_keys
+                assert all(record[f["name"]] is None for f in ontology["fields"])
+
+            index = json.loads((round1_dir / f"{video_id}.index.json").read_text(encoding="utf-8"))
+            assert len(index) == len(windows)
+            assert set(index.values()) == {w["window_id"] for w in windows}
+
+    def test_round2_worksheet_matches_the_real_windows_for_the_reannotation_video(self):
+        selection = json.loads(gold.SELECTION_PATH.read_text(encoding="utf-8"))
+        video_id = selection["reannotation_video_id"]
+        windows = _load_real_windows(video_id)
+        round2_dir = Path("gold/mackexplains7/round2")
+
+        worksheet_path = round2_dir / f"{video_id}.worksheet.jsonl"
+        lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+        assert len(lines) == len(windows)
+
+        index = json.loads((round2_dir / f"{video_id}.index.json").read_text(encoding="utf-8"))
+        assert len(index) == len(windows)
+        assert set(index.values()) == {w["window_id"] for w in windows}

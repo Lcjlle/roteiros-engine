@@ -23,6 +23,9 @@ import random
 from datetime import UTC, datetime
 from pathlib import Path
 
+from src.context_budget import build_bundle
+from src.schema_loader import load_ontology
+
 CORPUS_DIR = Path("corpus/mackexplains7")
 MANIFEST_PATH = CORPUS_DIR / "manifesto.csv"
 WINDOWS_DIR = CORPUS_DIR / "windows"
@@ -127,6 +130,65 @@ def write_selection_artifact(
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     return path
+
+
+# --------------------------------------------------------------------------
+# 5. Exportacao dos worksheets de anotacao (round 1 e round 2)
+# --------------------------------------------------------------------------
+
+
+def export_round(
+    video_id: str,
+    round: str,
+    windows_by_video: dict[str, list[dict]],
+    out_dir: Path,
+) -> tuple[Path, Path]:
+    """Exporta o worksheet e o indice de uma rodada de anotacao para um
+    unico video.
+
+    Escreve `out_dir/<round>/<video_id>.worksheet.jsonl` - uma linha JSON
+    por janela do video, na ordem original do video - e
+    `out_dir/<round>/<video_id>.index.json` - o mapeamento
+    `{display_id: window_id}` de todas as janelas.
+
+    Todo bundle (contexto, target, display_id, window_id) vem de
+    `context_budget.build_bundle`; este modulo nunca reimplementa
+    fatiamento de janelas ou a formula de `display_id`. A lista de campos
+    ontologicos do worksheet vem de `schema_loader.load_ontology()`,
+    nunca hardcoded - cada campo comeca com valor `null`, pronto para o
+    dono do projeto anotar a mao.
+
+    Nem o worksheet nem o indice contem qualquer dado variavel entre
+    execucoes (timestamp, nome da rodada, caminho absoluto): o conteudo e
+    puramente deterministico a partir de `(video_id, windows_by_video)`,
+    para que round 1 e round 2 do mesmo video produzam bytes identicos.
+    """
+    ontology_field_names = [field["name"] for field in load_ontology()["fields"]]
+    windows = windows_by_video[video_id]
+
+    worksheet_lines = []
+    index: dict[str, str] = {}
+    for window_index in range(len(windows)):
+        bundle = build_bundle(video_id, window_index, windows_by_video)
+        record = {
+            "display_id": bundle.display_id,
+            "context": bundle.context,
+            "target": bundle.target,
+            **dict.fromkeys(ontology_field_names),
+        }
+        worksheet_lines.append(json.dumps(record, ensure_ascii=False))
+        index[bundle.display_id] = bundle.window_id
+
+    round_dir = out_dir / round
+    round_dir.mkdir(parents=True, exist_ok=True)
+
+    worksheet_path = round_dir / f"{video_id}.worksheet.jsonl"
+    worksheet_path.write_text("\n".join(worksheet_lines) + "\n", encoding="utf-8")
+
+    index_path = round_dir / f"{video_id}.index.json"
+    index_path.write_text(json.dumps(index, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+    return worksheet_path, index_path
 
 
 def main() -> None:
