@@ -476,6 +476,36 @@ def check_channel_roles(
     return problems
 
 
+DECISIONS_HEADER_RE = re.compile(r"^## (\d+)\.", re.MULTILINE)
+
+
+def check_decisions_index_complete(
+    decisions_path: Path = DECISIONS_PATH, entries: tuple[dict, ...] = DECISIONS_INDEX
+) -> list[str]:
+    """`_docs/decisions.md#22`: falha se os numeros de cabecalho `## N.`
+    reais de `_docs/decisions.md` (lidos do texto do arquivo) divergirem,
+    em qualquer direcao, dos numeros presentes em `DECISIONS_INDEX` - as
+    duas fontes descendiam da mesma tupla antes desta funcao, entao sempre
+    concordavam entre si mesmo com a tupla incompleta frente a prosa real
+    (foi assim que a entrada `#26` ficou faltando por uma rodada inteira)."""
+    problems: list[str] = []
+    text = decisions_path.read_text(encoding="utf-8")
+    real_numbers = {int(m.group(1)) for m in DECISIONS_HEADER_RE.finditer(text)}
+    index_numbers = {entry["number"] for entry in entries}
+
+    for number in sorted(real_numbers - index_numbers):
+        problems.append(
+            f"_docs/decisions.md tem o cabecalho '## {number}.' sem entrada "
+            f"correspondente em DECISIONS_INDEX"
+        )
+    for number in sorted(index_numbers - real_numbers):
+        problems.append(
+            f"DECISIONS_INDEX tem a entrada #{number} sem cabecalho "
+            f"'## {number}.' correspondente em _docs/decisions.md"
+        )
+    return problems
+
+
 # ----------------------------------------------------------------------------
 # 3. Medicao - le o artefato real de cada portao, nunca decide o limiar
 # ----------------------------------------------------------------------------
@@ -866,6 +896,7 @@ def check() -> int:
     problems += check_formula_params(portoes["gates"])
     problems += check_decision_refs(portoes["gates"])
     problems += check_channel_roles(portoes["gates"], portoes.get("channels", {}))
+    problems += check_decisions_index_complete()
 
     fresh_estado = render_estado_md(portoes)
     fresh_table = _extract_block(fresh_estado, PORTOES_TABLE_START, PORTOES_TABLE_END)

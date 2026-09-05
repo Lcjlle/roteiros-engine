@@ -1,10 +1,13 @@
 """Testes de `src/estado.py` (Issue #14, `_docs/decisions.md#22`;
-Issue #15, `_docs/decisions.md#25`):
+Issue #15, `_docs/decisions.md#25`; Issue #17):
 
 - `schema/portoes.json` nao diverge dos `fase*_gate.json`/`manifesto.csv`
   reais, das constantes de `src/*.py`, nem tem `decision_ref` pendurado, nem
   tem gate `per_channel` sem `applies_to_roles`, nem `channels` com slug que
   nao bate com um diretorio real de corpus/.
+- `DECISIONS_INDEX` nao diverge dos cabecalhos `## N.` reais de
+  `_docs/decisions.md` em nenhuma direcao (Issue #17: a tupla e o arquivo
+  podiam ficar incoerentes entre si sem `--check` nunca detectar).
 - `_docs/estado.md` e o indice de `_docs/decisions.md` batem exatamente com
   o que `--write` regeneraria - a mesma postura do `TEST_COUNTS`/`alembic
   check` da CI, aqui como teste de suite em vez de passo de workflow.
@@ -157,6 +160,49 @@ class TestCheckChannelRoles:
             [], {"realchan": {"role": "profile_channel"}}, corpus_dir=corpus_dir
         )
         assert problems == []
+
+
+# --------------------------------------------------------------------------
+# check_decisions_index_complete (Issue #17, `_docs/decisions.md#22`)
+# --------------------------------------------------------------------------
+
+
+class TestCheckDecisionsIndexComplete:
+    def test_real_decisions_md_has_no_index_divergence(self):
+        assert estado.check_decisions_index_complete() == []
+
+    def test_missing_entry_26_is_detected_against_real_decisions_md(self):
+        # Issue #17's motivating case: #26 ficou faltando na tupla por uma
+        # rodada inteira sem --check nunca detectar - prova retroativa.
+        entries_without_26 = tuple(e for e in estado.DECISIONS_INDEX if e["number"] != 26)
+        problems = estado.check_decisions_index_complete(entries=entries_without_26)
+        assert len(problems) == 1
+        assert "26" in problems[0]
+
+    def test_detects_real_header_without_index_entry(self, tmp_path):
+        decisions_path = tmp_path / "decisions.md"
+        decisions_path.write_text(
+            "## 1. Primeira\n\ntexto\n\n## 2. Segunda\n\ntexto\n", encoding="utf-8"
+        )
+        problems = estado.check_decisions_index_complete(decisions_path, ({"number": 1},))
+        assert len(problems) == 1
+        assert "2" in problems[0]
+
+    def test_detects_index_entry_without_real_header(self, tmp_path):
+        decisions_path = tmp_path / "decisions.md"
+        decisions_path.write_text("## 1. Primeira\n\ntexto\n", encoding="utf-8")
+        entries = ({"number": 1}, {"number": 2})
+        problems = estado.check_decisions_index_complete(decisions_path, entries)
+        assert len(problems) == 1
+        assert "2" in problems[0]
+
+    def test_matching_headers_and_entries_produce_no_problems(self, tmp_path):
+        decisions_path = tmp_path / "decisions.md"
+        decisions_path.write_text(
+            "## 1. Primeira\n\ntexto\n\n## 2. Segunda\n\ntexto\n", encoding="utf-8"
+        )
+        entries = ({"number": 1}, {"number": 2})
+        assert estado.check_decisions_index_complete(decisions_path, entries) == []
 
 
 # --------------------------------------------------------------------------
