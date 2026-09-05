@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T21:50:47Z",
+  "gates": [
+    {
+      "id": "fase2-window-rate-band",
+      "phase": 2,
+      "metric": "windows per video vs. duration-derived expected rate; duration_min and n_windows measured per video from corpus/{channel}/sentences and corpus/{channel}/windows, the same pair fase2_gate.json already reads",
+      "threshold": {
+        "kind": "formula",
+        "params": {
+          "GATE_WINDOWS_PER_MINUTE": 4.86,
+          "GATE_WINDOWS_PER_MINUTE_BAND": 0.4
+        },
+        "expression": "ceil(duration_min * GATE_WINDOWS_PER_MINUTE * (1 - GATE_WINDOWS_PER_MINUTE_BAND)) <= n_windows <= floor(duration_min * GATE_WINDOWS_PER_MINUTE * (1 + GATE_WINDOWS_PER_MINUTE_BAND))",
+        "unit": "windows_per_video"
+      },
+      "type": "tolerance",
+      "blocking": true,
+      "evaluation": "automatic",
+      "scope": "per_channel",
+      "artifact": "corpus/{channel}/fase2_gate.json",
+      "artifact_pointer": "3d",
+      "decision_ref": ["_docs/decisions.md#14"],
+      "note": "Valor em vigor (4.86) recalibrado e verificado de forma independente dentro do #14, que tambem cita e supera o 5.6 original do #12. Nao remedir sem nova recalibracao decidida."
+    },
+    {
+      "id": "fase6-owner-recognizes-channel",
+      "phase": 6,
+      "metric": "project owner reads perfis/<channel>.perfil.json and recognizes the channel in it",
+      "threshold": {
+        "kind": "qualitative",
+        "statement": "the project owner reads the generated profile and recognizes the channel in it"
+      },
+      "type": "judgment",
+      "blocking": true,
+      "evaluation": "human_judgment",
+      "scope": "per_channel",
+      "artifact": null,
+      "artifact_pointer": null,
+      "result_ref": [],
+      "decision_ref": ["_docs/plano_implementacao.md:595"],
+      "note": "Segundo criterio do portao da Fase 6, deliberadamente subjetivo, do dono, nao do QA (plano:595). Nenhum canal passou pela Fase 6 ainda; result_ref vazio ate um veredito ser registrado."
+    }
+  ]
+}

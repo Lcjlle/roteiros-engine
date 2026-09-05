@@ -1654,3 +1654,348 @@ split.
 separate question, Fase 5's confusion-matrix gate is what tests that, not
 this entry. This entry only fixes how the field already frozen in v1 gets
 aggregated, not what it contains.
+
+## 22. Documentation gets four layers with declared shelf lives: gates and current state become data (`schema/portoes.json`, generated `_docs/estado.md`), narrative documents stop being read as live state - "one number, one place"
+
+Audited the project owner's five named duplication blocks directly against
+the real files, not against a summary of them. All five confirmed, two of
+them actually divergent (not just duplicated); two content bugs found in
+the same pass; one further staleness spot found beyond what was flagged.
+
+**Measured, not assumed:**
+
+| Block | Files | Divergent? | Evidence |
+|---|---|---|---|
+| Gates table | `README.md:231-247` vs `plano:689-703` | yes | `plano:696` still prints the flat pre-`#14` "0" for Fase 2 criterion 3; neither table carries `#16c`'s absolute `<=20/205` for Fase 3, both say only "`< 10%`" |
+| Conventions | `README.md:282-289` vs `plano:169-176` | yes | `plano:175` says `versao_ontologia`/`gerado_em`; real artifacts (`corpus/mackexplains7/fase3_gate.json`) use `ontology_version`/`generated_at`, matching `README.md:288`, contradicting `plano:175` and its own `plano:182` |
+| Phase state | `README.md:40-54`, `plano:84-92`, `plano:754-760` | yes, all three, plus `plano:280` and `plano:330` (not previously flagged) | Issue #11 merged into `main@4c3e165`; every one of these five spots still describes Fase 3 as blocked or upcoming |
+| Language policy | `README.md:11-38` vs `plano:37-83` | no | concordant |
+| `DECISOES.md` description | `AGENTS.md`, `_docs/process.md:16-20`, `DECISOES.md:3-8` | n/a (duplication, not divergence) | near-verbatim in three places |
+
+Content bugs found in the same sweep, out of scope for this entry to fix
+(narrative-document edits happen in the follow-up issue), recorded here so
+they are not lost: `plano:336` ("Os cinco testes de cada campo") undercounts
+- a sixth test follows at `plano:338-344` as an unlabeled paragraph, and
+`_docs/decisions.md#16a` (line 835-836) already calls it "the six tests
+(line 336-344 of the plan)" in settled prose. And `plano:572`'s
+`scale_trajectory` contract shows a flat 3-element array, which `#21`
+supersedes with a per-narrative-third aggregation.
+
+**Diagnosis.** Three document types with different shelf lives share files.
+A plan written before implementation ages by nature - expected. A table of
+thresholds in force cannot age. A decision record is append-only and never
+edited. The gates table went stale because it lives inside the plan and
+inherited the plan's shelf life.
+
+**Decision: four layers, each with a declared shelf life.**
+
+| Layer | Ages? | Who edits | Artifact |
+|---|---|---|---|
+| current state | never - **generated** | script, verified by CI | `_docs/estado.md` |
+| gates and constants | never | only with a new decision | `schema/portoes.json` |
+| decisions | never - append-only | PM and owner | `_docs/decisions.md` |
+| narrative | yes, and that's fine | rarely | `README.md`, `plano_implementacao.md`, `blueprint.md` |
+| operational | yes, when process changes | when process changes | `AGENTS.md`, `_docs/process.md`, `_docs/team/*` |
+
+**Rule: one number, one place.** No threshold, constant, key name, or count
+appears in prose outside the layer that owns it. Explanatory prose may
+repeat freely; a number may not. Number duplication is what produced the
+stale "0" above and the Fase 3 threshold that never got its absolute form
+outside `#16c`.
+
+**`schema/portoes.json` shape.** `{"schema_version": 1, "created_at": "<full
+ISO 8601>", "gates": [...]}`. Array under `gates`, one object per
+independently-evaluated condition - a plan bullet stating two conditions
+(e.g. Fase 6's "schema valida e o dono reconhece o canal") becomes two gate
+rows, not one, each with its own `evaluation`. All keys English; the only
+free-prose field is `note` (PT-BR, `#18`'s test), and `note` never carries a
+measured value - only the threshold's rationale. A measured value lives in
+`artifact`/`result_ref` (pointers to where it was measured/recorded) and is
+reported by the generated `_docs/estado.md` - never copied into
+`portoes.json`.
+
+Fields:
+
+- `id` - kebab-case, `fase<N><letter?>-<slug>`
+- `phase` - integer, 0-10
+- `metric` - what is counted, in English. When `threshold.kind` is
+  `formula`, `metric` (or `note`) must also state what the formula's free
+  variables are measured against (e.g. "`duration_min`/`n_windows`
+  measured per video, from `corpus/{channel}/sentences|windows`, the same
+  pair `fase2_gate.json` already reads") - undeclared free variables in a
+  formula are the same "one number, two meanings" risk this entry exists
+  to close, just one level up from a threshold value.
+- `threshold` - polymorphic by `kind`:
+  - `{"kind": "bound", "op": "<="|">="|"==", "value": number, "unit": string, "denominator"?: number}`
+    - the simple case: one number, a fixed sample
+  - `{"kind": "formula", "params": {<name>: number, ...}, "expression": string, "unit": string}`
+    - parametric per-unit gate (video, minute): `params` are the named
+      constants, `expression` is the literal formula against measured
+      variables. Case: Fase 2 criterion 3d, which does not fit a single
+      `op`/`value` (`_docs/decisions.md#14`). **`expression` is
+      descriptive, never executable** - no parser is planned by this
+      entry, and running `eval()` (or equivalent) over this string is
+      prohibited. If a future phase needs to evaluate it programmatically,
+      that parser is designed there, under review - not improvised over
+      the string.
+  - `{"kind": "qualitative", "statement": string}`
+    - no number: pure human judgment. Implies `type: "judgment"` and
+      `evaluation: "human_judgment"`.
+- `type` - `invariant` | `tolerance` | `thermometer` (`#14`'s taxonomy,
+  exclusive to `kind: "bound"`/`"formula"`) | `judgment` (exclusive to
+  `kind: "qualitative"` - a deliberately subjective call by the project
+  owner, e.g. `plano:595`; never reuses `invariant`, whose `#14` meaning is
+  "the algorithm controls the outcome and failing it is a code defect" -
+  the exact opposite of a deliberately subjective judgment).
+- `blocking` - boolean (`3c`'s `false` comes from this field, never from
+  prose - `#14`).
+- `evaluation` - `automatic` | `human_judgment`, required.
+- `scope` - `global` | `per_channel`, required. `global`: the gate fires
+  once for the whole system and never re-blocks a new channel.
+  `per_channel`: the gate runs again, blocking, every time a channel goes
+  through that phase.
+- `artifact` - path to the structured file the measured value is read
+  from. Required when `evaluation: automatic`; `null` when
+  `human_judgment` with no supporting worksheet. `{channel}` is the
+  template placeholder when `scope: per_channel`. **A gate whose
+  `artifact` file does not exist yet is "declared, not measured" - the
+  `_docs/estado.md` generator must report it as such, never as failed.**
+  This applies today to every not-yet-run automatic gate (Fase 4's α,
+  Fase 5's α, 5C's smoothing rate): their rows exist in `portoes.json` with
+  an `artifact` template pointing at a file that will only exist once that
+  phase actually runs.
+- `artifact_pointer` - optional, dotted path inside `artifact` when several
+  sub-results share one file (e.g. `3d` inside `fase2_gate.json`, which
+  already carries 3a/3b/3c/3d).
+- `result_ref` - list of references to where a human-judgment verdict was
+  recorded - never the verdict itself. Required (may be `[]` explicitly)
+  when `evaluation: human_judgment`; absent when `automatic`. `[]` is the
+  same "declared, not measured" state `artifact`-not-existing-yet
+  represents on the automatic side - never read as a fail.
+- `decision_ref` - **list**, one or more items, each in one of two forms:
+  `_docs/decisions.md#N[letter]` or `_docs/plano_implementacao.md:LINE[-LINE2]`
+  (for original thresholds that only the plan ever fixed - the follow-up
+  issue does not write a retroactive decisions.md entry for those; the
+  `plano:LINE` form is a legitimate, permanent citation, not a pending
+  gap). List because a value can be fixed in one entry and
+  revised/restructured in another without the first losing relevance -
+  every item listed must remain authoritative for the value in force; a
+  purely-superseded entry (e.g. `#12`, whose `5.6` was entirely replaced by
+  `#14`'s `4.86`) does not join the list just because it is history -
+  history is read inside the entry in force, which already cites the
+  superseded one.
+  **Test, two failure modes, not one:** rejects a `decision_ref` item whose
+  target does not exist, **and** rejects one whose target's `Status` (in
+  the generated `decisions.md` index this same wave adds) reads
+  `superseded por #N` - a stale reference is exactly as wrong as a missing
+  one, and the generated index is what makes "stale" mechanically
+  checkable instead of requiring a human to read both entries. This ties
+  `portoes.json`'s guard to the index, so the two deliverables of this wave
+  validate each other instead of drifting independently.
+  When populating: each `decision_ref` item is checked one by one against
+  the source that actually fixes/revises that number - never deduced by
+  temporal proximity. (`#14` vs. `#12` on `GATE_WINDOWS_PER_MINUTE` is the
+  worked example: `#12`'s own "Decision:" block fixes `5.6` and never
+  states `4.86` anywhere in its text, lines 348-427; `#14`'s own prose,
+  lines 658-670, states it recalibrated and independently re-verified the
+  value, rounding to `4.86` - confirmed a third way, independent of both
+  entries' prose, against `src/janelas.py:41`'s live constant and
+  `corpus/mackexplains7/fase2_gate.json`'s persisted `constants` block,
+  both `4.86`. `decision_ref` for that gate is `["_docs/decisions.md#14"]`
+  alone - `#14` is self-contained, so `#12` does not join the list.)
+- `note` (optional) - PT-BR, the only free-prose field, never a measured
+  value - only the threshold's rationale.
+
+**Constants duplicated between `src/` and `portoes.json`.**
+`GATE_WINDOWS_PER_MINUTE`/`GATE_WINDOWS_PER_MINUTE_BAND` already exist in
+`src/janelas.py`, get persisted into `fase2_gate.json`'s `constants` block
+at each measurement (legitimate - a record of what was in force at
+measurement time, same role as `ontology_version`), and `portoes.json`
+would be a third copy. `portoes.json` documents; it does not become the
+execution source in this wave - that would require
+`src/janelas.py`/`coleta.py` to read from it at runtime, a behavior change
+to an already-tested, frozen module, and would duplicate the loader design
+the F3-b issue (`src/schema_loader.py`) is going to build for the
+ontology's `Enum`s. Building two divergent loaders for the same kind of
+problem, one now and one in F3-b, is worse than one copy with a guard.
+Instead: **a test, in the follow-up issue's acceptance criteria, fails if
+any `kind: "formula"` gate's `params` diverge from the matching constants
+in `src/*.py`** - same pattern as the JSON<->Enum test already planned for
+F3-b. When a future phase builds the general loader that reads thresholds
+from `schema/`, the duplication disappears by construction; until then the
+test is the guard.
+
+**Scope of this entry.** Authorizes, does not itself perform: creating
+`schema/portoes.json` (full population, all phases, each `decision_ref`
+checked one by one against its real source, not deduced by proximity),
+`_docs/estado.md` (generated from `fase*_gate.json` files +
+`portoes.json`'s declared-but-unmeasured rows + `git rev-parse HEAD` + open
+issues by `fase-N` label, with a CI regenerate-and-compare step, same
+posture as `TEST_COUNTS`/`alembic check`), the generated PT-BR index at the
+top of `decisions.md` (one line per entry: number, phase, one sentence,
+`Status: vigente` or `Status: superseded por #N`, itself tested for
+dangling `Status` targets - the escape hatch `#18` already reserved), the
+per-phase `Estado:` header in `plano_implementacao.md` (`executado` or
+`intenção, não executado`), the dedup of the five blocks above (pointers,
+not repeats), the two content-bug fixes, and the `AGENTS.md`/`process.md`
+mandatory-reading change (`estado.md` + `portoes.json` + the decisions
+index always; a full entry only when its subject is touched; the plan
+drops out of mandatory reading for executed phases). All of that is the
+follow-up issue's work, not this entry's.
+
+**Related, filed separately.** Designing `scope` surfaced a real gap in
+Fase 8's single "`>= 90%` dos criterios" line (`plano:625-654`) - it
+conflates a once-only anticircular calibration against holdout with a
+per-script, per-channel production report, the same kind of packed claim
+`#14` already split for Fase 2 criterion 3. Filed as Issue #13
+(`fase-8` label), not decided here - same posture as `#6`/`#12`, found
+during another phase's grooming, archived against the phase that actually
+needs it.
+
+**Rejected, not reopened.** No gate threshold changes value in this wave.
+Where a prose copy disagrees with a measured or decided value, the
+measured/decided value wins and the divergence gets reported in
+`portoes.json`'s population step, never silently written over - a value
+that needs to actually change is a separate decision, not a side effect of
+moving it into data. `schema/ontologia.v1.json`, `schema/codebook.md`, and
+the frozen Fase 2/3 artifacts (`fase2_gate.json`, `fase2_sample.md`,
+`fase3_gate.json`, `fase3_coverage.md`, `sentences/`, `windows/`) stay
+read-only inputs to this entry, same as `#16` left them for Fase 3.
+
+## 23. Two process corrections surfaced while grooming the documentation wave (`#22`): `fase-N` is a per-phase-issue rule, not a per-issue one; "main é para... os docs" only ever meant documentation *content*, not documentation *tooling*
+
+Grooming the `#22` follow-up issue (four documentation layers:
+`schema/portoes.json`, generated `_docs/estado.md`, the decisions.md
+index, per-phase plan headers) hit two process gaps neither a product
+decision nor `#22` itself resolves - technical/process calls, made here
+per `_docs/team/pm.md`.
+
+**(a) Labels.** `_docs/process.md`'s Labels section read "Toda issue
+carrega exatamente uma [`fase-N`]", written before any issue existed that
+belonged to no phase. This issue is documentation infrastructure across
+every phase, and is the very issue that edits `process.md`. Decision: the
+rule narrows to phase issues ("toda issue **de fase** carrega exatamente
+uma `fase-N`"), not widened with an exception clause - a universal claim
+that was only ever true of a subset is corrected at the subset, not
+patched with a growing exclusion list. This issue itself carries the
+existing default `documentation` label, no `fase-N`.
+
+**(b) "Main é para... os docs."** The same section's integration rule
+("Nada é implementado no checkout principal. Main é para grooming,
+integração e os docs") conflated documentation *content* (prose, safely
+edited on main) with documentation *tooling* (a generator script, its
+tests, a CI step - code, same as any module in `src/`). This wave adds
+exactly that tooling, and left unclarified, the sentence would license
+skipping the worktree/branch/engineer/QA lifecycle for it, on the
+reasoning "it's a documentation issue." Decision: reworded so "os docs"
+names only the prose files enumerated in the reworded sentence; anything
+else, regardless of subject matter, goes through a worktree like every
+other issue. See `_docs/process.md` for the exact text in force.
+
+Neither correction changes any gate threshold, corpus number, or ontology
+content. Both are process-text edits, landed in the same commit as this
+entry.
+
+## 24. `_docs/decisions.md` index gets a third `Status`: `parcialmente superseded por #N (fragmento)`, not just vigente/superseded - found while grooming the `#22` follow-up, not assumed
+
+`#22` specified the generated index's `Status:` field as binary -
+`vigente` or `superseded por #N` - without considering an entry that is
+only *partly* replaced. Grooming the `#22` follow-up issue hit a real
+instance of exactly that case, so the convention is fixed here, before the
+issue is implemented, per the same "decision before issue" discipline
+`#22` itself was written under.
+
+**Verified, not assumed: `#12`/`#14` is full supersession, `#19`/`#20` is
+partial.** `#12`'s entire content is one thing - criterion 3's per-video
+window-count band, `GATE_WINDOWS_PER_MINUTE = 5.6` (lines 382-392) - and
+`#14` restructures that whole gate into 3a/3b/3c/3d, restating the same
+formula with the recalibrated `4.86` (lines 658-677) and stating outright
+it "supersedes item #12's `GATE_WINDOWS_PER_MINUTE=5.6` with `4.86`"
+(lines 724-727). Nothing in `#12` survives outside what `#14` already
+carries - full supersession, matching `#22`'s own worked example (lines
+1783-1805) and `schema/portoes.json`'s existing `note` ("supera," not
+"parcialmente supera," the `5.6` original).
+
+`#19`/`#20` is different in kind, not degree. `#20` says so explicitly,
+naming a clause, not the entry (line 1394): "**Rule, re-anchored
+(supersedes `#19`'s "prior windows in the same video")**." Line 1407-1409:
+"**Everything else in `#19`'s rule is unchanged**: when a pivot exists,
+code the closing content, never the opening/preview, regardless of word
+count, sentence count, or salience." `#19`'s core decision (Direction A,
+no new structural-pivot field, the four applied window labels, its own
+"what this does not reopen") remains authoritative today; `#20` replaces
+only: the phrase "prior windows in the same video" (scope fix, 3-window
+budget), `5unhHRFkC7I:j0075`'s status as a confirmed boundary window
+(reversed - its `function` label is untouched), and the round-2
+correction's stated reasoning for excluding `j0075` (line 1489). A weaker
+secondary case with the same shape: `#4` supersedes only `#3`'s `>= 21`
+floor (lines 143-145), leaving `#3`'s `collect()`-writes-incrementally
+decision untouched and still in force in `src/coleta.py` today.
+
+**Decision: `Status:` is three-way.**
+
+- `Status: vigente` - nothing in the entry is superseded.
+- `Status: superseded por #N` - **unqualified**, means the entry's entire
+  decision content is replaced/restructured by `#N` (the `#12`/`#14`
+  case). Purely historical; not a valid `decision_ref` target.
+- `Status: parcialmente superseded por #N (fragmento)` - **the
+  parenthetical is required, not optional**, and must name the specific
+  clause, value, or classification `#N` replaces (the `#19`/`#20` case:
+  `Status: parcialmente superseded por #20 (a frase "prior windows in the
+  same video" da regra de pivo; classificacao de boundary de
+  5unhHRFkC7I:j0075)`). A bare "parcialmente superseded por #N" with no
+  fragment named is not a valid index entry - it states that something
+  changed without saying what, which is indistinguishable from not having
+  checked, and defeats the reason this index exists.
+
+**Correction, in place** (same posture as item #16's median/mean and
+`read_manifesto` fixes - the convention is unchanged, the worked example
+was incomplete). The `Status` line above for `#19` named two fragments
+`#20` replaces and missed a third, equally real one: `#20` also replaced
+the boundary-window **rate and confirmed-window list** itself, not just
+the pivot rule's wording and one window's classification. `#20`'s own
+text says so explicitly (line 1512): "**6/205 = 2.9%, not `#19`'s 5/205 =
+2.4%**." The corrected, complete line is:
+
+`Status: parcialmente superseded por #20 (a frase "prior windows in the
+same video" da regra de pivo; classificacao de boundary de
+5unhHRFkC7I:j0075; taxa e lista de janelas de fronteira confirmadas,
+5/205 -> 6/205)`
+
+This is not a cosmetic gap. The immediately following paragraph already
+uses the 5/205 rate as its own illustration of a citation that would
+slip past the mechanical test - which only works as an illustration if
+that rate is in fact a dead fragment of `#19`, meaning it belongs in the
+named parenthetical, not outside it. An incomplete fragment list is worse
+than none: it lets a future `decision_ref` cite `#19` for the very number
+`#20` killed while the `Status` line looks like it already accounted for
+everything superseded. **Generalized rule for populating all 24 entries:**
+when an entry supersedes more than one clause, value, or classification,
+every one of them is named - not the first one found while checking.
+
+**What the mechanical test does and does not catch - stated here so the
+guard's real coverage is not overclaimed.** The `decision_ref`
+dangling-target test (`#22`) rejects only the **unqualified**
+`superseded por #N` string; both `vigente` and a properly-fragmented
+`parcialmente superseded por #N (...)` pass it. This is a real, accepted
+gap, not a solved problem: a `decision_ref` citing a partially-superseded
+entry **for the exact dead fragment** passes the test, because the test
+has no way to know which fragment inside the cited entry a given
+`decision_ref` relies on - only a human reading the entry's text at
+population time can tell that, say, `#19` cited for its old 5/205
+boundary-window rate would be citing a number `#20` already killed, even
+though `#19`'s `Status` correctly reads `parcialmente superseded` and
+therefore passes. The test catches the case where an entire entry is dead
+and something still points at it; it does not catch citing a dead part of
+an entry that is still partly alive. The defense against that remaining
+gap is the same one `#22` already names for every `decision_ref`: checked
+one by one against the source that actually fixes the specific value,
+never by matching on `Status` alone and never by temporal proximity.
+
+This entry is itself an instance of what it describes: it partially
+supersedes `#22`'s `Status:` convention (the binary vigente/superseded
+wording) and nothing else in `#22` - `#22`'s four-layer model, its
+`schema/portoes.json` field shapes, its scope authorization, and its
+"Rejected, not reopened" clause all remain unchanged and in force. When
+the generated index is built, `#22`'s own row reads `Status: parcialmente
+superseded por #24 (a definicao binaria de Status no campo decision_ref)`.
