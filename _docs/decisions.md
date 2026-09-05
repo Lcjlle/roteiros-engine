@@ -2372,3 +2372,34 @@ not itself perform: adding `channels`/`applies_to_roles` to
 call site, and regenerating `_docs/estado.md` - all of that is the
 follow-up issue's work, in a worktree, per `_docs/process.md`, same
 posture `#22` set for its own follow-up.
+
+## 26. `scripts/pin_worktree_database.py` pins each worktree's own `DATABASE_URL` via a generated `sitecustomize.py`, starting a `scripts/` directory convention
+
+Issue #5. Closes, automatically, the gap `_docs/process.md`'s "Uma
+pegadinha que vale saber" section previously guarded only by manual
+discipline: a real `DATABASE_URL` exported by the shell that launched a
+session wins over `load_dotenv()` by design (`src/db.py`'s own
+documented behavior, unchanged), which silently puts every worktree back
+on the same database unless someone remembers to prefix every command or
+probe first.
+
+**Where it lives, and why.** `scripts/pin_worktree_database.py` - this
+repo has no `scripts/` directory yet, so this issue starts that
+convention for one-off dev-infra tooling that is neither a pipeline
+module (`src/`) nor a test.
+
+**When it runs.** Once, as a step in `_docs/process.md`'s worktree-setup
+sequence, placed right after `uv sync` (which can recreate `.venv` and
+wipe out an earlier `sitecustomize.py`) and right after `.env` is copied
+into the worktree, before `CREATE DATABASE`/`alembic upgrade head`. The
+generated `sitecustomize.py` reads `.env` dynamically at every Python
+startup rather than baking a `DATABASE_URL` value in when the script
+runs, so ordering it right after the `.env` copy (rather than before)
+costs nothing and removes any doubt about whether the pin is live before
+`.env` exists.
+
+No new dependency in `pyproject.toml` - the script and the
+`sitecustomize.py` it writes both parse `.env` with the standard library
+only. No database table added or changed; `src/db.py`'s documented
+production/CI behavior (a real env var with no `.env` present keeps
+winning) is unchanged.
