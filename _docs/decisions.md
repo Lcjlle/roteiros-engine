@@ -7,6 +7,84 @@ re-litigating them.
 Where this file and `_docs/plano_implementacao.md` or `_docs/blueprint.md`
 disagree, this file wins.
 
+## Indice
+
+<!-- DECISIONS_INDEX_START -->
+
+**#1** (transversal) - Postgres entra no stack ao lado do arquivo, não no lugar dele - schema/, codebook.md e perfis/ continuam arquivo; estado operacional pode virar tabela, decisão de issue futura.
+Status: vigente
+
+**#2** (transversal) - Isolamento de teste: banco `<db>_test` dedicado por worktree, cada teste roda numa transação com rollback (`join_transaction_mode="create_savepoint"`).
+Status: vigente
+
+**#3** (Fase 1) - Corpus da Fase 1 de @Zenn0009 aceito com 21 vídeos (não 30) depois do bloqueio de IP no vídeo 22/30 - redução autorizada pelo dono, não bug.
+Status: parcialmente superseded por #4 (o piso ">= 21" vídeos para @Zenn0009)
+
+**#4** (Fase 1) - Corpus de @Zenn0009 completado para 30 via fallback whisperX (GPU, batch_size=4, um subprocesso por vídeo) em vez de esperar o bloqueio de IP das legendas ceder.
+Status: vigente
+
+**#5** (Fase 1) - whisperX continua fallback, não vira caminho padrão de coleta - legenda continua primeira tentativa mesmo sabendo que o bloqueio de IP vai se repetir a cada canal novo.
+Status: vigente
+
+**#6** (Fase 1) - Sorteio de holdout: semente fixa 42, alvo 5 vídeos, piso 4 - abaixo disso o canal reprova o critério prático em vez de encolher mais.
+Status: vigente
+
+**#7** (Fase 1) - Manifesto ganha coluna `role` (`profile`/`holdout`), em inglês por ser identificador de dado novo, mesmo o resto do manifesto sendo PT-BR por dívida aceita.
+Status: vigente
+
+**#8** (Fase 1) - `WORDS_PER_MINUTE` de `src/coleta.py` corrigido de 140 para 150, para bater com o texto do portão da Fase 1 que sempre disse ~150 palavras/minuto.
+Status: vigente
+
+**#9** (Fase 1) - Corpus de @MackExplains7 fechado: 30 `profile` + 5 `holdout`, whisperX nos 30 `profile` depois do mesmo bloqueio de IP de @Zenn0009 se repetir.
+Status: vigente
+
+**#10** (Fase 2) - Fase 2 grooming: storage em arquivo (não Postgres), modelo `sat-3l-sm` do wtpsplit, `SAMPLE_SEED = 42`, escopo desta passada é só @MackExplains7.
+Status: vigente
+
+**#11** (Fase 2) - Portão da Fase 2, critério 3, medido FAIL real contra @MackExplains7 (106-141 janelas/vídeo) - contingência do plano (baixar `WINDOW_MAX_WORDS`) tentada e medida pior, causa raiz identificada como `WINDOW_MAX_SENTENCES` combinado com as sentenças reais do canal.
+Status: vigente
+
+**#12** (Fase 2) - Bandas fixas do critério 3 (`GATE_MIN/MAX_WINDOWS_PER_VIDEO = 25/60`) substituídas por uma banda proporcional à duração, `GATE_WINDOWS_PER_MINUTE = 5.6 +-40%`.
+Status: superseded por #14
+
+**#13** (Fase 2) - `group_windows()` passa a perseguir ativamente `WINDOW_MIN_SENTENCES` antes de fechar uma janela não-final, aceitando estourar `WINDOW_MAX_WORDS` até `GATE_MAX_WINDOW_WORDS` para chegar lá - correção de especificação, não decisão nova.
+Status: vigente
+
+**#14** (Fase 2) - Critério 3 do portão da Fase 2 reestruturado em 3a/3b (invariantes, tolerância zero), 3c (termômetro do canal, `blocking: false`, <= 15%) e 3d (tolerância, banda recalibrada para `GATE_WINDOWS_PER_MINUTE = 4.86 +-40%`).
+Status: vigente
+
+**#15** (Fase 2) - Issue #8 (`sentence_cut` FAIL): causa raiz fixada na sentenciação (M2), não no portão de janelas - confiança de fronteira do SaT sozinha não discrimina os casos.
+Status: vigente
+
+**#16** (Fase 3) - Grooming da Fase 3: @Zenn0009 ratificado como canal do teste de transferência, receita determinística de ~20 janelas (2 vídeos, semente 42), par de vídeos do teste de cobertura reaproveitado da Fase 2 (`lkLwp9o7Djk`/`5unhHRFkC7I`, 205 janelas, teto absoluto de 20), formato de citação do codebook (citação literal + `window_id`).
+Status: vigente
+
+**#17** (Fase 2) - Critério 1 do portão da Fase 2 passou exatamente no limite (5 de 50) - aceito como pass, registrado, não remedido nem reamostrado.
+Status: vigente
+
+**#18** (transversal) - Política de idioma: a tabela do README estava errada em três pontos (os arquivos reais estavam certos) - tabela reclassificada, nada traduzido.
+Status: vigente
+
+**#19** (Fase 3) - Issue #11 (tie-breaker de fronteira de `function`): reescrito para exigir zero lookahead e zero contagem de palavras, depois de dois FAILs seguidos de QA na mesma classe de defeito.
+Status: parcialmente superseded por #20 (a frase "prior windows in the same video" da regra de pivô; classificação de boundary de 5unhHRFkC7I:j0075; taxa e lista de janelas de fronteira confirmadas, 5/205 -> 6/205)
+
+**#20** (Fase 3) - Tie-breaker de fronteira de `function` reancorado ao contexto real que o anotador recebe na chamada (3 janelas anteriores, não o vídeo inteiro); "developed before" operacionalizado como semântico, nunca lexical.
+Status: vigente
+
+**#21** (Fase 6) - `scale` fica em v1 e a Fase 6 (`M7`) agrega `scale_trajectory` por terço narrativo do vídeo, nunca como distribuição marginal - decidido durante a Fase 3, medido antes de a Fase 6 ser groomada.
+Status: vigente
+
+**#22** (transversal) - Documentação ganha quatro camadas com prazo de validade declarado: portões e estado viram dado (`schema/portoes.json`, `_docs/estado.md` gerado), documentos narrativos param de ser lidos como estado vivo - "um número, um lugar".
+Status: parcialmente superseded por #24 (a definição binária de Status no campo decision_ref)
+
+**#23** (transversal) - Duas correções de processo: `fase-N` é regra de issue de fase, não de toda issue; "main é para... os docs" só vale para o conteúdo da documentação, não para a ferramenta que a gera.
+Status: vigente
+
+**#24** (transversal) - Índice de `_docs/decisions.md` ganha um terceiro `Status`: `parcialmente superseded por #N (fragmento)`, além de vigente/superseded - o binário do #22 não dava conta do caso #19/#20.
+Status: vigente
+
+<!-- DECISIONS_INDEX_END -->
+
 ## 1. Postgres joins the stack, alongside file - not instead of it
 
 `src/db.py` (SQLAlchemy) and `migrations/` (Alembic) are real infrastructure

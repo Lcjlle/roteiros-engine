@@ -83,13 +83,7 @@ Os diretórios já commitados são em português: `corpus/`, `perfis/`, `saidas/
 
 ## Estado das fases
 
-| Fase | Estado | Observação |
-|---|---|---|
-| 0 · Decisões | **completa** | cinco decididas, ver `DECISOES.md` |
-| 1 · Coleta | **código pronto e validado** | fixture `zenn0009`, 30 vídeos (`decisions.md#3`, `#4`) |
-| 2 · Sentenciação | **pode rodar agora** | não depende do canal definitivo |
-| 3 · Ontologia | bloqueada | espera Fase 1+2 sobre o canal definitivo (`@MackExplains7`) |
-| 4–10 | pendentes | |
+Ver o cabeçalho `**Estado:**` logo abaixo de cada `## Fase N` mais abaixo - fases 0-3 executadas, fases 4-10 intenção, não executada. Não repetido aqui como tabela para não virar uma segunda cópia que pode divergir da primeira.
 
 ### Fase 0 resolvida
 
@@ -160,7 +154,7 @@ Com 5 canais, isso são ~18.000 chamadas e um dia de run. Não é proibitivo, ma
 
 Três defesas:
 
-- **Cada perfil grava `versao_ontologia`.** Já está no contrato de dados. Perfil de versão diferente não é comparável e o código deve recusar comparar.
+- **Cada perfil grava `ontology_version`.** Já está no contrato de dados. Perfil de versão diferente não é comparável e o código deve recusar comparar.
 - **Corpus anotado é guardado, não descartado.** Reanotar exige as janelas, não a coleta de novo.
 - **A Fase 3 merece o cuidado desproporcional** que este plano já pede. É mais barato passar duas semanas na ontologia do que reanotar cinco canais.
 
@@ -172,7 +166,7 @@ Três defesas:
 - **IDs:** `video_id` é o ID do YouTube. `sent_id` é `<video_id>:s0000`, `janela_id` é `<video_id>:j0000`, `bloco_id` é `<video_id>:b0000`.
 - **Tempo:** segundos em float, relativos ao início do vídeo.
 - **Nulos:** ausente = não se aplica. `null` = aplica-se mas indeterminado. Nunca omitir silenciosamente.
-- **Versionamento:** todo artefato derivado carrega `versao_ontologia` e `gerado_em` (ISO 8601).
+- **Versionamento:** todo artefato derivado carrega `ontology_version` e `generated_at` (ISO 8601) — ver `README.md`, Convenções. Os nomes em português (`versao_ontologia`/`gerado_em`) nunca existiram nos artefatos reais, só nesta frase.
 - **Idioma:** ver a seção normativa acima.
 
 ---
@@ -231,6 +225,8 @@ pos_start_pct · pos_end_pct · smoothed
 
 ## Fase 0 — Decisões
 
+**Estado:** executado
+
 **Decididas:** duração-alvo (10–12 min), uso não comercial, canal-fixture usado para validar a coleta (`@Zenn0009`), canal de referência definitivo (`@MackExplains7`, `DECISOES.md#4`) e modelo de anotação (Claude Sonnet 5, `DECISOES.md#5`).
 
 **Correção já aplicada em `DECISOES.md`:** o item 1 afirmava que métricas precisam de recalibração para PT-BR. Corrigido nesta substituição — corpus e saída são em inglês, `textstat` e as métricas de ritmo se aplicam diretamente. A comunicação do projeto com humanos continua em PT-BR — ver a política de idioma acima.
@@ -239,7 +235,9 @@ pos_start_pct · pos_end_pct · smoothed
 
 ## Fase 1 — Coleta
 
-**Estado:** código implementado e validado contra o canal-fixture `zenn0009` (30 vídeos: 21 legenda, 9 whisperX). Ver `decisions.md#3` e `#4`.
+**Estado:** executado
+
+Código implementado e validado contra o canal-fixture `zenn0009` (30 vídeos: 21 legenda, 9 whisperX). Ver `decisions.md#3` e `#4`.
 
 **O que muda na v3.0:** a Fase 1 deixa de ser "rodou uma vez" e passa a ser **rodada uma vez por canal**. Quatro ajustes decorrem disso.
 
@@ -277,7 +275,9 @@ Se o corpus misturar legenda e whisperX — o caso normal, dado o item 2 acima �
 
 ## Fase 2 — Sentenciação
 
-> **Pode rodar agora**, usando `zenn0009` como fixture. Não depende da ontologia nem do canal definitivo.
+**Estado:** executado
+
+> **Executado** contra `@MackExplains7` (`_docs/decisions.md#10`-`#17`; portão medido em `corpus/mackexplains7/fase2_gate.json`, 3.103 janelas, `passed: true`). Não dependia da ontologia nem do canal definitivo, e foi por isso que pôde rodar antes deles.
 
 **Objetivo:** transformar texto corrido em sentenças, e agrupá-las em janelas de anotação.
 
@@ -327,21 +327,22 @@ O critério 1 exige julgar "função narrativa" antes da ontologia existir. Isso
 
 ## Fase 3 — A ontologia autoral
 
-> **Bloqueada** até a Fase 1 e a Fase 2 rodarem sobre o canal de referência definitivo, `@MackExplains7` (`DECISOES.md#4`). Os exemplos do codebook saem do corpus dele — a decisão de qual canal não substitui o corpus real.
+**Estado:** executado
+
+> **Executado** sobre o canal de referência definitivo, `@MackExplains7` (`DECISOES.md#4`, Issue #11, `main@4c3e165`). Os exemplos do codebook saem do corpus dele — a decisão de qual canal não substitui o corpus real.
 
 **Esta é a fase que decide o projeto**, e na v3.0 ela decide mais do que antes: a ontologia é global e vai ser aplicada a todos os canais futuros.
 
 `schema/ontologia.v1.json` e `schema/codebook.md` estão na lista de conflito de `process.md`. **Uma issue só, sem paralelismo.**
 
-### Os cinco testes de cada campo
+### Os seis testes de cada campo
 
 1. **Observável** — decidível olhando o texto, sem saber o assunto.
 2. **Fechado** — conjunto finito e enumerado.
 3. **Mutuamente exclusivo** — se dois valores podem ser ambos verdadeiros, são dois campos.
 4. **Agregável** — faz sentido contar ou tirar média entre 30 vídeos.
 5. **Decidível em janela** — decidível em 2–4 sentenças mais contexto anterior. Categorias que exigem ver o vídeo inteiro não sobrevivem; reformule em termos locais ou corte.
-
-**Sexto teste, novo na v3.0: transferível entre canais.** A categoria descreve o *formato* ou aquele canal específico? Se você não consegue imaginá-la aplicada a outro canal do mesmo gênero, ela é idiossincrasia e vai atrapalhar quando o segundo perfil chegar.
+6. **Transferível entre canais** — novo na v3.0. A categoria descreve o *formato* ou aquele canal específico? Se você não consegue imaginá-la aplicada a outro canal do mesmo gênero, ela é idiossincrasia e vai atrapalhar quando o segundo perfil chegar.
 
 ### Proposta de partida
 
@@ -441,6 +442,8 @@ Prompt e classes Pydantic são **gerados a partir deste arquivo**. Um teste que 
 
 ## Fase 4 — Gold standard
 
+**Estado:** intenção, não executado
+
 **Ferramenta:** `doccano` (MIT).
 
 O ⚠️ do holdout da v2.0 **saiu**: o split continua 5 gold + 25 batch, e o holdout vem de fora dos 30 (Fase 1).
@@ -466,6 +469,8 @@ O ⚠️ do holdout da v2.0 **saiu**: o split continua 5 gold + 25 batch, e o ho
 ---
 
 ## Fase 5 — Anotação, fusão e validação
+
+**Estado:** intenção, não executado
 
 **Ferramentas:** `instructor` (MIT) sobre Pydantic; `simpledorff` ou `krippendorff`.
 
@@ -529,6 +534,8 @@ Determinística e com **teste unitário obrigatório**, incluindo os casos de bo
 
 ## Fase 6 — Agregação do perfil
 
+**Estado:** intenção, não executado
+
 **Ferramentas:** `pandas`; `textstat` (MIT); `faststylometry` opcional.
 
 **A recalibração PT-BR da v2.0 saiu.** Corpus e saída em inglês; `textstat` se aplica diretamente.
@@ -569,7 +576,11 @@ Determinística e com **teste unitário obrigatório**, incluindo os casos de bo
   "style": {
     "readability": {"metric": "flesch_reading_ease", "range": [52, 66]},
     "words_per_sentence": [12, 19],
-    "scale_trajectory": ["individual","human","planetary"]
+    "scale_trajectory": {
+      "first_third": {"human": [0.50, 0.65], "individual": [0.15, 0.25], "planetary": [0.10, 0.20], "abstract": [0.02, 0.08]},
+      "middle_third": {"human": [0.75, 0.85], "individual": [0.10, 0.18], "abstract": [0.02, 0.06]},
+      "final_third": {"human": [0.40, 0.55], "abstract": [0.20, 0.32], "individual": [0.05, 0.12], "planetary": [0.08, 0.15]}
+    }
   },
 
   "tone_examples": {"hook": ["<short literal excerpt>"], "mechanism": ["..."]},
@@ -600,6 +611,8 @@ Determinística e com **teste unitário obrigatório**, incluindo os casos de bo
 
 ## Fase 7 — Motor de geração
 
+**Estado:** intenção, não executado
+
 **1. Plano antes da prosa.** A primeira chamada produz blocos vazios:
 
 ```json
@@ -624,6 +637,8 @@ Determinística e com **teste unitário obrigatório**, incluindo os casos de bo
 
 ## Fase 8 — Verificador automático
 
+**Estado:** intenção, não executado
+
 **Python puro, sem LLM.**
 
 | # | Critério | Fonte no perfil |
@@ -647,7 +662,7 @@ Saída: relatório com aprovado/reprovado **e o valor medido**. O valor medido �
 
 **Calibração anticircular:** rode nos 4–5 vídeos de holdout reservados na Fase 1, depois no corpus. Eles deveriam passar. **Se os vídeos reais do canal reprovam no próprio verificador, as faixas do perfil estão erradas** — provavelmente mín–máx em vez de percentis.
 
-`src/verifica.py` é o script de portão que `process.md` nomeia no passo 3 da fila de merge.
+`src/verifica.py` é o script de portão que `process.md` nomeia no passo 4 da fila de merge.
 
 **Portão:** ≥ 90% dos critérios.
 
@@ -656,6 +671,8 @@ Saída: relatório com aprovado/reprovado **e o valor medido**. O valor medido �
 ---
 
 ## Fase 9 — Produção do vídeo
+
+**Estado:** intenção, não executado
 
 **Só quando a Fase 8 estiver estável por vários roteiros.**
 
@@ -672,6 +689,8 @@ Saída: relatório com aprovado/reprovado **e o valor medido**. O valor medido �
 
 ## Fase 10 — Operação multi-canal
 
+**Estado:** intenção, não executado
+
 > **Reenquadrada na v3.0.** Não é mais teste de escala; é o modo normal.
 
 Para cada canal novo: Fases 1, 2, 4, 5 e 6, **sem tocar em `src/`**. Se precisar mudar código, algo que deveria ser parâmetro virou premissa.
@@ -686,20 +705,20 @@ Nesse caso, avalie se é (a) ontologia insuficiente — então `v2` **aplicada a
 
 ---
 
-## Portões, em uma tabela
+## Portões de qualidade, em uma tabela
 
-| Fase | Portão | Limite |
+O limiar em vigor de cada portão vive em `schema/portoes.json`; a leitura sempre-atual, validada por CI contra esse arquivo, é a tabela de portões renderizada em `_docs/estado.md` - não repita o número aqui, esta tabela existe só para orientar por que cada portão existe.
+
+| Fase | Portão | Por que existe |
 |---|---|---|
-| 1 | linhas `profile` + `holdout` no manifesto | 30 + 4–5 |
-| 2 | janelas com duas funções, em amostra de 50 | ≤ 5 |
-| 2 | sentenças cortadas, mesma amostra | 0 |
-| 2 | janelas fora da faixa estrutural, nos 30 | 0 |
-| 3 | janelas em "outro"/dúvida, em 2 vídeos | < 10% |
-| 4 | α autoconcordância humano × humano | ≥ 0,8 |
-| **5** | **α modelo × humano, por campo, em janela** | **≥ 0,667** |
-| 5C | taxa de suavização | ≤ 15% |
-| 6 | validação de `perfil.schema.json` | passa |
-| 8 | critérios do verificador | ≥ 90% |
+| 1 | Corpus coletado (linhas `profile`/`holdout`, cobertura de palavras) | canal pequeno demais ou transcrição ruim não sustenta um perfil |
+| 2 | Estrutura das janelas de anotação | janela grande demais, com duas funções, ou cortada no meio confunde o anotador antes mesmo de a ontologia existir |
+| 3 | Cobertura da ontologia | categoria demais em "outro"/dúvida é ontologia incompleta |
+| 4 | Autoconcordância humana | codebook vago não sobrevive nem a você mesmo lendo duas vezes |
+| **5** | **Concordância modelo × humano** | **é o portão principal do sistema — abaixo dele o perfil é ruído com aparência de dado** |
+| 5C | Taxa de suavização da fusão | suavizar demais indica ontologia confusa, não ruído |
+| 6 | Schema válido + reconhecimento do dono | perfil malformado ou canal irreconhecível não deveria virar arquivo congelado |
+| 8 | Critérios do verificador | fora do escopo desta issue — Issue #13 já reabriu esse portão antes de virar dado |
 
 ---
 
@@ -753,8 +772,8 @@ em outros documentos foram aplicadas no mesmo commit:
 
 ## Próximo passo
 
-Fases 0, 1 e 2 concluídas. A Fase 1 rodou contra os dois canais (`_docs/decisions.md#3`, `#4`, `#9`) e a Fase 2 fechou o portão inteiro contra `@MackExplains7`: critérios 1 e 2 por julgamento humano na Issue #10 (5 de 50 e 0 de 50, depois da correção de sentenciação da Issue #9), critérios 3a/3b/3c/3d automáticos em `corpus/mackexplains7/fase2_gate.json` (30 vídeos, 3.103 janelas, `passed: true`).
+Fases 0, 1, 2 e 3 concluídas. A Fase 1 rodou contra os dois canais (`_docs/decisions.md#3`, `#4`, `#9`); a Fase 2 fechou o portão inteiro contra `@MackExplains7` (critérios 1/2 por julgamento humano na Issue #10, 5 de 50 e 0 de 50, depois da correção de sentenciação da Issue #9; critérios 3a/3b/3c/3d automáticos em `corpus/mackexplains7/fase2_gate.json`, 30 vídeos, 3.103 janelas, `passed: true`); e a Fase 3 fechou o portão de cobertura sobre o mesmo canal (Issue #11, `main@4c3e165`; `corpus/mackexplains7/fase3_gate.json`, 205 janelas, 0 em "outro"/dúvida contra o teto de 20).
 
-**Próxima onda:** a Fase 3 (Issue #11) — `schema/ontologia.v1.json` + `schema/codebook.md`. Issue única, sem paralelismo: os dois arquivos estão na lista de conflito de `_docs/process.md`. As quatro lacunas de grooming já estão fechadas em `_docs/decisions.md#16` — canal do teste de transferência (`@Zenn0009`), receita determinística das ~20 janelas, par de vídeos do teste de cobertura (`lkLwp9o7Djk` + `5unhHRFkC7I`, 205 janelas, teto de 20 em "outro"/dúvida) e formato de citação do codebook (citação literal + `window_id`).
+**Próxima onda:** a Fase 4 — Gold standard. Nenhuma issue existe ainda para ela.
 
-**Fora da onda, sem bloquear a Fase 3:** Issue #6 (Fase 8 — métricas de perfil por taxa/minuto) e Issue #5 (dívida de dev-infra). A #5 toca `_docs/decisions.md` e `_docs/process.md`, ambos na lista de conflito, então não entra na mesma onda que a #11.
+**Fora da onda, sem bloquear a Fase 4:** Issue #6 (Fase 8 — métricas de perfil por taxa/minuto) e Issue #5 (dívida de dev-infra). A #5 toca `_docs/decisions.md` e `_docs/process.md`, ambos na lista de conflito.
