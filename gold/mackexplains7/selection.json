@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-09-05T22:04:18.674436+00:00",
+  "seed": 42,
+  "cta_candidates_found": [
+    "0neQIzWDXaM",
+    "7xgt_LQxedc",
+    "MMycNJ05f8M",
+    "Qgz_k2JQ3UY",
+    "Y_-aMBlHWgE",
+    "kLYsABip8tI",
+    "pPm3vHUQCpo",
+    "yKqe_ey3QOs"
+  ],
+  "gold_video_ids": [
+    {
+      "video_id": "7xgt_LQxedc",
+      "duracao_s": 1400
+    },
+    {
+      "video_id": "0neQIzWDXaM",
+      "duracao_s": 1395
+    },
+    {
+      "video_id": "rk7qIWcLJ40",
+      "duracao_s": 1281
+    },
+    {
+      "video_id": "Leol0DxxGe4",
+      "duracao_s": 1196
+    },
+    {
+      "video_id": "C27Dd23jZzA",
+      "duracao_s": 1314
+    }
+  ],
+  "reannotation_video_id": "7xgt_LQxedc"
+}
