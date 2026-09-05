@@ -382,6 +382,39 @@ not yet wired into any module, costs nothing; adopting it now and
 un-adopting it later costs a rewrite. `nltk` (Apache-2.0) replaces it as
 the concordance library for every field, `density` included.
 
+**Runtime confirmed, not assumed: the code path this project actually
+calls (`AnnotationTask(data, distance=...).alpha()`) never touches
+`nltk`'s corpus-download machinery.** Checked directly against
+`nltk/nltk` (branch `develop`, GitHub, read for this revision) at three
+levels. First, `nltk/metrics/agreement.py` and its eight sibling
+modules imported by `nltk/metrics/__init__.py` (`aline`, `association`,
+`confusionmatrix`, `distance`, `paice`, `scores`, `segmentation`,
+`spearman`) were grepped in full for `nltk.data`, `nltk.download`,
+`LazyLoader`, `LazyCorpusLoader`, `.find(`, and `import nltk.corpus`/
+`from nltk.corpus` - zero occurrences across all nine files. Second,
+`import nltk` (an unavoidable side effect of `from
+nltk.metrics.agreement import AnnotationTask`, since Python always runs
+a package's `__init__.py` on import) does pull in many submodules at
+top level in `nltk/__init__.py` (`nltk.chunk`, `nltk.classify`,
+`nltk.metrics`, `nltk.tag`, `nltk.tokenize`, `nltk.translate`, and
+others, ~215 lines total) - this is real and not free, but it is not
+the same thing as "downloads a corpus." Third, and this is what makes
+the two different: `nltk/__init__.py` line 175 assigns
+`corpus = lazyimport.LazyModule("corpus", locals(), globals())` -
+`nltk.corpus` itself is not eagerly imported, and the corpus objects it
+eventually exposes are instances of `LazyCorpusLoader`
+(`nltk/corpus/util.py`). `LazyCorpusLoader.__getattr__` (the only place
+`self.__load()` - the method that calls `nltk.data.find(...)` and would
+raise the "install this corpus" error - is invoked) explicitly skips
+dunder attribute lookups and fires only on a real, named attribute
+access such as `.words()`; nothing in the `AnnotationTask`/`alpha()`
+call path this project uses ever accesses a `LazyCorpusLoader` attribute
+at all, so no lazy loader is ever triggered by it, at import time or at
+call time. **Decision-relevant conclusion: `import nltk` is not free,
+but "not free" is not "downloads a corpus" - nothing on the path this
+project's `density`/`evidence_type` α computation actually calls goes
+near `nltk.download()` or a corpus lookup.**
+
 **`nltk.metrics.agreement.AnnotationTask` accepts an arbitrary distance
 function, but that function is a pure two-argument callable - it is
 never given access to the dataset's frequency table, so the ordinal
@@ -460,6 +493,30 @@ the interval figure (a much simpler, stateless `(c−k)²`) is included as
 a second, independent check that the harness wiring itself - feeding a
 custom `distance` into `AnnotationTask` and reading `alpha()` back out -
 is correct, isolating closure-specific bugs from wiring-specific ones.
+
+**The same matrix and the same three values appear, verbatim, as a
+doctest inside the rejected package's own source file - which fixes
+where the citation above has to point, and where it can never point.**
+Checked directly for this revision, not assumed: `krippendorff/krippendorff.py`,
+inside `pln-fing-udelar/fast-krippendorff` (branch `master` on GitHub,
+read at lines ~330-349 in the commit checked for this revision - line
+numbers shift between commits, the content does not), carries the same
+4-coder × 12-unit matrix as a doctest in `alpha()`'s own docstring, with
+`round(alpha(reliability_data, level_of_measurement="ordinal"), 3)` →
+`0.815`, `level_of_measurement="ratio"` → `0.797`, and
+`level_of_measurement="nominal"` → `0.743` - the same three numbers the
+test requirement above must reproduce. The rejected package did not
+invent this example: it reproduced the same published example this
+alínea already cites. That is exactly the trap the follow-up issue's
+test author must not fall into: if the test's hard-coded matrix/values
+are ever copied out of a locally `pip install`ed `krippendorff` package
+(even as a "just borrowing the numbers" shortcut, never importing the
+library itself), the test's hard-coded data becomes traceable to the
+rejected GPL-3.0 source file, not to the article - reopening, over
+text/data rather than code, the exact same kind of workaround this
+project has already refused once. **The test's data and its citation
+must always trace to Krippendorff (2011) directly (URL already given
+above), never to `krippendorff.py`.**
 
 **Confirmed directly in the same source file, not assumed:
 `AnnotationTask.alpha()` already excludes any unit with fewer than two
