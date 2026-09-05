@@ -2026,9 +2026,9 @@ decision untouched and still in force in `src/coleta.py` today.
   changed without saying what, which is indistinguishable from not having
   checked, and defeats the reason this index exists.
 
-**Correction, in place** (same posture as item #16's median/mean and
-`read_manifesto` fixes - the convention is unchanged, the worked example
-was incomplete). The `Status` line above for `#19` named two fragments
+**Correction, in place** (same posture as item #11's median/mean fix and
+item #16's `read_manifesto` fix - the convention is unchanged, the worked
+example was incomplete). The `Status` line above for `#19` named two fragments
 `#20` replaces and missed a third, equally real one: `#20` also replaced
 the boundary-window **rate and confirmed-window list** itself, not just
 the pivot rule's wording and one window's classification. `#20`'s own
