@@ -8,8 +8,8 @@ e o que a CI roda para garantir que este arquivo nunca fica desatualizado
 comparado ao dado real.
 
 <!-- METADATA_START -->
-- commit: `365f854b41f25b993f9bc0c12d7743df421fd960`
-- gerado em: 2026-09-05T18:27:09.512984+00:00
+- commit: `f7c650cf78ecc837e7a9a7025a8b85bf9643851a`
+- gerado em: 2026-09-05T21:19:09.632969+00:00
 <!-- METADATA_END -->
 
 ## Portoes
@@ -39,8 +39,8 @@ aqui, edite la e regenere.
 | 2 | `fase2-sentence-cut-midclause` (mackexplains7) | sentences cut mid-clause, in the same fixed-seed 50-window human-judged sample | == 0/50 windows | tolerance | per_channel | registrado em _docs/decisions.md#17 |
 | 2 | `fase2-sentence-cut-midclause` (zenn0009) | sentences cut mid-clause, in the same fixed-seed 50-window human-judged sample | == 0/50 windows | tolerance | per_channel | nao aplicavel (papel do canal: fixture_channel; portao exige: ['profile_channel']) |
 | 3 | `fase3-outro-duvida-coverage` | windows classified 'outro' or genuine doubt, across the 205-window coverage sample (2 hand-classified videos, lkLwp9o7Djk + 5unhHRFkC7I) | <= 20/205 windows | tolerance | global | passou (0/205) |
-| 4 | `fase4-self-agreement-alpha` (mackexplains7) | Krippendorff's alpha, human x human, by field, on the 1 gold video reannotated after 48h against the original annotation of the same video | >= 0.8 krippendorff_alpha | tolerance | per_channel | declarado, nao medido |
-| 4 | `fase4-self-agreement-alpha` (zenn0009) | Krippendorff's alpha, human x human, by field, on the 1 gold video reannotated after 48h against the original annotation of the same video | >= 0.8 krippendorff_alpha | tolerance | per_channel | nao aplicavel (papel do canal: fixture_channel; portao exige: ['profile_channel']) |
+| 4 | `fase4-self-agreement-alpha` (mackexplains7) | Krippendorff's alpha, human x human, at window level, on the same gold video reannotated after 48h against its original annotation; binary pass/fail over function, loop, density, and scale against the threshold below; evidence_type is computed and reported separately over its own eligible/applicable population and never folds into that boolean | >= 0.8 krippendorff_alpha | tolerance | per_channel | declarado, nao medido |
+| 4 | `fase4-self-agreement-alpha` (zenn0009) | Krippendorff's alpha, human x human, at window level, on the same gold video reannotated after 48h against its original annotation; binary pass/fail over function, loop, density, and scale against the threshold below; evidence_type is computed and reported separately over its own eligible/applicable population and never folds into that boolean | >= 0.8 krippendorff_alpha | tolerance | per_channel | nao aplicavel (papel do canal: fixture_channel; portao exige: ['profile_channel']) |
 | 5 | `fase5-model-human-agreement-alpha` (mackexplains7) | Krippendorff's alpha, model x human, by field, at window level, over the 5 gold videos | >= 0.667 krippendorff_alpha | tolerance | per_channel | declarado, nao medido |
 | 5 | `fase5-model-human-agreement-alpha` (zenn0009) | Krippendorff's alpha, model x human, by field, at window level, over the 5 gold videos | >= 0.667 krippendorff_alpha | tolerance | per_channel | nao aplicavel (papel do canal: fixture_channel; portao exige: ['profile_channel']) |
 | 5 | `fase5c-smoothing-rate` (mackexplains7) | fraction of length-1 window sequences absorbed by smoothing during block fusion (M6), across the channel's blocks | <= 0.15 ratio | tolerance | per_channel | declarado, nao medido |
@@ -53,10 +53,10 @@ aqui, edite la e regenere.
 
 ## Fases abertas (por label `fase-N`)
 
-Instantaneo do GitHub em 2026-09-05T18:27:09.512984+00:00 - uma issue pode abrir ou fechar sem gerar nenhum commit aqui; para o estado real, rode `gh issue list --repo Lcjlle/roteiros-engine --label fase-N`.
+Instantaneo do GitHub em 2026-09-05T21:19:09.632969+00:00 - uma issue pode abrir ou fechar sem gerar nenhum commit aqui; para o estado real, rode `gh issue list --repo Lcjlle/roteiros-engine --label fase-N`.
 
 <!-- OPEN_ISSUES_START -->
-- **fase-4**: #22 Fase 4: Krippendorff's alpha por campo e portão fase4-self-agreement-alpha; #21 Fase 4: fusão e validação dos worksheets preenchidos em gold canônico; #20 Fase 4: exportação dos worksheets de anotação (round 1 e round 2); #19 Fase 4: função compartilhada de bundle de contexto (src/context_budget.py); #18 Fase 4: seleção do gold (sorteio seed 42 + scan heurístico de cta)
+- **fase-4**: #23 Fase 4: medir fase4-self-agreement-alpha com dados humanos reais e fechar a fase; #22 Fase 4: Krippendorff's alpha por campo e portão fase4-self-agreement-alpha; #21 Fase 4: fusão e validação dos worksheets preenchidos em gold canônico; #20 Fase 4: exportação dos worksheets de anotação (round 1 e round 2); #19 Fase 4: função compartilhada de bundle de contexto (src/context_budget.py); #18 Fase 4: seleção do gold (sorteio seed 42 + scan heurístico de cta)
 - **fase-5**: #12 Fase 5: cta com 0 ocorrências em 205 janelas indo para um portão de α por campo
 - **fase-8**: #13 Fase 8: portão único (≥ 90% dos critérios) mistura calibração anticircular (uma vez) com relatório por roteiro gerado (por canal e por vídeo); #6 Fase 8: métricas de perfil por-vídeo (blocks_per_video, opened_per_video) devem virar taxa por minuto
 <!-- OPEN_ISSUES_END -->

@@ -164,7 +164,7 @@
     {
       "id": "fase4-self-agreement-alpha",
       "phase": 4,
-      "metric": "Krippendorff's alpha, human x human, by field, on the 1 gold video reannotated after 48h against the original annotation of the same video",
+      "metric": "Krippendorff's alpha, human x human, at window level, on the same gold video reannotated after 48h against its original annotation; binary pass/fail over function, loop, density, and scale against the threshold below; evidence_type is computed and reported separately over its own eligible/applicable population and never folds into that boolean",
       "threshold": {"kind": "bound", "op": ">=", "value": 0.8, "unit": "krippendorff_alpha"},
       "type": "tolerance",
       "blocking": true,
@@ -173,8 +173,8 @@
       "applies_to_roles": ["profile_channel"],
       "artifact": "gold/{channel}/fase4_gate.json",
       "artifact_pointer": null,
-      "decision_ref": ["_docs/plano_implementacao.md:465"],
-      "note": "Fase 4 ainda nao rodou para nenhum canal - declarado, nao medido. Caminho do artefato segue a convencao faseN_gate.json ja usada nas Fases 2/3; ainda nao e uma decisao tomada, so o padrao mais proximo disponivel."
+      "decision_ref": ["_docs/plano_implementacao.md:465", "_docs/decisions.md#28", "_docs/decisions.md#29"],
+      "note": "Fase 4 ainda nao rodou para nenhum canal - declarado, nao medido. `passed` exige que os quatro campos ontologicos obrigatorios (`function`, `loop`, `density`, `scale`) atinjam o threshold configurado por campo; `evidence_type` e calculado e reportado quando aplicavel, mas e excluido do pass/fail. O artefato usa a convencao faseN_gate.json ja usada nas Fases 2/3."
     },
     {
       "id": "fase5-model-human-agreement-alpha",
@@ -188,8 +188,8 @@
       "applies_to_roles": ["profile_channel"],
       "artifact": "corpus/{channel}/fase5_gate.json",
       "artifact_pointer": null,
-      "decision_ref": ["_docs/plano_implementacao.md:502"],
-      "note": "Fase 5 ainda nao rodou para nenhum canal - declarado, nao medido. O requisito de persistencia do orcamento de contexto que #20 adiciona pertence ao registro do run que este portao le, nao a este arquivo. Caminho do artefato e convencao provisoria, nao decisao tomada."
+      "decision_ref": ["_docs/plano_implementacao.md:502", "_docs/decisions.md#28"],
+      "note": "Fase 5 ainda nao rodou para nenhum canal - declarado, nao medido. A Decisao #28 e a autoridade para a simetria Fase 4↔Fase 5 do bundle/orcamento de contexto; a referencia antes ambigua a #20 e substituida por `_docs/decisions.md#20`. Caminho do artefato e convencao provisoria, nao decisao tomada."
     },
     {
       "id": "fase5c-smoothing-rate",

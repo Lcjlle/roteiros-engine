@@ -2956,10 +2956,13 @@ ordinal-distance closure, not the `krippendorff` PyPI package this
 entry's prior revision adopted.** **Correction, in place**: this entry's
 own title/index line previously read as if `AnnotationTask` supplied the
 ordinal metric itself ("adopts `nltk.metrics.agreement.AnnotationTask`'s
-ordinal metric") - false, and contradicted by this very paragraph: the
-ordinal distance is this project's own closure, merely consumed by
-`AnnotationTask` via its `distance=` parameter. Title corrected to match
-the paragraph below; no fact this paragraph asserts changed.
+ordinal metric") - false; the ordinal distance is this project's own
+closure, merely consumed by `AnnotationTask` via its `distance=`
+parameter. A second factual correction: the prior description counted all
+valid `density` ratings in the closure's marginals. It now counts exactly
+the ratings belonging to units with at least two valid ratings, the same
+eligibility population used by `AnnotationTask.alpha()` for observed and
+expected discordance. No architecture or metric changes.
 `schema/codebook.md`'s own normative
 definitions (lines 642-686) make this a censored count, not an
 equal-interval scale: `0` = no new concept, `1` = exactly one new
@@ -3048,14 +3051,17 @@ marginals independently - one pass over the same dataset, before
 δ²(c, k) = ( Σ_{g=c}^{k} n_g − (n_c + n_k) / 2 )²        for c ≤ k
 ```
 
-where `n_g` is the observed marginal frequency of category `g` (a count
-over every valid `density` value in the dataset being measured, not
-per-item), and the sum runs over every integer category from `c` to `k`
-inclusive. **This closure is a required implementation detail, not an
-option**: `density_ordinal_distance = build_ordinal_distance
-(all_density_values)` must run once against a `FreqDist` over the
-dataset's own observed `density` labels (the full label set actually
-seen, both round-1/round-2 or model/human sides being compared) *before*
+where `n_g` is the observed marginal frequency of category `g`: a count
+over every valid `density` rating belonging exactly to a unit with at
+least two valid ratings in the dataset being measured, not per-item.
+That is the same eligibility filter `AnnotationTask.alpha()` uses for
+its observed and expected discordance, so the closure, observed
+discordance, and expected discordance share one population. **This
+closure is a required implementation detail, not an option**:
+`density_ordinal_distance = build_ordinal_distance(all_density_values)`
+must run once against a `FreqDist` over those eligible ratings from the
+dataset's own observed `density` labels (both round-1/round-2 or
+model/human sides being compared) *before*
 `AnnotationTask(data, distance=density_ordinal_distance)` is
 constructed - never a bare `lambda c, k: abs(c - k)` or
 `lambda c, k: (c - k) ** 2`. Both of those are interval distances
@@ -3090,7 +3096,7 @@ Coder D: 1 2 3 3 2 4 4 1 2 5 1 .
 ```
 
 The paper's own published results for this exact matrix: **α_nominal =
-0.743** (Section C), **α_ordinal = 0.815**, **α_interval = 0.849** (both
+0.743** (Section C), **α_ordinal ≈ 0.815**, **α_interval = 0.849** (both
 Section D; the paper also gives α_ratio = 0.797, not required here).
 **Reproducing only the nominal figure does not validate anything about
 this alínea's decision**: the nominal metric is the library default
@@ -3447,31 +3453,44 @@ gold sample is not settled.
 `fase4-self-agreement-alpha`'s binary `passed`; only the four `required:
 true` fields do.**
 
-`_docs/plano_implementacao.md:465` states the gate as "α ≥ 0,8, por
-campo" without naming an exception, and `evidence_type` is one of the
-five fields `schema/ontologia.v1.json` defines. `#28(e)` already
-establishes that `evidence_type`'s α is computed over a fundamentally
-different, occurrence-conditioned population ("not comparable to the
-other four fields' α figures") and must be "read against its own... N" -
-but does not itself say `evidence_type` is excluded from the gate's own
-pass/fail, which is a distinct question from how its α is computed. New
-decision: `fase4-self-agreement-alpha`'s `passed` is `True` iff
+`_docs/plano_implementacao.md:465` states the gate by field without
+naming an exception, and `evidence_type` is one of the five fields
+`schema/ontologia.v1.json` defines. `#28(e)` already establishes that
+`evidence_type`'s α is computed over a fundamentally different,
+occurrence-conditioned population ("not comparable to the other four
+fields' α figures") and must be read against its own N - but does not
+itself say `evidence_type` is excluded from the gate's own pass/fail,
+which is a distinct question from how its α is computed.
+
+**Correction, in place**: the prior text repeated a numeric threshold,
+including while quoting the plan. The source-owned configured per-field
+threshold in `schema/portoes.json` applies instead; this is the
+source-of-truth correction, not a threshold change.
+
+Decision: `fase4-self-agreement-alpha`'s `passed` is `True` iff
 `function`, `loop`, `scale`, and `density` (the four `required: true`
-fields) each have α ≥ 0.8; `evidence_type`'s α is computed and persisted
-in the same `gold/{channel}/fase4_gate.json` artifact but never folds
-into that boolean. Reasoning: `evidence_type`'s `required: false`/
-`condition` status in the ontology itself already marks it as
-structurally different from the other four - `AnnotationTask.alpha()`
-can return `None` for it whenever fewer than 2 windows in the compared
-sample have `function == 'evidence'` on both sides (a real possibility at
-5-video gold scale, independent of `cta`'s occurrence gap), and treating
-a `None`/undersampled `evidence_type` α identically to a real failure on
-a `required: true` field would block Fase 5 over a field the gate was
-never in a position to measure meaningfully. This entry does not update
-`schema/portoes.json`'s `fase4-self-agreement-alpha` note - it still
-reads "Fase 4 ainda não rodou para nenhum canal - declarado, não medido"
-- wiring the artifact for real and pointing the note here is F4-e's own
-deliverable, per `#28`'s own follow-up paragraph.
+fields) each meet that configured per-field threshold; `evidence_type`'s
+α is computed and persisted in the same
+`gold/{channel}/fase4_gate.json` artifact but never folds into that
+boolean. Reasoning: `evidence_type`'s `required: false`/`condition`
+status in the ontology itself already marks it as structurally different
+from the other four - `compute_field_alpha()` (`#22`'s own contract)
+returns `None` for it whenever its eligible population - the windows in
+the single reannotated gold video where both annotators code
+`function == 'evidence'` - has zero eligible units, and also returns
+`None` when at least one eligible unit exists but that eligible marginal
+collapses to a single category; it calls `AnnotationTask.alpha()`
+normally as soon as there is at least one eligible unit and the eligible
+population contains at least two distinct categories, with no two-unit
+minimum imposed anywhere. Treating a non-identifiable `evidence_type` α
+(a degenerate eligible population) identically to a real failure on a
+`required: true` field would block Fase 5 over a field the gate was
+never in a position to measure meaningfully. `schema/portoes.json` is
+aligned in the same grooming-correction round to encode this gate
+definition and reference `#28`/`#29`; Issue `#22` consumes that
+source-owned definition and does not modify it. Its note continues to
+read "Fase 4 ainda não rodou para nenhum canal - declarado, não medido"
+until real human data exists (`#23`).
 
 **What this does not reopen.** `#28`'s bundle mechanism, the three-window
 budget, the ordinal-distance formula for `density`, the
