@@ -57,8 +57,10 @@ jobs:
       TEST_COUNTS: |
         test_amostragem.py 6
         test_coleta.py 44
+        test_context_budget.py 20
         test_db_isolation.py 2
         test_estado.py 44
+        test_gold.py 12
         test_janelas.py 27
         test_pin_worktree_database.py 3
         test_schema_loader.py 9
