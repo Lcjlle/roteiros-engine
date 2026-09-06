@@ -11,3 +11,23 @@ __pycache__/
 *.mp4
 *.wav
 *.m4a
+
+# Symlinks locais para skills globais de ~/git/.agents (caminho absoluto,
+# especifico da maquina; nao versionar - ver .claude/skills/)
+.claude/skills/cleanup
+.claude/skills/create-github-repo
+.claude/skills/diagram-creator
+.claude/skills/external-model-agents
+.claude/skills/fetch-google-recorder
+.claude/skills/fetch-loom
+.claude/skills/fetch-youtube
+.claude/skills/fetch-zoom
+.claude/skills/init-library
+.claude/skills/jina-reader
+.claude/skills/memory-wiki
+.claude/skills/openai-transcribe
+.claude/skills/prose-write
+.claude/skills/regular-ping
+.claude/skills/release
+.claude/skills/setup-pypi-ci
+.claude/skills/stylint
