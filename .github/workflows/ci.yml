@@ -65,6 +65,7 @@ jobs:
         test_pin_worktree_database.py 3
         test_schema_loader.py 9
         test_sentencia.py 47
+        test_valida.py 19
     steps:
       - uses: actions/checkout@v7
 
