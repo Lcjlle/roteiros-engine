@@ -444,7 +444,6 @@ def _load_real_windows(video_id):
 class TestRealRoundArtifacts:
     def test_round1_worksheets_match_the_real_windows_for_every_gold_video(self):
         selection = json.loads(gold.SELECTION_PATH.read_text(encoding="utf-8"))
-        ontology = load_ontology()
         expected_keys = _expected_worksheet_keys()
         round1_dir = Path("gold/mackexplains7/round1")
 
@@ -458,11 +457,31 @@ class TestRealRoundArtifacts:
             for line in lines:
                 record = json.loads(line)
                 assert set(record.keys()) == expected_keys
-                assert all(record[f["name"]] is None for f in ontology["fields"])
 
             index = json.loads((round1_dir / f"{video_id}.index.json").read_text(encoding="utf-8"))
             assert len(index) == len(windows)
             assert set(index.values()) == {w["window_id"] for w in windows}
+
+    def test_freshly_exported_round1_worksheet_has_null_annotation_fields(self, tmp_path):
+        # A garantia original da #20 ("export_round sempre produz campos
+        # ontologicos null, prontos pra anotacao") nao pode mais ser
+        # verificada lendo os 5 worksheets reais de round1 - o commit
+        # humano `gold: add round1 human annotations` ja preencheu esses
+        # arquivos com valores reais. Reproduz aqui a mesma garantia
+        # exportando de novo, isoladamente, para `tmp_path`, a partir das
+        # janelas reais de um video gold.
+        selection = json.loads(gold.SELECTION_PATH.read_text(encoding="utf-8"))
+        video_id = selection["gold_video_ids"][0]["video_id"]
+        windows = _load_real_windows(video_id)
+        ontology_field_names = [f["name"] for f in load_ontology()["fields"]]
+
+        worksheet_path, _ = gold.export_round(video_id, "round1", {video_id: windows}, tmp_path)
+
+        lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+        assert len(lines) == len(windows)
+        for line in lines:
+            record = json.loads(line)
+            assert all(record[name] is None for name in ontology_field_names)
 
     def test_round2_worksheet_matches_the_real_windows_for_the_reannotation_video(self):
         selection = json.loads(gold.SELECTION_PATH.read_text(encoding="utf-8"))
