@@ -23,8 +23,10 @@ import random
 from datetime import UTC, datetime
 from pathlib import Path
 
+from pydantic import ValidationError
+
 from src.context_budget import build_bundle
-from src.schema_loader import load_ontology
+from src.schema_loader import WindowAnnotation, load_ontology
 
 CORPUS_DIR = Path("corpus/mackexplains7")
 MANIFEST_PATH = CORPUS_DIR / "manifesto.csv"
@@ -189,6 +191,136 @@ def export_round(
     index_path.write_text(json.dumps(index, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     return worksheet_path, index_path
+
+
+# --------------------------------------------------------------------------
+# 6. Fusao e validacao do gold canonico (Issue #21)
+# --------------------------------------------------------------------------
+
+
+class GoldValidationError(ValueError):
+    """Erro de fusao/validacao de uma rodada de gold: a mensagem sempre
+    nomeia o `window_id` e o campo problematico (ou o `display_id`/
+    `video_id` responsavel por um descasamento worksheet/indice) - nunca
+    um `except` generico nem um skip silencioso da janela."""
+
+
+def merge_round(round: str, video_ids: list[str], worksheet_dir: Path) -> list[dict]:
+    """Le o `<video_id>.worksheet.jsonl` + `<video_id>.index.json` de cada
+    video de `video_ids` dentro de `worksheet_dir` (o mesmo diretorio que
+    `export_round` escreveu para essa rodada), reata `window_id` via
+    `display_id`, valida cada janela contra `schema_loader.WindowAnnotation`
+    e retorna a lista achatada de registros canonicos
+    `{window_id, video_id, function, loop, evidence_type, scale, density}`,
+    na ordem dos `video_ids` e, dentro de cada video, na ordem original das
+    janelas do worksheet.
+
+    `WindowAnnotation` valida tipo/obrigatoriedade de cada campo, mas -
+    por design, ver docstring de `schema_loader` - nao valida a regra de
+    negocio da chave `"condition"` do JSON de ontologia: `evidence_type`
+    so faz sentido quando `function == 'evidence'`. Essa checagem e feita
+    aqui, explicitamente, antes de instanciar `WindowAnnotation`.
+
+    `round` nao aparece nos registros retornados - o contrato do artefato
+    e `round{1,2}.gold.json` por caminho, nao por campo - o parametro so
+    existe para o chamador identificar a rodada sendo fundida.
+
+    Cada falha de validacao ou descasamento `display_id`/`window_id`
+    levanta `GoldValidationError` nomeando o `window_id` (ou o
+    `display_id`/`video_id`) e o campo responsavel - nunca um skip
+    silencioso da janela, nunca um `except Exception` generico.
+    """
+    ontology_field_names = [field["name"] for field in load_ontology()["fields"]]
+    records: list[dict] = []
+
+    for video_id in video_ids:
+        worksheet_path = worksheet_dir / f"{video_id}.worksheet.jsonl"
+        index_path = worksheet_dir / f"{video_id}.index.json"
+
+        worksheet_lines = [
+            json.loads(line)
+            for line in worksheet_path.read_text(encoding="utf-8").splitlines()
+            if line
+        ]
+        index: dict[str, str] = json.loads(index_path.read_text(encoding="utf-8"))
+
+        worksheet_display_ids = {line["display_id"] for line in worksheet_lines}
+        index_display_ids = set(index.keys())
+
+        missing_from_index = sorted(worksheet_display_ids - index_display_ids)
+        if missing_from_index:
+            raise GoldValidationError(
+                f"video {video_id!r}: display_id(s) {missing_from_index} presente(s) no "
+                f"worksheet mas ausente(s) do indice"
+            )
+        missing_from_worksheet = sorted(index_display_ids - worksheet_display_ids)
+        if missing_from_worksheet:
+            raise GoldValidationError(
+                f"video {video_id!r}: display_id(s) {missing_from_worksheet} presente(s) no "
+                f"indice mas ausente(s) do worksheet"
+            )
+
+        for line in worksheet_lines:
+            window_id = index[line["display_id"]]
+            fields = {name: line[name] for name in ontology_field_names}
+
+            function_value = fields.get("function")
+            evidence_type_value = fields.get("evidence_type")
+            if evidence_type_value is not None and function_value != "evidence":
+                raise GoldValidationError(
+                    f"window {window_id!r}: campo 'evidence_type'={evidence_type_value!r} "
+                    f"presente mas function={function_value!r} != 'evidence'"
+                )
+            if function_value == "evidence" and evidence_type_value is None:
+                raise GoldValidationError(
+                    f"window {window_id!r}: campo 'evidence_type' e obrigatorio quando "
+                    f"function == 'evidence'"
+                )
+
+            try:
+                annotation = WindowAnnotation(**fields)
+            except ValidationError as exc:
+                bad_fields = ", ".join(sorted({str(err["loc"][0]) for err in exc.errors()}))
+                raise GoldValidationError(
+                    f"window {window_id!r}: campo(s) invalido(s) {bad_fields}: {exc}"
+                ) from exc
+
+            records.append(
+                {
+                    "window_id": window_id,
+                    "video_id": video_id,
+                    "function": annotation.function.value,
+                    "loop": annotation.loop.value,
+                    "evidence_type": (
+                        annotation.evidence_type.value
+                        if annotation.evidence_type is not None
+                        else None
+                    ),
+                    "scale": annotation.scale.value,
+                    "density": annotation.density,
+                }
+            )
+
+    return records
+
+
+def write_gold_artifact(round: str, records: list[dict], out_path: Path) -> Path:
+    """Persiste o gold canonico de uma rodada em `out_path` -
+    `gold/mackexplains7/round{1,2}.gold.json` no contrato real, um
+    caminho de teste sintetico em `tmp_path` nos testes -
+    `{generated_at, ontology_version, records}`, com `ontology_version`
+    sempre lido de `schema_loader.load_ontology()["version"]`, nunca
+    hardcoded. `round` identifica a rodada para o chamador; e o proprio
+    `out_path` quem determina o nome do arquivo, criando os diretorios
+    pais como `export_round`/`write_selection_artifact` ja fazem."""
+    payload = {
+        "generated_at": datetime.now(UTC).isoformat(),
+        "ontology_version": load_ontology()["version"],
+        "records": records,
+    }
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return out_path
 
 
 def main() -> None:

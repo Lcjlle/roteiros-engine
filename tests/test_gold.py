@@ -6,7 +6,10 @@ from __future__ import annotations
 import json
 import random
 import shutil
+from datetime import datetime
 from pathlib import Path
+
+import pytest
 
 from src import gold
 from src.schema_loader import load_ontology
@@ -474,3 +477,303 @@ class TestRealRoundArtifacts:
         index = json.loads((round2_dir / f"{video_id}.index.json").read_text(encoding="utf-8"))
         assert len(index) == len(windows)
         assert set(index.values()) == {w["window_id"] for w in windows}
+
+
+# --------------------------------------------------------------------------
+# merge_round / write_gold_artifact - fusao e validacao do gold canonico
+# (Issue #21)
+# --------------------------------------------------------------------------
+
+
+def _fill_worksheet(worksheet_path, updates):
+    """Sobrescreve, na ordem original das linhas, os campos de anotacao de
+    um worksheet exportado por `export_round` (que comeca com todo campo
+    ontologico `null`) - `updates` e uma lista de dicts, um por linha, com
+    apenas os campos a preencher."""
+    lines = worksheet_path.read_text(encoding="utf-8").splitlines()
+    records = [json.loads(line) for line in lines]
+    assert len(records) == len(updates)
+    for record, update in zip(records, updates, strict=True):
+        record.update(update)
+    worksheet_path.write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in records) + "\n", encoding="utf-8"
+    )
+
+
+def _valid_annotation(**overrides):
+    fields = {
+        "function": "hook",
+        "loop": "opens",
+        "evidence_type": None,
+        "scale": "individual",
+        "density": 0,
+    }
+    fields.update(overrides)
+    return fields
+
+
+class TestMergeRoundValidRound:
+    def test_merges_multiple_videos_into_flat_ordered_canonical_records(self, tmp_path):
+        windows_by_video = {
+            "V1": _make_windows("V1", ["janela um", "janela dois"]),
+            "V2": _make_windows("V2", ["outra janela"]),
+        }
+        worksheet_dir = tmp_path / "worksheets"
+        ws1, _ = gold.export_round("V1", "round1", windows_by_video, worksheet_dir)
+        ws2, _ = gold.export_round("V2", "round1", windows_by_video, worksheet_dir)
+
+        _fill_worksheet(
+            ws1,
+            [
+                _valid_annotation(function="hook", loop="opens", scale="individual", density=0),
+                _valid_annotation(
+                    function="evidence",
+                    loop="holds",
+                    evidence_type="statistic",
+                    scale="human",
+                    density=2,
+                ),
+            ],
+        )
+        _fill_worksheet(
+            ws2,
+            [_valid_annotation(function="cta", loop="closes", scale="planetary", density=1)],
+        )
+
+        round_dir = worksheet_dir / "round1"
+        records = gold.merge_round("round1", ["V1", "V2"], round_dir)
+
+        assert records == [
+            {
+                "window_id": "V1:j0000",
+                "video_id": "V1",
+                "function": "hook",
+                "loop": "opens",
+                "evidence_type": None,
+                "scale": "individual",
+                "density": 0,
+            },
+            {
+                "window_id": "V1:j0001",
+                "video_id": "V1",
+                "function": "evidence",
+                "loop": "holds",
+                "evidence_type": "statistic",
+                "scale": "human",
+                "density": 2,
+            },
+            {
+                "window_id": "V2:j0000",
+                "video_id": "V2",
+                "function": "cta",
+                "loop": "closes",
+                "evidence_type": None,
+                "scale": "planetary",
+                "density": 1,
+            },
+        ]
+        expected_keys = {
+            "window_id",
+            "video_id",
+            "function",
+            "loop",
+            "evidence_type",
+            "scale",
+            "density",
+        }
+        assert all(set(record.keys()) == expected_keys for record in records)
+
+
+# --------------------------------------------------------------------------
+# merge_round - regra de negocio "condition" de evidence_type, ausente do
+# schema_loader por design (ver seu docstring) - checada aqui explicitamente
+# --------------------------------------------------------------------------
+
+
+class TestMergeRoundEvidenceTypeCondition:
+    def test_evidence_type_set_with_non_evidence_function_raises(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["texto"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, _ = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(ws, [_valid_annotation(function="hook", evidence_type="study")])
+
+        with pytest.raises(gold.GoldValidationError) as exc_info:
+            gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+
+        message = str(exc_info.value)
+        assert "V:j0000" in message
+        assert "evidence_type" in message
+
+    def test_evidence_function_without_evidence_type_raises(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["texto"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, _ = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(ws, [_valid_annotation(function="evidence", evidence_type=None)])
+
+        with pytest.raises(gold.GoldValidationError) as exc_info:
+            gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+
+        message = str(exc_info.value)
+        assert "V:j0000" in message
+        assert "evidence_type" in message
+
+
+# --------------------------------------------------------------------------
+# merge_round - campo obrigatorio ausente, isolado por campo
+# --------------------------------------------------------------------------
+
+
+class TestMergeRoundMissingRequiredFields:
+    def test_missing_function_raises_naming_window_id_and_field(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["texto"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, _ = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(ws, [_valid_annotation(function=None)])
+
+        with pytest.raises(gold.GoldValidationError) as exc_info:
+            gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+
+        message = str(exc_info.value)
+        assert "V:j0000" in message
+        assert "function" in message
+
+    def test_missing_loop_raises_naming_window_id_and_field(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["texto"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, _ = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(ws, [_valid_annotation(loop=None)])
+
+        with pytest.raises(gold.GoldValidationError) as exc_info:
+            gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+
+        message = str(exc_info.value)
+        assert "V:j0000" in message
+        assert "loop" in message
+
+    def test_missing_scale_raises_naming_window_id_and_field(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["texto"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, _ = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(ws, [_valid_annotation(scale=None)])
+
+        with pytest.raises(gold.GoldValidationError) as exc_info:
+            gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+
+        message = str(exc_info.value)
+        assert "V:j0000" in message
+        assert "scale" in message
+
+    def test_missing_density_raises_naming_window_id_and_field(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["texto"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, _ = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(ws, [_valid_annotation(density=None)])
+
+        with pytest.raises(gold.GoldValidationError) as exc_info:
+            gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+
+        message = str(exc_info.value)
+        assert "V:j0000" in message
+        assert "density" in message
+
+
+# --------------------------------------------------------------------------
+# merge_round - descasamento display_id entre worksheet e indice
+# --------------------------------------------------------------------------
+
+
+class TestMergeRoundIndexWorksheetMismatch:
+    def test_display_id_in_worksheet_missing_from_index_raises_named_error(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["um", "dois"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, idx = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(ws, [_valid_annotation(), _valid_annotation()])
+
+        index = json.loads(idx.read_text(encoding="utf-8"))
+        removed_display_id = next(iter(sorted(index)))
+        del index[removed_display_id]
+        idx.write_text(json.dumps(index), encoding="utf-8")
+
+        with pytest.raises(gold.GoldValidationError) as exc_info:
+            gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+
+        message = str(exc_info.value)
+        assert removed_display_id in message
+        assert "V" in message
+
+    def test_display_id_in_index_missing_from_worksheet_raises_named_error(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["um"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, idx = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(ws, [_valid_annotation()])
+
+        index = json.loads(idx.read_text(encoding="utf-8"))
+        index["extra-display-id-not-in-worksheet"] = "V:jFFFF"
+        idx.write_text(json.dumps(index), encoding="utf-8")
+
+        with pytest.raises(gold.GoldValidationError) as exc_info:
+            gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+
+        message = str(exc_info.value)
+        assert "extra-display-id-not-in-worksheet" in message
+        assert "V" in message
+
+
+# --------------------------------------------------------------------------
+# write_gold_artifact
+# --------------------------------------------------------------------------
+
+
+class TestWriteGoldArtifact:
+    def test_writes_generated_at_ontology_version_and_records_with_exact_keys(self, tmp_path):
+        windows_by_video = {"V": _make_windows("V", ["um", "dois"])}
+        worksheet_dir = tmp_path / "worksheets"
+        ws, _ = gold.export_round("V", "round1", windows_by_video, worksheet_dir)
+        _fill_worksheet(
+            ws,
+            [
+                _valid_annotation(function="hook", loop="opens", scale="individual", density=0),
+                _valid_annotation(
+                    function="evidence",
+                    loop="holds",
+                    evidence_type="case",
+                    scale="human",
+                    density=1,
+                ),
+            ],
+        )
+        records = gold.merge_round("round1", ["V"], worksheet_dir / "round1")
+        out_path = tmp_path / "gold_artifact" / "round1.gold.json"
+
+        result_path = gold.write_gold_artifact("round1", records, out_path)
+
+        assert result_path == out_path
+        payload = json.loads(out_path.read_text(encoding="utf-8"))
+        datetime.fromisoformat(payload["generated_at"])
+        assert payload["ontology_version"] == load_ontology()["version"]
+        assert payload["records"] == records
+        expected_keys = {
+            "window_id",
+            "video_id",
+            "function",
+            "loop",
+            "evidence_type",
+            "scale",
+            "density",
+        }
+        for record in payload["records"]:
+            assert set(record.keys()) == expected_keys
+            assert record["window_id"]
+            assert "display_id" not in record
+            assert "context" not in record
+            assert "target" not in record
+
+    def test_creates_parent_directories(self, tmp_path):
+        out_path = tmp_path / "nested" / "dir" / "round2.gold.json"
+
+        result_path = gold.write_gold_artifact("round2", [], out_path)
+
+        assert result_path == out_path
+        assert out_path.exists()
+        payload = json.loads(out_path.read_text(encoding="utf-8"))
+        assert payload["records"] == []
