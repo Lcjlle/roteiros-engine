@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-09-06T05:16:48.661164+00:00",
+  "video_id": "7xgt_LQxedc",
+  "ontology_version": "v1",
+  "threshold": 0.8,
+  "alpha": {
+    "function": 0.5827521206409048,
+    "loop": 0.054424233640118835,
+    "scale": 0.2969069942881776,
+    "density": 0.08042360211199573,
+    "evidence_type": null
+  },
+  "occurrence_counts": {
+    "function": {
+      "hook": 23,
+      "promise": 20,
+      "context": 38,
+      "escalation": 18,
+      "mechanism": 136,
+      "evidence": 100,
+      "objection": 68,
+      "resolution": 24,
+      "implication": 92,
+      "cta": 5
+    },
+    "loop": {
+      "opens": 102,
+      "closes": 78,
+      "holds": 172,
+      "none": 172
+    },
+    "scale": {
+      "individual": 54,
+      "human": 291,
+      "planetary": 40,
+      "abstract": 139
+    },
+    "density": {
+      "0": 35,
+      "1": 76,
+      "2": 413
+    },
+    "evidence_type": {
+      "study": 9,
+      "statistic": 6,
+      "case": 67,
+      "analogy": 14,
+      "authority": 4
+    }
+  },
+  "passed": false,
+  "escalation": {
+    "failing_fields": [
+      "function",
+      "loop",
+      "scale",
+      "density"
+    ],
+    "next_step": [
+      "reescreva a definicao e o tie-breaker do campo no codebook e reanote (ate duas tentativas)",
+      "funda os dois valores que se confundem em um so",
+      "remova o campo da ontologia"
+    ]
+  }
+}

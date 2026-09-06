@@ -1,0 +1,1059 @@
+{
+  "generated_at": "2026-09-06T05:16:48.655211+00:00",
+  "ontology_version": "v1",
+  "records": [
+    {
+      "window_id": "7xgt_LQxedc:j0000",
+      "video_id": "7xgt_LQxedc",
+      "function": "hook",
+      "loop": "opens",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0001",
+      "video_id": "7xgt_LQxedc",
+      "function": "escalation",
+      "loop": "holds",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0002",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "holds",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0003",
+      "video_id": "7xgt_LQxedc",
+      "function": "hook",
+      "loop": "opens",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0004",
+      "video_id": "7xgt_LQxedc",
+      "function": "resolution",
+      "loop": "closes",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0005",
+      "video_id": "7xgt_LQxedc",
+      "function": "resolution",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0006",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0007",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0008",
+      "video_id": "7xgt_LQxedc",
+      "function": "context",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0009",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0010",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0011",
+      "video_id": "7xgt_LQxedc",
+      "function": "escalation",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0012",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0013",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0014",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0015",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0016",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0017",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0018",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0019",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0020",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0021",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0022",
+      "video_id": "7xgt_LQxedc",
+      "function": "context",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0023",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0024",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0025",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "opens",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0026",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "closes",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0027",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0028",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0029",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0030",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0031",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0032",
+      "video_id": "7xgt_LQxedc",
+      "function": "context",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0033",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0034",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0035",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0036",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0037",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0038",
+      "video_id": "7xgt_LQxedc",
+      "function": "escalation",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0039",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0040",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0041",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0042",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0043",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0044",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0045",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0046",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0047",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0048",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0049",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0050",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0051",
+      "video_id": "7xgt_LQxedc",
+      "function": "escalation",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0052",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0053",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0054",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0055",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0056",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0057",
+      "video_id": "7xgt_LQxedc",
+      "function": "context",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0058",
+      "video_id": "7xgt_LQxedc",
+      "function": "cta",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0059",
+      "video_id": "7xgt_LQxedc",
+      "function": "cta",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0060",
+      "video_id": "7xgt_LQxedc",
+      "function": "context",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0061",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0062",
+      "video_id": "7xgt_LQxedc",
+      "function": "evidence",
+      "loop": "none",
+      "evidence_type": "case",
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0063",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0064",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0065",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0066",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0067",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0068",
+      "video_id": "7xgt_LQxedc",
+      "function": "context",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0069",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "opens",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0070",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "holds",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0071",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "holds",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0072",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "holds",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0073",
+      "video_id": "7xgt_LQxedc",
+      "function": "evidence",
+      "loop": "holds",
+      "evidence_type": "case",
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0074",
+      "video_id": "7xgt_LQxedc",
+      "function": "resolution",
+      "loop": "closes",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0075",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "abstract",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0076",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0077",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0078",
+      "video_id": "7xgt_LQxedc",
+      "function": "context",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0079",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0080",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0081",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0082",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0083",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0084",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0085",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0086",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0087",
+      "video_id": "7xgt_LQxedc",
+      "function": "context",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0088",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0089",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0090",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0091",
+      "video_id": "7xgt_LQxedc",
+      "function": "escalation",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0092",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0093",
+      "video_id": "7xgt_LQxedc",
+      "function": "escalation",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0094",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0095",
+      "video_id": "7xgt_LQxedc",
+      "function": "evidence",
+      "loop": "none",
+      "evidence_type": "case",
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0096",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0097",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 2
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0098",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0099",
+      "video_id": "7xgt_LQxedc",
+      "function": "resolution",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0100",
+      "video_id": "7xgt_LQxedc",
+      "function": "resolution",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0101",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0102",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0103",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0104",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0105",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0106",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0107",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0108",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0109",
+      "video_id": "7xgt_LQxedc",
+      "function": "mechanism",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0110",
+      "video_id": "7xgt_LQxedc",
+      "function": "objection",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 1
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0111",
+      "video_id": "7xgt_LQxedc",
+      "function": "resolution",
+      "loop": "closes",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0112",
+      "video_id": "7xgt_LQxedc",
+      "function": "resolution",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0113",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0114",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0115",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    },
+    {
+      "window_id": "7xgt_LQxedc:j0116",
+      "video_id": "7xgt_LQxedc",
+      "function": "implication",
+      "loop": "none",
+      "evidence_type": null,
+      "scale": "human",
+      "density": 0
+    }
+  ]
+}
